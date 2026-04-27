@@ -143,8 +143,8 @@ describe('GrammarLevelTopicPage — static data, no fs at request time', () => {
       const topics = getGrammarTopics(level);
       return topics.map((t) => ({ level, topicId: String(t.orderIndex) }));
     });
-    // A1(12) + A2(15) + B1(20) + B2(25) + C1(0) = 72
-    expect(params.length).toBe(72);
+    // A1(12) + A2(15) + B1(20) + B2(27) + C1(0) = 74
+    expect(params.length).toBe(74);
     // C1 contributes 0 entries
     const c1Entries = params.filter((p) => p.level === 'C1');
     expect(c1Entries.length).toBe(0);

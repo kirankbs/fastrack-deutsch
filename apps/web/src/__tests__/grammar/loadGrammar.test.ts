@@ -30,8 +30,8 @@ describe('loadGrammar shim — no fs, static data only', () => {
     expect(loadGrammar('B1')).toHaveLength(20);
   });
 
-  it('B2 returns 25 topics', () => {
-    expect(loadGrammar('B2')).toHaveLength(25);
+  it('B2 returns 27 topics', () => {
+    expect(loadGrammar('B2')).toHaveLength(27);
   });
 
   it('C1 returns empty array cleanly (does not throw)', () => {

@@ -1373,5 +1373,113 @@
       }
     ],
     "orderIndex": 25
+  },
+  {
+    "id": 26,
+    "level": "B2",
+    "topic": "Rektion — Verben, Adjektive und Nomen mit Präposition",
+    "explanation": "[PEDAGOGY-REWRITE] Die Rektion beschreibt, welche Präposition ein Verb, Adjektiv oder Nomen verlangt — und in welchem Kasus. Sie muss auswendig gelernt werden, da sie nicht aus der Bedeutung abgeleitet werden kann. Die Rektion ist eines der zuverlässigsten Testelemente in jedem Sprachbausteine T1 auf B2-Niveau.\n\n**Verben + Präposition (Auswahl):** sich beschäftigen mit (+Dat) — sich bewerben um (+Akk) — achten auf (+Akk) — denken an (+Akk) — hoffen auf (+Akk) — sich freuen auf (+Akk) / über (+Akk) — bestehen aus (+Dat) / auf (+Dat) / in (+Dat) — leiden an (+Dat) / unter (+Dat) — sich gewöhnen an (+Akk) — sich kümmern um (+Akk) — teilnehmen an (+Dat) — warten auf (+Akk) — zweifeln an (+Dat) — sich erinnern an (+Akk) — sich entscheiden für (+Akk) / gegen (+Akk) — sich interessieren für (+Akk) — glauben an (+Akk) — sich verlassen auf (+Akk) — sich beklagen über (+Akk).\n\n**Adjektive + Präposition (Auswahl):** interessiert an (+Dat) — stolz auf (+Akk) — abhängig von (+Dat) — einverstanden mit (+Dat) — zuständig für (+Akk) — fähig zu (+Dat) — bekannt für (+Akk) — verantwortlich für (+Akk) — böse auf (+Akk) — müde von (+Dat).\n\n**Nomen + Präposition (Auswahl):** der Bedarf an (+Dat) — das Interesse an (+Dat) — die Angst vor (+Dat) — der Stolz auf (+Akk) — die Hoffnung auf (+Akk) — der Anspruch auf (+Akk) — die Antwort auf (+Akk) — die Frage nach (+Dat) — der Streit um (+Akk) — der Mangel an (+Dat).\n\nBeim Ersetzen eines Nomens durch ein Pronomen (er, sie, es, sie) steht eine Pronominaladverb-Konstruktion: 'Ich denke an ihn' (Person) vs. 'Ich denke daran' (Sache). Bei Personen steht Präposition + Pronomen; bei Sachen steht da(r)- + Präposition.",
+    "examples": [
+      "Sie bewirbt sich um eine Stelle als Projektmanagerin in München.",
+      "Der Ausschuss ist für die Qualitätssicherung des Verfahrens verantwortlich.",
+      "Viele Studierende leiden unter dem Druck der Abschlussarbeiten.",
+      "Er erinnert sich noch gut an seine erste Arbeitswoche im Betrieb.",
+      "Die Bevölkerung ist abhängig von einer funktionierenden Gesundheitsversorgung.",
+      "Es besteht ein erheblicher Bedarf an qualifizierten Fachkräften in der Region.",
+      "Die Bürger haben einen gesetzlichen Anspruch auf eine Begründung der Entscheidung.",
+      "Wir freuen uns auf die Zusammenarbeit und sind gespannt auf Ihre Rückmeldung."
+    ],
+    "exercises": [
+      {
+        "type": "fill_blank",
+        "prompt": "Sie wartet schon seit einer Stunde ___ die Antwort der Behörde.",
+        "correctAnswer": "auf",
+        "explanation": "'warten auf + Akkusativ' — die Rektion verlangt 'auf'. Weitere Beispiele: hoffen auf, achten auf."
+      },
+      {
+        "type": "fill_blank",
+        "prompt": "Der Leiter ist ___ die Einhaltung der Sicherheitsvorschriften zuständig.",
+        "correctAnswer": "für",
+        "explanation": "'zuständig für + Akkusativ' — feste Adjektiv-Rektion. Ähnlich: verantwortlich für, bekannt für."
+      },
+      {
+        "type": "fill_blank",
+        "prompt": "Die Gemeinde leidet ___ einem akuten Mangel an Wohnraum.",
+        "correctAnswer": "unter",
+        "explanation": "'leiden unter + Dativ' — Präposition 'unter' verlangt hier den Dativ."
+      },
+      {
+        "type": "fill_blank",
+        "prompt": "Es besteht ein wachsendes Interesse ___ nachhaltigen Energielösungen.",
+        "correctAnswer": "an",
+        "explanation": "'das Interesse an + Dativ' — Nomen-Rektion. Ähnlich: der Bedarf an, der Mangel an."
+      },
+      {
+        "type": "mcq",
+        "prompt": "Welche Präposition passt? 'Die Kandidatin bewirbt sich ___ die ausgeschriebene Stelle.'",
+        "correctAnswer": "um",
+        "explanation": "'sich bewerben um + Akkusativ' — die Rektion ist fest. Nicht: für, an oder bei."
+      },
+      {
+        "type": "reorder",
+        "prompt": "erinnern / sich / gerne / an / wir / Gespräch / das / erste",
+        "correctAnswer": "Wir erinnern uns gerne an das erste Gespräch.",
+        "explanation": "'sich erinnern an + Akkusativ' — Reflexivpronomen direkt nach dem Verb, dann 'an + Akkusativ'."
+      }
+    ],
+    "orderIndex": 26
+  },
+  {
+    "id": 27,
+    "level": "B2",
+    "topic": "Konnektoren — Konditional, Konsekutiv, Diskurs",
+    "explanation": "[PEDAGOGY-REWRITE] Diese Konnektoren sind in Sprachbausteinen T1 und Schreiben Stellungnahme auf B2-Niveau hochfrequent. Sie müssen mit ihren syntaktischen Eigenschaften (Nebensatz vs. Hauptsatz; Stellung im Satz; Kasus) aktiv beherrscht werden.\n\n**Konditionale Konnektoren (Bedingung):** 'wenn' und 'falls' leiten Nebensätze ein (Verb am Ende) und sind weitgehend austauschbar; 'falls' klingt leicht formeller. 'Sofern' drückt eine einschränkende Bedingung aus ('unter der Voraussetzung dass'): Sofern keine Einwände bestehen, gilt der Beschluss. 'Vorausgesetzt(, dass)' kann mit oder ohne Komma stehen und betont eine notwendige Voraussetzung. 'Es sei denn(, dass)' leitet eine Ausnahmebedingung ein: Der Vertrag tritt in Kraft, es sei denn, es gibt einen Einspruch.\n\n**Konsekutive Konnektoren (Folge):** 'sodass' leitet einen Nebensatz ein, der die Folge der Hauptsatzhandlung nennt: Der Lärm war so laut, sodass niemand schlafen konnte. 'Infolgedessen', 'demzufolge' und 'demnach' sind Adverbien und stehen im Hauptsatz; sie verlangen Inversion (Verb vor Subjekt): Die Temperaturen stiegen stark an. Infolgedessen schmolzen die Gletscher schneller. 'Demzufolge' ist häufig in offiziellen Texten und Protokollen.\n\n**Diskursmarker (Textstrukturierung):** Diese Adverbien strukturieren einen Text und signalisieren logische Relationen. Sie stehen am Satzanfang und verlangen Inversion: 'dennoch' (= trotzdem, konzessiv), 'hingegen' (= im Gegensatz dazu, adversativ), 'allerdings' (= jedoch, einschränkend), 'indessen' (= währenddessen / hingegen, temporal-adversativ), 'ferner' (= außerdem, additiv), 'zudem' (= dazu, additiv), 'im Übrigen' (= nebenbei, parenthetisch), 'andernfalls' (= sonst / wenn nicht, konditional-drohend), 'freilich' (= allerdings / zwar, einräumend, leicht veraltet).",
+    "examples": [
+      "Sofern alle Unterlagen vollständig eingereicht werden, bearbeiten wir den Antrag innerhalb von fünf Werktagen.",
+      "Die Maßnahme wird durchgeführt, es sei denn, der Beirat widerspricht in seiner nächsten Sitzung.",
+      "Der Betrieb erwirtschaftete in diesem Quartal Verluste, demzufolge wurden Stellen abgebaut.",
+      "Die Nachfrage ist stark gestiegen, sodass die Lieferkette unter erheblichem Druck steht.",
+      "Er verfügt über langjährige Erfahrung; allerdings fehlen ihm die formalen Qualifikationen.",
+      "Vorausgesetzt, dass die Finanzierung gesichert ist, kann das Projekt im Herbst starten."
+    ],
+    "exercises": [
+      {
+        "type": "fill_blank",
+        "prompt": "___ alle Bedingungen erfüllt sind, wird der Vertrag unterzeichnet. (einschränkende Bedingung)",
+        "correctAnswer": "Sofern",
+        "explanation": "'Sofern' drückt eine einschränkende Voraussetzung aus — formeller als 'wenn'. Verb steht am Ende des Nebensatzes."
+      },
+      {
+        "type": "fill_blank",
+        "prompt": "Die Temperaturen stiegen stark an. ___ schmolz das Eis schneller als erwartet. (Folge im Hauptsatz)",
+        "correctAnswer": "Infolgedessen",
+        "explanation": "'Infolgedessen' ist ein Adverb und nennt die Folge im folgenden Hauptsatz; es verlangt Inversion."
+      },
+      {
+        "type": "fill_blank",
+        "prompt": "Der Zug hat Verspätung; ___ verpassen wir die Anschlussverbindung. (Folge, formal)",
+        "correctAnswer": "demzufolge",
+        "explanation": "'demzufolge' steht im Hauptsatz an erster Position und löst Inversion aus. Es ist formeller als 'deshalb'."
+      },
+      {
+        "type": "mcq",
+        "prompt": "Welcher Konnektor drückt eine Ausnahmebedingung aus ('außer wenn ...')?",
+        "correctAnswer": "es sei denn",
+        "explanation": "'Es sei denn(, dass)' leitet eine Ausnahmebedingung ein: Die Regel gilt, es sei denn, eine Ausnahme liegt vor."
+      },
+      {
+        "type": "mcq",
+        "prompt": "Welcher Satz zeigt die korrekte Verwendung eines Diskursmarkers?",
+        "correctAnswer": "Die Kosten sind gestiegen; allerdings ist die Qualität deutlich besser geworden.",
+        "explanation": "'allerdings' schränkt die vorige Aussage ein (= jedoch, aber). Es steht im Hauptsatz und löst Inversion aus: allerdings ist ... (nicht: allerdings die Qualität ist)."
+      },
+      {
+        "type": "reorder",
+        "prompt": "Projekt / genehmigt / andernfalls / wird / das / abgelehnt / es",
+        "correctAnswer": "Das Projekt wird genehmigt, andernfalls wird es abgelehnt.",
+        "explanation": "'andernfalls' steht am Anfang des zweiten Hauptsatzes und drückt die Alternativkonsequenz aus; Inversion folgt."
+      }
+    ],
+    "orderIndex": 27
   }
 ]
