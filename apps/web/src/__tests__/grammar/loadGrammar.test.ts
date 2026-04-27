@@ -26,8 +26,8 @@ describe('loadGrammar shim — no fs, static data only', () => {
     }
   });
 
-  it('B1 returns 20 topics', () => {
-    expect(loadGrammar('B1')).toHaveLength(20);
+  it('B1 returns 21 topics', () => {
+    expect(loadGrammar('B1')).toHaveLength(21);
   });
 
   it('B2 returns 27 topics', () => {

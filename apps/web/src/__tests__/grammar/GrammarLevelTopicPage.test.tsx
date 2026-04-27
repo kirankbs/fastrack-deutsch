@@ -131,10 +131,10 @@ describe('GrammarLevelTopicPage — static data, no fs at request time', () => {
     await expect(resolveGrammarTopicPage('D2', '1')).rejects.toThrow('NEXT_NOT_FOUND');
   });
 
-  it('B1/1 renders with correct total count of 20', async () => {
+  it('B1/1 renders with correct total count of 21', async () => {
     await renderPage('B1', '1');
     const counter = screen.getByTestId('topic-counter');
-    expect(counter.textContent).toBe('1 / 20');
+    expect(counter.textContent).toBe('1 / 21');
   });
 
   it('generateStaticParams includes all level+topic combinations', () => {
@@ -143,8 +143,8 @@ describe('GrammarLevelTopicPage — static data, no fs at request time', () => {
       const topics = getGrammarTopics(level);
       return topics.map((t) => ({ level, topicId: String(t.orderIndex) }));
     });
-    // A1(14) + A2(20) + B1(20) + B2(27) + C1(0) = 81
-    expect(params.length).toBe(81);
+    // A1(14) + A2(20) + B1(21) + B2(27) + C1(0) = 82
+    expect(params.length).toBe(82);
     // C1 contributes 0 entries
     const c1Entries = params.filter((p) => p.level === 'C1');
     expect(c1Entries.length).toBe(0);
