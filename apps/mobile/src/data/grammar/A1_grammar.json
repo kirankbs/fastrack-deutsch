@@ -249,7 +249,7 @@
       },
       {
         "type": "mcq",
-        "prompt": "Ich trinke ___ Kaffee. (der Kaffee — accusative, no article changes for indefinite masculine in this context) Choose the correct indefinite article:",
+        "prompt": "Ich trinke ___ Kaffee. (der Kaffee, Akkusativ — unbestimmter Artikel gefragt)",
         "correctAnswer": "einen",
         "explanation": "Masculine noun in accusative takes 'einen'."
       }
@@ -300,15 +300,15 @@
   {
     "id": 8,
     "level": "A1",
-    "topic": "Modalverben — können und möchten",
-    "explanation": "Modal verbs modify the meaning of another verb. At A1, the two most important are können (can / to be able to) and möchten (would like to). They are conjugated in the first position and the main verb goes to the end of the clause in its infinitive form. Both 'können' and 'möchten' have irregular stems in the singular (ich/du/er forms).",
+    "topic": "Modalverben — alle sechs [PEDAGOGY-REWRITE]",
+    "explanation": "Modal verbs modify the meaning of another verb. At A1, all six modals are in scope: können (can / to be able to), müssen (must / to have to), wollen (to want to), dürfen (to be allowed to), sollen (to be supposed to), möchten (would like to). The modal verb is conjugated in second position and the main verb goes to the end as an infinitive.\n\nConjugation overview (ich / du / er-sie-es / wir / ihr / sie-Sie):\n• können: kann / kannst / kann / können / könnt / können\n• müssen: muss / musst / muss / müssen / müsst / müssen\n• wollen: will / willst / will / wollen / wollt / wollen\n• dürfen: darf / darfst / darf / dürfen / dürft / dürfen\n• sollen: soll / sollst / soll / sollen / sollt / sollen\n• möchten: möchte / möchtest / möchte / möchten / möchtet / möchten\n\nNote: ich and er/sie/es always have the same form for modals.",
     "examples": [
       "Ich kann Deutsch sprechen.",
-      "Kannst du mir helfen?",
-      "Er kann gut kochen.",
-      "Ich möchte einen Kaffee, bitte.",
-      "Möchten Sie etwas essen?",
-      "Wir möchten eine Wohnung mieten."
+      "Du musst um acht Uhr kommen.",
+      "Wir wollen ein Eis kaufen.",
+      "Hier darf man nicht parken.",
+      "Was soll ich tun?",
+      "Ich möchte einen Kaffee, bitte."
     ],
     "exercises": [
       {
@@ -340,6 +340,30 @@
         "prompt": "Wir ___ (können) morgen kommen.",
         "correctAnswer": "können",
         "explanation": "First person plural of 'können' returns to the infinitive form: 'können'."
+      },
+      {
+        "type": "fill_blank",
+        "prompt": "Du ___ (müssen) jetzt aufstehen.",
+        "correctAnswer": "musst",
+        "explanation": "Second person singular of 'müssen' is 'musst'."
+      },
+      {
+        "type": "fill_blank",
+        "prompt": "Er ___ (wollen) Pizza essen.",
+        "correctAnswer": "will",
+        "explanation": "Third person singular of 'wollen' is 'will' — irregular stem."
+      },
+      {
+        "type": "fill_blank",
+        "prompt": "Hier ___ (dürfen) man nicht rauchen.",
+        "correctAnswer": "darf",
+        "explanation": "Third person singular of 'dürfen' is 'darf'."
+      },
+      {
+        "type": "mcq",
+        "prompt": "Which modal means 'to be supposed to'? (a) wollen  (b) sollen  (c) dürfen",
+        "correctAnswer": "b",
+        "explanation": "'sollen' means you are supposed to do something — often because someone else has asked or instructed."
       }
     ],
     "orderIndex": 8
@@ -388,15 +412,17 @@
   {
     "id": 10,
     "level": "A1",
-    "topic": "Possessivartikel — mein und dein",
-    "explanation": "Possessive articles show ownership. At A1, the most common are mein (my) and dein (your, informal). They take the same endings as the indefinite article 'ein': no ending for masculine nominative and neuter nominative/accusative, -e for feminine, -en for masculine accusative. Other possessives at A1: sein (his), ihr (her), Ihr (your, formal), unser (our).",
+    "topic": "Possessivartikel — alle acht Formen [PEDAGOGY-REWRITE]",
+    "explanation": "Possessive articles show ownership. All eight are in scope at A1: mein (my), dein (your, informal singular), sein (his), ihr (her), unser (our), euer (your, plural informal), ihr (their), Ihr (your, formal). They all take the same endings as the indefinite article 'ein'.\n\nEnding overview: masculine nominative = no ending; feminine nominative/accusative = -e; neuter nominative/accusative = no ending; masculine accusative = -en.\n\nExamples by possessive:\n• mein / meine / mein / meinen\n• dein / deine / dein / deinen\n• sein / seine / sein / seinen  (his — use for male owners)\n• ihr / ihre / ihr / ihren  (her — use for female owners)\n• unser / unsere / unser / unseren\n• euer / eure / euer / euren\n• ihr / ihre / ihr / ihren  (their)\n• Ihr / Ihre / Ihr / Ihren  (formal you)\n\nKey rule: the possessive agrees with the grammatical gender and case of the THING owned, not the owner.",
     "examples": [
       "Das ist mein Buch. (neuter nominative — no ending)",
       "Wo ist meine Tasche? (feminine nominative — -e)",
       "Ich habe meinen Bruder angerufen. (masculine accusative — -en)",
       "Dein Auto ist sehr schön.",
-      "Ist das Ihr Pass? (formal 'your')",
-      "Wir besuchen unsere Großmutter."
+      "Das ist sein Schlüssel. (his key — masculine nominative)",
+      "Wo ist ihre Jacke? (her jacket — feminine nominative)",
+      "Wir besuchen unsere Großmutter.",
+      "Ist das Ihr Pass? (formal your — masculine nominative)"
     ],
     "exercises": [
       {
@@ -422,6 +448,30 @@
         "prompt": "Ich besuche ___ (my) Vater. (der Vater — masculine accusative)",
         "correctAnswer": "meinen",
         "explanation": "Masculine accusative: 'mein' + '-en' = 'meinen'."
+      },
+      {
+        "type": "fill_blank",
+        "prompt": "Das ist Peter. Das ist ___ (his) Fahrrad. (das Fahrrad — neuter nominative)",
+        "correctAnswer": "sein",
+        "explanation": "Peter is male, so use 'sein' (his). Neuter nominative — no ending: 'sein'."
+      },
+      {
+        "type": "fill_blank",
+        "prompt": "Das ist Maria. Ich kenne ___ (her) Bruder. (der Bruder — masculine accusative)",
+        "correctAnswer": "ihren",
+        "explanation": "Maria is female, so use 'ihr' (her). Masculine accusative: 'ihr' + '-en' = 'ihren'."
+      },
+      {
+        "type": "fill_blank",
+        "prompt": "Wir haben ___ (our) Haus verkauft. (das Haus — neuter accusative)",
+        "correctAnswer": "unser",
+        "explanation": "Neuter accusative: 'unser' — no ending."
+      },
+      {
+        "type": "mcq",
+        "prompt": "A bank employee asks a customer: '___ Name, bitte?' (your, formal — der Name, nominative)",
+        "correctAnswer": "Ihr",
+        "explanation": "'Ihr' (capital I) is the formal 'your'. Masculine nominative — no ending: 'Ihr Name'."
       }
     ],
     "orderIndex": 10
@@ -429,15 +479,16 @@
   {
     "id": 11,
     "level": "A1",
-    "topic": "Imperativ — Sie-Form",
-    "explanation": "The imperative (command form) for the formal Sie is formed by using the regular Sie conjugation but placing the verb before 'Sie'. This is identical to a yes/no question in word order, but it is spoken with a falling intonation and often followed by 'bitte' to soften it. The infinitive form works for all regular and most irregular verbs.",
+    "topic": "Imperativ — Sie-, du- und ihr-Form [PEDAGOGY-REWRITE]",
+    "explanation": "The imperative (command form) exists in three forms at A1:\n\n• Sie-Imperativ (formal): use the regular Sie-conjugation with the verb first. 'Kommen Sie bitte herein!' This is highest-frequency in formal contexts and exam exercises.\n\n• du-Imperativ (informal singular): take the verb stem and drop the -st ending. Regular verbs: 'Lern!' / 'Komm!' / 'Hör zu!'. Verbs with e→i or e→ie vowel change in the present keep that change: sprechen → 'Sprich!', lesen → 'Lies!', essen → 'Iss!'. Verbs with a→ä do NOT change in the du-imperative: fahren → 'Fahr!' (not 'Fähr!').\n\n• ihr-Imperativ (informal plural): use the ihr-conjugation without the word 'ihr'. 'Kommt bitte!' / 'Esst euer Brot!' / 'Lest den Text!'\n\nAll three forms can add 'bitte' to soften the command.",
     "examples": [
-      "Kommen Sie bitte herein!",
-      "Sprechen Sie bitte langsam.",
-      "Füllen Sie das Formular aus, bitte.",
-      "Warten Sie einen Moment!",
-      "Buchstabieren Sie Ihren Namen, bitte.",
-      "Gehen Sie geradeaus."
+      "Kommen Sie bitte herein! (Sie-form)",
+      "Sprechen Sie bitte langsam. (Sie-form)",
+      "Komm her! (du-form — regular)",
+      "Sprich bitte langsam! (du-form — e→i change: sprechen)",
+      "Lies das Buch! (du-form — e→ie change: lesen)",
+      "Kommt bitte um neun Uhr! (ihr-form)",
+      "Esst euer Brot! (ihr-form)"
     ],
     "exercises": [
       {
@@ -463,6 +514,24 @@
         "prompt": "___ (warten) Sie bitte!",
         "correctAnswer": "Warten",
         "explanation": "Sie-imperative of 'warten': 'Warten Sie bitte!'"
+      },
+      {
+        "type": "fill_blank",
+        "prompt": "___ (sprechen — du-Imperativ, e→i vowel change) bitte langsam!",
+        "correctAnswer": "Sprich",
+        "explanation": "du-Imperativ of 'sprechen': e changes to i in the du-form → 'sprich'. No ending added."
+      },
+      {
+        "type": "fill_blank",
+        "prompt": "___ (lesen — du-Imperativ, e→ie vowel change) den Text!",
+        "correctAnswer": "Lies",
+        "explanation": "du-Imperativ of 'lesen': e→ie vowel change → 'lies'. No ending."
+      },
+      {
+        "type": "mcq",
+        "prompt": "You are speaking to two friends. How do you say 'Come here, please!' (ihr-form of kommen)?",
+        "correctAnswer": "Kommt bitte her!",
+        "explanation": "ihr-Imperativ = ihr-conjugation without 'ihr'. 'ihr kommt' → 'Kommt!' Add 'bitte' to soften."
       }
     ],
     "orderIndex": 11
@@ -470,15 +539,15 @@
   {
     "id": 12,
     "level": "A1",
-    "topic": "Präpositionen mit Dativ — Ortsangaben",
-    "explanation": "Several prepositions that indicate a static location always take the dative case in German: in, an, auf, neben, zwischen, unter, über, vor, hinter (the 'two-way prepositions' when used with location, answering 'Wo?'). The dative changes the article: der/das → dem, die → der. To say 'in the' you say 'im' (in + dem) for masculine/neuter and 'in der' for feminine.",
+    "topic": "Präpositionen mit Dativ — Ortsangaben und Temporalangaben [PEDAGOGY-REWRITE]",
+    "explanation": "Several prepositions always take the dative case in German.\n\nA) Location prepositions (Wo? — static place): in, an, auf, neben, zwischen, unter, über, vor, hinter. Dative changes the article: der/das → dem, die → der. Contractions: in + dem = im, an + dem = am.\n\nB) Pure dative prepositions for movement and connection (highest frequency): mit (with / by means of), von (from), zu (to), bei (at / near), aus (from / out of), nach (to — for cities and countries). Common contractions: zu + dem = zum, zu + der = zur, von + dem = vom, bei + dem = beim.\n\nC) Time prepositions (Wann? — temporal): am (days of the week and parts of the day: am Montag, am Morgen), im (months and seasons: im Januar, im Sommer), um (clock times: um drei Uhr), von...bis (a time range: von neun bis siebzehn Uhr).",
     "examples": [
-      "Das Buch liegt auf dem Tisch. (der Tisch → dem Tisch)",
-      "Ich bin in der Schule. (die Schule → der Schule)",
-      "Er wartet an der Haltestelle.",
-      "Die Katze sitzt neben dem Sofa.",
+      "Das Buch liegt auf dem Tisch. (location — der Tisch → dem Tisch)",
+      "Ich bin in der Schule. (location — die Schule → der Schule)",
       "Das Café ist im Bahnhof. (in + dem = im)",
-      "Wir treffen uns am Marktplatz. (an + dem = am)"
+      "Ich fahre mit dem Bus zur Arbeit. (mit + Dativ; zu + der = zur)",
+      "Am Montag gehe ich zum Arzt. (temporal am; zu + dem = zum)",
+      "Im Juli fahren wir nach Berlin. (temporal im + month)"
     ],
     "exercises": [
       {
@@ -510,8 +579,154 @@
         "prompt": "Wir treffen uns ___ Marktplatz. (an + dem — contract it)",
         "correctAnswer": "am",
         "explanation": "'an + dem' contracts to 'am'. Always use this contraction in natural speech."
+      },
+      {
+        "type": "fill_blank",
+        "prompt": "Ich fahre ___ dem Bus zur Schule.",
+        "correctAnswer": "mit",
+        "explanation": "'mit' + dative = by means of. 'mit dem Bus' = by bus."
+      },
+      {
+        "type": "fill_blank",
+        "prompt": "___ Montag habe ich einen Termin.",
+        "correctAnswer": "Am",
+        "explanation": "Use 'am' for days of the week: am Montag, am Dienstag, am Wochenende."
+      },
+      {
+        "type": "fill_blank",
+        "prompt": "___ August fahren wir in den Urlaub.",
+        "correctAnswer": "Im",
+        "explanation": "Use 'im' for months and seasons: im August, im Sommer, im Winter."
+      },
+      {
+        "type": "mcq",
+        "prompt": "Which phrase means 'from Monday to Friday'?",
+        "correctAnswer": "von Montag bis Freitag",
+        "explanation": "'von...bis' expresses a time range. Both words are used together."
       }
     ],
     "orderIndex": 12
+  },
+  {
+    "id": 13,
+    "level": "A1",
+    "topic": "Perfekt mit haben und sein — Partizip II [PEDAGOGY-REWRITE]",
+    "explanation": "The Perfekt (present perfect) is the main past tense used in spoken German and for A1 writing tasks such as a Wochenende-Bericht. It is formed with a helper verb (haben or sein) in position 2 and the Partizip II at the end of the sentence — this is called the Perfekt-Klammer.\n\nForming the Partizip II:\n• Regular verbs: ge- + stem + -t → gemacht, gekauft, gelernt, gearbeitet, gespielt\n• Irregular verbs: ge- + changed stem + -en → gegangen, gekommen, gefahren, gegessen, getrunken, geblieben\n\nChoosing haben or sein:\n• Use sein with verbs of movement from place to place (gehen, fahren, kommen, fliegen) and with bleiben and sein itself.\n• Use haben with all other verbs (this is the safe default): essen, trinken, kaufen, lernen, arbeiten, schlafen, lesen, schreiben, sprechen.\n\nPerfekt word order: helper verb in position 2, Partizip II at the end.\n• Ich habe gestern Pizza gegessen.\n• Wir sind nach Berlin gefahren.\n\nPräteritum war/hatte: at A1 only sein and haben use the Präteritum. war = was (all forms: ich war, du warst, er/sie/es war, wir waren, ihr wart, sie/Sie waren). hatte = had (ich hatte, du hattest, er/sie/es hatte, wir hatten, ihr hattet, sie/Sie hatten). Use these for past states: Ich war müde. Wir hatten Hunger.",
+    "examples": [
+      "Ich habe gelernt. (regular: ge- + lern + -t; haben)",
+      "Sie hat gearbeitet. (regular: ge- + arbeit + -et; haben)",
+      "Ich bin gegangen. (irregular; sein — movement)",
+      "Er ist gefahren. (irregular; sein — movement)",
+      "Wir sind gekommen. (irregular; sein — movement)",
+      "Sie ist geblieben. (irregular; sein — bleiben takes sein)",
+      "Ich habe gegessen. (irregular; haben — default)",
+      "Ich habe Wasser getrunken. (irregular; haben — default)"
+    ],
+    "exercises": [
+      {
+        "type": "fill_blank",
+        "prompt": "Ich ___ gestern viel ___ (lernen — Partizip II bilden).",
+        "correctAnswer": "habe … gelernt",
+        "explanation": "Regular verb: ge- + lern + -t = gelernt. Helper verb: haben (default)."
+      },
+      {
+        "type": "fill_blank",
+        "prompt": "Wir ___ gestern Pizza ___. (essen — Partizip II)",
+        "correctAnswer": "haben … gegessen",
+        "explanation": "Irregular Partizip II: gegessen. 'essen' takes haben — not a movement verb."
+      },
+      {
+        "type": "fill_blank",
+        "prompt": "Er ___ um neun Uhr nach Hause ___. (gehen — Partizip II)",
+        "correctAnswer": "ist … gegangen",
+        "explanation": "Irregular Partizip II: gegangen. 'gehen' takes sein — it expresses movement."
+      },
+      {
+        "type": "mcq",
+        "prompt": "Which helper verb do you use with 'fahren' in the Perfekt?",
+        "correctAnswer": "sein",
+        "explanation": "'fahren' expresses movement from A to B — it takes 'sein' as its helper verb."
+      },
+      {
+        "type": "reorder",
+        "prompt": "getrunken / habe / Kaffee / ich / heute",
+        "correctAnswer": "Ich habe heute Kaffee getrunken.",
+        "explanation": "Perfekt-Klammer: helper verb 'habe' in position 2, Partizip II 'getrunken' at the end."
+      },
+      {
+        "type": "fill_blank",
+        "prompt": "Letzte Woche ___ ich in Berlin. (past state of sein)",
+        "correctAnswer": "war",
+        "explanation": "Use 'war' (Präteritum of sein) for past states: Ich war in Berlin. = I was in Berlin."
+      },
+      {
+        "type": "fill_blank",
+        "prompt": "Das Kind ___ gestern Fieber. (past state of haben)",
+        "correctAnswer": "hatte",
+        "explanation": "Use 'hatte' (Präteritum of haben) for past states: Das Kind hatte Fieber. = The child had a fever."
+      }
+    ],
+    "orderIndex": 13
+  },
+  {
+    "id": 14,
+    "level": "A1",
+    "topic": "Präsens — Stammvokalwechsel (a→ä, e→i/ie) [PEDAGOGY-REWRITE]",
+    "explanation": "Some German verbs change their stem vowel in the du- and er/sie/es-forms of the present tense. The personal endings are the same as regular verbs — only the vowel in the stem changes.\n\nThree patterns:\n1. a → ä: fahren (du fährst, er fährt), schlafen (du schläfst, er schläft)\n2. e → i: essen (du isst, er isst), geben (du gibst, er gibt), sprechen (du sprichst, er spricht), nehmen (du nimmst, er nimmt — also consonant doubling)\n3. e → ie: lesen (du liest, er liest), sehen (du siehst, er sieht)\n\nOnly the du- and er/sie/es-forms are affected. All other forms (ich, wir, ihr, Sie/sie) use the normal stem.",
+    "examples": [
+      "Du fährst mit dem Bus. (fahren: a→ä)",
+      "Er schläft bis neun Uhr. (schlafen: a→ä)",
+      "Du isst gern Pizza. (essen: e→i)",
+      "Er spricht Deutsch und Englisch. (sprechen: e→i)",
+      "Sie liest ein Buch. (lesen: e→ie)",
+      "Du siehst das Haus. (sehen: e→ie)",
+      "Er gibt mir das Brot. (geben: e→i)",
+      "Du nimmst den Bus. (nehmen: e→i, plus consonant doubling)"
+    ],
+    "exercises": [
+      {
+        "type": "fill_blank",
+        "prompt": "Er ___ (fahren) jeden Tag zur Arbeit.",
+        "correctAnswer": "fährt",
+        "explanation": "'fahren' has a→ä vowel change in er/sie/es: fährt."
+      },
+      {
+        "type": "fill_blank",
+        "prompt": "Du ___ (schlafen) sehr lange am Wochenende.",
+        "correctAnswer": "schläfst",
+        "explanation": "'schlafen' has a→ä vowel change in du: schläfst."
+      },
+      {
+        "type": "fill_blank",
+        "prompt": "Sie ___ (lesen) die Zeitung.",
+        "correctAnswer": "liest",
+        "explanation": "'lesen' has e→ie vowel change in er/sie/es: liest."
+      },
+      {
+        "type": "fill_blank",
+        "prompt": "Du ___ (sprechen) sehr gut Deutsch.",
+        "correctAnswer": "sprichst",
+        "explanation": "'sprechen' has e→i vowel change in du: sprichst."
+      },
+      {
+        "type": "mcq",
+        "prompt": "Which forms of a verb show the stem vowel change? (a) ich and wir  (b) du and er/sie/es  (c) ihr and Sie",
+        "correctAnswer": "b",
+        "explanation": "Only the du- and er/sie/es-forms show the stem vowel change. All other persons use the regular stem."
+      },
+      {
+        "type": "fill_blank",
+        "prompt": "Er ___ (essen) gern Brot zum Frühstück.",
+        "correctAnswer": "isst",
+        "explanation": "'essen' has e→i vowel change in er/sie/es: isst."
+      },
+      {
+        "type": "mcq",
+        "prompt": "Which form of 'sehen' is correct for 'du'? (a) du seht  (b) du sehst  (c) du siehst",
+        "correctAnswer": "c",
+        "explanation": "'sehen' has e→ie vowel change in the du-form: du siehst."
+      }
+    ],
+    "orderIndex": 14
   }
 ]

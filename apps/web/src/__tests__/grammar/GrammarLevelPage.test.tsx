@@ -79,11 +79,11 @@ async function renderPage(rawLevel: string) {
 }
 
 describe('GrammarLevelPage — static data, no fs at request time', () => {
-  it('A1 renders topic grid with 12 cards', async () => {
+  it('A1 renders topic grid with 14 cards', async () => {
     await renderPage('A1');
     const grid = screen.getByTestId('topic-grid');
     const cards = grid.querySelectorAll('[data-testid^="topic-card-"]');
-    expect(cards.length).toBe(12);
+    expect(cards.length).toBe(14);
   });
 
   it('A2 renders topic grid with 15 cards', async () => {
@@ -116,7 +116,7 @@ describe('GrammarLevelPage — static data, no fs at request time', () => {
   });
 
   it('topic count subtitle matches the actual JSON count', async () => {
-    for (const [level, expected] of [['A1', 12], ['A2', 15], ['B1', 20], ['B2', 27], ['C1', 0]] as const) {
+    for (const [level, expected] of [['A1', 14], ['A2', 15], ['B1', 20], ['B2', 27], ['C1', 0]] as const) {
       const { unmount } = await renderPage(level);
       const countEl = screen.getByTestId('topic-count');
       expect(countEl.textContent).toBe(`${expected} topics`);
@@ -130,7 +130,7 @@ describe('GrammarLevelPage — static data, no fs at request time', () => {
     expect(heading.textContent).toBe('A1 Grammar');
     const grid = screen.getByTestId('topic-grid');
     const cards = grid.querySelectorAll('[data-testid^="topic-card-"]');
-    expect(cards.length).toBe(12);
+    expect(cards.length).toBe(14);
   });
 
   it('invalid level foo calls notFound()', async () => {

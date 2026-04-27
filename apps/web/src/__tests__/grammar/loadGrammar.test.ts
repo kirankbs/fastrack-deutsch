@@ -10,9 +10,9 @@ import { describe, it, expect } from 'vitest';
 import { loadGrammar } from '../../lib/loadGrammar';
 
 describe('loadGrammar shim — no fs, static data only', () => {
-  it('A1 returns 12 topics sorted by orderIndex', () => {
+  it('A1 returns 14 topics sorted by orderIndex', () => {
     const topics = loadGrammar('A1');
-    expect(topics).toHaveLength(12);
+    expect(topics).toHaveLength(14);
     for (let i = 0; i < topics.length - 1; i++) {
       expect(topics[i].orderIndex).toBeLessThan(topics[i + 1].orderIndex);
     }
@@ -46,6 +46,6 @@ describe('loadGrammar shim — no fs, static data only', () => {
   });
 
   it('lowercase level is handled', () => {
-    expect(loadGrammar('a1')).toHaveLength(12);
+    expect(loadGrammar('a1')).toHaveLength(14);
   });
 });
