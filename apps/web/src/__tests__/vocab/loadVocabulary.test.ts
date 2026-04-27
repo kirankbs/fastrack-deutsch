@@ -20,9 +20,9 @@ describe('loadVocabulary shim — no fs, static data only', () => {
     expect(words).toHaveLength(1300);
   });
 
-  it('B1 returns 2400 vocabulary words', async () => {
+  it('B1 returns 2485 vocabulary words (post pedagogy-rewrite #113)', async () => {
     const words = await loadVocabulary('B1');
-    expect(words).toHaveLength(2400);
+    expect(words).toHaveLength(2485);
   });
 
   it('B2 returns words', async () => {
