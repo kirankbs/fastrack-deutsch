@@ -50,7 +50,7 @@
     "id": 2,
     "level": "A2",
     "topic": "Trennbare Verben",
-    "explanation": "Trennbare Verben haben ein Präfix, das im Hauptsatz vom Verbstamm getrennt wird und ans Satzende wandert. Häufige trennbare Präfixe: an-, auf-, aus-, ein-, mit-, nach-, vor-, zu-, ab-. Im Infinitiv und in Nebensätzen bleibt das Verb zusammen. Im Partizip II wird -ge- zwischen Präfix und Stamm eingefügt.",
+    "explanation": "Trennbare Verben haben ein Präfix, das im Hauptsatz vom Verbstamm getrennt wird und ans Satzende wandert. Häufige trennbare Präfixe: an-, auf-, aus-, ein-, mit-, nach-, vor-, zu-, ab-. Im Infinitiv und in Nebensätzen bleibt das Verb zusammen. Im Partizip II wird -ge- zwischen Präfix und Stamm eingefügt.\n\nUntrennbare Präfixe (be-, ge-, ver-, ent-, er-, zer-, emp-) bleiben immer am Stamm. Im Partizip II entfällt das -ge-: besucht (nicht be-ge-sucht), verstanden, erklärt. Achtung: Einige Präfixe (durch-, über-, unter-, um-) können trennbar oder untrennbar sein — bei A2 reicht Erkennung.",
     "examples": [
       "Der Unterricht fängt um 9 Uhr an.",
       "Ich rufe dich morgen an.",
@@ -89,6 +89,12 @@
         "prompt": "kauft / Sie / Supermarkt / im / ein",
         "correctAnswer": "Sie kauft im Supermarkt ein.",
         "explanation": "Subjekt, Verb (kauft), Ergänzungen, Präfix (ein) ans Ende."
+      },
+      {
+        "type": "mcq",
+        "prompt": "Welches Partizip II ist korrekt bei 'besuchen' (untrennbar)?",
+        "correctAnswer": "besucht",
+        "explanation": "Untrennbare Verben (be-, ver-, ent-, er-, zer-) bekommen kein -ge- im Partizip II: besucht, nicht 'be-ge-sucht'."
       }
     ],
     "orderIndex": 2
@@ -285,7 +291,7 @@
     "id": 7,
     "level": "A2",
     "topic": "Wechselpräpositionen (Akkusativ und Dativ)",
-    "explanation": "Neun Präpositionen können Akkusativ oder Dativ verlangen: an, auf, hinter, in, neben, über, unter, vor, zwischen. Faustregel: Wo? → Dativ (Lage/Zustand). Wohin? → Akkusativ (Bewegung/Richtung). Merkhilfe: 'Er hängt das Bild an die Wand.' (Akkusativ, Bewegung) vs. 'Das Bild hängt an der Wand.' (Dativ, Lage).",
+    "explanation": "Neun Präpositionen können Akkusativ oder Dativ verlangen: an, auf, hinter, in, neben, über, unter, vor, zwischen.\n\nFaustregel:\n• Wo? → Dativ (Lage/Zustand — kein Ortswechsel)\n• Wohin? → Akkusativ (Bewegung/Richtung — Ortswechsel)\n\nDer Wo/Wohin-Unterschied ist zentral: 'Er hängt das Bild an die Wand.' (Wohin? → Akkusativ, Bewegung) vs. 'Das Bild hängt an der Wand.' (Wo? → Dativ, Lage). Diese Gegenüberstellung erscheint in fast jeder A2-Prüfung.",
     "examples": [
       "Das Buch liegt auf dem Tisch. (Dativ — Wo?)",
       "Leg das Buch auf den Tisch. (Akkusativ — Wohin?)",
@@ -332,7 +338,7 @@
     "id": 8,
     "level": "A2",
     "topic": "Reflexive Verben",
-    "explanation": "Reflexive Verben haben ein Reflexivpronomen, das sich auf das Subjekt zurückbezieht. Im Akkusativ: mich, dich, sich, uns, euch, sich. Im Dativ: mir, dir, sich, uns, euch, sich. Echte reflexive Verben können nur reflexiv verwendet werden (sich beeilen, sich freuen). Bei anderen Verben zeigt das Reflexivpronomen an, dass Subjekt und Objekt identisch sind (sich waschen = sich selbst waschen).",
+    "explanation": "Reflexive Verben haben ein Reflexivpronomen, das sich auf das Subjekt zurückbezieht. Im Akkusativ: mich, dich, sich, uns, euch, sich. Im Dativ: mir, dir, sich, uns, euch, sich.\n\nEchte reflexive Verben können nur reflexiv verwendet werden (sich beeilen, sich freuen). Bei anderen Verben zeigt das Reflexivpronomen an, dass Subjekt und Objekt identisch sind (sich waschen = sich selbst waschen).\n\nA2-Kernset: sich freuen (auf/über), sich treffen, sich beeilen, sich waschen, sich anziehen, sich erholen, sich entschuldigen, sich verspäten.",
     "examples": [
       "Ich wasche mich jeden Morgen.",
       "Er freut sich auf den Urlaub.",
@@ -364,7 +370,7 @@
         "type": "fill_blank",
         "prompt": "Beeil ___, sonst verpassen wir den Bus!",
         "correctAnswer": "dich",
-        "explanation": "'sich beeilen' → du → dich. Imperative bleibt 'dich'."
+        "explanation": "'sich beeilen' → du → dich. Imperativ bleibt 'dich'."
       },
       {
         "type": "mcq",
@@ -379,7 +385,7 @@
     "id": 9,
     "level": "A2",
     "topic": "Konjunktionen: aber, oder, denn",
-    "explanation": "Koordinierende Konjunktionen verbinden zwei Hauptsätze oder Satzteile. Nach aber, oder und denn folgt normale Hauptsatzwortstellung (Verb an zweiter Stelle). Sie stehen immer auf Position 0 — sie verschieben die Wortstellung nicht. 'Aber' drückt Gegensatz aus. 'Oder' drückt Alternative aus. 'Denn' gibt den Grund an (ähnlich wie weil, aber mit Hauptsatzwortstellung).",
+    "explanation": "Koordinierende Konjunktionen verbinden zwei Hauptsätze oder Satzteile. Nach aber, oder und denn folgt normale Hauptsatzwortstellung (Verb an zweiter Stelle). Sie stehen immer auf Position 0 — sie verschieben die Wortstellung nicht.\n\n• 'Aber' drückt Gegensatz aus: Ich bin müde, aber ich gehe trotzdem.\n• 'Oder' drückt Alternative aus: Kommst du mit oder bleibst du zu Hause?\n• 'Denn' gibt den Grund an — wie weil, aber mit Hauptsatzwortstellung (Verb an 2. Stelle, nicht am Ende).\n\nUnterschied denn vs. weil: 'Er bleibt zu Hause, denn er ist krank.' (Hauptsatzwortstellung) / 'Er bleibt zu Hause, weil er krank ist.' (Verbendstellung).",
     "examples": [
       "Ich möchte kommen, aber ich habe keine Zeit.",
       "Möchtest du Tee oder Kaffee?",
@@ -405,7 +411,7 @@
         "type": "mcq",
         "prompt": "Welche Konjunktion passt? 'Er isst nichts, ___ er hat keinen Hunger.'",
         "correctAnswer": "denn",
-        "explanation": "'denn' gibt den Grund an und behält Hauptsatzwortstellung — das Verb bleibt an 2. Stelle."
+        "explanation": "'denn' gibt den Grund an und behält Hauptsatzwortstellung — das Verb bleibt an 2. Stelle (hat), nicht am Ende."
       },
       {
         "type": "reorder",
@@ -703,5 +709,256 @@
       }
     ],
     "orderIndex": 15
+  },
+  {
+    "id": 16,
+    "level": "A2",
+    "topic": "Nebensätze mit wenn (konditional und temporal-iterativ) [PEDAGOGY-REWRITE]",
+    "explanation": "Wenn-Sätze gehören zu den A2-Kernsätzen und folgen der gleichen Verbendstellungsregel wie weil- und dass-Sätze. Es gibt zwei Lesarten:\n\n1. Konditional (Bedingung): 'Wenn es regnet, bleibe ich zu Hause.' — Die Bedingung im wenn-Satz löst die Handlung im Hauptsatz aus.\n\n2. Temporal-iterativ (Wiederholung): 'Wenn ich in Berlin bin, besuche ich meine Freunde.' / 'Immer wenn er müde ist, schläft er früh.' — wenn = jedes Mal, wenn.\n\nWichtiger Unterschied: wenn vs. als\n• wenn: konditionale oder wiederholte Situationen (Gegenwart, Zukunft, oder Vergangenheit-wiederholt)\n• als: einmalige abgeschlossene Handlung in der Vergangenheit: 'Als ich jung war, wohnte ich in Hamburg.' (einmalig, Vergangenheit)\n\nMerkregel: Einmaliges Vergangenes → als. Alles andere → wenn.",
+    "examples": [
+      "Wenn es regnet, bleibe ich zu Hause.",
+      "Wenn du Zeit hast, ruf mich an.",
+      "Wenn ich in Berlin bin, besuche ich meine Freunde.",
+      "Immer wenn er müde ist, schläft er früh.",
+      "Wenn das Wetter schön ist, gehen wir spazieren.",
+      "Ich bin glücklich, wenn ich Musik höre."
+    ],
+    "exercises": [
+      {
+        "type": "fill_blank",
+        "prompt": "___ ich Zeit habe, lese ich gern.",
+        "correctAnswer": "Wenn",
+        "explanation": "'Wenn' leitet den Bedingungssatz ein. Das Verb (habe) steht am Ende des wenn-Satzes."
+      },
+      {
+        "type": "reorder",
+        "prompt": "wenn / kalt / es / ist / trage / ich / eine Jacke",
+        "correctAnswer": "Wenn es kalt ist, trage ich eine Jacke.",
+        "explanation": "wenn-Satz vorne: Verb des wenn-Satzes (ist) ans Ende, dann Komma, dann Hauptsatz mit Verb (trage) an 2. Stelle."
+      },
+      {
+        "type": "mcq",
+        "prompt": "Welche Konjunktion passt? '___ ich jung war, lebte ich in München.' (einmalige Vergangenheit)",
+        "correctAnswer": "Als",
+        "explanation": "Einmaliges vergangenes Ereignis → 'als', nicht 'wenn'. 'Wenn' würde Wiederholung oder Bedingung ausdrücken."
+      },
+      {
+        "type": "fill_blank",
+        "prompt": "Immer ___ wir uns treffen, lachen wir viel.",
+        "correctAnswer": "wenn",
+        "explanation": "'Immer wenn' drückt Wiederholung aus. 'Immer als' wäre falsch — als steht nur für einmalige Vergangenheit."
+      },
+      {
+        "type": "fill_blank",
+        "prompt": "Ich bin glücklich, ___ ich Urlaub habe.",
+        "correctAnswer": "wenn",
+        "explanation": "Bedingung/Wiederholung → wenn. Das Verb (habe) steht am Ende des wenn-Satzes."
+      },
+      {
+        "type": "mcq",
+        "prompt": "Welcher Satz ist grammatisch korrekt?",
+        "correctAnswer": "Wenn du Hunger hast, können wir essen.",
+        "explanation": "wenn-Satz mit Verbendstellung: 'hast' am Ende. Dann Hauptsatz normal: können wir essen."
+      }
+    ],
+    "orderIndex": 16
+  },
+  {
+    "id": 17,
+    "level": "A2",
+    "topic": "Adjektivdeklination nach unbestimmtem Artikel [PEDAGOGY-REWRITE]",
+    "explanation": "Nach dem unbestimmten Artikel (ein/eine/ein) muss das Adjektiv die fehlende Genusmarkierung übernehmen — das nennt man gemischte Deklination.\n\nNominativ:\n• Maskulinum: ein roter Pullover (-er, weil 'ein' keine r-Markierung trägt)\n• Femininum: eine schöne Bluse (-e, weil 'eine' das Genus bereits zeigt)\n• Neutrum: ein neues Auto (-es, weil 'ein' keine s-Markierung trägt)\n\nAkkusativ:\n• Maskulinum: einen roten Pullover (-en, Akkusativ-Maskulinum)\n• Femininum: eine schöne Bluse (-e, unverändert)\n• Neutrum: ein neues Auto (-es, unverändert)\n\nMerkregel: Wo der Artikel keine Endung hat, bekommt das Adjektiv die starke Endung (-er/-es). Dativ nach unbestimmtem Artikel gehört zu B1.",
+    "examples": [
+      "Das ist ein roter Pullover. (Nom. Mask.)",
+      "Ich kaufe einen roten Pullover. (Akk. Mask.)",
+      "Das ist eine schöne Bluse. (Nom. Fem.)",
+      "Sie trägt eine schöne Bluse. (Akk. Fem.)",
+      "Das ist ein neues Auto. (Nom. Neutr.)",
+      "Er fährt ein neues Auto. (Akk. Neutr.)"
+    ],
+    "exercises": [
+      {
+        "type": "fill_blank",
+        "prompt": "Er trägt einen rot___ Schal. (Maskulinum, Akkusativ)",
+        "correctAnswer": "roten",
+        "explanation": "Maskulinum Akkusativ nach unbestimmtem Artikel: einen roten. Das Adjektiv bekommt -en."
+      },
+      {
+        "type": "fill_blank",
+        "prompt": "Das ist eine schön___ Wohnung. (Femininum, Nominativ)",
+        "correctAnswer": "schöne",
+        "explanation": "Femininum Nominativ nach unbestimmtem Artikel: eine schöne. Der Artikel zeigt das Genus bereits durch -e."
+      },
+      {
+        "type": "mcq",
+        "prompt": "Welche Form ist korrekt? 'Ich sehe ___ alten Mann.'",
+        "correctAnswer": "einen",
+        "explanation": "Maskulinum im Akkusativ nach unbestimmtem Artikel: einen. Das Adjektiv 'alten' bekommt -en."
+      },
+      {
+        "type": "fill_blank",
+        "prompt": "Er hat einen neu___ Computer. (Maskulinum, Akkusativ)",
+        "correctAnswer": "neuen",
+        "explanation": "Maskulinum Akkusativ: einen neuen. Der Artikel markiert den Kasus (-en), das Adjektiv folgt mit -en."
+      },
+      {
+        "type": "mcq",
+        "prompt": "Was ist korrekt? 'Das ist ___ interessantes Buch.'",
+        "correctAnswer": "ein",
+        "explanation": "Neutrum Nominativ: ein interessantes Buch. 'ein' trägt keine Genus-Endung, daher bekommt das Adjektiv -es."
+      },
+      {
+        "type": "fill_blank",
+        "prompt": "Sie kauft eine blau___ Jacke. (Femininum, Akkusativ)",
+        "correctAnswer": "blaue",
+        "explanation": "Femininum Akkusativ nach unbestimmtem Artikel: eine blaue. Femininum ändert sich von Nom. zu Akk. nicht."
+      }
+    ],
+    "orderIndex": 17
+  },
+  {
+    "id": 18,
+    "level": "A2",
+    "topic": "Präteritum: war und hatte [PEDAGOGY-REWRITE]",
+    "explanation": "Im Deutschen benutzt man für die meisten Verben das Perfekt in der gesprochenen Sprache. Zwei wichtige Ausnahmen: sein (war) und haben (hatte). Diese stehen selbst in Gesprächen im Präteritum — nicht im Perfekt.\n\nKonjugation sein im Präteritum:\n• ich war / du warst / er-sie-es war\n• wir waren / ihr wart / sie-Sie waren\n\nKonjugation haben im Präteritum:\n• ich hatte / du hattest / er-sie-es hatte\n• wir hatten / ihr hattet / sie-Sie hatten\n\nTypische Verwendung: Biografie und Beschreibungen in der Vergangenheit: 'Ich war in Berlin.', 'Sie hatte einen Hund.', 'Wir waren müde.'",
+    "examples": [
+      "Ich war letztes Jahr in Berlin.",
+      "Sie hatte früher einen Hund.",
+      "Wir waren sehr müde nach der Reise.",
+      "Das Wetter war schön gestern."
+    ],
+    "exercises": [
+      {
+        "type": "fill_blank",
+        "prompt": "Gestern ___ ich krank.",
+        "correctAnswer": "war",
+        "explanation": "Präteritum von sein, 1. Person Singular: war."
+      },
+      {
+        "type": "fill_blank",
+        "prompt": "Wir ___ letzten Sommer in Italien.",
+        "correctAnswer": "waren",
+        "explanation": "Präteritum von sein, 1. Person Plural: waren."
+      },
+      {
+        "type": "mcq",
+        "prompt": "Welche Form ist korrekt? 'Er ___ als Kind sehr sportlich.'",
+        "correctAnswer": "war",
+        "explanation": "Präteritum von sein, 3. Person Singular: war."
+      },
+      {
+        "type": "fill_blank",
+        "prompt": "Sie ___ früher einen Garten.",
+        "correctAnswer": "hatte",
+        "explanation": "Präteritum von haben, 3. Person Singular: hatte."
+      }
+    ],
+    "orderIndex": 18
+  },
+  {
+    "id": 19,
+    "level": "A2",
+    "topic": "Indirekte Fragen: ob und W-Wort [PEDAGOGY-REWRITE]",
+    "explanation": "Indirekte Fragen sind Fragen, die in einen anderen Satz eingebettet werden. Das Verb steht am Ende — wie in allen Nebensätzen.\n\nZwei Typen:\n1. Indirekte Ja/Nein-Frage → Einleitung mit 'ob':\n   'Kommt er?' → 'Ich weiß nicht, ob er kommt.'\n\n2. Indirekte Ergänzungsfrage → Einleitung mit W-Wort (wann, wo, wie, warum, wer, was, wohin):\n   'Wann fährt der Zug?' → 'Kannst du mir sagen, wann der Zug fährt?'\n\nHäufige Einleitungen: Ich weiß nicht, ...; Kannst du mir sagen, ...; Ich frage mich, ...; Weißt du, ...?\n\nWortstellung: Anders als bei direkten Fragen steht das Verb bei indirekten Fragen nicht an 2. Stelle, sondern am Ende.",
+    "examples": [
+      "Ich weiß nicht, ob er kommt.",
+      "Kannst du mir sagen, wann der Zug fährt?",
+      "Ich frage mich, wo das Hotel ist.",
+      "Weißt du, wie das geht?",
+      "Ich weiß nicht, ob sie Zeit hat.",
+      "Kannst du mir erklären, warum das so ist?"
+    ],
+    "exercises": [
+      {
+        "type": "fill_blank",
+        "prompt": "Ich weiß nicht, ___ er heute kommt.",
+        "correctAnswer": "ob",
+        "explanation": "Ja/Nein-Frage eingebettet → ob. Das Verb (kommt) steht am Ende."
+      },
+      {
+        "type": "reorder",
+        "prompt": "sagen / du / mir / Kannst / der Bus / kommt / wann",
+        "correctAnswer": "Kannst du mir sagen, wann der Bus kommt?",
+        "explanation": "W-Wort (wann) leitet die indirekte Frage ein, Verb (kommt) ans Ende."
+      },
+      {
+        "type": "mcq",
+        "prompt": "Welcher Satz ist korrekt?",
+        "correctAnswer": "Ich frage mich, wo das Restaurant ist.",
+        "explanation": "Indirekte Frage mit W-Wort 'wo': Verb (ist) ans Ende. 'wo ist das Restaurant' wäre direkte Frage."
+      },
+      {
+        "type": "fill_blank",
+        "prompt": "Weißt du, ___ der Supermarkt aufmacht?",
+        "correctAnswer": "wann",
+        "explanation": "Frage nach der Zeit → W-Wort 'wann'. Verb (aufmacht) steht am Ende."
+      },
+      {
+        "type": "fill_blank",
+        "prompt": "Kannst du mir sagen, ___ die Bibliothek ist?",
+        "correctAnswer": "wo",
+        "explanation": "Frage nach dem Ort → W-Wort 'wo'. Verb (ist) steht am Ende."
+      },
+      {
+        "type": "mcq",
+        "prompt": "Wie lautet die indirekte Frage? 'Hat sie ein Auto?'",
+        "correctAnswer": "Ich weiß nicht, ob sie ein Auto hat.",
+        "explanation": "Ja/Nein-Frage → ob. Im eingebetteten Satz: Verb (hat) ans Ende."
+      }
+    ],
+    "orderIndex": 19
+  },
+  {
+    "id": 20,
+    "level": "A2",
+    "topic": "Infinitiv mit zu und um...zu [PEDAGOGY-REWRITE]",
+    "explanation": "Der Infinitiv mit zu wird nach bestimmten Verben und Ausdrücken verwendet. Das Verb steht im Infinitiv, 'zu' steht direkt davor.\n\nTypische Auslöser:\n• Nach bestimmten Verben: vergessen, anfangen, versuchen, vorhaben, Lust haben, aufhören, hoffen\n  Beispiel: 'Ich vergesse oft, die Tür zu schließen.'\n• Nach 'es ist + Adjektiv': 'Es ist wichtig, viel zu lernen.'\n\num...zu-Konstruktion (Zweck, Absicht):\n• um...zu drückt den Zweck einer Handlung aus (= für welchen Zweck)\n• 'Ich gehe in den Park, um Sport zu machen.' (= damit ich Sport mache)\n• Regel: Subjekt in Haupt- und Nebensatz muss gleich sein: 'Ich lerne Deutsch, um in Deutschland zu arbeiten.' (Ich lerne — ich arbeite)\n\nStellung von zu bei trennbaren Verben: 'zu' tritt zwischen Präfix und Stamm: an-zu-rufen, ein-zu-kaufen.",
+    "examples": [
+      "Es ist wichtig, viel zu lernen.",
+      "Ich vergesse oft, die Tür zu schließen.",
+      "Sie versucht, jeden Tag Sport zu machen.",
+      "Ich gehe in den Park, um Sport zu machen.",
+      "Er lernt Deutsch, um in Deutschland zu arbeiten.",
+      "Ich habe keine Lust, heute aufzuräumen."
+    ],
+    "exercises": [
+      {
+        "type": "fill_blank",
+        "prompt": "Es ist wichtig, viel Wasser ___ (trinken — Infinitiv mit zu).",
+        "correctAnswer": "zu trinken",
+        "explanation": "'Es ist wichtig' verlangt den Infinitiv mit zu: zu + Infinitiv."
+      },
+      {
+        "type": "fill_blank",
+        "prompt": "Ich vergesse immer, meine Mutter ___ (anrufen — Infinitiv mit zu, trennbar).",
+        "correctAnswer": "anzurufen",
+        "explanation": "Bei trennbaren Verben tritt 'zu' zwischen Präfix und Stamm: an-zu-rufen."
+      },
+      {
+        "type": "mcq",
+        "prompt": "Welcher Satz drückt einen Zweck aus?",
+        "correctAnswer": "Ich gehe in die Bibliothek, um ein Buch zu holen.",
+        "explanation": "um...zu drückt den Zweck aus: wozu / für welchen Zweck."
+      },
+      {
+        "type": "reorder",
+        "prompt": "Deutsch / Er / lernt / um / in / Deutschland / zu / arbeiten",
+        "correctAnswer": "Er lernt Deutsch, um in Deutschland zu arbeiten.",
+        "explanation": "um...zu-Satz: um leitet ein, Infinitiv mit zu ans Ende."
+      },
+      {
+        "type": "fill_blank",
+        "prompt": "Sie versucht, jeden Tag ___ (aufräumen — Infinitiv mit zu, trennbar).",
+        "correctAnswer": "aufzuräumen",
+        "explanation": "Bei 'aufräumen' (trennbar): auf-zu-räumen. 'zu' steht zwischen Präfix und Stamm."
+      },
+      {
+        "type": "mcq",
+        "prompt": "Welcher Satz ist korrekt?",
+        "correctAnswer": "Ich habe keine Zeit, ins Kino zu gehen.",
+        "explanation": "Nach 'keine Zeit haben' folgt der Infinitiv mit zu: zu gehen."
+      }
+    ],
+    "orderIndex": 20
   }
 ]
