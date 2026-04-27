@@ -10,9 +10,9 @@ import { describe, it, expect } from 'vitest';
 import { loadVocabulary } from '../../lib/loadVocabulary';
 
 describe('loadVocabulary shim — no fs, static data only', () => {
-  it('A1 returns 650 vocabulary words', async () => {
+  it('A1 returns 723 vocabulary words', async () => {
     const words = await loadVocabulary('A1');
-    expect(words).toHaveLength(650);
+    expect(words).toHaveLength(723);
   });
 
   it('A2 returns 1300 vocabulary words', async () => {
@@ -43,7 +43,7 @@ describe('loadVocabulary shim — no fs, static data only', () => {
 
   it('lowercase level is handled', async () => {
     const words = await loadVocabulary('a1');
-    expect(words).toHaveLength(650);
+    expect(words).toHaveLength(723);
   });
 
   it('each word has required fields', async () => {
