@@ -76,17 +76,17 @@ describe('GrammarLevelTopicPage — static data, no fs at request time', () => {
   it('A1/1 renders the first topic with prev disabled, next enabled', async () => {
     await renderPage('A1', '1');
     const counter = screen.getByTestId('topic-counter');
-    expect(counter.textContent).toBe('1 / 12');
+    expect(counter.textContent).toBe('1 / 14');
     const prevBtn = screen.getByTestId('prev-topic') as HTMLButtonElement;
     const nextBtn = screen.getByTestId('next-topic') as HTMLButtonElement;
     expect(prevBtn.disabled).toBe(true);
     expect(nextBtn.disabled).toBe(false);
   });
 
-  it('A1/12 renders the last topic with prev enabled, next disabled', async () => {
-    await renderPage('A1', '12');
+  it('A1/14 renders the last topic with prev enabled, next disabled', async () => {
+    await renderPage('A1', '14');
     const counter = screen.getByTestId('topic-counter');
-    expect(counter.textContent).toBe('12 / 12');
+    expect(counter.textContent).toBe('14 / 14');
     const prevBtn = screen.getByTestId('prev-topic') as HTMLButtonElement;
     const nextBtn = screen.getByTestId('next-topic') as HTMLButtonElement;
     expect(prevBtn.disabled).toBe(false);
@@ -96,7 +96,7 @@ describe('GrammarLevelTopicPage — static data, no fs at request time', () => {
   it('A1/6 renders a middle topic with both prev and next enabled', async () => {
     await renderPage('A1', '6');
     const counter = screen.getByTestId('topic-counter');
-    expect(counter.textContent).toBe('6 / 12');
+    expect(counter.textContent).toBe('6 / 14');
     const prevBtn = screen.getByTestId('prev-topic') as HTMLButtonElement;
     const nextBtn = screen.getByTestId('next-topic') as HTMLButtonElement;
     expect(prevBtn.disabled).toBe(false);
@@ -143,13 +143,13 @@ describe('GrammarLevelTopicPage — static data, no fs at request time', () => {
       const topics = getGrammarTopics(level);
       return topics.map((t) => ({ level, topicId: String(t.orderIndex) }));
     });
-    // A1(12) + A2(15) + B1(20) + B2(27) + C1(0) = 74
-    expect(params.length).toBe(74);
+    // A1(14) + A2(15) + B1(20) + B2(27) + C1(0) = 76
+    expect(params.length).toBe(76);
     // C1 contributes 0 entries
     const c1Entries = params.filter((p) => p.level === 'C1');
     expect(c1Entries.length).toBe(0);
-    // A1 contributes 12
+    // A1 contributes 14
     const a1Entries = params.filter((p) => p.level === 'A1');
-    expect(a1Entries.length).toBe(12);
+    expect(a1Entries.length).toBe(14);
   });
 });
