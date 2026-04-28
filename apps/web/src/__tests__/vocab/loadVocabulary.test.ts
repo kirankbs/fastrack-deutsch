@@ -30,10 +30,9 @@ describe('loadVocabulary shim — no fs, static data only', () => {
     expect(words.length).toBeGreaterThan(0);
   });
 
-  it('C1 returns empty array cleanly (does not throw)', async () => {
+  it('C1 returns 270 vocabulary words (bundle 3: Wissenschaft + Bildung)', async () => {
     const words = await loadVocabulary('C1');
-    expect(Array.isArray(words)).toBe(true);
-    expect(words).toHaveLength(0);
+    expect(words).toHaveLength(270);
   });
 
   it('unknown level returns empty array', async () => {
