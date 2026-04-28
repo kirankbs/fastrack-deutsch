@@ -34,10 +34,12 @@ describe('loadGrammar shim — no fs, static data only', () => {
     expect(loadGrammar('B2')).toHaveLength(27);
   });
 
-  it('C1 returns empty array cleanly (does not throw)', () => {
+  it('C1 returns 33 topics sorted by orderIndex', () => {
     const topics = loadGrammar('C1');
-    expect(Array.isArray(topics)).toBe(true);
-    expect(topics).toHaveLength(0);
+    expect(topics).toHaveLength(33);
+    for (let i = 0; i < topics.length - 1; i++) {
+      expect(topics[i].orderIndex).toBeLessThan(topics[i + 1].orderIndex);
+    }
   });
 
   it('unknown level returns empty array', () => {

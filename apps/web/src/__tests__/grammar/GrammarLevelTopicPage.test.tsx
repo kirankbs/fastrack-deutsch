@@ -4,7 +4,7 @@
  * AC requirement (issue #106): do NOT mock getGrammarTopics or fs. The test
  * verifies that the page resolves data from the statically imported JSON
  * (no runtime fs reads) and that all edge-case paths (non-numeric topicId,
- * out-of-range, empty C1) call notFound() rather than hanging.
+ * out-of-range) call notFound() rather than hanging.
  */
 
 import { describe, it, expect, vi } from 'vitest';
@@ -123,8 +123,24 @@ describe('GrammarLevelTopicPage — static data, no fs at request time', () => {
     await expect(resolveGrammarTopicPage('A1', '999')).rejects.toThrow('NEXT_NOT_FOUND');
   });
 
-  it('topicId 1 on C1 (empty level) calls notFound()', async () => {
-    await expect(resolveGrammarTopicPage('C1', '1')).rejects.toThrow('NEXT_NOT_FOUND');
+  it('C1/1 renders the first topic with prev disabled, next enabled', async () => {
+    await renderPage('C1', '1');
+    const counter = screen.getByTestId('topic-counter');
+    expect(counter.textContent).toBe('1 / 33');
+    const prevBtn = screen.getByTestId('prev-topic') as HTMLButtonElement;
+    const nextBtn = screen.getByTestId('next-topic') as HTMLButtonElement;
+    expect(prevBtn.disabled).toBe(true);
+    expect(nextBtn.disabled).toBe(false);
+  });
+
+  it('C1/33 renders the last topic with prev enabled, next disabled', async () => {
+    await renderPage('C1', '33');
+    const counter = screen.getByTestId('topic-counter');
+    expect(counter.textContent).toBe('33 / 33');
+    const prevBtn = screen.getByTestId('prev-topic') as HTMLButtonElement;
+    const nextBtn = screen.getByTestId('next-topic') as HTMLButtonElement;
+    expect(prevBtn.disabled).toBe(false);
+    expect(nextBtn.disabled).toBe(true);
   });
 
   it('invalid level calls notFound()', async () => {
@@ -143,11 +159,11 @@ describe('GrammarLevelTopicPage — static data, no fs at request time', () => {
       const topics = getGrammarTopics(level);
       return topics.map((t) => ({ level, topicId: String(t.orderIndex) }));
     });
-    // A1(14) + A2(20) + B1(21) + B2(27) + C1(0) = 82
-    expect(params.length).toBe(82);
-    // C1 contributes 0 entries
+    // A1(14) + A2(20) + B1(21) + B2(27) + C1(33) = 115
+    expect(params.length).toBe(115);
+    // C1 contributes 33 entries
     const c1Entries = params.filter((p) => p.level === 'C1');
-    expect(c1Entries.length).toBe(0);
+    expect(c1Entries.length).toBe(33);
     // A1 contributes 14
     const a1Entries = params.filter((p) => p.level === 'A1');
     expect(a1Entries.length).toBe(14);
