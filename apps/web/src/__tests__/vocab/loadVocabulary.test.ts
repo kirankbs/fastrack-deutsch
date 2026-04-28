@@ -3,7 +3,10 @@
  *
  * After #110, loadVocabulary is a static wrapper around getVocabulary — it must
  * not import fs/promises or call readFile. This test asserts the public contract:
- * all 5 levels return arrays of the correct length, C1 returns [] cleanly.
+ * all 5 levels return arrays of the correct length.
+ *
+ * C1 count reflects Bundle 2 only (IDs 231-480, 250 entries). When Bundle 1
+ * (IDs 1-230) merges and is rebased in, update this assertion to 480.
  */
 
 import { describe, it, expect } from 'vitest';
@@ -30,10 +33,10 @@ describe('loadVocabulary shim — no fs, static data only', () => {
     expect(words.length).toBeGreaterThan(0);
   });
 
-  it('C1 returns empty array cleanly (does not throw)', async () => {
+  it('C1 returns 250 vocabulary words (Bundle 2: IDs 231-480)', async () => {
     const words = await loadVocabulary('C1');
     expect(Array.isArray(words)).toBe(true);
-    expect(words).toHaveLength(0);
+    expect(words).toHaveLength(250);
   });
 
   it('unknown level returns empty array', async () => {
