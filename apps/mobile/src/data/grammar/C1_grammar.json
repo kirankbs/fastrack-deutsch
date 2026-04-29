@@ -1,1 +1,1877 @@
-[]
+[
+  {
+    "id": 1,
+    "level": "C1",
+    "topic": "Konjunktiv I — vollständiges Paradigma inkl. Vergangenheit und Ausweichformen",
+    "explanation": "Der Konjunktiv I ist das primäre Instrument der indirekten Rede in journalistischen, akademischen und protokollarischen Texten. Seine Bildung folgt einem klaren Muster: Verbstamm plus -e, -est, -e, -en, -et, -en, wobei die 1. Person Singular bei schwachen Verben formgleich mit dem Indikativ ist und deshalb auf den Konjunktiv II oder die würde-Umschreibung ausgewichen wird. Die Vergangenheit wird durch den Konjunktiv I von haben oder sein plus Partizip II ausgedrückt: er habe gesagt, sie sei gegangen, es habe stattgefunden. Entscheidend für das C1-Niveau ist die Beherrschung der Ausweichformen: Immer dann, wenn der Konjunktiv I mit dem Indikativ formgleich ist — besonders in der 3. Person Plural (sie kommen = sie kämen) —, weicht man in der Schriftsprache auf den Konjunktiv II aus. In akademischen Texten und Zeitungsberichten signalisiert der Konjunktiv I Distanz und Neutralität gegenüber der wiedergegebenen Aussage, ohne deren Wahrheit zu bewerten.",
+    "examples": [
+      "Der Bundesminister erklärte, die Reform werde noch in dieser Legislaturperiode verabschiedet.",
+      "Laut Gutachten sei der Angeklagte zum Tatzeitpunkt nicht zurechnungsfähig gewesen.",
+      "Die Wissenschaftlerin betonte, ihre Befunde seien durch mehrere unabhängige Studien bestätigt worden.",
+      "Der Zeuge sagte aus, er habe den Verdächtigen nie zuvor gesehen.",
+      "Dem Bericht zufolge hätten die Verhandlungen erst in letzter Minute zum Erfolg geführt.",
+      "Die Behörde teilte mit, alle eingegangenen Anträge seien fristgerecht bearbeitet worden.",
+      "Der Experte führte aus, die Datenlage lasse derzeit keine eindeutigen Schlussfolgerungen zu.",
+      "Laut Pressemitteilung hätten die Beteiligten eine einvernehmliche Lösung gefunden."
+    ],
+    "exercises": [
+      {
+        "type": "fill_blank",
+        "prompt": "Der Sprecher erklärte, die Maßnahmen ___ (sein) bereits in Kraft getreten. (Konjunktiv I Vergangenheit)",
+        "correctAnswer": "seien",
+        "explanation": "Konjunktiv I Vergangenheit: seien + Partizip II. 'sind' wäre Indikativ und signalisiert keine Distanz."
+      },
+      {
+        "type": "fill_blank",
+        "prompt": "Die Minister teilten mit, sie ___ (wollen) die Verhandlungen fortsetzen. (Ausweichform bei Formgleichheit)",
+        "correctAnswer": "wollten",
+        "explanation": "3. Pl. Konj. I 'wollen' = 'wollen' (= Indikativ). Ausweichform: Konjunktiv II 'wollten'."
+      },
+      {
+        "type": "transformation",
+        "prompt": "Direkte Rede: 'Wir haben alle Unterlagen geprüft.' — Formen Sie in indirekte Rede (3. Person Plural) um.",
+        "correctAnswer": "Sie sagten, sie hätten alle Unterlagen geprüft.",
+        "explanation": "Vergangenheit der indirekten Rede: hätten + Partizip II (Ausweichform, da 'haben' Plural formgleich wäre)."
+      },
+      {
+        "type": "mcq",
+        "prompt": "Welche Formulierung ist korrekte indirekte Rede im journalistischen Register? Direkt: 'Ich bin seit drei Jahren in dieser Position.'",
+        "correctAnswer": "Er sagte, er sei seit drei Jahren in dieser Position.",
+        "explanation": "Konjunktiv I 3. Sg. von sein ist 'sei' — eindeutig und stilistisch korrekt für journalistische Texte."
+      },
+      {
+        "type": "fill_blank",
+        "prompt": "Die Forscherin erklärte, die Ergebnisse ___ (haben) ihre ursprüngliche Hypothese widerlegt. (Konj. I Verg.)",
+        "correctAnswer": "hätten",
+        "explanation": "Konjunktiv I Vergangenheit mit haben: hätten + Partizip II. Hier auch Ausweichform, da 'haben' Plural formgleich."
+      },
+      {
+        "type": "reorder",
+        "prompt": "berichtete / die Zeitung / , / das Experiment / gescheitert / sei / kläglich",
+        "correctAnswer": "Die Zeitung berichtete, das Experiment sei kläglich gescheitert.",
+        "explanation": "Einleitungssatz + Komma + indirekter Satz mit Konjunktiv I (sei + Partizip II)."
+      },
+      {
+        "type": "transformation",
+        "prompt": "Direkte Rede: 'Die Lage verbessert sich täglich.' (Subjekt: die Experten, 3. Person Plural) — Bilden Sie indirekte Rede.",
+        "correctAnswer": "Die Experten meinten, die Lage verbessere sich täglich.",
+        "explanation": "3. Sg. Konj. I von 'verbessern': verbessere — eindeutig verschieden vom Indikativ, keine Ausweichform nötig."
+      }
+    ],
+    "orderIndex": 1
+  },
+  {
+    "id": 2,
+    "level": "C1",
+    "topic": "Konjunktiv II — Irrealis Vergangenheit, literarischer Gebrauch und doppelte Konditionalkonstruktionen",
+    "explanation": "Auf C1-Niveau geht der Konjunktiv II weit über einfache Irrealis-Konstruktionen hinaus. Der Irrealis der Vergangenheit verbindet hätte oder wäre mit dem Partizip II und drückt aus, was unter anderen Umständen möglich gewesen wäre: 'Hätte ich das früher erkannt, wäre der Schaden vermieden worden.' Besonders anspruchsvoll sind doppelte Konditionalkonstruktionen, bei denen beide Teilsätze Modalverben enthalten: 'Hätte sie das Stipendium erhalten, hätte sie ihr Studium abschließen können.' Wunschsätze im Konjunktiv II der Vergangenheit signalisieren irreversible Reue oder kontrafaktische Überlegungen: 'Wenn ich doch nur früher gehandelt hätte.' In akademisch-essayistischen Texten erscheint der Konjunktiv II in höflichen Einwänden und hypothetischen Argumentationsrahmen: 'Man könnte einwenden, dass...' Der Modalkonjunktiv II in der Vergangenheit — hätte können/müssen/sollen/dürfen — ist eine spezifisch C1-relevante Konstruktion, die retrospektive Bewertungen ausdrückt.",
+    "examples": [
+      "Hätte die Kommission früher eingegriffen, wäre der Skandal in diesem Ausmaß vermeidbar gewesen.",
+      "Wenn er die Konsequenzen bedacht hätte, hätte er die Entscheidung anders treffen können.",
+      "Man hätte die Bürger frühzeitig in den Entscheidungsprozess einbeziehen müssen.",
+      "Wäre das Gutachten rechtzeitig vorgelegen, hätte das Gericht anders urteilen dürfen.",
+      "Wenn ich doch nur auf die Warnzeichen geachtet hätte — der Verlust wäre abwendbar gewesen.",
+      "Unter anderen Rahmenbedingungen hätte dieses Experiment durchaus zu anderen Ergebnissen führen können.",
+      "Es wäre sinnvoller gewesen, zunächst eine Pilotphase einzuführen.",
+      "Hätte man die Infrastruktur rechtzeitig modernisiert, wäre die Krise in dieser Form nicht eingetreten."
+    ],
+    "exercises": [
+      {
+        "type": "fill_blank",
+        "prompt": "Wenn die Verhandlungen nicht gescheitert ___, ___ man eine Einigung ___ (erzielen können — Irrealis Verg.).",
+        "correctAnswer": "wären, hätte, erzielen können",
+        "explanation": "Doppelter Irrealis: wären + Partizip II im Nebensatz; hätte + Infinitiv + können im Hauptsatz."
+      },
+      {
+        "type": "transformation",
+        "prompt": "Formen Sie in einen Irrealis der Vergangenheit um: 'Die Studie wird nicht veröffentlicht, weil die Datenlage unzureichend ist.'",
+        "correctAnswer": "Die Studie wäre veröffentlicht worden, wenn die Datenlage ausreichend gewesen wäre.",
+        "explanation": "Irrealis Vergangenheit: wäre + Partizip II + worden (Passiv); wenn + Plusquamperfekt → Konjunktiv II."
+      },
+      {
+        "type": "fill_blank",
+        "prompt": "Das Projekt ___ rechtzeitig abgeschlossen werden ___, wenn mehr Ressourcen zur Verfügung gestanden hätten.",
+        "correctAnswer": "hätte, können",
+        "explanation": "Modalverb-Konjunktiv II Vergangenheit: hätte + Infinitiv + Modalverb (Infinitiv)."
+      },
+      {
+        "type": "mcq",
+        "prompt": "Welcher Satz drückt korrekt aus, dass eine vergangene Handlung unterlassen wurde, aber hätte stattfinden sollen?",
+        "correctAnswer": "Man hätte die Bevölkerung früher informieren müssen.",
+        "explanation": "'hätte + Infinitiv + müssen' drückt eine retrospektive Notwendigkeit aus, die nicht erfüllt wurde."
+      },
+      {
+        "type": "fill_blank",
+        "prompt": "Wenn ich doch nur früher ___ (reagieren) ___! (Wunschsatz Irrealis Vergangenheit)",
+        "correctAnswer": "reagiert hätte",
+        "explanation": "Irrealer Wunschsatz Vergangenheit: Partizip II + hätte (Verbklammer)."
+      },
+      {
+        "type": "reorder",
+        "prompt": "könnte / man / einwenden / , / dass / dieser / Ansatz / zu kurz / greife",
+        "correctAnswer": "Man könnte einwenden, dass dieser Ansatz zu kurz greife.",
+        "explanation": "Konjunktiv II 'könnte' in hypothetischer Argumentation; Konjunktiv I 'greife' in der indirekten Assertion."
+      },
+      {
+        "type": "transformation",
+        "prompt": "Bilden Sie einen doppelten Konditionalsatz (Vergangenheit): 'Er bekam kein Stipendium. Er konnte das Studium nicht abschließen.'",
+        "correctAnswer": "Hätte er ein Stipendium bekommen, hätte er das Studium abschließen können.",
+        "explanation": "Doppelter Irrealis Vergangenheit: hätte + Partizip II (Nebensatz) — hätte + Infinitiv + können (Hauptsatz)."
+      }
+    ],
+    "orderIndex": 2
+  },
+  {
+    "id": 3,
+    "level": "C1",
+    "topic": "Passiv — vollständiges Formenrepertoire inkl. Modalverben-Passiv und Zustandspassiv",
+    "explanation": "Das vollständige Passivparadigma auf C1-Niveau umfasst alle Zeitformen des Vorgangspassivs sowie die Kombination mit Modalverben und den Zustandspassiv. Das Vorgangspassiv (werden + Partizip II) existiert in Präsens, Präteritum, Perfekt, Plusquamperfekt und Futur I. Der Modalverb-Passiv verbindet ein Modalverb mit dem Infinitiv des Passivs: 'Das Problem muss gelöst werden', 'Das Gesetz hätte geändert werden müssen', 'Die Frist kann verlängert werden.' Besonders komplex ist das Modalverb-Passiv in der Vergangenheit, das im Konjunktiv II erscheint: 'hätte beschlossen werden müssen', 'wäre abgelehnt worden können' (letzteres selten). Der Zustandspassiv (sein + Partizip II) bezeichnet einen resultierenden Zustand, nicht den Prozess: 'Die Tür ist geschlossen' (Zustand) vs. 'Die Tür wird geschlossen' (Vorgang). C1-Kandidaten müssen diese Distinktion im Schreiben produktiv beherrschen und in Lesetexten sicher erkennen.",
+    "examples": [
+      "Über die endgültige Formulierung des Gesetzentwurfs ist noch nicht entschieden worden.",
+      "Die Ergebnisse der Studie müssen einer eingehenden Überprüfung unterzogen werden.",
+      "Das Gebäude war bereits renoviert worden, als die neuen Vorschriften in Kraft traten.",
+      "Durch die Reform sollen die bürokratischen Hürden erheblich abgebaut werden.",
+      "Der Antrag hätte bereits vor Wochen genehmigt werden müssen.",
+      "Das Protokoll ist unterzeichnet — alle Klauseln sind abgestimmt worden.",
+      "Die betroffene Region kann nur mit internationaler Unterstützung stabilisiert werden.",
+      "Seit dem Umbau ist der Haupteingang dauerhaft gesperrt."
+    ],
+    "exercises": [
+      {
+        "type": "fill_blank",
+        "prompt": "Die Entscheidung ___ schon längst ___ ___ ___ (treffen — Modalverb-Passiv Vergangenheit mit müssen, Konjunktiv II).",
+        "correctAnswer": "hätte getroffen werden müssen",
+        "explanation": "Modalverb-Passiv Vergangenheit: hätte + Partizip II + werden + Modalverb (Infinitiv) — Verbklammer im Nebensatz."
+      },
+      {
+        "type": "mcq",
+        "prompt": "Welcher Satz beschreibt einen Zustand (Zustandspassiv), nicht einen Vorgang?",
+        "correctAnswer": "Das Labor ist seit dem Unfall gesperrt.",
+        "explanation": "Zustandspassiv: sein + Partizip II beschreibt den resultierenden Zustand. 'wird gesperrt' wäre ein Vorgang."
+      },
+      {
+        "type": "fill_blank",
+        "prompt": "Alle eingereichten Bewerbungen ___ sorgfältig ___ ___ (prüfen — Modalverb-Passiv Präsens mit sollen).",
+        "correctAnswer": "sollen geprüft werden",
+        "explanation": "Modalverb-Passiv Präsens: Modalverb + Partizip II + werden."
+      },
+      {
+        "type": "transformation",
+        "prompt": "Formen Sie in Passiv Plusquamperfekt um: 'Die Behörden hatten alle Akten vernichtet.'",
+        "correctAnswer": "Alle Akten waren von den Behörden vernichtet worden.",
+        "explanation": "Passiv Plusquamperfekt: war/waren + Partizip II + worden. Agens mit 'von + Dativ'."
+      },
+      {
+        "type": "fill_blank",
+        "prompt": "In der Sitzung ___ zahlreiche Verbesserungsvorschläge ___ (einbringen — Passiv Präteritum).",
+        "correctAnswer": "wurden eingebracht",
+        "explanation": "Passiv Präteritum: wurden + Partizip II."
+      },
+      {
+        "type": "mcq",
+        "prompt": "Welche Form ist korrektes Modalverb-Passiv Perfekt? 'Man hat den Bericht überarbeiten müssen.'",
+        "correctAnswer": "Der Bericht hat überarbeitet werden müssen.",
+        "explanation": "Modalverb-Passiv Perfekt (Ersatzinfinitiv): hat + Partizip II + werden + müssen (alle im Infinitiv außer hat)."
+      },
+      {
+        "type": "reorder",
+        "prompt": "werden / die Ergebnisse / der Öffentlichkeit / vorgestellt / morgen / sollen",
+        "correctAnswer": "Die Ergebnisse sollen morgen der Öffentlichkeit vorgestellt werden.",
+        "explanation": "Modalverb-Passiv Präsens: Modalverb (Position 2) + ... + Partizip II + werden (Satzende)."
+      }
+    ],
+    "orderIndex": 3
+  },
+  {
+    "id": 4,
+    "level": "C1",
+    "topic": "Passiv-Ersatzformen — produktiver Gebrauch und stilistische Differenzierung",
+    "explanation": "Auf C1-Niveau sind Passiv-Ersatzformen nicht nur rezeptiv bekannt, sondern werden produktiv in akademischen und journalistischen Texten eingesetzt, um Stilmonotonie zu vermeiden. Die wichtigsten Formen sind: 1) 'sich lassen + Infinitiv' mit der Modalbedeutung 'kann/lässt sich bewerkstelligen' (positiv oder negativ); 2) 'sein + zu + Infinitiv' mit der Bedeutung 'muss' oder 'kann' — je nach Kontext; 3) das Gerundivum 'zu + Partizip I als Attribut' (die zu lösende Aufgabe, der nicht zu unterschätzende Aufwand); 4) Adjektive auf -bar, -lich, -abel, -ibel für die Möglichkeit; 5) das reflexive Verb mit modaler Bedeutung (Das gestaltet sich schwierig, Das erweist sich als nötig). C1-Kandidaten müssen die Formenwahl nach Register und Modalbedeutung (Möglichkeit vs. Notwendigkeit) differenzieren. 'Sich lassen' klingt etwas weniger formal als 'sein + zu', das Gerundivum ist das markierteste, akademischste Mittel.",
+    "examples": [
+      "Die Komplexität dieser Frage lässt sich nicht auf wenige Sätze reduzieren.",
+      "Auf die ethischen Implikationen dieser Entscheidung ist besonders hinzuweisen.",
+      "Die noch ausstehenden Fragen sind im Rahmen weiterer Untersuchungen zu klären.",
+      "Ein derartiger Ansatz erweist sich unter den gegebenen Bedingungen als kaum praktikabel.",
+      "Die in der Literatur diskutierten Modelle lassen sich grob in zwei Kategorien einteilen.",
+      "Die nicht zu leugnenden Schwächen des Konzepts werden im Folgenden dargelegt.",
+      "Ob die Ergebnisse reproduzierbar sind, muss eine Anschlussstudie zeigen.",
+      "Das zu überbrückende Defizit beläuft sich auf mehrere Millionen Euro."
+    ],
+    "exercises": [
+      {
+        "type": "transformation",
+        "prompt": "Ersetzen Sie das Passiv durch eine Passiv-Ersatzform: 'Diese Methode kann auf viele Bereiche angewendet werden.'",
+        "correctAnswer": "Diese Methode lässt sich auf viele Bereiche anwenden.",
+        "explanation": "'sich lassen + Infinitiv' ersetzt 'kann ... werden' (Möglichkeit). Klingt etwas informeller als sein+zu, aber klar und präzise."
+      },
+      {
+        "type": "transformation",
+        "prompt": "Bilden Sie ein Gerundivum als Attribut: 'Der Aufwand, der nicht zu unterschätzen ist.'",
+        "correctAnswer": "der nicht zu unterschätzende Aufwand",
+        "explanation": "Gerundivum: zu + Partizip I als Attribut, dekliniert wie ein Adjektiv."
+      },
+      {
+        "type": "fill_blank",
+        "prompt": "Die Ergebnisse ___ einer kritischen Überprüfung ___ ___. (sein + zu + Infinitiv, Notwendigkeit)",
+        "correctAnswer": "sind einer kritischen Überprüfung zu unterziehen",
+        "explanation": "'sein + zu + Infinitiv' drückt Notwendigkeit aus: müssen unterzogen werden."
+      },
+      {
+        "type": "mcq",
+        "prompt": "Welche Passiv-Ersatzform ist im akademischen Schreiben am markiertesten (formellsten)?",
+        "correctAnswer": "das Gerundivum (zu + Partizip I als Attribut)",
+        "explanation": "Das Gerundivum (die zu lösende Frage) ist das formellste, akademischste Mittel und charakteristisch für wissenschaftliche Prosa."
+      },
+      {
+        "type": "fill_blank",
+        "prompt": "Ob diese Hypothese ___ (verifizierbar — Adjektiv auf -bar) ist, bleibt abzuwarten.",
+        "correctAnswer": "verifizierbar",
+        "explanation": "Adjektiv auf -bar drückt Möglichkeit aus: kann verifiziert werden = ist verifizierbar."
+      },
+      {
+        "type": "transformation",
+        "prompt": "Ersetzen Sie das Passiv durch 'sein + zu + Infinitiv': 'Alle Anträge müssen bis Freitag eingereicht werden.'",
+        "correctAnswer": "Alle Anträge sind bis Freitag einzureichen.",
+        "explanation": "'sein + zu + Infinitiv' übernimmt die Bedeutung von Notwendigkeit (müssen ... werden)."
+      },
+      {
+        "type": "reorder",
+        "prompt": "lässt / das Problem / kaum / sich / in / Zeit / kurzer / lösen",
+        "correctAnswer": "Das Problem lässt sich kaum in kurzer Zeit lösen.",
+        "explanation": "'sich lassen + Infinitiv': lässt sich ... lösen. Negation 'kaum' steht vor dem präpositionalen Rahmen."
+      }
+    ],
+    "orderIndex": 4
+  },
+  {
+    "id": 5,
+    "level": "C1",
+    "topic": "Modalverben subjektiv — vollständiges Paradigma inkl. Vergangenheit",
+    "explanation": "Modalverben können in der subjektiven Verwendung die Einschätzung oder Haltung des Sprechers zu einer Sachaussage ausdrücken — im Unterschied zur objektiven Verwendung, die eine Pflicht, Erlaubnis oder Fähigkeit bezeichnet. Auf C1-Niveau müssen alle sechs Modalverben mit ihren subjektiven Lesarten in der Gegenwart und Vergangenheit produktiv beherrscht werden. Die Gegenwartsform: Modalverb + Infinitiv (er muss krank sein, er könnte Recht haben, er soll Millionär sein, er will ein Zeuge gewesen sein, er dürfte sich geirrt haben, er mag einen Punkt haben). Die Vergangenheitsform: Modalverb + Partizip II + sein/haben (er muss krank gewesen sein, er könnte es gewusst haben). Die Distinktion zwischen den sechs Lesarten — Epistemic (muss, dürfte, könnte, kann, mag), Reportativ (soll), Kontrafaktisch-Claimed (will) — ist eine spezifische C1-Kompetenz.",
+    "examples": [
+      "Angesichts der Beweislage muss der Angeklagte vom Tatort gewusst haben.",
+      "Die Verzögerung dürfte auf interne Unstimmigkeiten zurückzuführen sein.",
+      "Der Zeuge soll die gesamte Transaktion beobachtet haben — das wird nun geprüft.",
+      "Er will an jenem Abend zu Hause geblieben sein, obwohl Zeugen ihn andernorts gesehen haben wollen.",
+      "Die Ergebnisse mögen überraschen, sind aber methodisch solide abgesichert.",
+      "Diese Interpretation könnte zutreffen, lässt sich aber anhand der vorliegenden Daten nicht bestätigen.",
+      "Die Kosten müssen erheblich unterschätzt worden sein, da das Budget so rasch aufgebraucht war.",
+      "Der Konflikt mag tiefere strukturelle Ursachen haben, als auf den ersten Blick erkennbar ist."
+    ],
+    "exercises": [
+      {
+        "type": "mcq",
+        "prompt": "Welches Modalverb drückt aus, dass die Aussage auf einer fremden Quelle basiert (reportativ), nicht auf eigener Einschätzung?",
+        "correctAnswer": "soll",
+        "explanation": "'soll' in subjektiver Verwendung gibt fremde Behauptungen wieder: 'Er soll betrogen haben' = Man behauptet, dass er betrogen hat."
+      },
+      {
+        "type": "fill_blank",
+        "prompt": "Aufgrund der Symptome ___ der Patient an einer seltenen Infektionskrankheit ___ (leiden — epistemische Vermutung, hohe Wahrscheinlichkeit).",
+        "correctAnswer": "muss gelitten haben",
+        "explanation": "Subjektives 'müssen' Vergangenheit: muss + Partizip II + haben — hohe Wahrscheinlichkeit."
+      },
+      {
+        "type": "transformation",
+        "prompt": "Drücken Sie dieselbe Bedeutung mit einem Modalverb aus: 'Es ist wahrscheinlich, dass er die E-Mail gesehen hat.'",
+        "correctAnswer": "Er dürfte die E-Mail gesehen haben.",
+        "explanation": "'dürfte' (subjektiv) = Es ist wahrscheinlich, aber nicht sicher. Vergangenheit: dürfte + Partizip II + haben."
+      },
+      {
+        "type": "fill_blank",
+        "prompt": "Der Abgeordnete ___ Bestechungsgelder angenommen ___ — die Staatsanwaltschaft ermittelt. (soll, Vergangenheit)",
+        "correctAnswer": "soll angenommen haben",
+        "explanation": "Reportatives 'soll' Vergangenheit: soll + Partizip II + haben — gibt eine externe Behauptung wieder."
+      },
+      {
+        "type": "mcq",
+        "prompt": "Was unterscheidet 'Er will dabei gewesen sein' von 'Er soll dabei gewesen sein'?",
+        "correctAnswer": "'will' bedeutet, er selbst behauptet es; 'soll' bedeutet, andere behaupten es.",
+        "explanation": "'wollen' subjektiv: Eigenbehauptung des Subjekts. 'sollen' subjektiv: Fremdbehauptung, externe Quelle."
+      },
+      {
+        "type": "fill_blank",
+        "prompt": "Die These ___ einen wichtigen Beitrag zur Forschungsdebatte ___ (leisten — konzessives 'mögen', Gegenwart).",
+        "correctAnswer": "mag leisten",
+        "explanation": "Konzessives 'mag': räumt eine Möglichkeit ein, ohne sie voll zu bestätigen. Gegenwart: mag + Infinitiv."
+      },
+      {
+        "type": "transformation",
+        "prompt": "Ersetzen Sie durch subjektives Modalverb: 'Es ist möglich, dass die Theorie sich als falsch erweist.'",
+        "correctAnswer": "Die Theorie könnte sich als falsch erweisen.",
+        "explanation": "'könnte' subjektiv (epistemisch): drückt eine als möglich eingeschätzte Sachaussage aus."
+      }
+    ],
+    "orderIndex": 5
+  },
+  {
+    "id": 6,
+    "level": "C1",
+    "topic": "Verbalstil und Nominalstil — produktive Transformation",
+    "explanation": "Im Deutschen konkurrieren Verbalstil (handlungsorientiert, näher an der gesprochenen Sprache) und Nominalstil (substantivisch, verdichtet, typisch für Fach- und Verwaltungssprache) als zwei stilistische Register. Der Nominalstil nominalisiert Verben und Adjektive zu abstrakten Substantiven und kombiniert sie mit Funktionsverbgefügen: 'Die Regierung entscheidet' wird zu 'Die Regierung trifft eine Entscheidung', 'Das wird analysiert' zu 'Die Analyse erfolgt'. Auf C1-Niveau wird von Kandidaten erwartet, dass sie beide Stile erkennen, deren Register einschätzen und produktiv zwischen ihnen transformieren können. Der Nominalstil dominiert in wissenschaftlichen Texten, Gesetzestexten und offiziellen Berichten; er verdichtet Information, distanziert und objektiviert. Der Verbalstil ist lebendiger, klarer und direkter. Ein übermäßiger Nominalstil kann Texte schwer lesbar machen — stilistisches Urteilsvermögen ist daher ebenso gefragt.",
+    "examples": [
+      "Verbalstil: Die Behörde genehmigt den Antrag. — Nominalstil: Die Genehmigung des Antrags erfolgt durch die Behörde.",
+      "Verbalstil: Das Unternehmen expandiert in neue Märkte. — Nominalstil: Die Expansion des Unternehmens in neue Märkte findet statt.",
+      "Verbalstil: Man analysiert die Daten sorgfältig. — Nominalstil: Eine sorgfältige Analyse der Daten wird vorgenommen.",
+      "Verbalstil: Die Situation verbessert sich langsam. — Nominalstil: Eine allmähliche Verbesserung der Situation ist zu beobachten.",
+      "Verbalstil: Die Forscher diskutieren die Ergebnisse. — Nominalstil: Die Diskussion der Ergebnisse durch die Forscher findet im Rahmen der Tagung statt.",
+      "Verbalstil: Man berücksichtigt alle relevanten Faktoren. — Nominalstil: Unter Berücksichtigung aller relevanten Faktoren gelangt man zu folgendem Schluss.",
+      "Nominalstil: Die Durchführung der Maßnahmen liegt in der Verantwortung der zuständigen Abteilung.",
+      "Verbalstil: Es wurde festgestellt, dass die Methode unzuverlässig ist. — Nominalstil: Die Feststellung der Unzuverlässigkeit der Methode ergibt sich aus den Messdaten."
+    ],
+    "exercises": [
+      {
+        "type": "transformation",
+        "prompt": "Formen Sie in Nominalstil um: 'Die Kommission überprüft regelmäßig die Einhaltung der Richtlinien.'",
+        "correctAnswer": "Die regelmäßige Überprüfung der Einhaltung der Richtlinien erfolgt durch die Kommission.",
+        "explanation": "Verb 'überprüft' → Substantiv 'Überprüfung'; Adverb 'regelmäßig' → Adjektivattribut 'regelmäßige'; Subjekt → 'durch + Akkusativ'."
+      },
+      {
+        "type": "transformation",
+        "prompt": "Formen Sie in Verbalstil um: 'Die Implementierung der neuen Software-Lösung wird vom IT-Team vorgenommen.'",
+        "correctAnswer": "Das IT-Team implementiert die neue Software-Lösung.",
+        "explanation": "Substantiv 'Implementierung' → Verb 'implementiert'; Passiv-FVG → aktives Verb; Agens tritt als Subjekt auf."
+      },
+      {
+        "type": "fill_blank",
+        "prompt": "Nominalstil: Eine eingehende ___ (untersuchen) der Ursachen ___ (stattfinden) im Auftrag der Behörde.",
+        "correctAnswer": "Untersuchung, findet statt",
+        "explanation": "Verb 'untersuchen' → 'Untersuchung'; Funktionsverbgefüge 'stattfinden' als Ersatz für einfaches Verb."
+      },
+      {
+        "type": "mcq",
+        "prompt": "In welchem Kontext ist Nominalstil angemessener als Verbalstil?",
+        "correctAnswer": "In einem wissenschaftlichen Forschungsbericht über statistische Methoden",
+        "explanation": "Nominalstil ist charakteristisch für akademische und administrative Texte, die Objektivität und Distanz anstreben."
+      },
+      {
+        "type": "transformation",
+        "prompt": "Formen Sie in Nominalstil um: 'Man berücksichtigt nicht, dass die Kosten erheblich steigen könnten.'",
+        "correctAnswer": "Eine mögliche erhebliche Kostensteigerung findet keine Berücksichtigung.",
+        "explanation": "Verbalkonstruktion → Nominalkonstruktion: 'berücksichtigt nicht' → 'findet keine Berücksichtigung'; 'steigen könnten' → 'mögliche Steigerung'."
+      },
+      {
+        "type": "fill_blank",
+        "prompt": "Verbalstil: Man trifft die Maßnahmen rechtzeitig. Nominalstil: Die rechtzeitige ___ der Maßnahmen ___ zur Schadensbegrenzung bei.",
+        "correctAnswer": "Ergreifung, trägt",
+        "explanation": "FVG 'Maßnahmen ergreifen' → 'Ergreifung der Maßnahmen'; Funktionsverb 'tragen bei' bleibt erhalten."
+      }
+    ],
+    "orderIndex": 6
+  },
+  {
+    "id": 7,
+    "level": "C1",
+    "topic": "Nominalisierung — produktive Transformation Verb/Adjektiv zu Substantiv",
+    "explanation": "Die Nominalisierung ist ein zentrales Merkmal des akademischen und formalen Deutschen und wird auf C1-Niveau produktiv erwartet. Verben werden durch verschiedene Suffixe zu Substantiven: -ung (die Entscheidung, die Analyse), -heit/-keit (die Schwierigkeit, die Zuverlässigkeit), -nis (das Ergebnis, das Verständnis), -schaft (die Wissenschaft), -tum (das Wachstum), der substantivierte Infinitiv (das Scheitern, das Gelingen). Adjektive nominalisieren mit -heit/-keit (die Möglichkeit, die Komplexität) oder durch Substantivierung (das Wesentliche, das Neue, das Unbekannte). Auf C1-Niveau ist nicht nur die Bildung, sondern auch die korrekte Genus-Zuweisung und Rektion entscheidend: die Auseinandersetzung mit, das Bewusstsein für, die Abhängigkeit von. Typische Fehler: falsches Genus (der Interesse statt das Interesse), falsche Rektion (die Analyse über statt die Analyse von), fehlende Artikel-Schwächung bei unbestimmten abstrakten Nominalisierungen.",
+    "examples": [
+      "Das Scheitern des Projekts ist auf strukturelle Defizite in der Planungsphase zurückzuführen.",
+      "Die Komplexität dieser Fragestellung erfordert einen interdisziplinären Forschungsansatz.",
+      "Das Bewusstsein für die ökologischen Folgewirkungen hat in der Bevölkerung erheblich zugenommen.",
+      "Ohne ein fundiertes Verständnis der historischen Zusammenhänge lässt sich diese Entwicklung nicht einordnen.",
+      "Die Abhängigkeit der Volkswirtschaft von fossilen Energieträgern erweist sich als strukturelles Hindernis.",
+      "Das Gelingen einer konstruktiven Debatte setzt gegenseitigen Respekt voraus.",
+      "Die Bereitschaft zur Kompromissfindung ist eine Grundvoraussetzung demokratischer Entscheidungsprozesse.",
+      "Angesichts der Schwierigkeit, verlässliche Daten zu erheben, sind die Ergebnisse mit Vorsicht zu interpretieren."
+    ],
+    "exercises": [
+      {
+        "type": "transformation",
+        "prompt": "Nominalisieren Sie das Verb: 'Die Gesellschaft entwickelt sich rasant.'",
+        "correctAnswer": "Die rasante Entwicklung der Gesellschaft ist unverkennbar.",
+        "explanation": "Verb 'entwickeln' → Substantiv 'Entwicklung' (die Entwicklung, -ung-Suffigierung); Adverb → Adjektivattribut."
+      },
+      {
+        "type": "fill_blank",
+        "prompt": "Das ___ (scheitern — substantivierter Infinitiv) des Experiments hat neue Fragen aufgeworfen.",
+        "correctAnswer": "Scheitern",
+        "explanation": "Substantivierter Infinitiv: das Scheitern (Neutrum, großgeschrieben, mit Artikel)."
+      },
+      {
+        "type": "transformation",
+        "prompt": "Nominalisieren Sie: 'Es ist möglich, die Hypothese zu überprüfen.'",
+        "correctAnswer": "Die Möglichkeit der Überprüfung der Hypothese besteht.",
+        "explanation": "Adjektiv 'möglich' → 'Möglichkeit' (-keit); Verb 'überprüfen' → 'Überprüfung' (-ung); Genitiv-Anschluss."
+      },
+      {
+        "type": "fill_blank",
+        "prompt": "Die ___ (abhängig sein — Substantiv) der Ergebnisse von den Ausgangsbedingungen ist belegt.",
+        "correctAnswer": "Abhängigkeit",
+        "explanation": "Adjektiv 'abhängig' → Substantiv 'Abhängigkeit' (-keit); Rektion: Abhängigkeit von + Dativ."
+      },
+      {
+        "type": "mcq",
+        "prompt": "Welche Nominalisierung ist korrekt gebildet und mit dem richtigen Genus versehen?",
+        "correctAnswer": "das Verständnis (von 'verstehen')",
+        "explanation": "'das Verständnis' ist Neutrum (-nis-Suffix → meist Neutrum). 'die Verständnis' wäre falsch."
+      },
+      {
+        "type": "transformation",
+        "prompt": "Nominalisieren Sie: 'Der Forscher ist bereit, neue Methoden auszuprobieren.'",
+        "correctAnswer": "Die Bereitschaft des Forschers, neue Methoden auszuprobieren, ist vorhanden.",
+        "explanation": "Adjektiv 'bereit' → 'Bereitschaft' (-schaft); zu-Infinitiv bleibt als Erweiterung erhalten."
+      }
+    ],
+    "orderIndex": 7
+  },
+  {
+    "id": 8,
+    "level": "C1",
+    "topic": "Erweiterte Attribute und Partizipialkonstruktionen — produktiv inkl. Verschachtelung",
+    "explanation": "Erweiterte Attribute sind ein charakteristisches Merkmal akademischer, journalistischer und rechtlicher Texte im Deutschen. Sie entstehen, wenn ein Partizip (I oder II) mit eigenen Ergänzungen und Angaben als Attribut vor einem Substantiv steht, das gesamte Attribut aber — anders als im Englischen — dem Nomen vorangestellt wird. Das Partizip I (Präsens) drückt eine gleichzeitige, aktive Handlung aus: 'die seit Jahren intensiv diskutierte Frage'. Das Partizip II drückt eine abgeschlossene oder passive Handlung aus: 'die von der Kommission im März verabschiedete Resolution'. Auf C1-Niveau kommt Verschachtelung hinzu: 'die von der für Bildungsfragen zuständigen Abteilung des Ministeriums erstellte Studie'. Diese Konstruktionen erscheinen produktiv im Schreiben und Sprechen und sind für die Lese- und Hörkompetenz unbedingt nötig. Typischer Lernerfehler: das erweiterte Attribut wird als Relativsatz stehen gelassen ('die Studie, die erstellt wurde'), was stilistisch schwächer ist.",
+    "examples": [
+      "Die von führenden Klimaforschern seit Jahrzehnten prognostizierten Szenarien treten nun ein.",
+      "Ein noch zu klärender Widerspruch zwischen den Modellprognosen und den Messdaten bleibt bestehen.",
+      "Der von der Bundesregierung vorgelegte, jedoch parlamentarisch noch nicht abgestimmte Gesetzentwurf wird kontrovers diskutiert.",
+      "Die von mehreren unabhängigen Experten geforderte Überprüfung des Verfahrens steht noch aus.",
+      "Das von der zuständigen Regulierungsbehörde nach langer Prüfung genehmigte Projekt kann nun beginnen.",
+      "Eine in der Fachliteratur bislang kaum beachtete Studie stellt diese Annahmen grundlegend infrage.",
+      "Die durch neue Messmethoden gewonnenen, bisher unveröffentlichten Daten belegen die Hypothese.",
+      "Das auf mehrere Jahre angelegte, mit erheblichen öffentlichen Mitteln geförderte Forschungsprogramm wird evaluiert."
+    ],
+    "exercises": [
+      {
+        "type": "transformation",
+        "prompt": "Ersetzen Sie den Relativsatz durch ein erweitertes Attribut: 'Die Maßnahmen, die von der Regierung beschlossen wurden, treten am 1. Januar in Kraft.'",
+        "correctAnswer": "Die von der Regierung beschlossenen Maßnahmen treten am 1. Januar in Kraft.",
+        "explanation": "Relativsatz (die ... wurden) → erweitertes Partizip-II-Attribut (von der Regierung beschlossenen) vor dem Nomen."
+      },
+      {
+        "type": "transformation",
+        "prompt": "Ersetzen Sie durch ein erweitertes Partizip-I-Attribut: 'Die Zahl der Studierenden, die rasant wächst, übersteigt alle Prognosen.'",
+        "correctAnswer": "Die rasant wachsende Zahl der Studierenden übersteigt alle Prognosen.",
+        "explanation": "Partizip I (wächst → wachsend) mit Adverb 'rasant' als erweitertes Attribut vor dem Nomen."
+      },
+      {
+        "type": "fill_blank",
+        "prompt": "Die von der Kommission ___ (erarbeiten, Partizip II) und vom Parlament ___ (verabschieden, Partizip II) Empfehlungen werden umgesetzt.",
+        "correctAnswer": "erarbeiteten, verabschiedeten",
+        "explanation": "Zwei Partizip-II-Attribute koordiniert ('und') mit identischer Deklinationsendung (-en, Plural)."
+      },
+      {
+        "type": "mcq",
+        "prompt": "Welches erweiterte Attribut ist grammatisch korrekt gebildet?",
+        "correctAnswer": "die von der Expertenkommission nach intensiver Beratung formulierten Leitlinien",
+        "explanation": "Partizip II 'formulierten' dekliniert als Adjektiv (Plural, Dativ-Konstrukt: die + Adjektiv-en), korrekte Position vor dem Nomen."
+      },
+      {
+        "type": "transformation",
+        "prompt": "Bilden Sie ein verschachteltes erweitertes Attribut: 'Der Bericht wurde von der zuständigen Abteilung des Ministeriums erstellt. Er liegt nun vor.'",
+        "correctAnswer": "Der von der zuständigen Abteilung des Ministeriums erstellte Bericht liegt nun vor.",
+        "explanation": "Verschachtelung: 'der zuständigen Abteilung des Ministeriums' ist Genitiv-NP innerhalb des Partizip-II-Attributs."
+      },
+      {
+        "type": "fill_blank",
+        "prompt": "Ein noch ___ (klären, Gerundivum) Widerspruch in den Daten erfordert weitere Untersuchungen.",
+        "correctAnswer": "zu klärender",
+        "explanation": "Gerundivum: zu + Partizip I als Attribut. Genus: Maskulinum, unbestimmt → -er Endung (ein zu klärender)."
+      },
+      {
+        "type": "reorder",
+        "prompt": "von / die / Regierung / verabschiedete / der / Bundesregierung / geplante / und / Reform",
+        "correctAnswer": "die von der Bundesregierung geplante und verabschiedete Reform",
+        "explanation": "Zwei koordinierte Partizip-II-Attribute (geplante und verabschiedete) mit gemeinsamer Agens-PP 'von der Bundesregierung'."
+      }
+    ],
+    "orderIndex": 8
+  },
+  {
+    "id": 9,
+    "level": "C1",
+    "topic": "Partizip I und II als Attribut — produktiver Gebrauch im akademischen Register",
+    "explanation": "Partizipien als Attribute sind im Deutschen allgegenwärtig und auf C1-Niveau nicht nur zu rezipieren, sondern aktiv im Schreiben und Sprechen einzusetzen. Das Partizip I (Infinitiv + d) hat stets aktive und gleichzeitige Bedeutung: 'der steigende Druck' = der Druck, der steigt. Das Partizip II hat bei transitiven Verben passive und vorzeitige Bedeutung: 'der erhobene Einwand' = der Einwand, der erhoben wurde. Bei Verben mit sein-Perfekt drückt das Partizip II aktive Vorzeitigkeit aus: 'der eingetroffene Bericht' = der Bericht, der eingetroffen ist. Auf C1-Niveau ist die korrekte Distinktion zwischen diesen Bedeutungsebenen sowie die genaue Deklination (Starke/schwache/gemischte Flexion nach Artikelwort) entscheidend. Häufige Fehler: Verwendung von Partizip II statt Partizip I (der gestiegene Druck statt der steigende Druck für einen andauernden Prozess) oder falsche Deklinationsendung in Genitiv/Dativ-Konstruktionen.",
+    "examples": [
+      "Der zunehmende Wettbewerbsdruck zwingt Unternehmen zu grundlegenden Reformen.",
+      "Die eingehenden Anfragen werden von der Geschäftsstelle koordiniert und weitergeleitet.",
+      "Das verabschiedete Gesetz tritt zum 1. März in Kraft.",
+      "Die betroffenen Bürgerinnen und Bürger wurden über die geplanten Änderungen informiert.",
+      "Anhaltende Lieferschwierigkeiten gefährden die Produktionsziele des Unternehmens.",
+      "Die gestiegenen Energiepreise belasten private Haushalte und Industriebetriebe gleichermaßen.",
+      "Das durchgeführte Experiment erbrachte keine statistisch signifikanten Ergebnisse.",
+      "Zu den schwerwiegendsten Einwänden gegen den Vorschlag zählt die fehlende Finanzierungsgrundlage."
+    ],
+    "exercises": [
+      {
+        "type": "fill_blank",
+        "prompt": "Der ___ (steigen, Partizip I) Lebensstandard in Schwellenländern verändert die globale Nachfrage.",
+        "correctAnswer": "steigende",
+        "explanation": "Partizip I von 'steigen': steigend + -e (bestimmter Artikel, Maskulinum Nominativ)."
+      },
+      {
+        "type": "fill_blank",
+        "prompt": "Die ___ (beschließen, Partizip II) Maßnahmen sollen innerhalb von sechs Monaten umgesetzt werden.",
+        "correctAnswer": "beschlossenen",
+        "explanation": "Partizip II von 'beschließen': beschlossen + -en (Plural, Nominativ nach bestimmtem Artikel)."
+      },
+      {
+        "type": "mcq",
+        "prompt": "Welches Partizip ist korrekt? 'Die ___ Produktion wurde eingestellt.' (Vorgang, der schon aufgehört hat)",
+        "correctAnswer": "eingestellte",
+        "explanation": "Partizip II passiv 'eingestellte' (= die Produktion, die eingestellt wurde). Partizip I 'einstellende' würde eine aktive gleichzeitige Handlung bezeichnen."
+      },
+      {
+        "type": "transformation",
+        "prompt": "Ersetzen Sie durch Partizip als Attribut: 'Die Anfragen, die ständig zunehmen, überlasten die Hotline.'",
+        "correctAnswer": "Die ständig zunehmenden Anfragen überlasten die Hotline.",
+        "explanation": "Relativsatz (die ständig zunehmen) → Partizip I als Attribut (ständig zunehmenden), dekliniert im Plural Nominativ."
+      },
+      {
+        "type": "fill_blank",
+        "prompt": "Aufgrund der ___ (eintreten, Partizip II, Verben mit sein) Komplikationen musste der Eingriff abgebrochen werden.",
+        "correctAnswer": "eingetretenen",
+        "explanation": "Partizip II von intransitivem Verb mit sein-Perfekt: eingetreten + -en (nach bestimmtem Artikel, Plural Genitiv → -en)."
+      },
+      {
+        "type": "reorder",
+        "prompt": "anhaltende / die / Proteste / führten / einem / zu / Rücktritt / erzwungenen",
+        "correctAnswer": "Die anhaltenden Proteste führten zu einem erzwungenen Rücktritt.",
+        "explanation": "Partizip I 'anhaltend-' (Plural -en nach bestimmtem Artikel); Partizip II 'erzwungen-' nach unbestimmtem Artikel → -en."
+      }
+    ],
+    "orderIndex": 9
+  },
+  {
+    "id": 10,
+    "level": "C1",
+    "topic": "Stilistische Hervorhebung — es-Spaltsatz, Inversion, Topikalisierung, Linksversetzung",
+    "explanation": "Auf C1-Niveau gehört der bewusste Einsatz von Hervorhebungsstrukturen zur produktiven Sprachkompetenz. Der es-Spaltsatz (Cleft-Konstruktion) gliedert einen Satz auf und betont ein einzelnes Element: 'Es ist die mangelnde Transparenz, die das Vertrauen untergräbt.' Die Topikalisierung (Thema-vorne-Strategie) stellt ein nicht-nominales Element an den Satzanfang, was einen Rahmungseffekt erzeugt: 'Auf diese Frage hat die Forschung bis heute keine befriedigende Antwort gefunden.' Die Inversion betont durch ungewöhnliche Wortstellungen: 'Nichts weniger als eine grundlegende Reform ist notwendig.' Die Linksversetzung versetzt ein Element nach links, verweist darauf mit einem Pronomen und erzeugt dadurch einen fokussierten Kontrast: 'Den Vorschlag, den hat die Kommission sofort verworfen.' Diese Konstruktionen sind typisch für rhetorisch bewusstes Schreiben und Sprechen im akademischen und essayistischen Stil.",
+    "examples": [
+      "Es ist das strukturelle Demokratiedefizit, das eine nachhaltige Lösung verhindert.",
+      "Auf diese grundlegende Spannung zwischen Freiheit und Sicherheit gibt es keine einfache Antwort.",
+      "Nichts weniger als ein Paradigmenwechsel ist erforderlich, um die Krise zu überwinden.",
+      "Den Kern des Problems, den hat die bisherige Forschung weitgehend ignoriert.",
+      "Gerade in Krisenzeiten bewährt sich die Stärke demokratischer Institutionen.",
+      "Was diese Forschungsrichtung von früheren Ansätzen unterscheidet, ist die konsequente Einbeziehung empirischer Daten.",
+      "Nicht die Kosten, sondern die mangelnde politische Unterstützung ist das eigentliche Hindernis.",
+      "Es sind vor allem die institutionellen Rahmenbedingungen, die über Erfolg oder Misserfolg entscheiden."
+    ],
+    "exercises": [
+      {
+        "type": "transformation",
+        "prompt": "Bilden Sie einen es-Spaltsatz, der 'die fehlende Koordination' betont: 'Die fehlende Koordination hat das Projekt scheitern lassen.'",
+        "correctAnswer": "Es ist die fehlende Koordination, die das Projekt hat scheitern lassen.",
+        "explanation": "es-Spaltsatz: 'Es ist X, der/die/das ...' Der Relativsatz nimmt den Prädikatskomplex auf."
+      },
+      {
+        "type": "transformation",
+        "prompt": "Topikalisieren Sie das Objekt zur Rahmung: 'Die Forschung hat diesen Aspekt bisher vernachlässigt.'",
+        "correctAnswer": "Diesen Aspekt hat die Forschung bisher vernachlässigt.",
+        "explanation": "Topikalisierung: Akkusativobjekt an Position 1, Verb bleibt an Position 2, Subjekt folgt."
+      },
+      {
+        "type": "mcq",
+        "prompt": "Welche Konstruktion ist eine Linksversetzung?",
+        "correctAnswer": "Den Bericht, den hat die Kommission einstimmig abgelehnt.",
+        "explanation": "Linksversetzung: das linksversetzte Element ('Den Bericht') wird durch ein Pronomen ('den') im Hauptsatz wieder aufgegriffen."
+      },
+      {
+        "type": "fill_blank",
+        "prompt": "Es ___ (sein) nicht die Kosten, ___ (Relativpronomen) das Projekt gefährden — es ist die mangelnde politische Unterstützung.",
+        "correctAnswer": "sind, die",
+        "explanation": "es-Spaltsatz: 'Es sind X (Plural), die ...' — Kongruenz des Verbs mit dem gespaltenen Element (Plural)."
+      },
+      {
+        "type": "transformation",
+        "prompt": "Formulieren Sie einen rhetorisch wirksamen Satz mit Topikalisierung: 'Niemand hat diese Frage bislang befriedigend beantwortet.'",
+        "correctAnswer": "Befriedigend beantwortet hat diese Frage bislang niemand.",
+        "explanation": "Topikalisierung des Partizip-Adverbials: 'Befriedigend beantwortet' an Pos. 1, Subjekt 'niemand' rückt nach hinten."
+      },
+      {
+        "type": "fill_blank",
+        "prompt": "Nicht ___ Effizienz, ___ soziale Gerechtigkeit sollte das Leitmotiv der Reform sein. (Negations-Hervorhebung)",
+        "correctAnswer": "die, sondern",
+        "explanation": "'nicht ... sondern' als kontrastive Hervorhebungsstruktur mit Topikalisierungs-Effekt."
+      },
+      {
+        "type": "reorder",
+        "prompt": "ist / es / das Vertrauen / , / die / Transparenz / fehlende / untergräbt / die",
+        "correctAnswer": "Es ist die fehlende Transparenz, die das Vertrauen untergräbt.",
+        "explanation": "es-Spaltsatz-Schema: 'Es ist [NP], die/der/das [Relativsatz].' Relativpronomen kongruiert mit gespaltener NP (feminin)."
+      }
+    ],
+    "orderIndex": 10
+  },
+  {
+    "id": 11,
+    "level": "C1",
+    "topic": "Substantivierte Infinitive und feste Präpositionalphrasen",
+    "explanation": "Der substantivierte Infinitiv ist im Deutschen immer Neutrum und wird großgeschrieben. Er bezeichnet den Prozess einer Handlung, während das deverbale Substantiv häufig ein Ergebnis oder einen Zustand bezeichnet: 'das Schreiben' (Prozess) vs. 'die Schrift' oder 'der Brief' (Produkt). Auf C1-Niveau sind substantivierte Infinitive in festen Präpositionalphrasen und Kollokationen bedeutsam: 'beim Lesen eines Textes', 'durch das sorgfältige Überprüfen der Daten', 'vor dem abschließenden Bewerten der Ergebnisse', 'nach dem Diskutieren aller Optionen', 'ohne das explizite Benennen der Grenzen'. Diese Konstruktionen erscheinen in formell-schriftlichen Texten, wissenschaftlichen Berichten und akademischen Einleitungen. Die Erweiterung durch Attribute und Objekte ist grammatisch korrekt, stilistisch aber dosiert einzusetzen. Die Präposition bestimmt den Kasus des Artikels (beim = bei dem; durch das; ohne das).",
+    "examples": [
+      "Beim genauen Lesen des Textes fällt auf, dass mehrere Argumente zirkulär aufgebaut sind.",
+      "Durch das sorgfältige Auswerten der Primärquellen gelangt die Studie zu differenzierten Schlussfolgerungen.",
+      "Ohne das explizite Benennen methodischer Grenzen ist ein wissenschaftlicher Befund kaum reproduzierbar.",
+      "Nach dem Abwägen aller Optionen entschied sich das Gremium für die konservativste Lösung.",
+      "Das Scheitern ist kein Ende — es ist der Anfang eines neuen Lernprozesses.",
+      "Vor dem abschließenden Verfassen der Zusammenfassung sollten alle Daten nochmals geprüft werden.",
+      "Das bloße Beschreiben von Phänomenen genügt wissenschaftlichen Anforderungen nicht — Erklärungen sind gefordert.",
+      "Beim Formulieren einer These ist auf logische Konsistenz und empirische Verankerung zu achten."
+    ],
+    "exercises": [
+      {
+        "type": "fill_blank",
+        "prompt": "___ (bei + das + lesen) wissenschaftlicher Texte empfiehlt es sich, Notizen anzufertigen.",
+        "correctAnswer": "Beim Lesen",
+        "explanation": "Substantivierter Infinitiv mit Präposition: bei + dem = beim; das Lesen (Neutrum, Dativ → dem Lesen → beim Lesen)."
+      },
+      {
+        "type": "transformation",
+        "prompt": "Ersetzen Sie durch eine Konstruktion mit substantiviertem Infinitiv: 'Bevor man die Ergebnisse veröffentlicht, müssen sie geprüft werden.'",
+        "correctAnswer": "Vor dem Veröffentlichen der Ergebnisse müssen diese geprüft werden.",
+        "explanation": "Temporale vor-Konstruktion: vor + dem + substantiviertem Infinitiv + Genitiv des Objekts."
+      },
+      {
+        "type": "fill_blank",
+        "prompt": "Ohne ___ (das + explizit + benennen) der methodischen Grenzen bleibt die Argumentation angreifbar.",
+        "correctAnswer": "das explizite Benennen",
+        "explanation": "'ohne + Akkusativ': ohne das Benennen (Neutrum Akkusativ = das). Adjektiv 'explizit' dekliniert als Adjektivattribut (-e)."
+      },
+      {
+        "type": "mcq",
+        "prompt": "Welcher Satz verwendet den substantivierten Infinitiv korrekt?",
+        "correctAnswer": "Durch das konsequente Einhalten der Fristen lassen sich Konflikte vermeiden.",
+        "explanation": "'durch + Akkusativ': durch das Einhalten (Neutrum Akkusativ). Adjektiv 'konsequente' korrekt dekliniert."
+      },
+      {
+        "type": "fill_blank",
+        "prompt": "Nach ___ (das + diskutieren) aller Vorschläge einigte sich das Gremium auf einen Kompromiss.",
+        "correctAnswer": "dem Diskutieren",
+        "explanation": "'nach + Dativ': nach dem Diskutieren. 'Das Diskutieren' ist Neutrum; im Dativ: dem Diskutieren."
+      },
+      {
+        "type": "transformation",
+        "prompt": "Formulieren Sie mit substantiviertem Infinitiv: 'Man muss die Daten sorgfältig auswerten, bevor man Schlussfolgerungen zieht.'",
+        "correctAnswer": "Vor dem sorgfältigen Auswerten der Daten sollte man keine Schlussfolgerungen ziehen.",
+        "explanation": "Temporale Konstruktion: vor + dem + Adjektiv + substantiviertem Infinitiv + Genitivobjekt."
+      }
+    ],
+    "orderIndex": 11
+  },
+  {
+    "id": 12,
+    "level": "C1",
+    "topic": "Funktionsverbgefüge — produktive Grammatik (~30 kanonische Verbindungen)",
+    "explanation": "Funktionsverbgefüge (FVG) bestehen aus einem bedeutungsarmen Funktionsverb und einer nominalen Ergänzung, die den eigentlichen Inhalt trägt. Im Unterschied zu einer direkten Verbkonstruktion bieten FVG stilistische Vorteile: Nominalisierung, Aspektualisierung (durative vs. punktuelle Handlung) und die Möglichkeit zur Erweiterung durch Attribute. Auf C1-Niveau sind FVG als produktive Grammatik zu beherrschen — nicht nur als Vokabular. Entscheidend ist die korrekte Präposition-Kasus-Kombination: 'in Betracht ziehen' (Akkusativ), 'zur Verfügung stellen' (Dativ), 'unter Beweis stellen' (Akkusativ), 'in Frage stellen' (Akkusativ), 'Stellung nehmen zu' (Dativ), 'Rechnung tragen' (Dativ), 'zur Verantwortung ziehen' (Akkusativ). Aspektuell unterscheiden sich FVG: 'in Gang setzen' (punktuell/ingressiv) vs. 'in Gang sein' (durativ). Passivierung ist bei vielen FVG möglich und erzeugt nominalstiltypische Strukturen.",
+    "examples": [
+      "Die Kommission zog alle verfügbaren Optionen in Betracht, bevor sie eine Empfehlung aussprach.",
+      "Dem Antrag wurde stattgegeben — das Projekt kann nun in Angriff genommen werden.",
+      "Die Führungskräfte wurden für die Folgen ihrer Entscheidungen zur Verantwortung gezogen.",
+      "Der Vorsitzende stellte seine These zur Diskussion und bat um kritische Rückmeldungen.",
+      "Diese Befunde stellen die bislang geltenden Annahmen grundlegend in Frage.",
+      "Den neuen Mitarbeitenden werden alle notwendigen Ressourcen zur Verfügung gestellt.",
+      "Die Studie trägt der regionalen Varianz der Daten angemessen Rechnung.",
+      "Durch die Pilotphase soll der Nachweis erbracht werden, dass das Modell skalierbar ist."
+    ],
+    "exercises": [
+      {
+        "type": "fill_blank",
+        "prompt": "Die Behörde zieht weitere Sanktionen in ___. (FVG mit 'ziehen')",
+        "correctAnswer": "Betracht",
+        "explanation": "'in Betracht ziehen' = berücksichtigen/erwägen. Akkusativ: in Betracht (keine Artikel-Deklination nötig)."
+      },
+      {
+        "type": "fill_blank",
+        "prompt": "Alle relevanten Aspekte müssen ___ Berücksichtigung ___ werden. (FVG: finden)",
+        "correctAnswer": "Berücksichtigung finden",
+        "explanation": "'Berücksichtigung finden' = berücksichtigt werden. FVG im Passiv-Äquivalent."
+      },
+      {
+        "type": "mcq",
+        "prompt": "Welches FVG ist korrekt gebildet?",
+        "correctAnswer": "Die Forscherin nahm zu den Vorwürfen Stellung.",
+        "explanation": "'Stellung nehmen zu + Dativ' — korrektes FVG. 'Stellung nehmen über' wäre falsch."
+      },
+      {
+        "type": "transformation",
+        "prompt": "Ersetzen Sie das einfache Verb durch ein FVG: 'Die Regierung berücksichtigt die Einwände der Opposition.'",
+        "correctAnswer": "Die Regierung trägt den Einwänden der Opposition Rechnung.",
+        "explanation": "'Rechnung tragen + Dativ' = berücksichtigen. Dativ: den Einwänden."
+      },
+      {
+        "type": "fill_blank",
+        "prompt": "Das neue Verfahren wird ___ Anwendung ___ sobald die gesetzliche Grundlage geschaffen ist. (FVG: kommen)",
+        "correctAnswer": "zur Anwendung kommen",
+        "explanation": "'zur Anwendung kommen' = angewendet werden. 'zur' = zu + der (Dativ Feminin)."
+      },
+      {
+        "type": "transformation",
+        "prompt": "Ersetzen Sie durch FVG: 'Die neuen Regeln gelten ab sofort.'",
+        "correctAnswer": "Die neuen Regeln treten ab sofort in Kraft.",
+        "explanation": "'in Kraft treten' = zu gelten beginnen. FVG mit ingressiver Aspektbedeutung."
+      },
+      {
+        "type": "reorder",
+        "prompt": "zur / Verantwortung / die / Manager / wurden / gezogen",
+        "correctAnswer": "Die Manager wurden zur Verantwortung gezogen.",
+        "explanation": "Passiv von 'zur Verantwortung ziehen': wurden + zur Verantwortung + gezogen."
+      }
+    ],
+    "orderIndex": 12
+  },
+  {
+    "id": 13,
+    "level": "C1",
+    "topic": "Modalverben objektiv — Konjunktiv II und Vergangenheitsformen im formellen Gebrauch",
+    "explanation": "Auf C1-Niveau sind die objektiven Modalverben in ihrer vollen paradigmatischen Reichweite zu beherrschen, einschließlich der Konjunktiv-II-Formen für höfliche Distanzierung und hypothetisches Schreiben sowie der Vergangenheitsformen, die Rückblicke und kontrafaktische Bewertungen ermöglichen. 'Dürfen' im Konjunktiv II (dürfte) drückt eine vorsichtige Erlaubnis oder Vermutung aus. 'Können' im Konjunktiv II (könnte) signalisiert eine eingeschränkte Möglichkeit. 'Müssen' im Konjunktiv II (müsste) bezeichnet eine Erwartung oder normative Forderung. 'Sollen' in der 3. Person drückt eine fremde Anforderung oder Erwartung aus. Besondere Aufmerksamkeit gilt dem 'Modalverb im Perfekt' (Ersatzinfinitiv): 'Sie hat kommen müssen', nicht 'Sie hat gemusst' (wenn Vollverb). Im formellen Schreiben und in akademischen Argumentationen sind diese Nuancen stilistisch entscheidend.",
+    "examples": [
+      "Derartige Befunde dürften in der Fachdiskussion auf erhebliches Interesse stoßen.",
+      "Eine vollständige Harmonisierung der nationalen Systeme dürfte sich als schwierig erweisen.",
+      "Man könnte argumentieren, dass dieser Ansatz die Komplexität der Problematik unterschätzt.",
+      "Unter anderen Bedingungen hätte das Experiment durchgeführt werden können.",
+      "Die Beteiligten sollen bis Ende des Quartals eine schriftliche Stellungnahme einreichen.",
+      "Das hätte vermieden werden müssen — die Fehlerquelle war bereits bekannt.",
+      "Angesichts der verfügbaren Evidenz müsste eine solche Schlussfolgerung revidiert werden.",
+      "Nach den geltenden Richtlinien darf das Verfahren ohne Genehmigung nicht eingeleitet werden."
+    ],
+    "exercises": [
+      {
+        "type": "fill_blank",
+        "prompt": "Diese Ergebnisse ___ (dürfen, Konjunktiv II) die bisherigen Annahmen grundlegend verändern.",
+        "correctAnswer": "dürften",
+        "explanation": "'dürfte/dürften' (Konjunktiv II von dürfen) drückt vorsichtige Vermutung mit epistemischer Distanz aus."
+      },
+      {
+        "type": "mcq",
+        "prompt": "Welcher Satz drückt eine normative Erwartung aus, die aktuell nicht erfüllt wird?",
+        "correctAnswer": "Die Ergebnisse müssten längst vorliegen.",
+        "explanation": "'müsste/müssten' (Konjunktiv II von müssen) drückt eine Erwartung oder Forderung aus, die (noch) nicht realisiert ist."
+      },
+      {
+        "type": "fill_blank",
+        "prompt": "Der Fehler ___ (können, Perfekt mit Ersatzinfinitiv) leicht ___ werden.",
+        "correctAnswer": "hätte vermieden werden können",
+        "explanation": "Modalverb-Passiv Vergangenheit Konjunktiv II: hätte + Partizip II + werden + können (Infinitiv)."
+      },
+      {
+        "type": "transformation",
+        "prompt": "Drücken Sie dieselbe Bedeutung mit einem Modalverb aus: 'Es ist möglich, dass dieser Ansatz scheitert.'",
+        "correctAnswer": "Dieser Ansatz könnte scheitern.",
+        "explanation": "'könnte' (Konjunktiv II von können) — eingeschränkte Möglichkeit, epistemisch distanziert."
+      },
+      {
+        "type": "fill_blank",
+        "prompt": "Die Teilnehmenden ___ (sollen) bis Montag ihre Berichte einreichen — das ist die Vorgabe.",
+        "correctAnswer": "sollen",
+        "explanation": "'sollen' (3. Person objektiv) drückt eine Anforderung aus, die von außen gestellt wird (Vorgabe, Auftrag)."
+      },
+      {
+        "type": "reorder",
+        "prompt": "hätte / das / Risiko / früher / erkannt / werden / müssen",
+        "correctAnswer": "Das Risiko hätte früher erkannt werden müssen.",
+        "explanation": "Modalverb-Passiv Vergangenheit: hätte + Partizip II + werden + müssen (Verbklammer)."
+      }
+    ],
+    "orderIndex": 13
+  },
+  {
+    "id": 14,
+    "level": "C1",
+    "topic": "Adjektivdeklination — alle Determinativen inkl. Nullartikel und adjektivische Reihen",
+    "explanation": "Die Adjektivdeklination im Deutschen hängt vollständig vom vorangehenden Determinativ ab. Starke Deklination (keine Artikelwörter): das Adjektiv trägt alle Kasusmerkmale selbst (frischer Kaffee, frischen Kaffees, frischem Kaffee). Schwache Deklination (nach bestimmtem Artikel oder Vollpronomen): nur Endung -e oder -en (der frische Kaffee, des frischen Kaffees). Gemischte Deklination (nach unbestimmtem Artikel, Possessivpronomen oder kein-): Nominativ Singular Maskulinum/Neutrum stark, sonst schwach. Auf C1-Niveau treten besondere Herausforderungen auf: Adjektivreihen (frischer, aromatischer Kaffee — alle stark), Nullartikel bei abstrakten Pluralen (anhaltende Spannungen, tiefgreifende Reformen), Adjektive nach indefiniten Pronomen (nichts Wesentliches, etwas Grundlegendes, viel Wichtiges) und Adjektive nach Maßangaben ohne Artikel (ein Glas kalten Wassers). Diese Strukturen sind im akademischen und journalistischen Register frequent.",
+    "examples": [
+      "Tiefgreifende strukturelle Reformen sind notwendig, um langfristige Stabilität zu gewährleisten.",
+      "Anhaltende wirtschaftliche Unsicherheit belastet die Investitionsbereitschaft erheblich.",
+      "In dem Bericht finden sich zahlreiche methodische Schwächen und inhaltliche Ungenauigkeiten.",
+      "Es gibt nichts Wesentliches hinzuzufügen — der Sachverhalt ist umfassend dargelegt worden.",
+      "Statt einfacher Lösungen sind differenzierte, evidenzbasierte Ansätze gefordert.",
+      "Der Mangel an verlässlichen, aktuellen Daten erschwert jede fundierte Prognose.",
+      "Mit großem diplomatischem Geschick gelang es, einen drohenden Konflikt abzuwenden.",
+      "Etwas Grundlegendes hat sich in der öffentlichen Wahrnehmung verschoben."
+    ],
+    "exercises": [
+      {
+        "type": "fill_blank",
+        "prompt": "___ (tiefgreifend — Nominativ Plural Nullartikel) Reformen sind erforderlich.",
+        "correctAnswer": "Tiefgreifende",
+        "explanation": "Nullartikel Plural Nominativ → starke Deklination: tiefgreifend + -e."
+      },
+      {
+        "type": "fill_blank",
+        "prompt": "Die Ergebnisse lassen keine ___ (eindeutig — Akkusativ Plural nach Nullartikel) Schlussfolgerungen zu.",
+        "correctAnswer": "eindeutigen",
+        "explanation": "Nach Nullartikel Akkusativ Plural: starke Deklination → eindeutig + -en."
+      },
+      {
+        "type": "fill_blank",
+        "prompt": "Es gibt nichts ___ (überzeugend — nach 'nichts').",
+        "correctAnswer": "Überzeugendes",
+        "explanation": "Adjektiv nach indefinitem Pronomen 'nichts': großgeschrieben (substantiviert), starke Endung Nominativ Neutrum → -es."
+      },
+      {
+        "type": "mcq",
+        "prompt": "Welche Adjektivreihe ist korrekt dekliniert? 'Der Bericht enthält ___.'",
+        "correctAnswer": "viele fundierte, kritische Anmerkungen",
+        "explanation": "Nach 'viele' (Indefinitivartikel Plural): alle nachfolgenden Adjektive schwach (-e, -en): fundierte, kritische."
+      },
+      {
+        "type": "fill_blank",
+        "prompt": "Trotz ___ (erheblich — Genitiv Plural Nullartikel) Widerstands setzte die Regierung die Reform durch.",
+        "correctAnswer": "erheblichen",
+        "explanation": "Nullartikel Genitiv Plural → starke Deklination: erheblich + -en."
+      },
+      {
+        "type": "transformation",
+        "prompt": "Korrigieren Sie die Deklination: 'etwas Wichtige hat sich verändert'.",
+        "correctAnswer": "etwas Wichtiges hat sich verändert",
+        "explanation": "Nach 'etwas' wird das Adjektiv substantiviert und trägt starke Endung Neutrum Nominativ: Wichtiges (nicht Wichtige)."
+      }
+    ],
+    "orderIndex": 14
+  },
+  {
+    "id": 15,
+    "level": "C1",
+    "topic": "Apposition — Typen, Kasus und parenthetische Erweiterung",
+    "explanation": "Eine Apposition ist ein nachgestelltes Satzglied, das dasselbe Bezugswort wie das Hauptsubstantiv hat und es näher beschreibt oder identifiziert. Im Deutschen richtet sich die Apposition im Kasus nach ihrem Bezugswort, nicht nach der Präposition (enge Apposition) oder sie bleibt im Nominativ (lose Apposition). Enge Appositionen stehen ohne Komma und kongruieren voll: 'der Schriftsteller Günter Grass', 'als Vorsitzender des Ausschusses'. Lose Appositionen werden durch Kommas abgetrennt und erscheinen in zwei Typen: nominativisch ('Berlin, die Hauptstadt Deutschlands, liegt...') oder kongruent mit dem Bezugswort ('Ich sprach mit dem Minister, einem erfahrenen Diplomaten...'). Auf C1-Niveau sind parenthetische Erweiterungen der Apposition charakteristisch für akademische Prosa: Sie enthalten Relativsätze, Partizipialkonstruktionen oder ganze Nominalphrasen als Einschub.",
+    "examples": [
+      "Der Soziologe Max Weber, einer der einflussreichsten Denker des 20. Jahrhunderts, begründete die verstehende Soziologie.",
+      "Die Konferenz, ein bedeutendes Forum für den internationalen Wissenschaftsaustausch, findet jährlich statt.",
+      "Als Leiterin des Instituts, einer renommierten Forschungseinrichtung mit über 200 Mitarbeitenden, trägt sie erhebliche Verantwortung.",
+      "Der Vertrag, ein mühsam ausgehandelter Kompromiss zwischen konkurrierenden Interessen, trat am 1. März in Kraft.",
+      "Wir sprachen mit dem Abgeordneten, einem langjährigen Verfechter der Bildungsreform.",
+      "Das Konzept der Nachhaltigkeit, ein Begriff mit vielschichtiger Bedeutung, wird in verschiedenen Disziplinen unterschiedlich interpretiert.",
+      "Berlin, Hauptstadt und bevölkerungsreichste Stadt Deutschlands, ist seit der Wiedervereinigung politisches Zentrum.",
+      "Die Studie, ein Gemeinschaftsprojekt dreier Universitäten, wurde über mehrere Jahre hinweg durchgeführt."
+    ],
+    "exercises": [
+      {
+        "type": "fill_blank",
+        "prompt": "Ich dankte dem Professor, ___ (ein — Dativ Maskulinum + angesehen + Wissenschaftler), für seine Unterstützung.",
+        "correctAnswer": "einem angesehenen Wissenschaftler",
+        "explanation": "Lose Apposition kongruiert mit Bezugswort im Dativ: einem (unbestimmter Artikel Dativ M.) + angesehenen (schwach -en)."
+      },
+      {
+        "type": "mcq",
+        "prompt": "Welche Apposition ist korrekt gebildet?",
+        "correctAnswer": "Der Kanzler, ein erfahrener Politiker, trat zurück.",
+        "explanation": "Loose Apposition im Nominativ kongruiert mit Subjekt 'der Kanzler' (Nominativ Maskulinum): ein erfahrener Politiker."
+      },
+      {
+        "type": "transformation",
+        "prompt": "Fügen Sie eine parenthetische Apposition ein: 'Die Kommission veröffentlichte ihren Bericht. Sie ist das höchste Kontrollgremium der Organisation.'",
+        "correctAnswer": "Die Kommission, das höchste Kontrollgremium der Organisation, veröffentlichte ihren Bericht.",
+        "explanation": "Apposition nach dem Bezugswort 'die Kommission', durch Kommas abgetrennt, im Nominativ."
+      },
+      {
+        "type": "fill_blank",
+        "prompt": "Als ___ (der — Genitiv + Ausschuss + Vorsitzender) trug er die politische Verantwortung. (enge Apposition)",
+        "correctAnswer": "Vorsitzender des Ausschusses",
+        "explanation": "Enge Apposition 'als + Nominativ': 'als Vorsitzender' (stark, weil ohne Artikel). Genitiv des Bezugs: des Ausschusses."
+      },
+      {
+        "type": "mcq",
+        "prompt": "In welchem Satz ist die Apposition korrekt in den Kasus des Bezugsworts gesetzt?",
+        "correctAnswer": "Wir vertrauten dem Team, einem eingespielten Kollektiv erfahrener Fachleute.",
+        "explanation": "Dativ nach 'vertrauten': dem Team → Apposition im Dativ: einem eingespielten Kollektiv (Dativ Neutrum)."
+      },
+      {
+        "type": "reorder",
+        "prompt": "ein / wichtiger / , / Beitrag / die / zur / Theorie / Studie / leistet / grundlegenden",
+        "correctAnswer": "Die Studie, ein wichtiger Beitrag zur Theorie, leistet grundlegenden Beitrag.",
+        "explanation": "Apposition 'ein wichtiger Beitrag zur Theorie' zwischen Kommas, im Nominativ kongruent mit Subjekt 'die Studie'."
+      }
+    ],
+    "orderIndex": 15
+  },
+  {
+    "id": 16,
+    "level": "C1",
+    "topic": "Hochregister-Konnektoren — Konzessiv, Kausal und Konsekutiv produktiv",
+    "explanation": "Auf C1-Niveau werden Konnektoren nicht nur rezipiert, sondern produktiv und differenziert eingesetzt. Konzessive Hochregister-Konnektoren wie 'gleichwohl', 'indessen', 'freilich', 'allerdings' und 'nichtsdestotrotz' ermöglichen eine stilistisch elegante Einräumung ohne das alltägliche 'trotzdem'. Kausale Hochregister-Konnektoren umfassen 'da' (in akademischen Texten häufiger als 'weil', besonders bei bekannten Sachverhalten), 'zumal' (besonders, weil), 'angesichts der Tatsache, dass'. Konsekutive Hochregister-Konnektoren wie 'folglich', 'mithin', 'demzufolge', 'infolgedessen' und 'demnach' drücken logische Schlussfolgerungen aus. Im Unterschied zu 'deshalb'/'deswegen' sind diese Konnektoren stilistisch markiert und auf akademische, journalistische und formale Texte beschränkt. Die Wortstellung variiert: 'folglich' und 'mithin' sind Adverbien (Verb-Zweit nach Komma); 'da' und 'zumal' leiten Nebensätze (Verb-Ende) ein.",
+    "examples": [
+      "Die Datenlage ist dünn; gleichwohl lassen sich einige vorläufige Schlussfolgerungen ziehen.",
+      "Das Experiment lieferte keine signifikanten Ergebnisse, allerdings wurden methodische Mängel aufgedeckt.",
+      "Freilich lässt sich nicht leugnen, dass die Reform mit erheblichen Kosten verbunden ist.",
+      "Da die Primärquellen unzugänglich sind, stützt sich die Analyse auf Sekundärliteratur.",
+      "Die Bedingungen verschlechterten sich kontinuierlich, zumal keine kurzfristige Entspannung in Sicht war.",
+      "Die Hypothese konnte nicht bestätigt werden; folglich ist das Modell grundlegend zu überarbeiten.",
+      "Infolgedessen wurden alle laufenden Verträge mit sofortiger Wirkung ausgesetzt.",
+      "Der Ausschuss lehnte den Antrag ab; mithin ist das Projekt gescheitert."
+    ],
+    "exercises": [
+      {
+        "type": "fill_blank",
+        "prompt": "Die Beweise sind nicht eindeutig; ___ lassen sich keine abschließenden Urteile fällen. (konsekutiv, Hochregister)",
+        "correctAnswer": "folglich",
+        "explanation": "'folglich' = deshalb, also. Konsekutiver Hochregister-Konnektor; Verb-Zweit-Stellung nach dem Adverb."
+      },
+      {
+        "type": "mcq",
+        "prompt": "Welcher Konnektor drückt eine konzessive Einräumung im Hochregister aus (= 'trotzdem')?",
+        "correctAnswer": "gleichwohl",
+        "explanation": "'gleichwohl' ist der konzessive Hochregister-Konnektor für 'trotzdem/dennoch', typisch für akademische und essayistische Texte."
+      },
+      {
+        "type": "fill_blank",
+        "prompt": "___ die Studienlage eindeutig auf einen Zusammenhang hindeutet, bleibt die Kausalität ungeklärt. (kausal mit bekanntem Sachverhalt)",
+        "correctAnswer": "Da",
+        "explanation": "'da' leitet einen kausalen Nebensatz ein und ist akademisch bevorzugt, wenn der Grund bereits bekannt ist."
+      },
+      {
+        "type": "transformation",
+        "prompt": "Ersetzen Sie 'deshalb' durch einen Hochregister-Konnektor: 'Die Rahmenbedingungen haben sich verändert; deshalb ist eine Neubewertung erforderlich.'",
+        "correctAnswer": "Die Rahmenbedingungen haben sich verändert; mithin ist eine Neubewertung erforderlich.",
+        "explanation": "'mithin' = deshalb, folglich. Adverb mit Verb-Zweit; stilistisch markiert für formelle Texte."
+      },
+      {
+        "type": "fill_blank",
+        "prompt": "Die Kosten sind erheblich, ___ die Finanzierung noch nicht gesichert ist. (konzessiv + kausal, 'besonders weil')",
+        "correctAnswer": "zumal",
+        "explanation": "'zumal' = besonders weil / erst recht weil. Leitet kausal-konzessiven Nebensatz ein, der eine verstärkende Begründung liefert."
+      },
+      {
+        "type": "reorder",
+        "prompt": "das / Scheitern / ; / infolgedessen / Konsequenzen / zog / weitreichende / der Plan",
+        "correctAnswer": "Der Plan scheiterte; infolgedessen zog er weitreichende Konsequenzen nach sich.",
+        "explanation": "'infolgedessen' als konsekutives Adverb: Verb-Zweit-Stellung im folgenden Hauptsatz."
+      }
+    ],
+    "orderIndex": 16
+  },
+  {
+    "id": 17,
+    "level": "C1",
+    "topic": "Pronominaladverbien — produktiver Gebrauch in argumentativen Texten",
+    "explanation": "Pronominaladverbien verbinden ein Adverb mit einer Präposition und verweisen auf Sachverhalte, Propositionen oder nicht-belebte Bezugswörter: 'darüber', 'darin', 'dazu', 'davon', 'dafür', 'dagegen', 'daraus', 'daran', 'dabei', 'damit', 'dadurch'. Auf C1-Niveau sind diese Formen produktiv in akademischen und argumentativen Texten zu beherrschen. Sie ersetzen Präpositionalkonstruktionen mit Pronomen ('über das' → 'darüber') und ermöglichen kohärente Textverkettung ohne Wiederholung. Die Interrogativform ('worüber', 'wofür', 'woraus', 'wodurch') leitet Fragen und Relativsätze ein: 'die Schlussfolgerung, woraus sich ergibt...', 'das Argument, wofür es mehrere Belege gibt'. Ein typischer Fehler auf B2-Niveau ist die Vermeidung dieser Formen und ihre Ersetzung durch Relativsätze mit Präposition + Relativpronomen — das ist grammatisch korrekt, aber stilistisch schwächer.",
+    "examples": [
+      "Die Studie beschäftigt sich mit der Frage der Kausalität, und die Autoren kommen dabei zu überraschenden Schlüssen.",
+      "Das Argument ist überzeugend — darüber lässt sich kaum streiten.",
+      "Viele Einwände wurden vorgebracht; darauf hat der Referent jedoch kaum eingegangen.",
+      "Die These stützt sich auf empirische Befunde, woraus sich eine weitreichende Schlussfolgerung ergibt.",
+      "Das Konzept der diskursiven Demokratie, wofür Habermas die theoretischen Grundlagen legte, hat breite Rezeption gefunden.",
+      "Es gibt zahlreiche Gegenargumente — damit muss sich jede ernsthafte Analyse auseinandersetzen.",
+      "Die Maßnahmen wurden kritisiert; dagegen haben die Befürworter kaum stichhaltige Argumente vorgebracht.",
+      "Darin liegt der entscheidende Unterschied zwischen den beiden Positionen."
+    ],
+    "exercises": [
+      {
+        "type": "fill_blank",
+        "prompt": "Die Forscherin hat eine neue Methode entwickelt. ___ (= über diese Methode) hat sie auf der Konferenz berichtet.",
+        "correctAnswer": "Darüber",
+        "explanation": "'darüber' = über + das/es (Nicht-Belebtes). Verweist auf die zuvor genannte Methode."
+      },
+      {
+        "type": "transformation",
+        "prompt": "Ersetzen Sie durch Pronominaladverb: 'Das ist das Ergebnis, auf das sich alle einigen konnten.'",
+        "correctAnswer": "Das ist das Ergebnis, worauf sich alle einigen konnten.",
+        "explanation": "Relativsatz mit Präposition: 'auf das' → Interrogativ-Pronominaladverb 'worauf' (w + Präp., wenn Präp. mit Vokal: 'wor-auf')."
+      },
+      {
+        "type": "fill_blank",
+        "prompt": "Das Modell hat mehrere Schwächen; ___ (= auf diese) wird im folgenden Abschnitt eingegangen.",
+        "correctAnswer": "darauf",
+        "explanation": "'darauf' = auf + das/sie (Sachverhalt). 'eingehen auf' → Pronominaladverb 'darauf'."
+      },
+      {
+        "type": "mcq",
+        "prompt": "Welcher Satz verwendet das Pronominaladverb korrekt für einen nicht-belebten Bezug?",
+        "correctAnswer": "Die Ergebnisse sind eindeutig; daran lässt sich nichts ändern.",
+        "explanation": "'daran' = an + das/es (Sachverhalt, nicht-belebt). 'an ihm' wäre falsch für einen Sachverhalt."
+      },
+      {
+        "type": "fill_blank",
+        "prompt": "Es gibt viele Theorien zu diesem Thema, ___ (= aus welchen) sich jedoch keine einheitliche Antwort ergibt.",
+        "correctAnswer": "woraus",
+        "explanation": "'woraus' = aus + was/welchen (Relativkonnektor für Sachverhalte). 'aus denen' wäre alternativ, aber 'woraus' ist stilistisch markierter."
+      },
+      {
+        "type": "reorder",
+        "prompt": "das / liegt / Dilemma / darin / , / keine / einfache / gibt / es / Lösung",
+        "correctAnswer": "Das Dilemma liegt darin, dass es keine einfache Lösung gibt.",
+        "explanation": "'darin liegen, dass...' — Pronominaladverb 'darin' mit nachfolgendem Dass-Satz als Inhalt."
+      },
+      {
+        "type": "transformation",
+        "prompt": "Ersetzen Sie durch Pronominaladverb: 'Das ist ein Argument, für das ich mehrere Belege habe.'",
+        "correctAnswer": "Das ist ein Argument, wofür ich mehrere Belege habe.",
+        "explanation": "'für das' → 'wofür' (Relativkonnektor). Präposition 'für' + 'wo-' = 'wofür'."
+      }
+    ],
+    "orderIndex": 17
+  },
+  {
+    "id": 18,
+    "level": "C1",
+    "topic": "Genitiv — vollständiges Paradigma und Präpositionen mit Genitiv (~30 Formen)",
+    "explanation": "Der Genitiv ist auf C1-Niveau produktiv zu beherrschen — als Kasus des Besitzes und der Zugehörigkeit sowie als Rektion von etwa 30 Präpositionen, die im formellen Deutschen häufig sind. Das Genitivparadigma: des Mannes/des Kindes (stark), der Frau/der Kinder (schwach). n-Deklination im Genitiv: des Studenten, des Kollegen, des Herrn. Attributiver Genitiv: die Ergebnisse der Studie, das Scheitern des Projekts, der Kern des Problems. Wichtige Genitiv-Präpositionen (produktiv auf C1): aufgrund, infolge, angesichts, hinsichtlich, bezüglich, anlässlich, mittels, zwecks, mangels, trotz (gehoben Genitiv), während, wegen (gehoben Genitiv), kraft, ungeachtet, zugunsten, zulasten, seitens, innerhalb, außerhalb, oberhalb, unterhalb, diesseits, jenseits, inmitten, mithilfe, anhand, anstelle, statt, laut (mit/ohne Genitiv je nach Register). Der Genitiv wird im Alltagsdeutsch zunehmend durch Dativ-Konstruktionen ersetzt ('wegen dem Regen' statt 'wegen des Regens'), was im formellen Register als Fehler gilt.",
+    "examples": [
+      "Aufgrund des erheblichen Zeitdrucks musste das Verfahren vereinfacht werden.",
+      "Angesichts der zunehmenden Komplexität der Regulierungslandschaft sind Expertengutachten unerlässlich.",
+      "Hinsichtlich der methodischen Qualität bestehen keine Einwände gegen die Studie.",
+      "Ungeachtet aller Widerstände wurde die Reform fristgerecht verabschiedet.",
+      "Mittels einer differenzierten Analyse lassen sich die Ursachen des Versagens identifizieren.",
+      "Seitens der Projektleitung wurden keine Bedenken geäußert.",
+      "Zugunsten einer konstruktiven Lösung verzichteten beide Seiten auf weitergehende Forderungen.",
+      "Inmitten einer tiefgreifenden gesellschaftlichen Transformation stellt sich die Frage nach institutioneller Stabilität."
+    ],
+    "exercises": [
+      {
+        "type": "fill_blank",
+        "prompt": "___ (aufgrund) ___ (der + erheblich + Kostensteigerung) wurde das Projekt auf Eis gelegt.",
+        "correctAnswer": "Aufgrund der erheblichen Kostensteigerung",
+        "explanation": "'aufgrund + Genitiv': der erheblichen Kostensteigerung (Femininum Genitiv Singular, schwach: -en)."
+      },
+      {
+        "type": "fill_blank",
+        "prompt": "___ (hinsichtlich) ___ (die + geplant + Maßnahmen) bestehen erhebliche Bedenken.",
+        "correctAnswer": "Hinsichtlich der geplanten Maßnahmen",
+        "explanation": "'hinsichtlich + Genitiv Plural': der geplanten Maßnahmen (Plural Genitiv, schwach -en)."
+      },
+      {
+        "type": "mcq",
+        "prompt": "Welche Form ist im formellen Schriftdeutsch korrekt?",
+        "correctAnswer": "wegen des anhaltenden Drucks",
+        "explanation": "'wegen + Genitiv' ist die formell-korrekte Form. 'wegen dem Druck' (Dativ) gilt im formellen Register als Fehler."
+      },
+      {
+        "type": "fill_blank",
+        "prompt": "___ (trotz) ___ (alle + Bemühungen) konnte keine Einigung erzielt werden. (Genitiv formell)",
+        "correctAnswer": "Trotz aller Bemühungen",
+        "explanation": "'trotz + Genitiv' (formell): aller Bemühungen (Genitiv Plural: aller + starke Endung -en = Bemühungen genitivisch)."
+      },
+      {
+        "type": "transformation",
+        "prompt": "Ersetzen Sie die Konstruktion durch eine Genitiv-Präposition: 'Wir haben mithilfe der Daten eine Prognose erstellt.' → Erklären Sie die Rektion.",
+        "correctAnswer": "mithilfe + Genitiv: mithilfe der Daten (Plural Genitiv, Feminin/Plural: der Daten).",
+        "explanation": "'mithilfe + Genitiv' — korrekte Rektion. 'mithilfe von + Dativ' ist eine akzeptable Variante, aber Genitiv ist stilistisch bevorzugt."
+      },
+      {
+        "type": "fill_blank",
+        "prompt": "___ (zugunsten) ___ (die + benachteiligt + Bevölkerungsgruppen) sind gezielte Förderprogramme aufzulegen.",
+        "correctAnswer": "Zugunsten der benachteiligten Bevölkerungsgruppen",
+        "explanation": "'zugunsten + Genitiv Plural': der benachteiligten Bevölkerungsgruppen (bestimmter Artikel Plural Genitiv, schwach -en)."
+      }
+    ],
+    "orderIndex": 18
+  },
+  {
+    "id": 19,
+    "level": "C1",
+    "topic": "Zweiteilige Konnektoren — alle Typen inkl. Hochregister",
+    "explanation": "Zweiteilige Konnektoren (korrelative Konjunktionen) verbinden zwei Elemente oder Sätze und signalisieren ihre logische Beziehung durch ein festes Paar. Auf C1-Niveau sind alle gängigen Paare produktiv zu beherrschen: 'je...desto/umso' (proportional), 'sowohl...als auch' (addierend), 'weder...noch' (ausschließend negativ), 'nicht nur...sondern auch' (additiv-steigend), 'zwar...aber/jedoch/dennoch' (konzessiv), 'einerseits...andererseits' (kontrastierend), 'teils...teils' (partitiv), 'bald...bald' (alternierend, eher literarisch), 'entweder...oder' (disjunktiv). Besondere Aufmerksamkeit gilt der Wortstellung: Bei 'je...desto' steht in beiden Teilsätzen das Verb an letzter Position bzw. an zweiter Position nach 'desto'. 'Zwar' leitet eine Einräumung ein; das Gegenteil folgt nach 'aber/jedoch'. 'Weder...noch' erfordert korrekte Subjekt-Verb-Kongruenz.",
+    "examples": [
+      "Je differenzierter die Analyse, desto überzeugender die daraus abgeleiteten Schlussfolgerungen.",
+      "Sowohl die methodische Qualität als auch die theoretische Einbettung der Studie sind exemplarisch.",
+      "Weder die bisherigen Reformversuche noch die aktuellen Vorschläge haben zu nachhaltigen Verbesserungen geführt.",
+      "Nicht nur die Kosten, sondern auch die langfristigen gesellschaftlichen Folgewirkungen sind zu berücksichtigen.",
+      "Zwar liegen erste Ergebnisse vor, jedoch lassen diese noch keine abschließenden Bewertungen zu.",
+      "Einerseits besteht Handlungsdruck, andererseits fehlen die finanziellen Mittel für eine umfassende Reform.",
+      "Die Reaktionen auf den Vorschlag waren teils zustimmend, teils ablehnend.",
+      "Entweder wird das Verfahren grundlegend reformiert, oder es droht ein vollständiger Vertrauensverlust."
+    ],
+    "exercises": [
+      {
+        "type": "fill_blank",
+        "prompt": "___ differenzierter die Argumentation ausfällt, ___ überzeugender wirkt sie auf das Fachpublikum.",
+        "correctAnswer": "Je, desto",
+        "explanation": "'je...desto' — proportionaler Vergleich. Je + Komparativ + Verb-Ende; desto + Komparativ + Verb-Zweit."
+      },
+      {
+        "type": "transformation",
+        "prompt": "Verbinden Sie mit 'weder...noch': 'Die Kosten wurden nicht berücksichtigt. Die Risiken wurden nicht berücksichtigt.'",
+        "correctAnswer": "Weder die Kosten noch die Risiken wurden berücksichtigt.",
+        "explanation": "'weder...noch' mit Plural-Subjekt → Verb im Plural: wurden (Plural Präteritum Passiv)."
+      },
+      {
+        "type": "fill_blank",
+        "prompt": "___ die theoretische Rahmung ___ die empirische Basis überzeugen vollständig. (additiv negativ)",
+        "correctAnswer": "Weder, noch",
+        "explanation": "'weder...noch' = keines von beiden. Verb im Plural, da zwei Subjekte koordiniert."
+      },
+      {
+        "type": "mcq",
+        "prompt": "Welcher Satz verwendet 'zwar...aber' korrekt?",
+        "correctAnswer": "Zwar wurden Fortschritte erzielt, aber die grundlegenden Probleme bestehen weiterhin.",
+        "explanation": "'zwar' leitet eine Einräumung ein (Verb-Zweit nach zwar), 'aber' leitet die Einschränkung ein (neuer Hauptsatz)."
+      },
+      {
+        "type": "fill_blank",
+        "prompt": "___ die positiven Aspekte des Konzepts ___ seine kritischen Schwachstellen wurden in der Debatte thematisiert. (addierend)",
+        "correctAnswer": "Sowohl, als auch",
+        "explanation": "'sowohl...als auch' verbindet zwei gleichrangige Elemente addierend. Verb kongruiert mit dem Gesamtsubjekt."
+      },
+      {
+        "type": "transformation",
+        "prompt": "Bilden Sie einen Satz mit 'nicht nur...sondern auch': 'Die Reform ist kostspielig. Sie ist auch politisch umstritten.'",
+        "correctAnswer": "Die Reform ist nicht nur kostspielig, sondern auch politisch umstritten.",
+        "explanation": "'nicht nur...sondern auch' — additiv-steigernde Koordination. 'nicht nur' modifiziert das Prädikat oder eine NP."
+      }
+    ],
+    "orderIndex": 19
+  },
+  {
+    "id": 20,
+    "level": "C1",
+    "topic": "Indirekte Rede — journalistisches und akademisches Register vollständig",
+    "explanation": "Die indirekte Rede im journalistischen und akademischen Register geht auf C1-Niveau über die bloße Modus-Umschaltung hinaus. Entscheidend ist die Beherrschung des vollständigen Konjunktiv-I-Paradigmas (inklusive Ausweichformen), die Mischung von Konjunktiv I und II für unterschiedliche Distanzgrade sowie die zitatnahe Wiedergabe. Im Journalismus erscheint die indirekte Rede ohne einleitendes 'dass': 'Die Ministerin erklärte, die Maßnahmen seien unausweichlich.' Im akademischen Kontext kann der Konjunktiv I zur Distanzierung von Quellen eingesetzt werden, ohne die Aussage zu bewerten. Konjunktiv II in der indirekten Rede signalisiert zusätzliche Skepsis: 'Er behauptete, er hätte die Unterlagen nie gesehen' — hier klingt der Sprecher skeptischer als bei 'er habe... nie gesehen'. Die Interpunktion der indirekten Rede und die Modalpartikeln ('soll', 'wolle') als Alternative sind ebenfalls C1-relevant.",
+    "examples": [
+      "Der Gutachter stellte fest, die Datenlage sei für eine abschließende Beurteilung unzureichend.",
+      "Laut Pressemitteilung plane das Unternehmen, seinen Hauptsitz ins Ausland zu verlagern.",
+      "Die Forscherin erklärte, ihre Ergebnisse bestätigten frühere Befunde und ergänzten diese um neue Dimensionen.",
+      "Der Angeklagte behauptete, er habe von den Vorgängen nichts gewusst — was die Staatsanwaltschaft anzweifelte.",
+      "Einem Bericht der Denkfabrik zufolge seien die bisherigen Maßnahmen bei Weitem nicht ausreichend.",
+      "Die Experten meinten, das Modell lasse sich auf andere Kontexte übertragen, sofern die Rahmenbedingungen vergleichbar seien.",
+      "Sie erklärte, sie wolle an ihrer Position festhalten, auch wenn dies zu weiteren Spannungen führen sollte.",
+      "Den Angaben der Behörde zufolge hätten die Kontrollen ergeben, dass alle Normen eingehalten worden seien."
+    ],
+    "exercises": [
+      {
+        "type": "transformation",
+        "prompt": "Formen Sie in journalistische indirekte Rede um (ohne 'dass'): Direkt: 'Die Lage ist ernst, und wir müssen handeln.'",
+        "correctAnswer": "Der Sprecher erklärte, die Lage sei ernst, und man müsse handeln.",
+        "explanation": "Ohne einleitendes 'dass'; Konjunktiv I: sei (Sg. 3. Pers.), müsse (Ausweichform für 'müssen' 3. Pl. = Konjunktiv II würde)."
+      },
+      {
+        "type": "fill_blank",
+        "prompt": "Der Zeuge behauptete, er ___ (haben + Konjunktiv I Verg.) zum fraglichen Zeitpunkt zu Hause ___ (sein).",
+        "correctAnswer": "habe zu Hause gewesen sein",
+        "explanation": "Konjunktiv I Vergangenheit: habe + Partizip II + sein (bei intransitivem Verb mit sein-Perfekt)."
+      },
+      {
+        "type": "mcq",
+        "prompt": "Welche indirekte Rede signalisiert stärkere Skepsis seitens des Berichterstatters?",
+        "correctAnswer": "Er behauptete, er hätte davon nichts gewusst.",
+        "explanation": "Konjunktiv II (hätte) in indirekter Rede signalisiert Skepsis des Sprechers. Konjunktiv I (habe) ist neutral-distanziert."
+      },
+      {
+        "type": "fill_blank",
+        "prompt": "Einem Bericht zufolge ___ (planen) das Gremium, die Satzung grundlegend zu überarbeiten. (Konjunktiv I 3. Sg.)",
+        "correctAnswer": "plane",
+        "explanation": "Konjunktiv I 3. Person Singular von 'planen': plane (Stamm plan- + e)."
+      },
+      {
+        "type": "transformation",
+        "prompt": "Geben Sie die folgende Aussage mit 'soll' als Modalverb-Alternative wieder: Direkt: 'Er hat Bestechungsgelder angenommen.'",
+        "correctAnswer": "Er soll Bestechungsgelder angenommen haben.",
+        "explanation": "Subjektives 'soll' Vergangenheit als journalistische Alternative zur indirekten Rede: soll + Partizip II + haben."
+      },
+      {
+        "type": "reorder",
+        "prompt": "die / erklärte / Kommission / , / Verfahren / das / sei / abgeschlossen / ordnungsgemäß",
+        "correctAnswer": "Die Kommission erklärte, das Verfahren sei ordnungsgemäß abgeschlossen.",
+        "explanation": "Indirekte Rede ohne 'dass': Konjunktiv I 'sei' + Partizip II. Adverb 'ordnungsgemäß' vor dem Partizip."
+      }
+    ],
+    "orderIndex": 20
+  },
+  {
+    "id": 21,
+    "level": "C1",
+    "topic": "Negation — feinabgestufte Verneinung im akademischen Register",
+    "explanation": "Im akademischen und argumentativen Register gibt es ein reiches Repertoire an Negationsausdrücken jenseits des einfachen 'nicht' oder 'kein'. Auf C1-Niveau sind folgende Ausdrücke produktiv zu beherrschen: 'kaum' (restriktive Verneinung: fast nicht), 'schwerlich' (es ist schwer möglich, dass), 'keineswegs' (in keiner Weise), 'beileibe nicht' (absolut nicht, etwas emphatischer), 'alles andere als' (das Gegenteil von), 'nicht im Geringsten' (überhaupt nicht), 'in keiner Weise' (auf keine Art), 'auf keinen Fall' (unter keinen Umständen), 'durchaus nicht' (entschieden nicht). Darüber hinaus ist die Skopus-Ambiguität von Negation relevant: 'Nicht alle Hypothesen konnten bestätigt werden' (partiell) vs. 'Alle Hypothesen konnten nicht bestätigt werden' (problematisch-ambig). C1-Kandidaten müssen diese Ambiguität erkennen und im eigenen Schreiben vermeiden.",
+    "examples": [
+      "Die Datenlage ist alles andere als überzeugend — eine Replikation ist dringend geboten.",
+      "Schwerlich lässt sich behaupten, dass die bisherigen Maßnahmen zu einer nachhaltigen Verbesserung geführt haben.",
+      "Diese Schlussfolgerung ist keineswegs zwingend — es gibt alternative Erklärungsansätze.",
+      "Der Zusammenhang zwischen den Variablen ist nicht im Geringsten belegt.",
+      "Die Reform ist beileibe nicht gescheitert; sie befindet sich noch in der Implementierungsphase.",
+      "In keiner Weise kann das Verhalten der Verantwortlichen als sachlich gerechtfertigt gelten.",
+      "Kaum einer der vorgebrachten Einwände trifft den Kern des Arguments.",
+      "Diese Interpretation ist durchaus nicht so abwegig, wie auf den ersten Blick erscheinen mag."
+    ],
+    "exercises": [
+      {
+        "type": "mcq",
+        "prompt": "Welcher Ausdruck entspricht 'überhaupt nicht / in keiner Hinsicht'?",
+        "correctAnswer": "nicht im Geringsten",
+        "explanation": "'nicht im Geringsten' drückt eine totale Verneinung aus, stärker als 'kaum' oder 'schwerlich'."
+      },
+      {
+        "type": "transformation",
+        "prompt": "Ersetzen Sie 'nicht' durch einen Hochregister-Negationsausdruck: 'Diese Theorie ist nicht überzeugend.'",
+        "correctAnswer": "Diese Theorie ist alles andere als überzeugend.",
+        "explanation": "'alles andere als + Adjektiv' = das genaue Gegenteil von. Stilistisch markierter als einfaches 'nicht'."
+      },
+      {
+        "type": "fill_blank",
+        "prompt": "___ lässt sich aus diesen Daten eine kausale Beziehung ableiten. (= es ist kaum möglich, fast nicht)",
+        "correctAnswer": "Schwerlich",
+        "explanation": "'schwerlich' = es ist schwerlich möglich / kaum möglich. Adverb, drückt eingeschränkte Möglichkeit der Negation aus."
+      },
+      {
+        "type": "mcq",
+        "prompt": "Welcher Satz ist eindeutig und vermeidet Skopus-Ambiguität?",
+        "correctAnswer": "Nicht alle Hypothesen konnten bestätigt werden.",
+        "explanation": "'Nicht alle' (partiell) ist eindeutig. 'Alle konnten nicht bestätigt werden' ist ambig (total oder partiell?)."
+      },
+      {
+        "type": "fill_blank",
+        "prompt": "Der Vorwurf ist ___ (= in keiner Weise) gerechtfertigt.",
+        "correctAnswer": "keineswegs",
+        "explanation": "'keineswegs' = in keiner Weise. Adverb der totalen Verneinung, akademisch-formell."
+      },
+      {
+        "type": "reorder",
+        "prompt": "alles / ist / als / die / Reaktion / angemessen / andere",
+        "correctAnswer": "Die Reaktion ist alles andere als angemessen.",
+        "explanation": "'alles andere als + Adjektiv': Die Reaktion ist alles andere als angemessen (= ganz und gar nicht angemessen)."
+      }
+    ],
+    "orderIndex": 21
+  },
+  {
+    "id": 22,
+    "level": "C1",
+    "topic": "Relativsätze — alle Typen inkl. Präpositions-Voranstellung und Genitiv-Relativpronomen",
+    "explanation": "Auf C1-Niveau sind alle Typen von Relativsätzen produktiv zu beherrschen, einschließlich der anspruchsvollsten Varianten. Standard-Relativsätze mit 'der/die/das' in allen vier Kasus sind Voraussetzung. Darüber hinaus sind C1-relevant: Relativsätze mit vorangestellter Präposition ('die Frage, auf die wir noch keine Antwort haben'), Relativpronomen im Genitiv ('der Forscher, dessen Methode...', 'die Institutionen, deren Legitimität...'), Relativsätze mit 'was' für Pronomen oder ganze Sätze als Antezedenz ('Das, was hier beschrieben wird...', 'Er scheiterte, was niemanden überraschte'), Relativsätze mit 'wo/wohin/woher' für Ortsangaben, und nicht-restriktive (appositive) vs. restriktive Relativsätze. Die Distinktion restriktiv/nicht-restriktiv ist im Deutschen durch Komma und Intonation markiert und hat direkte Auswirkungen auf die Bedeutung.",
+    "examples": [
+      "Das ist die grundlegende Frage, auf die die bisherige Forschung noch keine überzeugende Antwort gefunden hat.",
+      "Die Wissenschaftlerin, deren Forschungsergebnisse international Beachtung fanden, hielt den Eröffnungsvortrag.",
+      "Er präsentierte eine Theorie, die — obwohl zunächst kontrovers aufgenommen — breite Anerkennung erlangte.",
+      "Das, was hier als Lösung präsentiert wird, verschiebt das eigentliche Problem nur in die Zukunft.",
+      "Die Einrichtung, in der dieses Experiment durchgeführt wurde, gilt als Referenzlabor.",
+      "Er zog sich vollständig aus dem Projekt zurück, was die übrigen Beteiligten vor erhebliche Schwierigkeiten stellte.",
+      "Institutionen, deren Legitimität angezweifelt wird, verlieren langfristig ihre Handlungsfähigkeit.",
+      "Der Ansatz, dem die Forschungsgruppe folgt, unterscheidet sich grundlegend von den bisherigen Paradigmen."
+    ],
+    "exercises": [
+      {
+        "type": "fill_blank",
+        "prompt": "Das ist das Modell, ___ (Präposition 'von' + Relativpronomen) alle Beteiligten profitieren.",
+        "correctAnswer": "von dem",
+        "explanation": "Relativpronomen mit vorangestellter Präposition: 'von + dem' (Dativ Maskulinum/Neutrum). Alternativ 'wovon' für Sachverhalte."
+      },
+      {
+        "type": "fill_blank",
+        "prompt": "Der Ökonom, ___ (Genitiv Maskulinum) Thesen die Debatte geprägt haben, lehrt an der Universität Frankfurt.",
+        "correctAnswer": "dessen",
+        "explanation": "'dessen' = Genitiv Maskulinum/Neutrum des Relativpronomens. 'deren' wäre für Feminin/Plural."
+      },
+      {
+        "type": "transformation",
+        "prompt": "Formulieren Sie als Relativsatz mit Genitivpronomen: 'Die Institutionen haben ihre Legitimität verloren. Ihre Legitimität wird angezweifelt.'",
+        "correctAnswer": "Die Institutionen, deren Legitimität angezweifelt wird, haben ihre Handlungsfähigkeit verloren.",
+        "explanation": "'deren' = Genitiv Plural des Relativpronomens. Nicht-restriktiver Relativsatz, durch Komma abgetrennt."
+      },
+      {
+        "type": "mcq",
+        "prompt": "Welcher Satz verwendet 'was' korrekt als Relativpronomen?",
+        "correctAnswer": "Er scheiterte vollständig, was alle Beteiligten überraschte.",
+        "explanation": "'was' als Relativpronomen für einen ganzen Satz als Antezedenz. 'der/die/das' kann hier nicht stehen."
+      },
+      {
+        "type": "fill_blank",
+        "prompt": "Das ist nicht ___ (= was), ___ (= wovon) ich überzeugt bin.",
+        "correctAnswer": "das, wovon",
+        "explanation": "'das, wovon' — Relativpronomen für Sachverhalt mit Präposition 'von': wovon (nicht 'von dem', da Sachverhalt)."
+      },
+      {
+        "type": "reorder",
+        "prompt": "die / Forscherin / , / deren / anerkannt / Methode / weltweit / ist / , / den Preis / erhielt",
+        "correctAnswer": "Die Forscherin, deren Methode weltweit anerkannt ist, erhielt den Preis.",
+        "explanation": "'deren' = Genitiv Feminin Relativpronomen. Nicht-restriktiver Relativsatz durch Komma abgetrennt."
+      }
+    ],
+    "orderIndex": 22
+  },
+  {
+    "id": 23,
+    "level": "C1",
+    "topic": "n-Deklination — vollständiges Paradigma und Genitiv-Disziplin",
+    "explanation": "Die n-Deklination betrifft eine Gruppe maskuliner Substantive, die in allen Kasus außer dem Nominativ Singular die Endung -n oder -en erhalten. Dazu gehören: Nationalitäten und Berufsbezeichnungen auf -e (der Student/des Studenten, der Kollege/des Kollegen, der Experte/des Experten), Bezeichnungen aus dem Griechisch-Lateinischen auf -ent, -ant, -ist, -graph, -nom (der Assistent/des Assistenten, der Präsident/des Präsidenten, der Protagonist/des Protagonisten), und Ausnahmen wie 'der Herr/des Herrn', 'der Name/des Namens' (gemischte Deklination). Auf C1-Niveau ist die vollständige korrekte Deklination auch in Dativ und Akkusativ sicherzustellen: mit dem Kollegen, den Experten befragen. Fehler in der n-Deklination gelten im formellen Register als Stilfehler und beeinträchtigen die sprachliche Kompetenzwertung.",
+    "examples": [
+      "Der Vortrag des Präsidenten der Vereinigung stieß auf großes Interesse.",
+      "Die Stellungnahme des Experten wurde in der Debatte mehrfach zitiert.",
+      "Wir haben den Kollegen aus der Nachbarabteilung um seine Einschätzung gebeten.",
+      "Der Protagonist des Romans verkörpert die Widersprüche einer zerrissenen Gesellschaft.",
+      "Im Gespräch mit dem Assistenten des Direktors wurden erste Details bekannt.",
+      "Die Aussage des Zeugen wurde als widersprüchlich bewertet.",
+      "Dem Herrn Professor gebührt besonderer Dank für seine jahrzehntelange Forschungsarbeit.",
+      "Der Name des Antragstellers bleibt aus datenschutzrechtlichen Gründen vertraulich."
+    ],
+    "exercises": [
+      {
+        "type": "fill_blank",
+        "prompt": "Die Forschungsergebnisse des ___ (Experte — Genitiv) wurden weltweit anerkannt.",
+        "correctAnswer": "Experten",
+        "explanation": "n-Deklination: der Experte → Genitiv Singular: des Experten (-en Endung)."
+      },
+      {
+        "type": "fill_blank",
+        "prompt": "Wir baten den ___ (Assistent — Akkusativ) um die Unterlagen.",
+        "correctAnswer": "Assistenten",
+        "explanation": "n-Deklination Akkusativ: den Assistenten (-en Endung)."
+      },
+      {
+        "type": "mcq",
+        "prompt": "Welche Form ist korrekt?",
+        "correctAnswer": "die Rede des Präsidenten",
+        "explanation": "'der Präsident' gehört zur n-Deklination: Genitiv Singular → des Präsidenten."
+      },
+      {
+        "type": "fill_blank",
+        "prompt": "Im Auftrag des ___ (Herr — Genitiv, gemischte Deklination) Direktors wurden Änderungen vorgenommen.",
+        "correctAnswer": "Herrn",
+        "explanation": "'der Herr' hat gemischte Deklination: Genitiv Singular → des Herrn (nicht des Herres)."
+      },
+      {
+        "type": "fill_blank",
+        "prompt": "Der Beitrag des ___ (Protagonist — Genitiv) zur Debatte wurde kontrovers aufgenommen.",
+        "correctAnswer": "Protagonisten",
+        "explanation": "'der Protagonist' (-ist-Suffix): n-Deklination → des Protagonisten."
+      },
+      {
+        "type": "transformation",
+        "prompt": "Deklinieren Sie vollständig: 'der Kollege' (Nominativ, Genitiv, Dativ, Akkusativ Singular).",
+        "correctAnswer": "Nominativ: der Kollege; Genitiv: des Kollegen; Dativ: dem Kollegen; Akkusativ: den Kollegen",
+        "explanation": "n-Deklination: alle Kasus außer Nominativ Singular enden auf -en."
+      }
+    ],
+    "orderIndex": 23
+  },
+  {
+    "id": 24,
+    "level": "C1",
+    "topic": "Konsekutiv-Konnektoren — produktiv im argumentativen Schreiben",
+    "explanation": "Konsekutive Konnektoren drücken logische Folgebeziehungen aus und sind auf C1-Niveau im argumentativen und akademischen Schreiben produktiv einzusetzen. Das vollständige Register umfasst: 'sodass/so dass' (Nebensatzkonnektor, Verb-Ende), 'folglich' (Adverb, Verb-Zweit nach Semikolon oder neuem Satz), 'mithin' (Adverb, akademisch-formal), 'demzufolge' (Adverb, bezieht sich auf zuvor Genanntes), 'demnach' (Adverb, schlussfolgernd aus Gesagtem), 'infolgedessen' (Adverb, auf Grund des zuvor Gesagten), 'somit' (Adverb, resümierend), 'daher'/'deshalb'/'deswegen' (B1-Niveau, trotzdem produktiv), 'weshalb' (Relativkonnektor, warum-Variante), 'woraufhin' (zeitlich-konsekutiv, danach). Wichtig ist der stilistische Unterschied: 'deshalb'/'daher' sind allgemein; 'folglich'/'mithin'/'demzufolge' sind akademisch-markiert.",
+    "examples": [
+      "Die Stichprobe war zu klein, sodass keine statistisch signifikanten Aussagen möglich waren.",
+      "Die Finanzierung wurde kurzfristig gestrichen; folglich musste das Projekt eingestellt werden.",
+      "Die Ergebnisse der Voruntersuchung waren eindeutig negativ; mithin wurde die Hauptstudie nicht durchgeführt.",
+      "Die bisherigen Maßnahmen haben nicht gewirkt; demzufolge ist eine grundlegende Neuausrichtung erforderlich.",
+      "Das Modell konnte nicht validiert werden; somit ist seine Anwendbarkeit fraglich.",
+      "Die Rahmenbedingungen haben sich verändert, weshalb eine Überarbeitung der Strategie unumgänglich ist.",
+      "Der Antrag wurde eingereicht, woraufhin das Verfahren offiziell eingeleitet wurde.",
+      "Die Methode erwies sich als unzuverlässig, infolgedessen wurden alle auf ihr basierenden Ergebnisse zurückgezogen."
+    ],
+    "exercises": [
+      {
+        "type": "fill_blank",
+        "prompt": "Die Datenlage ist unvollständig, ___ keine abschließende Beurteilung möglich ist. (Nebensatz-Konnektor)",
+        "correctAnswer": "sodass",
+        "explanation": "'sodass' leitet einen konsekutiven Nebensatz ein (Verb-Ende). Schreibung als ein Wort: sodass."
+      },
+      {
+        "type": "mcq",
+        "prompt": "Welcher Konnektor ist akademisch markierter als 'deshalb'?",
+        "correctAnswer": "mithin",
+        "explanation": "'mithin' ist stilistisch hochregisterig und typisch für wissenschaftliche Texte. 'deshalb' ist neutral-allgemein."
+      },
+      {
+        "type": "transformation",
+        "prompt": "Ersetzen Sie 'deshalb' durch einen akademischen Konsekutiv-Konnektor: 'Die Methode war fehlerhaft; deshalb wurden die Ergebnisse zurückgezogen.'",
+        "correctAnswer": "Die Methode war fehlerhaft; folglich wurden die Ergebnisse zurückgezogen.",
+        "explanation": "'folglich' ersetzt 'deshalb' im akademischen Register. Verb-Zweit nach 'folglich'."
+      },
+      {
+        "type": "fill_blank",
+        "prompt": "Die Verhandlungen scheiterten, ___ (zeitlich-konsekutiv) alle Beteiligten die Verhandlungsebene verließen.",
+        "correctAnswer": "woraufhin",
+        "explanation": "'woraufhin' drückt eine zeitlich-konsekutive Folge aus: danach, als unmittelbare Folge davon."
+      },
+      {
+        "type": "fill_blank",
+        "prompt": "Die Hypothese ließ sich nicht bestätigen; ___ ist das Modell grundlegend zu revidieren. (resümierend)",
+        "correctAnswer": "somit",
+        "explanation": "'somit' = also, resümierend-konsekutiv. Adverb mit Verb-Zweit."
+      },
+      {
+        "type": "reorder",
+        "prompt": "die / Methode / erwies / sich / als / , / wurden / unzuverlässig / infolgedessen / Ergebnisse / alle / zurückgezogen",
+        "correctAnswer": "Die Methode erwies sich als unzuverlässig; infolgedessen wurden alle Ergebnisse zurückgezogen.",
+        "explanation": "'infolgedessen' als konsekutives Adverb mit Verb-Zweit. Semikolon trennt die beiden Hauptsätze."
+      }
+    ],
+    "orderIndex": 24
+  },
+  {
+    "id": 25,
+    "level": "C1",
+    "topic": "Wechselpräpositionen — Phraseologie und komplexe Rektion",
+    "explanation": "Die neun Wechselpräpositionen (an, auf, hinter, in, neben, über, unter, vor, zwischen) regieren den Akkusativ bei gerichteten Handlungen (Wohin?) und den Dativ bei Zustand oder Lage (Wo?). Auf C1-Niveau ist die strikte Lokativ-Direktiv-Distinktion vollständig zu beherrschen, aber entscheidend sind die phraseologischen Verfestigungen mit Wechselpräpositionen: 'außer sich sein vor' (Dativ: außer sich sein vor Wut), 'in Sorge um' (Akkusativ vs. Dativ je nach Konstruktion), 'im Zusammenhang mit' (Dativ), 'im Hinblick auf' (Akkusativ), 'im Rahmen + Genitiv', 'unter Berücksichtigung + Genitiv', 'in Anbetracht + Genitiv'. Darüber hinaus gibt es idiomatische Verben mit Wechselpräpositionen, bei denen die Wahl des Kasus die Bedeutung verändert: 'hängen an + Dativ' (emotional gebunden sein) vs. 'hängen an + Akkusativ' (etw. aufhängen).",
+    "examples": [
+      "Im Hinblick auf die bevorstehenden Wahlen ist eine klare Positionierung der Partei erforderlich.",
+      "Im Zusammenhang mit den jüngsten Entwicklungen stellen sich neue Fragen.",
+      "Unter Berücksichtigung aller verfügbaren Daten lässt sich folgende Einschätzung formulieren.",
+      "Die Auseinandersetzung mit diesem Thema steht im Mittelpunkt der Konferenz.",
+      "In Anbetracht der Komplexität der Situation empfiehlt sich ein schrittweises Vorgehen.",
+      "Sie war außer sich vor Empörung über die Entscheidung des Vorstands.",
+      "Das Thema steht auf der Tagesordnung der nächsten Sitzung.",
+      "Die Verantwortung liegt in den Händen derjenigen, die über die notwendigen Ressourcen verfügen."
+    ],
+    "exercises": [
+      {
+        "type": "fill_blank",
+        "prompt": "___ Hinblick ___ die steigenden Kosten ist eine Budgetanpassung unvermeidlich.",
+        "correctAnswer": "Im, auf",
+        "explanation": "'im Hinblick auf + Akkusativ' — feste Fügung. 'im' = in + dem (Dativ des Artikels)."
+      },
+      {
+        "type": "fill_blank",
+        "prompt": "Das Ergebnis steht ___ direktem Zusammenhang ___ den zuvor beschriebenen Faktoren.",
+        "correctAnswer": "in, mit",
+        "explanation": "'in + Dativ (direktem Zusammenhang)' = Lage/Zustand. 'mit + Dativ': im Zusammenhang mit."
+      },
+      {
+        "type": "mcq",
+        "prompt": "Welcher Satz verwendet die Wechselpräposition mit korrektem Kasus?",
+        "correctAnswer": "Sie legte das Dokument auf den Tisch.",
+        "explanation": "'auf + Akkusativ' (Wohin? gerichtete Handlung): auf den Tisch (Akkusativ Maskulinum)."
+      },
+      {
+        "type": "fill_blank",
+        "prompt": "___ Berücksichtigung der ethischen Implikationen ist jede Forschung verpflichtet. (Präposition + Genitiv)",
+        "correctAnswer": "Unter",
+        "explanation": "'unter Berücksichtigung + Genitiv' — feste Fügung für 'berücksichtigend'."
+      },
+      {
+        "type": "transformation",
+        "prompt": "Erklären Sie den Bedeutungsunterschied: 'Er hängt an seiner Heimat' vs. 'Er hängt das Bild an die Wand'.",
+        "correctAnswer": "Er hängt an seiner Heimat (Dativ: emotionale Bindung/Zustand). Er hängt das Bild an die Wand (Akkusativ: gerichtete Handlung).",
+        "explanation": "Wechselpräposition 'an': Dativ = Zustand/Relation; Akkusativ = Richtung/Bewegung. Bedeutungsunterschied durch Kasus."
+      },
+      {
+        "type": "fill_blank",
+        "prompt": "Die Diskussion findet ___ dem Rahmen der Jahrestagung statt. (Lage/Zustand)",
+        "correctAnswer": "im",
+        "explanation": "'im Rahmen + Genitiv' = Dativ des Artikels 'in dem'. Aber die Fügung 'im Rahmen' ist idiomatisch und verlangt Genitiv danach."
+      }
+    ],
+    "orderIndex": 25
+  },
+  {
+    "id": 26,
+    "level": "C1",
+    "topic": "Verb + Präposition — ~120 produktive Rektion-Kollokationen",
+    "explanation": "Die Rektion von Verben — also die Präposition, die sie zwingend verlangen — ist auf C1-Niveau in einem produktiven Inventar von rund 120 Kollokationen zu beherrschen. Typische C1-Verben mit Präpositionsrektion umfassen: abhängen von + Dativ, beruhen auf + Dativ, sich beziehen auf + Akkusativ, einwirken auf + Akkusativ, hinausgehen über + Akkusativ, profitieren von + Dativ, sich auseinandersetzen mit + Dativ, sich engagieren für + Akkusativ, zurückgehen auf + Akkusativ, herrühren von + Dativ, sich auswirken auf + Akkusativ, hindeuten auf + Akkusativ, schließen aus + Dativ, folgen aus + Dativ, sich ergeben aus + Dativ, sich richten gegen/nach, einstehen für + Akkusativ. Häufige Fehlerquellen: falsche Präposition ('abhängen von' statt 'abhängen auf'), falscher Kasus ('hinweisen auf + Akkusativ' nicht Dativ), Verwechslung ähnlicher Verben ('bestehen aus' vs. 'bestehen auf').",
+    "examples": [
+      "Das Ergebnis hängt maßgeblich von der Qualität der eingesetzten Methoden ab.",
+      "Die Theorie beruht auf einer Vielzahl empirischer Beobachtungen.",
+      "Der Autor bezieht sich explizit auf die Erkenntnisse der Frankfurter Schule.",
+      "Diese Schlussfolgerung geht weit über die vorliegenden Daten hinaus.",
+      "Die Forschungsgruppe setzt sich intensiv mit den ethischen Implikationen auseinander.",
+      "Aus diesen Befunden ergibt sich die Notwendigkeit einer methodischen Revision.",
+      "Das Phänomen lässt sich auf strukturelle Ungleichgewichte zurückführen.",
+      "Die Professorin wies eindringlich auf die Risiken eines solchen Vorgehens hin."
+    ],
+    "exercises": [
+      {
+        "type": "fill_blank",
+        "prompt": "Der Erfolg des Projekts hängt entscheidend ___ der Kooperationsbereitschaft aller Beteiligten ab.",
+        "correctAnswer": "von",
+        "explanation": "'abhängen von + Dativ' — feste Rektion. 'von + Dativ': von der Kooperationsbereitschaft."
+      },
+      {
+        "type": "fill_blank",
+        "prompt": "Die Analyse schließt ___ diesen Befunden, dass ein kausaler Zusammenhang besteht.",
+        "correctAnswer": "aus",
+        "explanation": "'schließen aus + Dativ': aus diesen Befunden. Bedeutung: einen logischen Schluss ziehen."
+      },
+      {
+        "type": "mcq",
+        "prompt": "Welche Präposition ist korrekt? 'Die Reform wirkt sich ___ alle Bevölkerungsgruppen aus.'",
+        "correctAnswer": "auf",
+        "explanation": "'sich auswirken auf + Akkusativ': auf alle Bevölkerungsgruppen. Nicht 'für' oder 'an'."
+      },
+      {
+        "type": "fill_blank",
+        "prompt": "Sie ___ sich stets ___ die Interessen der Betroffenen ___ (einsetzen für + Akk.).",
+        "correctAnswer": "setzt, für, ein",
+        "explanation": "'sich einsetzen für + Akkusativ': setzt sich ... für ... ein. Trennbares Verb: ein-setzen."
+      },
+      {
+        "type": "fill_blank",
+        "prompt": "Die Ergebnisse deuten eindeutig ___ strukturelle Defizite hin.",
+        "correctAnswer": "auf",
+        "explanation": "'hindeuten auf + Akkusativ': auf strukturelle Defizite. 'auf + Akkusativ' = Richtung/Bezug."
+      },
+      {
+        "type": "mcq",
+        "prompt": "Was bedeutet 'bestehen auf + Dativ' im Unterschied zu 'bestehen aus + Dativ'?",
+        "correctAnswer": "'bestehen auf' = darauf beharren; 'bestehen aus' = zusammengesetzt sein aus",
+        "explanation": "Bedeutungsunterschied durch Präposition: 'bestehen auf + Dativ' (insistieren) vs. 'bestehen aus + Dativ' (Zusammensetzung)."
+      }
+    ],
+    "orderIndex": 26
+  },
+  {
+    "id": 27,
+    "level": "C1",
+    "topic": "Adjektiv + Präposition — produktives Inventar",
+    "explanation": "Adjektive mit fester Präpositionsrektion erfordern auf C1-Niveau produktive Beherrschung in akademischen Kontexten. Das C1-Inventar umfasst: abhängig von + Dativ, verantwortlich für + Akkusativ, zuständig für + Akkusativ, fähig zu + Dativ (oder Infinitiv), bereit zu + Dativ, überzeugt von + Dativ, stolz auf + Akkusativ, neugierig auf + Akkusativ, geeignet für + Akkusativ, erforderlich für + Akkusativ, charakteristisch für + Akkusativ, bezeichnend für + Akkusativ, typisch für + Akkusativ, repräsentativ für + Akkusativ, angewiesen auf + Akkusativ, interessiert an + Dativ, beteiligt an + Dativ, einig über + Akkusativ, einverstanden mit + Dativ, vertraut mit + Dativ, skeptisch gegenüber + Dativ. Fehlerquellen: Verwechslung ähnlicher Adjektive ('verantwortlich für' vs. 'zuständig für'), falscher Kasus.",
+    "examples": [
+      "Für die Umsetzung dieses Konzepts sind die lokalen Behörden zuständig.",
+      "Die Autoren sind überzeugt von der Tragfähigkeit ihrer theoretischen Grundannahmen.",
+      "Viele Länder sind nach wie vor stark abhängig von fossilen Energieträgern.",
+      "Der Vorschlag ist charakteristisch für den pragmatischen Ansatz dieser Forschungsgruppe.",
+      "Die Gesellschaft ist auf funktionierende demokratische Institutionen angewiesen.",
+      "Nicht alle Mitglieder des Ausschusses waren einverstanden mit der vorgeschlagenen Lösung.",
+      "Die Forscherin ist für die methodische Qualitätssicherung des Projekts verantwortlich.",
+      "Diese Befunde sind repräsentativ für die Situation in vergleichbaren Regionen Europas."
+    ],
+    "exercises": [
+      {
+        "type": "fill_blank",
+        "prompt": "Die Abteilung ist ___ (zuständig) ___ die Bearbeitung internationaler Anfragen.",
+        "correctAnswer": "zuständig für",
+        "explanation": "'zuständig für + Akkusativ': für die Bearbeitung (Akkusativ Feminin: die)."
+      },
+      {
+        "type": "fill_blank",
+        "prompt": "Die Gesellschaft ist ___ (angewiesen) ___ internationaler Kooperation.",
+        "correctAnswer": "angewiesen auf",
+        "explanation": "'angewiesen auf + Akkusativ': auf internationale Kooperation. Achtung: Akkusativ, nicht Dativ."
+      },
+      {
+        "type": "mcq",
+        "prompt": "Welche Präposition folgt auf 'beteiligt'?",
+        "correctAnswer": "beteiligt an + Dativ",
+        "explanation": "'beteiligt an + Dativ': an der Entscheidung beteiligt. 'an + Dativ' für Zugehörigkeit/Teilhabe."
+      },
+      {
+        "type": "fill_blank",
+        "prompt": "Wir sind ___ (skeptisch) ___ diesem Ansatz gegenüber. (Wortstellung mit nachgestelltem 'gegenüber')",
+        "correctAnswer": "skeptisch diesem Ansatz gegenüber",
+        "explanation": "'skeptisch gegenüber + Dativ': 'gegenüber' kann vor- oder nachgestellt werden. 'gegenüber + Dativ' oder 'Dativ + gegenüber'."
+      },
+      {
+        "type": "fill_blank",
+        "prompt": "Ich bin ___ (überzeugt) ___ der Notwendigkeit dieser Reform.",
+        "correctAnswer": "überzeugt von",
+        "explanation": "'überzeugt von + Dativ': von der Notwendigkeit. 'von' + Dativ."
+      },
+      {
+        "type": "transformation",
+        "prompt": "Formulieren Sie mit korrekter Adjektiv-Präposition-Rektion: 'Diese Methode eignet sich für diese Art von Analyse.'",
+        "correctAnswer": "Diese Methode ist für diese Art von Analyse geeignet.",
+        "explanation": "'geeignet für + Akkusativ': für diese Art von Analyse. Verb 'eignen sich' → Adjektiv 'geeignet sein für'."
+      }
+    ],
+    "orderIndex": 27
+  },
+  {
+    "id": 28,
+    "level": "C1",
+    "topic": "Nomen + Präposition — produktive Rektion-Kollokationen",
+    "explanation": "Nomen fordern wie Verben und Adjektive bestimmte Präpositionen. Auf C1-Niveau ist ein produktives Inventar von Nomen-Präposition-Verbindungen erforderlich, die in akademischen und formellen Texten häufig erscheinen: die Frage nach + Dativ, der Bezug auf/zu + Akkusativ/Dativ, die Antwort auf + Akkusativ, das Interesse an + Dativ, die Sehnsucht nach + Dativ, die Verantwortung für + Akkusativ, die Auseinandersetzung mit + Dativ, der Zusammenhang zwischen ... und, das Verhältnis zu + Dativ, die Beziehung zwischen, der Einfluss auf + Akkusativ, die Auswirkung auf + Akkusativ, der Anspruch auf + Akkusativ, die Voraussetzung für + Akkusativ, die Konsequenz aus + Dativ, die Abhängigkeit von + Dativ, die Übereinstimmung mit + Dativ, der Widerspruch zu + Dativ, die Reaktion auf + Akkusativ, der Verzicht auf + Akkusativ.",
+    "examples": [
+      "Die Frage nach der gesellschaftlichen Verantwortung von Unternehmen steht im Zentrum der Debatte.",
+      "Der Einfluss der Massenmedien auf die öffentliche Meinungsbildung ist gut dokumentiert.",
+      "Die Voraussetzung für eine konstruktive Zusammenarbeit ist gegenseitiges Vertrauen.",
+      "Die Konsequenzen aus diesem Versagen müssen auf allen Ebenen gezogen werden.",
+      "Die Abhängigkeit der Volkswirtschaft von Rohstoffimporten ist ein strukturelles Risiko.",
+      "Ein Widerspruch zu den bisherigen Befunden ergibt sich aus der neuen Studie.",
+      "Die Reaktion auf die angekündigten Maßnahmen fiel differenzierter aus als erwartet.",
+      "Der Anspruch auf eine evidenzbasierte Politik erfordert eine robuste Datenbasis."
+    ],
+    "exercises": [
+      {
+        "type": "fill_blank",
+        "prompt": "Die Auswirkung der Reform ___ (Präposition) die Beschäftigungslage ist noch nicht absehbar.",
+        "correctAnswer": "auf",
+        "explanation": "'die Auswirkung auf + Akkusativ': auf die Beschäftigungslage. Kasus: Akkusativ."
+      },
+      {
+        "type": "fill_blank",
+        "prompt": "Die Frage ___ den gesellschaftlichen Nutzen der Digitalisierung ist virulent.",
+        "correctAnswer": "nach",
+        "explanation": "'die Frage nach + Dativ': nach dem gesellschaftlichen Nutzen. 'nach + Dativ'."
+      },
+      {
+        "type": "mcq",
+        "prompt": "Welche Präposition folgt auf 'der Anspruch'?",
+        "correctAnswer": "der Anspruch auf + Akkusativ",
+        "explanation": "'Anspruch auf + Akkusativ': der Anspruch auf Gleichbehandlung. Häufiger Fehler: 'Anspruch für'."
+      },
+      {
+        "type": "fill_blank",
+        "prompt": "Der Widerspruch ___ den bisherigen Befunden ist methodisch zu klären.",
+        "correctAnswer": "zu",
+        "explanation": "'der Widerspruch zu + Dativ': zu den bisherigen Befunden. 'zu + Dativ'."
+      },
+      {
+        "type": "fill_blank",
+        "prompt": "Die Voraussetzung ___ eine erfolgreiche Umsetzung ist politischer Konsens.",
+        "correctAnswer": "für",
+        "explanation": "'die Voraussetzung für + Akkusativ': für eine erfolgreiche Umsetzung."
+      },
+      {
+        "type": "transformation",
+        "prompt": "Formulieren Sie mit korrekter Nomen-Präposition-Rektion: 'Das Konzept hat Einfluss auf die Praxis.'",
+        "correctAnswer": "Der Einfluss des Konzepts auf die Praxis ist erheblich.",
+        "explanation": "'der Einfluss auf + Akkusativ': auf die Praxis. Nominalisierung erfordert Genitiv-Attribut für das Subjekt."
+      }
+    ],
+    "orderIndex": 28
+  },
+  {
+    "id": 29,
+    "level": "C1",
+    "topic": "Modalpartikeln — alle Funktionen inkl. ironischer und rhetorischer Gebrauch",
+    "explanation": "Modalpartikeln (Abtönungspartikeln) modifizieren die Einstellung des Sprechers zur Aussage und sind ein typisches Merkmal des deutschen Sprachsystems ohne direkte Übersetzungsäquivalente. Auf C1-Niveau sind folgende Partikeln produktiv: 'doch' (Gegenbehauptung, Erinnerung, Ermunterung, Vorwurf), 'mal' (Auflockerung, informelle Aufforderung), 'eben/halt' (resignierende Akzeptanz — 'halt' süddeutsch), 'schon' (Bestätigung mit Einschränkung, Ermutigung), 'wohl' (Vermutung, Zugestehen), 'ja' (als bekannt voraussetzen, manchmal überraschte Feststellung), 'denn' (Interesse/Neugier in Fragen), 'eigentlich' (rückblickende oder relativierende Fragen), 'etwa' (Befürchtung in Fragen), 'bloß/nur' (Besorgnis, Drohung), 'ruhig' (Erlaubnis, Ermutigung), 'schließlich' (nachgereihte Begründung). C1-spezifisch ist der ironische Gebrauch ('Das war ja toll!' als Tadel) und der rhetorische Einsatz in Argumentationen.",
+    "examples": [
+      "Die Ergebnisse sind ja überraschend — so hatte das kaum jemand erwartet.",
+      "Es wäre doch naiv anzunehmen, dass komplexe Probleme einfache Lösungen haben.",
+      "Das lässt sich schon nachvollziehen, wenngleich die Schlussfolgerung zu weit geht.",
+      "Wer war denn für diese Entscheidung verantwortlich?",
+      "Das Argument ist eigentlich überzeugend — wenn man die Prämissen akzeptiert.",
+      "Haben Sie etwa vor, diese fragwürdige Methode weiterhin anzuwenden?",
+      "Das mag wohl seine Berechtigung haben, ändert aber nichts am Gesamtbefund.",
+      "Es handelt sich schließlich um eine Grundsatzfrage, die nicht leichtfertig behandelt werden darf."
+    ],
+    "exercises": [
+      {
+        "type": "mcq",
+        "prompt": "Welche Modalpartikel drückt Erstaunen darüber aus, dass der Sachverhalt als allgemein bekannt gelten sollte?",
+        "correctAnswer": "ja",
+        "explanation": "'ja' setzt den Sachverhalt als (für den Sprecher) bekannt voraus oder drückt überraschtes Feststellen aus: 'Das ist ja...'."
+      },
+      {
+        "type": "fill_blank",
+        "prompt": "Es wäre ___ (= doch, Gegenbehauptung) unrealistisch anzunehmen, dass sich die Lage ohne Intervention verbessert.",
+        "correctAnswer": "doch",
+        "explanation": "'doch' als Partikel signalisiert, dass die Aussage dem zu Erwartenden widerspricht oder eine Selbstverständlichkeit betont."
+      },
+      {
+        "type": "mcq",
+        "prompt": "In welchem Satz wird 'schon' als Ermutigung/Bestätigung (nicht temporal) verwendet?",
+        "correctAnswer": "Das wird schon klappen — die Methode ist solide.",
+        "explanation": "'schon' als Modalpartikel = Bestätigung mit ermutigendem Unterton. Nicht temporal ('already')."
+      },
+      {
+        "type": "fill_blank",
+        "prompt": "Haben Sie ___ (= Befürchtung/Besorgnis) die Absicht, das Projekt abzubrechen?",
+        "correctAnswer": "etwa",
+        "explanation": "'etwa' in Fragen drückt Besorgnis oder Befürchtung aus: 'Haben Sie etwa vor...?' = Ich hoffe nicht, dass..."
+      },
+      {
+        "type": "transformation",
+        "prompt": "Erklären Sie den Bedeutungsunterschied: 'Das ist ja interessant!' (neutral) vs. 'Das ist ja interessant!' (ironisch).",
+        "correctAnswer": "Neutral: echtes Erstaunen/Lob, aufsteigende Intonation auf 'interessant'. Ironisch: versteckter Tadel, fallende Intonation, Kontext des Misserfolgs.",
+        "explanation": "'ja' kann neutral (Erstaunen) oder ironisch (Sarkasmus) eingesetzt werden — Kontext und Intonation entscheiden."
+      },
+      {
+        "type": "fill_blank",
+        "prompt": "Es handelt sich ___ (nachgereihte Begründung) um eine ethische Frage, die nicht übergangen werden darf.",
+        "correctAnswer": "schließlich",
+        "explanation": "'schließlich' als Modalpartikel fügt eine nachgeordnete, bekräftigende Begründung an: 'immerhin', 'nicht zuletzt'."
+      }
+    ],
+    "orderIndex": 29
+  },
+  {
+    "id": 30,
+    "level": "C1",
+    "topic": "Trennbare und untrennbare Verben — Bedeutungsnuancen und stilistische Wahl",
+    "explanation": "Viele deutsche Verben existieren in zwei Lesarten: trennbar (mit Betonung auf dem Präfix, das abgetrennt wird) und untrennbar (Präfix unbetont, nicht abgetrennt). Die wichtigsten ambigen Präfixe sind: über-, unter-, um-, durch-, hinter-, wieder-, wider-. 'Übersetzen' (trennbar: er setzt über — Bedeutung: überqueren) vs. 'übersetzen' (untrennbar: er übersetzt — Bedeutung: ins Zielsprachliche übertragen). 'Umfahren' trennbar (er fährt um — Bedeutung: ein Hindernis umfahren/umstoßen) vs. untrennbar (er umfährt — Bedeutung: umgehen/einen Umweg nehmen). 'Durchbrechen' trennbar (er bricht durch — physisch) vs. untrennbar (er durchbricht — übertragen: eine Regel brechen). Auf C1-Niveau ist die Kompetenz gefragt, beide Lesarten produktiv und im richtigen Register einzusetzen.",
+    "examples": [
+      "Trennbar: Er fährt das Hindernis um und beschädigt dabei die Stoßstange.",
+      "Untrennbar: Der Fahrer umfährt geschickt die Umleitungsstrecke und spart Zeit.",
+      "Trennbar: Er setzt mit der Fähre über, um das Westufer zu erreichen.",
+      "Untrennbar: Die Dolmetscherin übersetzt simultan aus dem Arabischen ins Deutsche.",
+      "Trennbar: Die Demonstranten brechen durch die Absperrung durch.",
+      "Untrennbar: Die Entscheidung durchbricht bewusst etablierte institutionelle Normen.",
+      "Trennbar: Er hält inne und überlegt, bevor er antwortet.",
+      "Untrennbar: Die Analyse untermauert die aufgestellte These mit belastbaren Daten."
+    ],
+    "exercises": [
+      {
+        "type": "mcq",
+        "prompt": "Welche Bedeutung hat 'umfahren' (untrennbar)?",
+        "correctAnswer": "einen Weg um etwas herum nehmen, etwas meiden",
+        "explanation": "'umfahren' (untrennbar, Betonung auf 'um-') = einen Umweg nehmen / einen Bereich umgehen. Trennbar: umstoßen/anfahren."
+      },
+      {
+        "type": "fill_blank",
+        "prompt": "Die neue Politik ___ (durchbrechen, untrennbar, Präsens) bestehende Tabus.",
+        "correctAnswer": "durchbricht",
+        "explanation": "'durchbrechen' untrennbar: sie durchbricht (kein Abstand, Betonung auf 'brechen'). Bedeutung: etablierte Grenzen verletzen/überwinden."
+      },
+      {
+        "type": "transformation",
+        "prompt": "Beschreiben Sie den Bedeutungsunterschied mit je einem Beispielsatz: 'übersetzen' (trennbar) und 'übersetzen' (untrennbar).",
+        "correctAnswer": "Trennbar: Er setzt auf die andere Seite über. (= überqueren) — Untrennbar: Sie übersetzt den Text ins Spanische. (= dolmetschen/übertragen)",
+        "explanation": "Trennbar: physische Überquerung (Betonung auf 'über-'). Untrennbar: sprachliche Übertragung (Betonung auf 'setzen')."
+      },
+      {
+        "type": "fill_blank",
+        "prompt": "Der Redner ___ (unterstreichen, untrennbar) die Dringlichkeit der Maßnahmen.",
+        "correctAnswer": "unterstreicht",
+        "explanation": "'unterstreichen' ist immer untrennbar: er unterstreicht. Bedeutung: betonen, hervorheben."
+      },
+      {
+        "type": "mcq",
+        "prompt": "Welcher Satz verwendet 'widersprechen' korrekt?",
+        "correctAnswer": "Diese Befunde widersprechen der etablierten Theorie grundlegend.",
+        "explanation": "'widersprechen' ist untrennbar + Dativ: widerspricht der Theorie. 'widersprechen' kann nicht getrennt werden."
+      },
+      {
+        "type": "reorder",
+        "prompt": "die / Politik / bestehende / durchbricht / Konventionen",
+        "correctAnswer": "Die Politik durchbricht bestehende Konventionen.",
+        "explanation": "'durchbrechen' untrennbar: Verb bleibt zusammen in Position 2 (durchbricht). Subjekt + Verb + Objekt."
+      }
+    ],
+    "orderIndex": 30
+  },
+  {
+    "id": 31,
+    "level": "C1",
+    "topic": "Hochregister-Konnektoren zweiteilig — alle inkl. je...desto und konzessive Paare",
+    "explanation": "Neben dem Grundbestand zweiteiliger Konnektoren gibt es im C1-Register weitere verfeinerte Paarstrukturen. 'Je...desto/umso' ist die proportionale Korrelation: 'Je differenzierter die Analyse, desto präziser die Schlussfolgerungen.' Die Wortstellung ist fest: 'je + Komparativ + Nebensatzstruktur (Verb-Ende), desto/umso + Komparativ + Verb-Zweit'. 'Nicht so...wie' und 'ebenso...wie' drücken Gleichheit bzw. Ungleichheit aus. 'Weder...noch' mit komplexen Verbgruppen erfordert Aufmerksamkeit bei der Subjekt-Verb-Kongruenz. 'Zwar...aber' in akademischen Texten leitet Konzessionen ein; die stilistisch höherwertige Variante verwendet 'indessen' oder 'gleichwohl' statt 'aber'. Darüber hinaus gibt es die Gradationsstruktur 'nicht nur...sondern darüber hinaus' (stärker als 'sondern auch') und die doppelt konzessive Struktur 'selbst wenn...so...doch'.",
+    "examples": [
+      "Je stärker die institutionellen Garantien ausgeprägt sind, desto größer das Vertrauen der Bevölkerung.",
+      "Nicht so sehr die kurzfristigen Effekte als vielmehr die langfristigen Folgewirkungen sind ausschlaggebend.",
+      "Weder die theoretischen Argumente noch die empirischen Befunde vermochten die Kritiker zu überzeugen.",
+      "Zwar wurden erste Fortschritte erzielt; indessen bleibt der Reformbedarf erheblich.",
+      "Die Methode ist nicht nur zuverlässig, sondern darüber hinaus kostengünstig und leicht replizierbar.",
+      "Selbst wenn man diese Einwände akzeptiert, so ändert das doch nichts am grundlegenden Befund.",
+      "Ebenso wie die ökonomischen Faktoren spielen die sozialen Determinanten eine entscheidende Rolle.",
+      "Teils fehlende Ressourcen, teils mangelnde politische Unterstützung haben das Projekt verzögert."
+    ],
+    "exercises": [
+      {
+        "type": "fill_blank",
+        "prompt": "___ präziser die Fragestellung formuliert ist, ___ gezielter lässt sich die Literaturrecherche gestalten.",
+        "correctAnswer": "Je, desto",
+        "explanation": "'je...desto' — proportionale Korrelation. Je + Komparativ + Verb-Ende; desto + Komparativ + Verb-Zweit."
+      },
+      {
+        "type": "transformation",
+        "prompt": "Ersetzen Sie 'aber' durch einen stilistisch höherwertigen konzessiven Konnektor: 'Zwar sind Fortschritte erkennbar, aber strukturelle Probleme bestehen weiterhin.'",
+        "correctAnswer": "Zwar sind Fortschritte erkennbar; indessen bestehen strukturelle Probleme weiterhin.",
+        "explanation": "'indessen' ist die akademisch markierte Alternative zu 'aber' nach 'zwar'. Semikolon + Verb-Zweit."
+      },
+      {
+        "type": "fill_blank",
+        "prompt": "___ wenn man alle Einwände berücksichtigt, ___ bleibt die Kernthese überzeugend. (doppelt konzessiv)",
+        "correctAnswer": "Selbst, so...doch",
+        "explanation": "'selbst wenn...so...doch' — doppelte Konzessivkonstruktion: konzessiv + bekräftigend-adversativ."
+      },
+      {
+        "type": "mcq",
+        "prompt": "Welche Formulierung steigert 'nicht nur...sondern auch' zu einer stärkeren Aussage?",
+        "correctAnswer": "nicht nur...sondern darüber hinaus",
+        "explanation": "'darüber hinaus' ist graduell stärker als 'auch' und signalisiert eine wesentliche Zusatzinformation."
+      },
+      {
+        "type": "fill_blank",
+        "prompt": "___ die ökonomischen ___ die sozialen Aspekte der Reform wurden in der Analyse berücksichtigt. (addierend, beide gleichwertig)",
+        "correctAnswer": "Sowohl, als auch",
+        "explanation": "'sowohl...als auch' addiert zwei gleichwertige Elemente. Verb kongruiert mit dem Gesamtsubjekt (Plural)."
+      },
+      {
+        "type": "reorder",
+        "prompt": "je / komplexer / desto / ist / das Problem / , / der Ansatz / differenzierter / sein / muss",
+        "correctAnswer": "Je komplexer das Problem ist, desto differenzierter muss der Ansatz sein.",
+        "explanation": "'je + Komparativ + Nebensatzstruktur (Verb-Ende), desto + Komparativ + Verb + Subjekt'."
+      }
+    ],
+    "orderIndex": 31
+  },
+  {
+    "id": 32,
+    "level": "C1",
+    "topic": "Konditionalketten und komplexe Subordination",
+    "explanation": "Auf C1-Niveau erscheinen konditionale und subordinierte Konstruktionen in ihrer vollen Komplexität. Dazu gehören: konzessive Konditionalsätze mit 'wenn...auch' (selbst wenn, auch wenn), bei denen die Konzession direkt in die Bedingung eingebettet ist; 'als ob / als wenn' mit Konjunktiv II für irreal-komparativ ('Es sieht aus, als ob das Problem gelöst wäre'); Konditionalsätze ohne Konjunktion durch Inversion ('Sollte dies zutreffen, wären weitreichende Konsequenzen zu ziehen'); 'damit' im Konjunktiv I bei imperativischen Wunschsätzen (veraltet, aber rezeptiv: 'Damit das Wohl der Allgemeinheit gewahrt sei'); verschachtelte Subordinationen mit mehreren Ebenen ('weil es zu erwarten ist, dass...'); Finalangaben mit 'damit', 'um...zu', 'auf dass' (rezeptiv). C1-Kandidaten müssen diese Konstruktionen in authentischen Texten erkennen und die wichtigsten produktiv einsetzen können.",
+    "examples": [
+      "Auch wenn die kurzfristigen Kosten erheblich sind, überwiegen die langfristigen Vorteile deutlich.",
+      "Es verhält sich so, als ob die institutionellen Sicherungen vollständig versagt hätten.",
+      "Sollte sich die Lage weiter verschlechtern, wären umgehend Notfallmaßnahmen einzuleiten.",
+      "Wenn das Modell auch Schwächen aufweist, so liefert es doch einen bedeutenden Beitrag zur Forschung.",
+      "Das Ziel besteht darin, eine Lösung zu entwickeln, damit künftige Konflikte vermieden werden können.",
+      "Es ist davon auszugehen, dass die Reform, sofern sie konsequent umgesetzt wird, nachhaltige Wirkung erzielt.",
+      "Selbst wenn man alle verfügbaren Belege berücksichtigt, bleibt die Kausalitätsfrage ungeklärt.",
+      "Je nach Interpretationsrahmen ergeben sich unterschiedliche Schlussfolgerungen, wobei keine als abschließend gültig gelten kann."
+    ],
+    "exercises": [
+      {
+        "type": "fill_blank",
+        "prompt": "___ die Ergebnisse auch widersprüchlich erscheinen mögen, ___ bieten sie doch wertvolle Ansatzpunkte. (konzessive Konditionalkette)",
+        "correctAnswer": "Wenn, so",
+        "explanation": "'wenn...auch...so...doch' — konzessive Konditionalkette: Einräumung + bekräftigende Einschränkung."
+      },
+      {
+        "type": "transformation",
+        "prompt": "Ersetzen Sie 'wenn' durch eine Konstruktion mit Inversion ohne Konjunktion: 'Wenn das zutrifft, sind Konsequenzen zu ziehen.'",
+        "correctAnswer": "Sollte das zutreffen, sind Konsequenzen zu ziehen.",
+        "explanation": "Konditionalsatz ohne Konjunktion durch Inversion: Modalverb 'sollte' an den Satzanfang, Verb-Ende entfällt."
+      },
+      {
+        "type": "fill_blank",
+        "prompt": "Es sieht aus, ___ (als ob) die Verhandlungen ___ (scheitern — Konjunktiv II Präsens) würden.",
+        "correctAnswer": "als ob, scheitern",
+        "explanation": "'als ob + Konjunktiv II' — irreal-komparativer Nebensatz. 'als ob...scheitern würden' oder 'als ob...scheiterten'."
+      },
+      {
+        "type": "mcq",
+        "prompt": "Welcher Satz enthält einen korrekt gebildeten konzessiven Konditionalsatz mit 'auch wenn'?",
+        "correctAnswer": "Auch wenn die Datenlage dünn ist, lassen sich vorläufige Schlüsse ziehen.",
+        "explanation": "'auch wenn' leitet einen konzessiven Konditionalsatz ein: die Bedingung wird eingeräumt, der Hauptsatz gilt trotzdem."
+      },
+      {
+        "type": "transformation",
+        "prompt": "Bilden Sie einen Konditionalsatz durch Inversion (ohne 'wenn'): 'Wenn die Theorie stichhaltig ist, ergeben sich weitreichende Implikationen.'",
+        "correctAnswer": "Ist die Theorie stichhaltig, ergeben sich weitreichende Implikationen.",
+        "explanation": "Konditionalsatz durch Inversion: Verb an Pos. 1 (Ist), Subjekt an Pos. 2 (die Theorie). Formal, geschrieben."
+      },
+      {
+        "type": "reorder",
+        "prompt": "sollte / zutreffen / , / die / Hypothese / wären / zu / Konsequenzen / weitreichende / ziehen",
+        "correctAnswer": "Sollte die Hypothese zutreffen, wären weitreichende Konsequenzen zu ziehen.",
+        "explanation": "Konditionalsatz durch Inversion mit 'sollte': Sollte + Subjekt + Verb-Ende; Hauptsatz: Konjunktiv II + Infinitiv."
+      }
+    ],
+    "orderIndex": 32
+  },
+  {
+    "id": 33,
+    "level": "C1",
+    "topic": "Kohäsionsmittel und Diskursstrukturierung im akademischen Text",
+    "explanation": "Ein kohärenter akademischer Text auf C1-Niveau erfordert ein bewusstes Instrumentarium zur Textverknüpfung, das über einzelne Konnektoren hinausgeht. Referenzmittel (anaphorische Pronomen, Demonstrativpronomen, Pronominaladverbien) sorgen für inhaltliche Kontinuität: 'dieses Ergebnis', 'diese Einschätzung', 'darin liegt...', 'dabei ist zu beachten'. Metalinguistische Marker strukturieren den Argumentationsfluss: 'Im Folgenden wird...', 'Wie oben dargelegt wurde...', 'Abschließend ist festzuhalten...', 'Es sei an dieser Stelle darauf hingewiesen, dass...'. Reformulierungen verdeutlichen: 'das heißt', 'mit anderen Worten', 'anders ausgedrückt', 'sprich', 'namentlich'. Evidentialitätsmarker geben Quellen an: 'einer Studie zufolge', 'wie X feststellt', 'gemäß den vorliegenden Befunden'. Die Beherrschung dieser Mittel unterscheidet einen kohärenten C1-Text von einem grammatisch korrekten, aber diskursiv schwachen B2-Text.",
+    "examples": [
+      "Im Folgenden werden die wichtigsten Befunde zusammengefasst und in Bezug auf die Ausgangshypothese bewertet.",
+      "Wie im vorangegangenen Abschnitt dargelegt wurde, lassen sich zwei grundlegende Erklärungsansätze unterscheiden.",
+      "Diese Erkenntnis, das heißt die Tatsache, dass strukturelle Faktoren überwiegen, hat weitreichende Implikationen.",
+      "Gemäß den vorliegenden Befunden ist von einer kausalen Beziehung auszugehen.",
+      "Es sei an dieser Stelle ausdrücklich darauf hingewiesen, dass die Datenbasis begrenzt ist.",
+      "Mit anderen Worten: Die bisherigen Maßnahmen haben das eigentliche Problem nicht gelöst, sondern lediglich verschoben.",
+      "Abschließend ist festzuhalten, dass eine eindeutige Kausalzuschreibung auf Basis der vorliegenden Daten nicht möglich ist.",
+      "Wie aus Tabelle 3 hervorgeht, übersteigt der Anstieg in allen Vergleichsgruppen die ursprünglichen Prognosen."
+    ],
+    "exercises": [
+      {
+        "type": "fill_blank",
+        "prompt": "___ (metalinguistisch, Ausblick) werden drei alternative Modelle vorgestellt und verglichen.",
+        "correctAnswer": "Im Folgenden",
+        "explanation": "'Im Folgenden' ist der Standardmarker für die Ankündigung des nächsten Argumentationsschritts in akademischen Texten."
+      },
+      {
+        "type": "mcq",
+        "prompt": "Welcher Ausdruck ist ein Evidentialitätsmarker (gibt eine externe Quelle an)?",
+        "correctAnswer": "einer Studie zufolge",
+        "explanation": "'einer Studie zufolge' = gemäß einer Studie. Evidentialitätsmarker geben die Quelle einer Aussage an, ohne die eigene Bewertung einzubringen."
+      },
+      {
+        "type": "transformation",
+        "prompt": "Reformulieren Sie mit einem Paraphrase-Marker: 'Die institutionellen Strukturen sind dysfunktional — sie funktionieren nicht mehr.'",
+        "correctAnswer": "Die institutionellen Strukturen sind dysfunktional, das heißt, sie erfüllen ihre Funktion nicht mehr.",
+        "explanation": "'das heißt' leitet eine Reformulierung oder Erklärung ein. Typischer Textstrukturierungsmarker."
+      },
+      {
+        "type": "fill_blank",
+        "prompt": "___ diesem Punkt ___ darauf hingewiesen, dass keine abschließenden Schlüsse möglich sind. (formeller Einschub)",
+        "correctAnswer": "Es sei an, ausdrücklich",
+        "explanation": "'Es sei an dieser Stelle ausdrücklich darauf hingewiesen' — formeller Einschub zur Einschränkung. Konjunktiv I 'sei' (= soll)."
+      },
+      {
+        "type": "mcq",
+        "prompt": "Welcher Marker signalisiert eine Zusammenfassung/Schlussfolgerung am Ende eines Abschnitts?",
+        "correctAnswer": "Abschließend ist festzuhalten, dass...",
+        "explanation": "'Abschließend ist festzuhalten' = zum Schluss lässt sich feststellen. Typischer Schlussmarker in akademischen Texten."
+      },
+      {
+        "type": "fill_blank",
+        "prompt": "___ anderen Worten: Die Reform war zwar formal erfolgreich, hat aber die strukturellen Ursachen nicht beseitigt.",
+        "correctAnswer": "Mit",
+        "explanation": "'Mit anderen Worten' leitet eine Reformulierung oder Präzisierung der vorherigen Aussage ein."
+      },
+      {
+        "type": "transformation",
+        "prompt": "Schreiben Sie einen kohäsiven Übergangssatz, der auf den vorherigen Abschnitt rückverweist: 'Die Methode wurde oben beschrieben. Nun folgen die Ergebnisse.'",
+        "correctAnswer": "Wie im vorangegangenen Abschnitt dargelegt, wurde eine qualitative Methode verwendet; im Folgenden werden die daraus gewonnenen Ergebnisse präsentiert.",
+        "explanation": "Anaphorischer Rückverweis ('Wie...dargelegt') + kataphorischer Vorgriff ('Im Folgenden') als Brücke zwischen Abschnitten."
+      }
+    ],
+    "orderIndex": 33
+  }
+]
