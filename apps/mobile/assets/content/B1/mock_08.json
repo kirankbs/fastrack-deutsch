@@ -1,8 +1,8 @@
 {
   "id": "B1_mock_08",
   "level": "B1",
-  "title": "B1 Übungstest 8: Gesundheit",
-  "version": 1,
+  "title": "B1 Übungstest 8: Konsum & Tausch",
+  "version": 2,
   "sections": {
     "listening": {
       "totalTimeMinutes": 30,
@@ -17,47 +17,47 @@
             {
               "id": "B1_m08_L1_q1",
               "type": "true_false",
-              "questionText": "Die Arztpraxis ist in der nächsten Woche geschlossen.",
+              "questionText": "Der Flohmarkt am Samstag findet nur statt, wenn das Wetter gut ist.",
               "options": ["richtig", "falsch"],
               "correctAnswer": "falsch",
-              "explanation": "Die Ansage lautet: 'Unsere Praxis ist nächste Woche mit reduzierten Sprechzeiten von 9 bis 12 Uhr für Sie geöffnet.' Die Praxis ist also offen, nur kürzer – nicht geschlossen.",
+              "explanation": "Die Ansage lautet: 'Der Flohmarkt findet bei jedem Wetter statt – bei Regen stehen die Stände unter unserem Vordach.' Der Markt wird also nicht abgesagt.",
               "audioTimestamp": 9
             },
             {
               "id": "B1_m08_L1_q2",
               "type": "true_false",
-              "questionText": "Frau Keller bittet ihre Tochter, Medikamente aus der Apotheke zu holen.",
+              "questionText": "Bei der Tauschbörse kann man eigene Bücher gegen andere tauschen.",
               "options": ["richtig", "falsch"],
               "correctAnswer": "richtig",
-              "explanation": "Auf dem Anrufbeantworter sagt Frau Keller: 'Kannst du bitte auf dem Heimweg kurz in die Apotheke gehen? Mein Rezept für die Tabletten liegt dort bereit.' Sie bittet also um Medikamente.",
+              "explanation": "Die Sprecherin erklärt: 'Bringen Sie Ihre gebrauchten Bücher mit und tauschen Sie sie gegen neue – ganz ohne Geld.' Das Tauschen von Büchern ist ausdrücklich erwähnt.",
               "audioTimestamp": 11
             },
             {
               "id": "B1_m08_L1_q3",
               "type": "true_false",
-              "questionText": "Der neue Yoga-Kurs findet am Samstagmorgen statt.",
+              "questionText": "Die Annahme von Secondhandkleidung endet um 16 Uhr.",
               "options": ["richtig", "falsch"],
               "correctAnswer": "falsch",
-              "explanation": "Die Durchsage im Fitnessstudio informiert: 'Ab März bieten wir einen neuen Yoga-Kurs immer dienstags um 19 Uhr an.' Dienstagabend, nicht Samstagmorgen – die Aussage ist falsch.",
+              "explanation": "Die Durchsage sagt: 'Annahme von Kleiderspenden heute bis 18 Uhr.' 16 Uhr ist falsch – es wurden zwei Stunden später genannt.",
               "audioTimestamp": 10
             },
             {
               "id": "B1_m08_L1_q4",
               "type": "true_false",
-              "questionText": "Der Kollege sagt seinen Sporttermin am Mittwoch ab.",
+              "questionText": "Auf dem Kleinanzeigenmarkt werden keine Elektrogeräte angeboten.",
               "options": ["richtig", "falsch"],
-              "correctAnswer": "richtig",
-              "explanation": "Der Kollege sagt: 'Ich schaffe es am Mittwoch leider nicht zum Laufen – ich habe seit gestern starke Kopfschmerzen.' Er sagt also ab.",
-              "audioTimestamp": 11
+              "correctAnswer": "falsch",
+              "explanation": "Der Sprecher sagt: 'Von Möbeln über Kleidung bis hin zu Elektrogeräten – auf unserem Kleinanzeigenmarkt finden Sie alles.' Elektrogeräte sind ausdrücklich genannt.",
+              "audioTimestamp": 12
             },
             {
               "id": "B1_m08_L1_q5",
               "type": "true_false",
-              "questionText": "Die Apotheke bietet einen kostenlosen Blutdruck-Check an.",
+              "questionText": "Die Abgabe von alten Möbeln ist beim Verein kostenlos.",
               "options": ["richtig", "falsch"],
               "correctAnswer": "richtig",
-              "explanation": "Die Ansage verkündet: 'Am Aktionstag am Freitag messen wir Ihren Blutdruck kostenlos – ohne Termin, einfach vorbeikommen.' Die Aussage trifft zu.",
-              "audioTimestamp": 9
+              "explanation": "Die Ansage lautet: 'Sie können Ihre alten Möbel kostenlos bei uns abgeben – wir holen sie auf Wunsch auch ab.' Die Abgabe ist gratis.",
+              "audioTimestamp": 10
             }
           ]
         },
@@ -71,92 +71,92 @@
             {
               "id": "B1_m08_L2_q1",
               "type": "true_false",
-              "questionText": "Die Sendung beschäftigt sich mit dem Thema Schlaf und Gesundheit.",
+              "questionText": "Die Sendung handelt von Secondhandmärkten und nachhaltigem Einkaufen.",
               "options": ["richtig", "falsch"],
               "correctAnswer": "richtig",
-              "explanation": "Die Moderatorin leitet ein: 'Heute sprechen wir über Schlaf – warum er so wichtig für unsere Gesundheit ist und was wir für besseren Schlaf tun können.' Das ist das Thema.",
+              "explanation": "Die Moderatorin leitet ein: 'Heute sprechen wir über Flohmärkte, Tauschbörsen und das wachsende Interesse am Secondhandkauf.' Das Thema ist klar benannt.",
               "audioTimestamp": 6
             },
             {
               "id": "B1_m08_L2_q2",
               "type": "true_false",
-              "questionText": "Laut Studie schlafen mehr als die Hälfte der Erwachsenen in Deutschland weniger als sieben Stunden pro Nacht.",
+              "questionText": "Laut Studie kauft mehr als die Hälfte der Deutschen mindestens einmal im Jahr gebraucht ein.",
               "options": ["richtig", "falsch"],
               "correctAnswer": "richtig",
-              "explanation": "Der Sprecher sagt: 'Eine neue Umfrage zeigt: 54 Prozent der Erwachsenen in Deutschland schlafen weniger als sieben Stunden pro Nacht.' Das entspricht der Aussage.",
+              "explanation": "Der Sprecher sagt: '57 Prozent der Deutschen haben im vergangenen Jahr mindestens einmal etwas Gebrauchtes gekauft.' Mehr als die Hälfte, also richtig.",
               "audioTimestamp": 28
             },
             {
               "id": "B1_m08_L2_q3",
               "type": "true_false",
-              "questionText": "Die Gästin Frau Dr. Weiß arbeitet in einem Krankenhaus in München.",
+              "questionText": "Die Expertin Frau Dr. Lange arbeitet an einer Universität in Wien.",
               "options": ["richtig", "falsch"],
               "correctAnswer": "falsch",
-              "explanation": "Die Moderatorin stellt sie vor: 'Mit uns im Studio ist Dr. Sabine Weiß vom Schlafzentrum der Universitätsklinik Hamburg.' Hamburg, nicht München – also falsch.",
-              "audioTimestamp": 50
+              "explanation": "Die Moderatorin stellt sie vor: 'Mit mir im Studio ist Dr. Barbara Lange vom Konsumforschungsinstitut in Köln.' Köln, nicht Wien – also falsch.",
+              "audioTimestamp": 48
             },
             {
               "id": "B1_m08_L2_q4",
               "type": "true_false",
-              "questionText": "Dr. Weiß sagt, dass Schlafmangel auch das Herz belasten kann.",
+              "questionText": "Laut Dr. Lange kaufen vor allem jüngere Menschen gerne gebrauchte Kleidung.",
               "options": ["richtig", "falsch"],
               "correctAnswer": "richtig",
-              "explanation": "Dr. Weiß erklärt: 'Wer dauerhaft zu wenig schläft, hat ein deutlich höheres Risiko für Herzprobleme und Bluthochdruck.' Die Aussage trifft genau zu.",
-              "audioTimestamp": 72
+              "explanation": "Dr. Lange sagt: 'Besonders unter 18- bis 34-Jährigen ist der Kauf von gebrauchter Mode sehr beliebt – sie sehen es als Ausdruck ihres Lebensstils.' Das bestätigt die Aussage.",
+              "audioTimestamp": 70
             },
             {
               "id": "B1_m08_L2_q5",
               "type": "true_false",
-              "questionText": "Besonders junge Erwachsene klagen laut Studie über Einschlafprobleme.",
+              "questionText": "Flohmärkte werden vor allem wegen des niedrigen Preises besucht.",
               "options": ["richtig", "falsch"],
-              "correctAnswer": "richtig",
-              "explanation": "Im Bericht heißt es: 'Gerade in der Gruppe der 18- bis 30-Jährigen berichten viele über Schwierigkeiten beim Einschlafen.' Das bestätigt die Aussage.",
-              "audioTimestamp": 92
+              "correctAnswer": "falsch",
+              "explanation": "Dr. Lange erklärt: 'Die Menschen gehen nicht nur wegen günstiger Preise auf Flohmärkte – viele schätzen die Atmosphäre und das Stöbern.' Der Preis ist nicht der einzige oder wichtigste Grund.",
+              "audioTimestamp": 94
             },
             {
               "id": "B1_m08_L2_q6",
               "type": "true_false",
-              "questionText": "Laut Dr. Weiß ist das Handy am Bett kein Problem für den Schlaf.",
+              "questionText": "Laut Bericht wächst die Zahl der Onlineplattformen für Gebrauchtwaren seit Jahren.",
               "options": ["richtig", "falsch"],
-              "correctAnswer": "falsch",
-              "explanation": "Dr. Weiß warnt: 'Das Handy am Bett ist einer der größten Schlafstörer – das helle Licht bringt den Körper durcheinander.' Sie sieht das Handy also sehr wohl als Problem.",
-              "audioTimestamp": 115
+              "correctAnswer": "richtig",
+              "explanation": "Im Bericht heißt es: 'Plattformen wie Kleinanzeigen oder Vinted verzeichnen seit fünf Jahren kontinuierlich steigende Nutzerzahlen.' Das bestätigt das Wachstum.",
+              "audioTimestamp": 118
             },
             {
               "id": "B1_m08_L2_q7",
               "type": "true_false",
-              "questionText": "Feste Schlafenszeiten helfen laut Dr. Weiß dem Körper.",
+              "questionText": "Dr. Lange sagt, dass Tauschen manchmal schwieriger ist als Kaufen.",
               "options": ["richtig", "falsch"],
               "correctAnswer": "richtig",
-              "explanation": "Dr. Weiß empfiehlt: 'Versuchen Sie, jeden Tag zur gleichen Zeit ins Bett zu gehen – der Körper liebt Rhythmus.' Das bestätigt die Aussage.",
-              "audioTimestamp": 135
+              "explanation": "Dr. Lange erklärt: 'Beim Tauschen muss der eigene Artikel jemanden interessieren – das kann länger dauern als ein direkter Verkauf.' Sie bestätigt die Schwierigkeit.",
+              "audioTimestamp": 138
             },
             {
               "id": "B1_m08_L2_q8",
               "type": "true_false",
-              "questionText": "Die Expertin rät, am Abend noch eine Kanne Kaffee zu trinken.",
+              "questionText": "Der Kauf von Gebrauchtmöbeln ist laut Bericht in Deutschland wenig verbreitet.",
               "options": ["richtig", "falsch"],
               "correctAnswer": "falsch",
-              "explanation": "Dr. Weiß sagt ausdrücklich: 'Nach 16 Uhr sollten Sie auf Kaffee, Cola und schwarzen Tee verzichten – das Koffein wirkt länger, als viele denken.' Sie rät also das Gegenteil.",
-              "audioTimestamp": 156
+              "explanation": "Der Sprecher sagt: 'Gebrauchte Möbel sind nach Kleidung die zweithäufigste Kategorie beim Secondhandkauf.' Das Gegenteil ist richtig.",
+              "audioTimestamp": 158
             },
             {
               "id": "B1_m08_L2_q9",
               "type": "true_false",
-              "questionText": "Ein kühles Schlafzimmer wird als eine wichtige Maßnahme genannt.",
+              "questionText": "Nachhaltigkeit wird von Käufern als wichtiger Grund für Secondhandeinkäufe genannt.",
               "options": ["richtig", "falsch"],
               "correctAnswer": "richtig",
-              "explanation": "Der Tipp lautet wörtlich: 'Ideal sind 17 bis 19 Grad im Schlafzimmer – lüften Sie vor dem Schlafen gut durch.' Das bestätigt die Aussage.",
-              "audioTimestamp": 172
+              "explanation": "Im Bericht heißt es: '43 Prozent der Befragten geben Nachhaltigkeit als wichtigen Grund für den Secondhandkauf an.' Das bestätigt die Aussage.",
+              "audioTimestamp": 175
             },
             {
               "id": "B1_m08_L2_q10",
               "type": "true_false",
-              "questionText": "Am Ende der Sendung wird eine Buchempfehlung gegeben.",
+              "questionText": "Am Ende der Sendung gibt es Informationen über eine Tauschbörse in der Region.",
               "options": ["richtig", "falsch"],
               "correctAnswer": "richtig",
-              "explanation": "Die Moderatorin schließt mit: 'Wenn Sie mehr erfahren möchten, empfehle ich das neue Buch von Dr. Weiß mit dem Titel Gesunder Schlaf – gesunder Tag.' Eine Buchempfehlung ist ausdrücklich gegeben.",
-              "audioTimestamp": 198
+              "explanation": "Die Moderatorin schließt: 'Wenn Sie selbst mitmachen möchten: Am 15. Mai findet in unserem Stadtpark eine große Tauschbörse statt.' Die Ankündigung ist klar gegeben.",
+              "audioTimestamp": 200
             }
           ]
         },
@@ -170,67 +170,67 @@
             {
               "id": "B1_m08_L3_q1",
               "type": "mcq",
-              "questionText": "Warum ruft die Frau bei der Hausarztpraxis an?",
+              "questionText": "Warum gibt der Mann sein Fahrrad nicht an den Verein ab?",
               "options": [
-                "a) Sie möchte einen Termin für eine Grippe-Impfung vereinbaren.",
-                "b) Sie braucht ein Folgerezept für ihre Dauer-Medikamente.",
-                "c) Sie möchte sich über ein neues Medikament informieren."
+                "a) Er will es selbst reparieren und dann verkaufen.",
+                "b) Er hat schon einen Käufer gefunden.",
+                "c) Das Fahrrad ist zu alt und nicht mehr sicher."
               ],
               "correctAnswer": "b",
-              "explanation": "Die Frau sagt: 'Ich bräuchte ein neues Rezept für meine Blutdruck-Tabletten – die alten sind aufgebraucht.' Sie ruft also wegen eines Folgerezepts an. Impfung und neue Medikamente werden nicht erwähnt.",
-              "audioTimestamp": 17
+              "explanation": "Der Mann sagt: 'Ich habe schon jemanden gefunden, der es kaufen will – ein Kollege aus der Arbeit.' Reparatur und Sicherheit kommen zwar im Gespräch vor, sind aber nicht der genannte Grund. Fangfrage: a) klingt plausibel, weil er eine Reparatur erwähnt, aber als vergangenen Plan, nicht als aktuellen Grund.",
+              "audioTimestamp": 18
             },
             {
               "id": "B1_m08_L3_q2",
               "type": "mcq",
-              "questionText": "Worauf einigen sich die beiden Kolleginnen am Ende?",
+              "questionText": "Was hat die Frau auf dem Flohmarkt gekauft?",
               "options": [
-                "a) Sie laufen dreimal pro Woche in der Mittagspause.",
-                "b) Sie gehen am Montag gemeinsam in den Yoga-Kurs.",
-                "c) Sie fahren am Wochenende mit dem Rad aufs Land."
+                "a) einen alten Holzschreibtisch",
+                "b) einen Bilderrahmen und eine kleine Lampe",
+                "c) eine Nähmaschine aus den 1970er-Jahren"
               ],
-              "correctAnswer": "a",
-              "explanation": "Am Schluss sagt Maria: 'Gut, dann laufen wir einfach dreimal die Woche kurz in der Mittagspause – das ist realistisch.' Yoga wird verworfen (Kurs voll), und die Radtour bleibt unkonkret.",
+              "correctAnswer": "c",
+              "explanation": "Die Frau schwärmt: 'Ich habe eine super Nähmaschine aus den Siebzigern gefunden – die funktioniert noch perfekt!' Schreibtisch und Rahmen werden erwähnt, aber nur als Dinge, die sie angeschaut hat, nicht gekauft.",
               "audioTimestamp": 50
             },
             {
               "id": "B1_m08_L3_q3",
               "type": "mcq",
-              "questionText": "Was empfiehlt die Apothekerin der Kundin?",
+              "questionText": "Worüber einigen sich die beiden am Ende des Gesprächs?",
               "options": [
-                "a) ein starkes Schmerzmittel mit Rezept",
-                "b) ein pflanzliches Mittel ohne Rezept",
-                "c) eine Behandlung mit Tee und Ruhe zu Hause"
+                "a) Sie fahren am Samstag gemeinsam zum Kleiderflohmarkt.",
+                "b) Die eine gibt der anderen ihre alte Winterjacke.",
+                "c) Sie melden sich beide für die Tauschbörse am Sonntag an."
               ],
-              "correctAnswer": "b",
-              "explanation": "Die Apothekerin sagt: 'Wenn die Kopfschmerzen nicht so schlimm sind, empfehle ich Ihnen dieses pflanzliche Präparat – das bekommen Sie ohne Rezept.' Das starke Mittel erwähnt sie, aber empfiehlt es nicht, und Tee wird nur beiläufig angesprochen.",
-              "audioTimestamp": 85
+              "correctAnswer": "c",
+              "explanation": "Am Ende sagt die erste Frau: 'Gut, dann melden wir uns beide für Sonntag an – ich bringe meine Sachen und du deine.' Das ist die gemeinsame Entscheidung. Der Flohmarkt und die Jacke waren Zwischenstationen im Gespräch.",
+              "audioTimestamp": 84
             },
             {
               "id": "B1_m08_L3_q4",
               "type": "mcq",
-              "questionText": "Warum sagt der Mann seinen Zahnarzttermin am Freitag ab?",
+              "questionText": "Was ist das Problem des Mannes mit der Onlineanzeige für sein Sofa?",
               "options": [
-                "a) Er hat an diesem Tag einen wichtigen Termin bei der Arbeit.",
-                "b) Er hat seine Versicherungskarte im Urlaub verloren.",
-                "c) Er hat seit zwei Tagen hohes Fieber und möchte niemanden anstecken."
+                "a) Das Sofa ist zu groß für seine neue Wohnung.",
+                "b) Niemand antwortet auf seine Anzeige.",
+                "c) Der Preis ist zu hoch für Interessenten."
               ],
-              "correctAnswer": "c",
-              "explanation": "Der Mann erklärt: 'Ich habe seit gestern fast 39 Grad Fieber – ich möchte niemanden in der Praxis anstecken und bitte um einen neuen Termin.' Das ist der konkrete Grund. Arbeit und Versicherung werden nicht genannt.",
-              "audioTimestamp": 122
+              "correctAnswer": "b",
+              "explanation": "Der Mann klagt: 'Ich habe die Anzeige schon vor zwei Wochen eingestellt und bis jetzt keine einzige Nachricht bekommen.' Keine Antwort ist das Problem. Größe und Preis nennt er als Vermutungen für die Ursache – nicht als das Problem selbst.",
+              "audioTimestamp": 120
             },
             {
               "id": "B1_m08_L3_q5",
               "type": "mcq",
-              "questionText": "Was ist das größte Problem der jungen Frau mit ihrer neuen Gesundheits-App?",
+              "questionText": "Was empfiehlt die Beraterin der Kundin für die alte Jacke?",
               "options": [
-                "a) Die App zeigt ihre Schritte falsch an.",
-                "b) Die App kostet pro Monat mehr, als auf der Webseite stand.",
-                "c) Die App erinnert sie zu oft mit kleinen Nachrichten."
+                "a) die Jacke zu einer Schneiderei zu bringen",
+                "b) die Jacke auf einem Kleiderflohmarkt anzubieten",
+                "c) die Jacke an ein Upcycling-Projekt zu spenden"
               ],
               "correctAnswer": "c",
-              "explanation": "Die Frau klagt: 'Die Schritte stimmen ja, aber die App schickt mir gefühlt jede halbe Stunde eine Erinnerung – das stresst mich mehr, als es hilft.' Die Benachrichtigungen sind das Hauptproblem.",
-              "audioTimestamp": 158
+              "explanation": "Die Beraterin sagt: 'Für Jacken in diesem Zustand empfehle ich unser Upcycling-Projekt – die machen daraus neue Taschen oder Kissen.' Flohmarkt (zu beschädigt) und Schneiderei (zu teuer) werden als Optionen diskutiert, aber nicht empfohlen.",
+              "audioTimestamp": 157
             }
           ]
         }
@@ -244,104 +244,84 @@
           "instructions": "Lesen Sie zuerst die fünf Situationen (1–5) und dann die acht Überschriften (a–h). Welche Überschrift passt zu welcher Situation? Für jede Situation gibt es genau eine passende Überschrift. Drei Überschriften bleiben übrig.",
           "instructionsTranslation": "First read the five situations (1–5) and then the eight headlines (a–h). Which headline matches which situation? For each situation there is exactly one matching headline. Three headlines remain unused.",
           "texts": [
-            { "id": "B1_m08_R1_head_a", "type": "notice", "content": "a) Neue Physiotherapie-Praxis eröffnet – Termine schon ab nächster Woche möglich" },
-            { "id": "B1_m08_R1_head_b", "type": "notice", "content": "b) Impfaktion in der Stadthalle – Grippeimpfung ohne Anmeldung, 16. November" },
-            { "id": "B1_m08_R1_head_c", "type": "notice", "content": "c) Kostenlose Ernährungsberatung bei der Krankenkasse – Termine im ganzen März" },
-            { "id": "B1_m08_R1_head_d", "type": "notice", "content": "d) Rückenfit-Kurs für Berufstätige – 10 Termine am Dienstagabend, VHS" },
-            { "id": "B1_m08_R1_head_e", "type": "notice", "content": "e) Stadtlauf für Anfänger – 5 Kilometer, alle Altersgruppen, Anmeldung online" },
-            { "id": "B1_m08_R1_head_f", "type": "notice", "content": "f) Wandertreff 60+ – Jeden Sonntag leichte Touren in der Umgebung" },
-            { "id": "B1_m08_R1_head_g", "type": "notice", "content": "g) Digitale Gesundheits-App der Kasse – gratis für alle Versicherten" },
-            { "id": "B1_m08_R1_head_h", "type": "notice", "content": "h) Allergie-Sprechstunde im Stadtteilzentrum – jeden Donnerstagnachmittag" }
+            { "id": "B1_m08_R1_head_a", "type": "notice", "content": "a) Flohmarkt jeden Samstag – Stände mieten, Gebrauchtes verkaufen, Stöbern erlaubt" },
+            { "id": "B1_m08_R1_head_b", "type": "notice", "content": "b) Kostenlose Abgabe von Elektroschrott – Altgeräte umweltgerecht entsorgen" },
+            { "id": "B1_m08_R1_head_c", "type": "notice", "content": "c) Kleider tauschen statt wegwerfen – Kleidertauschparty im Stadtteilzentrum" },
+            { "id": "B1_m08_R1_head_d", "type": "notice", "content": "d) Antiquitätenmesse – Seltene Stücke kaufen und bewerten lassen" },
+            { "id": "B1_m08_R1_head_e", "type": "notice", "content": "e) Upcycling-Workshop – Alte Dinge neu gestalten, keine Vorkenntnisse nötig" },
+            { "id": "B1_m08_R1_head_f", "type": "notice", "content": "f) Büchertausch im Café – Bring ein Buch, nimm ein Buch, kostenlos" },
+            { "id": "B1_m08_R1_head_g", "type": "notice", "content": "g) Gratis-Abgabe für Kinderspielzeug und Babyausstattung – Verein sucht Spenden" },
+            { "id": "B1_m08_R1_head_h", "type": "notice", "content": "h) Repair Café – Defekte Geräte gemeinsam reparieren, jeden ersten Sonntag" }
           ],
           "questions": [
             {
               "id": "B1_m08_R1_q1",
               "type": "matching",
-              "questionText": "1. Frau Gruber hat seit Jahren chronische Rückenschmerzen vom Bürojob und möchte endlich regelmäßig gezielte Übungen nach Feierabend machen.",
+              "questionText": "1. Frau Söder hat viele Romane gelesen und möchte sie loswerden, ohne sie wegzuwerfen. Sie hätte gerne im Gegenzug neue Lektüre, ohne Geld auszugeben.",
               "matchingSources": [
-                { "id": "B1_m08_R1_head_a", "label": "a" },
-                { "id": "B1_m08_R1_head_b", "label": "b" },
-                { "id": "B1_m08_R1_head_c", "label": "c" },
-                { "id": "B1_m08_R1_head_d", "label": "d" },
-                { "id": "B1_m08_R1_head_e", "label": "e" },
-                { "id": "B1_m08_R1_head_f", "label": "f" },
-                { "id": "B1_m08_R1_head_g", "label": "g" },
-                { "id": "B1_m08_R1_head_h", "label": "h" }
+                { "id": "B1_m08_R1_head_a", "label": "a" }, { "id": "B1_m08_R1_head_b", "label": "b" },
+                { "id": "B1_m08_R1_head_c", "label": "c" }, { "id": "B1_m08_R1_head_d", "label": "d" },
+                { "id": "B1_m08_R1_head_e", "label": "e" }, { "id": "B1_m08_R1_head_f", "label": "f" },
+                { "id": "B1_m08_R1_head_g", "label": "g" }, { "id": "B1_m08_R1_head_h", "label": "h" }
               ],
-              "correctAnswer": "d",
-              "explanation": "Überschrift d) bietet einen Rückenfit-Kurs für Berufstätige am Dienstagabend – genau das, was Frau Gruber für ihre Rückenschmerzen nach der Arbeit sucht. Die Physiotherapie (a) ist Einzelbehandlung, nicht ein regelmäßiger Gruppenkurs.",
+              "correctAnswer": "f",
+              "explanation": "Überschrift f) beschreibt einen kostenlosen Büchertausch nach dem Prinzip 'Bring ein Buch, nimm ein Buch' – exakt Frau Söders Wunsch. Überschrift a) wäre ein Verkaufsstand, der einen Standpreis kostet.",
               "pointValue": 5
             },
             {
               "id": "B1_m08_R1_q2",
               "type": "matching",
-              "questionText": "2. Herr Yildiz hat seit dem Frühjahr laufende Nase und tränende Augen, besonders wenn er im Park sitzt. Er möchte klären, was er dagegen tun kann.",
+              "questionText": "2. Herr Brandl hat eine kaputte Stehlampe zu Hause, die er eigentlich mag. Er würde sie gerne wieder nutzen, kann sie aber selbst nicht reparieren.",
               "matchingSources": [
-                { "id": "B1_m08_R1_head_a", "label": "a" },
-                { "id": "B1_m08_R1_head_b", "label": "b" },
-                { "id": "B1_m08_R1_head_c", "label": "c" },
-                { "id": "B1_m08_R1_head_d", "label": "d" },
-                { "id": "B1_m08_R1_head_e", "label": "e" },
-                { "id": "B1_m08_R1_head_f", "label": "f" },
-                { "id": "B1_m08_R1_head_g", "label": "g" },
-                { "id": "B1_m08_R1_head_h", "label": "h" }
+                { "id": "B1_m08_R1_head_a", "label": "a" }, { "id": "B1_m08_R1_head_b", "label": "b" },
+                { "id": "B1_m08_R1_head_c", "label": "c" }, { "id": "B1_m08_R1_head_d", "label": "d" },
+                { "id": "B1_m08_R1_head_e", "label": "e" }, { "id": "B1_m08_R1_head_f", "label": "f" },
+                { "id": "B1_m08_R1_head_g", "label": "g" }, { "id": "B1_m08_R1_head_h", "label": "h" }
               ],
               "correctAnswer": "h",
-              "explanation": "Überschrift h) bietet eine Allergie-Sprechstunde an – die Symptome von Herrn Yildiz klingen nach einer Pollenallergie. Keine andere Überschrift passt zu Allergien.",
+              "explanation": "Überschrift h) bietet ein Repair Café, wo defekte Geräte gemeinsam repariert werden. Das passt zu Herrn Brandls Lage. Überschrift b) wäre Entsorgung, nicht Reparatur.",
               "pointValue": 5
             },
             {
               "id": "B1_m08_R1_q3",
               "type": "matching",
-              "questionText": "3. Frau Berger ist Rentnerin und möchte sich regelmäßig bewegen, aber ohne zu hohe Belastung. Sie wäre gerne Teil einer Gruppe, die jeden Sonntag kurze Touren macht.",
+              "questionText": "3. Familie Kern erwartet ihr erstes Baby und sucht günstig oder kostenlos Babysachen, Wiege und Spielzeug. Sie haben wenig Budget.",
               "matchingSources": [
-                { "id": "B1_m08_R1_head_a", "label": "a" },
-                { "id": "B1_m08_R1_head_b", "label": "b" },
-                { "id": "B1_m08_R1_head_c", "label": "c" },
-                { "id": "B1_m08_R1_head_d", "label": "d" },
-                { "id": "B1_m08_R1_head_e", "label": "e" },
-                { "id": "B1_m08_R1_head_f", "label": "f" },
-                { "id": "B1_m08_R1_head_g", "label": "g" },
-                { "id": "B1_m08_R1_head_h", "label": "h" }
+                { "id": "B1_m08_R1_head_a", "label": "a" }, { "id": "B1_m08_R1_head_b", "label": "b" },
+                { "id": "B1_m08_R1_head_c", "label": "c" }, { "id": "B1_m08_R1_head_d", "label": "d" },
+                { "id": "B1_m08_R1_head_e", "label": "e" }, { "id": "B1_m08_R1_head_f", "label": "f" },
+                { "id": "B1_m08_R1_head_g", "label": "g" }, { "id": "B1_m08_R1_head_h", "label": "h" }
               ],
-              "correctAnswer": "f",
-              "explanation": "Überschrift f) beschreibt einen Wandertreff 60+ mit leichten Sonntagstouren – perfekt für Frau Berger.",
+              "correctAnswer": "g",
+              "explanation": "Überschrift g) beschreibt eine kostenlose Abgabe von Spielzeug und Babyausstattung durch einen Verein – ideal für Familie Kern.",
               "pointValue": 5
             },
             {
               "id": "B1_m08_R1_q4",
               "type": "matching",
-              "questionText": "4. Herr Okafor möchte seine Ernährung umstellen, weil sein Arzt ihm höhere Cholesterinwerte bescheinigt hat. Er sucht fachliche Beratung, die nichts kostet.",
+              "questionText": "4. Lena möchte ihren Kleiderschrank ausmisten und neue Kleidungsstücke bekommen, ohne viel Geld zu zahlen. Sie interessiert sich für einen geselligen Abend mit anderen.",
               "matchingSources": [
-                { "id": "B1_m08_R1_head_a", "label": "a" },
-                { "id": "B1_m08_R1_head_b", "label": "b" },
-                { "id": "B1_m08_R1_head_c", "label": "c" },
-                { "id": "B1_m08_R1_head_d", "label": "d" },
-                { "id": "B1_m08_R1_head_e", "label": "e" },
-                { "id": "B1_m08_R1_head_f", "label": "f" },
-                { "id": "B1_m08_R1_head_g", "label": "g" },
-                { "id": "B1_m08_R1_head_h", "label": "h" }
+                { "id": "B1_m08_R1_head_a", "label": "a" }, { "id": "B1_m08_R1_head_b", "label": "b" },
+                { "id": "B1_m08_R1_head_c", "label": "c" }, { "id": "B1_m08_R1_head_d", "label": "d" },
+                { "id": "B1_m08_R1_head_e", "label": "e" }, { "id": "B1_m08_R1_head_f", "label": "f" },
+                { "id": "B1_m08_R1_head_g", "label": "g" }, { "id": "B1_m08_R1_head_h", "label": "h" }
               ],
               "correctAnswer": "c",
-              "explanation": "Überschrift c) bietet eine kostenlose Ernährungsberatung der Krankenkasse – ideal für Herrn Okafors Bedarf.",
+              "explanation": "Überschrift c) beschreibt eine Kleidertauschparty – Kleidung tauschen statt wegwerfen. Das trifft Lenas Wunsch nach geselligem Tauschen. Überschrift a) wäre Verkauf, kostet also Geld.",
               "pointValue": 5
             },
             {
               "id": "B1_m08_R1_q5",
               "type": "matching",
-              "questionText": "5. Jonas ist 28 und will endlich wieder Sport machen. Er möchte ein konkretes Ziel haben und überlegt, an einem Lauf-Event teilzunehmen, das auch für Anfänger machbar ist.",
+              "questionText": "5. Tobias hat einen alten Stuhl, der ihm gut gefällt. Er möchte ihn selbst neu gestalten und braucht Ideen und Anleitung von anderen.",
               "matchingSources": [
-                { "id": "B1_m08_R1_head_a", "label": "a" },
-                { "id": "B1_m08_R1_head_b", "label": "b" },
-                { "id": "B1_m08_R1_head_c", "label": "c" },
-                { "id": "B1_m08_R1_head_d", "label": "d" },
-                { "id": "B1_m08_R1_head_e", "label": "e" },
-                { "id": "B1_m08_R1_head_f", "label": "f" },
-                { "id": "B1_m08_R1_head_g", "label": "g" },
-                { "id": "B1_m08_R1_head_h", "label": "h" }
+                { "id": "B1_m08_R1_head_a", "label": "a" }, { "id": "B1_m08_R1_head_b", "label": "b" },
+                { "id": "B1_m08_R1_head_c", "label": "c" }, { "id": "B1_m08_R1_head_d", "label": "d" },
+                { "id": "B1_m08_R1_head_e", "label": "e" }, { "id": "B1_m08_R1_head_f", "label": "f" },
+                { "id": "B1_m08_R1_head_g", "label": "g" }, { "id": "B1_m08_R1_head_h", "label": "h" }
               ],
               "correctAnswer": "e",
-              "explanation": "Überschrift e) beschreibt einen Stadtlauf speziell für Anfänger über 5 Kilometer – perfekt als Ziel für Jonas. Die anderen Angebote sind entweder nicht sportbezogen oder zu intensiv.",
+              "explanation": "Überschrift e) bietet einen Upcycling-Workshop, bei dem alte Dinge neu gestaltet werden – ohne Vorkenntnisse. Das trifft Tobias' Situation. Repair Café (h) repariert Geräte, gestaltet sie nicht um.",
               "pointValue": 5
             }
           ]
@@ -354,79 +334,79 @@
             {
               "id": "B1_m08_R2_article",
               "type": "article",
-              "content": "Bewegung im Alltag – Warum schon kleine Schritte viel bringen\n\nEine neue Untersuchung des Instituts für Gesundheitsforschung in Freiburg zeigt, dass viele Menschen in Deutschland ihre Gesundheit spürbar verbessern könnten, wenn sie einfach im Alltag aktiver wären. Rund 58 Prozent der Befragten erreichen nicht die empfohlenen 150 Minuten Bewegung pro Woche. Besonders Berufstätigen, die den ganzen Tag am Schreibtisch sitzen, fehlt am Abend oft die Energie für zusätzlichen Sport. Trotzdem zeigt die Studie: Schon kleine Veränderungen bringen messbare Vorteile.\n\n'Viele denken, man müsste gleich ins Fitnessstudio rennen oder Marathon laufen', erklärt Studienleiterin Dr. Sophia Brandt. 'Dabei reicht es schon, zehn Minuten am Tag zügig zu gehen, die Treppe zu nehmen oder mit dem Rad einzukaufen.' In ihren Versuchen haben die Forscher 400 Menschen sechs Monate lang begleitet. Wer täglich rund 30 Minuten insgesamt in Bewegung war – ob durch Gehen, Treppensteigen oder Gartenarbeit – hatte deutlich niedrigere Blutdruckwerte und fühlte sich insgesamt wohler.\n\nDie positiven Effekte sind also klar. Gleichzeitig warnt Dr. Brandt vor falschen Erwartungen. 'Es geht nicht darum, in kurzer Zeit viel abzunehmen oder Muskeln aufzubauen. Es geht um die tägliche Gewohnheit.' Manche Teilnehmer mussten erst lernen, kleine Erfolge zu sehen und nicht gleich aufzugeben. Kritik gab es vor allem an Apps, die mit täglichen Schrittzielen arbeiten: Wer das Ziel nicht erreicht, fühlt sich oft schlecht – und hört dann ganz auf. 'Solche Apps sollten flexibler werden', fordert die Expertin.\n\nTrotz der Herausforderungen empfiehlt Dr. Brandt drei einfache Schritte für den Alltag: Steigen Sie eine Haltestelle früher aus und gehen Sie den Rest zu Fuß, nehmen Sie grundsätzlich die Treppe, und planen Sie kurze Spaziergänge fest in Ihren Wochenplan ein – zum Beispiel in der Mittagspause. Wer diese Tipps drei Monate lang konsequent umsetzt, berichtet laut Studie nach kurzer Zeit von besserem Schlaf, mehr Energie und einem deutlich ausgeglicheneren Alltag. Teuer muss gesunde Bewegung also nicht sein.",
-              "source": "Badische Zeitung, März 2026"
+              "content": "Secondhand boomt – aber nicht alle profitieren\n\nEin Blick in deutsche Innenstädte zeigt: Secondhandläden gibt es heute fast überall. Neben den klassischen Sozialkaufhäusern, bei denen Erlöse karitativen Zwecken zugutekommen, haben sich in den letzten Jahren viele kommerzielle Anbieter etabliert. Sie verkaufen gebrauchte Designermode zu Preisen, die für den ursprünglichen Zweck – zugänglich und günstig zu sein – zu hoch sind. Kritiker sprechen von einer 'Gentrifizierung des Gebrauchtmarkts'.\n\nDieser Wandel hat Folgen. Wer früher im Sozialkaufhaus preiswert einkaufen konnte, findet dort jetzt oft nur noch aussortierte Massenware, während die gut erhaltenen Markenstücke längst in den Vintage-Boutiquen gelandet sind. Sozialpädagogin Andrea Fuchs, die seit zehn Jahren in einem Dortmunder Kleiderladen arbeitet, beschreibt das Problem: 'Unsere Stammkunden kommen hauptsächlich, weil sie wenig Geld haben. Wenn die Sachen, die früher zu uns kamen, jetzt woanders teurer verkauft werden, trifft das vor allem die, die es am meisten brauchen.'\n\nGleichzeitig steigt das Bewusstsein für Nachhaltigkeit. Für viele jüngere Käufer ist Secondhand keine Frage der Not, sondern der Haltung. 'Ich kaufe fast nur noch gebraucht – aus Überzeugung', sagt die Stuttgarter Studentin Miriam Holz. Sie schätzt dabei besonders die Onlineplattformen, auf denen man mit wenig Aufwand gezielt suchen kann. Laut einer aktuellen Erhebung des Handelsinstituts Frankfurt nutzen 61 Prozent der 20- bis 35-Jährigen mindestens einmal pro Monat eine solche Plattform.\n\nExperten fordern mehr Transparenz: Käufer sollten wissen, welcher Anteil des Kaufpreises tatsächlich sozialen Projekten zugutekommt und welcher in kommerzielle Gewinne fließt. Solange das unklar bleibt, werden Konsumenten weiterhin glauben, 'das Richtige zu tun', ohne den vollen Zusammenhang zu kennen.",
+              "source": "Westdeutsche Allgemeine Zeitung, April 2026"
             }
           ],
           "questions": [
             {
               "id": "B1_m08_R2_q1",
               "type": "mcq",
-              "questionText": "Was ist das zentrale Ergebnis der Studie aus Freiburg?",
+              "questionText": "Was meinen Kritiker mit 'Gentrifizierung des Gebrauchtmarkts'?",
               "relatedTextId": "B1_m08_R2_article",
               "options": [
-                "a) Mehr als die Hälfte der Deutschen bewegt sich weniger als empfohlen.",
-                "b) Deutsche gehen im Durchschnitt dreimal pro Woche ins Fitnessstudio.",
-                "c) Nur ältere Menschen bewegen sich laut Studie genug."
+                "a) Gebrauchte Waren werden immer schlechter in ihrer Qualität.",
+                "b) Günstige Secondhandläden werden durch teurere verdrängt.",
+                "c) Sozialkaufhäuser bekommen keine staatliche Unterstützung mehr."
               ],
-              "correctAnswer": "a",
-              "explanation": "Der Text sagt: 'Rund 58 Prozent der Befragten erreichen nicht die empfohlenen 150 Minuten Bewegung pro Woche.' Das entspricht exakt Option a. Die anderen Optionen kommen im Text nicht vor.",
+              "correctAnswer": "b",
+              "explanation": "Der Text erklärt: Kommerzielle Anbieter verkaufen gebrauchte Mode 'zu Preisen, die für den ursprünglichen Zweck – zugänglich und günstig zu sein – zu hoch sind'. Das trifft Option b. Qualität (a) und staatliche Unterstützung (c) sind kein Thema.",
               "pointValue": 5
             },
             {
               "id": "B1_m08_R2_q2",
               "type": "mcq",
-              "questionText": "Wie viel Bewegung reicht laut Dr. Brandt im Alltag schon aus?",
+              "questionText": "Was sagt Andrea Fuchs über die Auswirkungen dieses Wandels?",
               "relatedTextId": "B1_m08_R2_article",
               "options": [
-                "a) mindestens 90 Minuten intensives Training pro Tag",
-                "b) rund 30 Minuten Bewegung durch Gehen, Treppen oder Gartenarbeit",
-                "c) ausschließlich mehrmals pro Woche ein Besuch im Fitnessstudio"
+                "a) Stammkunden ihres Ladens kaufen jetzt lieber in Boutiquen ein.",
+                "b) Menschen mit wenig Geld finden in Sozialkaufhäusern weniger gute Ware.",
+                "c) Die Preise in Sozialkaufhäusern sind stark gestiegen."
               ],
               "correctAnswer": "b",
-              "explanation": "Der Text sagt: 'Wer täglich rund 30 Minuten insgesamt in Bewegung war – ob durch Gehen, Treppensteigen oder Gartenarbeit – hatte deutlich niedrigere Blutdruckwerte ...' Option b trifft damit genau. Option a ist zu hoch, c widerspricht der Aussage von Dr. Brandt.",
+              "explanation": "Fuchs beschreibt: Gut erhaltene Markenstücke landen jetzt in Vintage-Boutiquen, nicht im Sozialkaufhaus. Das schadet denen, die günstige Ware brauchen. Option a ist ein Fehlschluss (Stammkunden kaufen weiter bei ihr, nicht woanders), c wird nicht genannt.",
               "pointValue": 5
             },
             {
               "id": "B1_m08_R2_q3",
               "type": "mcq",
-              "questionText": "Welche Kritik an Gesundheits-Apps wird im Text genannt?",
+              "questionText": "Warum kauft Miriam Holz hauptsächlich Secondhand?",
               "relatedTextId": "B1_m08_R2_article",
               "options": [
-                "a) Die Apps kosten zu viel Geld im Monat.",
-                "b) Die Apps messen die Schritte oft falsch.",
-                "c) Nutzer fühlen sich schlecht, wenn sie das Tagesziel nicht erreichen."
+                "a) Weil sie als Studentin sehr wenig Geld hat.",
+                "b) Weil sie persönlich an Nachhaltigkeit glaubt.",
+                "c) Weil die Onlineplattformen sehr günstige Preise bieten."
               ],
-              "correctAnswer": "c",
-              "explanation": "Der Text nennt: 'Wer das Ziel nicht erreicht, fühlt sich oft schlecht – und hört dann ganz auf.' Das entspricht Option c. Die Kosten und Messfehler werden im Artikel nicht thematisiert.",
+              "correctAnswer": "b",
+              "explanation": "Miriam Holz sagt ausdrücklich: 'aus Überzeugung' – nicht aus Geldnot. Option a ist der klassische Fehlschluss, den der Text selbst direkt anspricht ('keine Frage der Not'). Plattformen schätzt sie wegen Bequemlichkeit, nicht Preis.",
               "pointValue": 5
             },
             {
               "id": "B1_m08_R2_q4",
               "type": "mcq",
-              "questionText": "Wie bewertet Dr. Brandt das Thema Gewichtsverlust im Zusammenhang mit Bewegung?",
+              "questionText": "Was fordern Experten laut dem Text?",
               "relatedTextId": "B1_m08_R2_article",
               "options": [
-                "a) Sie hält schnelles Abnehmen durch tägliches Gehen für einfach.",
-                "b) Sie empfiehlt ausschließlich Krafttraining für den Muskelaufbau.",
-                "c) Sie sagt, es gehe vor allem um tägliche Gewohnheit, nicht um schnelles Abnehmen."
+                "a) strengere Preiskontrollen für alle Secondhandläden",
+                "b) ein Verbot kommerzieller Vintage-Boutiquen",
+                "c) mehr Klarheit darüber, wohin das Geld bei einem Kauf fließt"
               ],
               "correctAnswer": "c",
-              "explanation": "Dr. Brandt wird zitiert: 'Es geht nicht darum, in kurzer Zeit viel abzunehmen oder Muskeln aufzubauen. Es geht um die tägliche Gewohnheit.' Option c trifft das wörtlich.",
+              "explanation": "Der Text sagt wörtlich: 'Experten fordern mehr Transparenz: Käufer sollten wissen, welcher Anteil des Kaufpreises sozialen Projekten zugutekommt.' Das ist Option c. Preiskontrollen und Verbote werden nicht erwähnt.",
               "pointValue": 5
             },
             {
               "id": "B1_m08_R2_q5",
               "type": "mcq",
-              "questionText": "Welche konkrete Empfehlung gibt Dr. Brandt?",
+              "questionText": "Laut Erhebung des Handelsinstituts Frankfurt nutzen 61 Prozent der 20- bis 35-Jährigen Secondhandplattformen ...",
               "relatedTextId": "B1_m08_R2_article",
               "options": [
-                "a) jeden Morgen mindestens eine Stunde joggen zu gehen",
-                "b) eine Haltestelle früher auszusteigen und den Rest zu gehen",
-                "c) auf den Aufzug nur noch bei großer Hitze zu verzichten"
+                "a) täglich.",
+                "b) mindestens einmal pro Monat.",
+                "c) mindestens einmal pro Woche."
               ],
               "correctAnswer": "b",
-              "explanation": "Der Text listet als ersten Tipp wörtlich: 'Steigen Sie eine Haltestelle früher aus und gehen Sie den Rest zu Fuß.' Das entspricht Option b. Option a ist zu intensiv, Option c widerspricht dem Rat, grundsätzlich die Treppe zu nehmen.",
+              "explanation": "Der Text sagt wörtlich: 'nutzen 61 Prozent der 20- bis 35-Jährigen mindestens einmal pro Monat eine solche Plattform.' Option a (täglich) und c (wöchentlich) sind nicht im Text.",
               "pointValue": 5
             }
           ]
@@ -436,72 +416,72 @@
           "instructions": "Sie lesen zehn Situationen (1–10) und zwölf kurze Anzeigen (a–l). Welche Anzeige passt zu welcher Situation? Für jede Situation gibt es genau eine passende Anzeige. Zwei Anzeigen bleiben übrig. Wenn keine Anzeige passt, schreiben Sie 'x'.",
           "instructionsTranslation": "You read ten situations (1–10) and twelve short advertisements (a–l). Which advertisement matches which situation? For each situation there is exactly one matching advertisement. Two advertisements remain unused. If no advertisement fits, write 'x'.",
           "texts": [
-            { "id": "B1_m08_R3_ad_a", "type": "ad", "content": "a) Fitnessstudio 'VitalFit' – Monatsbeitrag 34,90 €, keine Mindestlaufzeit. Kurse inklusive: Yoga, Rücken, Pilates. Täglich 6–23 Uhr. Probewoche gratis. www.vitalfit-koeln.de" },
-            { "id": "B1_m08_R3_ad_b", "type": "ad", "content": "b) Naturheilpraxis Dr. Roth – Allergien, Stress, Schlafstörungen. Termine kurzfristig, auch für Neupatienten. Gartenstraße 22, Termin online buchbar." },
-            { "id": "B1_m08_R3_ad_c", "type": "ad", "content": "c) Meditations-App 'Ruheinsel' – Geführte Übungen für besseren Schlaf, 10 Minuten am Abend. Erste 30 Tage kostenlos. Für Android und iPhone." },
-            { "id": "B1_m08_R3_ad_d", "type": "ad", "content": "d) Fahrradkurs für Erwachsene – Wer als Kind nie Rad fahren gelernt hat, kann hier sicher einsteigen. 8 Termine am Samstagvormittag, 120 €." },
-            { "id": "B1_m08_R3_ad_e", "type": "ad", "content": "e) Kinderarztpraxis Sonnenschein sucht neue Patienten – Termine auch am Samstagvormittag. Barrierefrei. Sommerstraße 14, Tel. 030 778 90 12" },
-            { "id": "B1_m08_R3_ad_f", "type": "ad", "content": "f) Schwimmkurs für Anfänger (Erwachsene) – 10 Einheiten, montags 19–20 Uhr. 150 € inklusive Badeintritt. Hallenbad Mitte." },
-            { "id": "B1_m08_R3_ad_g", "type": "ad", "content": "g) Kostenloser Gesundheitstag – Blutdruck, Blutzucker und Hörtest ohne Termin. Samstag 10–15 Uhr, Rathausplatz. Alle sind herzlich willkommen." },
-            { "id": "B1_m08_R3_ad_h", "type": "ad", "content": "h) Yoga-Retreat im Schwarzwald – Ein Wochenende mit Bewegung, gesunder Küche und Ruhe. 280 € pro Person. www.retreat-schwarzwald.de" },
-            { "id": "B1_m08_R3_ad_i", "type": "ad", "content": "i) Physiotherapie Bewegung Plus – Rücken, Knie, Schulter. Kurzfristige Termine möglich, alle Kassen. Grünenstraße 8, Tel. 089 332 44 10" },
-            { "id": "B1_m08_R3_ad_j", "type": "ad", "content": "j) Kochkurs 'Gesund in 30 Minuten' – Einfache Rezepte mit frischen Zutaten. 6 Termine, 90 € inkl. Zutaten. Jeden zweiten Dienstagabend." },
-            { "id": "B1_m08_R3_ad_k", "type": "ad", "content": "k) Stressbewältigungs-Workshop – Zwei Tage, 180 €. Atemübungen, Zeitmanagement, Gespräche. 20. und 27. April, kleine Gruppe." },
-            { "id": "B1_m08_R3_ad_l", "type": "ad", "content": "l) Ergonomischer Bürostuhl zu verkaufen – Marke Hag, gut erhalten, 180 € VB. Abholung in Frankfurt-West. Kontakt: kim-r@mail.de" }
+            {
+              "id": "B1_m08_R3_ad_a",
+              "type": "ad",
+              "content": "a) Flohmarkt Westpark – Jeden Samstag 8–14 Uhr. Standmiete 10 € / Tisch. Alles darf verkauft werden: Möbel, Kleidung, Bücher, Spielzeug, Elektro. Kasse vor Ort. www.flohmarkt-westpark.de"
+            },
+            {
+              "id": "B1_m08_R3_ad_b",
+              "type": "ad",
+              "content": "b) Gebrauchte Kinderbücher – Bilderbücher und Erstleser günstig abzugeben, 0,50–2 € pro Stück. Ca. 80 Stück. Abholung in Bremen-Nord. Melanie, Tel. 0421 449 32 00"
+            },
+            {
+              "id": "B1_m08_R3_ad_c",
+              "type": "ad",
+              "content": "c) Tauschbörse Haushalt – Bringen Sie Gegenstände, die Sie nicht mehr brauchen, und nehmen Sie etwas Neues mit. Eintritt frei. Gemeindehaus Kirchgasse, jeden 1. Samstag im Monat."
+            },
+            {
+              "id": "B1_m08_R3_ad_d",
+              "type": "ad",
+              "content": "d) Kleidertausch für Damen – Gut erhaltene Damenkleidung Gr. 36–44. Bringen Sie 3 Teile, nehmen Sie 3 mit. Keine Kosten. Anmeldung: tausch@mode-kreis.de"
+            },
+            {
+              "id": "B1_m08_R3_ad_e",
+              "type": "ad",
+              "content": "e) Kleinanzeige: Fahrrad gebraucht – Damenrad, 28 Zoll, 7-Gang, guter Zustand, neuer Reifen vorne. 120 € VB. Abholung Leipzig-Mitte. lars.f@mail.de"
+            },
+            {
+              "id": "B1_m08_R3_ad_f",
+              "type": "ad",
+              "content": "f) Schenken statt wegwerfen – Gut erhaltene Möbel kostenlos abzugeben: Bücherregal (Kiefer), Schreibtischstuhl, Küchenregal. Selbstabholung Hannover-Linden. Kontakt: frei@haushalt-geben.de"
+            },
+            {
+              "id": "B1_m08_R3_ad_g",
+              "type": "ad",
+              "content": "g) Antiquitäten & Vintage – Spezialisierter Händler kauft und verkauft Möbel, Uhren, Schmuck aus der Gründerzeit bis 1970. Ankauf nach Terminvereinbarung. Schönhauser Allee 87, Berlin."
+            },
+            {
+              "id": "B1_m08_R3_ad_h",
+              "type": "ad",
+              "content": "h) Spielzeug zu verschenken – Bauklötze, Puppenwagen, Holzeisenbahn, alles vollständig und sauber. Für Kinder bis 6 Jahre. Abholung Freiburg-Wiehre, ab sofort. Tel. 0761 33 72 01"
+            },
+            {
+              "id": "B1_m08_R3_ad_i",
+              "type": "ad",
+              "content": "i) Gebrauchte Elektronik – Laptops, Tablets, Smartphones: geprüft, gereinigt, mit Garantie. Preise ab 59 €. Ankauf alter Geräte möglich. Technik-Secondhand GmbH, Mannheim."
+            },
+            {
+              "id": "B1_m08_R3_ad_j",
+              "type": "ad",
+              "content": "j) Fahrrad-Reparatur-Treff – Bring dein Fahrrad, wir helfen beim Reparieren. Werkzeug vorhanden. Keine Kosten, nur Materialien werden berechnet. Jeden Mittwoch 17–20 Uhr, Jugendhaus Süd."
+            },
+            {
+              "id": "B1_m08_R3_ad_k",
+              "type": "ad",
+              "content": "k) Bücher kostenlos abzugeben – Romane, Sachbücher, Reiseführer (deutsch/englisch), ca. 120 Stück. Nur als Gesamtpaket. Bitte nichts einzeln heraussuchen. Hamburg-Eimsbüttel, Abholung nötig."
+            },
+            {
+              "id": "B1_m08_R3_ad_l",
+              "type": "ad",
+              "content": "l) Sofa zu verkaufen – 3-Sitzer, Stoff grau, 2 Jahre alt, sehr gepflegt. 280 € VB. Kein Versand, Abholung München-Schwabing erforderlich. Kontakt: sofa22@webmail.de"
+            }
           ],
           "questions": [
             {
               "id": "B1_m08_R3_q1",
               "type": "matching",
-              "questionText": "1. Frau Lehmann schläft seit Monaten schlecht und möchte es zunächst ohne Medikamente versuchen. Eine geführte Abendroutine direkt auf dem Handy wäre ideal.",
-              "matchingSources": [
-                { "id": "B1_m08_R3_ad_a", "label": "a" }, { "id": "B1_m08_R3_ad_b", "label": "b" },
-                { "id": "B1_m08_R3_ad_c", "label": "c" }, { "id": "B1_m08_R3_ad_d", "label": "d" },
-                { "id": "B1_m08_R3_ad_e", "label": "e" }, { "id": "B1_m08_R3_ad_f", "label": "f" },
-                { "id": "B1_m08_R3_ad_g", "label": "g" }, { "id": "B1_m08_R3_ad_h", "label": "h" },
-                { "id": "B1_m08_R3_ad_i", "label": "i" }, { "id": "B1_m08_R3_ad_j", "label": "j" },
-                { "id": "B1_m08_R3_ad_k", "label": "k" }, { "id": "B1_m08_R3_ad_l", "label": "l" }
-              ],
-              "correctAnswer": "c",
-              "explanation": "Anzeige c) beschreibt die Meditations-App 'Ruheinsel' mit geführten Abendübungen für besseren Schlaf. Das passt exakt zu Frau Lehmanns Wunsch.",
-              "pointValue": 2.5
-            },
-            {
-              "id": "B1_m08_R3_q2",
-              "type": "matching",
-              "questionText": "2. Herr Grabowski ist 45 und hat einen anstrengenden Job. Er fühlt sich oft überlastet und hätte gerne strukturierte Hilfe mit Atemübungen und Zeitmanagement.",
-              "matchingSources": [
-                { "id": "B1_m08_R3_ad_a", "label": "a" }, { "id": "B1_m08_R3_ad_b", "label": "b" },
-                { "id": "B1_m08_R3_ad_c", "label": "c" }, { "id": "B1_m08_R3_ad_d", "label": "d" },
-                { "id": "B1_m08_R3_ad_e", "label": "e" }, { "id": "B1_m08_R3_ad_f", "label": "f" },
-                { "id": "B1_m08_R3_ad_g", "label": "g" }, { "id": "B1_m08_R3_ad_h", "label": "h" },
-                { "id": "B1_m08_R3_ad_i", "label": "i" }, { "id": "B1_m08_R3_ad_j", "label": "j" },
-                { "id": "B1_m08_R3_ad_k", "label": "k" }, { "id": "B1_m08_R3_ad_l", "label": "l" }
-              ],
-              "correctAnswer": "k",
-              "explanation": "Anzeige k) beschreibt einen Stressbewältigungs-Workshop mit Atemübungen und Zeitmanagement – ideal für Herrn Grabowski.",
-              "pointValue": 2.5
-            },
-            {
-              "id": "B1_m08_R3_q3",
-              "type": "matching",
-              "questionText": "3. Familie Weiß hat ein neugeborenes Kind und sucht eine Kinderärztin in der Nähe, die auch am Wochenende Termine anbietet.",
-              "matchingSources": [
-                { "id": "B1_m08_R3_ad_a", "label": "a" }, { "id": "B1_m08_R3_ad_b", "label": "b" },
-                { "id": "B1_m08_R3_ad_c", "label": "c" }, { "id": "B1_m08_R3_ad_d", "label": "d" },
-                { "id": "B1_m08_R3_ad_e", "label": "e" }, { "id": "B1_m08_R3_ad_f", "label": "f" },
-                { "id": "B1_m08_R3_ad_g", "label": "g" }, { "id": "B1_m08_R3_ad_h", "label": "h" },
-                { "id": "B1_m08_R3_ad_i", "label": "i" }, { "id": "B1_m08_R3_ad_j", "label": "j" },
-                { "id": "B1_m08_R3_ad_k", "label": "k" }, { "id": "B1_m08_R3_ad_l", "label": "l" }
-              ],
-              "correctAnswer": "e",
-              "explanation": "Anzeige e) bietet eine Kinderarztpraxis mit Samstagsterminen an, die neue Patienten aufnimmt. Das passt exakt zum Bedarf der Familie.",
-              "pointValue": 2.5
-            },
-            {
-              "id": "B1_m08_R3_q4",
-              "type": "matching",
-              "questionText": "4. Frau Shahbazi möchte nach der Arbeit zu einem moderaten Preis einem Yoga-Kurs beitreten und hat keine Lust auf lange Vertragsbindung.",
+              "questionText": "1. Frau Ott möchte ihr gut erhaltenes Damenrad loswerden. Sie möchte etwas dafür bekommen und es nicht einfach verschenken.",
               "matchingSources": [
                 { "id": "B1_m08_R3_ad_a", "label": "a" }, { "id": "B1_m08_R3_ad_b", "label": "b" },
                 { "id": "B1_m08_R3_ad_c", "label": "c" }, { "id": "B1_m08_R3_ad_d", "label": "d" },
@@ -511,77 +491,13 @@
                 { "id": "B1_m08_R3_ad_k", "label": "k" }, { "id": "B1_m08_R3_ad_l", "label": "l" }
               ],
               "correctAnswer": "a",
-              "explanation": "Anzeige a) bietet Fitnessstudio-Mitgliedschaft ohne Mindestlaufzeit und Yoga-Kurse inklusive – ideal für Frau Shahbazis Bedingungen.",
+              "explanation": "Anzeige a) bietet den Westpark-Flohmarkt, auf dem man Gegenstände verkaufen kann. Frau Ott will Einnahmen erzielen. Anzeige e) ist ein bestehendes Kaufangebot für ein anderes Rad – Frau Ott will verkaufen, nicht kaufen.",
               "pointValue": 2.5
             },
             {
-              "id": "B1_m08_R3_q5",
+              "id": "B1_m08_R3_q2",
               "type": "matching",
-              "questionText": "5. Herr Steiner ist 34 und hat als Kind nie schwimmen gelernt. Jetzt möchte er es endlich nachholen, am besten in einem Kurs für Erwachsene.",
-              "matchingSources": [
-                { "id": "B1_m08_R3_ad_a", "label": "a" }, { "id": "B1_m08_R3_ad_b", "label": "b" },
-                { "id": "B1_m08_R3_ad_c", "label": "c" }, { "id": "B1_m08_R3_ad_d", "label": "d" },
-                { "id": "B1_m08_R3_ad_e", "label": "e" }, { "id": "B1_m08_R3_ad_f", "label": "f" },
-                { "id": "B1_m08_R3_ad_g", "label": "g" }, { "id": "B1_m08_R3_ad_h", "label": "h" },
-                { "id": "B1_m08_R3_ad_i", "label": "i" }, { "id": "B1_m08_R3_ad_j", "label": "j" },
-                { "id": "B1_m08_R3_ad_k", "label": "k" }, { "id": "B1_m08_R3_ad_l", "label": "l" }
-              ],
-              "correctAnswer": "f",
-              "explanation": "Anzeige f) bietet einen Schwimmkurs für erwachsene Anfänger – genau das, was Herr Steiner sucht.",
-              "pointValue": 2.5
-            },
-            {
-              "id": "B1_m08_R3_q6",
-              "type": "matching",
-              "questionText": "6. Frau Costa ist vor drei Wochen die Treppe heruntergefallen und hat nun Knieschmerzen. Sie braucht schnell einen Termin bei einer Physiotherapie.",
-              "matchingSources": [
-                { "id": "B1_m08_R3_ad_a", "label": "a" }, { "id": "B1_m08_R3_ad_b", "label": "b" },
-                { "id": "B1_m08_R3_ad_c", "label": "c" }, { "id": "B1_m08_R3_ad_d", "label": "d" },
-                { "id": "B1_m08_R3_ad_e", "label": "e" }, { "id": "B1_m08_R3_ad_f", "label": "f" },
-                { "id": "B1_m08_R3_ad_g", "label": "g" }, { "id": "B1_m08_R3_ad_h", "label": "h" },
-                { "id": "B1_m08_R3_ad_i", "label": "i" }, { "id": "B1_m08_R3_ad_j", "label": "j" },
-                { "id": "B1_m08_R3_ad_k", "label": "k" }, { "id": "B1_m08_R3_ad_l", "label": "l" }
-              ],
-              "correctAnswer": "i",
-              "explanation": "Anzeige i) bietet Physiotherapie für Rücken, Knie und Schulter mit kurzfristigen Terminen – genau Frau Costas Bedarf.",
-              "pointValue": 2.5
-            },
-            {
-              "id": "B1_m08_R3_q7",
-              "type": "matching",
-              "questionText": "7. Familie Schmitz möchte am Samstag etwas Gutes für die Gesundheit tun. Sie möchten ohne Kosten ihren Blutdruck und Blutzucker checken lassen.",
-              "matchingSources": [
-                { "id": "B1_m08_R3_ad_a", "label": "a" }, { "id": "B1_m08_R3_ad_b", "label": "b" },
-                { "id": "B1_m08_R3_ad_c", "label": "c" }, { "id": "B1_m08_R3_ad_d", "label": "d" },
-                { "id": "B1_m08_R3_ad_e", "label": "e" }, { "id": "B1_m08_R3_ad_f", "label": "f" },
-                { "id": "B1_m08_R3_ad_g", "label": "g" }, { "id": "B1_m08_R3_ad_h", "label": "h" },
-                { "id": "B1_m08_R3_ad_i", "label": "i" }, { "id": "B1_m08_R3_ad_j", "label": "j" },
-                { "id": "B1_m08_R3_ad_k", "label": "k" }, { "id": "B1_m08_R3_ad_l", "label": "l" }
-              ],
-              "correctAnswer": "g",
-              "explanation": "Anzeige g) beschreibt einen kostenlosen Gesundheitstag mit Blutdruck-, Blutzucker- und Hörtest am Samstag – exakt der Wunsch von Familie Schmitz.",
-              "pointValue": 2.5
-            },
-            {
-              "id": "B1_m08_R3_q8",
-              "type": "matching",
-              "questionText": "8. Herr Nováček möchte gesünder kochen, weiß aber nie, was er abends schnell zubereiten kann. Ein praktischer Kurs mit einfachen Rezepten wäre ideal.",
-              "matchingSources": [
-                { "id": "B1_m08_R3_ad_a", "label": "a" }, { "id": "B1_m08_R3_ad_b", "label": "b" },
-                { "id": "B1_m08_R3_ad_c", "label": "c" }, { "id": "B1_m08_R3_ad_d", "label": "d" },
-                { "id": "B1_m08_R3_ad_e", "label": "e" }, { "id": "B1_m08_R3_ad_f", "label": "f" },
-                { "id": "B1_m08_R3_ad_g", "label": "g" }, { "id": "B1_m08_R3_ad_h", "label": "h" },
-                { "id": "B1_m08_R3_ad_i", "label": "i" }, { "id": "B1_m08_R3_ad_j", "label": "j" },
-                { "id": "B1_m08_R3_ad_k", "label": "k" }, { "id": "B1_m08_R3_ad_l", "label": "l" }
-              ],
-              "correctAnswer": "j",
-              "explanation": "Anzeige j) bietet einen Kochkurs 'Gesund in 30 Minuten' mit einfachen Rezepten und frischen Zutaten – ideal für Herrn Nováček.",
-              "pointValue": 2.5
-            },
-            {
-              "id": "B1_m08_R3_q9",
-              "type": "matching",
-              "questionText": "9. Paul und Clara haben Urlaub und möchten ein Wochenende kombinieren – gesund essen, viel an der frischen Luft sein und richtig abschalten. Kosten sind nicht der Hauptpunkt.",
+              "questionText": "2. Herr Patel braucht für seine Tochter (4 Jahre) Spielzeug. Er kann in Freiburg abholen und möchte nichts bezahlen.",
               "matchingSources": [
                 { "id": "B1_m08_R3_ad_a", "label": "a" }, { "id": "B1_m08_R3_ad_b", "label": "b" },
                 { "id": "B1_m08_R3_ad_c", "label": "c" }, { "id": "B1_m08_R3_ad_d", "label": "d" },
@@ -591,13 +507,125 @@
                 { "id": "B1_m08_R3_ad_k", "label": "k" }, { "id": "B1_m08_R3_ad_l", "label": "l" }
               ],
               "correctAnswer": "h",
-              "explanation": "Anzeige h) beschreibt ein Yoga-Retreat im Schwarzwald mit Bewegung, gesunder Küche und Ruhe – exakt die Kombination, die Paul und Clara suchen.",
+              "explanation": "Anzeige h) bietet kostenloses Spielzeug für Kinder bis 6 Jahre in Freiburg-Wiehre. Passt zu Alter, Ort und Kosten. Anzeige b) sind Kinderbücher in Bremen – anderer Ort, andere Kategorie.",
+              "pointValue": 2.5
+            },
+            {
+              "id": "B1_m08_R3_q3",
+              "type": "matching",
+              "questionText": "3. Frau König hat in Hamburg ca. 120 Bücher verschiedener Genres, die sie nicht mehr braucht. Sie kann sie nur als gesamtes Paket abgeben.",
+              "matchingSources": [
+                { "id": "B1_m08_R3_ad_a", "label": "a" }, { "id": "B1_m08_R3_ad_b", "label": "b" },
+                { "id": "B1_m08_R3_ad_c", "label": "c" }, { "id": "B1_m08_R3_ad_d", "label": "d" },
+                { "id": "B1_m08_R3_ad_e", "label": "e" }, { "id": "B1_m08_R3_ad_f", "label": "f" },
+                { "id": "B1_m08_R3_ad_g", "label": "g" }, { "id": "B1_m08_R3_ad_h", "label": "h" },
+                { "id": "B1_m08_R3_ad_i", "label": "i" }, { "id": "B1_m08_R3_ad_j", "label": "j" },
+                { "id": "B1_m08_R3_ad_k", "label": "k" }, { "id": "B1_m08_R3_ad_l", "label": "l" }
+              ],
+              "correctAnswer": "k",
+              "explanation": "Anzeige k) bietet genau das: ca. 120 Bücher kostenlos als Gesamtpaket in Hamburg-Eimsbüttel. Anzeige b) sind Kinderbücher in Bremen – einzeln angeboten, anderer Ort.",
+              "pointValue": 2.5
+            },
+            {
+              "id": "B1_m08_R3_q4",
+              "type": "matching",
+              "questionText": "4. Lena sucht gebrauchte Damenoberbekleidung (Größe 38) und möchte im Gegenzug eigene Kleidung abgeben, ohne zu bezahlen.",
+              "matchingSources": [
+                { "id": "B1_m08_R3_ad_a", "label": "a" }, { "id": "B1_m08_R3_ad_b", "label": "b" },
+                { "id": "B1_m08_R3_ad_c", "label": "c" }, { "id": "B1_m08_R3_ad_d", "label": "d" },
+                { "id": "B1_m08_R3_ad_e", "label": "e" }, { "id": "B1_m08_R3_ad_f", "label": "f" },
+                { "id": "B1_m08_R3_ad_g", "label": "g" }, { "id": "B1_m08_R3_ad_h", "label": "h" },
+                { "id": "B1_m08_R3_ad_i", "label": "i" }, { "id": "B1_m08_R3_ad_j", "label": "j" },
+                { "id": "B1_m08_R3_ad_k", "label": "k" }, { "id": "B1_m08_R3_ad_l", "label": "l" }
+              ],
+              "correctAnswer": "d",
+              "explanation": "Anzeige d) bietet Kleidertausch für Damen (Gr. 36–44) ohne Kosten nach dem Prinzip '3 bringen, 3 mitnehmen'. Das trifft Lenas Wunsch exakt. Anzeige c) ist ein allgemeiner Haushaltsgegenstände-Tausch, keine Kleidung.",
+              "pointValue": 2.5
+            },
+            {
+              "id": "B1_m08_R3_q5",
+              "type": "matching",
+              "questionText": "5. Tobias hat ein altes Smartphone, das er verkaufen möchte, und sucht außerdem ein günstiges gebrauchtes Tablet.",
+              "matchingSources": [
+                { "id": "B1_m08_R3_ad_a", "label": "a" }, { "id": "B1_m08_R3_ad_b", "label": "b" },
+                { "id": "B1_m08_R3_ad_c", "label": "c" }, { "id": "B1_m08_R3_ad_d", "label": "d" },
+                { "id": "B1_m08_R3_ad_e", "label": "e" }, { "id": "B1_m08_R3_ad_f", "label": "f" },
+                { "id": "B1_m08_R3_ad_g", "label": "g" }, { "id": "B1_m08_R3_ad_h", "label": "h" },
+                { "id": "B1_m08_R3_ad_i", "label": "i" }, { "id": "B1_m08_R3_ad_j", "label": "j" },
+                { "id": "B1_m08_R3_ad_k", "label": "k" }, { "id": "B1_m08_R3_ad_l", "label": "l" }
+              ],
+              "correctAnswer": "i",
+              "explanation": "Anzeige i) kauft alte Geräte an und verkauft geprüfte Tablets und Smartphones. Tobias kann beides in einem Schritt erledigen. Anzeige a) (Flohmarkt) erlaubt Verkauf, aber kein Ankauf und keine geprüfte Tablet-Auswahl.",
+              "pointValue": 2.5
+            },
+            {
+              "id": "B1_m08_R3_q6",
+              "type": "matching",
+              "questionText": "6. Herr Krause zieht aus und möchte ein Bücherregal und ein Küchenregal kostenlos loswerden. Er erwartet nichts im Gegenzug.",
+              "matchingSources": [
+                { "id": "B1_m08_R3_ad_a", "label": "a" }, { "id": "B1_m08_R3_ad_b", "label": "b" },
+                { "id": "B1_m08_R3_ad_c", "label": "c" }, { "id": "B1_m08_R3_ad_d", "label": "d" },
+                { "id": "B1_m08_R3_ad_e", "label": "e" }, { "id": "B1_m08_R3_ad_f", "label": "f" },
+                { "id": "B1_m08_R3_ad_g", "label": "g" }, { "id": "B1_m08_R3_ad_h", "label": "h" },
+                { "id": "B1_m08_R3_ad_i", "label": "i" }, { "id": "B1_m08_R3_ad_j", "label": "j" },
+                { "id": "B1_m08_R3_ad_k", "label": "k" }, { "id": "B1_m08_R3_ad_l", "label": "l" }
+              ],
+              "correctAnswer": "f",
+              "explanation": "Anzeige f) bietet die Möglichkeit, Möbel kostenlos abzugeben – darunter ausdrücklich Bücherregal und Küchenregal in Hannover. Anzeige c) ist ein Tausch, kein Verschenken.",
+              "pointValue": 2.5
+            },
+            {
+              "id": "B1_m08_R3_q7",
+              "type": "matching",
+              "questionText": "7. Familie Weber sucht ein gebrauchtes Sofa für ihr Wohnzimmer und kann in München abholen.",
+              "matchingSources": [
+                { "id": "B1_m08_R3_ad_a", "label": "a" }, { "id": "B1_m08_R3_ad_b", "label": "b" },
+                { "id": "B1_m08_R3_ad_c", "label": "c" }, { "id": "B1_m08_R3_ad_d", "label": "d" },
+                { "id": "B1_m08_R3_ad_e", "label": "e" }, { "id": "B1_m08_R3_ad_f", "label": "f" },
+                { "id": "B1_m08_R3_ad_g", "label": "g" }, { "id": "B1_m08_R3_ad_h", "label": "h" },
+                { "id": "B1_m08_R3_ad_i", "label": "i" }, { "id": "B1_m08_R3_ad_j", "label": "j" },
+                { "id": "B1_m08_R3_ad_k", "label": "k" }, { "id": "B1_m08_R3_ad_l", "label": "l" }
+              ],
+              "correctAnswer": "l",
+              "explanation": "Anzeige l) verkauft ein 3-Sitzer-Sofa in München-Schwabing, Abholung erforderlich. Passt exakt. Anzeige f) bietet Regale, kein Sofa.",
+              "pointValue": 2.5
+            },
+            {
+              "id": "B1_m08_R3_q8",
+              "type": "matching",
+              "questionText": "8. Jonas fährt viel Fahrrad. Sein Hinterreifen ist geplatzt und er weiß nicht, wie er ihn wechseln soll.",
+              "matchingSources": [
+                { "id": "B1_m08_R3_ad_a", "label": "a" }, { "id": "B1_m08_R3_ad_b", "label": "b" },
+                { "id": "B1_m08_R3_ad_c", "label": "c" }, { "id": "B1_m08_R3_ad_d", "label": "d" },
+                { "id": "B1_m08_R3_ad_e", "label": "e" }, { "id": "B1_m08_R3_ad_f", "label": "f" },
+                { "id": "B1_m08_R3_ad_g", "label": "g" }, { "id": "B1_m08_R3_ad_h", "label": "h" },
+                { "id": "B1_m08_R3_ad_i", "label": "i" }, { "id": "B1_m08_R3_ad_j", "label": "j" },
+                { "id": "B1_m08_R3_ad_k", "label": "k" }, { "id": "B1_m08_R3_ad_l", "label": "l" }
+              ],
+              "correctAnswer": "j",
+              "explanation": "Anzeige j) bietet den Fahrrad-Reparatur-Treff, wo man mit Hilfe reparieren kann. Werkzeug vorhanden. Anzeige e) ist ein Fahrradkauf – Jonas will sein Rad reparieren, kein neues kaufen.",
+              "pointValue": 2.5
+            },
+            {
+              "id": "B1_m08_R3_q9",
+              "type": "matching",
+              "questionText": "9. Frau Sommer hat eine alte Standuhr aus den 1930er-Jahren und möchte wissen, was sie wert ist. Eventuell möchte sie sie verkaufen.",
+              "matchingSources": [
+                { "id": "B1_m08_R3_ad_a", "label": "a" }, { "id": "B1_m08_R3_ad_b", "label": "b" },
+                { "id": "B1_m08_R3_ad_c", "label": "c" }, { "id": "B1_m08_R3_ad_d", "label": "d" },
+                { "id": "B1_m08_R3_ad_e", "label": "e" }, { "id": "B1_m08_R3_ad_f", "label": "f" },
+                { "id": "B1_m08_R3_ad_g", "label": "g" }, { "id": "B1_m08_R3_ad_h", "label": "h" },
+                { "id": "B1_m08_R3_ad_i", "label": "i" }, { "id": "B1_m08_R3_ad_j", "label": "j" },
+                { "id": "B1_m08_R3_ad_k", "label": "k" }, { "id": "B1_m08_R3_ad_l", "label": "l" }
+              ],
+              "correctAnswer": "g",
+              "explanation": "Anzeige g) kauft Antiquitäten und Uhren aus der Gründerzeit bis 1970 an, mit Bewertung nach Terminvereinbarung. Frau Sommer kann dort Wert und Verkauf klären. Anzeige a) (Flohmarkt) ermöglicht Verkauf, aber keine professionelle Bewertung.",
               "pointValue": 2.5
             },
             {
               "id": "B1_m08_R3_q10",
               "type": "matching",
-              "questionText": "10. Frau Rau hat seit zwei Jahren starke Heuschnupfensymptome. Sie möchte einen alternativen Behandlungsweg ausprobieren, bevor sie regelmäßig Tabletten nimmt.",
+              "questionText": "10. Herr und Frau Neumann suchen günstige Kinderbücher (Erstleser) für ihre 6-jährige Tochter und wohnen in der Nähe von Bremen.",
               "matchingSources": [
                 { "id": "B1_m08_R3_ad_a", "label": "a" }, { "id": "B1_m08_R3_ad_b", "label": "b" },
                 { "id": "B1_m08_R3_ad_c", "label": "c" }, { "id": "B1_m08_R3_ad_d", "label": "d" },
@@ -607,7 +635,7 @@
                 { "id": "B1_m08_R3_ad_k", "label": "k" }, { "id": "B1_m08_R3_ad_l", "label": "l" }
               ],
               "correctAnswer": "b",
-              "explanation": "Anzeige b) beschreibt eine Naturheilpraxis mit Schwerpunkt Allergien – genau das, was Frau Rau als alternativen Weg sucht. Übrig bleiben d) (Fahrradkurs) und l) (Bürostuhl) als Distraktoren.",
+              "explanation": "Anzeige b) bietet Kinderbücher und Erstleser günstig (0,50–2 €) in Bremen-Nord. Passt zu Inhalt, Preis und Ort. Anzeige k) sind Erwachsenenbücher als Gesamtpaket in Hamburg.",
               "pointValue": 2.5
             }
           ]
@@ -618,87 +646,87 @@
       "parts": [
         {
           "partNumber": 1,
-          "instructions": "Lesen Sie den folgenden Text und entscheiden Sie, welches Wort (a, b oder c) in die Lücke passt. Es gibt jeweils nur eine richtige Lösung.",
-          "text": "Liebe Teresa,\n\nwie geht es dir? Ich muss dir unbedingt von meiner neuen Routine erzählen. Seit sechs Wochen gehe ich jetzt dreimal pro Woche __(1)__ Fitnessstudio um die Ecke, und ich bin wirklich froh, __(2)__ ich endlich angefangen habe. Meine Trainerin, __(3)__ ich am Anfang zufällig kennengelernt habe, gibt mir gute Tipps. __(4)__ ich abends oft müde bin, schaffe ich meistens meine 45 Minuten – danach geht es mir sogar besser.\n\nLetzte Woche hatten wir einen Gesundheits-Check im Studio. Der Blutdruck __(5)__ von der Trainerin gemessen, und meine Werte waren überraschend gut. Wenn ich noch mehr Zeit __(6)__, würde ich auch einen Ernährungskurs besuchen – aber der kommt hoffentlich im Herbst.\n\nAm Wochenende gehe ich übrigens mit meiner Nachbarin oft __(7)__ Spaziergang im Park. Letzten Sonntag __(8)__ wir sogar zusammen ins Schwimmbad gefahren, und das hat richtig Spaß gemacht. Hoffentlich schaffst du es bald, mich zu besuchen – ich würde mich wirklich __(9)__ freuen! Übrigens: Mein Bruder Leon war letzte Woche in Berlin und hat dort __(10)__ anstrengendsten Stadtlauf seines Lebens mitgemacht.\n\nIch freue mich auf deine Antwort.\n\nLiebe Grüße,\nElena",
+          "instructions": "Lesen Sie den folgenden Brief und entscheiden Sie, welches Wort (a, b oder c) in die Lücke passt. Es gibt jeweils nur eine richtige Lösung.",
+          "text": "Lieber Tom,\n\nstell dir vor, was mir letzte Woche passiert ist! Ich habe __(1)__ meiner alten Winterjacke endlich etwas gemacht – nämlich sie auf dem Flohmarkt verkauft. Du weißt ja, dass ich sie nie mehr __(2)__ wollte, weil sie einfach zu groß war. Ich habe sie für 15 Euro __(3)__, was ich total fair fand.\n\nDer Markt selbst war toll. Ich habe __(4)__ lange durch die Stände geschlendert und dabei so viele interessante Sachen gesehen. Weißt du, __(5)__ mich am meisten überrascht hat? Ein komplettes Schachspiel aus den 1950ern – für nur 5 Euro! Ich konnte gar nicht glauben, dass so etwas noch so __(6)__ zu haben ist.\n\nIch habe übrigens auch eine neue Tasche __(7)__ – eine wunderschöne Ledertasche, die kaum benutzt war. Mit dem Geld von der Jacke und dem bisschen, das ich noch hatte, __(8)__ ich mir das gut leisten. Jetzt weiß ich gar nicht mehr, wo ich sie aufhängen __(9)__. Mein Zimmer ist schon ein bisschen voll.\n\nVielleicht sollte ich das nächste Mal selbst einen Stand __(10)__. Es macht bestimmt mehr Spaß, als ich dachte!\n\nBis bald,\ndein Philipp",
           "questions": [
             {
               "blankNumber": 1,
               "type": "mcq",
-              "options": ["a) ins", "b) zum", "c) auf"],
+              "options": ["a) mit", "b) an", "c) bei"],
               "correctAnswer": "a",
-              "explanation": "Richtung mit Verschmelzung: 'ins Fitnessstudio gehen' (in + das = ins, Akkusativ). Bei Gebäuden/Räumen verwendet man 'in' für den Eintritt. 'zum' (zu + dem) wird eher benutzt, wenn man zu einem Ort als Ziel geht, ohne zwingend hineinzugehen. 'auf' ist bei Gebäuden unpassend.",
+              "explanation": "Feste Wendung 'etwas mit etwas machen' – 'Ich habe mit meiner alten Jacke endlich etwas gemacht.' 'an' würde 'an der Jacke etwas machen' bedeuten (Reparatur), 'bei' passt syntaktisch nicht.",
               "pointValue": 1.5
             },
             {
               "blankNumber": 2,
               "type": "mcq",
-              "options": ["a) ob", "b) weil", "c) dass"],
-              "correctAnswer": "c",
-              "explanation": "Der Hauptsatz 'Ich bin froh, ...' verlangt einen dass-Satz als Ergänzung. 'weil' leitet einen Grund ein (unpassend), 'ob' ist indirekte Frage.",
+              "options": ["a) tragen", "b) getragen", "c) anziehen"],
+              "correctAnswer": "a",
+              "explanation": "'nie mehr tragen wollte' – nach Modalverb 'wollen' steht der Infinitiv. 'getragen' (Partizip II) passt nur im Perfekt ohne Modalverb.",
               "pointValue": 1.5
             },
             {
               "blankNumber": 3,
               "type": "mcq",
-              "options": ["a) den", "b) die", "c) der"],
-              "correctAnswer": "b",
-              "explanation": "Relativsatz: 'Meine Trainerin, die ich kennengelernt habe'. Das Relativpronomen bezieht sich auf 'Trainerin' (Femininum) und ist direktes Objekt von 'kennengelernt' → Akkusativ Femininum: 'die'. 'den' wäre Akkusativ Maskulinum, 'der' Nominativ Maskulinum.",
+              "options": ["a) losgeworden", "b) abgegeben", "c) verkauft"],
+              "correctAnswer": "c",
+              "explanation": "'für 15 Euro verkauft' – direkt verbunden mit einem konkreten Preis ist 'verkaufen' das natürlichste Verb. 'losgeworden' verlangt kein 'für + Preis', 'abgegeben' impliziert kein Geld.",
               "pointValue": 1.5
             },
             {
               "blankNumber": 4,
               "type": "mcq",
-              "options": ["a) Deshalb", "b) Obwohl", "c) Weil"],
-              "correctAnswer": "b",
-              "explanation": "Gegensatz zwischen 'müde' und 'schaffe es' → konzessiv 'obwohl' (Verb am Ende). 'deshalb' verlangt Hauptsatzstellung (Verb an Position 2), 'weil' wäre ein Grund (unpassend).",
+              "options": ["a) ziemlich", "b) fast", "c) kaum"],
+              "correctAnswer": "a",
+              "explanation": "'ziemlich lange' – Gradpartikel für 'recht lang'. 'fast' bedeutet 'beinahe' und würde 'fast die ganze Zeit' bedeuten. 'kaum' wäre das Gegenteil (wenig).",
               "pointValue": 1.5
             },
             {
               "blankNumber": 5,
               "type": "mcq",
-              "options": ["a) hat", "b) war", "c) wurde"],
-              "correctAnswer": "c",
-              "explanation": "Passiv Präteritum: 'Der Blutdruck wurde gemessen.' Das Subjekt ('Der Blutdruck') wird nicht selbst aktiv. 'hat' wäre Aktiv-Perfekt, 'war' Zustandspassiv.",
+              "options": ["a) das", "b) was", "c) wie"],
+              "correctAnswer": "b",
+              "explanation": "Indirekter Fragesatz nach 'weißt du' ohne konkretes Bezugsnomen: 'weißt du, was mich überrascht hat?' Bei unbestimmtem Bezug steht 'was'. 'das' wäre falsch (kein Antezedent), 'wie' fragt nach der Art.",
               "pointValue": 1.5
             },
             {
               "blankNumber": 6,
               "type": "mcq",
-              "options": ["a) hätte", "b) hatte", "c) habe"],
+              "options": ["a) günstig", "b) billig", "c) kostenlos"],
               "correctAnswer": "a",
-              "explanation": "Irreale Bedingung 'Wenn ich mehr Zeit hätte, würde ich ...' → Konjunktiv II 'hätte'. 'habe' (Indikativ Präsens) und 'hatte' (Präteritum) passen nicht zur 'würde'-Form.",
+              "explanation": "'so günstig zu haben ist' – Kollokation 'günstig zu haben' ist idiomatisch für 'zu einem guten Preis erhältlich'. 'billig' hat oft eine abwertende Konnotation, 'kostenlos' widerspricht dem genannten Preis (5 Euro).",
               "pointValue": 1.5
             },
             {
               "blankNumber": 7,
               "type": "mcq",
-              "options": ["a) zum", "b) auf", "c) zu"],
+              "options": ["a) mitgenommen", "b) mitgebracht", "c) mitgekommen"],
               "correctAnswer": "a",
-              "explanation": "Feste Wendung: 'zum Spaziergang gehen' (zu + dem = zum, Dativ). 'auf' ist bei dieser Wendung nicht idiomatisch, 'zu' ohne Artikel ist unvollständig.",
+              "explanation": "'eine Tasche mitgenommen' – man nimmt etwas vom Markt mit. 'mitgebracht' bedeutet, man bringt etwas zum Markt hin. 'mitgekommen' passt bei Personen, nicht Gegenständen.",
               "pointValue": 1.5
             },
             {
               "blankNumber": 8,
               "type": "mcq",
-              "options": ["a) waren", "b) sind", "c) haben"],
+              "options": ["a) kann", "b) konnte", "c) könnte"],
               "correctAnswer": "b",
-              "explanation": "Perfekt von 'fahren' (Bewegung) mit 'sein': 'Wir sind gefahren'. 'haben' ist falsch bei Bewegungsverben, 'waren' wäre Präteritum und passt nicht zum Partizip.",
+              "explanation": "Vergangenheitserzählung im Brief → 'konnte ich mir das gut leisten' (Präteritum Modalverb). 'kann' ist Präsens, 'könnte' Konjunktiv II.",
               "pointValue": 1.5
             },
             {
               "blankNumber": 9,
               "type": "mcq",
-              "options": ["a) für mich", "b) mir", "c) mich"],
-              "correctAnswer": "c",
-              "explanation": "Reflexives Verb 'sich freuen' + Akkusativ: 'ich freue mich'. 'mir' (Dativ) passt bei 'sich etwas wünschen', 'für mich' ist kein Reflexivpronomen.",
+              "options": ["a) soll", "b) will", "c) muss"],
+              "correctAnswer": "a",
+              "explanation": "'wo ich sie aufhängen soll' – indirekte Frage mit Ratlosigkeit ('weiß nicht, wo ...'). 'sollen' drückt Unklarheit über eine angemessene Handlung aus. 'will' wäre Absicht, 'muss' Pflicht.",
               "pointValue": 1.5
             },
             {
               "blankNumber": 10,
               "type": "mcq",
-              "options": ["a) das", "b) den", "c) dem"],
+              "options": ["a) aufstellen", "b) aufbauen", "c) eröffnen"],
               "correctAnswer": "b",
-              "explanation": "'den anstrengendsten Stadtlauf' – direktes Objekt von 'mitgemacht' (Akkusativ Maskulinum): 'den'. Die Adjektivendung '-sten' bestätigt die starke Deklination im Akkusativ Maskulinum. 'das' wäre Neutrum, 'dem' Dativ.",
+              "explanation": "'einen Stand aufbauen' – feste Kollokation für das Herrichten eines Marktstands. 'aufstellen' passt eher zu Möbeln oder Schildern, 'eröffnen' zu einem Geschäft oder einer Veranstaltung.",
               "pointValue": 1.5
             }
           ]
@@ -706,126 +734,126 @@
         {
           "partNumber": 2,
           "instructions": "Lesen Sie den folgenden Text. Welches Wort aus der Liste a–o passt in die Lücken? Jedes Wort passt nur einmal. Fünf Wörter bleiben übrig.",
-          "text": "Liebe Elena,\n\nherzlichen __(11)__ für deinen motivierenden Brief! Ich habe mich so gefreut zu hören, dass du endlich etwas für dich tust. __(12)__ geht es mir auch besser, denn ich habe vor drei Wochen selbst mit einem kleinen Lauftraining begonnen.\n\nMit meiner Kollegin Susanne habe ich lange über unser Vorhaben __(13)__. Wir laufen jetzt zusammen zweimal pro Woche, und es __(14)__ erstaunlich gut. Am Anfang waren 15 Minuten schon eine Herausforderung, mittlerweile schaffen wir fast 30 Minuten am Stück.\n\nAußerdem habe ich mich angemeldet __(15)__ einen Yoga-Kurs bei der Volkshochschule. __(16)__ dieser Woche gab es die erste Probestunde – ich war ziemlich unsicher, aber die Gruppe war sehr nett. Jetzt freue ich mich richtig auf die nächsten Termine.\n\nNur eines macht mir etwas Sorgen: Meine Krankenkasse hat den Beitrag zum 1. Juli leider __(17)__. Ich hatte mich eigentlich __(18)__ einen günstigen Sommer gefreut, aber jetzt muss ich __(19)__ doch genauer auf meine Ausgaben schauen. Vielleicht finde ich ja einen kleinen Wochenendjob, der zu meinem Studium passt.\n\nKomm mich doch bald einmal besuchen! __(20)__ können wir zusammen laufen gehen und danach ein gesundes Frühstück im Café machen.\n\nLiebe Grüße,\nFelix",
+          "text": "Sehr geehrte Damen und Herren,\n\nich schreibe Ihnen, weil ich an Ihrem Angebot zur Möbelspende __(11)__ bin. Ich habe mehrere gut erhaltene Möbelstücke, __(12)__ ich nicht mehr benötige, und würde sie gerne einem sinnvollen Zweck zuführen, anstatt sie zu entsorgen.\n\nKonkret handelt es sich __(13)__ einen Esstisch aus massivem Holz, vier passende Stühle sowie ein Bücherregal. Alle Stücke sind __(14)__ gepflegt und haben keine sichtbaren Beschädigungen. Der Tisch wurde zuletzt 2021 gekauft und war seitdem in __(15)__ Benutzung.\n\nIch würde gerne wissen, ob eine Abholung __(16)__ Ihnen möglich ist, da ich über kein geeignetes Fahrzeug verfüge. __(17)__ die Möbel zu groß für eine Abholung wären, könnte ich ggf. einen Transporter __(18)__.\n\nAußerdem interessiert mich, __(19)__ Bedingungen an eine Spende geknüpft sind – zum Beispiel, ob die Möbel in einem bestimmten Zustand sein müssen. Ich freue mich über eine Rückmeldung und stehe __(20)__ weiterer Auskunft gerne zur Verfügung.\n\nMit freundlichen Grüßen\nSabine Gerhard",
           "questions": [
             {
               "blankNumber": 11,
               "type": "word_bank",
               "options": [
-                "a) Mittlerweile", "b) Dank", "c) gesprochen", "d) funktioniert", "e) für",
-                "f) In", "g) erhöht", "h) auf", "i) wahrscheinlich", "j) Dann",
-                "k) vielen", "l) nachgedacht", "m) reicht", "n) an", "o) damit"
+                "a) interessiert", "b) die", "c) um", "d) regelmäßiger", "e) durch",
+                "f) Falls", "g) ob", "h) mieten", "i) welche", "j) für",
+                "k) sehr", "l) Sobald", "m) zu", "n) bei", "o) damit"
               ],
-              "correctAnswer": "b",
-              "explanation": "Die feste Formel 'herzlichen Dank' am Briefanfang – 'herzlichen' verlangt direkt 'Dank'. Distraktor k) 'vielen' würde auch zu 'Dank' passen, aber 'herzlichen' steht schon und lässt nur 'Dank' ohne weiteres Adjektiv zu.",
+              "correctAnswer": "a",
+              "explanation": "'an Ihrem Angebot interessiert sein' – feste Wendung 'interessiert an + Dativ'. Das Adjektiv 'interessiert' schließt den Prädikatsausdruck ab.",
               "pointValue": 1.5
             },
             {
               "blankNumber": 12,
               "type": "word_bank",
               "options": [
-                "a) Mittlerweile", "b) Dank", "c) gesprochen", "d) funktioniert", "e) für",
-                "f) In", "g) erhöht", "h) auf", "i) wahrscheinlich", "j) Dann",
-                "k) vielen", "l) nachgedacht", "m) reicht", "n) an", "o) damit"
+                "a) interessiert", "b) die", "c) um", "d) regelmäßiger", "e) durch",
+                "f) Falls", "g) ob", "h) mieten", "i) welche", "j) für",
+                "k) sehr", "l) Sobald", "m) zu", "n) bei", "o) damit"
               ],
-              "correctAnswer": "a",
-              "explanation": "Temporales Adverb 'Mittlerweile' beschreibt den Wandel ('jetzt, inzwischen'). Großschreibung am Satzanfang.",
+              "correctAnswer": "b",
+              "explanation": "'Möbelstücke, die ich nicht mehr benötige' – Relativpronomen 'die' für Pluralnomen im Akkusativ (Objekt von 'benötige').",
               "pointValue": 1.5
             },
             {
               "blankNumber": 13,
               "type": "word_bank",
               "options": [
-                "a) Mittlerweile", "b) Dank", "c) gesprochen", "d) funktioniert", "e) für",
-                "f) In", "g) erhöht", "h) auf", "i) wahrscheinlich", "j) Dann",
-                "k) vielen", "l) nachgedacht", "m) reicht", "n) an", "o) damit"
+                "a) interessiert", "b) die", "c) um", "d) regelmäßiger", "e) durch",
+                "f) Falls", "g) ob", "h) mieten", "i) welche", "j) für",
+                "k) sehr", "l) Sobald", "m) zu", "n) bei", "o) damit"
               ],
               "correctAnswer": "c",
-              "explanation": "'Ich habe mit der Kollegin über unser Vorhaben gesprochen' – Perfekt von 'sprechen über'. Distraktor l) 'nachgedacht' verlangt zwar auch 'über', passt aber schlechter zu 'mit meiner Kollegin' (man redet miteinander, nicht 'denkt nach').",
+              "explanation": "'es handelt sich um + Akkusativ' – unveränderliche Kollokation. 'für' wäre falsch bei dieser Wendung.",
               "pointValue": 1.5
             },
             {
               "blankNumber": 14,
               "type": "word_bank",
               "options": [
-                "a) Mittlerweile", "b) Dank", "c) gesprochen", "d) funktioniert", "e) für",
-                "f) In", "g) erhöht", "h) auf", "i) wahrscheinlich", "j) Dann",
-                "k) vielen", "l) nachgedacht", "m) reicht", "n) an", "o) damit"
+                "a) interessiert", "b) die", "c) um", "d) regelmäßiger", "e) durch",
+                "f) Falls", "g) ob", "h) mieten", "i) welche", "j) für",
+                "k) sehr", "l) Sobald", "m) zu", "n) bei", "o) damit"
               ],
-              "correctAnswer": "d",
-              "explanation": "'Es funktioniert gut' – idiomatisch für 'es klappt'. Subjekt 'es' in 3. Person Singular verlangt 'funktioniert'. Distraktor m) 'reicht' hat andere Bedeutung ('genug sein').",
+              "correctAnswer": "k",
+              "explanation": "'sehr gepflegt' – Gradpartikel 'sehr' vor Adjektiv. Kein anderes Wort in der Liste graduiert ein Adjektiv so natürlich.",
               "pointValue": 1.5
             },
             {
               "blankNumber": 15,
               "type": "word_bank",
               "options": [
-                "a) Mittlerweile", "b) Dank", "c) gesprochen", "d) funktioniert", "e) für",
-                "f) In", "g) erhöht", "h) auf", "i) wahrscheinlich", "j) Dann",
-                "k) vielen", "l) nachgedacht", "m) reicht", "n) an", "o) damit"
+                "a) interessiert", "b) die", "c) um", "d) regelmäßiger", "e) durch",
+                "f) Falls", "g) ob", "h) mieten", "i) welche", "j) für",
+                "k) sehr", "l) Sobald", "m) zu", "n) bei", "o) damit"
               ],
-              "correctAnswer": "e",
-              "explanation": "Feste Verb+Präposition 'sich anmelden für + Akkusativ' (seltener auch 'zu + Dativ'). Hier 'für einen Kurs anmelden' – die gängigste Variante.",
+              "correctAnswer": "d",
+              "explanation": "'in regelmäßiger Benutzung' – attributives Adjektiv im Dativ Femininum: 'regelmäßiger' (schwache Deklination nach Präposition 'in + Dativ').",
               "pointValue": 1.5
             },
             {
               "blankNumber": 16,
               "type": "word_bank",
               "options": [
-                "a) Mittlerweile", "b) Dank", "c) gesprochen", "d) funktioniert", "e) für",
-                "f) In", "g) erhöht", "h) auf", "i) wahrscheinlich", "j) Dann",
-                "k) vielen", "l) nachgedacht", "m) reicht", "n) an", "o) damit"
+                "a) interessiert", "b) die", "c) um", "d) regelmäßiger", "e) durch",
+                "f) Falls", "g) ob", "h) mieten", "i) welche", "j) für",
+                "k) sehr", "l) Sobald", "m) zu", "n) bei", "o) damit"
               ],
-              "correctAnswer": "f",
-              "explanation": "Zeitangabe 'In dieser Woche' mit Dativ. 'In' am Satzanfang, deshalb großgeschrieben.",
+              "correctAnswer": "n",
+              "explanation": "'eine Abholung bei Ihnen' – Präposition 'bei + Dativ' für 'durch Ihr Unternehmen / durch Sie'. 'durch' wäre möglich im Sinne von 'vermittels', aber 'bei Ihnen abholen lassen' ist die Standardformulierung.",
               "pointValue": 1.5
             },
             {
               "blankNumber": 17,
               "type": "word_bank",
               "options": [
-                "a) Mittlerweile", "b) Dank", "c) gesprochen", "d) funktioniert", "e) für",
-                "f) In", "g) erhöht", "h) auf", "i) wahrscheinlich", "j) Dann",
-                "k) vielen", "l) nachgedacht", "m) reicht", "n) an", "o) damit"
+                "a) interessiert", "b) die", "c) um", "d) regelmäßiger", "e) durch",
+                "f) Falls", "g) ob", "h) mieten", "i) welche", "j) für",
+                "k) sehr", "l) Sobald", "m) zu", "n) bei", "o) damit"
               ],
-              "correctAnswer": "g",
-              "explanation": "'Die Krankenkasse hat den Beitrag erhöht' – übliches Kollokat 'Beiträge erhöhen'. Partizip II 'erhöht' schließt das Perfekt ab.",
+              "correctAnswer": "f",
+              "explanation": "'Falls die Möbel zu groß wären ...' – Konditional 'falls' leitet einen hypothetischen Nebensatz ein. 'Sobald' ist temporal (zeitlich), passt nicht.",
               "pointValue": 1.5
             },
             {
               "blankNumber": 18,
               "type": "word_bank",
               "options": [
-                "a) Mittlerweile", "b) Dank", "c) gesprochen", "d) funktioniert", "e) für",
-                "f) In", "g) erhöht", "h) auf", "i) wahrscheinlich", "j) Dann",
-                "k) vielen", "l) nachgedacht", "m) reicht", "n) an", "o) damit"
+                "a) interessiert", "b) die", "c) um", "d) regelmäßiger", "e) durch",
+                "f) Falls", "g) ob", "h) mieten", "i) welche", "j) für",
+                "k) sehr", "l) Sobald", "m) zu", "n) bei", "o) damit"
               ],
               "correctAnswer": "h",
-              "explanation": "Feste Verb+Präposition 'sich freuen auf + Akkusativ' (Vorfreude). 'Ich hatte mich auf einen günstigen Sommer gefreut.'",
+              "explanation": "'einen Transporter mieten' – Infinitiv nach Modalverb 'könnte'. 'mieten' ist das einzige passende Verb in der Liste.",
               "pointValue": 1.5
             },
             {
               "blankNumber": 19,
               "type": "word_bank",
               "options": [
-                "a) Mittlerweile", "b) Dank", "c) gesprochen", "d) funktioniert", "e) für",
-                "f) In", "g) erhöht", "h) auf", "i) wahrscheinlich", "j) Dann",
-                "k) vielen", "l) nachgedacht", "m) reicht", "n) an", "o) damit"
+                "a) interessiert", "b) die", "c) um", "d) regelmäßiger", "e) durch",
+                "f) Falls", "g) ob", "h) mieten", "i) welche", "j) für",
+                "k) sehr", "l) Sobald", "m) zu", "n) bei", "o) damit"
               ],
               "correctAnswer": "i",
-              "explanation": "Adverb 'wahrscheinlich' passt inhaltlich: 'muss ich wahrscheinlich doch genauer schauen' (Unsicherheit über die Zukunft).",
+              "explanation": "'welche Bedingungen geknüpft sind' – indirekte Frage mit 'welche' (Fragepronomen Plural). 'ob' wäre Ja/Nein-Frage und passt nicht (gefragt wird nach der Art der Bedingungen).",
               "pointValue": 1.5
             },
             {
               "blankNumber": 20,
               "type": "word_bank",
               "options": [
-                "a) Mittlerweile", "b) Dank", "c) gesprochen", "d) funktioniert", "e) für",
-                "f) In", "g) erhöht", "h) auf", "i) wahrscheinlich", "j) Dann",
-                "k) vielen", "l) nachgedacht", "m) reicht", "n) an", "o) damit"
+                "a) interessiert", "b) die", "c) um", "d) regelmäßiger", "e) durch",
+                "f) Falls", "g) ob", "h) mieten", "i) welche", "j) für",
+                "k) sehr", "l) Sobald", "m) zu", "n) bei", "o) damit"
               ],
               "correctAnswer": "j",
-              "explanation": "Satzanfang 'Dann können wir ...' – zeitliche Verknüpfung an den vorherigen Satz. Großschreibung am Satzanfang. Übrig bleiben k) vielen, l) nachgedacht, m) reicht, n) an, o) damit als Distraktoren.",
+              "explanation": "'für weitere Auskunft zur Verfügung stehen' – feste Wendung. Übrig bleiben: e) durch, g) ob, l) Sobald, m) zu, o) damit.",
               "pointValue": 1.5
             }
           ]
@@ -838,34 +866,34 @@
         {
           "taskNumber": 1,
           "type": "letter",
-          "instructions": "Sie hatten einen Termin bei Ihrer Hausärztin, Frau Dr. Hofmann. Den Termin können Sie aus beruflichen Gründen nicht wahrnehmen. Schreiben Sie eine E-Mail an die Praxis. Gehen Sie auf alle vier Punkte unten ein. Achten Sie auf eine passende Anrede und einen passenden Gruß. Schreiben Sie ca. 150 Wörter.",
-          "instructionsTranslation": "You had an appointment with your general practitioner, Dr. Hofmann. You cannot attend the appointment due to work reasons. Write an email to the practice. Address all four points below. Pay attention to appropriate greeting and closing. Write approximately 150 words.",
-          "prompt": "Situation: Sie haben am Dienstagnachmittag einen Termin bei Ihrer Hausärztin Frau Dr. Hofmann zum Thema Vorsorgeuntersuchung. Wegen einer kurzfristigen Dienstreise können Sie nicht kommen.\n\nSchreiben Sie eine E-Mail an die Praxis. Gehen Sie auf die folgenden vier Punkte ein:\n\n- Grund: Warum können Sie den Termin am Dienstag nicht wahrnehmen?\n- Bitte um neuen Termin: Wann würde es Ihnen wieder passen?\n- Rückfrage: Möchten Sie etwas vorher wissen (z.B. ob Sie nüchtern kommen müssen)?\n- Dank/Entschuldigung: Entschuldigen Sie sich für die kurzfristige Absage und bedanken Sie sich.\n\nVergessen Sie nicht Anrede, Einleitung und Grußformel. Schreiben Sie ca. 150 Wörter.",
-          "promptTranslation": "Situation: You have an appointment on Tuesday afternoon with your GP Dr. Hofmann for a check-up. Due to a short-notice business trip, you cannot attend.\n\nWrite an email to the practice. Address these four points:\n\n- Reason: Why can you not attend the appointment on Tuesday?\n- Request for new appointment: When would suit you instead?\n- Question: Is there something you want to know in advance (e.g. whether you need to come with an empty stomach)?\n- Thanks/Apology: Apologize for the short notice and thank them.\n\nDon't forget greeting, introduction, and closing. Write approximately 150 words.",
+          "instructions": "Sie möchten Mitglied in einem Sportverein oder Kulturverein werden. Schreiben Sie eine Anfrage an den Verein. Gehen Sie auf alle vier Punkte ein. Achten Sie auf eine passende Anrede und einen passenden Schluss. Schreiben Sie ca. 150 Wörter.",
+          "instructionsTranslation": "You would like to become a member of a sports club or cultural club. Write an inquiry to the club. Address all four points. Pay attention to appropriate greeting and closing. Write approximately 150 words.",
+          "prompt": "Sie haben auf der Webseite des Vereins TSV Sonnenberg (Sport- und Freizeitverein) gelesen, dass er neue Mitglieder sucht. Sie interessieren sich für eine Mitgliedschaft.\n\nSchreiben Sie eine E-Mail an den Verein. Gehen Sie auf die folgenden vier Punkte ein:\n\n- Wie Sie auf den Verein aufmerksam geworden sind und warum Sie Mitglied werden möchten\n- Welche Aktivitäten oder Kurse im Verein Sie besonders interessieren\n- Welche Kosten mit einer Mitgliedschaft verbunden sind\n- Wann und wo man dem Verein beitreten kann (Anmeldung, Treffen, Probestunde)\n\nVergessen Sie nicht Anrede, Einleitung und Grußformel. Schreiben Sie ca. 150 Wörter.",
+          "promptTranslation": "You saw on the website of TSV Sonnenberg (sports and leisure club) that it is looking for new members. You are interested in joining.\n\nWrite an email to the club. Address the following four points:\n\n- How you came across the club and why you want to join\n- Which activities or courses you are particularly interested in\n- What costs are involved in membership\n- When and where you can join (sign-up, meetings, trial session)\n\nDon't forget greeting, introduction, and closing. Write approximately 150 words.",
           "requiredPoints": [
-            "Grund für die Absage (berufliche Dienstreise)",
-            "Vorschlag für einen neuen Termin mit Zeit und Tag",
-            "Eine konkrete Rückfrage (z.B. nüchtern, Versichertenkarte)",
-            "Entschuldigung für die kurzfristige Absage und Dank"
+            "Wie der Schreibende auf den Verein aufmerksam wurde und Begründung des Interesses",
+            "Konkrete Aktivität oder Kurs, der interessiert",
+            "Frage nach Mitgliedsbeitrag / Kosten",
+            "Frage nach Anmeldung, erstem Treffen oder Probestunde"
           ],
           "wordCountMin": 130,
           "wordCountMax": 170,
-          "sampleAnswer": "Sehr geehrte Frau Dr. Hofmann,\nsehr geehrtes Praxisteam,\n\nleider muss ich meinen Termin am kommenden Dienstag, 14. Mai, um 15 Uhr absagen. Mein Arbeitgeber hat mich kurzfristig auf eine Dienstreise nach Hamburg geschickt, die ich nicht verschieben kann.\n\nIch würde sehr gerne einen neuen Termin für meine Vorsorgeuntersuchung vereinbaren. Mir würde der darauffolgende Freitag, 17. Mai, am Nachmittag passen, oder in der nächsten Woche ein Termin am Montag oder Mittwoch. Gerne richte ich mich nach Ihren freien Zeiten.\n\nEine Frage habe ich noch: Muss ich für die Untersuchung nüchtern kommen, oder darf ich vorher etwas essen und trinken? Ich möchte nichts vergessen.\n\nIch entschuldige mich sehr für die kurzfristige Absage – das war wirklich nicht geplant. Vielen Dank für Ihr Verständnis und für einen möglichst baldigen Ersatztermin.\n\nMit freundlichen Grüßen\nMarie Hartmann",
+          "sampleAnswer": "Sehr geehrte Damen und Herren,\n\nüber die Webseite des TSV Sonnenberg habe ich erfahren, dass Sie neue Mitglieder suchen. Da ich seit meinem Umzug nach Sonnenberg noch keinen Sportverein gefunden habe, interessiere ich mich sehr für eine Mitgliedschaft bei Ihnen.\n\nBesonders angesprochen hat mich das Angebot im Bereich Volleyball und die wöchentlichen Lauftreffs. Ich treibe regelmäßig Sport und würde das gerne in einer Gruppe fortsetzen.\n\nGerne würde ich wissen, welche Mitgliedsbeiträge anfallen und ob es unterschiedliche Tarife gibt – zum Beispiel für Berufstätige oder Studenten. Außerdem interessiert mich, ob ich zunächst an einer Probestunde teilnehmen kann, bevor ich mich verbindlich anmelde.\n\nWann und wo finden die Trainingseinheiten statt? Und wie kann ich mich offiziell anmelden?\n\nIch freue mich auf Ihre Antwort und bedanke mich im Voraus für Ihre Auskunft.\n\nMit freundlichen Grüßen\nMarkus Brenner",
           "scoringCriteria": [
             {
               "criterion": "I. Inhaltliche Vollständigkeit",
               "maxPoints": 15,
-              "description": "Alle vier Leitpunkte (Grund, Terminvorschlag, Rückfrage, Entschuldigung/Dank) sind klar behandelt. Wird einer dieser Punkte als nicht bearbeitet bewertet (D), erhält der gesamte Text 0 Punkte."
+              "description": "Alle vier Leitpunkte (Aufmerksamkeit/Interesse, Aktivität, Kosten, Anmeldung/Treffen) sind klar behandelt. Fehlt ein Punkt komplett (D-Markierung), erhält der gesamte Text 0 Punkte."
             },
             {
               "criterion": "II. Kommunikative Gestaltung",
               "maxPoints": 15,
-              "description": "Formelle Anrede ('Sehr geehrte Frau Dr. Hofmann'), klare Einleitung mit Bezug auf den bestehenden Termin, passende Konnektoren (leider, gerne, außerdem), formelle Grußformel, sinnvolle Absatzstruktur."
+              "description": "Formelle Anrede ('Sehr geehrte Damen und Herren'), klare Einleitung mit Bezug auf die Webseite, angemessene Konnektoren (besonders, außerdem, gerne), formelle Grußformel, sinnvolle Absatzstruktur."
             },
             {
               "criterion": "III. Formale Richtigkeit",
               "maxPoints": 15,
-              "description": "Grammatik, Rechtschreibung und Wortwahl auf B1-Niveau. Korrekte Verbformen (Perfekt, Konjunktiv II für höfliche Bitten), Satzstellung in Nebensätzen, Kasus nach Präpositionen. Schwere Grammatikfehler, die das Verständnis blockieren, führen zu D (und damit 0 Punkten für den gesamten Text)."
+              "description": "Grammatik, Rechtschreibung und Wortwahl auf B1-Niveau. Korrekte Satzstellung in Nebensätzen, höfliche Formulierungen mit Konjunktiv II ('würde ich gerne wissen'). Fehler, die das Verständnis blockieren, führen zu D (0 Punkte für den Text)."
             }
           ]
         }
@@ -880,15 +908,14 @@
           "type": "introduce",
           "instructions": "Stellen Sie sich Ihrem Gesprächspartner/Ihrer Gesprächspartnerin vor. Sprechen Sie über sich: Name, Herkunft, Wohnort, Familie, Beruf oder Ausbildung, Hobbys und Sprachen. Stellen Sie anschließend Ihrem Partner/Ihrer Partnerin mindestens zwei Fragen.",
           "instructionsTranslation": "Introduce yourself to your conversation partner. Talk about: name, origin, place of residence, family, work or education, hobbies, and languages. Afterwards ask your partner at least two questions.",
-          "prompt": "Bitte stellen Sie sich Ihrem Partner / Ihrer Partnerin vor. Sprechen Sie u.a. über:\n- Ihren Namen und Ihre Herkunft\n- Ihren aktuellen Wohnort und seit wann Sie dort leben\n- Ihre Familie\n- Ihren Beruf oder Ihr Studium\n- Ihre Hobbys und Interessen\n- Die Sprachen, die Sie sprechen\n\nStellen Sie danach Ihrem Partner / Ihrer Partnerin mindestens zwei Fragen, um mehr über sie/ihn zu erfahren. Vorbereitungszeit: 20 Minuten für die gesamte mündliche Prüfung.",
-          "sampleResponse": "Guten Tag, mein Name ist Marie Hartmann, und ich komme ursprünglich aus einer kleinen Stadt im Norden Bayerns. Seit vier Jahren wohne ich in Hannover, wo ich in einem Krankenhaus als Krankenschwester arbeite. Meine Familie lebt noch in Bayern – meine Eltern, mein älterer Bruder und seine Familie. In meiner Freizeit laufe ich seit zwei Jahren regelmäßig. Ich gehe dreimal die Woche in den Park, weil ich nach den langen Schichten Kopf und Körper gut frei bekomme. Außerdem koche ich sehr gerne gesund – am liebsten mit viel Gemüse aus dem Wochenmarkt. Neben Deutsch spreche ich Englisch flüssig, das habe ich noch in der Pflegeausbildung vertieft, und ich lerne gerade ein wenig Spanisch. Und wie ist das bei dir? Wo bist du aufgewachsen, und was machst du beruflich?",
+          "prompt": "Bitte stellen Sie sich Ihrem Partner / Ihrer Partnerin vor. Sprechen Sie u.a. über:\n- Ihren Namen und Ihre Herkunft\n- Ihren aktuellen Wohnort und seit wann Sie dort leben\n- Ihre Familie\n- Ihren Beruf oder Ihr Studium\n- Ihre Hobbys und Interessen\n- Die Sprachen, die Sie sprechen\n\nStellen Sie danach Ihrem Partner / Ihrer Partnerin mindestens zwei Fragen, um mehr über sie/ihn zu erfahren.",
+          "sampleResponse": "Guten Tag, ich heiße Katrin Sommer und komme ursprünglich aus Freiburg. Seit zwei Jahren wohne ich in Stuttgart, wo ich in einem kleinen Möbelgeschäft als Verkäuferin arbeite. Meine Eltern leben noch in Freiburg, und ich habe eine jüngere Schwester, die studiert. In meiner Freizeit gehe ich gern auf Flohmärkte und Tauschbörsen – ich mag es, alte Dinge neu zu entdecken. Außerdem nähe ich manchmal selbst und gestalte alte Kleidung um. Neben Deutsch spreche ich gut Englisch und ein bisschen Französisch. Und wie ist das bei Ihnen? Kommen Sie auch aus Baden-Württemberg, oder sind Sie aus einer anderen Region?",
           "evaluationTips": [
             "Strukturieren Sie Ihre Vorstellung: Name, Herkunft, Wohnort, Familie, Beruf, Hobbys",
             "Verwenden Sie Nebensätze mit 'weil', 'der/die', 'wo' – das zeigt B1-Niveau",
             "Nennen Sie konkrete Details (Stadt, Jahre, Berufsbezeichnung)",
             "Stellen Sie W-Fragen, keine Ja/Nein-Fragen",
-            "Reagieren Sie auf die Antworten Ihres Partners mit kurzen Kommentaren",
-            "Verbinden Sie Themen: 'Ich laufe regelmäßig, weil ...'"
+            "Reagieren Sie auf die Antworten Ihres Partners mit kurzen Kommentaren"
           ],
           "keyPhrases": [
             "Mein Name ist ... und ich komme aus ...",
@@ -896,8 +923,8 @@
             "Beruflich arbeite ich als ...",
             "In meiner Freizeit ...",
             "Neben Deutsch spreche ich ...",
-            "Und wie ist das bei dir/Ihnen?",
-            "Darf ich dich/Sie etwas fragen?"
+            "Und wie ist das bei Ihnen?",
+            "Darf ich fragen, ...?"
           ]
         },
         {
@@ -905,50 +932,48 @@
           "type": "discussion",
           "instructions": "Sie erhalten einen kurzen Text zum Thema. Fassen Sie den Inhalt für Ihren Partner zusammen, beantworten Sie die drei Leitfragen, und tauschen Sie Ihre Meinung mit dem Partner aus.",
           "instructionsTranslation": "You receive a short text on the topic. Summarize the content for your partner, answer the three guiding questions, and exchange your opinions with your partner.",
-          "prompt": "Thema: Gesund leben\n\nLesen Sie den folgenden kurzen Text:\n\n'Eine aktuelle Studie zeigt: Rund 60 Prozent der Deutschen möchten gesünder leben, aber nur jeder dritte schafft es, seine guten Vorsätze länger als drei Monate umzusetzen. Besonders schwierig ist es, im Alltag regelmäßig Sport zu machen und gesünder zu essen. Experten empfehlen, klein anzufangen und gute Gewohnheiten langsam aufzubauen.'\n\nLeitfragen:\n1. Fassen Sie kurz den Inhalt des Textes zusammen (in 2–3 Sätzen).\n2. Was machen Sie persönlich für Ihre Gesundheit, und was fällt Ihnen schwer?\n3. Was hilft Ihrer Meinung nach am meisten, wenn man wirklich gesünder leben möchte?\n\nSprechen Sie mit Ihrem Partner/Ihrer Partnerin über das Thema – fragen Sie auch nach seiner/ihrer Meinung.",
-          "sampleResponse": "Der Text berichtet, dass rund 60 Prozent der Deutschen gesünder leben möchten – aber nur jeder dritte schafft es, das länger als drei Monate durchzuhalten. Besonders schwierig sind regelmäßiger Sport und gesunde Ernährung. Experten raten, klein anzufangen.\n\nIch mache selbst seit einem Jahr dreimal pro Woche Sport – meistens laufen oder Fahrrad fahren. Das klappt gut. Schwieriger finde ich gesunde Ernährung: Nach einem langen Arbeitstag greife ich schnell zur Tiefkühlpizza, statt etwas Frisches zu kochen.\n\nMeiner Meinung nach hilft am meisten, einen festen Plan zu haben und mit anderen zusammen aktiv zu sein. Einerseits motivieren Freundinnen oder Kolleginnen, andererseits macht es auch mehr Spaß. Außerdem finde ich es wichtig, sich selbst nicht unter Druck zu setzen. Wer drei Tage einmal keinen Sport macht, sollte nicht gleich alles aufgeben. Wie siehst du das? Was ist dir im Alltag am schwersten?",
+          "prompt": "Thema: Kaufen, Tauschen oder Verschenken?\n\nLesen Sie den folgenden kurzen Text:\n\n'Immer mehr Menschen in Deutschland kaufen gebrauchte Waren statt neuer Produkte. Laut einer Umfrage tauscht oder verschenkt jeder Dritte regelmäßig Gegenstände, die er nicht mehr braucht. Viele tun das aus Kostengründen, andere aus Überzeugung – sie wollen weniger Müll produzieren und Ressourcen schonen.'\n\nLeitfragen:\n1. Fassen Sie kurz den Inhalt des Textes zusammen (in 2–3 Sätzen).\n2. Kaufen oder tauschen Sie selbst manchmal gebrauchte Dinge? Wie sind Ihre Erfahrungen?\n3. Was glauben Sie: Wird Secondhand in Zukunft noch wichtiger werden? Warum (nicht)?\n\nSprechen Sie mit Ihrem Partner/Ihrer Partnerin über das Thema – fragen Sie auch nach seiner/ihrer Meinung.",
+          "sampleResponse": "Der Text beschreibt, dass immer mehr Menschen in Deutschland gebrauchte Waren kaufen oder tauschen, statt immer Neues zu kaufen. Jeder dritte Deutsche gibt an, regelmäßig Dinge abzugeben – entweder aus Kostengründen oder weil er weniger Müll produzieren möchte.\n\nIch kaufe selbst manchmal Kleidung und Bücher auf Flohmärkten. Meistens findet man dort wirklich gute Sachen, und der Preis ist viel besser. Einmal habe ich auf einer Tauschbörse einen alten Kaffeevollautomaten gefunden – der läuft heute noch. Nur manchmal braucht man etwas Geduld beim Suchen.\n\nIch glaube, Secondhand wird in Zukunft noch wichtiger werden. Einerseits werden Produkte teurer, andererseits denken immer mehr junge Leute an die Umwelt. Onlineplattformen machen das Kaufen und Verkaufen außerdem sehr bequem. Wie ist das bei Ihnen – kaufen Sie auch manchmal gebraucht?",
           "evaluationTips": [
-            "Beginnen Sie mit einer Zusammenfassung in 2–3 Sätzen, bevor Sie Ihre Meinung äußern",
+            "Beginnen Sie mit einer Zusammenfassung in 2–3 Sätzen",
             "Nennen Sie konkrete Beispiele aus Ihrem Leben",
-            "Verwenden Sie Meinungsformulierungen: 'Meiner Meinung nach ...', 'Ich finde, dass ...'",
-            "Gliedern Sie Vor- und Nachteile: 'Einerseits ..., andererseits ...'",
+            "Verwenden Sie Meinungsformulierungen: 'Ich glaube, dass ...' / 'Meiner Meinung nach ...'",
+            "Gliedern Sie Argumente: 'Einerseits ..., andererseits ...'",
             "Stellen Sie dem Partner eine offene Rückfrage",
-            "Benutzen Sie Konnektoren wie 'allerdings', 'außerdem', 'deshalb'"
+            "Benutzen Sie Konnektoren: 'außerdem', 'allerdings', 'deshalb'"
           ],
           "keyPhrases": [
-            "Im Text geht es um ...",
+            "Im Text geht es darum, dass ...",
             "Der Text berichtet, dass ...",
             "Meiner Meinung nach ...",
-            "Ich finde es wichtig, dass ...",
-            "Einerseits ... andererseits ...",
-            "Ein Vorteil/Nachteil ist, dass ...",
-            "Wie siehst du das?",
-            "Stimmst du mir da zu?"
+            "Ich glaube, dass ...",
+            "Einerseits ..., andererseits ...",
+            "Wie sehen Sie das?",
+            "Haben Sie da auch Erfahrungen gemacht?"
           ]
         },
         {
           "partNumber": 3,
           "type": "planning",
-          "instructions": "Sie sollen mit Ihrem Partner gemeinsam etwas planen. Machen Sie Vorschläge, reagieren Sie auf die Ideen Ihres Partners und einigen Sie sich am Ende auf eine gemeinsame Lösung.",
-          "instructionsTranslation": "You are going to plan something together with your partner. Make suggestions, respond to your partner's ideas, and agree on a joint solution at the end.",
-          "prompt": "Ihre Firma möchte einen Gesundheitstag für alle Mitarbeiterinnen und Mitarbeiter organisieren. Sie und Ihr Partner / Ihre Partnerin sollen diesen Tag gemeinsam planen.\n\nBesprechen Sie bitte folgende Punkte und kommen Sie zu einer gemeinsamen Entscheidung:\n\n- Wann soll der Gesundheitstag stattfinden? Wo (in der Firma oder extern)?\n- Welche Aktivitäten bieten Sie an (z.B. Yoga, Rückenübungen, Ernährungsvortrag, Blutdruck-Check)?\n- Wen laden Sie als Expertinnen und Experten ein?\n- Wie viele Teilnehmer rechnen Sie ein, und wie informieren Sie alle?\n- Wer übernimmt welche Aufgabe (Raum, Catering, Einladung, Programm)?\n\nMachen Sie Vorschläge, gehen Sie auf die Vorschläge Ihres Partners ein und einigen Sie sich am Ende.",
-          "sampleResponse": "Also, ich würde vorschlagen, dass wir den Gesundheitstag an einem Freitag Anfang Juni machen, zum Beispiel am 7. Juni. Der Tag liegt gut vor dem Wochenende. Als Ort schlage ich unseren großen Konferenzraum vor – der ist kostenlos und groß genug für alle. Was meinst du?\n\nBei den Aktivitäten könnten wir ein Programm mit drei Blöcken planen: am Morgen eine Rückenschule mit einem Physiotherapeuten, mittags einen Vortrag zum Thema Ernährung, und am Nachmittag einen Blutdruck-Check durch eine Apothekerin. So ist für jeden etwas dabei.\n\nIch schätze, etwa 40 Kolleginnen und Kollegen werden mitmachen. Wir laden am besten per Rundmail ein und hängen ein Plakat in der Teeküche auf. Zum Essen würde ich ein gesundes Buffet von einem lokalen Bio-Caterer vorschlagen, statt das übliche Mittagessen.\n\nBei den Aufgaben: Ich kümmere mich um den Raum und den Caterer. Könntest du die Expertinnen kontaktieren und die Einladung schreiben? Dann haben wir alles gut aufgeteilt. Einverstanden? Dann halten wir das so fest.",
+          "instructions": "Sie sollen mit Ihrem Partner gemeinsam einen Tagesausflug planen. Machen Sie Vorschläge, reagieren Sie auf die Ideen Ihres Partners und einigen Sie sich am Ende auf eine gemeinsame Lösung.",
+          "instructionsTranslation": "You are going to plan a day trip together with your partner. Make suggestions, respond to your partner's ideas, and agree on a joint solution at the end.",
+          "prompt": "Sie und Ihr Partner / Ihre Partnerin möchten zusammen einen Tagesausflug machen. Ihr Freund / Ihre Freundin aus einer anderen Stadt besucht Sie nächstes Wochenende. Sie wollen den Tag gemeinsam verbringen.\n\nBesprechen Sie bitte folgende Punkte und kommen Sie zu einer gemeinsamen Entscheidung:\n\n- Wohin möchten Sie fahren? (Stadt, Natur, Veranstaltung wie Flohmarkt oder Tauschbörse?)\n- Wie fahren Sie hin? (Zug, Auto, Fahrrad?)\n- Was machen Sie dort? (Spaziergang, Essen gehen, Markt besuchen, Museum?)\n- Wann starten Sie, und wie lange bleiben Sie?\n- Was sollten Sie mitbringen oder vorbereiten?\n\nMachen Sie Vorschläge, gehen Sie auf die Vorschläge Ihres Partners ein und einigen Sie sich am Ende.",
+          "sampleResponse": "Also, ich würde vorschlagen, dass wir einen Ausflug in die nächste Großstadt machen – dort findet am Samstag ein großer Flohmarkt statt. Das wäre eine gute Möglichkeit, günstig einzukaufen und die Stadt zu sehen. Was meinst du?\n\nWenn wir mit dem Zug fahren, müssen wir uns keine Gedanken über Parkplätze machen. Der Zug fährt um 9 Uhr ab und ist in 45 Minuten da. Ich würde sagen, wir starten früh, damit wir auf dem Markt noch die besten Sachen finden – die guten Stände gehen manchmal schon bis zehn Uhr morgens weg.\n\nNach dem Markt könnten wir in einem Café frühstücken und danach durch die Altstadt schlendern. Wenn das Wetter gut ist, wäre ein Spaziergang am Fluss schön. Ich schätze, wir kommen so gegen 17 oder 18 Uhr zurück – das wäre ein voller, aber schöner Tag.\n\nWas wir mitnehmen sollten: Bargeld für den Markt, einen kleinen Rucksack für Einkäufe und eine Tragetasche. Einverstanden? Dann buche ich die Zugtickets.",
           "evaluationTips": [
             "Hören Sie aktiv zu und reagieren Sie konkret auf die Vorschläge Ihres Partners",
-            "Machen Sie Vorschläge mit Konjunktiv II ('Ich würde vorschlagen ...', 'Wir könnten ...')",
-            "Begründen Sie Vorschläge kurz mit 'weil' oder 'damit'",
-            "Einigen Sie sich klar am Ende: 'Einverstanden?' oder 'Dann halten wir das so fest.'",
-            "Teilen Sie Aufgaben explizit auf – wer macht was",
-            "Fassen Sie am Ende die wichtigsten Entscheidungen kurz zusammen"
+            "Machen Sie Vorschläge mit Konjunktiv II: 'Ich würde vorschlagen ...' / 'Wir könnten ...'",
+            "Begründen Sie Vorschläge kurz mit 'weil', 'damit' oder 'dann'",
+            "Einigen Sie sich klar am Ende: 'Einverstanden?' / 'Dann machen wir das so.'",
+            "Gehen Sie auf alle genannten Punkte ein (Ziel, Verkehr, Aktivitäten, Zeit, Mitbringen)",
+            "Fassen Sie am Ende kurz die wichtigsten Entscheidungen zusammen"
           ],
           "keyPhrases": [
             "Ich würde vorschlagen, dass ...",
-            "Was hältst du davon, wenn ...?",
+            "Was hältst du davon, wenn wir ...?",
             "Wir könnten zum Beispiel ...",
             "Das ist eine gute Idee, aber ...",
-            "Alternativ könnten wir auch ...",
-            "Wer übernimmt ...?",
-            "Ich kümmere mich um ..., kannst du ...?",
+            "Wenn das Wetter gut ist, ...",
+            "Dann wäre es besser, wenn ...",
             "Einverstanden!",
             "Dann halten wir fest: ..."
           ]
