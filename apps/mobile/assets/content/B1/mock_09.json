@@ -1,8 +1,8 @@
 {
   "id": "B1_mock_09",
   "level": "B1",
-  "title": "B1 Übungstest 9: Reisen",
-  "version": 1,
+  "title": "B1 Übungstest 9: Tiere & Stadt",
+  "version": 2,
   "sections": {
     "listening": {
       "totalTimeMinutes": 30,
@@ -17,47 +17,47 @@
             {
               "id": "B1_m09_L1_q1",
               "type": "true_false",
-              "questionText": "Der ICE nach Berlin fährt heute pünktlich ab Gleis 7.",
+              "questionText": "Das Tierheim sucht derzeit vor allem Pflegestellen für Katzen.",
               "options": ["richtig", "falsch"],
               "correctAnswer": "falsch",
-              "explanation": "Die Durchsage kündigt an: 'Der ICE 905 nach Berlin fährt heute ausnahmsweise von Gleis 11 ab – wir bitten um Ihr Verständnis.' Gleis 7 ist also falsch.",
+              "explanation": "Die Durchsage des Tierheims lautet: 'Wir suchen dringend Pflegestellen für Hunde – besonders große Rassen, die in der Unterkunft keinen Platz mehr finden.' Katzen werden nicht erwähnt.",
               "audioTimestamp": 10
             },
             {
               "id": "B1_m09_L1_q2",
               "type": "true_false",
-              "questionText": "Frau Haller bittet ihren Sohn, ihr Reisepass aus der Schublade zu holen.",
+              "questionText": "Der Hundetraining-Kurs findet samstags statt.",
               "options": ["richtig", "falsch"],
               "correctAnswer": "richtig",
-              "explanation": "Auf dem Anrufbeantworter sagt Frau Haller: 'Leo, kannst du mir bitte meinen Reisepass aus der oberen Schublade im Flur holen? Ich habe ihn doch glatt vergessen.' Die Aussage stimmt.",
-              "audioTimestamp": 12
+              "explanation": "Die Ansage des Hundesportvereins besagt: 'Unser Grundkurs für Welpen und Junghunde findet jeden Samstag von 10 bis 12 Uhr auf dem Vereinsgelände statt.' Die Aussage stimmt.",
+              "audioTimestamp": 11
             },
             {
               "id": "B1_m09_L1_q3",
               "type": "true_false",
-              "questionText": "Das Reisebüro empfiehlt, die Reise erst im Dezember zu buchen.",
+              "questionText": "Die Tierarztpraxis hat auch am Dienstagabend geöffnet.",
               "options": ["richtig", "falsch"],
               "correctAnswer": "falsch",
-              "explanation": "Die Ansage lautet: 'Wer seinen Sommerurlaub günstig buchen möchte, sollte jetzt zugreifen – im Juni werden die Preise deutlich steigen.' Also jetzt, nicht im Dezember.",
-              "audioTimestamp": 10
+              "explanation": "Die Bandansage der Praxis nennt: 'Unsere Sprechzeiten sind montags, mittwochs und freitags von 9 bis 18 Uhr sowie donnerstags von 14 bis 20 Uhr.' Dienstag ist kein Öffnungstag.",
+              "audioTimestamp": 9
             },
             {
               "id": "B1_m09_L1_q4",
               "type": "true_false",
-              "questionText": "Der Kollege lädt zu einem gemeinsamen Wochenendausflug ein.",
+              "questionText": "Die Tierhandlung hat ihr Sortiment um Aquariumpflanzen erweitert.",
               "options": ["richtig", "falsch"],
               "correctAnswer": "richtig",
-              "explanation": "Der Kollege sagt: 'Hättest du Lust, am Samstag zu einer kleinen Wanderung in die Berge zu fahren? Meine Frau und ich freuen uns, wenn du mitkommst.' Das ist eine Einladung zu einem Ausflug.",
-              "audioTimestamp": 11
+              "explanation": "Der Werbespot der Tierhandlung sagt: 'Neu bei uns: ein großes Sortiment an Aquariumpflanzen und Wasserpflanzen – jetzt in unserem Aquaristik-Bereich.' Die Aussage trifft zu.",
+              "audioTimestamp": 10
             },
             {
               "id": "B1_m09_L1_q5",
               "type": "true_false",
-              "questionText": "Der Flug aus Rom ist heute um 30 Minuten verspätet.",
+              "questionText": "Der Tierfotograf-Workshop kostet 80 Euro pro Person.",
               "options": ["richtig", "falsch"],
               "correctAnswer": "falsch",
-              "explanation": "Die Flughafenansage lautet: 'Der Flug LH 245 aus Rom ist voraussichtlich mit 45 Minuten Verspätung zu erwarten.' 45, nicht 30 Minuten – also falsch.",
-              "audioTimestamp": 9
+              "explanation": "Die Ansage des Workshops lautet: 'Die Teilnahmegebühr beträgt 65 Euro pro Person – inklusive Materialien und Mittagessen.' 65 Euro, nicht 80 – die Aussage ist falsch.",
+              "audioTimestamp": 12
             }
           ]
         },
@@ -71,91 +71,91 @@
             {
               "id": "B1_m09_L2_q1",
               "type": "true_false",
-              "questionText": "Die Sendung beschäftigt sich mit dem Thema nachhaltiges Reisen.",
+              "questionText": "Der Radiobericht handelt von Haustieren und ihrer Bedeutung im Stadtleben.",
               "options": ["richtig", "falsch"],
               "correctAnswer": "richtig",
-              "explanation": "Die Moderatorin leitet ein: 'Heute sprechen wir über nachhaltiges Reisen – wie wir die Welt entdecken und gleichzeitig die Umwelt schützen können.' Das ist das Thema.",
+              "explanation": "Die Moderatorin sagt zu Beginn: 'Heute sprechen wir darüber, welche Rolle Haustiere im Leben von Stadtmenschen spielen – und warum immer mehr Menschen in der Stadt ein Tier halten.' Das Thema trifft zu.",
               "audioTimestamp": 6
             },
             {
               "id": "B1_m09_L2_q2",
               "type": "true_false",
-              "questionText": "Laut Studie reisen die Deutschen heute seltener als vor fünf Jahren.",
+              "questionText": "Laut dem Bericht haben weniger als ein Viertel aller Deutschen ein Haustier.",
               "options": ["richtig", "falsch"],
               "correctAnswer": "falsch",
-              "explanation": "Der Sprecher sagt: 'Die Zahl der Urlaubsreisen hat in den letzten Jahren wieder deutlich zugenommen – etwa 15 Prozent mehr als vor fünf Jahren.' Mehr, nicht weniger – also falsch.",
-              "audioTimestamp": 30
+              "explanation": "Der Sprecher nennt: 'Mittlerweile lebt in mehr als einem Drittel aller deutschen Haushalte ein Tier.' Ein Drittel ist mehr als ein Viertel – die Aussage ist falsch.",
+              "audioTimestamp": 28
             },
             {
               "id": "B1_m09_L2_q3",
               "type": "true_false",
-              "questionText": "Herr Dr. Wagner forscht zum Thema Tourismus und Umwelt.",
+              "questionText": "Dr. Steinbach forscht an der Universität München zum Thema Mensch-Tier-Beziehung.",
               "options": ["richtig", "falsch"],
               "correctAnswer": "richtig",
-              "explanation": "Die Moderatorin stellt ihn vor: 'Mit uns im Studio ist Dr. Jürgen Wagner von der Uni Freiburg, wo er seit vielen Jahren zum Zusammenhang von Tourismus und Umwelt forscht.' Die Aussage trifft zu.",
-              "audioTimestamp": 52
+              "explanation": "Die Moderatorin stellt sie vor: 'Frau Dr. Steinbach leitet an der LMU München eine Forschungsgruppe, die sich mit der Beziehung zwischen Menschen und ihren Haustieren beschäftigt.' Die Aussage stimmt.",
+              "audioTimestamp": 50
             },
             {
               "id": "B1_m09_L2_q4",
               "type": "true_false",
-              "questionText": "Laut Dr. Wagner verursachen Flugreisen besonders viel CO₂.",
+              "questionText": "Laut Dr. Steinbach sind Hunde bei Stadtbewohnern häufiger als Katzen.",
               "options": ["richtig", "falsch"],
-              "correctAnswer": "richtig",
-              "explanation": "Dr. Wagner sagt: 'Ein einziger Flug nach Mallorca und zurück verursacht so viel CO₂ wie ein halbes Jahr Autofahren – das überrascht viele.' Die Aussage stimmt.",
-              "audioTimestamp": 75
+              "correctAnswer": "falsch",
+              "explanation": "Dr. Steinbach sagt: 'In der Stadt sind Katzen das beliebteste Haustier – sie passen besser in kleine Wohnungen als Hunde.' Katzen sind häufiger, nicht Hunde.",
+              "audioTimestamp": 72
             },
             {
               "id": "B1_m09_L2_q5",
               "type": "true_false",
-              "questionText": "Die Mehrheit der jungen Deutschen legt keinen Wert auf nachhaltiges Reisen.",
+              "questionText": "Haustiere können laut der Expertin das Stressniveau ihrer Besitzer senken.",
               "options": ["richtig", "falsch"],
-              "correctAnswer": "falsch",
-              "explanation": "Im Bericht heißt es: 'Gerade junge Menschen unter 30 achten immer stärker darauf, nachhaltig zu reisen – für rund 60 Prozent ist das wichtig.' Die Mehrheit legt also Wert darauf.",
+              "correctAnswer": "richtig",
+              "explanation": "Dr. Steinbach erklärt: 'Studien zeigen klar, dass der Umgang mit Haustieren Stresshormone abbaut und das allgemeine Wohlbefinden verbessert.' Die Aussage ist korrekt.",
               "audioTimestamp": 95
             },
             {
               "id": "B1_m09_L2_q6",
               "type": "true_false",
-              "questionText": "Dr. Wagner empfiehlt, innerhalb Europas öfter mit dem Zug zu fahren.",
+              "questionText": "Die Expertin empfiehlt, in einer kleinen Wohnung keinen Hund zu halten.",
               "options": ["richtig", "falsch"],
-              "correctAnswer": "richtig",
-              "explanation": "Dr. Wagner sagt: 'Für Strecken bis etwa 1.000 Kilometer ist der Zug oft die bessere Wahl – bequem, günstig und deutlich klimafreundlicher.' Die Aussage trifft zu.",
+              "correctAnswer": "falsch",
+              "explanation": "Dr. Steinbach sagt: 'Es kommt nicht auf die Wohnungsgröße an, sondern auf die Bewegung. Auch ein Hund in einer kleinen Wohnung kann glücklich sein, wenn er täglich ausreichend Auslauf bekommt.' Sie empfiehlt es nicht grundsätzlich ab.",
               "audioTimestamp": 118
             },
             {
               "id": "B1_m09_L2_q7",
               "type": "true_false",
-              "questionText": "Camping-Urlaub ist in Deutschland laut Bericht seit Corona weniger beliebt.",
+              "questionText": "Das Tierheim in der Sendung hat mehr Hunde als Plätze.",
               "options": ["richtig", "falsch"],
-              "correctAnswer": "falsch",
-              "explanation": "Der Sprecher nennt: 'Campingplätze sind seit Corona voller denn je – rund 30 Prozent mehr Buchungen als vor der Pandemie.' Mehr, nicht weniger beliebt.",
+              "correctAnswer": "richtig",
+              "explanation": "Der Tierheimleiter sagt: 'Wir haben zurzeit 47 Hunde untergebracht, aber nur Plätze für 35 – wir sind also deutlich überbelegt.' Die Aussage trifft zu.",
               "audioTimestamp": 140
             },
             {
               "id": "B1_m09_L2_q8",
               "type": "true_false",
-              "questionText": "Dr. Wagner rät, grundsätzlich nur noch zu Fuß zu reisen.",
+              "questionText": "Laut dem Bericht ist Tierhaltung in Deutschland gesetzlich frei und ohne Auflagen.",
               "options": ["richtig", "falsch"],
               "correctAnswer": "falsch",
-              "explanation": "Dr. Wagner sagt: 'Man muss nicht aufs Reisen verzichten – aber bewusster wählen, wie und wohin man fährt.' Niemand soll nur noch zu Fuß reisen – die Aussage ist übertrieben.",
+              "explanation": "Im Bericht heißt es: 'Wer ein Tier hält, trägt rechtliche Verantwortung – von der Impfpflicht beim Hund bis zu Mietvertragsklauseln.' Es gibt also durchaus Auflagen.",
               "audioTimestamp": 160
             },
             {
               "id": "B1_m09_L2_q9",
               "type": "true_false",
-              "questionText": "Urlaub in der eigenen Region wird als umweltfreundliche Alternative genannt.",
+              "questionText": "Das Tierheim bietet auch Adoptionen an Familien mit Kindern an.",
               "options": ["richtig", "falsch"],
               "correctAnswer": "richtig",
-              "explanation": "Der Bericht erwähnt: 'Immer mehr Menschen entdecken ihre eigene Region als Reiseziel – das ist günstig, spontan und klimafreundlich.' Die Aussage trifft zu.",
+              "explanation": "Der Tierheimleiter erklärt: 'Wir vermitteln Tiere gern an Familien – wir achten dabei auf eine gute Passung zwischen Tier und Lebenssituation, also auch mit Kindern im Haus.' Die Aussage stimmt.",
               "audioTimestamp": 178
             },
             {
               "id": "B1_m09_L2_q10",
               "type": "true_false",
-              "questionText": "Am Ende der Sendung wird eine Hotline mit Reisetipps angegeben.",
+              "questionText": "Am Ende des Berichts nennt die Moderatorin eine Internetseite mit weiteren Informationen.",
               "options": ["richtig", "falsch"],
-              "correctAnswer": "falsch",
-              "explanation": "Die Moderatorin schließt mit: 'Mehr konkrete Reisetipps finden Sie auf unserer Webseite.' Eine Hotline wird nicht erwähnt.",
+              "correctAnswer": "richtig",
+              "explanation": "Die Moderatorin schließt: 'Mehr zum Thema Haustiere im Stadtleben finden Sie auf unserer Website – die Adresse lesen wir nach der Sendung noch einmal vor.' Eine Webseite wird genannt.",
               "audioTimestamp": 198
             }
           ]
@@ -170,66 +170,66 @@
             {
               "id": "B1_m09_L3_q1",
               "type": "mcq",
-              "questionText": "Warum ruft die Frau im Reisebüro an?",
+              "questionText": "Warum geht die Frau zur Tierarztpraxis?",
               "options": [
-                "a) Sie möchte ihre bereits gebuchte Reise stornieren.",
-                "b) Sie möchte wissen, ob ihr Hotel in Italien auch Vegetarier-Essen anbietet.",
-                "c) Sie möchte ein zusätzliches Zimmer für ihre Eltern buchen."
+                "a) Ihre Katze frisst seit zwei Tagen nicht mehr.",
+                "b) Sie möchte ihren Hund impfen lassen.",
+                "c) Ihr Hund hat eine Wunde am Pfoten."
               ],
-              "correctAnswer": "c",
-              "explanation": "Die Frau sagt: 'Wir haben schon gebucht, aber meine Eltern wollen doch mitkommen – können Sie noch ein Doppelzimmer im gleichen Hotel dazubuchen?' Sie fragt also nach einer Zusatzbuchung. Stornieren und Essen werden nicht erwähnt.",
+              "correctAnswer": "a",
+              "explanation": "Die Frau sagt an der Rezeption: 'Meine Katze hat seit zwei Tagen nichts gegessen und wirkt sehr matt – ich mache mir Sorgen.' Impfen und Wunden werden nicht erwähnt. Trap: Option b klingt plausibel als Tierarztbesuch, aber der Dialog nennt eine Katze, kein Impfthema.",
               "audioTimestamp": 17
             },
             {
               "id": "B1_m09_L3_q2",
               "type": "mcq",
-              "questionText": "Worauf einigen sich die beiden Freundinnen am Ende?",
+              "questionText": "Was ist der Hauptgrund dafür, dass das Paar sich kein Haustier anschafft?",
               "options": [
-                "a) Sie fliegen zusammen im Juni nach Barcelona.",
-                "b) Sie machen eine Woche Camping-Urlaub in Österreich.",
-                "c) Sie fahren mit dem Zug zu einer Städtereise nach Prag."
+                "a) Der Vermieter erlaubt keine Tiere in der Wohnung.",
+                "b) Sie reisen oft und haben niemanden für die Betreuung.",
+                "c) Sie sind beide allergisch gegen Tierhaare."
               ],
-              "correctAnswer": "c",
-              "explanation": "Am Schluss sagt Anja: 'Okay, dann nehmen wir den Zug nach Prag – das ist bezahlbar, und wir haben drei Tage in der Stadt.' Flug nach Barcelona (zu teuer) und Camping (Regenwetter) werden verworfen.",
+              "correctAnswer": "b",
+              "explanation": "Der Mann erklärt: 'Wir sind beruflich viel unterwegs – letztens drei Wochen am Stück. Da können wir kein Tier allein lassen, und eine Pflegestelle wäre uns zu aufwendig.' Vermieter und Allergie kommen nicht vor. Trap: Option a ist ein klassischer Hinderungsgrund bei Tierhaltung und klingt naheliegend.",
               "audioTimestamp": 50
             },
             {
               "id": "B1_m09_L3_q3",
               "type": "mcq",
-              "questionText": "Was empfiehlt der Reiseberater dem Kunden?",
+              "questionText": "Was empfiehlt die Tierheimmitarbeiterin der Frau?",
               "options": [
-                "a) eine Zugreise entlang der Mosel mit drei Zwischenstopps",
-                "b) einen individuell geplanten Städte-Trip nach Wien",
-                "c) eine Pauschalreise nach Mallorca für eine Woche"
+                "a) Sie soll zuerst eine ältere Katze probeweise zu sich nehmen.",
+                "b) Sie soll sofort zwei Kätzchen gleichzeitig adoptieren.",
+                "c) Sie soll zunächst am offenen Besuchstag vorbeikommen."
               ],
-              "correctAnswer": "a",
-              "explanation": "Der Berater sagt: 'Wenn Sie die Landschaft genießen möchten und keine Lust auf Flughäfen haben, passt die Zugreise entlang der Mosel perfekt – drei Stationen, überall kleine Hotels.' Die anderen Optionen werden zwar erwähnt, aber nicht empfohlen.",
+              "correctAnswer": "c",
+              "explanation": "Die Mitarbeiterin sagt: 'Am besten kommen Sie erst mal an unserem Besuchstag vorbei – jeden Sonntag von 14 bis 17 Uhr. Dann können Sie die Tiere kennenlernen, bevor Sie sich entscheiden.' Probezeit und Doppelkauf werden nicht empfohlen. Trap: Option a klingt fürsorglich und fachgerecht, wurde aber nicht gesagt.",
               "audioTimestamp": 88
             },
             {
               "id": "B1_m09_L3_q4",
               "type": "mcq",
-              "questionText": "Warum möchte der Mann die Reise um eine Woche verschieben?",
+              "questionText": "Worüber streiten sich die beiden Nachbarn?",
               "options": [
-                "a) Er hat seinen Pass verloren und muss einen neuen beantragen.",
-                "b) Seine Tochter hat Prüfung, und er möchte sie dabei unterstützen.",
-                "c) Er hat seinen Arbeitgeber noch nicht nach Urlaub gefragt."
+                "a) Der Hund des Nachbarn bellt nachts und stört den Schlaf.",
+                "b) Der Hund läuft unangeleint im Treppenhaus herum.",
+                "c) Der Nachbar hat den Hund auf dem Balkon allein gelassen."
               ],
               "correctAnswer": "b",
-              "explanation": "Der Mann erklärt: 'Meine Tochter schreibt in der Woche ihre Abschlussprüfung – ich möchte sie unbedingt dabei unterstützen und danach entspannt in den Urlaub fahren.' Das ist der Grund. Pass und Arbeitgeber werden nicht erwähnt.",
+              "explanation": "Die Frau beschwert sich: 'Ihr Hund ist gestern wieder unkontrolliert durch das Treppenhaus gelaufen – mein Kind hat sich erschrocken.' Bellen und Balkon werden nicht erwähnt. Trap: Option a ist ein häufiger Nachbarschaftskonflikt mit Hunden und daher verlockend.",
               "audioTimestamp": 122
             },
             {
               "id": "B1_m09_L3_q5",
               "type": "mcq",
-              "questionText": "Was ist das größte Problem des Paares mit ihrem Hotel?",
+              "questionText": "Was ist das Ergebnis des Gesprächs zwischen den zwei Freunden?",
               "options": [
-                "a) Das Zimmer liegt direkt an einer lauten Straße.",
-                "b) Das Frühstücksbuffet ist für den Preis zu klein.",
-                "c) Der Pool ist wegen Renovierung geschlossen."
+                "a) Sie kaufen gemeinsam Fischfutter im Zoofachgeschäft.",
+                "b) Der eine übernimmt während des Urlaubs die Pflege des Aquariums.",
+                "c) Sie tauschen ihre Aquariumfische gegeneinander."
               ],
-              "correctAnswer": "a",
-              "explanation": "Die Frau sagt: 'Das Hotel ist wirklich schön, aber unser Zimmer liegt an der Hauptstraße – wir hören die ganze Nacht Autos.' Der Lärm ist das Hauptproblem. Frühstück und Pool werden zwar erwähnt, sind aber nicht kritisch.",
+              "correctAnswer": "b",
+              "explanation": "Am Schluss sagt Jonas: 'Also gut – ich komme jeden zweiten Tag vorbei und füttere die Fische, solange du weg bist.' Fischkauf und Tausch kommen nicht vor. Trap: Option a klingt nach dem, was man vor einem Urlaub tun könnte, aber das wird im Dialog nicht vereinbart.",
               "audioTimestamp": 160
             }
           ]
@@ -244,20 +244,20 @@
           "instructions": "Lesen Sie zuerst die fünf Situationen (1–5) und dann die acht Überschriften (a–h). Welche Überschrift passt zu welcher Situation? Für jede Situation gibt es genau eine passende Überschrift. Drei Überschriften bleiben übrig.",
           "instructionsTranslation": "First read the five situations (1–5) and then the eight headlines (a–h). Which headline matches which situation? For each situation there is exactly one matching headline. Three headlines remain unused.",
           "texts": [
-            { "id": "B1_m09_R1_head_a", "type": "notice", "content": "a) Bahnhof-Aktion: 15 Prozent Rabatt auf alle ICE-Tickets in dieser Woche" },
-            { "id": "B1_m09_R1_head_b", "type": "notice", "content": "b) Neue Fernbus-Linie Hamburg–Prag startet ab 1. Juni" },
-            { "id": "B1_m09_R1_head_c", "type": "notice", "content": "c) Work-and-Travel-Infoabend für Schulabgänger – Dienstag 19 Uhr, Jugendzentrum" },
-            { "id": "B1_m09_R1_head_d", "type": "notice", "content": "d) Wochenend-Pauschale im Wellnesshotel Alpenblick – zwei Nächte, Frühstück, Sauna" },
-            { "id": "B1_m09_R1_head_e", "type": "notice", "content": "e) Camping-Tage: große Sommer-Ausstellung mit Zelten, Caravans und Zubehör" },
-            { "id": "B1_m09_R1_head_f", "type": "notice", "content": "f) Urlaub auf dem Bauernhof – neue Familien-Angebote in Bayern" },
-            { "id": "B1_m09_R1_head_g", "type": "notice", "content": "g) Städtereise-Spezial: drei Tage Wien inklusive Musical-Ticket" },
-            { "id": "B1_m09_R1_head_h", "type": "notice", "content": "h) Reisemedizin-Sprechstunde: Impfberatung vor Fernreisen, Termine online" }
+            { "id": "B1_m09_R1_head_a", "type": "notice", "content": "a) Tierschutzbund ruft zur Spende auf – Tierheim braucht dringend Hilfe" },
+            { "id": "B1_m09_R1_head_b", "type": "notice", "content": "b) Haustier-Versicherung: So schützen Sie Ihr Tier gegen hohe Tierarztkosten" },
+            { "id": "B1_m09_R1_head_c", "type": "notice", "content": "c) Hundeführerschein-Kurs für Kinder – kostenlos beim Hundesportverein" },
+            { "id": "B1_m09_R1_head_d", "type": "notice", "content": "d) Professioneller Hundetransport für Züchter und Tierheime – bundesweit" },
+            { "id": "B1_m09_R1_head_e", "type": "notice", "content": "e) Pferdepension sucht erfahrene Reiterin für Aushilfe" },
+            { "id": "B1_m09_R1_head_f", "type": "notice", "content": "f) Stadtbummel mit Hund – die hundefreundlichsten Cafés und Parks in Berlin" },
+            { "id": "B1_m09_R1_head_g", "type": "notice", "content": "g) Tierarztpraxis sucht medizinische Fachangestellte (m/w/d) für Vollzeitstelle" },
+            { "id": "B1_m09_R1_head_h", "type": "notice", "content": "h) Katze abzugeben – 3-jährige Perserkatze sucht liebevolles Zuhause" }
           ],
           "questions": [
             {
               "id": "B1_m09_R1_q1",
               "type": "matching",
-              "questionText": "1. Paul ist 18 und hat gerade sein Abitur bestanden. Bevor er mit dem Studium anfängt, möchte er ein halbes Jahr im Ausland arbeiten und reisen. Er sucht Informationen dazu.",
+              "questionText": "1. Frau Becker möchte ihrer Tochter (9 Jahre) etwas über den richtigen Umgang mit Hunden beibringen lassen. Die Tochter soll lernen, wie man einen Hund an die Leine nimmt und ihm Befehle gibt.",
               "matchingSources": [
                 { "id": "B1_m09_R1_head_a", "label": "a" },
                 { "id": "B1_m09_R1_head_b", "label": "b" },
@@ -269,13 +269,13 @@
                 { "id": "B1_m09_R1_head_h", "label": "h" }
               ],
               "correctAnswer": "c",
-              "explanation": "Überschrift c) kündigt einen Work-and-Travel-Infoabend für Schulabgänger an – genau das Format und die Zielgruppe für Paul. Die anderen Überschriften betreffen keine Infoveranstaltung zu Arbeiten im Ausland.",
+              "explanation": "Überschrift c) kündigt einen kostenlosen Hundeführerschein-Kurs speziell für Kinder an – genau das, was Frau Becker für ihre Tochter sucht.",
               "pointValue": 5
             },
             {
               "id": "B1_m09_R1_q2",
               "type": "matching",
-              "questionText": "2. Familie Schmidt möchte mit ihren zwei Kindern (5 und 8 Jahre) eine Woche Urlaub auf dem Land machen. Die Kinder sollen Tiere sehen und im Freien spielen können.",
+              "questionText": "2. Herr Vogel hat gerade seinen Job bei einer Tierarztpraxis verloren und sucht eine neue Vollzeitstelle in demselben Bereich. Er ist medizinischer Fachangestellter.",
               "matchingSources": [
                 { "id": "B1_m09_R1_head_a", "label": "a" },
                 { "id": "B1_m09_R1_head_b", "label": "b" },
@@ -286,14 +286,14 @@
                 { "id": "B1_m09_R1_head_g", "label": "g" },
                 { "id": "B1_m09_R1_head_h", "label": "h" }
               ],
-              "correctAnswer": "f",
-              "explanation": "Überschrift f) beschreibt Urlaub auf dem Bauernhof mit Familien-Angeboten in Bayern – ideal für Kinder, die Tiere und Natur erleben wollen.",
+              "correctAnswer": "g",
+              "explanation": "Überschrift g) sucht genau eine medizinische Fachangestellte für eine Vollzeitstelle in einer Tierarztpraxis – die passende Annonce für Herrn Vogel.",
               "pointValue": 5
             },
             {
               "id": "B1_m09_R1_q3",
               "type": "matching",
-              "questionText": "3. Frau Keller und ihr Mann möchten zum Hochzeitstag ein entspanntes Wochenende zu zweit verbringen, inklusive Massage und gutem Frühstück.",
+              "questionText": "3. Familie Sommer macht nächste Woche drei Wochen Urlaub und muss ihre beiden Hunde transportieren lassen. Die Hunde sollen sicher zu einem Bekannten in einer anderen Stadt gebracht werden.",
               "matchingSources": [
                 { "id": "B1_m09_R1_head_a", "label": "a" },
                 { "id": "B1_m09_R1_head_b", "label": "b" },
@@ -305,31 +305,13 @@
                 { "id": "B1_m09_R1_head_h", "label": "h" }
               ],
               "correctAnswer": "d",
-              "explanation": "Überschrift d) bietet eine Wochenend-Pauschale im Wellnesshotel mit Frühstück und Sauna – perfekt für den romantischen Kurzurlaub.",
+              "explanation": "Überschrift d) bietet professionellen Hundetransport bundesweit an – die einzige Option, die den Tiertransport zu einer anderen Person in einer anderen Stadt abdeckt.",
               "pointValue": 5
             },
             {
               "id": "B1_m09_R1_q4",
               "type": "matching",
-              "questionText": "4. Herr Ngoma fährt beruflich oft nach Hamburg und nutzt dafür den Zug. Er möchte einen günstigen Deal für seine nächste Reise.",
-              "matchingSources": [
-                { "id": "B1_m09_R1_head_a", "label": "a" },
-                { "id": "B1_m09_R1_head_b", "label": "b" },
-                { "id": "B1_m09_R1_head_c", "label": "c" },
-                { "id": "B1_m09_R1_head_d", "label": "d" },
-                { "id": "B1_m09_R1_head_e", "label": "e" },
-                { "id": "B1_m09_R1_head_f", "label": "f" },
-                { "id": "B1_m09_R1_head_g", "label": "g" },
-                { "id": "B1_m09_R1_head_h", "label": "h" }
-              ],
-              "correctAnswer": "a",
-              "explanation": "Überschrift a) kündigt 15 Prozent Rabatt auf ICE-Tickets an – genau der Deal, den Herr Ngoma sucht.",
-              "pointValue": 5
-            },
-            {
-              "id": "B1_m09_R1_q5",
-              "type": "matching",
-              "questionText": "5. Frau Berger plant eine Reise nach Thailand und möchte vorher klären, welche Impfungen sie braucht.",
+              "questionText": "4. Lena sucht für ihre alte Perserkatze, die sie wegen Umzug ins Ausland nicht mitnehmen kann, ein neues Zuhause bei einer tierlieben Person oder Familie.",
               "matchingSources": [
                 { "id": "B1_m09_R1_head_a", "label": "a" },
                 { "id": "B1_m09_R1_head_b", "label": "b" },
@@ -341,492 +323,439 @@
                 { "id": "B1_m09_R1_head_h", "label": "h" }
               ],
               "correctAnswer": "h",
-              "explanation": "Überschrift h) bietet eine Reisemedizin-Sprechstunde mit Impfberatung für Fernreisen – exakt das, was Frau Berger vor ihrer Thailand-Reise benötigt.",
+              "explanation": "Überschrift h) gibt eine Perserkatze ab und sucht ein liebevolles Zuhause – genau das, was Lena für ihre Katze benötigt.",
+              "pointValue": 5
+            },
+            {
+              "id": "B1_m09_R1_q5",
+              "type": "matching",
+              "questionText": "5. Thomas wohnt in Berlin und hat einen Hund. An Wochenenden möchte er mit dem Hund durch die Stadt schlendern und in gemütlichen Cafés einkehren. Er sucht Empfehlungen.",
+              "matchingSources": [
+                { "id": "B1_m09_R1_head_a", "label": "a" },
+                { "id": "B1_m09_R1_head_b", "label": "b" },
+                { "id": "B1_m09_R1_head_c", "label": "c" },
+                { "id": "B1_m09_R1_head_d", "label": "d" },
+                { "id": "B1_m09_R1_head_e", "label": "e" },
+                { "id": "B1_m09_R1_head_f", "label": "f" },
+                { "id": "B1_m09_R1_head_g", "label": "g" },
+                { "id": "B1_m09_R1_head_h", "label": "h" }
+              ],
+              "correctAnswer": "f",
+              "explanation": "Überschrift f) handelt vom Stadtbummel mit Hund in Berlin – hundefreundliche Cafés und Parks – genau das, was Thomas sucht.",
               "pointValue": 5
             }
           ]
         },
         {
           "partNumber": 2,
-          "instructions": "Lesen Sie den Zeitungsartikel. Was ist richtig? Kreuzen Sie an: a, b oder c.",
-          "instructionsTranslation": "Read the newspaper article. What is correct? Mark: a, b, or c.",
+          "instructions": "Lesen Sie den folgenden Artikel und lösen Sie die Aufgaben dazu, indem Sie die richtige Antwort (a, b oder c) ankreuzen. Achtung: Die Reihenfolge der Aufgaben folgt nicht immer der Reihenfolge des Textes.",
+          "instructionsTranslation": "Read the following article and solve the tasks by marking the correct answer (a, b, or c). Note: The order of the tasks does not always follow the order of the text.",
           "texts": [
             {
-              "id": "B1_m09_R2_article",
+              "id": "B1_m09_R2_text",
               "type": "article",
-              "content": "Camping-Boom in Deutschland – Warum immer mehr Familien zum Zelt greifen\n\nEine aktuelle Untersuchung des Deutschen Tourismus-Instituts in Berlin zeigt, dass Camping in den letzten Jahren zum beliebtesten Urlaubstrend geworden ist. Rund 38 Prozent der befragten Familien geben an, im vergangenen Sommer mindestens eine Nacht auf einem Campingplatz übernachtet zu haben. Vor fünf Jahren lag dieser Wert noch bei 22 Prozent. Besonders auffällig: Ein großer Teil der neuen Camper hat vorher nie in einem Zelt geschlafen.\n\n'Viele Menschen haben während der Pandemie entdeckt, wie schön Natur vor der Haustür sein kann', erklärt Studienleiterin Dr. Lena Fischer. 'Camping ist günstiger als Hotelurlaub, man ist flexibel, und die Kinder sind sofort beschäftigt.' Die Plätze selbst haben sich stark verändert. Neben klassischen Zeltwiesen gibt es heute moderne Holzhäuschen, Sanitäranlagen mit warmen Duschen und sogar WLAN an fast jedem Platz. Manche Betreiber bieten kleine Kochkurse, Yoga am Morgen oder Kinoabende unter freiem Himmel an.\n\nDie positiven Seiten sind klar. Trotzdem gibt es auch Probleme. 'Viele Plätze sind in der Hauptsaison überfüllt, und die Preise steigen spürbar', räumt Dr. Fischer ein. Wer spontan fährt, findet oft nur noch teure Stellplätze oder muss weit ausweichen. Außerdem gibt es Streit um Lärm: Nicht jeder Gast hält sich an die Ruhezeiten, besonders in den Sommermonaten. Einige Betreiber denken deshalb über getrennte Bereiche für Familien und junge Gäste nach.\n\nTrotz der Herausforderungen empfiehlt Dr. Fischer drei einfache Schritte: Buchen Sie Ihren Wunschplatz am besten schon im März, packen Sie nur das Nötigste ein – die meisten Vergesslichkeiten lassen sich vor Ort kaufen –, und sprechen Sie mit anderen Gästen. Die größten Camping-Freundschaften entstehen, so Dr. Fischer, an der gemeinsamen Spüle. Wer diese Hinweise beachtet, hat sehr gute Chancen auf einen entspannten und bezahlbaren Urlaub mit Geschichten, die man noch Jahre später erzählt.",
-              "source": "Der Tagesspiegel, April 2026"
+              "title": "Tauschring oder Tierheim? Wie Städter ihre Haustierbetreuung organisieren",
+              "content": "Wer in der Stadt ein Haustier hält, kennt das Problem: Ein spontaner Kurzurlaub, ein längerer Arbeitstag oder eine Dienstreise – und schon stellt sich die Frage, wer sich um den Hund oder die Katze kümmert. Professionelle Tierpensionen und Hundesitter sind eine Möglichkeit, doch sie können teuer sein. Viele Stadtbewohner suchen deshalb nach günstigeren oder persönlicheren Lösungen.\n\nEin Modell, das sich in vielen deutschen Städten zunehmend verbreitet, sind sogenannte Haustier-Tauschringe. Ähnlich wie klassische Tauschringe, bei denen Dienstleistungen ohne Geld gegen andere Leistungen eingetauscht werden, funktionieren auch diese Netzwerke auf Gegenseitigkeit. Wer heute auf den Hund der Nachbarin aufpasst, kann morgen bitten, dass jemand anderes die eigene Katze versorgt.\n\nDie Berliner Initiative „Pfoten-Netz\" zählt derzeit über 400 Mitglieder. Die Koordinatorin Jana Diekmann erklärt: „Bei uns ist nicht Geld, sondern Vertrauen die Währung. Die Mitglieder lernen sich zuerst persönlich kennen, bevor Tiere übergeben werden.\" Jede Betreuungsstunde wird auf einem digitalen Konto vermerkt – wer oft hilft, kann häufiger Hilfe abrufen.\n\nDoch das Modell hat auch Schwächen. Anders als bei einer bezahlten Tierpension gibt es keine vertragliche Absicherung. Jana Diekmann räumt ein: „Es passiert manchmal, dass jemand kurzfristig absagt. Das ist dann natürlich schwierig.\" Außerdem müssen alle Mitglieder regelmäßig aktiv bleiben – wer sich über Monate nicht meldet, wird aus dem Netzwerk entfernt.\n\nEine Alternative für Tierbesitzer, die kein Netzwerk aufbauen wollen, sind städtische Tierheime, die neuerdings auch Kurzzeitpflege anbieten. Für einen festen Tagessatz übernehmen ausgebildete Tierpfleger die Betreuung – inklusive medizinischer Grundversorgung. Dieser Service läuft bislang nur als Pilotprojekt in einigen Städten, findet aber regen Zulauf.\n\nEgal ob Tauschring oder Tierpension: Experten raten dazu, die Betreuungsperson immer vorab kennenzulernen – für Tier und Mensch gleichermaßen. Denn ein verunsichertes Tier in fremder Umgebung kann sich genauso schnell erholen, wie es unter Stress leidet."
             }
           ],
           "questions": [
             {
               "id": "B1_m09_R2_q1",
               "type": "mcq",
-              "questionText": "Was ist das zentrale Ergebnis der Studie aus Berlin?",
-              "relatedTextId": "B1_m09_R2_article",
+              "questionText": "6. Was ist das Grundprinzip von Haustier-Tauschringen?",
               "options": [
-                "a) Familien bevorzugen heute klar Hotelurlaube vor Campingplätzen.",
-                "b) Camping ist laut Studie nur in Süddeutschland beliebt geworden.",
-                "c) Die Zahl der Campenden unter Familien hat sich in fünf Jahren fast verdoppelt."
+                "a) Mitglieder zahlen einen monatlichen Beitrag an die Organisation.",
+                "b) Betreuungsleistungen werden gegenseitig ohne Geld ausgetauscht.",
+                "c) Ein professioneller Koordinator organisiert alle Einsätze zentral."
               ],
-              "correctAnswer": "c",
-              "explanation": "Der Text sagt: 'Rund 38 Prozent ... Vor fünf Jahren lag dieser Wert noch bei 22 Prozent.' Das ist fast eine Verdopplung (Option c). Option a widerspricht dem Text, Option b kommt nicht vor.",
+              "correctAnswer": "b",
+              "explanation": "Der Text erklärt: 'Ähnlich wie klassische Tauschringe, bei denen Dienstleistungen ohne Geld gegen andere Leistungen eingetauscht werden, funktionieren auch diese Netzwerke auf Gegenseitigkeit.' Trap für a): Der Text nennt ein digitales Stundenkonto, was wie ein Bezahlsystem klingen kann – aber es ist kein Geldbeitrag.",
               "pointValue": 5
             },
             {
               "id": "B1_m09_R2_q2",
               "type": "mcq",
-              "questionText": "Was nennt Dr. Fischer als Grund für den Camping-Boom?",
-              "relatedTextId": "B1_m09_R2_article",
+              "questionText": "7. Wie viele Mitglieder hat die Initiative 'Pfoten-Netz' in Berlin?",
               "options": [
-                "a) Die Menschen haben während der Pandemie die Natur vor der Haustür entdeckt.",
-                "b) Viele Hotels sind in den letzten Jahren geschlossen worden.",
-                "c) Campingplätze sind grundsätzlich teurer geworden als Pauschalreisen."
+                "a) etwa 300",
+                "b) mehr als 400",
+                "c) genau 450"
               ],
-              "correctAnswer": "a",
-              "explanation": "Dr. Fischer wird zitiert: 'Viele Menschen haben während der Pandemie entdeckt, wie schön Natur vor der Haustür sein kann.' Das ist wörtlich Option a. Option b steht nicht im Text, c widerspricht ihm (Camping ist günstiger).",
+              "correctAnswer": "b",
+              "explanation": "Im Text steht: 'Die Berliner Initiative „Pfoten-Netz\" zählt derzeit über 400 Mitglieder.' Option c) ist eine präzise Zahl, die im Text nicht vorkommt – ein klassischer Präzisionsfallen-Trap.",
               "pointValue": 5
             },
             {
               "id": "B1_m09_R2_q3",
               "type": "mcq",
-              "questionText": "Welches Problem wird im Text ausdrücklich genannt?",
-              "relatedTextId": "B1_m09_R2_article",
+              "questionText": "8. Welchen Nachteil des Tauschrings nennt Jana Diekmann?",
               "options": [
-                "a) Die neuen Sanitäranlagen funktionieren oft nicht richtig.",
-                "b) Es gibt kein WLAN mehr auf den meisten Plätzen.",
-                "c) Viele Plätze sind in der Hauptsaison überfüllt und teurer geworden."
+                "a) Die Mitglieder vertrauen sich gegenseitig nicht.",
+                "b) Manchmal sagen Mitglieder kurzfristig ab.",
+                "c) Das digitale Konto funktioniert oft nicht."
               ],
-              "correctAnswer": "c",
-              "explanation": "Der Text sagt: 'Viele Plätze sind in der Hauptsaison überfüllt, und die Preise steigen spürbar.' Das ist Option c. Die anderen Optionen widersprechen dem Text.",
+              "correctAnswer": "b",
+              "explanation": "Jana Diekmann sagt direkt: 'Es passiert manchmal, dass jemand kurzfristig absagt.' Option a) ist ein Umkehr-Trap: Der Text betont Vertrauen als Stärke, nicht Misstrauen als Schwäche. Option c) wird im Text nicht erwähnt.",
               "pointValue": 5
             },
             {
               "id": "B1_m09_R2_q4",
               "type": "mcq",
-              "questionText": "Worüber denken einige Campingplatz-Betreiber nach?",
-              "relatedTextId": "B1_m09_R2_article",
+              "questionText": "9. Was ist das Besondere am Angebot der städtischen Tierheime laut Text?",
               "options": [
-                "a) die Ruhezeiten komplett abzuschaffen",
-                "b) getrennte Bereiche für Familien und jüngere Gäste einzurichten",
-                "c) nur noch Paare ohne Kinder aufzunehmen"
+                "a) Sie bieten dauerhaft kostenlose Tierpflege für alle Stadtbewohner an.",
+                "b) Sie nehmen Tiere neuerdings auch für kurze Zeit gegen Bezahlung auf.",
+                "c) Sie haben ihre Öffnungszeiten auf 24 Stunden täglich erweitert."
               ],
               "correctAnswer": "b",
-              "explanation": "Der Text sagt: 'Einige Betreiber denken deshalb über getrennte Bereiche für Familien und junge Gäste nach.' Das ist exakt Option b.",
+              "explanation": "Der Text nennt: 'städtische Tierheime, die neuerdings auch Kurzzeitpflege anbieten. Für einen festen Tagessatz übernehmen ausgebildete Tierpfleger die Betreuung.' Option a) ist ein Gegensatz-Trap: 'fester Tagessatz' bedeutet nicht kostenlos. Option c) wird nicht erwähnt.",
               "pointValue": 5
             },
             {
               "id": "B1_m09_R2_q5",
               "type": "mcq",
-              "questionText": "Welche konkrete Empfehlung gibt Dr. Fischer?",
-              "relatedTextId": "B1_m09_R2_article",
+              "questionText": "10. Was empfehlen Experten laut dem Artikel?",
               "options": [
-                "a) Buchen Sie Ihren Wunschplatz möglichst spät, weil dann die Preise sinken.",
-                "b) Buchen Sie Ihren Wunschplatz schon im März.",
-                "c) Fahren Sie ohne feste Buchung los und suchen Sie vor Ort."
+                "a) Tierbesitzer sollen grundsätzlich immer eine professionelle Tierpension buchen.",
+                "b) Man soll die Betreuungsperson immer zuerst persönlich kennenlernen.",
+                "c) Ein Tier soll vor dem Urlaub an Stress gewöhnt werden."
               ],
               "correctAnswer": "b",
-              "explanation": "Der Text listet als ersten Tipp wörtlich: 'Buchen Sie Ihren Wunschplatz am besten schon im März.' Option a widerspricht dem Text, Option c ebenso (spontane Fahrer finden nur teure Plätze).",
+              "explanation": "Am Ende heißt es: 'Experten raten dazu, die Betreuungsperson immer vorab kennenzulernen – für Tier und Mensch gleichermaßen.' Option a) ist ein Übertreibungs-Trap: 'grundsätzlich immer' steht so nicht im Text. Option c) wird nicht erwähnt.",
               "pointValue": 5
             }
           ]
         },
         {
           "partNumber": 3,
-          "instructions": "Sie lesen zehn Situationen (1–10) und zwölf kurze Anzeigen (a–l). Welche Anzeige passt zu welcher Situation? Für jede Situation gibt es genau eine passende Anzeige. Zwei Anzeigen bleiben übrig. Wenn keine Anzeige passt, schreiben Sie 'x'.",
-          "instructionsTranslation": "You read ten situations (1–10) and twelve short advertisements (a–l). Which advertisement matches which situation? For each situation there is exactly one matching advertisement. Two advertisements remain unused. If no advertisement fits, write 'x'.",
+          "instructions": "Lesen Sie zuerst die zehn Situationen (Nr. 11–20) und dann die zwölf Anzeigen (A–L). Welche Anzeige passt zu welcher Situation? Sie können jede Anzeige nur einmal verwenden. Es ist auch möglich, dass es keine passende Anzeige gibt – dann schreiben Sie 0.",
+          "instructionsTranslation": "First read the ten situations (11–20), then the twelve ads (A–L). Which ad matches which situation? You may use each ad only once. If no ad fits, write 0.",
           "texts": [
-            { "id": "B1_m09_R3_ad_a", "type": "ad", "content": "a) Ferienwohnung an der Ostsee – 60 m², zwei Schlafzimmer, 50 Meter zum Strand. Ab 95 € pro Nacht, auch kurze Aufenthalte. kontakt@nordseewinkel.de" },
-            { "id": "B1_m09_R3_ad_b", "type": "ad", "content": "b) Mitfahrgelegenheit München–Berlin jeden Freitag 16 Uhr. 25 € pro Person, nur Nichtraucher. Meldet euch bei Tim: 0151 447 22 81" },
-            { "id": "B1_m09_R3_ad_c", "type": "ad", "content": "c) Fahrradverleih 'Radlust' – Trekkingräder ab 12 €/Tag, E-Bikes 25 €/Tag. Wochenpreise auf Anfrage. Bahnhofstraße 5, Heidelberg." },
-            { "id": "B1_m09_R3_ad_d", "type": "ad", "content": "d) Sprachreise für Studenten – Drei Wochen Barcelona mit Spanisch-Intensivkurs und Gastfamilie. 1.450 €. Juli und August. www.lingua-travel.de" },
-            { "id": "B1_m09_R3_ad_e", "type": "ad", "content": "e) Gebrauchtes Wanderzelt (3-Personen) zu verkaufen – gut erhalten, 80 € VB. Abholung in Köln-Süd. pia_w@mail.de" },
-            { "id": "B1_m09_R3_ad_f", "type": "ad", "content": "f) Reise-Gruppe 50+ – Geführte Busrundreisen durch Italien und Frankreich. Kleine Gruppen, deutschsprachige Leitung. www.seniorreisen-aktiv.de" },
-            { "id": "B1_m09_R3_ad_g", "type": "ad", "content": "g) Haustiersitter gesucht – Familie fährt zwei Wochen weg und sucht liebevolle Betreuung für Katze. 15 €/Tag, Füttern und kurzer Besuch. Tel. 030 552 67 90" },
-            { "id": "B1_m09_R3_ad_h", "type": "ad", "content": "h) Boots-Tour auf dem Rhein – 3 Stunden mit Kaffee und Kuchen, 35 € pro Person. Abfahrt täglich 14 Uhr ab Bingen. www.rhein-boot.de" },
-            { "id": "B1_m09_R3_ad_i", "type": "ad", "content": "i) Ferienhaus in Südtirol – Familienfreundlich, Bergblick, Spielgeräte im Garten. 4 Personen ab 120 € pro Nacht, mind. 3 Nächte. www.huette-suedtirol.de" },
-            { "id": "B1_m09_R3_ad_j", "type": "ad", "content": "j) Work-and-Travel Neuseeland – Beratung und Visum-Hilfe in unserem Büro. Erste Beratung kostenlos, Termine flexibel. info@wat-beratung.de" },
-            { "id": "B1_m09_R3_ad_k", "type": "ad", "content": "k) Flug nach Mallorca – Last-Minute ab 89 € pro Person. Rückflug in 7 Tagen, keine Umbuchung möglich. www.flug-schnell.de" },
-            { "id": "B1_m09_R3_ad_l", "type": "ad", "content": "l) Camping-Platz 'Waldruh' – Ruhige Lage am See, Familienbereich extra, Mietzelte verfügbar. Ab 22 €/Nacht, Strom gegen Aufpreis. www.waldruh-camping.de" }
+            {
+              "id": "B1_m09_R3_adA",
+              "type": "notice",
+              "label": "A",
+              "content": "HUNDEBETREUUNG ZUHAUSE\nIch betreue Ihren Hund liebevoll in meiner eigenen Wohnung – auch über Nacht und am Wochenende. Kleine und mittelgroße Rassen bevorzugt. Referenzen vorhanden.\nKontakt: hundepfote-berlin@mail.de"
+            },
+            {
+              "id": "B1_m09_R3_adB",
+              "type": "notice",
+              "label": "B",
+              "content": "TIERARZTPRAXIS DR. FELBER\nSpezialgebiet: Kleintiere und Heimtiere.\nTermine Mo–Fr 9–18 Uhr, Do bis 20 Uhr.\nNotfallnummer: 0800-TIER-DOC\nKompetent. Einfühlsam. Modern ausgestattet."
+            },
+            {
+              "id": "B1_m09_R3_adC",
+              "type": "notice",
+              "label": "C",
+              "content": "TIERHEIM MARIENFELDE\nWir geben ab: Katzen, Hunde, Kleintiere.\nAdoptionsgebühr: 50–150 €.\nÖffnungszeiten: Di–So 12–17 Uhr.\nKinderfreundliche Vermittlung – Beratung inklusive."
+            },
+            {
+              "id": "B1_m09_R3_adD",
+              "type": "notice",
+              "label": "D",
+              "content": "KATZE ABZUGEBEN\nKastrierter Kater, 5 Jahre, sehr verschmust, sucht ruhiges Zuhause ohne Hund.\nNur an Nichtraucher. Schutzgebühr 30 €.\nInfo: Tel. 030-556781"
+            },
+            {
+              "id": "B1_m09_R3_adE",
+              "type": "notice",
+              "label": "E",
+              "content": "HUNDETRAINING BERLIN-MITTE\nEinzel- und Gruppentraining für alle Rassen.\nAnti-Aggressionskurs, Welpengruppe, Gehorsamkeit.\nErstes Schnupperstunde kostenlos!\nTermine: hundetraining-berlin.de"
+            },
+            {
+              "id": "B1_m09_R3_adF",
+              "type": "notice",
+              "label": "F",
+              "content": "TIERFUTTER FRISCH & NATÜRLICH\nSpezialnahrung für Hunde und Katzen.\nGetreidefrei, ohne Zusatzstoffe.\nOnlineshop mit Lieferung in 1–2 Werktagen.\nGratismuster auf Anfrage: www.tierfutter-natural.de"
+            },
+            {
+              "id": "B1_m09_R3_adG",
+              "type": "notice",
+              "label": "G",
+              "content": "PFERDEPENSION AM WALDRAND\n12 Boxen, Reitplatz, Weide.\nEinzelunterricht für Anfänger und Fortgeschrittene.\nReitlager in den Sommerferien für Kinder (8–14 J.)\nInfo: pferdepension-waldrand.de"
+            },
+            {
+              "id": "B1_m09_R3_adH",
+              "type": "notice",
+              "label": "H",
+              "content": "AQUARISTIK-CENTER NEPTUN\nGroßes Sortiment: Süß- und Meerwasserfische, Aquarienpflanzen, Technik.\nFachberatung inkl. Wasseranalyse kostenlos.\nÖffnungszeiten: Mo–Sa 10–19 Uhr\nNeptunstr. 14, 10437 Berlin"
+            },
+            {
+              "id": "B1_m09_R3_adI",
+              "type": "notice",
+              "label": "I",
+              "content": "VOGELPENSION FEDERWELT\nWir betreuen Ihre Papageien, Sittiche und Kanarienvögel während Ihres Urlaubs.\nEinzelhaltung garantiert. Tierärztliche Aufsicht.\nAnmeldung mindestens eine Woche im Voraus."
+            },
+            {
+              "id": "B1_m09_R3_adJ",
+              "type": "notice",
+              "label": "J",
+              "content": "TIERFOTOGRAF MICHAEL BRAND\nProfessionelle Fotos von Ihrem Haustier im Studio oder bei Ihnen zu Hause.\nPakete ab 89 €. Alle Bilder digital + 3 Ausdrucke.\nTerminbuchung: michael-brand-foto.de"
+            },
+            {
+              "id": "B1_m09_R3_adK",
+              "type": "notice",
+              "label": "K",
+              "content": "HUNDETRANSPORT DEUTSCHLAND\nTiergerechter Transport von Hunden bundesweit.\nSpeziell für Züchter, Tierheime und Privatpersonen.\nGekühlt, klimatisiert, mit GPS-Tracking.\nKontakt: info@hundetransport-de.de"
+            },
+            {
+              "id": "B1_m09_R3_adL",
+              "type": "notice",
+              "label": "L",
+              "content": "PET-SITTING PAULINA\nIch komme zu Ihnen nach Hause und betreue Hund, Katze oder Kleintier.\nZwei Besuche täglich, Gassi inklusive.\nKrankenversicherung vorhanden. Referenzen auf Anfrage."
+            }
           ],
           "questions": [
             {
               "id": "B1_m09_R3_q1",
               "type": "matching",
-              "questionText": "1. Herr Meier möchte zwei Wochen nach Bali fliegen. Seine Katze soll in der Zeit zu Hause bleiben, aber täglich kurz versorgt werden.",
-              "matchingSources": [
-                { "id": "B1_m09_R3_ad_a", "label": "a" }, { "id": "B1_m09_R3_ad_b", "label": "b" },
-                { "id": "B1_m09_R3_ad_c", "label": "c" }, { "id": "B1_m09_R3_ad_d", "label": "d" },
-                { "id": "B1_m09_R3_ad_e", "label": "e" }, { "id": "B1_m09_R3_ad_f", "label": "f" },
-                { "id": "B1_m09_R3_ad_g", "label": "g" }, { "id": "B1_m09_R3_ad_h", "label": "h" },
-                { "id": "B1_m09_R3_ad_i", "label": "i" }, { "id": "B1_m09_R3_ad_j", "label": "j" },
-                { "id": "B1_m09_R3_ad_k", "label": "k" }, { "id": "B1_m09_R3_ad_l", "label": "l" }
-              ],
-              "correctAnswer": "g",
-              "explanation": "Anzeige g) sucht einen Haustiersitter für eine Katze, der füttert und kurz vorbeikommt – genau Herrn Meiers Bedarf.",
-              "pointValue": 2.5
+              "questionText": "11. Ihr Nachbar fährt für zwei Wochen in den Urlaub. Er hat zwei Katzen und sucht jemanden, der täglich zu ihm nach Hause kommt und die Tiere versorgt.",
+              "correctAnswer": "L",
+              "explanation": "Anzeige L bietet Pet-Sitting zu Hause an, zwei Besuche täglich – genau das, was der Nachbar für seine Katzen braucht.",
+              "pointValue": 5
             },
             {
               "id": "B1_m09_R3_q2",
               "type": "matching",
-              "questionText": "2. Maria studiert und möchte in den Semesterferien drei Wochen Spanisch lernen und gleichzeitig eine Stadt im Süden entdecken.",
-              "matchingSources": [
-                { "id": "B1_m09_R3_ad_a", "label": "a" }, { "id": "B1_m09_R3_ad_b", "label": "b" },
-                { "id": "B1_m09_R3_ad_c", "label": "c" }, { "id": "B1_m09_R3_ad_d", "label": "d" },
-                { "id": "B1_m09_R3_ad_e", "label": "e" }, { "id": "B1_m09_R3_ad_f", "label": "f" },
-                { "id": "B1_m09_R3_ad_g", "label": "g" }, { "id": "B1_m09_R3_ad_h", "label": "h" },
-                { "id": "B1_m09_R3_ad_i", "label": "i" }, { "id": "B1_m09_R3_ad_j", "label": "j" },
-                { "id": "B1_m09_R3_ad_k", "label": "k" }, { "id": "B1_m09_R3_ad_l", "label": "l" }
-              ],
-              "correctAnswer": "d",
-              "explanation": "Anzeige d) bietet eine dreiwöchige Sprachreise nach Barcelona mit Intensivkurs – genau das, was Maria sucht.",
-              "pointValue": 2.5
+              "questionText": "12. Herr Mayer möchte für seinen aggressiven Retriever ein professionelles Verhaltenstraining buchen. Der Hund reagiert auf andere Hunde im Park aggressiv.",
+              "correctAnswer": "E",
+              "explanation": "Anzeige E bietet einen Anti-Aggressionskurs für alle Rassen an – passend für einen aggressiven Hund.",
+              "pointValue": 5
             },
             {
               "id": "B1_m09_R3_q3",
               "type": "matching",
-              "questionText": "3. Frau Brandt möchte im Sommer eine Woche an der Ostsee verbringen, ganz spontan und auch für nur ein paar Nächte.",
-              "matchingSources": [
-                { "id": "B1_m09_R3_ad_a", "label": "a" }, { "id": "B1_m09_R3_ad_b", "label": "b" },
-                { "id": "B1_m09_R3_ad_c", "label": "c" }, { "id": "B1_m09_R3_ad_d", "label": "d" },
-                { "id": "B1_m09_R3_ad_e", "label": "e" }, { "id": "B1_m09_R3_ad_f", "label": "f" },
-                { "id": "B1_m09_R3_ad_g", "label": "g" }, { "id": "B1_m09_R3_ad_h", "label": "h" },
-                { "id": "B1_m09_R3_ad_i", "label": "i" }, { "id": "B1_m09_R3_ad_j", "label": "j" },
-                { "id": "B1_m09_R3_ad_k", "label": "k" }, { "id": "B1_m09_R3_ad_l", "label": "l" }
-              ],
-              "correctAnswer": "a",
-              "explanation": "Anzeige a) bietet eine Ferienwohnung an der Ostsee, auch für kurze Aufenthalte. Genau Frau Brandts Wunsch.",
-              "pointValue": 2.5
+              "questionText": "13. Frau Ziegler möchte professionelle Fotos von ihrer Katze machen lassen – am liebsten bei ihr zu Hause, damit die Katze nicht gestresst ist.",
+              "correctAnswer": "J",
+              "explanation": "Anzeige J bietet Tierfotografie im Studio oder beim Kunden zuhause an – die einzige Option für professionelle Haustierfotos.",
+              "pointValue": 5
             },
             {
               "id": "B1_m09_R3_q4",
               "type": "matching",
-              "questionText": "4. Herr Schulze ist 62 Jahre alt und reist am liebsten in Gruppen mit deutscher Reiseleitung. Er würde gerne Italien und Frankreich per Bus entdecken.",
-              "matchingSources": [
-                { "id": "B1_m09_R3_ad_a", "label": "a" }, { "id": "B1_m09_R3_ad_b", "label": "b" },
-                { "id": "B1_m09_R3_ad_c", "label": "c" }, { "id": "B1_m09_R3_ad_d", "label": "d" },
-                { "id": "B1_m09_R3_ad_e", "label": "e" }, { "id": "B1_m09_R3_ad_f", "label": "f" },
-                { "id": "B1_m09_R3_ad_g", "label": "g" }, { "id": "B1_m09_R3_ad_h", "label": "h" },
-                { "id": "B1_m09_R3_ad_i", "label": "i" }, { "id": "B1_m09_R3_ad_j", "label": "j" },
-                { "id": "B1_m09_R3_ad_k", "label": "k" }, { "id": "B1_m09_R3_ad_l", "label": "l" }
-              ],
-              "correctAnswer": "f",
-              "explanation": "Anzeige f) bietet geführte Busrundreisen 50+ durch Italien und Frankreich mit deutschsprachiger Leitung – ideal für Herrn Schulze.",
-              "pointValue": 2.5
+              "questionText": "14. Familie Reuter sucht einen Tierarzt, der auch abends noch Termine anbietet, weil die Eltern tagsüber berufstätig sind.",
+              "correctAnswer": "B",
+              "explanation": "Anzeige B nennt Donnerstagabend bis 20 Uhr – der einzige Abendtermin im Angebot.",
+              "pointValue": 5
             },
             {
               "id": "B1_m09_R3_q5",
               "type": "matching",
-              "questionText": "5. Lea möchte im Urlaub in Heidelberg drei Tage lang ein Rad leihen, um die Gegend entlang des Neckars zu erkunden.",
-              "matchingSources": [
-                { "id": "B1_m09_R3_ad_a", "label": "a" }, { "id": "B1_m09_R3_ad_b", "label": "b" },
-                { "id": "B1_m09_R3_ad_c", "label": "c" }, { "id": "B1_m09_R3_ad_d", "label": "d" },
-                { "id": "B1_m09_R3_ad_e", "label": "e" }, { "id": "B1_m09_R3_ad_f", "label": "f" },
-                { "id": "B1_m09_R3_ad_g", "label": "g" }, { "id": "B1_m09_R3_ad_h", "label": "h" },
-                { "id": "B1_m09_R3_ad_i", "label": "i" }, { "id": "B1_m09_R3_ad_j", "label": "j" },
-                { "id": "B1_m09_R3_ad_k", "label": "k" }, { "id": "B1_m09_R3_ad_l", "label": "l" }
-              ],
-              "correctAnswer": "c",
-              "explanation": "Anzeige c) bietet einen Fahrradverleih in Heidelberg mit Tages- und Wochenpreisen – perfekt für Lea.",
-              "pointValue": 2.5
+              "questionText": "15. Emilia ist 11 Jahre alt und möchte im Sommer Reitenlernen. Ihre Eltern suchen ein Angebot speziell für Kinder.",
+              "correctAnswer": "G",
+              "explanation": "Anzeige G bietet Reitlager in den Sommerferien für Kinder zwischen 8 und 14 Jahren an.",
+              "pointValue": 5
             },
             {
               "id": "B1_m09_R3_q6",
               "type": "matching",
-              "questionText": "6. Familie Kaya plant eine Woche Sommerurlaub mit zwei kleinen Kindern in den Bergen. Sie möchten ein Haus mit Spielmöglichkeiten für die Kleinen.",
-              "matchingSources": [
-                { "id": "B1_m09_R3_ad_a", "label": "a" }, { "id": "B1_m09_R3_ad_b", "label": "b" },
-                { "id": "B1_m09_R3_ad_c", "label": "c" }, { "id": "B1_m09_R3_ad_d", "label": "d" },
-                { "id": "B1_m09_R3_ad_e", "label": "e" }, { "id": "B1_m09_R3_ad_f", "label": "f" },
-                { "id": "B1_m09_R3_ad_g", "label": "g" }, { "id": "B1_m09_R3_ad_h", "label": "h" },
-                { "id": "B1_m09_R3_ad_i", "label": "i" }, { "id": "B1_m09_R3_ad_j", "label": "j" },
-                { "id": "B1_m09_R3_ad_k", "label": "k" }, { "id": "B1_m09_R3_ad_l", "label": "l" }
-              ],
-              "correctAnswer": "i",
-              "explanation": "Anzeige i) bietet ein Ferienhaus in Südtirol mit Bergblick und Spielgeräten im Garten – genau das, was Familie Kaya sucht.",
-              "pointValue": 2.5
+              "questionText": "16. Ein Züchter muss drei Hunde von München nach Hamburg bringen und sucht eine professionelle Transportmöglichkeit.",
+              "correctAnswer": "K",
+              "explanation": "Anzeige K bietet bundesweiten Hundetransport speziell für Züchter und Tierheime an.",
+              "pointValue": 5
             },
             {
               "id": "B1_m09_R3_q7",
               "type": "matching",
-              "questionText": "7. Herr Bauer hat letztes Jahr in Berlin studiert und sucht günstige und regelmäßige Fahrgelegenheiten nach München, um seine Eltern zu besuchen.",
-              "matchingSources": [
-                { "id": "B1_m09_R3_ad_a", "label": "a" }, { "id": "B1_m09_R3_ad_b", "label": "b" },
-                { "id": "B1_m09_R3_ad_c", "label": "c" }, { "id": "B1_m09_R3_ad_d", "label": "d" },
-                { "id": "B1_m09_R3_ad_e", "label": "e" }, { "id": "B1_m09_R3_ad_f", "label": "f" },
-                { "id": "B1_m09_R3_ad_g", "label": "g" }, { "id": "B1_m09_R3_ad_h", "label": "h" },
-                { "id": "B1_m09_R3_ad_i", "label": "i" }, { "id": "B1_m09_R3_ad_j", "label": "j" },
-                { "id": "B1_m09_R3_ad_k", "label": "k" }, { "id": "B1_m09_R3_ad_l", "label": "l" }
-              ],
-              "correctAnswer": "b",
-              "explanation": "Anzeige b) bietet eine regelmäßige Mitfahrgelegenheit München–Berlin (Freitag) für 25 € – ideal für Herrn Bauers wiederkehrende Fahrten.",
-              "pointValue": 2.5
+              "questionText": "17. Herr Brandt interessiert sich für Süßwasserfische und möchte ein Aquarium einrichten. Er braucht Fachberatung und Pflanzen.",
+              "correctAnswer": "H",
+              "explanation": "Anzeige H ist ein Aquaristik-Center mit Süßwasserfischen, Pflanzen und kostenloser Fachberatung.",
+              "pointValue": 5
             },
             {
               "id": "B1_m09_R3_q8",
               "type": "matching",
-              "questionText": "8. Frau Özdemir möchte nach dem Abitur ein halbes Jahr in Neuseeland arbeiten. Sie braucht Hilfe beim Visum und eine Beratung.",
-              "matchingSources": [
-                { "id": "B1_m09_R3_ad_a", "label": "a" }, { "id": "B1_m09_R3_ad_b", "label": "b" },
-                { "id": "B1_m09_R3_ad_c", "label": "c" }, { "id": "B1_m09_R3_ad_d", "label": "d" },
-                { "id": "B1_m09_R3_ad_e", "label": "e" }, { "id": "B1_m09_R3_ad_f", "label": "f" },
-                { "id": "B1_m09_R3_ad_g", "label": "g" }, { "id": "B1_m09_R3_ad_h", "label": "h" },
-                { "id": "B1_m09_R3_ad_i", "label": "i" }, { "id": "B1_m09_R3_ad_j", "label": "j" },
-                { "id": "B1_m09_R3_ad_k", "label": "k" }, { "id": "B1_m09_R3_ad_l", "label": "l" }
-              ],
-              "correctAnswer": "j",
-              "explanation": "Anzeige j) bietet Work-and-Travel-Beratung für Neuseeland inklusive Visum-Hilfe – exakt Frau Özdemirs Bedarf.",
-              "pointValue": 2.5
+              "questionText": "18. Frau Koch fährt nächste Woche für zwei Wochen nach Spanien. Sie hat einen Wellensittich und sucht eine Unterkunft, wo er während ihrer Abwesenheit gut betreut wird.",
+              "correctAnswer": "I",
+              "explanation": "Anzeige I ist die Vogelpension Federwelt – sie betreut Sittiche und andere Vögel während des Urlaubs.",
+              "pointValue": 5
             },
             {
               "id": "B1_m09_R3_q9",
               "type": "matching",
-              "questionText": "9. Familie Berger möchte im Sommerurlaub auf einem ruhigen Campingplatz am See stehen, am liebsten ohne eigenes Zelt mitschleppen zu müssen.",
-              "matchingSources": [
-                { "id": "B1_m09_R3_ad_a", "label": "a" }, { "id": "B1_m09_R3_ad_b", "label": "b" },
-                { "id": "B1_m09_R3_ad_c", "label": "c" }, { "id": "B1_m09_R3_ad_d", "label": "d" },
-                { "id": "B1_m09_R3_ad_e", "label": "e" }, { "id": "B1_m09_R3_ad_f", "label": "f" },
-                { "id": "B1_m09_R3_ad_g", "label": "g" }, { "id": "B1_m09_R3_ad_h", "label": "h" },
-                { "id": "B1_m09_R3_ad_i", "label": "i" }, { "id": "B1_m09_R3_ad_j", "label": "j" },
-                { "id": "B1_m09_R3_ad_k", "label": "k" }, { "id": "B1_m09_R3_ad_l", "label": "l" }
-              ],
-              "correctAnswer": "l",
-              "explanation": "Anzeige l) beschreibt den Campingplatz 'Waldruh' am See mit Familienbereich und Mietzelten – perfekt für Familie Berger.",
-              "pointValue": 2.5
+              "questionText": "19. Sie suchen für Ihre Wohnung eine Katze, die kinderfreundlich und ruhig ist. Sie möchten sie aus einem Tierheim adoptieren.",
+              "correctAnswer": "C",
+              "explanation": "Anzeige C beschreibt das Tierheim Marienfelde: kinderfreundliche Vermittlung von Katzen mit Beratung.",
+              "pointValue": 5
             },
             {
               "id": "B1_m09_R3_q10",
               "type": "matching",
-              "questionText": "10. Opa und Oma Fischer möchten ihren Enkeln zum Geburtstag einen halbtägigen Ausflug auf dem Rhein schenken, inklusive Kaffee und Kuchen.",
-              "matchingSources": [
-                { "id": "B1_m09_R3_ad_a", "label": "a" }, { "id": "B1_m09_R3_ad_b", "label": "b" },
-                { "id": "B1_m09_R3_ad_c", "label": "c" }, { "id": "B1_m09_R3_ad_d", "label": "d" },
-                { "id": "B1_m09_R3_ad_e", "label": "e" }, { "id": "B1_m09_R3_ad_f", "label": "f" },
-                { "id": "B1_m09_R3_ad_g", "label": "g" }, { "id": "B1_m09_R3_ad_h", "label": "h" },
-                { "id": "B1_m09_R3_ad_i", "label": "i" }, { "id": "B1_m09_R3_ad_j", "label": "j" },
-                { "id": "B1_m09_R3_ad_k", "label": "k" }, { "id": "B1_m09_R3_ad_l", "label": "l" }
-              ],
-              "correctAnswer": "h",
-              "explanation": "Anzeige h) bietet eine dreistündige Boots-Tour auf dem Rhein mit Kaffee und Kuchen – exakt das Geschenk, das die Großeltern suchen. Übrig bleiben e) (Zeltverkauf) und k) (Last-Minute-Flug) als Distraktoren.",
-              "pointValue": 2.5
+              "questionText": "20. Ihr Hund leidet unter Allergien und darf kein herkömmliches Fertigfutter fressen. Sie suchen getreidefreies Hundefutter ohne Zusatzstoffe.",
+              "correctAnswer": "F",
+              "explanation": "Anzeige F bietet speziell getreidefreies, zusatzstofffreies Tierfutter für Hunde an.",
+              "pointValue": 5
             }
           ]
         }
       ]
     },
     "sprachbausteine": {
+      "totalTimeMinutes": 15,
       "parts": [
         {
           "partNumber": 1,
-          "instructions": "Lesen Sie den folgenden Text und entscheiden Sie, welches Wort (a, b oder c) in die Lücke passt. Es gibt jeweils nur eine richtige Lösung.",
-          "text": "Lieber Stefan,\n\nwie geht es dir? Ich muss dir unbedingt von meiner letzten Reise erzählen. Seit drei Wochen bin ich zurück __(1)__ einem Monat in Portugal, und ich bin wirklich froh, __(2)__ ich mich damals für dieses Land entschieden habe. Mein Reisepartner, __(3)__ ich erst vor Ort kennengelernt habe, war eine wunderbare Begleitung. __(4)__ wir anfangs nicht dieselbe Sprache gesprochen haben, haben wir uns super verstanden.\n\nIn Lissabon haben wir viel erlebt. Unser Hostel __(5)__ von einer netten Familie geführt, und die Gastgeber haben uns viele Tipps gegeben. Wenn ich mehr Urlaubstage __(6)__, würde ich unbedingt noch einmal zurückfliegen – vielleicht im nächsten Herbst.\n\nAm Wochenende gehe ich übrigens oft mit meiner Schwester __(7)__ Fahrradausflug ins Umland. Letzten Sonntag __(8)__ wir bis zu einem kleinen See gefahren und haben dort gepicknickt. Hoffentlich schaffst du es bald, mich zu besuchen – ich würde mich wirklich __(9)__ freuen! Übrigens: Bei der Rückfahrt habe ich im Zug deinen Cousin Matthias getroffen. Er hat mir erzählt, dass er gerade __(10)__ längsten Urlaub seines Lebens plant.\n\nIch freue mich auf deine Antwort.\n\nLiebe Grüße,\nPaula",
-          "questions": [
+          "instructions": "Lesen Sie den folgenden Text und kreuzen Sie für jede Lücke das richtige Wort (a, b oder c) an.",
+          "instructionsTranslation": "Read the following text and mark the correct word (a, b, or c) for each gap.",
+          "texts": [
             {
-              "blankNumber": 1,
-              "type": "mcq",
-              "options": ["a) nach", "b) von", "c) seit"],
+              "id": "B1_m09_SB1_text",
+              "type": "letter",
+              "content": "Sehr geehrte Damen und Herren,\n\nmit diesem Schreiben möchte ich mich (0) eine Stelle als Tierpfleger in Ihrer Einrichtung bewerben. Ich habe (21) meiner Ausbildung als Zootierpfleger umfangreiche Erfahrungen (22) der Pflege und Betreuung verschiedener Tierarten gesammelt.\n\nDerzeit bin ich (23) einem städtischen Tierheim tätig, wo ich für die tägliche Versorgung der Tiere sowie für die Beratung von Interessenten (24) bin. Zu meinen Aufgaben gehört außerdem die Reinigung und Instandhaltung der Gehege.\n\nIch lege großen Wert darauf, dass die Tiere nicht (25) medizinisch, sondern auch seelisch gut betreut werden. (26) diesem Grund engagiere ich mich auch in meiner Freizeit beim lokalen Tierschutzverein.\n\nFür eventuelle Rückfragen stehe ich Ihnen (27) gerne zur Verfügung. Ich würde mich sehr freuen, (28) ich die Möglichkeit hätte, mich in einem persönlichen Gespräch vorzustellen.\n\nIch bitte Sie (29) die Berücksichtigung meiner Bewerbung und verbleibe\n\nmit freundlichen Grüßen\n\nKlaus Berger\n\nAnlage: Lebenslauf (30) Zeugnisse"
+            }
+          ],
+          "wordBankOrChoices": [
+            {
+              "gapNumber": 0,
+              "options": ["a) für", "b) um", "c) an"],
               "correctAnswer": "b",
-              "explanation": "Die feste Verbindung 'zurück von' + Dativ bezeichnet die Rückkehr aus einer Reise: 'Ich bin zurück von einem Monat in Portugal.' 'nach' würde Ziel/Richtung ausdrücken, 'seit' eine Zeitdauer.",
-              "pointValue": 1.5
+              "explanation": "Man bewirbt sich 'um' eine Stelle – feste Präpositionalverbindung: sich bewerben um."
             },
             {
-              "blankNumber": 2,
-              "type": "mcq",
-              "options": ["a) ob", "b) dass", "c) weil"],
+              "gapNumber": 21,
+              "options": ["a) während", "b) bei", "c) in"],
+              "correctAnswer": "a",
+              "explanation": "'Während meiner Ausbildung' ist die korrekte zeitliche Angabe. 'Bei meiner Ausbildung' wäre umgangssprachlich; 'in meiner Ausbildung' ist nicht standardkonform."
+            },
+            {
+              "gapNumber": 22,
+              "options": ["a) für", "b) in", "c) bei"],
               "correctAnswer": "b",
-              "explanation": "Der Hauptsatz 'Ich bin froh, ...' verlangt einen dass-Satz. 'ob' ist indirekte Frage, 'weil' ein Grundsatz.",
-              "pointValue": 1.5
+              "explanation": "'Erfahrungen in der Pflege' – der Bereich wird mit 'in' angeschlossen. 'Bei' wäre kolloquial, 'für' passt semantisch nicht."
             },
             {
-              "blankNumber": 3,
-              "type": "mcq",
-              "options": ["a) den", "b) der", "c) dem"],
-              "correctAnswer": "a",
-              "explanation": "Relativsatz: 'Mein Reisepartner, den ich kennengelernt habe'. Das Relativpronomen bezieht sich auf 'Reisepartner' (Maskulinum) und ist direktes Objekt → Akkusativ Maskulinum: 'den'.",
-              "pointValue": 1.5
-            },
-            {
-              "blankNumber": 4,
-              "type": "mcq",
-              "options": ["a) Obwohl", "b) Weil", "c) Trotzdem"],
-              "correctAnswer": "a",
-              "explanation": "Gegensatz zwischen 'nicht dieselbe Sprache' und 'super verstanden' → konzessiv 'obwohl' (Verb am Ende). 'weil' wäre ein Grund, 'trotzdem' verlangt Hauptsatzstellung.",
-              "pointValue": 1.5
-            },
-            {
-              "blankNumber": 5,
-              "type": "mcq",
-              "options": ["a) wurde", "b) hat", "c) war"],
-              "correctAnswer": "a",
-              "explanation": "Passiv Präteritum: 'Das Hostel wurde geführt.' Das Subjekt ('Das Hostel') führt die Handlung nicht selbst aus. 'hat' wäre Aktiv-Perfekt, 'war' Zustandspassiv.",
-              "pointValue": 1.5
-            },
-            {
-              "blankNumber": 6,
-              "type": "mcq",
-              "options": ["a) habe", "b) hätte", "c) hatte"],
-              "correctAnswer": "b",
-              "explanation": "Irreale Bedingung 'Wenn ich mehr Urlaubstage hätte, würde ich ...' → Konjunktiv II 'hätte'. Die Indikativ-Formen passen nicht zur 'würde'-Form.",
-              "pointValue": 1.5
-            },
-            {
-              "blankNumber": 7,
-              "type": "mcq",
-              "options": ["a) zum", "b) auf", "c) zu"],
-              "correctAnswer": "a",
-              "explanation": "Feste Wendung: 'zum Fahrradausflug gehen/fahren' (zu + dem = zum, Dativ). 'auf' passt nicht, 'zu' ohne Artikel ist unvollständig.",
-              "pointValue": 1.5
-            },
-            {
-              "blankNumber": 8,
-              "type": "mcq",
-              "options": ["a) waren", "b) sind", "c) haben"],
-              "correctAnswer": "b",
-              "explanation": "Perfekt von 'fahren' (Bewegung) mit 'sein': 'Wir sind gefahren'. 'haben' ist falsch bei Bewegungsverben, 'waren' wäre Präteritum.",
-              "pointValue": 1.5
-            },
-            {
-              "blankNumber": 9,
-              "type": "mcq",
-              "options": ["a) für mich", "b) mir", "c) mich"],
+              "gapNumber": 23,
+              "options": ["a) an", "b) in", "c) bei"],
               "correctAnswer": "c",
-              "explanation": "Reflexives Verb 'sich freuen' + Akkusativ: 'ich freue mich'. 'mir' wäre Dativ, 'für mich' ist kein Reflexivpronomen.",
-              "pointValue": 1.5
+              "explanation": "'Tätig sein bei einer Einrichtung' – Standardformulierung im Bewerbungsschreiben. 'An' und 'in' passen hier nicht idiomatisch."
             },
             {
-              "blankNumber": 10,
-              "type": "mcq",
-              "options": ["a) dem", "b) das", "c) den"],
+              "gapNumber": 24,
+              "options": ["a) zuständig", "b) verantwortlich", "c) beauftragt"],
+              "correctAnswer": "a",
+              "explanation": "'Zuständig sein für' ist die übliche Formulierung in Stellenbeschreibungen. 'Verantwortlich für' wäre ebenfalls möglich, passt aber weniger zur formalen Struktur des Satzes mit 'bin'."
+            },
+            {
+              "gapNumber": 25,
+              "options": ["a) nur", "b) auch", "c) sowohl"],
+              "correctAnswer": "a",
+              "explanation": "'Nicht nur … sondern auch' – zweiteilige Konjunktion. 'Nicht auch' und 'nicht sowohl' sind keine korrekten Konstruktionen."
+            },
+            {
+              "gapNumber": 26,
+              "options": ["a) Wegen", "b) Aufgrund", "c) Aus"],
               "correctAnswer": "c",
-              "explanation": "'den längsten Urlaub' – direktes Objekt von 'plant' (Akkusativ Maskulinum): 'den'. Die Adjektivendung '-sten' bestätigt die starke Deklination. 'das' wäre Neutrum, 'dem' Dativ.",
-              "pointValue": 1.5
+              "explanation": "'Aus diesem Grund' ist die idiomatische Formulierung. 'Wegen dieses Grundes' und 'Aufgrund dieses Grundes' sind stilistisch unüblich in Bewerbungsschreiben."
+            },
+            {
+              "gapNumber": 27,
+              "options": ["a) jederzeit", "b) manchmal", "c) schon"],
+              "correctAnswer": "a",
+              "explanation": "'Jederzeit zur Verfügung stehen' ist die Standardformel im formellen Brief. 'Manchmal' würde das Gegenteil implizieren."
+            },
+            {
+              "gapNumber": 28,
+              "options": ["a) ob", "b) falls", "c) wenn"],
+              "correctAnswer": "c",
+              "explanation": "'Wenn ich die Möglichkeit hätte' – Konjunktiv II mit 'wenn' für einen höflichen Wunsch. 'Ob' leitet indirekte Fragen ein; 'falls' ist möglich, aber 'wenn' ist im Bewerbungskontext idiomatischer."
+            },
+            {
+              "gapNumber": 29,
+              "options": ["a) um", "b) für", "c) wegen"],
+              "correctAnswer": "a",
+              "explanation": "'Um die Berücksichtigung bitten' – feste Redewendung im Bewerbungsschreiben. 'Für die Berücksichtigung bitten' ist nicht korrekt."
+            },
+            {
+              "gapNumber": 30,
+              "options": ["a) sowie", "b) also", "c) sondern"],
+              "correctAnswer": "a",
+              "explanation": "'Lebenslauf sowie Zeugnisse' – additive Aufzählung im formellen Brief. 'Also' ist kausal, 'sondern' ist adversativ – beide passen nicht."
             }
           ]
         },
         {
           "partNumber": 2,
-          "instructions": "Lesen Sie den folgenden Text. Welches Wort aus der Liste a–o passt in die Lücken? Jedes Wort passt nur einmal. Fünf Wörter bleiben übrig.",
-          "text": "Liebe Paula,\n\nvielen __(11)__ für deine wunderbare Urlaubspost – sie hat mich in die Ferne geträumt! Ich muss dir auch gleich etwas erzählen: Ich war vor zwei Wochen zum ersten Mal alleine unterwegs, einen Zugausflug nach Kopenhagen. Am Anfang war ich ziemlich nervös, aber __(12)__ fühle ich mich richtig bereit für weitere Touren.\n\nIm Zug habe ich lange mit einer älteren Dame __(13)__, die schon die halbe Welt gesehen hat. Sie war eine echte Inspiration – und das Gespräch __(14)__ die Zeit wie im Flug vorübergehen. In Kopenhagen selbst bin ich einfach zu Fuß losgezogen und habe überall Fotos gemacht.\n\nFür die Übernachtung habe ich mich entschieden __(15)__ ein kleines Hostel in der Altstadt. __(16)__ meiner zweiten Nacht gab es dort sogar einen offenen Kochabend – ich habe mit Leuten aus Kanada und Japan gekocht, das war großartig.\n\nNur eines ärgert mich: Meine Fluggesellschaft hat die Preise für den Rückflug im nächsten Monat leider __(17)__. Ich hatte mich schon __(18)__ einen zweiten Trip gefreut, aber jetzt überlege ich __(19)__ doch, lieber mit dem Zug zu fahren. Das dauert länger, aber ich sehe unterwegs mehr und zahle weniger.\n\nKomm mich doch bald einmal besuchen! __(20)__ können wir zusammen eine kleine Tagestour planen und in meinem Lieblingscafé frühstücken.\n\nLiebe Grüße,\nStefan",
-          "questions": [
+          "instructions": "Lesen Sie den folgenden Text und schreiben Sie den richtigen Buchstaben (A–P) in die Tabelle. Sie können jedes Wort nur einmal verwenden. Nicht alle Wörter passen in den Text.",
+          "instructionsTranslation": "Read the following text and write the correct letter (A–P) in the table. You may use each word only once. Not all words fit into the text.",
+          "texts": [
             {
-              "blankNumber": 11,
-              "type": "word_bank",
-              "options": [
-                "a) Dank", "b) inzwischen", "c) gesprochen", "d) ließ", "e) für",
-                "f) In", "g) erhöht", "h) auf", "i) ernsthaft", "j) Dann",
-                "k) herzlichen", "l) nachgedacht", "m) reicht", "n) an", "o) damit"
-              ],
-              "correctAnswer": "a",
-              "explanation": "Standardformel 'vielen Dank' am Briefanfang – 'vielen' verlangt direkt 'Dank'. Distraktor k) 'herzlichen' passt ebenfalls zu 'Dank', aber 'vielen' steht schon und lässt nur 'Dank' ohne weiteres Adjektiv zu.",
-              "pointValue": 1.5
+              "id": "B1_m09_SB2_text",
+              "type": "letter",
+              "content": "Liebe Sarah,\n\nstell dir vor, was mir letzte Woche passiert ist! Du weißt ja, dass ich seit letztem Herbst eine Katze habe – Mia. Ich habe sie (0) dem Tierheim geholt, weil sie so eine traurige Geschichte hatte.\n\nVor drei Tagen hat sie plötzlich angefangen, sehr laut zu miauen – fast die (31) Nacht lang. Ich wurde natürlich nervös und dachte (32) , sie könnte krank sein. Also bin ich direkt zum Tierarzt gefahren.\n\nDer Tierarzt hat Mia gründlich untersucht und mir erklärt, dass es ihr (33) gut geht, aber dass sie viel mehr Beschäftigung (34) . Sie ist nämlich ein sehr (35) Tier und braucht Abwechslung. Er empfahl mir, ihr ein Kletterbrett (36) zu kaufen und mehr Zeit mit ihr zu spielen.\n\nIch habe dann (37) ein großes Klettergerüst für sie besorgt und es (38) Wochenende aufgebaut. Mia war sofort begeistert! Seitdem (39) sie deutlich ruhiger – und ich schlafe (40) besser.\n\nIch schreibe dir das, weil du ja auch überlegst, dir eine Katze anzuschaffen. Mit der richtigen Beschäftigung macht es wirklich viel Spaß!\n\nLiebe Grüße\ndeine\nKatharina"
+            }
+          ],
+          "wordBank": [
+            { "label": "A", "word": "aus" },
+            { "label": "B", "word": "auch" },
+            { "label": "C", "word": "ganze" },
+            { "label": "D", "word": "sofort" },
+            { "label": "E", "word": "zuerst" },
+            { "label": "F", "word": "braucht" },
+            { "label": "G", "word": "aktives" },
+            { "label": "H", "word": "am" },
+            { "label": "I", "word": "noch" },
+            { "label": "J", "word": "ist" },
+            { "label": "K", "word": "außerdem" },
+            { "label": "L", "word": "daran" },
+            { "label": "M", "word": "dabei" },
+            { "label": "N", "word": "viel" },
+            { "label": "O", "word": "wenn" },
+            { "label": "P", "word": "seitdem" }
+          ],
+          "wordBankOrChoices": [
+            {
+              "gapNumber": 0,
+              "correctAnswer": "A",
+              "explanation": "'Aus dem Tierheim holen' – Standardwendung für das Adoptieren eines Tieres."
             },
             {
-              "blankNumber": 12,
-              "type": "word_bank",
-              "options": [
-                "a) Dank", "b) inzwischen", "c) gesprochen", "d) ließ", "e) für",
-                "f) In", "g) erhöht", "h) auf", "i) ernsthaft", "j) Dann",
-                "k) herzlichen", "l) nachgedacht", "m) reicht", "n) an", "o) damit"
-              ],
-              "correctAnswer": "b",
-              "explanation": "Temporales Adverb 'inzwischen' – beschreibt den Wandel vom nervösen Anfang bis jetzt. 'damit' wäre Finalkonnektor und passt nicht.",
-              "pointValue": 1.5
+              "gapNumber": 31,
+              "correctAnswer": "C",
+              "explanation": "'Die ganze Nacht lang' – feste Redewendung mit 'ganz'."
             },
             {
-              "blankNumber": 13,
-              "type": "word_bank",
-              "options": [
-                "a) Dank", "b) inzwischen", "c) gesprochen", "d) ließ", "e) für",
-                "f) In", "g) erhöht", "h) auf", "i) ernsthaft", "j) Dann",
-                "k) herzlichen", "l) nachgedacht", "m) reicht", "n) an", "o) damit"
-              ],
-              "correctAnswer": "c",
-              "explanation": "'Ich habe mit der Dame gesprochen' – Perfekt von 'sprechen mit'. Distraktor l) 'nachgedacht' verlangt 'über' und passt nicht zu 'mit einer Dame'.",
-              "pointValue": 1.5
+              "gapNumber": 32,
+              "correctAnswer": "L",
+              "explanation": "'Daran denken, dass …' – Pronominaladverb 'daran' mit nachfolgendem dass-Satz."
             },
             {
-              "blankNumber": 14,
-              "type": "word_bank",
-              "options": [
-                "a) Dank", "b) inzwischen", "c) gesprochen", "d) ließ", "e) für",
-                "f) In", "g) erhöht", "h) auf", "i) ernsthaft", "j) Dann",
-                "k) herzlichen", "l) nachgedacht", "m) reicht", "n) an", "o) damit"
-              ],
-              "correctAnswer": "d",
-              "explanation": "'Das Gespräch ließ die Zeit vorübergehen' – feste Konstruktion mit 'lassen' (Präteritum). Das Verb 'lassen' steht am Satzende ist 'vorübergehen'. Kein anderes Wort passt grammatisch an diese Position.",
-              "pointValue": 1.5
+              "gapNumber": 33,
+              "correctAnswer": "I",
+              "explanation": "'Es geht ihr noch gut' – Adverb 'noch' verstärkt die Entwarnung durch den Tierarzt."
             },
             {
-              "blankNumber": 15,
-              "type": "word_bank",
-              "options": [
-                "a) Dank", "b) inzwischen", "c) gesprochen", "d) ließ", "e) für",
-                "f) In", "g) erhöht", "h) auf", "i) ernsthaft", "j) Dann",
-                "k) herzlichen", "l) nachgedacht", "m) reicht", "n) an", "o) damit"
-              ],
-              "correctAnswer": "e",
-              "explanation": "Feste Verb+Präposition 'sich entscheiden für + Akkusativ': 'Ich habe mich entschieden für ein Hostel'. 'an' oder 'auf' passen hier nicht.",
-              "pointValue": 1.5
+              "gapNumber": 34,
+              "correctAnswer": "F",
+              "explanation": "'Beschäftigung brauchen' – Prädikat im Nebensatz passt zu 'braucht'."
             },
             {
-              "blankNumber": 16,
-              "type": "word_bank",
-              "options": [
-                "a) Dank", "b) inzwischen", "c) gesprochen", "d) ließ", "e) für",
-                "f) In", "g) erhöht", "h) auf", "i) ernsthaft", "j) Dann",
-                "k) herzlichen", "l) nachgedacht", "m) reicht", "n) an", "o) damit"
-              ],
-              "correctAnswer": "f",
-              "explanation": "Zeitangabe 'In meiner zweiten Nacht' mit Dativ. 'In' am Satzanfang, deshalb großgeschrieben.",
-              "pointValue": 1.5
+              "gapNumber": 35,
+              "correctAnswer": "G",
+              "explanation": "'Ein aktives Tier' – Adjektiv vor Nomen, passend zum Kontext der empfohlenen Beschäftigung."
             },
             {
-              "blankNumber": 17,
-              "type": "word_bank",
-              "options": [
-                "a) Dank", "b) inzwischen", "c) gesprochen", "d) ließ", "e) für",
-                "f) In", "g) erhöht", "h) auf", "i) ernsthaft", "j) Dann",
-                "k) herzlichen", "l) nachgedacht", "m) reicht", "n) an", "o) damit"
-              ],
-              "correctAnswer": "g",
-              "explanation": "'Die Fluggesellschaft hat die Preise erhöht' – übliches Kollokat 'Preise erhöhen'. Partizip II 'erhöht' schließt das Perfekt ab.",
-              "pointValue": 1.5
+              "gapNumber": 36,
+              "correctAnswer": "B",
+              "explanation": "'Auch zu kaufen' – 'auch' als Partikel zur Erweiterung der Empfehlung."
             },
             {
-              "blankNumber": 18,
-              "type": "word_bank",
-              "options": [
-                "a) Dank", "b) inzwischen", "c) gesprochen", "d) ließ", "e) für",
-                "f) In", "g) erhöht", "h) auf", "i) ernsthaft", "j) Dann",
-                "k) herzlichen", "l) nachgedacht", "m) reicht", "n) an", "o) damit"
-              ],
-              "correctAnswer": "h",
-              "explanation": "Feste Verb+Präposition 'sich freuen auf + Akkusativ' (Vorfreude). 'Ich hatte mich auf einen zweiten Trip gefreut.'",
-              "pointValue": 1.5
+              "gapNumber": 37,
+              "correctAnswer": "D",
+              "explanation": "'Sofort ein Klettergerüst besorgt' – Adverb zur schnellen Reaktion."
             },
             {
-              "blankNumber": 19,
-              "type": "word_bank",
-              "options": [
-                "a) Dank", "b) inzwischen", "c) gesprochen", "d) ließ", "e) für",
-                "f) In", "g) erhöht", "h) auf", "i) ernsthaft", "j) Dann",
-                "k) herzlichen", "l) nachgedacht", "m) reicht", "n) an", "o) damit"
-              ],
-              "correctAnswer": "i",
-              "explanation": "Adverb 'ernsthaft' passt: 'Ich überlege ernsthaft' (Intensivierung der Überlegung). Kein anderes Adverb passt an diese Stelle.",
-              "pointValue": 1.5
+              "gapNumber": 38,
+              "correctAnswer": "H",
+              "explanation": "'Am Wochenende aufgebaut' – 'am' mit dem Wochentag als Zeitangabe."
             },
             {
-              "blankNumber": 20,
-              "type": "word_bank",
-              "options": [
-                "a) Dank", "b) inzwischen", "c) gesprochen", "d) ließ", "e) für",
-                "f) In", "g) erhöht", "h) auf", "i) ernsthaft", "j) Dann",
-                "k) herzlichen", "l) nachgedacht", "m) reicht", "n) an", "o) damit"
-              ],
-              "correctAnswer": "j",
-              "explanation": "Satzanfang 'Dann können wir ...' – zeitliche Verknüpfung. Großschreibung am Satzanfang. Übrig bleiben k) herzlichen, l) nachgedacht, m) reicht, n) an, o) damit als Distraktoren.",
-              "pointValue": 1.5
+              "gapNumber": 39,
+              "correctAnswer": "J",
+              "explanation": "'Seitdem ist sie deutlich ruhiger' – Hilfsverb 'ist' im Nebensatz nach 'seitdem'."
+            },
+            {
+              "gapNumber": 40,
+              "correctAnswer": "N",
+              "explanation": "'Viel besser schlafen' – Adverb 'viel' zur Verstärkung des Komparativs."
             }
           ]
         }
@@ -834,40 +763,31 @@
     },
     "writing": {
       "totalTimeMinutes": 30,
-      "tasks": [
+      "parts": [
         {
-          "taskNumber": 1,
-          "type": "letter",
-          "instructions": "Sie haben eine Reise für eine Wanderwoche in den Alpen gebucht. Leider müssen Sie die Reise kurzfristig absagen. Schreiben Sie eine E-Mail an den Reiseveranstalter. Gehen Sie auf alle vier Punkte unten ein. Achten Sie auf eine passende Anrede und einen passenden Gruß. Schreiben Sie ca. 150 Wörter.",
-          "instructionsTranslation": "You have booked a trip for a hiking week in the Alps. Unfortunately, you have to cancel the trip on short notice. Write an email to the tour operator. Address all four points below. Pay attention to appropriate greeting and closing. Write approximately 150 words.",
-          "prompt": "Situation: Sie haben bei der Firma 'Alpen-Aktiv' eine Wanderwoche in den Alpen gebucht, die in drei Wochen startet. Sie müssen leider absagen.\n\nSchreiben Sie eine E-Mail an den Reiseveranstalter. Gehen Sie auf die folgenden vier Punkte ein:\n\n- Grund: Warum müssen Sie die Reise absagen?\n- Rückfrage Kosten: Fragen Sie, ob Sie die bezahlte Anzahlung zurückbekommen oder ob ein anderer Termin möglich wäre.\n- Alternative: Schlagen Sie einen Ersatztermin vor (z.B. im Herbst).\n- Rückfrage Versicherung: Fragen Sie, ob Ihre Reiserücktrittsversicherung hilft oder was Sie dafür tun müssten.\n\nVergessen Sie nicht Anrede, Einleitung und Grußformel. Schreiben Sie ca. 150 Wörter.",
-          "promptTranslation": "Situation: You booked a hiking week in the Alps with the company 'Alpen-Aktiv', which starts in three weeks. You have to cancel.\n\nWrite an email to the tour operator. Address these four points:\n\n- Reason: Why do you have to cancel the trip?\n- Question about costs: Ask whether you get your deposit back or if another date would be possible.\n- Alternative: Suggest a replacement date (e.g. in autumn).\n- Question about insurance: Ask whether your travel cancellation insurance helps or what you would need to do.\n\nDon't forget greeting, introduction, and closing. Write approximately 150 words.",
-          "requiredPoints": [
-            "Grund für die Absage der Reise",
-            "Rückfrage zu Anzahlung / alternativem Termin",
-            "Vorschlag für einen Ersatztermin",
-            "Rückfrage zur Reiserücktrittsversicherung"
+          "partNumber": 1,
+          "instructions": "Sie haben einen Brief von Ihrer Brieffreundin Sofia bekommen. Sofia schreibt, dass sie sich im letzten Urlaub ein kleines Kaninchen zugelegt hat, und fragt Sie, ob Sie auch Haustiere mögen. Schreiben Sie Sofia einen Brief. Schreiben Sie etwas zu allen vier Punkten unten. Überlegen Sie sich eine passende Reihenfolge der Punkte, eine passende Einleitung und einen passenden Schluss. Vergessen Sie nicht Datum und Anrede.",
+          "instructionsTranslation": "You have received a letter from your pen pal Sofia. Sofia writes that she got a small rabbit on her last holiday, and asks whether you like pets too. Write Sofia a letter. Write something about all four points below. Think of a suitable order for the points, a suitable introduction and a suitable conclusion. Don't forget the date and greeting.",
+          "promptLetter": {
+            "from": "Sofia",
+            "content": "Liebe(r) ...,\n\ndanke für deinen letzten Brief – ich habe mich sehr darüber gefreut! Ich muss dir unbedingt erzählen, was ich im Urlaub gemacht habe: Ich war drei Wochen in den Bergen und habe dort zufällig ein winziges Kaninchen gefunden, dem es nicht gut ging. Ich habe es mit nach Hause genommen und ihm den Namen Flecki gegeben. Jetzt ist er mein liebstes Haustier!\n\nHast du eigentlich auch Haustiere? Oder magst du Tiere überhaupt? Ich würde mich freuen, mehr darüber zu erfahren.\n\nLiebe Grüße\ndeine\nSofia"
+          },
+          "bulletPoints": [
+            "Ob Sie Tiere mögen und warum (nicht)",
+            "Welches Tier Sie haben oder haben möchten",
+            "Eine Erfahrung, die Sie mit einem Tier gemacht haben",
+            "Eine Frage an Sofia über Flecki"
           ],
-          "wordCountMin": 130,
-          "wordCountMax": 170,
-          "sampleAnswer": "Sehr geehrte Damen und Herren,\n\nvor zwei Monaten habe ich bei Ihnen die Wanderwoche 'Alpenblick Classic' vom 10. bis 17. Juni gebucht. Leider muss ich Ihnen heute mitteilen, dass ich die Reise absagen muss.\n\nLetzte Woche habe ich mir beim Laufen das Knie verletzt. Mein Arzt hat mir geraten, die nächsten zwei Monate auf Wandern und lange Wege zu verzichten. Unter diesen Umständen ist die gebuchte Reise für mich leider nicht machbar.\n\nMeine erste Frage ist: Gibt es eine Möglichkeit, den bereits gezahlten Betrag auf einen späteren Termin zu übertragen? Ich würde mich sehr freuen, wenn ich die Wanderwoche im Herbst, zum Beispiel Anfang September, nachholen könnte. Das Wetter ist dann auch noch angenehm.\n\nAußerdem habe ich eine Reiserücktrittsversicherung abgeschlossen. Können Sie mir bitte kurz schreiben, welche Unterlagen ich Ihnen schicken muss, damit die Versicherung die Kosten übernimmt?\n\nVielen Dank für Ihr Verständnis und Ihre Rückmeldung.\n\nMit freundlichen Grüßen\nSophie Keller",
-          "scoringCriteria": [
-            {
-              "criterion": "I. Inhaltliche Vollständigkeit",
-              "maxPoints": 15,
-              "description": "Alle vier Leitpunkte (Grund, Kosten/Termin, Ersatztermin, Versicherung) sind klar behandelt. Wird einer dieser Punkte als nicht bearbeitet bewertet (D), erhält der gesamte Text 0 Punkte."
-            },
-            {
-              "criterion": "II. Kommunikative Gestaltung",
-              "maxPoints": 15,
-              "description": "Formelle Anrede ('Sehr geehrte Damen und Herren'), klare Einleitung mit Referenz auf die gebuchte Reise, passende Konnektoren (leider, außerdem, zum Beispiel), formelle Grußformel, sinnvolle Absatzstruktur."
-            },
-            {
-              "criterion": "III. Formale Richtigkeit",
-              "maxPoints": 15,
-              "description": "Grammatik, Rechtschreibung und Wortwahl auf B1-Niveau. Korrekte Verbformen (Perfekt, Konjunktiv II für höfliche Bitten), Satzstellung in Nebensätzen, Kasus nach Präpositionen. Schwere Grammatikfehler, die das Verständnis blockieren, führen zu D (und damit 0 Punkten für den gesamten Text)."
-            }
-          ]
+          "wordCountTarget": "130–170 Wörter",
+          "sampleAnswer": {
+            "text": "Frankfurt, 12. März\n\nLiebe Sofia,\n\nvielen Dank für deinen tollen Brief! Deine Geschichte mit Flecki hat mich sehr berührt – es ist wunderbar, dass du dem kleinen Kaninchen geholfen hast.\n\nIch mag Tiere sehr gerne, vor allem Hunde. Sie sind treu, fröhlich und immer da, wenn man Gesellschaft braucht. Leider darf ich in meiner Wohnung kein Haustier halten, weil mein Vermieter das nicht erlaubt. Am liebsten würde ich mir einen Golden Retriever anschaffen.\n\nEine unvergessliche Erfahrung hatte ich letzten Sommer: Bei meinen Großeltern auf dem Land durfte ich einen Bauernhofhund namens Bruno ausführen. Er hat mich einfach nicht mehr losgelassen – wir waren die ganze Woche unzertrennlich!\n\nJetzt würde ich gerne mehr über Flecki erfahren: Was frisst er am liebsten, und schläft er nachts ruhig?\n\nLiebe Grüße\ndein(e) ...",
+            "wordCount": 152
+          },
+          "scoringCriteria": {
+            "contentPoints": 4,
+            "languagePoints": 4,
+            "totalPoints": 8
+          }
         }
       ]
     },
@@ -877,81 +797,58 @@
       "parts": [
         {
           "partNumber": 1,
-          "type": "introduce",
-          "instructions": "Stellen Sie sich Ihrem Gesprächspartner/Ihrer Gesprächspartnerin vor. Sprechen Sie über sich: Name, Herkunft, Wohnort, Familie, Beruf oder Ausbildung, Hobbys und Sprachen. Stellen Sie anschließend Ihrem Partner/Ihrer Partnerin mindestens zwei Fragen.",
-          "instructionsTranslation": "Introduce yourself to your conversation partner. Talk about: name, origin, place of residence, family, work or education, hobbies, and languages. Afterwards ask your partner at least two questions.",
-          "prompt": "Bitte stellen Sie sich Ihrem Partner / Ihrer Partnerin vor. Sprechen Sie u.a. über:\n- Ihren Namen und Ihre Herkunft\n- Ihren aktuellen Wohnort und seit wann Sie dort leben\n- Ihre Familie\n- Ihren Beruf oder Ihr Studium\n- Ihre Hobbys und Interessen\n- Die Sprachen, die Sie sprechen\n\nStellen Sie danach Ihrem Partner / Ihrer Partnerin mindestens zwei Fragen, um mehr über sie/ihn zu erfahren. Vorbereitungszeit: 20 Minuten für die gesamte mündliche Prüfung.",
-          "sampleResponse": "Guten Tag, mein Name ist Sophie Keller, und ich komme ursprünglich aus Dresden. Seit sechs Jahren wohne ich in Stuttgart, wo ich in einem Reisebüro arbeite und Kundinnen bei Reiseplanungen unterstütze. Meine Familie lebt noch in Dresden – meine Eltern, meine Schwester und ihre zwei Kinder, die ich oft besuche. In meiner Freizeit reise ich leidenschaftlich gerne, am liebsten mit dem Zug durch Europa. Letztes Jahr war ich drei Wochen in Portugal, und im Sommer möchte ich nach Polen. Außerdem lese ich gerne Reiseblogs und plane schon Routen für kommende Ferien. Neben Deutsch spreche ich Englisch flüssig und Französisch auf einem guten Niveau – das hilft mir in vielen Ländern. Gerade lerne ich noch ein bisschen Portugiesisch. Und wie ist das bei dir? Woher kommst du, und wo warst du zuletzt im Urlaub?",
-          "evaluationTips": [
-            "Strukturieren Sie Ihre Vorstellung: Name, Herkunft, Wohnort, Familie, Beruf, Hobbys",
-            "Verwenden Sie Nebensätze mit 'weil', 'der/die', 'wo' – das zeigt B1-Niveau",
-            "Nennen Sie konkrete Details (Stadt, Jahre, Berufsbezeichnung, Reiseziel)",
-            "Stellen Sie W-Fragen, keine Ja/Nein-Fragen",
-            "Reagieren Sie auf die Antworten Ihres Partners mit kurzen Kommentaren",
-            "Verbinden Sie Themen: 'Ich reise gerne, weil ich ...'"
-          ],
-          "keyPhrases": [
-            "Mein Name ist ... und ich komme aus ...",
-            "Seit ... Jahren wohne ich in ...",
-            "Beruflich arbeite ich als ...",
-            "In meiner Freizeit ...",
-            "Neben Deutsch spreche ich ...",
-            "Und wie ist das bei dir/Ihnen?",
-            "Darf ich dich/Sie etwas fragen?"
+          "title": "Kontaktaufnahme",
+          "durationMinutes": 3,
+          "instructions": "Sie möchten Ihre Partnerin / Ihren Partner näher kennenlernen. Stellen Sie Fragen zu folgenden Punkten.",
+          "instructionsTranslation": "You would like to get to know your partner better. Ask questions about the following points.",
+          "prompts": [
+            "Name",
+            "Woher Sie kommen",
+            "Wo und wie Sie wohnen",
+            "Familie und Geschwister",
+            "Wo Sie Deutsch gelernt haben",
+            "Ob Sie schon in anderen Ländern waren",
+            "Was Sie im Moment machen (Schule, Studium, Beruf, Hobbys)"
           ]
         },
         {
           "partNumber": 2,
-          "type": "discussion",
-          "instructions": "Sie erhalten einen kurzen Text zum Thema. Fassen Sie den Inhalt für Ihren Partner zusammen, beantworten Sie die drei Leitfragen, und tauschen Sie Ihre Meinung mit dem Partner aus.",
-          "instructionsTranslation": "You receive a short text on the topic. Summarize the content for your partner, answer the three guiding questions, and exchange your opinions with your partner.",
-          "prompt": "Thema: Reisen und Umwelt\n\nLesen Sie den folgenden kurzen Text:\n\n'Eine aktuelle Umfrage zeigt: Rund 60 Prozent der Deutschen unter 30 Jahren finden nachhaltiges Reisen wichtig. Trotzdem fliegen viele auch nach Mallorca oder Thailand in den Urlaub. Fachleute sagen, dass vor allem der Preis die Entscheidung beeinflusst: Flüge sind oft günstiger als die Bahnfahrt innerhalb Europas.'\n\nLeitfragen:\n1. Fassen Sie kurz den Inhalt des Textes zusammen (in 2–3 Sätzen).\n2. Wie reisen Sie persönlich am liebsten, und warum?\n3. Was müsste Ihrer Meinung nach passieren, damit mehr Menschen umweltfreundlich reisen?\n\nSprechen Sie mit Ihrem Partner/Ihrer Partnerin über das Thema – fragen Sie auch nach seiner/ihrer Meinung.",
-          "sampleResponse": "Der Text sagt, dass rund 60 Prozent der jungen Deutschen nachhaltiges Reisen wichtig finden. Trotzdem fliegen viele ins Ausland, weil Flüge oft günstiger sind als Bahnreisen in Europa.\n\nIch reise selbst am liebsten mit dem Zug. Letztes Jahr war ich zum Beispiel drei Wochen in Portugal – meistens mit Zug und Bus. Das hat länger gedauert als ein Flug, aber ich habe unterwegs viele kleine Städte gesehen. Leider finde ich auch die Preise für die Bahn in Deutschland oft zu hoch.\n\nMeiner Meinung nach müsste der Staat die Zugpreise senken und Kurzstreckenflüge teurer machen. Einerseits ist die Freiheit zu reisen wichtig, andererseits müssen wir aufs Klima achten. Außerdem finde ich, dass Schulen und Firmen mehr Ausflüge mit dem Zug planen sollten – so lernen wir, wie entspannt das sein kann. Wie reist du am liebsten? Nimmst du oft das Flugzeug?",
-          "evaluationTips": [
-            "Beginnen Sie mit einer Zusammenfassung in 2–3 Sätzen, bevor Sie Ihre Meinung äußern",
-            "Nennen Sie konkrete Beispiele aus Ihren eigenen Reisen",
-            "Verwenden Sie Meinungsformulierungen: 'Meiner Meinung nach ...', 'Ich finde, dass ...'",
-            "Gliedern Sie Vor- und Nachteile: 'Einerseits ..., andererseits ...'",
-            "Stellen Sie dem Partner eine offene Rückfrage",
-            "Benutzen Sie Konnektoren wie 'allerdings', 'außerdem', 'deshalb'"
-          ],
-          "keyPhrases": [
-            "Im Text geht es um ...",
-            "Der Text berichtet, dass ...",
-            "Meiner Meinung nach ...",
-            "Ich finde es wichtig, dass ...",
-            "Einerseits ... andererseits ...",
-            "Ein Vorteil/Nachteil ist, dass ...",
-            "Wie siehst du das?",
-            "Stimmst du mir da zu?"
+          "title": "Gespräch über ein Thema: Mensch und Tier",
+          "durationMinutes": 6,
+          "instructions": "Berichten Sie Ihrer Partnerin / Ihrem Partner kurz über die Informationen auf Ihrem Blatt. Hören Sie auch dem Bericht Ihrer Partnerin / Ihres Partners zu. Erzählen Sie danach von Ihren eigenen Erfahrungen und stellen Sie Fragen.",
+          "instructionsTranslation": "Briefly report the information on your card to your partner. Also listen to your partner's report. Then talk about your own experiences and ask questions.",
+          "candidateCards": [
+            {
+              "candidate": "A",
+              "topic": "Mensch und Tier",
+              "stimulus": "Haustiere in deutschen Haushalten\n\nLaut einer aktuellen Umfrage:\n• 34 % aller deutschen Haushalte haben mindestens ein Haustier\n• Beliebteste Haustiere: Katzen (16,7 Mio.), Hunde (10,6 Mio.), Kleintiere (5,4 Mio.)\n• Junge Erwachsene (18–35 J.) kaufen sich häufiger Haustiere als früher\n\nAufgabe: Berichten Sie kurz über diese Informationen. Erzählen Sie dann von Ihren eigenen Erfahrungen mit Haustieren und stellen Sie Ihrer Partnerin / Ihrem Partner Fragen.",
+              "taskDescription": "Berichten Sie kurz über die Grafik. Erzählen Sie danach von persönlichen Erfahrungen und stellen Sie Fragen."
+            },
+            {
+              "candidate": "B",
+              "topic": "Mensch und Tier",
+              "stimulus": "Tiere und Kinder\n\nPsychologen empfehlen Haustiere für Kinder:\n• Kinder mit Haustier zeigen mehr Verantwortungsbewusstsein\n• Haustiere fördern soziale Kompetenz und Einfühlungsvermögen\n• Hunde gelten als besonders positiv für die Entwicklung von Kindern\n• Aber: Eltern müssen die Hauptverantwortung übernehmen\n\nAufgabe: Berichten Sie kurz über diese Informationen. Erzählen Sie dann von Ihren eigenen Erfahrungen und stellen Sie Fragen.",
+              "taskDescription": "Berichten Sie kurz über den Text. Erzählen Sie danach von persönlichen Erfahrungen und stellen Sie Fragen."
+            }
           ]
         },
         {
           "partNumber": 3,
-          "type": "planning",
-          "instructions": "Sie sollen mit Ihrem Partner gemeinsam etwas planen. Machen Sie Vorschläge, reagieren Sie auf die Ideen Ihres Partners und einigen Sie sich am Ende auf eine gemeinsame Lösung.",
-          "instructionsTranslation": "You are going to plan something together with your partner. Make suggestions, respond to your partner's ideas, and agree on a joint solution at the end.",
-          "prompt": "Sie und Ihr Partner / Ihre Partnerin möchten zusammen einen einwöchigen Urlaub planen. Besprechen Sie Ihre Ideen und einigen Sie sich auf ein gemeinsames Ziel.\n\nBesprechen Sie bitte folgende Punkte und kommen Sie zu einer gemeinsamen Entscheidung:\n\n- Wann soll der Urlaub stattfinden und wohin (Inland oder Ausland, Stadt oder Land)?\n- Wie reisen Sie (Zug, Flugzeug, Auto)?\n- Welche Unterkunft wählen Sie (Hotel, Ferienwohnung, Camping)?\n- Was möchten Sie im Urlaub erleben (Kultur, Natur, Sport, Erholung)?\n- Wie viel Geld möchten Sie pro Person insgesamt ausgeben? Wer übernimmt welche Aufgabe (Buchung, Anreise, Aktivitäten)?\n\nMachen Sie Vorschläge, gehen Sie auf die Vorschläge Ihres Partners ein und einigen Sie sich am Ende.",
-          "sampleResponse": "Also, ich würde vorschlagen, dass wir Mitte September für eine Woche verreisen – da ist das Wetter noch schön und die Preise sind schon etwas niedriger. Was hältst du von Südtirol? Dort können wir Natur, Kultur und gutes Essen kombinieren.\n\nBei der Anreise schlage ich den Zug vor. Die Fahrt dauert zwar länger, aber wir können unterwegs schon entspannen, und es ist umweltfreundlicher. Was meinst du?\n\nAls Unterkunft würde ich eine kleine Ferienwohnung buchen – so haben wir mehr Platz als im Hotel und können auch mal selbst kochen. Bei den Aktivitäten schlage ich eine Mischung vor: ein paar Wanderungen, einen Ausflug in die Stadt Bozen und einen Tag am See zur Erholung.\n\nBeim Budget schlage ich ungefähr 800 Euro pro Person vor – Unterkunft, Zug und Essen. Ist das realistisch für dich? Bei den Aufgaben: Ich buche gerne die Unterkunft und die Zugtickets. Könntest du die Wandertouren recherchieren und die Karten besorgen? Dann ist alles gut aufgeteilt. Einverstanden? Prima, dann halten wir das so fest.",
-          "evaluationTips": [
-            "Hören Sie aktiv zu und reagieren Sie konkret auf die Vorschläge Ihres Partners",
-            "Machen Sie Vorschläge mit Konjunktiv II ('Ich würde vorschlagen ...', 'Wir könnten ...')",
-            "Begründen Sie Vorschläge kurz mit 'weil' oder 'damit'",
-            "Einigen Sie sich klar am Ende: 'Einverstanden?' oder 'Dann halten wir das so fest.'",
-            "Teilen Sie Aufgaben explizit auf – wer macht was",
-            "Fassen Sie am Ende die wichtigsten Entscheidungen kurz zusammen"
+          "title": "Gemeinsame Aufgabe lösen: Stadtbummel planen",
+          "durationMinutes": 6,
+          "instructions": "Sie und Ihre Partnerin / Ihr Partner planen zusammen einen Stadtbummel für einen freien Samstag in einer Ihnen unbekannten Stadt. Überlegen Sie gemeinsam, was alles zu tun und zu entscheiden ist.",
+          "instructionsTranslation": "You and your partner are planning a day exploring an unfamiliar city on a free Saturday. Decide together what needs to be done and agreed on.",
+          "scenario": "Sie haben beide einen freien Samstag und möchten gemeinsam eine neue Stadt erkunden. Besprechen Sie, wie Sie den Tag gestalten.",
+          "planningPoints": [
+            "Wann treffen Sie sich, und wo?",
+            "Womit fahren Sie in die Stadt (Bahn, Auto, Fahrrad)?",
+            "Was möchten Sie besichtigen (Altstadt, Museum, Park)?",
+            "Wo essen Sie zu Mittag?",
+            "Was machen Sie am Nachmittag?",
+            "Möchten Sie abends noch etwas unternehmen?",
+            "Was tun Sie, wenn das Wetter schlecht ist?"
           ],
-          "keyPhrases": [
-            "Ich würde vorschlagen, dass ...",
-            "Was hältst du davon, wenn ...?",
-            "Wir könnten zum Beispiel ...",
-            "Das ist eine gute Idee, aber ...",
-            "Alternativ könnten wir auch ...",
-            "Wer übernimmt ...?",
-            "Ich buche ..., kannst du ...?",
-            "Einverstanden!",
-            "Dann halten wir fest: ..."
-          ]
+          "examinerNotes": "Prüfer/in: Kandidaten sollen gemeinsam einen konkreten Plan entwickeln. Beide müssen Vorschläge machen und auf Vorschläge der Partnerin/des Partners reagieren. Mindestens drei Planungspunkte sollen besprochen werden."
         }
       ]
     }
