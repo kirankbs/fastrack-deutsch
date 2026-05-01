@@ -1,0 +1,113 @@
+<speak>
+  <!-- C1 Mock 01 — Teil 3 (10 gap-fill, academic Vortrag, playCount=1) -->
+  <!-- Speaker: de-DE-Wavenet-D (male) — academic lecturer, wissenschaftlich-populär register -->
+  <!-- Announcer: de-DE-Wavenet-C (female) -->
+  <!-- C1 spec: natural speed 1.0x, NO internal pauses between gaps (continuous lecture), played ONCE -->
+  <!-- Candidates fill slide gaps in real time — gap answers embedded naturally in speech flow -->
+  <!-- Signposting markers: Im Folgenden, Zunächst, Kommen wir zu, Abschließend -->
+  <!-- 10-second initial pause for candidates to survey slides before audio begins -->
+  <!-- Gap answers (in lecture order): -->
+  <!--   Gap 1: 36 Prozent  |  Gap 2: Psychologie -->
+  <!--   Gap 3: p-Hacking   |  Gap 4: HARKing -->
+  <!--   Gap 5: Rohdaten der Studie  |  Gap 6: Open Peer Review -->
+  <!--   Gap 7: Hypothesen und Analysemethoden  |  Gap 8: transparent zu berichten -->
+  <!--   Gap 9: Globalen Süden  |  Gap 10: Datenschutz und Vertraulichkeit -->
+
+  <break time="3s"/>
+
+  <voice name="de-DE-Wavenet-C">
+    <prosody rate="1.0">
+      Hörverstehen, Teil 3. Sie hören einen akademischen Vortrag zum Thema Forschungsmethoden
+      und Reproduzierbarkeit. In Ihrem Testheft finden Sie fünf Folien mit je zwei Lücken.
+      Füllen Sie die Lücken während des Vortrags aus.
+      Sie hören den Vortrag nur einmal.
+    </prosody>
+    <break time="10s"/>
+  </voice>
+
+  <!-- VORTRAG BEGINNT — KEINE INTERNEN PAUSEN ZWISCHEN DEN LÜCKEN -->
+  <voice name="de-DE-Wavenet-D">
+    <prosody rate="1.0">
+      Meine Damen und Herren, herzlich willkommen zu diesem Vortrag über Reproduzierbarkeit
+      in der empirischen Forschung — ein Thema, das in den letzten Jahren zu einem der
+      meistdiskutierten in der Wissenschaftsgemeinschaft geworden ist.
+
+      Beginnen wir mit der Grundlage: Was meinen wir überhaupt, wenn wir von
+      Reproduzierbarkeit sprechen? Im Kern unterscheiden Methodologen zwei Formen.
+      Erstens die analytische Reproduzierbarkeit: Wenn ich Ihnen dieselben Rohdaten gebe
+      und dieselbe Analysemethode beschreibe, sollten Sie zum selben Ergebnis kommen.
+      Zweitens die empirische Reproduzierbarkeit: Wenn ich das Experiment neu durchführe,
+      unter vergleichbaren Bedingungen, sollten sich ähnliche Befunde zeigen.
+
+      Das klingt nach einem gesunden wissenschaftlichen Selbstverständnis —
+      und war lange Zeit auch tatsächlich das Ideal. Bis 2015 eine groß angelegte Studie
+      der Open Science Collaboration dieses Ideal einer harten Prüfung unterzog.
+      Das Ergebnis war ernüchternd: Von den hundert untersuchten Studien waren lediglich
+      sechsunddreißig Prozent reproduzierbar — also nicht einmal vier von zehn.
+      Das ist die Zahl, die Sie in Folie eins eintragen: sechsunddreißig Prozent.
+      Obwohl die Krise alle empirischen Wissenschaften betrifft, war es die Psychologie,
+      die das meiste öffentliche Aufsehen erregte — denn genau aus dieser Disziplin
+      stammten die hundert untersuchten Studien. Tragen Sie in Folie eins auch das ein:
+      Psychologie.
+
+      Kommen wir zu Folie zwei: den Ursachen. Warum passiert das? Zunächst zu den
+      strukturellen Fehlanreizen. Das vielzitierte Publish-or-Perish-Prinzip besagt:
+      Wer publiziert, wird gefördert und befördert. Wer scheitert, bleibt unsichtbar.
+      Negativergebnisse haben kaum eine Chance auf Publikation in renommierten Journalen.
+      Hinzu kommt ein Phänomen, das Methodologen als p-Hacking bezeichnen —
+      das gezielte Auswählen von Variablen, Subgruppen oder Auswertungsmethoden so lange,
+      bis der p-Wert unter die Signifikanzschwelle von null Komma null fünf fällt.
+      Tragen Sie in Lücke drei ein: p-Hacking.
+      Ein verwandtes Phänomen heißt HARKing — ein Akronym für Hypothesizing After Results Known.
+      Man formuliert die Hypothese erst, nachdem die Ergebnisse vorliegen, und präsentiert sie,
+      als hätte man sie vorher aufgestellt. Das ist unbewusste Selektion günstiger Daten —
+      tragen Sie in Lücke vier ein: HARKing.
+
+      Folie drei behandelt die wichtigste Reformbewegung: Open Science. Sie fußt auf vier Kernprinzipien.
+      Erstens Open Access — der freie Zugang zu wissenschaftlichen Publikationen.
+      Zweitens Open Data: Hiermit ist gemeint, dass die erhobenen Rohdaten einer Studie öffentlich
+      zugänglich gemacht werden, damit Dritte sie nachprüfen oder für eigene Analysen verwenden können.
+      Tragen Sie in Lücke fünf ein: Rohdaten der Studie.
+      Drittens Open Methods — transparente Dokumentation von Labormethoden und Analyseskripten.
+      Und viertens das vierte Kernprinzip, das ich besonders wichtig finde: Open Peer Review —
+      die Öffnung des Begutachtungsprozesses, sei es durch die Publikation der Gutachten
+      oder durch das Nennen der Gutachternamen. Tragen Sie in Lücke sechs ein: Open Peer Review.
+
+      Folie vier widmet sich der Vorregistrierung — dem, was ich als den konkretesten
+      Reformschritt betrachte. Der Ablauf ist folgendermaßen: Schritt eins: Forschungsfrage formulieren.
+      Schritt zwei: Hypothesen festlegen. Schritt drei — und das ist der entscheidende Schritt —:
+      Vor Beginn der Datenerhebung tragen die Forschenden ihre Hypothesen und geplanten Analysemethoden
+      in ein öffentliches Register ein. Das soll HARKing und p-Hacking strukturell verhindern.
+      Tragen Sie in Lücke sieben ein: Hypothesen und Analysemethoden.
+      Dann folgen Datenerhebung und Auswertung. Und schließlich Schritt fünf:
+      Wenn Forschende im Verlauf der Studie vom ursprünglichen Plan abweichen — was durchaus legitim ist —,
+      müssen diese Abweichungen im Artikel transparent zu berichten sein, damit die Leserschaft
+      die Aussagekraft der Ergebnisse richtig einschätzen kann. Lücke acht: transparent zu berichten.
+
+      Und damit zu Folie fünf: den verbleibenden Herausforderungen und dem Ausblick.
+      Das APC-Modell — also die Finanzierung von Open Access über Artikel-Bearbeitungsgebühren —
+      birgt eine strukturelle Ungerechtigkeit: Es trifft Forschende aus dem Globalen Süden
+      besonders hart. Sie können zwar nun lesen, aber nicht publizieren, weil ihre Institutionen
+      weder über Abonnementbudgets noch über APC-Fördertöpfe verfügen.
+      Tragen Sie in Lücke neun ein: Globalen Süden.
+      Und schließlich ein letztes Hindernis, das in der Open-Science-Diskussion oft unterschätzt wird:
+      In den Geistes- und Sozialwissenschaften stoßen Open-Data-Forderungen an ihre Grenzen.
+      Interviews, sensible Archivmaterialien und personenbezogene Umfrageantworten sind aus
+      datenschutzrechtlichen oder ethischen Gründen vertraulich und können schlicht nicht
+      ohne Weiteres mit der Öffentlichkeit geteilt werden.
+      Das Haupthindernis für Open Data in diesen Disziplinen: Datenschutz und Vertraulichkeit —
+      tragen Sie das in Lücke zehn ein.
+
+      Abschließend: Open Science ist keine vollständig realisierte Reform, sondern ein Projekt
+      im Werden. Die entscheidende Stellschraube ist nicht Technologie — es ist die Reform
+      der Bewertungslogik des Wissenschaftssystems. Solange Karrieren primär an
+      Erstpublikationen gemessen werden, bleibt die Reproduzierbarkeit eine Sonntagsforderung.
+      Ich danke Ihnen für Ihre Aufmerksamkeit.
+    </prosody>
+  </voice>
+  <break time="3s"/>
+
+  <voice name="de-DE-Wavenet-C">
+    <prosody rate="1.0">Das ist das Ende von Teil 3 und das Ende des Hörverstehens.</prosody>
+  </voice>
+</speak>

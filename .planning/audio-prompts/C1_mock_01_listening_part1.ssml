@@ -1,0 +1,159 @@
+<speak>
+  <!-- C1 Mock 01 — Teil 1 (8 Kurzaussagen / Speaker-to-Summary matching, playCount=1) -->
+  <!-- Announcer: de-DE-Wavenet-C (female, neutral) -->
+  <!-- 8 speakers rotating: Wavenet-F (Sprecherin 1), Wavenet-B (Sprecher 2), Wavenet-A (Sprecherin 3), -->
+  <!--   Wavenet-D (Sprecher 4), Wavenet-E (Sprecherin 5), Wavenet-B (Sprecher 6), -->
+  <!--   Wavenet-F (Sprecherin 7), Wavenet-D (Sprecher 8) -->
+  <!-- C1 spec: natural speed 1.0x, played ONCE, no pedagogical slowing -->
+  <!-- 10-second initial pause for candidates to read summary statements a-j -->
+  <!-- 5-second pauses between speakers -->
+
+  <break time="3s"/>
+
+  <voice name="de-DE-Wavenet-C">
+    <prosody rate="1.0">
+      Hörverstehen, Teil 1. Sie hören acht kurze Stellungnahmen verschiedener Personen
+      zum Thema Reproduzierbarkeitskrise in der Wissenschaft.
+      Lesen Sie zuerst die zehn Zusammenfassungen in Ihrem Testheft.
+      Welche Zusammenfassung passt zu welchem Sprecher?
+      Zwei Zusammenfassungen passen nicht.
+      Sie hören die Texte nur einmal.
+    </prosody>
+    <break time="10s"/>
+  </voice>
+
+  <!-- Sprecher 1: Frau Dr. Kettner, Wissenschaftsforscherin — Antwort: a -->
+  <voice name="de-DE-Wavenet-C">
+    <prosody rate="1.0">Sprecher 1: Frau Dr. Kettner, Wissenschaftsforscherin.</prosody>
+    <break time="1s"/>
+  </voice>
+  <voice name="de-DE-Wavenet-F">
+    <prosody rate="1.0">
+      Für mich ist Open Data kein bürokratisches Ideal, sondern ein wirksamer struktureller
+      Schutz gegen Manipulation. Wenn Daten frei zugänglich sind und jederzeit nachgeprüft
+      werden können, wird es für einzelne viel schwieriger, Ergebnisse gezielt zu verändern
+      oder Ausreißer zu verstecken. Offenheit ist präventive Integrität — das sollte die
+      Wissenschaftsgemeinschaft nicht als Bürde, sondern als Selbstverständnis begreifen.
+    </prosody>
+  </voice>
+  <break time="5s"/>
+
+  <!-- Sprecher 2: Herr Prof. Steinmann, Methodik-Experte — Antwort: b -->
+  <voice name="de-DE-Wavenet-C">
+    <prosody rate="1.0">Sprecher 2: Herr Professor Steinmann, Methodik-Experte.</prosody>
+    <break time="1s"/>
+  </voice>
+  <voice name="de-DE-Wavenet-B">
+    <prosody rate="1.0">
+      Das systematische Problem ist simpel, aber kaum zu übersehen: Ein Artikel über eine
+      fehlgeschlagene Replikation hat kaum Aussichten auf Publikation in einem renommierten
+      Journal. Das System bestraft Forscher, die zeigen, dass etwas nicht stimmt.
+      Negative Ergebnisse verschwinden in Schubladen — und die Wissenschaft glaubt,
+      sie hätte einen stabilen Befund, dabei ist die Evidenz schlicht selektiv gesammelt worden.
+    </prosody>
+  </voice>
+  <break time="5s"/>
+
+  <!-- Sprecher 3: Frau Prof. Wahl, Wissenschaftsphilosophin — Antwort: c -->
+  <voice name="de-DE-Wavenet-C">
+    <prosody rate="1.0">Sprecher 3: Frau Professorin Wahl, Wissenschaftsphilosophin.</prosody>
+    <break time="1s"/>
+  </voice>
+  <voice name="de-DE-Wavenet-A">
+    <prosody rate="1.0">
+      Vorregistrierung ist ein guter Anfang — ich sage das ohne Ironie. Aber man darf sich
+      nicht in falscher Sicherheit wiegen. Solange die Bewertungslogik dieselbe bleibt,
+      werden Forschende früher oder später Wege finden, das System zu umgehen.
+      Ein Formular auszufüllen ändert keine Anreize. Was wir bräuchten, wäre ein tieferer
+      kultureller Wandel in der akademischen Gemeinschaft — und der lässt sich nicht verordnen.
+    </prosody>
+  </voice>
+  <break time="5s"/>
+
+  <!-- Sprecher 4: Herr Dr. Berger, Fachzeitschriften-Herausgeber — Antwort: d -->
+  <voice name="de-DE-Wavenet-C">
+    <prosody rate="1.0">Sprecher 4: Herr Dr. Berger, Fachzeitschriften-Herausgeber.</prosody>
+    <break time="1s"/>
+  </voice>
+  <voice name="de-DE-Wavenet-D">
+    <prosody rate="1.0">
+      Peer Review ist im Kern immer noch das Beste, was wir haben. Ich sage das als jemand,
+      der seit zwanzig Jahren Manuskripte begutachtet und begutachten lässt.
+      Das Problem ist nicht das Verfahren selbst — das Problem ist, dass Gutachter ehrenamtlich
+      arbeiten, unter enormem Zeitdruck stehen und irgendwann schlicht erschöpft sind.
+      Mehr Investitionen ins Begutachtungssystem würden hier mehr bewirken als jede Strukturreform.
+    </prosody>
+  </voice>
+  <break time="5s"/>
+
+  <!-- Sprecher 5: Frau Dr. Reuter, Forschungsberaterin — Antwort: g -->
+  <voice name="de-DE-Wavenet-C">
+    <prosody rate="1.0">Sprecher 5: Frau Dr. Reuter, Forschungsberaterin.</prosody>
+    <break time="1s"/>
+  </voice>
+  <voice name="de-DE-Wavenet-E">
+    <prosody rate="1.0">
+      Wir müssen aufhören, Karrieren fast ausschließlich an Erstveröffentlichungen zu messen.
+      Wer Replikationsstudien durchführt, leistet wissenschaftlich mindestens ebenso wertvolle
+      Arbeit — und sollte dafür auch in Berufungsverfahren und Drittmittelanträgen entsprechend
+      honoriert werden. Solange Replikation karrieretechnisch nichts bringt, wird sie auch
+      kaum jemand tun wollen. Das ist keine Frage von Idealismus, sondern von Incentives.
+    </prosody>
+  </voice>
+  <break time="5s"/>
+
+  <!-- Sprecher 6: Herr Dr. Schwarz, KI-Forscher — Antwort: h -->
+  <voice name="de-DE-Wavenet-C">
+    <prosody rate="1.0">Sprecher 6: Herr Dr. Schwarz, KI-Forscher.</prosody>
+    <break time="1s"/>
+  </voice>
+  <voice name="de-DE-Wavenet-B">
+    <prosody rate="1.0">
+      KI-Systeme lernen aus dem, was vorhanden ist — und was vorhanden ist, ist die bestehende
+      Forschungsliteratur. Wenn diese Literatur selektiv ist, positive Ergebnisse überrepräsentiert
+      und negative systematisch unterdrückt, dann reproduziert die KI genau diese Verzerrung.
+      Sie stellt keine Fragen, sie kritisiert nicht — sie optimiert auf das, was ihr gegeben wird.
+      Wer also die Hoffnung hat, KI werde die Wissenschaft automatisch besser machen,
+      irrt sich fundamental.
+    </prosody>
+  </voice>
+  <break time="5s"/>
+
+  <!-- Sprecher 7: Frau Lanz, Wissenschaftsjournalistin — Antwort: i -->
+  <voice name="de-DE-Wavenet-C">
+    <prosody rate="1.0">Sprecher 7: Frau Lanz, Wissenschaftsjournalistin.</prosody>
+    <break time="1s"/>
+  </voice>
+  <voice name="de-DE-Wavenet-F">
+    <prosody rate="1.0">
+      Als Journalistin muss ich sagen: Wir haben Fehler gemacht. Wir haben Preprints zitiert,
+      als wären es peer-reviewte Artikel — vor allem während der Pandemie. Das war irreführend,
+      und wir müssen ehrlich damit umgehen. Medien haben eine Mitverantwortung dafür,
+      wie wissenschaftliche Ergebnisse in der Öffentlichkeit ankommen. Wenn wir vorläufige Studien
+      als Gewissheiten darstellen, schüren wir Vertrauen in etwas, das noch gar nicht gesichert ist —
+      und schaden damit langfristig dem Ansehen der Wissenschaft insgesamt.
+    </prosody>
+  </voice>
+  <break time="5s"/>
+
+  <!-- Sprecher 8: Herr Prof. Nkemdirim, Entwicklungsländer-Forscher — Antwort: j -->
+  <voice name="de-DE-Wavenet-C">
+    <prosody rate="1.0">Sprecher 8: Herr Professor Nkemdirim, Forscher aus Lagos.</prosody>
+    <break time="1s"/>
+  </voice>
+  <voice name="de-DE-Wavenet-D">
+    <prosody rate="1.0">
+      Open Science klingt wunderbar, wenn man in einem gut ausgestatteten europäischen Labor sitzt.
+      Aber in meiner Universität in Lagos fehlt schlicht die technische Infrastruktur,
+      um eigene Server zu betreiben oder Artikel-Bearbeitungsgebühren zu zahlen.
+      Für Forschende ohne institutionelle Fördertöpfe ist Open Access paradoxerweise
+      eine neue Hürde — lesen können nun zwar alle, aber publizieren nur die, die zahlen können.
+      Das sollte diejenigen, die Open Science gestalten, ernsthaft beschäftigen.
+    </prosody>
+  </voice>
+  <break time="3s"/>
+
+  <voice name="de-DE-Wavenet-C">
+    <prosody rate="1.0">Das ist das Ende von Teil 1.</prosody>
+  </voice>
+</speak>

@@ -3,11 +3,11 @@ import { MOCK_EXAM_CATALOG } from '@fastrack/content';
 import { getMockExamOrNotFound } from '@/lib/loadMockExam';
 import { SprachbausteineExam } from '@/components/exam/SprachbausteineExam';
 
-// Sprachbausteine only exists in B1 and B2 — A1, A2, C1 never have it.
-// dynamicParams=false fast-404s any other level at the routing layer.
+// Sprachbausteine exists at B1, B2, and C1 (telc C1 Hochschule: 1 part, 22 MCQ-4opt cloze).
+// A1 and A2 never have it. dynamicParams=false fast-404s any other level at the routing layer.
 export function generateStaticParams(): { mockId: string }[] {
   return MOCK_EXAM_CATALOG.filter((entry) =>
-    entry.level === 'B1' || entry.level === 'B2',
+    entry.level === 'B1' || entry.level === 'B2' || entry.level === 'C1',
   ).map((entry) => ({ mockId: entry.id }));
 }
 

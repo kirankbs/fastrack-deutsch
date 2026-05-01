@@ -33,7 +33,8 @@ function generateEntries(level: Level, count: number): MockExamEntry[] {
       'Reisen & Mobilität', 'Technologie & Digitalisierung', 'Gesellschaft & Integration', 'Kultur & Kunst', 'Wirtschaft & Konsum',
     ],
     C1: [
-      'Wissenschaft', 'Forschung', 'Bildung', 'Medien', 'Umwelt',
+      'Wissenschaftliche Erkenntnis und Verantwortung',
+      'Forschung', 'Bildung', 'Medien', 'Umwelt',
       'Gesellschaft', 'Kultur', 'Wirtschaft', 'Politik', 'Technologie',
     ],
   };
