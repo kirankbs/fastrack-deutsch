@@ -1190,5 +1190,77 @@
       }
     ],
     "orderIndex": 21
+  },
+  {
+    "id": 22,
+    "level": "B1",
+    "topic": "Negation — nicht vs. kein vs. nichts/niemand/nie/kaum",
+    "explanation": "Deutsch hat zwei Hauptnegationswörter: 'nicht' und 'kein'. 'Kein' negiert Nomen ohne Artikel oder mit unbestimmtem Artikel — es dekliniert wie ein Possessivpronomen: keinen Hund (Akk. m.), keine Katze (f./Pl.), kein Buch (n.). 'Nicht' negiert Verben, Adjektive, Adverbien und Nomen mit bestimmtem Artikel. Stellung von 'nicht': am Satzende bei Verbnegation ('Er kommt nicht'), direkt vor dem negierten Element bei partieller Negation ('nicht heute', 'nicht schön'). Bei trennbaren Verben steht 'nicht' vor der Partikel: 'Er ruft nicht an'. Bei Modalverb + Infinitiv vor dem Infinitiv: 'Ich kann heute nicht kommen'. Zusätzliche Negationswörter: 'nichts' (= keine Sache), 'niemand' (= keine Person), 'nie/niemals' (= zu keiner Zeit), 'kaum' (= fast nicht). Kontrast: 'Ich habe keinen Hund' (Hund existiert nicht) vs. 'Ich habe den Hund nicht gesehen' (Hund bekannt, Handlung negiert).",
+    "examples": [
+      "Ich habe keinen Hunger. — Ich habe den Kuchen nicht gegessen.",
+      "Sie trinkt keinen Kaffee. — Sie trinkt den Kaffee nicht gern.",
+      "Ich gehe heute nicht ins Kino. (Verbnegation) — Ich gehe nicht heute, sondern morgen ins Kino. (Adverbnegation)",
+      "Er hat keine Zeit. — Er hat die Zeit nicht gut genutzt.",
+      "In diesem Raum ist niemand. — Ich habe nichts gehört.",
+      "Wir fahren nie in Urlaub. — Er kann kaum schlafen.",
+      "Das Zimmer hat kein Fenster. — Das Fenster öffnet sich nicht.",
+      "Sie hat keinen Führerschein. — Sie hat die Prüfung nicht bestanden."
+    ],
+    "exercises": [
+      {
+        "type": "fill_blank",
+        "prompt": "Er hat ___ Auto. (Er besitzt kein Auto.)",
+        "correctAnswer": "kein",
+        "explanation": "'Auto' ist Neutrum ohne Artikel im Nominativ/Akkusativ → kein. 'Nicht' kann Nomen ohne Artikel nicht direkt negieren; 'keinen' wäre Maskulinum Akkusativ."
+      },
+      {
+        "type": "fill_blank",
+        "prompt": "Ich rufe dich heute Abend ___ an. (Ich werde es nicht tun.)",
+        "correctAnswer": "nicht",
+        "explanation": "Trennbares Verb 'anrufen': 'nicht' steht direkt vor der abgetrennten Partikel 'an' am Satzende. 'Kein' wäre falsch — es gibt kein Nomen zu negieren."
+      },
+      {
+        "type": "fill_blank",
+        "prompt": "Wir haben ___ Milch mehr. (Die Milch ist zu Ende.)",
+        "correctAnswer": "keine",
+        "explanation": "'Milch' ist unzählbares Femininum ohne Artikel → keine. Wäre der Artikel bestimmt ('die Milch'), müsste man sagen 'die Milch nicht'."
+      },
+      {
+        "type": "fill_blank",
+        "prompt": "Ich habe ___ verstanden. (Gar nichts war klar.)",
+        "correctAnswer": "nichts",
+        "explanation": "'Nichts' negiert eine unbekannte Sache vollständig. 'Nicht' allein ohne Bezugsobjekt reicht hier nicht aus; 'niemand' wäre für Personen."
+      },
+      {
+        "type": "fill_blank",
+        "prompt": "Er kommt ___ heute, sondern erst morgen. (Die Negation betrifft nur 'heute'.)",
+        "correctAnswer": "nicht",
+        "explanation": "Partielle Negation: 'nicht' steht direkt vor dem negierten Adverb 'heute'. Das Verb selbst wird nicht negiert — 'sondern' korrigiert zum richtigen Zeitpunkt."
+      },
+      {
+        "type": "fill_blank",
+        "prompt": "In diesem Raum ist ___. (Keine einzige Person ist hier.)",
+        "correctAnswer": "niemand",
+        "explanation": "'Niemand' negiert Personen. 'Nichts' negiert Gegenstände/Sachverhalte. 'Kein' bräuchte ein nachfolgendes Nomen."
+      },
+      {
+        "type": "fill_blank",
+        "prompt": "Sie geht ___ allein zum Sport — es fällt ihr sehr schwer, sich zu motivieren. (fast nicht)",
+        "correctAnswer": "kaum",
+        "explanation": "'Kaum' = fast nicht, drückt eine sehr geringe Häufigkeit aus. 'Nie' wäre zu absolut (= gar nicht). 'Nicht' würde eine vollständige Verneinung signalisieren."
+      },
+      {
+        "type": "mcq",
+        "prompt": "Er hat ___ Geld für die Fahrkarte.",
+        "correctAnswer": "kein",
+        "options": [
+          "nicht",
+          "kein",
+          "keinen"
+        ],
+        "explanation": "'Geld' ist Neutrum im Akkusativ ohne Artikel → kein. 'Keinen' wäre Maskulinum Akkusativ (z.B. 'keinen Euro'). 'Nicht' kann nicht direkt vor einem artikellosen Nomen stehen."
+      }
+    ],
+    "orderIndex": 22
   }
 ]
