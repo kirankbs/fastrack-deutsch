@@ -1,0 +1,172 @@
+<speak>
+  <!-- C1 Mock 04 — Teil 3 (Akademischer Vortrag, 5 Folien × 2 Lücken, playCount=1) -->
+  <!-- Theme: Postwachstumsökonomie -->
+  <!-- Speaker: de-DE-Wavenet-D (male, Prof. Dr. Rainer Albrecht, Wirtschaftswissenschaftler) -->
+  <!-- Announcer: de-DE-Wavenet-C (female, neutral) -->
+  <!-- CR-11: NO explicit "Tragen Sie in Lücke X ein" cues — signposting only -->
+  <!-- CR-12: type "mcq" in JSON (already correct) -->
+  <!-- Gap answers embedded naturally: -->
+  <!--   Folie 1 Lücke 1: Grenzen (planetare) -->
+  <!--   Folie 1 Lücke 2: ökologische (Institut für ... Wirtschaftsforschung) -->
+  <!--   Folie 2 Lücke 3: Wohlbefinden (BIP misst X nicht) -->
+  <!--   Folie 2 Lücke 4: Genuine Progress Indicator (GPI) -->
+  <!--   Folie 3 Lücke 5: kollektive (Arbeitszeitverkürzung) -->
+  <!--   Folie 3 Lücke 6: Vermögenssteuer (progressive) -->
+  <!--   Folie 4 Lücke 7: Durchsetzbarkeit (demokratische) -->
+  <!--   Folie 4 Lücke 8: Umverteilung (Spielraum für) -->
+  <!--   Folie 5 Lücke 9: südliches (Europa) -->
+  <!--   Folie 5 Lücke 10: Blaupause (keine fertige) -->
+
+  <break time="3s"/>
+
+  <voice name="de-DE-Wavenet-C">
+    <prosody rate="1.0">
+      Hörverstehen, Teil 3. Sie hören einen akademischen Vortrag zum Thema Postwachstumsökonomie.
+      In Ihrem Testheft finden Sie fünf Folien mit je zwei Lücken.
+      Füllen Sie die Lücken während des Vortrags aus.
+      Sie hören den Vortrag nur einmal.
+    </prosody>
+    <break time="60s"/>
+  </voice>
+
+  <!-- FOLIE 1: Theoretische Grundlagen der Postwachstumsökonomie -->
+  <voice name="de-DE-Wavenet-D">
+    <prosody rate="1.0">
+      Guten Tag, meine Damen und Herren. Ich freue mich, heute über ein Thema sprechen zu dürfen,
+      das vor zwanzig Jahren noch als akademische Randposition galt und inzwischen im Zentrum
+      ernsthafter wirtschaftspolitischer Debatten angekommen ist: die Postwachstumsökonomie.
+
+      Kommen wir zu Folie 1 — den theoretischen Grundlagen.
+
+      Der Ausgangspunkt der Postwachstumstheorie ist ein physikalisches Argument:
+      In einem System mit endlichen Ressourcen und begrenzter Regenerationsfähigkeit
+      ist dauerhaftes exponentielles Wachstum strukturell unmöglich.
+      Der Begriff, der in der Fachliteratur dafür steht, ist der der planetaren Grenzen —
+      ein Konzept, das der schwedische Forscher Johan Rockström und sein Team 2009 eingeführt haben.
+      Neun ErdSystemprozesse, von der Klimaregulation bis zur Biodiversität,
+      haben definierbare Schwellenwerte, jenseits derer irreversible Systemveränderungen drohen.
+      Diese planetaren Grenzen bilden den empirischen Kern der Postwachstumskritik.
+
+      In Deutschland ist die führende Forschungseinrichtung auf diesem Gebiet
+      das Institut für ökologische Wirtschaftsforschung, kurz IÖW.
+      Es wurde 1985 gegründet und hat in den letzten Jahrzehnten maßgeblich dazu beigetragen,
+      postwachstumsökonomische Ansätze empirisch zu untermauern.
+    </prosody>
+  </voice>
+  <break time="8s"/>
+
+  <!-- FOLIE 2: BIP-Kritik und Alternativindikatoren -->
+  <voice name="de-DE-Wavenet-D">
+    <prosody rate="1.0">
+      Folie 2 widmet sich einem methodischen Kernproblem: der Frage, was wir eigentlich messen,
+      wenn wir das Bruttoinlandsprodukt als Wohlstandsindikator verwenden.
+
+      Die Postwachstumsökonomie macht eine fundamentale Kritik geltend:
+      Das BIP misst wirtschaftliche Aktivität — nicht Wohlbefinden.
+      Diese Unterscheidung ist keine Spitzfindigkeit.
+      Ein Verkehrsunfall erhöht das BIP durch Krankenhauskosten und Reparaturen.
+      Unbezahlte Sorgearbeit — Kinderbetreuung, Pflege älterer Angehöriger —
+      erscheint im BIP überhaupt nicht.
+      Umweltzerstörung wird erst dann sichtbar, wenn die Kosten ihrer Behebung anfallen.
+      Das heißt: Das BIP kann steigen, während das gesellschaftliche Wohlbefinden sinkt.
+      Und genau das ist in vielen westlichen Ländern seit den 1990er Jahren zu beobachten.
+
+      Als Alternative zum BIP schlägt die Postwachstumsforschung eine Reihe von Indikatoren vor.
+      Der bekannteste ist der sogenannte Genuine Progress Indicator — auf Deutsch
+      der Index echten Fortschritts, abgekürzt GPI.
+      Er zieht vom BIP die sozialen und ökologischen Kosten ab
+      und addiert den monetären Wert unbezahlter Arbeit.
+      Das Ergebnis ist ein Index, der in vielen Ländern seit den 1970er Jahren stagniert
+      oder gar sinkt — trotz steigendem BIP.
+    </prosody>
+  </voice>
+  <break time="8s"/>
+
+  <!-- FOLIE 3: Politische Instrumente der Postwachstumsökonomie -->
+  <voice name="de-DE-Wavenet-D">
+    <prosody rate="1.0">
+      Folie 3 fragt: Was folgt politisch aus dieser Diagnose?
+      Welche konkreten Instrumente schlägt die Postwachstumsökonomie vor?
+
+      An erster Stelle steht die Arbeitszeitverkürzung —
+      aber ich muss hier eine wichtige Unterscheidung treffen.
+      Es geht nicht um individuelle Teilzeitlösungen, die Arbeitnehmern ermöglichen,
+      weniger zu arbeiten, wenn sie es sich leisten können.
+      Die Postwachstumsökonomie fordert eine kollektive Arbeitszeitverkürzung —
+      eine gesellschaftliche Entscheidung, dass alle weniger arbeiten:
+      zum Beispiel die 32-Stunden-Woche als Vollzeitstandard.
+      Das hätte mehrere Effekte: weniger Produktionsdruck, mehr Zeit für Sorgearbeit und Muße,
+      und — wenn Produktivitätsgewinne gerecht verteilt werden — keine Lohneinbuße.
+
+      Das zweite wichtige Instrument ist die Finanzierungsfrage öffentlicher Güter
+      in einer weniger wachsenden Wirtschaft.
+      Hier schlägt die Postwachstumsforschung vor allem eine progressive Vermögenssteuer vor —
+      eine Steuer also nicht auf Einkommen, sondern auf Bestandsvermögen.
+      Das Argument: In einer stagnierenden Wirtschaft kann Umverteilung nicht mehr
+      ausschließlich über Wachstum organisiert werden;
+      sie muss stärker als direkte Umverteilung von Bestandsvermögen gedacht werden.
+    </prosody>
+  </voice>
+  <break time="8s"/>
+
+  <!-- FOLIE 4: Kritiken und Gegenargumente -->
+  <voice name="de-DE-Wavenet-D">
+    <prosody rate="1.0">
+      Keine wissenschaftliche Debatte wäre vollständig ohne die ernsthafte Auseinandersetzung
+      mit den Gegenargumenten. Folie 4 referiert die wichtigsten Einwände.
+
+      Der schwerste Einwand betrifft die Frage der demokratischen Durchsetzbarkeit.
+      Postwachstumspolitik würde in vielen Bereichen bedeuten, dass Bevölkerungen
+      auf Konsumwachstum verzichten oder sogar Wohlstandsniveaus absenken.
+      Historisch gibt es kaum Beispiele dafür, dass Mehrheiten freiwillig für
+      materiellen Verzicht votiert haben — selbst wenn dieser Verzicht langfristig
+      mit höherem Wohlbefinden verbunden wäre.
+      Die Frage der demokratischen Durchsetzbarkeit ist also nicht trivial —
+      sie ist vielleicht das stärkste Argument gegen die politische Umsetzbarkeit.
+
+      Das zweite Gegenargument kommt von den sogenannten Wachstumsoptimisten:
+      Nur wirtschaftliches Wachstum schafft den finanziellen Spielraum für Umverteilung,
+      für Klimainvestitionen und für technologischen Fortschritt.
+      In einer stagnierenden Wirtschaft, so das Argument, würde der soziale Friede
+      gefährdet, weil Verteilungskonflikte zunehmen, wenn der Kuchen nicht mehr größer wird.
+      Dieses Argument ist nicht falsch — aber es setzt voraus, dass Wachstum tatsächlich
+      Verteilungsprobleme löst, was empirisch nicht immer der Fall war.
+    </prosody>
+  </voice>
+  <break time="8s"/>
+
+  <!-- FOLIE 5: Internationale Experimente und Fazit -->
+  <voice name="de-DE-Wavenet-D">
+    <prosody rate="1.0">
+      Folie 5 — die letzte — fragt, wo Postwachstumskonzepte praktisch erprobt werden
+      und was wir daraus schließen können.
+
+      Interessanterweise kommen die meisten real existierenden Experimente
+      nicht aus dem wirtschaftlich stärksten Teil Europas.
+      Es ist vor allem das südliche Europa, wo kommunale und regionale Politikexperimente
+      mit Postwachstumselementen stattgefunden haben.
+      Spanien, Griechenland, zum Teil auch Portugal haben in der Folge der Finanz-
+      und Wirtschaftskrise der 2010er Jahre Modelle erprobt, die auf lokale Wirtschaftskreisläufe,
+      Gemeinschaftsgüter und reduzierte Konsumorientierung setzten —
+      nicht immer aus Überzeugung, sondern auch aus Not.
+      Diese Erfahrungen sind für die Postwachstumsforschung empirisch wertvoll,
+      auch wenn ihre Übertragbarkeit begrenzt ist.
+
+      Mein Fazit — und damit schließe ich —:
+      Postwachstumsökonomie liefert eine belastbare Diagnose.
+      Sie zeigt, warum das Versprechen, durch dauerhaftes Wachstum alle sozialen
+      und ökologischen Probleme zu lösen, strukturell nicht einlösbar ist.
+      Aber — und das ist mir wichtig — sie ist keine fertige Blaupause für politisches Handeln.
+      Die Fragen der demokratischen Umsetzung, der gerechten Lastenverteilung
+      und der internationalen Koordination sind offen.
+      Das macht die Postwachstumsökonomie zu einem notwendigen kritischen Korrektiv —
+      aber noch nicht zu einem vollständigen Alternativprogramm.
+      Ich danke Ihnen für Ihre Aufmerksamkeit.
+    </prosody>
+  </voice>
+  <break time="3s"/>
+
+  <voice name="de-DE-Wavenet-C">
+    <prosody rate="1.0">Das ist das Ende von Teil 3.</prosody>
+  </voice>
+</speak>

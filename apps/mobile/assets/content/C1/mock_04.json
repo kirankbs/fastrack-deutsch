@@ -1,13 +1,1748 @@
 {
   "id": "C1_mock_04",
   "level": "C1",
-  "title": "Übungstest 4",
-  "version": 0,
-  "_stub": true,
+  "title": "C1 Übungstest 4: Wirtschaft und Globalisierung",
+  "version": 1,
   "sections": {
-    "listening": { "totalTimeMinutes": 20, "parts": [] },
-    "reading": { "totalTimeMinutes": 25, "parts": [] },
-    "writing": { "totalTimeMinutes": 20, "tasks": [] },
-    "speaking": { "totalTimeMinutes": 15, "prepTimeMinutes": 0, "parts": [] }
+    "reading": {
+      "totalTimeMinutes": 90,
+      "parts": [
+        {
+          "partNumber": 1,
+          "instructions": "Lesen Sie den folgenden Text. Sechs Sätze wurden herausgenommen. Wählen Sie aus den acht angebotenen Sätzen (a–h) den jeweils passenden. Zwei Sätze passen nicht. Schreiben Sie den Buchstaben des richtigen Satzes in die entsprechende Lücke.",
+          "instructionsTranslation": "Read the following text. Six sentences have been removed. Choose the appropriate sentence from the eight offered (a–h) for each gap. Two sentences do not fit. Write the letter of the correct sentence in the corresponding gap.",
+          "texts": [
+            {
+              "id": "C1_m04_R1_main",
+              "type": "article",
+              "content": "Zerbrechliche Netze — Warum die Globalisierung neu gedacht werden muss\n\nZwei Jahre nach dem Ende der Pandemie und inmitten anhaltender Handelskonflikte hat sich eine Erkenntnis in Unternehmensetagen und Regierungsbüros gleichermaßen durchgesetzt: Die in Jahrzehnten aufgebauten globalen Lieferketten sind fragiler, als man dachte. [1] Was Ökonomen als komparative Vorteile feierten — jede Region produziert, was sie am günstigsten kann —, entpuppte sich unter Belastung als systemisches Risiko.\n\nDie Konsequenz dieser Erkenntnis ist ein konzeptioneller Wandel. [2] Unternehmen sprechen heute von Lieferkettenresilienz: der Fähigkeit, Unterbrechungen standzuhalten, sie abzufedern und sich rasch zu erholen. Das klingt nach schlichtem Risikomanagement, ist aber in der Praxis eine grundlegende Neuausrichtung der Beschaffungsstrategien — weg von der Optimierung auf Kostenminimierung, hin zu kalkulierter Redundanz.\n\nDiese Verlagerung hat ihren Preis. Redundanz bedeutet Puffer, und Puffer kosten Geld. [3] Eine Studie des McKinsey Global Institute schätzte, dass Unternehmen mit robusten Lieferketten im Durchschnitt rund zwei Prozentpunkte niedrigere Gewinnmargen akzeptieren — ein Aufwand, den viele als unvermeidliche Versicherungsprämie für systemische Stabilität betrachten.\n\nParallel zu dieser Debatte rückt ein zweiter Strukturbruch in den Fokus: der Fachkräftemangel. In Deutschland fehlen nach Berechnungen des Instituts der deutschen Wirtschaft bereits heute über 570.000 qualifizierte Arbeitskräfte. [4] Ohne gezielte Gegenstrategie — bestehend aus Weiterbildung, Zuwanderungserleichterungen und besserer Vereinbarkeit von Familie und Beruf — droht dieser Engpass zur dauerhaften Wachstumsbremse zu werden.\n\nDie Verflechtung beider Phänomene ist dabei kein Zufall. Eine Lieferkette ist nur so stabil wie die Belegschaft, die sie betreibt. [5] Unternehmen, die in resilientere Netzwerke investieren, benötigen qualifizierte Logistik- und IT-Spezialisten, die entsprechende Systeme aufbauen und warten. Der Fachkräftemangel und die Lieferkettenfrage sind damit zwei Seiten derselben strukturellen Herausforderung.\n\nVor diesem Hintergrund gewinnt ein Begriff an Bedeutung, der vor wenigen Jahren noch als akademische Nische galt: Postwachstumsökonomie. [6] Ihre Vertreter argumentieren, dass dauerhaftes Wirtschaftswachstum in einer endlichen Welt strukturell unmöglich sei und dass Gesellschaften lernen müssten, Wohlstand jenseits des Bruttoinlandsprodukts zu messen. Ob diese Perspektive eine Randerscheinung bleibt oder zum Mainstream avanciert, wird wesentlich davon abhängen, wie die nächsten Krisen bewältigt werden.",
+              "source": "Wirtschaftswoche, Februar 2026"
+            },
+            {
+              "id": "C1_m04_R1_sent_a",
+              "type": "notice",
+              "content": "a) Bereits während der Pandemie wurden Schwachstellen sichtbar, als Häfen überlastet waren, Containerpreise explodierten und ganze Industriezweige wegen fehlender Halbleiter stillstanden."
+            },
+            {
+              "id": "C1_m04_R1_sent_b",
+              "type": "notice",
+              "content": "b) Nicht mehr bloße Effizienz, sondern Widerstandsfähigkeit ist zum Leitwert moderner Beschaffungsstrategien geworden."
+            },
+            {
+              "id": "C1_m04_R1_sent_c",
+              "type": "notice",
+              "content": "c) Bis 2035 könnten laut einer Prognose des Bundesinstituts für Berufsbildung allein im Technologiesektor bis zu 1,2 Millionen Stellen unbesetzt bleiben."
+            },
+            {
+              "id": "C1_m04_R1_sent_d",
+              "type": "notice",
+              "content": "d) Diese Mehrkosten lassen sich nicht einfach auf Verbraucherinnen und Verbraucher abwälzen, ohne die Nachfrage zu gefährden."
+            },
+            {
+              "id": "C1_m04_R1_sent_e",
+              "type": "notice",
+              "content": "e) Schon jetzt verweisen Unternehmen in Stellenausschreibungen häufiger auf inländische Standorte als auf ostasiatische Zulieferverbünde."
+            },
+            {
+              "id": "C1_m04_R1_sent_f",
+              "type": "notice",
+              "content": "f) Insbesondere in Branchen wie der Halbleiterproduktion, der Pharmaindustrie und der erneuerbaren Energien hat sich gezeigt, dass eine zu starke Konzentration auf einzelne Lieferregionen existenzbedrohend sein kann."
+            },
+            {
+              "id": "C1_m04_R1_sent_g",
+              "type": "notice",
+              "content": "g) Diese Denkschule hat im Zuge wiederholter Krisen — von der Pandemie bis zum Klimawandel — zunehmend politischen Resonanzraum gefunden."
+            },
+            {
+              "id": "C1_m04_R1_sent_h",
+              "type": "notice",
+              "content": "h) Für viele Konzerne bedeutet das: Bestehende Partnerschaften müssen unter dem Gesichtspunkt ihrer Resilienz neu bewertet werden, selbst wenn die ursprüngliche Entscheidung ökonomisch vernünftig erschien."
+            }
+          ],
+          "questions": [
+            {
+              "id": "C1_m04_R1_q1",
+              "type": "matching",
+              "questionText": "Lücke 1 im Text: '…sind fragiler, als man dachte. [1] Was Ökonomen als komparative Vorteile feierten…'",
+              "matchingSources": [
+                {
+                  "id": "C1_m04_R1_sent_a",
+                  "label": "a"
+                },
+                {
+                  "id": "C1_m04_R1_sent_b",
+                  "label": "b"
+                },
+                {
+                  "id": "C1_m04_R1_sent_c",
+                  "label": "c"
+                },
+                {
+                  "id": "C1_m04_R1_sent_d",
+                  "label": "d"
+                },
+                {
+                  "id": "C1_m04_R1_sent_e",
+                  "label": "e"
+                },
+                {
+                  "id": "C1_m04_R1_sent_f",
+                  "label": "f"
+                },
+                {
+                  "id": "C1_m04_R1_sent_g",
+                  "label": "g"
+                },
+                {
+                  "id": "C1_m04_R1_sent_h",
+                  "label": "h"
+                }
+              ],
+              "correctAnswer": "a",
+              "explanation": "Lücke 1 schließt an die Feststellung an, dass Lieferketten fragiler als erwartet sind. Satz a) belegt diese Fragilität mit konkreten Pandemieereignissen (überlastete Häfen, Containerpreise, Halbleitermangel). Der nachfolgende Satz 'Was Ökonomen als komparative Vorteile feierten' leitet zur theoretischen Einbettung über. Satz f) wäre thematisch nahe, setzt aber 'zu starke Konzentration' voraus, was erst später entwickelt wird."
+            },
+            {
+              "id": "C1_m04_R1_q2",
+              "type": "matching",
+              "questionText": "Lücke 2 im Text: '…ist ein konzeptioneller Wandel. [2] Unternehmen sprechen heute von Lieferkettenresilienz…'",
+              "matchingSources": [
+                {
+                  "id": "C1_m04_R1_sent_a",
+                  "label": "a"
+                },
+                {
+                  "id": "C1_m04_R1_sent_b",
+                  "label": "b"
+                },
+                {
+                  "id": "C1_m04_R1_sent_c",
+                  "label": "c"
+                },
+                {
+                  "id": "C1_m04_R1_sent_d",
+                  "label": "d"
+                },
+                {
+                  "id": "C1_m04_R1_sent_e",
+                  "label": "e"
+                },
+                {
+                  "id": "C1_m04_R1_sent_f",
+                  "label": "f"
+                },
+                {
+                  "id": "C1_m04_R1_sent_g",
+                  "label": "g"
+                },
+                {
+                  "id": "C1_m04_R1_sent_h",
+                  "label": "h"
+                }
+              ],
+              "correctAnswer": "b",
+              "explanation": "Lücke 2 steht nach 'ein konzeptioneller Wandel' und vor 'Unternehmen sprechen heute von Lieferkettenresilienz'. Satz b) benennt diesen Wandel: Nicht mehr Effizienz, sondern Widerstandsfähigkeit als Leitwert. Der Begriff 'Leitwert moderner Beschaffungsstrategien' korrespondiert direkt mit dem folgenden 'Lieferkettenresilienz'. Satz h) trifft die Neuausrichtung ebenfalls, ist aber stärker auf bereits laufende Neubewertung fokussiert."
+            },
+            {
+              "id": "C1_m04_R1_q3",
+              "type": "matching",
+              "questionText": "Lücke 3 im Text: '…Redundanz bedeutet Puffer, und Puffer kosten Geld. [3] Eine Studie des McKinsey Global Institute schätzte…'",
+              "matchingSources": [
+                {
+                  "id": "C1_m04_R1_sent_a",
+                  "label": "a"
+                },
+                {
+                  "id": "C1_m04_R1_sent_b",
+                  "label": "b"
+                },
+                {
+                  "id": "C1_m04_R1_sent_c",
+                  "label": "c"
+                },
+                {
+                  "id": "C1_m04_R1_sent_d",
+                  "label": "d"
+                },
+                {
+                  "id": "C1_m04_R1_sent_e",
+                  "label": "e"
+                },
+                {
+                  "id": "C1_m04_R1_sent_f",
+                  "label": "f"
+                },
+                {
+                  "id": "C1_m04_R1_sent_g",
+                  "label": "g"
+                },
+                {
+                  "id": "C1_m04_R1_sent_h",
+                  "label": "h"
+                }
+              ],
+              "correctAnswer": "d",
+              "explanation": "Lücke 3 folgt auf 'Puffer kosten Geld' und leitet zur McKinsey-Studie über niedrigere Gewinnmargen über. Satz d) schließt die Kostenfrage an: Diese Mehrkosten lassen sich nicht einfach auf Verbraucher abwälzen. Das verbindet 'kosten Geld' mit der Folgefrage, wer zahlt. Satz h) passt strukturell, aber 'Bestehende Partnerschaften neu bewerten' setzt einen operationalisierten Strategiewechsel voraus, der hier noch nicht eingeführt ist."
+            },
+            {
+              "id": "C1_m04_R1_q4",
+              "type": "matching",
+              "questionText": "Lücke 4 im Text: '…heute über 570.000 qualifizierte Arbeitskräfte. [4] Ohne gezielte Gegenstrategie…droht dieser Engpass…'",
+              "matchingSources": [
+                {
+                  "id": "C1_m04_R1_sent_a",
+                  "label": "a"
+                },
+                {
+                  "id": "C1_m04_R1_sent_b",
+                  "label": "b"
+                },
+                {
+                  "id": "C1_m04_R1_sent_c",
+                  "label": "c"
+                },
+                {
+                  "id": "C1_m04_R1_sent_d",
+                  "label": "d"
+                },
+                {
+                  "id": "C1_m04_R1_sent_e",
+                  "label": "e"
+                },
+                {
+                  "id": "C1_m04_R1_sent_f",
+                  "label": "f"
+                },
+                {
+                  "id": "C1_m04_R1_sent_g",
+                  "label": "g"
+                },
+                {
+                  "id": "C1_m04_R1_sent_h",
+                  "label": "h"
+                }
+              ],
+              "correctAnswer": "c",
+              "explanation": "Lücke 4 steht nach der Ist-Zahl (570.000) und vor der Warnung 'droht dieser Engpass zur Wachstumsbremse'. Satz c) ergänzt eine Zukunftsprojektion (1,2 Millionen bis 2035), die die Dringlichkeit des Problems belegt. Der anaphorische Bezug 'dieser Engpass' im Folgesatz greift genau dieses Ausmaß auf."
+            },
+            {
+              "id": "C1_m04_R1_q5",
+              "type": "matching",
+              "questionText": "Lücke 5 im Text: '…Eine Lieferkette ist nur so stabil wie die Belegschaft, die sie betreibt. [5] Unternehmen, die in resilientere Netzwerke investieren…'",
+              "matchingSources": [
+                {
+                  "id": "C1_m04_R1_sent_a",
+                  "label": "a"
+                },
+                {
+                  "id": "C1_m04_R1_sent_b",
+                  "label": "b"
+                },
+                {
+                  "id": "C1_m04_R1_sent_c",
+                  "label": "c"
+                },
+                {
+                  "id": "C1_m04_R1_sent_d",
+                  "label": "d"
+                },
+                {
+                  "id": "C1_m04_R1_sent_e",
+                  "label": "e"
+                },
+                {
+                  "id": "C1_m04_R1_sent_f",
+                  "label": "f"
+                },
+                {
+                  "id": "C1_m04_R1_sent_g",
+                  "label": "g"
+                },
+                {
+                  "id": "C1_m04_R1_sent_h",
+                  "label": "h"
+                }
+              ],
+              "correctAnswer": "f",
+              "explanation": "Lücke 5 folgt auf die These 'Lieferkette ist so stabil wie die Belegschaft'. Satz f) konkretisiert mit Branchen (Halbleiter, Pharma, Erneuerbare), bei denen Konzentration auf einzelne Lieferregionen 'existenzbedrohend' ist — ein Beleg für die vorangehende Stabilitätsthese. Satz e) (Stellenausschreibungen inländisch) wäre thematisch möglich, setzt aber einen Kontrast voraus, der hier nicht vorbereitet ist."
+            },
+            {
+              "id": "C1_m04_R1_q6",
+              "type": "matching",
+              "questionText": "Lücke 6 im Text: '…der vor wenigen Jahren noch als akademische Nische galt: Postwachstumsökonomie. [6] Ihre Vertreter argumentieren…'",
+              "matchingSources": [
+                {
+                  "id": "C1_m04_R1_sent_a",
+                  "label": "a"
+                },
+                {
+                  "id": "C1_m04_R1_sent_b",
+                  "label": "b"
+                },
+                {
+                  "id": "C1_m04_R1_sent_c",
+                  "label": "c"
+                },
+                {
+                  "id": "C1_m04_R1_sent_d",
+                  "label": "d"
+                },
+                {
+                  "id": "C1_m04_R1_sent_e",
+                  "label": "e"
+                },
+                {
+                  "id": "C1_m04_R1_sent_f",
+                  "label": "f"
+                },
+                {
+                  "id": "C1_m04_R1_sent_g",
+                  "label": "g"
+                },
+                {
+                  "id": "C1_m04_R1_sent_h",
+                  "label": "h"
+                }
+              ],
+              "correctAnswer": "g",
+              "explanation": "Lücke 6 folgt auf die Einführung der 'Postwachstumsökonomie' und steht vor den konkreten Argumenten ihrer Vertreter. Satz g) beschreibt, wie diese Denkschule durch Krisen politischen Resonanzraum gewann. 'Diese Denkschule' verweist anaphorisch auf Postwachstumsökonomie. Satz h) ist ein plausibler Distractor, thematisch aber auf Unternehmensebene, nicht auf der Ebene politischer Denkschulen."
+            }
+          ]
+        },
+        {
+          "partNumber": 2,
+          "instructions": "Lesen Sie die folgenden fünf Texte (a–e) und die sechs Aufgaben (1–6). Welcher Text passt zu welcher Aufgabe? Ein Text kann mehreren Aufgaben zugeordnet werden.",
+          "instructionsTranslation": "Read the following five texts (a–e) and the six tasks (1–6). Which text matches which task? One text can be assigned to more than one task.",
+          "texts": [
+            {
+              "id": "C1_m04_R2_a",
+              "type": "article",
+              "content": "a) Nearshoring als strategische Antwort\n\nImmer mehr deutsche Industrieunternehmen verlagern Teile ihrer Produktion von Fernost zurück nach Europa oder in nordafrikanische Länder. Dieser Trend, als Nearshoring bezeichnet, verfolgt das Ziel, Transportzeiten zu reduzieren, politische Abhängigkeiten zu senken und schneller auf Marktveränderungen reagieren zu können. Die Mehrkosten im Vergleich zur Produktion in Niedriglohnländern werden dabei bewusst in Kauf genommen. Entscheidend ist nicht mehr der niedrigste Preis, sondern die höchste Versorgungssicherheit."
+            },
+            {
+              "id": "C1_m04_R2_b",
+              "type": "article",
+              "content": "b) Fachkräftemangel trifft Mittelstand besonders hart\n\nWährend Großkonzerne über Auslandsrekrutierung und attraktive Gehaltspakete qualifiziertes Personal anziehen können, stehen kleine und mittelständische Unternehmen vor einer deutlich schwierigeren Situation. In Regionen mit geringer Anbindung an Metropolen fehlt es nicht nur an Fachkräften, sondern auch an der Infrastruktur, die nötig wäre, um Zugewanderte zu integrieren — von Sprachkursen über Wohnraum bis zu Betreuungsangeboten für Kinder. Branchenverbände fordern deshalb, dass Bund und Länder die regionale Infrastruktur stärken, bevor Anwerbeprogramme im Ausland gestartet werden."
+            },
+            {
+              "id": "C1_m04_R2_c",
+              "type": "article",
+              "content": "c) Klimaneutralität als Wettbewerbsfaktor\n\nFür exportorientierte deutsche Unternehmen ist der CO₂-Fußabdruck ihrer Produkte kein bloßes Nachhaltigkeitssignal mehr — er wird zum handfesten Standortfaktor. Der europäische CO₂-Grenzausgleichsmechanismus (CBAM) macht Einfuhren aus Ländern mit niedrigen Klimastandards ab 2026 teurer. Unternehmen, die frühzeitig in Klimaneutralität investiert haben, können sich dadurch gegenüber Konkurrenten aus Drittstaaten einen messbaren Wettbewerbsvorteil sichern. Klimaschutz und wirtschaftliche Interessen laufen damit erstmals strukturell in die gleiche Richtung."
+            },
+            {
+              "id": "C1_m04_R2_d",
+              "type": "article",
+              "content": "d) Wenn Handelsabkommen Lieferkettenrecht verdrängen\n\nDas deutsche Lieferkettensorgfaltspflichtengesetz (LkSG) verpflichtet Unternehmen ab einer bestimmten Größe, Menschenrechts- und Umweltstandards entlang ihrer gesamten Wertschöpfungskette zu überprüfen. Kritiker aus der Wirtschaft befürchten, dass Freihandelsabkommen, die keine vergleichbaren Sozialklauseln enthalten, das Gesetz faktisch aushöhlen könnten: Wer günstig aus Partnerländern mit niedrigeren Standards einkauft, kann Sorgfaltspflichten schwerer durchsetzen. Die Debatte offenbart eine grundlegende Spannung zwischen Liberalisierung und Regulierung."
+            },
+            {
+              "id": "C1_m04_R2_e",
+              "type": "article",
+              "content": "e) Postwachstum als politische Option?\n\nEine wachsende Gruppe von Ökonomen und Politikwissenschaftlern diskutiert, ob das Ziel dauerhaften Wirtschaftswachstums in der zweiten Hälfte des 21. Jahrhunderts noch haltbar ist. Angesichts planetarer Grenzen — Klimaerwärmung, Ressourcenknappheit, Biodiversitätsverlust — plädieren sogenannte Degrowth-Vertreter für eine Wirtschaft, die auf Wohlbefinden statt auf Quantität ausgerichtet ist. Konkret schlagen sie vor, Arbeit gleichmäßiger zu verteilen, Konsum zu besteuern und öffentliche Güter stärker zu finanzieren. Ob demokratische Gesellschaften bereit sind, diesen Umbau politisch zu tragen, bleibt die offene Frage."
+            }
+          ],
+          "questions": [
+            {
+              "id": "C1_m04_R2_q1",
+              "type": "matching",
+              "questionText": "In welchem Text wird beschrieben, dass Transportkosten und politische Abhängigkeiten Unternehmen dazu veranlassen, ihre Beschaffung umzustrukturieren?",
+              "matchingSources": [
+                {
+                  "id": "C1_m04_R2_a",
+                  "label": "a"
+                },
+                {
+                  "id": "C1_m04_R2_b",
+                  "label": "b"
+                },
+                {
+                  "id": "C1_m04_R2_c",
+                  "label": "c"
+                },
+                {
+                  "id": "C1_m04_R2_d",
+                  "label": "d"
+                },
+                {
+                  "id": "C1_m04_R2_e",
+                  "label": "e"
+                }
+              ],
+              "correctAnswer": "a",
+              "explanation": "Text a) beschreibt das Nearshoring explizit als Reaktion auf den Wunsch, Transportzeiten zu reduzieren und politische Abhängigkeiten zu senken. Kein anderer Text behandelt diese operative Umstrukturierung der Beschaffungsketten."
+            },
+            {
+              "id": "C1_m04_R2_q2",
+              "type": "matching",
+              "questionText": "Welcher Text thematisiert eine mögliche Spannung zwischen internationalem Handelsrecht und nationalen Schutzstandards für Arbeitnehmer und Umwelt?",
+              "matchingSources": [
+                {
+                  "id": "C1_m04_R2_a",
+                  "label": "a"
+                },
+                {
+                  "id": "C1_m04_R2_b",
+                  "label": "b"
+                },
+                {
+                  "id": "C1_m04_R2_c",
+                  "label": "c"
+                },
+                {
+                  "id": "C1_m04_R2_d",
+                  "label": "d"
+                },
+                {
+                  "id": "C1_m04_R2_e",
+                  "label": "e"
+                }
+              ],
+              "correctAnswer": "d",
+              "explanation": "Text d) behandelt das LkSG und die Spannung zwischen Freihandelsabkommen und gesetzlichen Sorgfaltspflichten — die 'grundlegende Spannung zwischen Liberalisierung und Regulierung' ist explizit benannt."
+            },
+            {
+              "id": "C1_m04_R2_q3",
+              "type": "matching",
+              "questionText": "In welchem Text wird erklärt, dass strukturelle Rahmenbedingungen, nicht bloße Rekrutierungsmaßnahmen, die entscheidende Herausforderung für kleinere Betriebe darstellen?",
+              "matchingSources": [
+                {
+                  "id": "C1_m04_R2_a",
+                  "label": "a"
+                },
+                {
+                  "id": "C1_m04_R2_b",
+                  "label": "b"
+                },
+                {
+                  "id": "C1_m04_R2_c",
+                  "label": "c"
+                },
+                {
+                  "id": "C1_m04_R2_d",
+                  "label": "d"
+                },
+                {
+                  "id": "C1_m04_R2_e",
+                  "label": "e"
+                }
+              ],
+              "correctAnswer": "b",
+              "explanation": "Text b) betont, dass für den Mittelstand nicht nur Fachkräfte fehlen, sondern auch Integrationsinfrastruktur. Branchenverbände fordern strukturelle Stärkung vor Auslandsanwerbung — Rahmen vor Rekrutierung."
+            },
+            {
+              "id": "C1_m04_R2_q4",
+              "type": "matching",
+              "questionText": "Welcher Text vertritt die These, dass ökologische Investitionen für Unternehmen zu einem messbaren Wettbewerbsvorteil werden können?",
+              "matchingSources": [
+                {
+                  "id": "C1_m04_R2_a",
+                  "label": "a"
+                },
+                {
+                  "id": "C1_m04_R2_b",
+                  "label": "b"
+                },
+                {
+                  "id": "C1_m04_R2_c",
+                  "label": "c"
+                },
+                {
+                  "id": "C1_m04_R2_d",
+                  "label": "d"
+                },
+                {
+                  "id": "C1_m04_R2_e",
+                  "label": "e"
+                }
+              ],
+              "correctAnswer": "c",
+              "explanation": "Text c) argumentiert, dass frühe Klimaneutralitätsinvestitionen durch den CBAM zum Wettbewerbsvorteil werden: Klimaschutz und wirtschaftliche Interessen laufen 'erstmals strukturell in die gleiche Richtung'."
+            },
+            {
+              "id": "C1_m04_R2_q5",
+              "type": "matching",
+              "questionText": "In welchem Text wird eine Wirtschaftsform beschrieben, die gesellschaftliches Wohlbefinden höher bewertet als quantitatives Wachstum?",
+              "matchingSources": [
+                {
+                  "id": "C1_m04_R2_a",
+                  "label": "a"
+                },
+                {
+                  "id": "C1_m04_R2_b",
+                  "label": "b"
+                },
+                {
+                  "id": "C1_m04_R2_c",
+                  "label": "c"
+                },
+                {
+                  "id": "C1_m04_R2_d",
+                  "label": "d"
+                },
+                {
+                  "id": "C1_m04_R2_e",
+                  "label": "e"
+                }
+              ],
+              "correctAnswer": "e",
+              "explanation": "Text e) beschreibt die Degrowth-Bewegung, die explizit eine Wirtschaft 'auf Wohlbefinden statt auf Quantität' fordert."
+            },
+            {
+              "id": "C1_m04_R2_q6",
+              "type": "matching",
+              "questionText": "Welcher Text zeigt, dass wirtschaftliche und regulatorische Logiken im Bereich globaler Lieferketten zunehmend in Konflikt geraten?",
+              "matchingSources": [
+                {
+                  "id": "C1_m04_R2_a",
+                  "label": "a"
+                },
+                {
+                  "id": "C1_m04_R2_b",
+                  "label": "b"
+                },
+                {
+                  "id": "C1_m04_R2_c",
+                  "label": "c"
+                },
+                {
+                  "id": "C1_m04_R2_d",
+                  "label": "d"
+                },
+                {
+                  "id": "C1_m04_R2_e",
+                  "label": "e"
+                }
+              ],
+              "correctAnswer": "d",
+              "explanation": "Text d) thematisiert den Konflikt zwischen Freihandelsliberalisierung und dem LkSG als Regulierungsinstrument — die 'grundlegende Spannung' ist explizit benannt. Text d) ist die zweite richtige Antwort für Q2/Q6 weil es denselben Kernkonflikt aus zwei Fragewinkeln beleuchtet."
+            }
+          ]
+        },
+        {
+          "partNumber": 3,
+          "instructions": "Lesen Sie den folgenden Artikel und entscheiden Sie bei jeder Aussage (Aufgaben 1–11): richtig, falsch oder nicht im Text. Wählen Sie außerdem (Aufgabe 12) den passendsten Titel aus den drei Optionen.",
+          "instructionsTranslation": "Read the following article and decide for each statement (tasks 1–11): correct, incorrect, or not in the text. Additionally choose (task 12) the most appropriate title from the three options.",
+          "texts": [
+            {
+              "id": "C1_m04_R3_article",
+              "type": "article",
+              "content": "Klimaneutralität als Standortfaktor — Chance oder Illusion?\n\nIn der industriepolitischen Debatte der vergangenen Jahre hat sich ein Argumentationsmuster etabliert, das Klimaschutz und wirtschaftliche Wettbewerbsfähigkeit nicht länger als Gegensätze, sondern als sich wechselseitig verstärkende Kräfte begreift. Ob diese Sichtweise der wirtschaftlichen Realität standhält, ist alles andere als ausgemacht.\n\nDer Befund, der diese Diskussion anheizt, ist eindeutig: Der europäische Markt setzt zunehmend auf regulatorische Instrumente, die CO₂-Intensität direkt in Kosten übersetzen. Der CO₂-Grenzausgleichsmechanismus (CBAM), der ab 2026 für ausgewählte Sektoren greift, besteuert Importe aus Ländern ohne vergleichbares Klimaregime. Für Unternehmen, die frühzeitig ihre Produktion dekarbonisiert haben, bedeutet das einen rechnerisch messbaren Preisvorteil gegenüber ausländischen Konkurrenten: Ihre Produkte müssen beim Import keine CBAM-Abgabe entrichten.\n\nDie erste Einschränkung dieses Optimismus betrifft den Zeithorizont. Investitionen in klimaneutrale Produktionsprozesse — seien es Elektrolyseure für grünen Wasserstoff, der Umbau von Industrieöfen oder die Erneuerung ganzer Fahrzeugflotten — amortisieren sich typischerweise über Zeiträume von zehn bis zwanzig Jahren. Unternehmen, die heute investieren, tragen ein erhebliches Regulierungsrisiko: Was geschieht, wenn der politische Konsens über das EU-Klimaziel bricht? Was, wenn ein neues Handelsabkommen die CBAM-Schutzwirkung untergräbt?\n\nDie zweite Einschränkung betrifft die Marktarchitektur. CBAM erfasst derzeit nur Stahl, Zement, Aluminium, Düngemittel, Strom und Wasserstoff — also einen kleinen Ausschnitt der Gesamtwirtschaft. Die breite Industrie, insbesondere der Maschinenbau und die Konsumgüterindustrie, operiert in einem Wettbewerbsrahmen, in dem klimaneutrale Produktion noch keinen systematischen Preisvorteil erzeugt. Hier bleibt Klimaneutralität zunächst eine Kostensteigerung, keine Renditequelle.\n\nEin dritter Aspekt, der in der öffentlichen Debatte zu wenig Beachtung findet, ist die internationale Asymmetrie: Nicht alle Märkte spielen nach den gleichen Regeln. Während Europa mit CBAM eine Internalisierung externer Kosten versucht, operieren Wettbewerber aus Nordamerika, Asien und dem Nahen Osten unter anderen Rahmenbedingungen. Auf Märkten, auf denen europäische Unternehmen gegen asiatische Konkurrenten antreten, kann klimaneutrales Produzieren vorübergehend sogar einen Kostennachteil erzeugen — ein Phänomen, das Ökonomen als Carbon Leakage bezeichnen.\n\nEine bisher kaum beleuchtete Dimension betrifft die Lieferkettenimplikationen der Klimaneutralisierung. Dekarbonisierung wirkt sich nicht nur auf den direkten Produktionsprozess aus, sondern verändert die gesamte Beschaffungslogik. Unternehmen, die auf grünen Wasserstoff oder erneuerbare Energien umsteigen, müssen ihre Zulieferernetzwerke entsprechend neu ausrichten. Diese Transformation erzeugt eine doppelte Herausforderung: Erstens müssen Lieferanten selbst klimakonform agieren, was insbesondere kleine und mittlere Zulieferer vor erhebliche Kapitalfragen stellt. Zweitens entstehen neue regionale Abhängigkeiten — etwa von sonnenscheinreichen Standorten für günstige Solarenergie oder von Regionen mit geeigneten geologischen Bedingungen für Wasserstoffproduktion. Die Resilienz-Logik, die nach der Pandemie die Lieferkettendebatte dominiert, und die Klimaneutralitäts-Logik sind damit nicht immer kongruent.\n\nGleichzeitig wächst die Bedeutung klimaneutraler Kompetenzen auf dem Arbeitsmarkt. Unternehmen, die dekarbonisieren wollen, benötigen Fachkräfte mit Kenntnissen in Energieeffizienz, Wasserstofftechnologie und CO₂-Buchführung — Qualifikationen, die derzeit auf dem europäischen Arbeitsmarkt knapp sind. Klimastrategie und Fachkräftestrategie sind insofern keine separaten Agenden, sondern konvergieren in der betrieblichen Planungsrealität.\n\nDoch trotz dieser strukturellen Einwände wächst die empirische Evidenz, dass Klimaneutralität langfristig Kapitalzuflüsse begünstigt. ESG-orientierte Investoren — institutionelle Fonds, die Umwelt-, Sozial- und Governance-Kriterien berücksichtigen — haben in den vergangenen Jahren signifikant in klimapositive Unternehmen umgeschichtet. Diese Kapitalallokation verändert Finanzierungskosten: Unternehmen mit ambitionierten Klimazielen zahlen häufig niedrigere Risikoaufschläge bei der Emission von Anleihen.\n\nDie ehrliche Antwort auf die Ausgangsfrage lautet daher: Klimaneutralität ist ein potenzieller Standortfaktor — unter bestimmten Bedingungen und mit erheblichen sektoralen Unterschieden. Wer heute pauschal behauptet, Klimaschutz sei der neue Wettbewerbsvorteil, übersieht die strukturellen Asymmetrien und das erhebliche Regulierungsrisiko, dem investierende Unternehmen ausgesetzt sind. Klimaneutralität als Standortfaktor ist kein fertiges Modell, sondern ein in Entstehung befindliches System — dessen Wirksamkeit entscheidend davon abhängt, ob der politische Rahmen stabil bleibt.",
+              "source": "Frankfurter Allgemeine Zeitung, Wirtschaftsteil, März 2026"
+            }
+          ],
+          "questions": [
+            {
+              "id": "C1_m04_R3_q1",
+              "type": "true_false",
+              "questionText": "Der Text vertritt die These, dass Klimaschutz und wirtschaftliche Wettbewerbsfähigkeit stets und in allen Sektoren eine sich verstärkende Einheit bilden.",
+              "options": [
+                "richtig",
+                "falsch",
+                "nicht im Text"
+              ],
+              "correctAnswer": "falsch",
+              "explanation": "Der Text problematisiert genau diese Vereinfachung: Er räumt ein, dass das Argumentationsmuster sich 'etabliert' hat, stellt aber sogleich in Frage, ob es 'der wirtschaftlichen Realität standhält'. Der Schluss ('erhebliche sektorale Unterschiede') widerspricht der pauschal-positiven These."
+            },
+            {
+              "id": "C1_m04_R3_q2",
+              "type": "true_false",
+              "questionText": "Der CBAM besteuert Importe aus Nicht-EU-Ländern, die kein vergleichbares Klimaregulierungssystem besitzen.",
+              "options": [
+                "richtig",
+                "falsch",
+                "nicht im Text"
+              ],
+              "correctAnswer": "richtig",
+              "explanation": "Der Text legt fest: CBAM 'besteuert Importe aus Ländern ohne vergleichbares Klimaregime'. Das entspricht der Aussage im Item."
+            },
+            {
+              "id": "C1_m04_R3_q3",
+              "type": "true_false",
+              "questionText": "Investitionen in klimaneutrale Produktion amortisieren sich nach Angaben des Textes innerhalb von fünf Jahren.",
+              "options": [
+                "richtig",
+                "falsch",
+                "nicht im Text"
+              ],
+              "correctAnswer": "falsch",
+              "explanation": "Der Text nennt Amortisationszeiträume von 'zehn bis zwanzig Jahren', nicht fünf Jahre. Ein klassischer NIT-naher Distractor — richtiger Kontext (Amortisation), falsche Zahl."
+            },
+            {
+              "id": "C1_m04_R3_q4",
+              "type": "true_false",
+              "questionText": "Der Text erwähnt, dass CBAM bislang nicht für den Maschinenbau und die Konsumgüterindustrie gilt.",
+              "options": [
+                "richtig",
+                "falsch",
+                "nicht im Text"
+              ],
+              "correctAnswer": "richtig",
+              "explanation": "Der Text stellt explizit fest, dass CBAM nur bestimmte Sektoren erfasst und 'insbesondere der Maschinenbau und die Konsumgüterindustrie' davon ausgenommen sind."
+            },
+            {
+              "id": "C1_m04_R3_q5",
+              "type": "true_false",
+              "questionText": "Der Text beschreibt Carbon Leakage als ein Phänomen, bei dem klimaneutrale Produktion auf bestimmten Märkten einen Kostennachteil erzeugen kann.",
+              "options": [
+                "richtig",
+                "falsch",
+                "nicht im Text"
+              ],
+              "correctAnswer": "richtig",
+              "explanation": "Der Text definiert Carbon Leakage genau so: 'kann klimaneutrales Produzieren vorübergehend sogar einen Kostennachteil erzeugen — ein Phänomen, das Ökonomen als Carbon Leakage bezeichnen'."
+            },
+            {
+              "id": "C1_m04_R3_q6",
+              "type": "true_false",
+              "questionText": "Laut dem Text haben die USA ein eigenes CO₂-Grenzausgleichssystem eingeführt, das dem europäischen CBAM vergleichbar ist.",
+              "options": [
+                "richtig",
+                "falsch",
+                "nicht im Text"
+              ],
+              "correctAnswer": "nicht im Text",
+              "explanation": "Der Text erwähnt, dass Wettbewerber aus Nordamerika 'unter anderen Rahmenbedingungen operieren', sagt aber nichts über ein US-eigenes CBAM-System. Die spezifische Aussage über US-Regulierung ist nicht im Text — NIT-Item."
+            },
+            {
+              "id": "C1_m04_R3_q7",
+              "type": "true_false",
+              "questionText": "Der Artikel nennt ESG-Investoren als einen Faktor, der klimapositive Unternehmen mit günstigeren Finanzierungsbedingungen belohnt.",
+              "options": [
+                "richtig",
+                "falsch",
+                "nicht im Text"
+              ],
+              "correctAnswer": "richtig",
+              "explanation": "Der Text führt aus, dass ESG-orientierte Investoren in klimapositive Unternehmen umgeschichtet haben und diese 'häufig niedrigere Risikoaufschläge bei der Emission von Anleihen' zahlen — günstigere Finanzierungsbedingungen."
+            },
+            {
+              "id": "C1_m04_R3_q8",
+              "type": "true_false",
+              "questionText": "Der Text behauptet, dass Klimaneutralität in allen Industriebereichen bereits heute einen klaren wirtschaftlichen Vorteil darstellt.",
+              "options": [
+                "richtig",
+                "falsch",
+                "nicht im Text"
+              ],
+              "correctAnswer": "falsch",
+              "explanation": "Der Text sagt ausdrücklich das Gegenteil: In der breiten Industrie 'bleibt Klimaneutralität zunächst eine Kostensteigerung, keine Renditequelle'. Ein Vorteil gilt nur unter bestimmten Bedingungen."
+            },
+            {
+              "id": "C1_m04_R3_q9",
+              "type": "true_false",
+              "questionText": "Der Autor schlägt konkrete gesetzgeberische Maßnahmen vor, um das Regulierungsrisiko für klimainvestierende Unternehmen zu reduzieren.",
+              "options": [
+                "richtig",
+                "falsch",
+                "nicht im Text"
+              ],
+              "correctAnswer": "nicht im Text",
+              "explanation": "Der Text analysiert das Regulierungsrisiko, macht aber keine eigenen gesetzgeberischen Vorschläge. NIT-Item: nahe am Text, aber die Handlungsempfehlung fehlt."
+            },
+            {
+              "id": "C1_m04_R3_q10",
+              "type": "true_false",
+              "questionText": "Laut dem Text hängt die Wirksamkeit von Klimaneutralität als Standortfaktor entscheidend von der politischen Rahmenstabilität ab.",
+              "options": [
+                "richtig",
+                "falsch",
+                "nicht im Text"
+              ],
+              "correctAnswer": "richtig",
+              "explanation": "Der Schlusssatz lautet: 'dessen Wirksamkeit entscheidend davon abhängt, ob der politische Rahmen stabil bleibt'. Diese Formulierung entspricht der Item-Aussage nahezu wörtlich."
+            },
+            {
+              "id": "C1_m04_R3_q11",
+              "type": "true_false",
+              "questionText": "Der Text kommt zu dem Schluss, dass Klimaneutralität als Wettbewerbsvorteil ein vollständig ausgearbeitetes und erprobtes wirtschaftliches Modell darstellt.",
+              "options": [
+                "richtig",
+                "falsch",
+                "nicht im Text"
+              ],
+              "correctAnswer": "falsch",
+              "explanation": "Der Text bezeichnet Klimaneutralität als Standortfaktor als 'kein fertiges Modell, sondern ein in Entstehung befindliches System'. 'Vollständig ausgearbeitet und erprobt' ist das genaue Gegenteil."
+            },
+            {
+              "id": "C1_m04_R3_q12",
+              "type": "mcq",
+              "questionText": "Welcher Titel passt am besten zum Inhalt des Artikels?",
+              "options": [
+                "a) Klimaneutralität: Der bewiesene Weg zur industriellen Wettbewerbsstärke im 21. Jahrhundert",
+                "b) Klimaneutralität als Standortfaktor — Chancen, Grenzen und offene Fragen",
+                "c) Warum europäische Klimapolitik den internationalen Wettbewerb unweigerlich benachteiligt"
+              ],
+              "correctAnswer": "b",
+              "explanation": "Option b) spiegelt die dialektische Struktur: Der Text erkennt Potenzial an (Chancen), benennt strukturelle Einschränkungen (Grenzen) und endet mit offenen Fragen (Regulierungsrisiko). Option a) behauptet einen 'bewiesenen' Weg — der Text zweifelt. Option c) ist ein Extremdistractor; der Text kritisiert nicht pauschal."
+            }
+          ]
+        }
+      ]
+    },
+    "sprachbausteine": {
+      "parts": [
+        {
+          "partNumber": 1,
+          "instructions": "Lesen Sie den folgenden Text. Wählen Sie für jede Lücke (1–22) die richtige Antwort (a, b, c oder d).",
+          "text": "Globalisierung im Wandel: Zwischen Effizienz und Resilienz\n\nDie globale Wirtschaftsordnung steht (1) ____ einem tiefgreifenden Wandel. Jahrzehntelang galt das Prinzip der komparativen Vorteile als unbestrittene Leitlinie: Jedes Land produziert, was es am (2) ____ kann, und tauscht mit anderen. Doch spätestens seit der Pandemie ist klar geworden, dass diese Logik eine strukturelle Verwundbarkeit (3) ____ hat.\n\nUnternehmen reagieren (4) ____ auf diese Erkenntnis mit einer Neuausrichtung ihrer Beschaffungsstrategien. An die Stelle reiner Kostenoptimierung tritt zunehmend das Prinzip der Resilienz — also die Fähigkeit, Störungen (5) ____ zu überstehen und sich rasch zu erholen. Dass dies mit höheren Kosten (6) ____, liegt auf der Hand: Redundante Strukturen, Lagerhaltung und geografische Diversifizierung sind teuer.\n\nZugleich (7) ____ der Fachkräftemangel als strukturelle Herausforderung an Bedeutung. In Deutschland fehlen (8) ____ Schätzungen des Instituts der deutschen Wirtschaft mehr als eine halbe Million qualifizierte Arbeitskräfte. Diese Lücke lässt sich nicht allein durch Auslandsrekrutierung schließen; sie erfordert eine (9) ____ Weiterbildungspolitik und bessere Vereinbarkeit von Familie und Beruf.\n\nBesonders deutlich (10) ____ sich die Lage im Technologiesektor ab: Unternehmen, die in digitale Lieferkettensysteme investieren wollen, stoßen auf einen Engpass an IT-Spezialisten. Ohne ausreichend qualifiziertes Personal können selbst gut konzipierte Resilienzstrategien nicht (11) ____ werden. Der Fachkräftemangel erweist sich (12) ____ als Flaschenhals, der andere Reformprojekte ausbremst.\n\nEinen anderen Ansatz verfolgen die Vertreter der Postwachstumsökonomie. Sie bezweifeln, dass dauerhaftes Wachstum überhaupt (13) ____ ist, und schlagen vor, den Fokus auf Lebensqualität (14) ____ Bruttoinlandsprodukt zu verschieben. Wachstum um (15) ____ Wachstum willen sei in einer Welt mit begrenzten Ressourcen keine tragfähige Strategie.\n\nAuf der anderen Seite stehen Vertreter der Auffassung, dass nur (16) ____ Wirtschaftswachstum die Mittel bereitstellt, die für den ökologischen Umbau notwendig sind. Ohne Wachstum — so ihr Argument — (17) ____ die finanziellen Spielräume für Investitionen in erneuerbare Energien und klimaneutrale Technologien.\n\nIn der Praxis zeigt sich, dass Unternehmen, die frühzeitig (18) ____ Klimaneutralität setzen, von günstigeren Finanzierungsbedingungen profitieren können. ESG-konforme Unternehmen erhalten (19) ____ Kapital zu niedrigeren Zinsen — ein messbarer Vorteil auf Märkten, auf denen Eigenkapitalkosten über Investitionsentscheidungen (20) ____.\n\nFür politische Entscheidungsträger bedeutet das: Die Herausforderungen der Lieferkettenresilienz, des Fachkräftemangels und des klimaneutralen Umbaus sind nicht (21) ____ voneinander zu lösen. Sie erfordern eine kohärente Industriestrategie, die alle drei Dimensionen (22) ____ berücksichtigt.",
+          "questions": [
+            {
+              "blankNumber": 1,
+              "type": "mcq",
+              "options": [
+                "vor",
+                "unter",
+                "mit",
+                "nach"
+              ],
+              "correctAnswer": "vor",
+              "explanation": "'vor einem tiefgreifenden Wandel stehen' ist die idiomatische Kollokation für 'facing a fundamental change'. 'unter einem Wandel stehen' ist ungebräuchlich; 'nach einem Wandel' würde 'nach dem Wandel' erfordern."
+            },
+            {
+              "blankNumber": 2,
+              "type": "mcq",
+              "options": [
+                "günstigsten",
+                "stärksten",
+                "häufigsten",
+                "schnellsten"
+              ],
+              "correctAnswer": "günstigsten",
+              "explanation": "'was es am günstigsten kann' entspricht dem ökonomischen Prinzip der komparativen Vorteile. 'am stärksten' wäre grammatisch, aber inhaltlich falsch im Kontext des Freihandelstheorems."
+            },
+            {
+              "blankNumber": 3,
+              "type": "mcq",
+              "options": [
+                "aufgedeckt",
+                "eingebüßt",
+                "verborgen",
+                "erschaffen"
+              ],
+              "correctAnswer": "aufgedeckt",
+              "explanation": "'eine strukturelle Verwundbarkeit aufdecken' bedeutet, sie sichtbar machen. Die Pandemie hat diese Schwachstelle aufgedeckt (revealed). 'eingebüßt' passt nicht; 'verborgen' ist das Gegenteil."
+            },
+            {
+              "blankNumber": 4,
+              "type": "mcq",
+              "options": [
+                "daraufhin",
+                "dabei",
+                "ohnehin",
+                "hingegen"
+              ],
+              "correctAnswer": "daraufhin",
+              "explanation": "'daraufhin' (als Reaktion darauf) verbindet die Konsequenz (Neuausrichtung) mit dem vorangehenden Grund (Erkenntnis der Verwundbarkeit). 'hingegen' wäre konzessiv-adversativ, was hier nicht passt."
+            },
+            {
+              "blankNumber": 5,
+              "type": "mcq",
+              "options": [
+                "unbeschadet",
+                "standhaft",
+                "unbedingt",
+                "weitgehend"
+              ],
+              "correctAnswer": "unbeschadet",
+              "explanation": "'Störungen unbeschadet überstehen' ist die idiomatische Kollokation für 'to withstand disruptions without harm'. 'standhaft überstehen' ist idiomatisch schwächer; 'unbedingt' wäre adverbial falsch."
+            },
+            {
+              "blankNumber": 6,
+              "type": "mcq",
+              "options": [
+                "einhergeht",
+                "verbunden ist",
+                "verknüpft wird",
+                "behaftet ist"
+              ],
+              "correctAnswer": "einhergeht",
+              "explanation": "'mit höheren Kosten einhergehen' ist die standardsprachliche Kollokation (= to come with higher costs). Im akademisch-journalistischen Register ist 'einhergehen' stilistisch präziser als 'verbunden sein'."
+            },
+            {
+              "blankNumber": 7,
+              "type": "mcq",
+              "options": [
+                "gewinnt",
+                "nimmt",
+                "wächst",
+                "steigert"
+              ],
+              "correctAnswer": "gewinnt",
+              "explanation": "'an Bedeutung gewinnen' ist das idiomatische Funktionsverbgefüge (to gain in importance). 'an Bedeutung nehmen' ist nicht idiomatisch; 'an Bedeutung wachsen' ist semantisch falsch."
+            },
+            {
+              "blankNumber": 8,
+              "type": "mcq",
+              "options": [
+                "laut",
+                "nach",
+                "gemäß",
+                "zufolge"
+              ],
+              "correctAnswer": "laut",
+              "explanation": "'laut + Dativ' als Quellenangabe-Präposition ist korrekt vor nackten Appositionen ohne Artikel: 'laut Schätzungen'. 'zufolge' steht postpositional (den Schätzungen zufolge). C1-Präpositionsregister-Test."
+            },
+            {
+              "blankNumber": 9,
+              "type": "mcq",
+              "options": [
+                "umfassende",
+                "vereinzelte",
+                "rigide",
+                "beiläufige"
+              ],
+              "correctAnswer": "umfassende",
+              "explanation": "'eine umfassende Weiterbildungspolitik' (comprehensive) passt zum Kontext: Das Problem ist groß und erfordert eine systematische Antwort. 'vereinzelte' ist das inhaltliche Gegenteil."
+            },
+            {
+              "blankNumber": 10,
+              "type": "mcq",
+              "options": [
+                "zeichnet",
+                "stellt",
+                "erweist",
+                "zeigt"
+              ],
+              "correctAnswer": "zeichnet",
+              "explanation": "'sich abzeichnen' (= to emerge, to become visible) ist das idiomatische Verb: 'Besonders deutlich zeichnet sich die Lage ab'. 'sich abzeigen' existiert nicht; 'sich abstellen' ist falsch."
+            },
+            {
+              "blankNumber": 11,
+              "type": "mcq",
+              "options": [
+                "umgesetzt",
+                "erstattet",
+                "aufgehoben",
+                "gewertet"
+              ],
+              "correctAnswer": "umgesetzt",
+              "explanation": "'Strategien umsetzen' (to implement) ist die Standardkollokation. 'erstattet' und 'aufgehoben' verändern die Bedeutung fundamental."
+            },
+            {
+              "blankNumber": 12,
+              "type": "mcq",
+              "options": [
+                "somit",
+                "gleichwohl",
+                "indes",
+                "freilich"
+              ],
+              "correctAnswer": "somit",
+              "explanation": "'somit' (= thus, therefore) ist der konsekutive Konnektor für Schlussfolgerungen. 'gleichwohl' und 'freilich' sind konzessiv — das Gegenteil der hier nötigen Folgerungslogik."
+            },
+            {
+              "blankNumber": 13,
+              "type": "mcq",
+              "options": [
+                "nachhaltig",
+                "erreichbar",
+                "wünschenswert",
+                "vertretbar"
+              ],
+              "correctAnswer": "nachhaltig",
+              "explanation": "'ob dauerhaftes Wachstum nachhaltig ist' — im Sinne von 'dauerhaft aufrechtzuerhalten' (sustainable). 'erreichbar' wäre semantisch möglich, trifft aber nicht die Kernkritik der Postwachstumsökonomie, die auf ökologische Grenzen zielt."
+            },
+            {
+              "blankNumber": 14,
+              "type": "mcq",
+              "options": [
+                "gegenüber",
+                "statt",
+                "anstelle von",
+                "anstatt"
+              ],
+              "correctAnswer": "gegenüber",
+              "explanation": "'den Fokus auf Lebensqualität gegenüber BIP verschieben' — 'gegenüber' (versus) ist hier als Vergleichsreferenzpartikel korrekt. 'statt' und 'anstelle' würden andere Kasus-Rektion verlangen."
+            },
+            {
+              "blankNumber": 15,
+              "type": "mcq",
+              "options": [
+                "des",
+                "seines",
+                "ihrer",
+                "bloßes"
+              ],
+              "correctAnswer": "des",
+              "explanation": "'Wachstum um des Wachstums willen' ist die idiomatische Genitivkonstruktion ('for growth's sake'). Die Genitivwiederholung (um X des X willen) ist der präzise C1-Ausdruck."
+            },
+            {
+              "blankNumber": 16,
+              "type": "mcq",
+              "options": [
+                "anhaltendes",
+                "übermäßiges",
+                "gelegentliches",
+                "konventionelles"
+              ],
+              "correctAnswer": "anhaltendes",
+              "explanation": "'anhaltendes Wirtschaftswachstum' (sustained economic growth) ist der idiomatische Ausdruck im wirtschaftspolitischen Diskurs. 'übermäßiges' hätte eine negative Konnotation, die dem pro-Wachstum-Argument widerspräche."
+            },
+            {
+              "blankNumber": 17,
+              "type": "mcq",
+              "options": [
+                "würden fehlen",
+                "fehlten",
+                "fehlen würden",
+                "hätten gefehlt"
+              ],
+              "correctAnswer": "würden fehlen",
+              "explanation": "'Ohne Wachstum würden die finanziellen Spielräume fehlen' — Konjunktiv II im irrealen Konditionalsatz. 'würden fehlen' ist die analytische Form, die im modernen Deutsch bevorzugt wird. C1-Grammatikthema: Konjunktiv II."
+            },
+            {
+              "blankNumber": 18,
+              "type": "mcq",
+              "options": [
+                "auf",
+                "für",
+                "an",
+                "in"
+              ],
+              "correctAnswer": "auf",
+              "explanation": "'auf Klimaneutralität setzen' ist die Standardkollokation (= to bet on, to commit to). 'für Klimaneutralität setzen' ist nicht idiomatisch; 'in Klimaneutralität setzen' existiert nicht in dieser Bedeutung."
+            },
+            {
+              "blankNumber": 19,
+              "type": "mcq",
+              "options": [
+                "dadurch",
+                "demnach",
+                "somit",
+                "infolgedessen"
+              ],
+              "correctAnswer": "dadurch",
+              "explanation": "'erhalten dadurch Kapital' — 'dadurch' (= through this means) bezieht sich auf die ESG-Konformität als Mechanismus. 'demnach' und 'somit' wären konsekutiv, aber 'dadurch' betont den kausalen Mechanismus präziser."
+            },
+            {
+              "blankNumber": 20,
+              "type": "mcq",
+              "options": [
+                "entscheiden",
+                "einwirken",
+                "beeinflussen",
+                "bestimmen"
+              ],
+              "correctAnswer": "entscheiden",
+              "explanation": "'Eigenkapitalkosten entscheiden über Investitionsentscheidungen' — Verb 'entscheiden' mit Präposition 'über' + Akkusativ ist die korrekte Rektion. 'bestimmen' wäre ohne Präposition; 'beeinflussen' ist schwächer als der Kontext verlangt."
+            },
+            {
+              "blankNumber": 21,
+              "type": "mcq",
+              "options": [
+                "getrennt",
+                "isoliert",
+                "separat",
+                "einzeln"
+              ],
+              "correctAnswer": "getrennt",
+              "explanation": "'nicht getrennt voneinander zu lösen' ist die idiomatische Formulierung ('cannot be solved separately'). 'isoliert voneinander' ist fachsprachlicher; 'separat' ist ein Latinismus; 'einzeln voneinander' ist nicht idiomatisch."
+            },
+            {
+              "blankNumber": 22,
+              "type": "mcq",
+              "options": [
+                "gleichermaßen",
+                "gleichzeitig",
+                "gleichberechtigt",
+                "gleichrangig"
+              ],
+              "correctAnswer": "gleichermaßen",
+              "explanation": "'alle drei Dimensionen gleichermaßen berücksichtigen' (= equally, in equal measure) ist der gehoben-akademische Ausdruck für ausgewogene Berücksichtigung. 'gleichzeitig' betont Simultaneität, nicht Gleichgewichtigkeit. Klassischer C1-Registerdiscriminator."
+            }
+          ]
+        }
+      ]
+    },
+    "listening": {
+      "totalTimeMinutes": 40,
+      "parts": [
+        {
+          "partNumber": 1,
+          "instructions": "Sie hören acht kurze Stellungnahmen verschiedener Personen zum Thema Lieferkettenresilienz und Fachkräftemangel. Zehn Zusammenfassungen (a–j) stehen zur Auswahl. Welche Zusammenfassung passt zu welchem Sprecher? Zwei Zusammenfassungen passen nicht. Sie hören die Texte nur einmal.",
+          "instructionsTranslation": "You will hear eight short statements from different people on the topic of supply chain resilience and the shortage of skilled workers. Ten summaries (a–j) are available. Which summary matches which speaker? Two summaries do not fit. You will hear the texts only once.",
+          "audioFile": "assets/audio/C1/mock04/listening_part1.mp3",
+          "playCount": 1,
+          "questions": [
+            {
+              "id": "C1_m04_HV1_q1",
+              "type": "matching",
+              "questionText": "Sprecher 1: Frau Dr. Hartmann, Unternehmensberaterin",
+              "matchingSources": [
+                {
+                  "id": "sum_a",
+                  "label": "a) Die Sprecherin betont, dass Kostenoptimierung allein keine ausreichende Grundlage für moderne Lieferkettenstrategien bildet."
+                },
+                {
+                  "id": "sum_b",
+                  "label": "b) Der Sprecher warnt, dass Fachkräftemangel strukturelle Reformen in der Logistik blockieren kann."
+                },
+                {
+                  "id": "sum_c",
+                  "label": "c) Die Sprecherin sieht in staatlicher Regulierung den einzigen wirksamen Hebel gegen Lieferketten-Risiken."
+                },
+                {
+                  "id": "sum_d",
+                  "label": "d) Der Sprecher argumentiert, dass Nearshoring langfristig teurer ist als globale Beschaffung."
+                },
+                {
+                  "id": "sum_e",
+                  "label": "e) Die Sprecherin erklärt, dass kleine Unternehmen bei der Fachkräftegewinnung gegenüber Großkonzernen strukturell benachteiligt sind."
+                },
+                {
+                  "id": "sum_f",
+                  "label": "f) Der Sprecher plädiert für eine Entkopplung wirtschaftlicher Resilienz vom Wachstumsziel."
+                },
+                {
+                  "id": "sum_g",
+                  "label": "g) Die Sprecherin sieht Klimaneutralitätsinvestitionen als unausweichliche Standortvoraussetzung."
+                },
+                {
+                  "id": "sum_h",
+                  "label": "h) Der Sprecher betont, dass internationale Arbeitsteilung trotz Krisen ein produktives Ordnungsprinzip bleibt."
+                },
+                {
+                  "id": "sum_i",
+                  "label": "i) Die Sprecherin warnt, dass Postwachstumskonzepte gesellschaftlichen Verteilungskonflikten nicht gerecht werden."
+                },
+                {
+                  "id": "sum_j",
+                  "label": "j) Der Sprecher argumentiert, dass Lieferkettenresilienz und Klimaneutralität nicht als Widerspruch, sondern als komplementäre Ziele zu verstehen sind."
+                }
+              ],
+              "correctAnswer": "a",
+              "explanation": "Frau Dr. Hartmann kritisiert, dass Unternehmen zu lange auf reine Kostenoptimierung gesetzt haben und erklärt, Resilienz müsse als gleichwertiger Strategiepfeiler gelten. Zusammenfassung a) trifft genau diesen Kern. Distractor d) klingt ähnlich, aber Hartmann macht keine Aussage über Nearshoring-Kostenvergleich."
+            },
+            {
+              "id": "C1_m04_HV1_q2",
+              "type": "matching",
+              "questionText": "Sprecher 2: Herr Prof. Lindemann, Wirtschaftsgeograph",
+              "matchingSources": [
+                {
+                  "id": "sum_a",
+                  "label": "a"
+                },
+                {
+                  "id": "sum_b",
+                  "label": "b"
+                },
+                {
+                  "id": "sum_c",
+                  "label": "c"
+                },
+                {
+                  "id": "sum_d",
+                  "label": "d"
+                },
+                {
+                  "id": "sum_e",
+                  "label": "e"
+                },
+                {
+                  "id": "sum_f",
+                  "label": "f"
+                },
+                {
+                  "id": "sum_g",
+                  "label": "g"
+                },
+                {
+                  "id": "sum_h",
+                  "label": "h"
+                },
+                {
+                  "id": "sum_i",
+                  "label": "i"
+                },
+                {
+                  "id": "sum_j",
+                  "label": "j"
+                }
+              ],
+              "correctAnswer": "h",
+              "explanation": "Prof. Lindemann verteidigt das Prinzip der internationalen Arbeitsteilung trotz der durch die Pandemie sichtbar gewordenen Schwachstellen. Zusammenfassung h) trifft seine Position. Distractor d) (Nearshoring teurer) ist nicht sein Argument."
+            },
+            {
+              "id": "C1_m04_HV1_q3",
+              "type": "matching",
+              "questionText": "Sprecher 3: Frau Özdemir, Gewerkschaftssekretärin",
+              "matchingSources": [
+                {
+                  "id": "sum_a",
+                  "label": "a"
+                },
+                {
+                  "id": "sum_b",
+                  "label": "b"
+                },
+                {
+                  "id": "sum_c",
+                  "label": "c"
+                },
+                {
+                  "id": "sum_d",
+                  "label": "d"
+                },
+                {
+                  "id": "sum_e",
+                  "label": "e"
+                },
+                {
+                  "id": "sum_f",
+                  "label": "f"
+                },
+                {
+                  "id": "sum_g",
+                  "label": "g"
+                },
+                {
+                  "id": "sum_h",
+                  "label": "h"
+                },
+                {
+                  "id": "sum_i",
+                  "label": "i"
+                },
+                {
+                  "id": "sum_j",
+                  "label": "j"
+                }
+              ],
+              "correctAnswer": "e",
+              "explanation": "Frau Özdemir spricht aus Gewerkschaftsperspektive über die strukturelle Benachteiligung kleiner Unternehmen. Zusammenfassung e) beschreibt die Asymmetrie zwischen Mittelstand und Großkonzernen bei Fachkräftegewinnung."
+            },
+            {
+              "id": "C1_m04_HV1_q4",
+              "type": "matching",
+              "questionText": "Sprecher 4: Herr Dr. Baumann, Logistikforscher",
+              "matchingSources": [
+                {
+                  "id": "sum_a",
+                  "label": "a"
+                },
+                {
+                  "id": "sum_b",
+                  "label": "b"
+                },
+                {
+                  "id": "sum_c",
+                  "label": "c"
+                },
+                {
+                  "id": "sum_d",
+                  "label": "d"
+                },
+                {
+                  "id": "sum_e",
+                  "label": "e"
+                },
+                {
+                  "id": "sum_f",
+                  "label": "f"
+                },
+                {
+                  "id": "sum_g",
+                  "label": "g"
+                },
+                {
+                  "id": "sum_h",
+                  "label": "h"
+                },
+                {
+                  "id": "sum_i",
+                  "label": "i"
+                },
+                {
+                  "id": "sum_j",
+                  "label": "j"
+                }
+              ],
+              "correctAnswer": "b",
+              "explanation": "Dr. Baumann argumentiert: Ohne qualifizierte IT- und Logistikspezialisten können Resilienzreformen nicht umgesetzt werden. Zusammenfassung b) trifft diesen Kern: Fachkräftemangel blockiert strukturelle Reformen in der Logistik."
+            },
+            {
+              "id": "C1_m04_HV1_q5",
+              "type": "matching",
+              "questionText": "Sprecher 5: Frau Prof. Schreiber, Wirtschaftsethikerin",
+              "matchingSources": [
+                {
+                  "id": "sum_a",
+                  "label": "a"
+                },
+                {
+                  "id": "sum_b",
+                  "label": "b"
+                },
+                {
+                  "id": "sum_c",
+                  "label": "c"
+                },
+                {
+                  "id": "sum_d",
+                  "label": "d"
+                },
+                {
+                  "id": "sum_e",
+                  "label": "e"
+                },
+                {
+                  "id": "sum_f",
+                  "label": "f"
+                },
+                {
+                  "id": "sum_g",
+                  "label": "g"
+                },
+                {
+                  "id": "sum_h",
+                  "label": "h"
+                },
+                {
+                  "id": "sum_i",
+                  "label": "i"
+                },
+                {
+                  "id": "sum_j",
+                  "label": "j"
+                }
+              ],
+              "correctAnswer": "f",
+              "explanation": "Prof. Schreiber stellt als Wirtschaftsethikerin die Wachstumsprämisse in Frage und plädiert für eine Entkopplung von Resilienz und Wachstumsziel. Zusammenfassung f) trifft ihre These."
+            },
+            {
+              "id": "C1_m04_HV1_q6",
+              "type": "matching",
+              "questionText": "Sprecher 6: Herr Bergmann, Unternehmer im Mittelstand",
+              "matchingSources": [
+                {
+                  "id": "sum_a",
+                  "label": "a"
+                },
+                {
+                  "id": "sum_b",
+                  "label": "b"
+                },
+                {
+                  "id": "sum_c",
+                  "label": "c"
+                },
+                {
+                  "id": "sum_d",
+                  "label": "d"
+                },
+                {
+                  "id": "sum_e",
+                  "label": "e"
+                },
+                {
+                  "id": "sum_f",
+                  "label": "f"
+                },
+                {
+                  "id": "sum_g",
+                  "label": "g"
+                },
+                {
+                  "id": "sum_h",
+                  "label": "h"
+                },
+                {
+                  "id": "sum_i",
+                  "label": "i"
+                },
+                {
+                  "id": "sum_j",
+                  "label": "j"
+                }
+              ],
+              "correctAnswer": "i",
+              "explanation": "Herr Bergmann als Mittelstandsunternehmer ist skeptisch gegenüber Postwachstumskonzepten: Sie lösen keine Verteilungsfragen. Zusammenfassung i) beschreibt diese Skepsis."
+            },
+            {
+              "id": "C1_m04_HV1_q7",
+              "type": "matching",
+              "questionText": "Sprecher 7: Frau Nakamura, Klimaökonomin",
+              "matchingSources": [
+                {
+                  "id": "sum_a",
+                  "label": "a"
+                },
+                {
+                  "id": "sum_b",
+                  "label": "b"
+                },
+                {
+                  "id": "sum_c",
+                  "label": "c"
+                },
+                {
+                  "id": "sum_d",
+                  "label": "d"
+                },
+                {
+                  "id": "sum_e",
+                  "label": "e"
+                },
+                {
+                  "id": "sum_f",
+                  "label": "f"
+                },
+                {
+                  "id": "sum_g",
+                  "label": "g"
+                },
+                {
+                  "id": "sum_h",
+                  "label": "h"
+                },
+                {
+                  "id": "sum_i",
+                  "label": "i"
+                },
+                {
+                  "id": "sum_j",
+                  "label": "j"
+                }
+              ],
+              "correctAnswer": "j",
+              "explanation": "Frau Nakamura argumentiert, dass Lieferkettenresilienz und Klimaneutralität keine Gegensätze sind, sondern als komplementäre Strategien entwickelt werden können. Zusammenfassung j) trifft diese Position. Distractor g) betont Unausweichlichkeit, nicht Komplementarität."
+            },
+            {
+              "id": "C1_m04_HV1_q8",
+              "type": "matching",
+              "questionText": "Sprecher 8: Herr Wolff, Industrieverbandsvertreter",
+              "matchingSources": [
+                {
+                  "id": "sum_a",
+                  "label": "a"
+                },
+                {
+                  "id": "sum_b",
+                  "label": "b"
+                },
+                {
+                  "id": "sum_c",
+                  "label": "c"
+                },
+                {
+                  "id": "sum_d",
+                  "label": "d"
+                },
+                {
+                  "id": "sum_e",
+                  "label": "e"
+                },
+                {
+                  "id": "sum_f",
+                  "label": "f"
+                },
+                {
+                  "id": "sum_g",
+                  "label": "g"
+                },
+                {
+                  "id": "sum_h",
+                  "label": "h"
+                },
+                {
+                  "id": "sum_i",
+                  "label": "i"
+                },
+                {
+                  "id": "sum_j",
+                  "label": "j"
+                }
+              ],
+              "correctAnswer": "g",
+              "explanation": "Herr Wolff als Verbandsvertreter argumentiert, dass Klimaneutralitätsinvestitionen durch den CBAM zur notwendigen Standortvoraussetzung werden. Zusammenfassung g) beschreibt diese Position. Distractors c) und d) sind unbelegt."
+            }
+          ]
+        },
+        {
+          "partNumber": 2,
+          "instructions": "Sie hören ein Interview mit Dr. Mia Johansson zum Thema Fachkräftemangel und Zuwanderung. Lesen Sie zuerst die zehn Aufgaben. Was ist richtig? Kreuzen Sie an: a, b oder c. Sie hören das Interview nur einmal.",
+          "instructionsTranslation": "You will hear an interview with Dr. Mia Johansson on the topic of the skilled labour shortage and immigration. First read the ten tasks. What is correct? Choose a, b, or c. You will hear the interview only once.",
+          "audioFile": "assets/audio/C1/mock04/listening_part2.mp3",
+          "playCount": 1,
+          "questions": [
+            {
+              "id": "C1_m04_HV2_q1",
+              "type": "mcq",
+              "questionText": "Was ist laut Dr. Johansson das Kernproblem beim Thema Fachkräftemangel in Deutschland?",
+              "options": [
+                "a) Deutschland qualifiziert zu viele Arbeitskräfte im Ausland und zu wenige im Inland.",
+                "b) Das Problem ist nicht Mangel an Bewerbern, sondern Mangel an strukturellen Voraussetzungen für deren Integration.",
+                "c) Deutsche Unternehmen sind grundsätzlich nicht bereit, ausländische Qualifikationen anzuerkennen."
+              ],
+              "correctAnswer": "b",
+              "explanation": "Dr. Johansson differenziert: Das Kernproblem ist strukturell — fehlende Integrationsinfrastruktur, nicht fehlende Bewerber. Option a) ist nicht ihre These; Option c) ist eine Vereinfachung, die sie so nicht vornimmt."
+            },
+            {
+              "id": "C1_m04_HV2_q2",
+              "type": "mcq",
+              "questionText": "Wie bewertet Dr. Johansson das deutsche Anerkennungsverfahren für ausländische Berufsabschlüsse?",
+              "options": [
+                "a) Als europäischen Maßstab, an dem sich andere Länder orientieren sollten.",
+                "b) Als bürokratisch überlastet, mit Bearbeitungszeiten, die qualifizierte Zuwanderer in andere Länder treiben.",
+                "c) Als reformiert und deutlich verbessert seit dem Anerkennungsgesetz von 2012."
+              ],
+              "correctAnswer": "b",
+              "explanation": "Dr. Johansson beschreibt das Verfahren als zu langsam und bürokratisch — Qualifizierte wechseln zu Kanada, Australien oder den Niederlanden. Option a) ist das Gegenteil ihrer Position; Option c) nennt das Gesetz, stellt es aber nicht als Erfolgsgeschichte dar."
+            },
+            {
+              "id": "C1_m04_HV2_q3",
+              "type": "mcq",
+              "questionText": "Was sagt Dr. Johansson über die Wohnraumsituation für Zuwandernde in strukturschwachen Regionen?",
+              "options": [
+                "a) Der Wohnungsmarkt in ländlichen Regionen sei attraktiver als in Großstädten.",
+                "b) Fehlender Wohnraum und mangelnde soziale Infrastruktur machen ländliche Regionen für Fachkräfte unattraktiv.",
+                "c) Wohnraum sei in Deutschland insgesamt ausreichend, das Problem sei die Verteilung."
+              ],
+              "correctAnswer": "b",
+              "explanation": "Dr. Johansson nennt fehlenden Wohnraum und fehlende soziale Infrastruktur als konkrete Hürden. Option a) ist das Gegenteil; Option c) ist eine Position, die sie nicht vertritt."
+            },
+            {
+              "id": "C1_m04_HV2_q4",
+              "type": "mcq",
+              "questionText": "Welche Rolle weist Dr. Johansson der Sprachförderung bei der Fachkräftezuwanderung zu?",
+              "options": [
+                "a) Sie sieht Sprachkurse als nachrangig — für hochqualifizierte Fachkräfte reiche Englisch.",
+                "b) Sie hält Sprachförderung für wichtig, warnt aber davor, Deutschkenntnisse als Voraussetzung statt als Teil des Integrationsprozesses zu verstehen.",
+                "c) Sie empfiehlt, Deutschkurse vollständig aus dem Anerkennungsverfahren herauszulösen."
+              ],
+              "correctAnswer": "b",
+              "explanation": "Dr. Johansson macht eine differenzierte Aussage: Sprache ist wichtig, aber Deutschkenntnisse dürfen nicht als Eintrittshürde fungieren — sie sind Teil des Prozesses, nicht seine Voraussetzung. Klassischer C1-Hedging-Trap."
+            },
+            {
+              "id": "C1_m04_HV2_q5",
+              "type": "mcq",
+              "questionText": "Wie kommentiert Dr. Johansson den internationalen Vergleich bei der Anwerbung von Fachkräften?",
+              "options": [
+                "a) Deutschland sei führend in Europa und habe das beste System zur Fachkräftezuwanderung.",
+                "b) Kanada und Australien hätten durch punktebasierte Einwanderungssysteme strukturelle Vorteile, die Deutschland noch nicht aufgeholt hat.",
+                "c) Deutschland benötige kein Punktesystem, da der Arbeitsmarkt sich selbst reguliere."
+              ],
+              "correctAnswer": "b",
+              "explanation": "Dr. Johansson verweist konkret auf Kanada und Australien als Benchmark-Länder. Deutschland habe diesen Rückstand noch nicht aufgeholt. Option a) wäre das Gegenteil."
+            },
+            {
+              "id": "C1_m04_HV2_q6",
+              "type": "mcq",
+              "questionText": "Was versteht Dr. Johansson unter dem Begriff 'Willkommenskultur' in Bezug auf Fachkräfte?",
+              "options": [
+                "a) Eine staatliche Kampagne mit Marketingmaßnahmen, die Deutschland im Ausland bekannt machen soll.",
+                "b) Eine strukturell verankerte Haltung in Unternehmen, Behörden und Gesellschaft, die Zuwanderung aktiv erleichtert.",
+                "c) Ein Konzept, das in der Praxis gescheitert ist und durch restriktivere Kriterien ersetzt werden sollte."
+              ],
+              "correctAnswer": "b",
+              "explanation": "Dr. Johansson unterscheidet zwischen Marketing-Willkommenskultur (die sie kritisiert) und strukturell verankerter Haltung (die sie fordert). Option a) beschreibt das, was sie ablehnt."
+            },
+            {
+              "id": "C1_m04_HV2_q7",
+              "type": "mcq",
+              "questionText": "Äußert sich Dr. Johansson auch zum Thema inländische Weiterbildung?",
+              "options": [
+                "a) Ja, sie sieht Weiterbildung als vollständigen Ersatz für Zuwanderung.",
+                "b) Ja, sie betont, dass Zuwanderung und inländische Qualifizierung sich ergänzen müssen, nicht ersetzen.",
+                "c) Nein, Weiterbildung ist nicht ihr Thema — sie konzentriert sich ausschließlich auf Zuwanderungspolitik."
+              ],
+              "correctAnswer": "b",
+              "explanation": "Dr. Johansson macht klar: Inländische Weiterbildung und Zuwanderung sind komplementäre Strategien. Option a) überspitzt; Option c) ist faktisch falsch."
+            },
+            {
+              "id": "C1_m04_HV2_q8",
+              "type": "mcq",
+              "questionText": "Wie bewertet Dr. Johansson die Rolle von Kommunen bei der Fachkräfteintegration?",
+              "options": [
+                "a) Kommunen seien überlastet und sollten aus der Integrationsverantwortung entlassen werden.",
+                "b) Kommunen seien zentrale Akteure, erhielten aber zu wenige Mittel, um ihre Aufgaben erfüllen zu können.",
+                "c) Kommunen hätten ausreichend Ressourcen, setzten diese aber falsch ein."
+              ],
+              "correctAnswer": "b",
+              "explanation": "Dr. Johansson sieht Kommunen als unverzichtbare Integrationsakteure, kritisiert aber die Unterfinanzierung und fordert mehr Bundesmittel. Option a) und c) widersprechen ihrer Position."
+            },
+            {
+              "id": "C1_m04_HV2_q9",
+              "type": "mcq",
+              "questionText": "Was empfiehlt Dr. Johansson als dringlichste Maßnahme?",
+              "options": [
+                "a) Ein nationales Fachkräftegipfeltreffen zwischen Gewerkschaften, Wirtschaft und Politik.",
+                "b) Die Beschleunigung und Vereinfachung der Anerkennungsverfahren als unmittelbarer erster Schritt.",
+                "c) Eine vollständige Abkehr vom bisherigen Zuwanderungsrecht zugunsten eines Punktesystems."
+              ],
+              "correctAnswer": "b",
+              "explanation": "Dr. Johansson nennt die Vereinfachung der Anerkennungsverfahren als unmittelbar wirksamsten Schritt. Option a) klingt plausibel, ist aber nicht ihre konkrete Empfehlung. Option c) ist ein Langfristziel."
+            },
+            {
+              "id": "C1_m04_HV2_q10",
+              "type": "mcq",
+              "questionText": "Wie beendet der Moderator das Interview?",
+              "options": [
+                "a) Er nennt konkrete Zeitrahmen, bis wann der Fachkräftemangel behoben sein wird.",
+                "b) Er fasst die Kernforderungen Dr. Johanssons zusammen und verweist auf weiterführendes Material.",
+                "c) Er kündigt eine Folgesendung zum Thema Rentenpolitik an."
+              ],
+              "correctAnswer": "b",
+              "explanation": "Der Moderator beendet das Interview mit einer Zusammenfassung der Kernthesen und verweist auf ergänzendes Material. Er nennt keine Zeitrahmen und kündigt keine Rentenfolgesendung an."
+            }
+          ]
+        },
+        {
+          "partNumber": 3,
+          "instructions": "Sie hören einen akademischen Vortrag zum Thema Postwachstumsökonomie. In Ihrem Testheft finden Sie fünf Folien mit je zwei Lücken. Füllen Sie die Lücken während des Vortrags aus. Sie hören den Vortrag nur einmal.",
+          "instructionsTranslation": "You will hear an academic lecture on the topic of post-growth economics. In your test booklet you will find five slides each with two gaps. Fill in the gaps during the lecture. You will hear the lecture only once.",
+          "audioFile": "assets/audio/C1/mock04/listening_part3.mp3",
+          "playCount": 1,
+          "questions": [
+            {
+              "id": "C1_m04_HV3_q1",
+              "type": "mcq",
+              "questionText": "Folie 1, Lücke 1: Ausgangspunkt der Postwachstumstheorie — planetare ____",
+              "options": [
+                "Grenzen",
+                "Ressourcen",
+                "Krisen",
+                "Systeme"
+              ],
+              "correctAnswer": "Grenzen",
+              "explanation": "Der Vortragende nennt 'planetare Grenzen' als Ausgangspunkt — der Begriff ist in der Fachliteratur (Rockström 2009) etabliert und wird im Vortrag wörtlich eingeführt."
+            },
+            {
+              "id": "C1_m04_HV3_q2",
+              "type": "mcq",
+              "questionText": "Folie 1, Lücke 2: Führende deutsche Forschungseinrichtung — Institut für ____ Wirtschaftsforschung (IÖW)",
+              "options": [
+                "ökologische",
+                "soziale",
+                "digitale",
+                "regionale"
+              ],
+              "correctAnswer": "ökologische",
+              "explanation": "Das Institut für ökologische Wirtschaftsforschung (IÖW) ist die führende deutsche Forschungseinrichtung im Bereich Postwachstum — der Vortragende nennt es beim vollständigen Namen."
+            },
+            {
+              "id": "C1_m04_HV3_q3",
+              "type": "mcq",
+              "questionText": "Folie 2, Lücke 3: Kernkritik am BIP — es misst ____ nicht",
+              "options": [
+                "Wohlbefinden",
+                "Produktivität",
+                "Wettbewerbsfähigkeit",
+                "Beschäftigung"
+              ],
+              "correctAnswer": "Wohlbefinden",
+              "explanation": "Die Kernkritik der Postwachstumsökonomie am BIP: Es bildet Wohlbefinden nicht ab — Umweltzerstörung, unbezahlte Sorgearbeit und soziale Kohäsion bleiben unsichtbar."
+            },
+            {
+              "id": "C1_m04_HV3_q4",
+              "type": "mcq",
+              "questionText": "Folie 2, Lücke 4: Alternativindikator zum BIP — ____ (GPI)",
+              "options": [
+                "Genuine Progress Indicator",
+                "Human Capital Index",
+                "Social Progress Index",
+                "Happiness Index"
+              ],
+              "correctAnswer": "Genuine Progress Indicator",
+              "explanation": "Der Genuine Progress Indicator (GPI) wird im Vortrag als erweiterter Wohlfahrtsindikator vorgestellt — er zieht Umwelt- und Sozialkosten ab und addiert unbezahlte Arbeit."
+            },
+            {
+              "id": "C1_m04_HV3_q5",
+              "type": "mcq",
+              "questionText": "Folie 3, Lücke 5: Postwachstum-Kerninstrument — ____ Arbeitszeitverkürzung",
+              "options": [
+                "kollektive",
+                "individuelle",
+                "freiwillige",
+                "partielle"
+              ],
+              "correctAnswer": "kollektive",
+              "explanation": "Die kollektive Arbeitszeitverkürzung (gesellschaftliches Projekt, z. B. 32-Stunden-Woche) ist ein Kerninstrument — der Vortragende betont die kollektive Dimension im Unterschied zur individuellen Teilzeit."
+            },
+            {
+              "id": "C1_m04_HV3_q6",
+              "type": "mcq",
+              "questionText": "Folie 3, Lücke 6: Finanzierungsinstrument für öffentliche Güter — progressive ____",
+              "options": [
+                "Vermögenssteuer",
+                "Einkommensteuer",
+                "Kapitalsteuer",
+                "Erbschaftssteuer"
+              ],
+              "correctAnswer": "Vermögenssteuer",
+              "explanation": "Im Postwachstumsmodell wird eine progressive Vermögenssteuer als Finanzierungsinstrument für öffentliche Güter bevorzugt — der Vortragende unterscheidet dies von der Einkommensteuer."
+            },
+            {
+              "id": "C1_m04_HV3_q7",
+              "type": "mcq",
+              "questionText": "Folie 4, Lücke 7: Hauptkritik an Postwachstumskonzepten — demokratische ____",
+              "options": [
+                "Durchsetzbarkeit",
+                "Finanzierbarkeit",
+                "Legitimation",
+                "Mobilisierung"
+              ],
+              "correctAnswer": "Durchsetzbarkeit",
+              "explanation": "Der Vortragende referiert die wichtigste Kritik: die Frage der demokratischen Durchsetzbarkeit — ob Bevölkerungen für Wohlstandsrückgang votieren würden. Er unterscheidet das von normativer Legitimation."
+            },
+            {
+              "id": "C1_m04_HV3_q8",
+              "type": "mcq",
+              "questionText": "Folie 4, Lücke 8: Gegenargument der Wachstumsbefürworter — nur Wachstum schafft Spielraum für ____",
+              "options": [
+                "Umverteilung",
+                "Digitalisierung",
+                "Klimainvestitionen",
+                "Beschäftigung"
+              ],
+              "correctAnswer": "Umverteilung",
+              "explanation": "Das klassische Gegenargument: Ohne Wachstum gibt es keine Verteilungsmasse für soziale Gerechtigkeit. Der Vortragende referiert diese Position als 'Wachstumsoptimismus-These'."
+            },
+            {
+              "id": "C1_m04_HV3_q9",
+              "type": "mcq",
+              "questionText": "Folie 5, Lücke 9: Weltregion mit Degrowth-Experimenten — ____ Europa",
+              "options": [
+                "südliches",
+                "nordisches",
+                "östliches",
+                "mitteleuropäisches"
+              ],
+              "correctAnswer": "südliches",
+              "explanation": "Der Vortragende verweist auf Experimente in Spanien, Griechenland und anderen südeuropäischen Ländern, wo Postwachstumskonzepte in Kommunal- und Sozialpolitik erprobt werden."
+            },
+            {
+              "id": "C1_m04_HV3_q10",
+              "type": "mcq",
+              "questionText": "Folie 5, Lücke 10: Fazit des Vortragenden — Postwachstum als Diagnose, nicht als ____",
+              "options": [
+                "Blaupause",
+                "Ideologie",
+                "Utopie",
+                "Programm"
+              ],
+              "correctAnswer": "Blaupause",
+              "explanation": "Der Vortragende schließt: Postwachstum ist eine wertvolle Diagnose gesellschaftlicher Wachstumspathologien, aber keine fertige Blaupause für politisches Handeln."
+            }
+          ]
+        }
+      ]
+    },
+    "writing": {
+      "totalTimeMinutes": 70,
+      "tasks": [
+        {
+          "taskNumber": 1,
+          "type": "essay",
+          "instructions": "Wählen Sie eine der folgenden zwei Aufgaben (A oder B) und schreiben Sie einen Text von mindestens 350 Wörtern. Beachten Sie alle vier Leitpunkte.",
+          "instructionsTranslation": "Choose one of the following two tasks (A or B) and write a text of at least 350 words. Address all four guiding points.",
+          "prompt": "Aufgabe A — Erörterung:\n\nZwei Positionen zur Fachkräftezuwanderung:\n\nPosition 1 (Wirtschaftsverband): „Deutschland braucht eine mutige Zuwanderungspolitik. Ohne qualifizierte Arbeitskräfte aus dem Ausland wird die Wirtschaft langfristig schrumpfen. Bürokratische Hürden beim Anerkennungsverfahren müssen sofort abgebaut werden.“\n\nPosition 2 (Lokalpolitiker): „Zuwanderung löst den Fachkräftemangel nicht, wenn die Integrationsinfrastruktur fehlt. Wir brauchen zuerst Investitionen in Schulen, Wohnraum und Sprachkurse — dann erst gezielte Anwerbung.“\n\nLeitpunkte:\n1. Stellen Sie das Thema in einen größeren gesellschaftlichen Kontext.\n2. Diskutieren Sie Argumente für Position 1.\n3. Diskutieren Sie Argumente für Position 2.\n4. Begründen Sie Ihren eigenen Standpunkt.\n\nAufgabe B — Stellungnahme:\n\nZwei Positionen zur Postwachstumsökonomie:\n\nPosition 1 (Ökonom): „Eine Volkswirtschaft ohne Wachstum ist auf Dauer nicht stabil. Nur Wachstum schafft die Mittel für Klimainvestitionen, soziale Absicherung und technologischen Fortschritt.“\n\nPosition 2 (Umweltökonomin): „Dauerhaftes Wachstum in einer endlichen Welt ist eine Illusion. Gesellschaften müssen lernen, Wohlstand jenseits des BIP zu messen und innerhalb planetärer Grenzen zu wirtschaften.“\n\nLeitpunkte:\n1. Erläutern Sie, warum diese Debatte heute besonders relevant ist.\n2. Diskutieren Sie, welche Argumente für die Wachstumsposition sprechen.\n3. Diskutieren Sie, welche Argumente für die Postwachstumsposition sprechen.\n4. Nehmen Sie Stellung: Welche Position halten Sie für überzeugender?",
+          "promptTranslation": "Task A — Argumentative essay on skilled labour immigration. Task B — Opinion piece on post-growth economics.",
+          "requiredPoints": [
+            "Gesellschaftlicher Kontext / Relevanz der Debatte",
+            "Argumente für Position 1",
+            "Argumente für Position 2",
+            "Eigener begründeter Standpunkt"
+          ],
+          "wordCountMin": 350,
+          "wordCountMax": 420,
+          "sampleAnswer": "Aufgabe A — Musterlösung:\n\nDer Fachkräftemangel zählt zu den drängendsten Strukturproblemen der deutschen Volkswirtschaft. In einer Gesellschaft, die demografisch altert und gleichzeitig eine technologische Transformation bewältigen muss, ist die Frage, wie qualifiziertes Personal gewonnen und gehalten wird, weit mehr als eine betriebswirtschaftliche Frage — sie berührt die langfristige Innovationsfähigkeit des gesamten Landes.\n\nFür eine mutige Zuwanderungspolitik spricht zunächst die schiere Dringlichkeit: Über 570.000 offene Stellen, Prognosen von mehr als einer Million fehlender Fachkräfte bis 2035 — diese Zahlen lassen sich nicht durch inländische Weiterbildung allein kompensieren. Unternehmen, die heute keine Ingenieure, IT-Spezialisten oder Pflegekräfte finden, verlieren Wettbewerbsfähigkeit, die sich nicht zurückgewinnen lässt. Zudem haben andere Länder gezeigt, dass offene, planvolle Zuwanderungssysteme — wie Kanadas Express Entry oder Australiens punktebasiertes Modell — funktionieren: Sie ziehen genau die Profile an, die der Arbeitsmarkt braucht. Bürokratische Hürden beim Anerkennungsverfahren zu senken ist in diesem Licht keine Konzession, sondern überfällige Modernisierung.\n\nGleichzeitig ist der Einwand der Lokalpolitikerin nicht von der Hand zu weisen: Zuwanderung allein schafft keine Willkommenskultur. Wer nach Deutschland kommt und keinen erschwinglichen Wohnraum, keinen Kita-Platz und keinen niedrigschwelligen Sprachkurs findet, wird nicht bleiben — und wird das Erlebte als Negativmultiplikator in die Herkunftsländer tragen. Die Bereitschaft, in strukturschwachen Regionen anzukommen, hängt entscheidend davon ab, ob dort die Bedingungen stimmen, die ein Leben aufzubauen erlauben. Investitionen in diese Infrastruktur sind daher keine Alternative zur Zuwanderung, sondern deren notwendige Voraussetzung.\n\nIn Anbetracht dieser Abwägung vertrete ich die Position, dass weder Zuwanderung allein noch Infrastruktur allein ausreicht — es handelt sich um eine simultane Herausforderung, die eine kohärente Politik erfordert. Gleichwohl ist die zeitliche Priorisierung entscheidend: Bevor Anwerbeprogramme skaliert werden, müssen Anerkennungsverfahren beschleunigt und kommunale Integrationskapazitäten gestärkt werden. Wer die Reihenfolge umkehrt, riskiert, qualifizierte Zugewanderte zu gewinnen und zu enttäuschen — ein doppelter Schaden, der politisch wie wirtschaftlich teuer zu stehen kommt.",
+          "scoringCriteria": [
+            {
+              "criterion": "Aufgabengerechtheit",
+              "maxPoints": 12,
+              "description": "Alle vier Leitpunkte mit C1-Tiefe adressiert; Erörterung sachlich und abwägend; eigener Standpunkt begründet."
+            },
+            {
+              "criterion": "Repertoire",
+              "maxPoints": 12,
+              "description": "Argumentatives Lexikon (Fachkräftemangel, Integrationsinfrastruktur, Wettbewerbsfähigkeit); FVG; Konnektoren-Vielfalt; idiomatische Wendungen."
+            },
+            {
+              "criterion": "Korrektheit",
+              "maxPoints": 12,
+              "description": "Morphologische und syntaktische Korrektheit; Konjunktiv II und Genitiv-Präpositionen korrekt; keine registerbrechenden Fehler."
+            },
+            {
+              "criterion": "Kommunikative Gestaltung",
+              "maxPoints": 12,
+              "description": "Klare Einleitung (Kontextrahmen), ausgewogener Hauptteil, Schluss mit eigenem Standpunkt; Absatzlogik und Kohäsion."
+            }
+          ]
+        }
+      ]
+    },
+    "speaking": {
+      "totalTimeMinutes": 16,
+      "prepTimeMinutes": 20,
+      "parts": [
+        {
+          "partNumber": 1,
+          "instructions": "Wählen Sie eines der beiden Themen und halten Sie eine Präsentation von etwa drei Minuten. Gehen Sie dabei auf mindestens drei der angegebenen Aspekte ein.",
+          "instructionsTranslation": "Choose one of the two topics and give a presentation of approximately three minutes. Address at least three of the listed aspects.",
+          "type": "presentation",
+          "prompt": "Thema A: Technikabhängigkeit der Gesellschaft — Risiko oder Ressource?\nAspekte: Infrastrukturabhängigkeit, digitale Souveränität, Innovation, soziale Ungleichheit, Sicherheitsrisiken\n\nThema B: Globalisierung der Arbeit — Gewinner und Verlierer\nAspekte: Lohndruck, Fachkräftemobilität, kulturelle Diversität, Standortverlagerung, internationale Solidarität",
+          "sampleResponse": "Thema A — Musterpräsentation:\n\nDie Frage, ob die Technikabhängigkeit moderner Gesellschaften ein Risiko oder eine Ressource darstellt, lässt sich — wenn ich ehrlich bin — nicht mit einem klaren Entweder-oder beantworten. Was ich Ihnen heute skizzieren möchte, ist ein differenziertes Bild, das beide Seiten ernst nimmt.\n\nBeginnen wir mit dem Offensichtlichen: Unsere Gesellschaften sind in einem historisch beispiellosen Maße von digitaler Infrastruktur abhängig. Vom Stromnetz über Krankenhaussysteme bis zu Logistikketten — kritische Systeme laufen auf Software, die anfällig für Cyberangriffe, technische Ausfälle und geopolitische Abhängigkeiten ist. Wer beobachtet, wie europäische Länder um die digitale Souveränität ringen — also die Kontrolle über eigene Daten, Plattformen und KI-Infrastruktur —, erkennt, dass Technikabhängigkeit eine politische Dimension hat, die weit über individuelle Nutzungsmuster hinausgeht.\n\nGleichzeitig wäre es naiv, in dieser Abhängigkeit nur Bedrohung zu sehen. Technologische Durchdringung hat Produktivitätsgewinne ermöglicht, die ohne sie nicht denkbar wären: Telemedizin in unterversorgten Regionen, Präzisionslandwirtschaft, Lernplattformen für Kinder ohne Zugang zu gut ausgestatteten Schulen. Kritiker mögen einwenden, dass dieselbe Technologie Zugänge schafft und gleichzeitig durch Datenkonzentration neue Formen sozialer Ungleichheit produziert. Dieser Einwand trifft zu; er spricht aber nicht gegen Technologie, sondern für deren regulierte Einbettung.\n\nMeinem Dafürhalten nach liegt die entscheidende Frage nicht darin, ob wir technikabhängig sind — das sind wir bereits, unwiderruflich —, sondern wie wir diese Abhängigkeit gestalten. Souveräne Technikabhängigkeit, die auf eigenen Infrastrukturen und demokratischer Kontrolle beruht, unterscheidet sich fundamental von ausgelagerter Technikabhängigkeit, die strategische Entscheidungsfreiheit an Dritte abtritt. Gesellschaften, die diesen Unterschied begreifen und politisch handeln, machen aus einer strukturellen Verwundbarkeit eine gestaltbare Ressource.",
+          "evaluationTips": [
+            "Abstrakte These zu Beginn, nicht narrative Einleitung.",
+            "Beide Seiten der Debatte explizit nennen, bevor die eigene Position entwickelt wird.",
+            "Konjunktiv I für indirekte Rede: 'Kritiker mögen einwenden, dass...'",
+            "Mindestens ein Funktionsverbgefüge produktiv einsetzen.",
+            "Dialektischer Abschluss: Synthese statt schlichter Pro/Contra-Zusammenfassung."
+          ],
+          "keyPhrases": [
+            "Meinem Dafürhalten nach...",
+            "In Anbetracht dieser Abwägung...",
+            "Gleichwohl ist zu berücksichtigen...",
+            "Es ließe sich argumentieren, dass...",
+            "Diese Frage berührt eine grundlegende Spannung zwischen X und Y.",
+            "Ich möchte diese These hinterfragen:",
+            "Das trifft zu — allerdings nur unter der Bedingung, dass..."
+          ]
+        },
+        {
+          "partNumber": 2,
+          "instructions": "Ihr Partner oder Ihre Partnerin fasst Ihre Präsentation kurz zusammen und stellt Ihnen eine Anschlussfrage. Antworten Sie und treten Sie in einen kurzen Dialog.",
+          "instructionsTranslation": "Your partner summarises your presentation briefly and asks you a follow-up question. Respond and engage in a short dialogue.",
+          "type": "conversation",
+          "prompt": "Partnerrolle: Fassen Sie die Kernthese der Präsentation in zwei Sätzen zusammen. Stellen Sie dann eine der folgenden Fragen:\n(a) 'Was meinen Sie konkret mit digitaler Souveränität — können Sie ein Beispiel nennen, wo Deutschland davon besonders weit entfernt ist?'\n(b) 'Sie sagen, regulierte Einbettung sei entscheidend — wer sollte diese Regulierung vornehmen, und wie könnte das aussehen?'",
+          "sampleResponse": "Wenn ich die Kernfrage zur digitalen Souveränität konkretisieren soll: Ein besonders augenfälliges Beispiel ist die Abhängigkeit europäischer Krankenhäuser und Behörden von Cloud-Infrastrukturen amerikanischer Anbieter — Microsoft Azure, AWS, Google Cloud. Das bedeutet: Sensible Gesundheitsdaten europäischer Bürgerinnen und Bürger liegen auf Servern, die dem US-amerikanischen Cloud Act unterliegen. Das ist keine theoretische Gefahr, sondern eine reale Souveränitätslücke. Was die Regulierungsfrage betrifft: Ich sehe hier eine geteilte Verantwortung — den EU-Regelrahmen (etwa durch den European Chips Act oder den AI Act) auf der einen Seite und nationale Investitionsentscheidungen auf der anderen. Kritiker geben zu bedenken, dass staatliche Regulierung oft hinter technologischer Entwicklung hinterherhinke. Das stimme ich insoweit zu, als Regulierung reaktiv denkt — weshalb ich proaktive Industriepolitik, also das aktive Aufbauen eigener Kapazitäten, für ebenso wichtig halte.",
+          "evaluationTips": [
+            "Direktes Aufgreifen der Partnerfrage, keine Ausweichantwort.",
+            "Konkrete Beispiele benennen, nicht bei Abstraktionen bleiben.",
+            "Konjunktiv I in indirekter Rede: 'Kritiker geben zu bedenken, dass... hinterherhinke.'",
+            "Differenzierung zeigen: Teilzustimmung mit Einschränkung ('Das stimme ich insoweit zu, als...')."
+          ],
+          "keyPhrases": [
+            "Das stimme ich insoweit zu, als...",
+            "Hier möchte ich differenzieren:",
+            "Das Beispiel zeigt exemplarisch, dass...",
+            "Kritiker geben zu bedenken, dass..., und das ist nicht von der Hand zu weisen.",
+            "Ich möchte dem entgegnen, dass..."
+          ]
+        },
+        {
+          "partNumber": 3,
+          "instructions": "Diskutieren Sie mit Ihrem Partner oder Ihrer Partnerin die folgende These. Tauschen Sie Argumente aus und versuchen Sie, gemeinsam zu einer begründeten Position zu gelangen.",
+          "instructionsTranslation": "Discuss the following thesis with your partner. Exchange arguments and try to arrive at a reasoned joint position.",
+          "type": "discussion",
+          "prompt": "These (Karte A): 'Anonymität im Internet ist ein Grundrecht, das unter keinen Umständen eingeschränkt werden darf — auch nicht zur Bekämpfung von Hasskriminalität oder Desinformation.'\n\nKarte B: 'Vollständige Anonymität im Netz ist mit einer funktionierenden Demokratie unvereinbar. Plattformen müssen verpflichtend Identifizierungsmechanismen einführen.'\n\nDiskussionsfragen:\n1. Welche Rechte stehen bei dieser Frage in Konflikt?\n2. Gibt es Mittelpositionen, die beide Werte schützen?\n3. Welche gesellschaftlichen Gruppen profitieren von Anonymität — und welche leiden darunter?\n4. Wer sollte diese Abwägung treffen — Gesetzgeber, Plattformen oder Nutzer?",
+          "sampleResponse": "Ich würde zunächst die Framing-Frage stellen: Geht es wirklich um ein Entweder-oder? Der Begriff 'vollständige Anonymität' in Karte B ist ein Strohmann — kaum jemand verteidigt wirklich vollständige, uneinschränkbare Anonymität für alle Handlungen im Netz. Die reale Debatte kreist um graduelle Fragen: Wann ist Pseudonymität zulässig? Wann muss eine staatliche Behörde im Verdachtsfall Identitäten entschlüsseln können?\n\nFür Anonymität spricht, dass sie marginalisierte Gruppen — politische Dissidenten, LGBTQ+-Personen in nicht-liberalen Gesellschaften, Whistleblower — schützt. Diese Schutzfunktion ist keine Randerscheinung, sondern ein demokratischer Kernwert. Gleichwohl ist zu berücksichtigen, dass anonyme Konten als Schild für koordinierte Desinformationskampagnen und Hassreden missbraucht werden. Die Frage ist nicht, ob Schaden entsteht — das tut er —, sondern wie man Schaden begrenzt, ohne legitimen Schutz zu opfern.\n\nEin möglicher Mittelweg wäre das Modell der bedingten Anonymität: Nutzer agieren anonym, aber Plattformen halten verifizierte Identitätsdaten zurück, die nur auf richterliche Anordnung herausgegeben werden. Dieses Modell kennen wir aus anderen Bereichen — etwa dem Bankgeheimnis-Prinzip —, adaptiert für den digitalen Raum. Es schützt den Alltags-Nutzer, macht aber koordinierte Kriminalität verfolgbar.\n\nLetztlich neige ich dazu, die Regulierungsverantwortung beim Gesetzgeber zu verorten — nicht bei Plattformen mit eigenen kommerziellen Interessen und nicht beim Nutzer, der keine systemischen Entscheidungen treffen kann.",
+          "evaluationTips": [
+            "Einstieg mit kritischer Analyse des Framings — Strohmann-Erkennung zeigt C1-Reflexionsfähigkeit.",
+            "Beide Karten-Positionen referieren, bevor die eigene Synthese entwickelt wird.",
+            "Auf Partnerargument explizit eingehen.",
+            "Konjunktiv I für referierte Meinungen: 'Kritiker argumentieren, dass...sei'.",
+            "Dialektische Synthese: Weder Karte A noch Karte B vollständig, sondern begründeter Mittelweg."
+          ],
+          "keyPhrases": [
+            "Ich möchte die Framing-Frage zunächst kritisch beleuchten:",
+            "Gleichwohl ist zu berücksichtigen, dass...",
+            "Dieser Einwand trifft zu — allerdings nur unter der Bedingung, dass...",
+            "Eine mögliche Synthese wäre...",
+            "Letztlich neige ich dazu, ..., weil...",
+            "Wenn ich Ihrer Position zustimmen soll, dann nur insoweit, als..."
+          ]
+        }
+      ]
+    }
   }
 }

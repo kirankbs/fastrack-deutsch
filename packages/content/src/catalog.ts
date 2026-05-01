@@ -37,8 +37,15 @@ function generateEntries(level: Level, count: number): MockExamEntry[] {
     ],
     C1: [
       'Wissenschaftliche Erkenntnis und Verantwortung',
-      'Forschung', 'Bildung', 'Medien', 'Umwelt',
-      'Gesellschaft', 'Kultur', 'Wirtschaft', 'Politik', 'Technologie',
+      'Bildung und Hochschule',
+      'Medien und Künstliche Intelligenz',
+      'Wirtschaft und Globalisierung',
+      'Datenschutz und digitale Sicherheit',
+      'Gesellschaft und Migration',
+      'Kultur und Identität',
+      'Gesundheit und Bioethik',
+      'Politik und Demokratie',
+      'Technologie und Zukunft der Arbeit',
     ],
   };
 

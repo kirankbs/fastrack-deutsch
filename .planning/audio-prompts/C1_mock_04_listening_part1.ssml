@@ -1,0 +1,189 @@
+<speak>
+  <!-- C1 Mock 04 — Teil 1 (8 Kurzaussagen / Speaker-to-Summary matching, playCount=1) -->
+  <!-- Theme: Lieferkettenresilienz und Fachkräftemangel -->
+  <!-- Announcer: de-DE-Wavenet-C (female, neutral) -->
+  <!-- 8 speakers, 8 UNIQUE voices (CR-9): -->
+  <!--   Sprecher 1: Wavenet-A (Frau Dr. Hartmann) -->
+  <!--   Sprecher 2: Wavenet-B (Herr Prof. Lindemann) -->
+  <!--   Sprecher 3: Wavenet-D (Frau Özdemir) -->
+  <!--   Sprecher 4: Wavenet-E (Herr Dr. Baumann) -->
+  <!--   Sprecher 5: Wavenet-F (Frau Prof. Schreiber) -->
+  <!--   Sprecher 6: Neural2-B (Herr Bergmann) -->
+  <!--   Sprecher 7: Neural2-C (Frau Nakamura) -->
+  <!--   Sprecher 8: Neural2-D (Herr Wolff) -->
+  <!-- C1 spec: natural speed 1.0x, played ONCE -->
+  <!-- 10-second initial pause for candidates to read summary statements a-j -->
+  <!-- 5-second pauses between speakers -->
+
+  <break time="3s"/>
+
+  <voice name="de-DE-Wavenet-C">
+    <prosody rate="1.0">
+      Hörverstehen, Teil 1. Sie hören acht kurze Stellungnahmen verschiedener Personen
+      zum Thema Lieferkettenresilienz und Fachkräftemangel.
+      Lesen Sie zuerst die zehn Zusammenfassungen in Ihrem Testheft.
+      Welche Zusammenfassung passt zu welchem Sprecher?
+      Zwei Zusammenfassungen passen nicht.
+      Sie hören die Texte nur einmal.
+    </prosody>
+    <break time="10s"/>
+  </voice>
+
+  <!-- Sprecher 1: Frau Dr. Hartmann, Unternehmensberaterin — Antwort: a -->
+  <voice name="de-DE-Wavenet-C">
+    <prosody rate="1.0">Sprecher 1: Frau Dr. Hartmann, Unternehmensberaterin.</prosody>
+    <break time="1s"/>
+  </voice>
+  <voice name="de-DE-Wavenet-A">
+    <prosody rate="1.0">
+      In den letzten Jahren hat sich in der Unternehmenspraxis ein grundlegendes Umdenken vollzogen,
+      das ich in meiner Beratungsarbeit täglich beobachte. Jahrzehntelang galt die Devisen:
+      Beschaffe dort, wo es am günstigsten ist. Kostenoptimierung war das einzige Kriterium,
+      das wirklich zählte. Was dabei systematisch unterschätzt wurde, war die Frage,
+      was passiert, wenn eine Verbindung in diesem dünnen Netz reißt.
+      Resilienz ist kein Luxus, den man sich leistet, wenn es gut läuft.
+      Sie muss gleichrangig neben Kosteneffizienz als strategischer Pfeiler verankert sein —
+      und wer das heute noch nicht verstanden hat, wird es spätestens in der nächsten Krise verstehen.
+    </prosody>
+  </voice>
+  <break time="5s"/>
+
+  <!-- Sprecher 2: Herr Prof. Lindemann, Wirtschaftsgeograph — Antwort: h -->
+  <voice name="de-DE-Wavenet-C">
+    <prosody rate="1.0">Sprecher 2: Herr Professor Lindemann, Wirtschaftsgeograph.</prosody>
+    <break time="1s"/>
+  </voice>
+  <voice name="de-DE-Wavenet-B">
+    <prosody rate="1.0">
+      Ich plädiere für Nüchternheit in dieser Debatte. Die Pandemie hat Schwachstellen aufgezeigt,
+      zweifellos — aber das Prinzip der internationalen Arbeitsteilung hat in den letzten Jahrzehnten
+      Hunderte Millionen Menschen aus Armut herausgeführt und globale Wohlstandsgewinne ermöglicht,
+      die kein Nearshoring-Programm replizieren kann. Die Reaktion auf jede Störung kann nicht
+      sein, das gesamte System umzubauen. Wir brauchen gezielte Resilienzmaßnahmen an neuralgischen Punkten,
+      nicht einen Rückzug aus der globalen Arbeitsteilung, der wirtschaftlich rückwärtsgewandt wäre.
+      Das Ordnungsprinzip der komparativen Vorteile hat seinen Wert nicht verloren —
+      es muss nur klüger angewendet werden.
+    </prosody>
+  </voice>
+  <break time="5s"/>
+
+  <!-- Sprecher 3: Frau Özdemir, Gewerkschaftssekretärin — Antwort: e -->
+  <voice name="de-DE-Wavenet-C">
+    <prosody rate="1.0">Sprecher 3: Frau Özdemir, Gewerkschaftssekretärin.</prosody>
+    <break time="1s"/>
+  </voice>
+  <voice name="de-DE-Wavenet-D">
+    <prosody rate="1.0">
+      Was in der Fachkräftedebatte oft vergessen wird, ist die massive Asymmetrie zwischen
+      Großkonzernen und dem Mittelstand. Ein DAX-Konzern kann Relocation-Pakete schnüren,
+      internationale Recruiting-Teams finanzieren und mit Markenbekanntheit werben.
+      Ein mittelständisches Unternehmen in Brandenburg oder der Oberpfalz hat keine dieser Ressourcen.
+      Es konkurriert um dieselben Fachkräfte, aber mit einem Bruchteil des Budgets und ohne
+      die Infrastruktur, die Zuwandernden das Ankommen erleichtert.
+      Solange diese strukturelle Benachteiligung nicht politisch adressiert wird,
+      bleibt die Fachkräftegewinnung für den Mittelstand eine Sisyphusaufgabe.
+    </prosody>
+  </voice>
+  <break time="5s"/>
+
+  <!-- Sprecher 4: Herr Dr. Baumann, Logistikforscher — Antwort: b -->
+  <voice name="de-DE-Wavenet-C">
+    <prosody rate="1.0">Sprecher 4: Herr Dr. Baumann, Logistikforscher.</prosody>
+    <break time="1s"/>
+  </voice>
+  <voice name="de-DE-Wavenet-E">
+    <prosody rate="1.0">
+      Wir sprechen viel über technologische Lösungen für die Lieferkettenfrage —
+      KI-gestützte Risikofrüherkennung, digitale Tracking-Systeme, automatisierte Lagerhaltung.
+      Das alles klingt beeindruckend, aber es übersieht eine schlichte Wahrheit:
+      Diese Systeme brauchen qualifizierte Menschen, die sie bauen, konfigurieren und warten.
+      IT-Spezialisten mit Logistikkenntnissen sind auf dem Markt heute kaum zu finden.
+      Wenn wir also über Lieferkettenresilienz sprechen, müssen wir gleichzeitig über
+      Fachkräftesicherung sprechen — das eine ohne das andere zu denken, ist eine Illusion.
+      Der Fachkräftemangel ist kein paralleles Problem, er ist der Engpass,
+      an dem jede Lieferkettenreform scheitern kann.
+    </prosody>
+  </voice>
+  <break time="5s"/>
+
+  <!-- Sprecher 5: Frau Prof. Schreiber, Wirtschaftsethikerin — Antwort: f -->
+  <voice name="de-DE-Wavenet-C">
+    <prosody rate="1.0">Sprecher 5: Frau Professorin Schreiber, Wirtschaftsethikerin.</prosody>
+    <break time="1s"/>
+  </voice>
+  <voice name="de-DE-Wavenet-F">
+    <prosody rate="1.0">
+      Ich möchte eine Frage aufwerfen, die in dieser Debatte regelmäßig ausgeblendet wird:
+      Warum gehen wir eigentlich davon aus, dass Resilienz — also die Fähigkeit, unter Belastung
+      stabil zu bleiben — notwendigerweise mit Wachstum verknüpft sein muss?
+      Diese Verknüpfung ist eine historische Wahl, keine Naturnotwendigkeit.
+      Gesellschaften können auch dann stabil und widerstandsfähig sein,
+      wenn sie nicht permanent wachsen. Es wäre ein Fortschritt, wenn die Resilienz-Debatte
+      die Chance nutzten würde, das Wachstumsziel selbst zu hinterfragen —
+      statt es unreflektiert als Voraussetzung aller Reformüberlegungen vorauszusetzen.
+    </prosody>
+  </voice>
+  <break time="5s"/>
+
+  <!-- Sprecher 6: Herr Bergmann, Unternehmer im Mittelstand — Antwort: i -->
+  <voice name="de-DE-Wavenet-C">
+    <prosody rate="1.0">Sprecher 6: Herr Bergmann, Unternehmer im Mittelstand.</prosody>
+    <break time="1s"/>
+  </voice>
+  <voice name="de-DE-Neural2-B">
+    <prosody rate="1.0">
+      Ich führe ein Unternehmen mit achtzig Mitarbeitenden, und ich sage Ihnen:
+      Die Postwachstumsdebatte ist ein Luxus, den man sich im Hörsaal leisten kann,
+      aber nicht im Markt. Wenn mein Umsatz stagniert, kann ich keine Löhne erhöhen,
+      keine Ausbildungsplätze finanzieren, keine soziale Verantwortung übernehmen.
+      Wachstum ist nicht Selbstzweck — Wachstum ist die Grundlage, auf der Verteilung
+      überhaupt erst möglich wird. Wer das wegdiskutiert, löst keine Verteilungsfrage,
+      sondern verkleinert den Kuchen, über dessen Verteilung man dann streitet.
+      Das kann nicht die Antwort auf die Herausforderungen sein, vor denen wir stehen.
+    </prosody>
+  </voice>
+  <break time="5s"/>
+
+  <!-- Sprecher 7: Frau Nakamura, Klimaökonomin — Antwort: j -->
+  <voice name="de-DE-Wavenet-C">
+    <prosody rate="1.0">Sprecher 7: Frau Nakamura, Klimaökonomin.</prosody>
+    <break time="1s"/>
+  </voice>
+  <voice name="de-DE-Neural2-C">
+    <prosody rate="1.0">
+      In meiner Forschung beschäftige ich mich mit der Frage, ob Lieferkettenresilienz
+      und Klimaneutralität als konkurrierende oder als komplementäre Ziele zu verstehen sind.
+      Meine Antwort ist eindeutig: Sie sind komplementär — und zwar aus strukturellen Gründen.
+      Eine klimaneutrale Lieferkette, die auf regionalen Zulieferern, erneuerbaren Energien
+      und kreislaufwirtschaftlichen Prozessen aufbaut, ist per se resilienter
+      als eine fossilbasierte globale Lieferkette. Die Frage ist also nicht:
+      Klimaneutralität oder Resilienz? Die Frage ist: Wie gestalten wir den Übergang
+      so, dass beide Ziele gleichzeitig realisiert werden? Das ist machbar —
+      wenn wir aufhören, sie als Widerspruch zu framen.
+    </prosody>
+  </voice>
+  <break time="5s"/>
+
+  <!-- Sprecher 8: Herr Wolff, Industrieverbandsvertreter — Antwort: g -->
+  <voice name="de-DE-Wavenet-C">
+    <prosody rate="1.0">Sprecher 8: Herr Wolff, Industrieverbandsvertreter.</prosody>
+    <break time="1s"/>
+  </voice>
+  <voice name="de-DE-Neural2-D">
+    <prosody rate="1.0">
+      Mit dem europäischen CO2-Grenzausgleichsmechanismus, dem sogenannten CBAM, ist eine
+      fundamentale Verschiebung eingetreten: Klimaneutralität ist für Unternehmen,
+      die im EU-Markt tätig sind, keine freiwillige CSR-Maßnahme mehr, sondern eine
+      harte Wettbewerbsvoraussetzung. Wer nicht klimaneutral produziert, zahlt.
+      Und wer zahlt, verliert Preisparität gegenüber klimaneutralen Wettbewerbern.
+      Die Unternehmen in unseren Mitgliedsverbänden haben das verstanden:
+      Klimaneutralität ist nicht Ideologie, sie ist Standortsicherung.
+      Wer das jetzt noch als Kostenfaktor abbucht, denkt zu kurzfristig.
+    </prosody>
+  </voice>
+  <break time="3s"/>
+
+  <voice name="de-DE-Wavenet-C">
+    <prosody rate="1.0">Das ist das Ende von Teil 1.</prosody>
+  </voice>
+</speak>
