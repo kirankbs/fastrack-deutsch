@@ -1,0 +1,101 @@
+<speak>
+  <prosody rate="medium" pitch="medium">
+
+    <!-- PART 2 INTRO -->
+    <s>Sie hören ein Interview mit Prof. Dr. Katrin Seidel zum Thema Verfassungsgerichtsbarkeit und Justizreform.</s>
+    <s>Sie hören das Interview nur einmal.</s>
+    <break time="2s"/>
+
+    <!-- Interview begins -->
+    <voice name="de-DE-KatjaNeural">
+      <s>Guten Tag, Frau Prof. Seidel.</s>
+      <s>Sie forschen zur Verfassungsgerichtsbarkeit in Europa.</s>
+      <s>Meine erste Frage: Welche Rolle spielt das Bundesverfassungsgericht heute für den deutschen Rechtsstaat?</s>
+    </voice>
+    <break time="1s"/>
+
+    <voice name="de-DE-ConradNeural">
+      <s>Das Bundesverfassungsgericht ist das institutionelle Gewissen des deutschen Rechtsstaats.</s>
+      <s>Es prüft nicht nur, ob Gesetze mit dem Grundgesetz vereinbar sind — es interpretiert die Verfassung auch weiter, entwickelt sie fort.</s>
+      <s>Das ist keine Anmaßung, sondern eine notwendige Funktion in einer Demokratie, die unter veränderten gesellschaftlichen Bedingungen bestehen will.</s>
+    </voice>
+    <break time="1s"/>
+
+    <voice name="de-DE-KatjaNeural">
+      <s>Kritiker werfen dem Gericht vor, zu politisch zu urteilen.</s>
+      <s>Wie antworten Sie darauf?</s>
+    </voice>
+    <break time="500ms"/>
+
+    <voice name="de-DE-ConradNeural">
+      <s>Das ist ein häufiges Missverständnis.</s>
+      <s>Jede Verfassungsauslegung hat politische Implikationen — das lässt sich nicht vermeiden.</s>
+      <s>Entscheidend ist, ob das Gericht seine Urteile methodisch nachvollziehbar begründet und ob es sich von Verfassungsprinzipien — nicht von Tagespolitik — leiten lässt.</s>
+      <s>Kein Gericht der Welt entscheidet im politischen Vakuum.</s>
+    </voice>
+    <break time="1s"/>
+
+    <voice name="de-DE-KatjaNeural">
+      <s>Beim Thema Justizreform fordert die Politik kürzere Verfahren.</s>
+      <s>Ist das mit Richterunabhängigkeit vereinbar?</s>
+    </voice>
+    <break time="500ms"/>
+
+    <voice name="de-DE-ConradNeural">
+      <s>Das ist der Kern des Problems.</s>
+      <s>Effizienz und Unabhängigkeit schließen sich nicht aus, aber sie stehen in einem Spannungsverhältnis.</s>
+      <s>Wenn Richterinnen und Richter nach Fallzahlen bewertet werden, entsteht ein Anreiz, komplexe Fälle schnell abzuschließen — zu Lasten der Tiefe der Begründung.</s>
+      <s>Das ist eine subtile, aber reale Gefahr für die Qualität der Rechtsprechung.</s>
+    </voice>
+    <break time="1s"/>
+
+    <voice name="de-DE-KatjaNeural">
+      <s>Was halten Sie von verpflichtenden Mediationsverfahren vor Zivilklagen?</s>
+    </voice>
+    <break time="500ms"/>
+
+    <voice name="de-DE-ConradNeural">
+      <s>Mediation kann ein wertvolles Instrument sein — aber nur, wenn die Parteien freiwillig teilnehmen.</s>
+      <s>Verpflichtende Vorschaltverfahren riskieren, die in Art. 19 Abs. 4 GG garantierte Rechtsweggarantie faktisch zu verkürzen.</s>
+      <s>Das Bundesverfassungsgericht hat die Rechtsweggarantie als subjektives Recht ausgelegt, das nicht durch administrative Hürden ausgehöhlt werden darf.</s>
+    </voice>
+    <break time="1s"/>
+
+    <voice name="de-DE-KatjaNeural">
+      <s>Wie bewerten Sie die Idee, Richterernennungen an objektivierten Leistungskriterien auszurichten?</s>
+    </voice>
+    <break time="500ms"/>
+
+    <voice name="de-DE-ConradNeural">
+      <s>Das halte ich für problematisch.</s>
+      <s>Juristische Qualität ist mehrdimensional — Urteilsklarheit, Verhandlungsführung, Empathie im Sozialrecht, verfassungsrechtliche Sensibilität.</s>
+      <s>Quantifizierbare Kennzahlen erfassen diese Dimensionen nicht.</s>
+      <s>Im schlimmsten Fall bevorzugen sie Richter*innen, die Routinefälle schnell abarbeiten, und benachteiligen jene, die in grundrechtssensiblen Verfahren die notwendige Tiefe entwickeln.</s>
+    </voice>
+    <break time="1s"/>
+
+    <voice name="de-DE-KatjaNeural">
+      <s>Welche Reformen würden Sie stattdessen empfehlen?</s>
+    </voice>
+    <break time="500ms"/>
+
+    <voice name="de-DE-ConradNeural">
+      <s>Zwei Maßnahmen hätten sofortige Wirkung.</s>
+      <s>Erstens die vollständige Digitalisierung der Aktenführung — das spart nicht nur Zeit, sondern erleichtert auch die gerichtsinterne Zusammenarbeit erheblich.</s>
+      <s>Zweitens mehr Planstellen.</s>
+      <s>Deutschland hat im europäischen Vergleich eine hohe Richter*innendichte, aber sie ist ungleich verteilt — und gerade an Verwaltungs- und Sozialgerichten fehlen Stellen, wo die Verfahrenslast am größten ist.</s>
+    </voice>
+    <break time="1s"/>
+
+    <voice name="de-DE-KatjaNeural">
+      <s>Herzlichen Dank, Frau Prof. Seidel.</s>
+    </voice>
+    <break time="500ms"/>
+
+    <voice name="de-DE-ConradNeural">
+      <s>Sehr gerne.</s>
+    </voice>
+    <break time="3s"/>
+
+  </prosody>
+</speak>

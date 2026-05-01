@@ -1,0 +1,89 @@
+<speak>
+  <prosody rate="medium" pitch="medium">
+
+    <!-- PART 1 INTRO -->
+    <s>Sie hören acht kurze Stellungnahmen verschiedener Personen zum Thema Recht und Verfassung.</s>
+    <s>Hören Sie die Aussagen. Welche Zusammenfassung passt zu welchem Sprecher? Zwei Zusammenfassungen passen nicht.</s>
+    <break time="2s"/>
+
+    <!-- Sprecher 1: Frau Prof. Baumann, Verfassungsrechtlerin -->
+    <voice name="de-DE-KatjaNeural">
+      <s>Sprecher 1. Frau Prof. Baumann, Verfassungsrechtlerin.</s>
+      <break time="1s"/>
+      <s>Verfassungsgerichte sind das letzte wirksame Gegengewicht, wenn demokratische Mehrheiten beginnen, Grundrechte schrittweise auszuhöhlen.</s>
+      <s>Diese Funktion ist keine Option — sie ist das Fundament des Rechtsstaats.</s>
+      <s>Wer das Gericht schwächt, schwächt die Demokratie selbst.</s>
+    </voice>
+    <break time="4s"/>
+
+    <!-- Sprecher 2: Herr Dr. Metzger, Datenschutzrechtler -->
+    <voice name="de-DE-ConradNeural">
+      <s>Sprecher 2. Herr Dr. Metzger, Datenschutzrechtler.</s>
+      <break time="1s"/>
+      <s>Die DSGVO setzt hohe Standards — aber ihre Durchsetzung hängt von nationalen Behörden ab, die sehr unterschiedlich ausgestattet sind.</s>
+      <s>Wenn Irland mit Dutzenden von Technologieriesen und wenigen Dutzend Prüfer*innen konfrontiert ist, ist das kein Zufall — das ist ein strukturelles Versagen.</s>
+      <s>Ohne mehr Ressourcen bleibt die DSGVO ein Papiertiger.</s>
+    </voice>
+    <break time="4s"/>
+
+    <!-- Sprecher 3: Frau Dr. Ritter, Richterbund-Vertreterin -->
+    <voice name="de-DE-KatjaNeural">
+      <s>Sprecher 3. Frau Dr. Ritter, Richterbund-Vertreterin.</s>
+      <break time="1s"/>
+      <s>Richterinnen und Richter müssen unabhängig entscheiden können — das ist keine Frage des Komforts, das ist eine Frage der Verfassungsarchitektur.</s>
+      <s>Wer Ernennung und Beförderung an Fallzahlen koppelt, schafft systemische Anreize gegen gründliche Rechtsprechung.</s>
+      <s>Das darf nicht im Namen der Effizienz passieren.</s>
+    </voice>
+    <break time="4s"/>
+
+    <!-- Sprecher 4: Herr Prof. Haas, Föderalismusforscher -->
+    <voice name="de-DE-ConradNeural">
+      <s>Sprecher 4. Herr Prof. Haas, Föderalismusforscher.</s>
+      <break time="1s"/>
+      <s>Unterschiedliche Landesregelungen im Prozessrecht und bei der Gerichtsorganisation führen dazu, dass das gleiche Rechtsproblem in Bayern und in Bremen unterschiedlich behandelt werden kann.</s>
+      <s>Das ist keine Stärke des Föderalismus — das ist Rechtsunsicherheit.</s>
+      <s>Ein einheitlicheres Justizsystem würde Bürgerinnen und Bürgern mehr Verlässlichkeit geben.</s>
+    </voice>
+    <break time="4s"/>
+
+    <!-- Sprecher 5: Frau Schulz, Rechtsanwältin -->
+    <voice name="de-DE-KatjaNeural">
+      <s>Sprecher 5. Frau Schulz, Rechtsanwältin.</s>
+      <break time="1s"/>
+      <s>Als Anwältin erlebe ich, was verpflichtende Mediationsvorverfahren in der Praxis bedeuten: Meine Mandantinnen und Mandanten werden vor einer Klage zu einem Verfahren gedrängt, dem sie eigentlich nicht zustimmen wollten.</s>
+      <s>Das verlängert den Weg zum Gericht und unterhöhlt die Rechtsweggarantie faktisch.</s>
+      <s>Gericht soll zugänglich bleiben — nicht als letztes Mittel nach erzwungener Einigung.</s>
+    </voice>
+    <break time="4s"/>
+
+    <!-- Sprecher 6: Herr Albrecht, Bürgerrechtsaktivist -->
+    <voice name="de-DE-ConradNeural">
+      <s>Sprecher 6. Herr Albrecht, Bürgerrechtsaktivist.</s>
+      <break time="1s"/>
+      <s>Wenn der Staat Algorithmen einsetzt, um zu entscheiden, ob jemand Sozialleistungen bekommt oder unter besonderer Beobachtung steht, ist das grundrechtlich hoch problematisch.</s>
+      <s>Solange diese Systeme nicht transparent sind und nicht angefochten werden können, ist das keine Modernisierung — das ist eine Demokratisierungsumgehung.</s>
+    </voice>
+    <break time="4s"/>
+
+    <!-- Sprecher 7: Frau Dr. Werner, Strafrechtsexpertin -->
+    <voice name="de-DE-KatjaNeural">
+      <s>Sprecher 7. Frau Dr. Werner, Strafrechtsexpertin.</s>
+      <break time="1s"/>
+      <s>Das Bundesverfassungsgericht sollte nicht nur nachträglich prüfen, sondern bei Justizreformen früh einbezogen werden.</s>
+      <s>Wenn Reformvorhaben schon im Entwurfsstadium verfassungsrechtlich begleitet werden, ließen sich spätere Kassationen vermeiden.</s>
+      <s>Das wäre effizienter — und verfassungsrechtlich sauberer.</s>
+    </voice>
+    <break time="4s"/>
+
+    <!-- Sprecher 8: Herr Prof. Lindner, Verhältnismäßigkeitsforscher -->
+    <voice name="de-DE-ConradNeural">
+      <s>Sprecher 8. Herr Prof. Lindner, Verhältnismäßigkeitsforscher.</s>
+      <break time="1s"/>
+      <s>Der Verhältnismäßigkeitsgrundsatz ist das richtige Prinzip — aber seine praktische Anwendung ist manchmal zu stark formalisiert.</s>
+      <s>Wenn Behörden seitenweise begründen müssen, warum eine Maßnahme geeignet, erforderlich und angemessen ist, geht Handlungsgeschwindigkeit verloren.</s>
+      <s>Die Schutzfunktion ist unbestreitbar. Aber wir sollten die Prüfpraxis pragmatischer gestalten, ohne den Kern aufzugeben.</s>
+    </voice>
+    <break time="3s"/>
+
+  </prosody>
+</speak>
