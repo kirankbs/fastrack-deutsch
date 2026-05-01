@@ -1,0 +1,94 @@
+<speak>
+  <prosody rate="medium" pitch="medium">
+
+    <!-- PART 1 INTRO -->
+    <s>Sie hören acht kurze Stellungnahmen verschiedener Personen zum Thema Populismus und demokratische Institutionen.</s>
+    <s>Hören Sie die Aussagen. Welche Zusammenfassung passt zu welchem Sprecher? Zwei Zusammenfassungen passen nicht.</s>
+    <break time="2s"/>
+
+    <!-- Sprecher 1: Frau Prof. Nolte, Verfassungsrechtlerin -->
+    <voice name="de-DE-KatjaNeural">
+      <s>Sprecher 1. Frau Prof. Nolte, Verfassungsrechtlerin.</s>
+      <break time="1s"/>
+      <s>Verfassungsgerichte dürfen nicht nur reaktiv sein.</s>
+      <s>Sie müssen populistischer Gesetzgebung schon im Entstehen entgegentreten, bevor sie irreversiblen Schaden anrichtet.</s>
+      <s>Das Bundesverfassungsgericht hat die Instrumente dafür — es muss sie auch nutzen wollen.</s>
+      <s>Wer wartet, bis das Gesetz vollzogen ist, handelt oft zu spät.</s>
+    </voice>
+    <break time="4s"/>
+
+    <!-- Sprecher 2: Herr Dr. Reuter, Politikwissenschaftler -->
+    <voice name="de-DE-ConradNeural">
+      <s>Sprecher 2. Herr Dr. Reuter, Politikwissenschaftler.</s>
+      <break time="1s"/>
+      <s>Populismus ist das Fieberthermometer, nicht das Fieber.</s>
+      <s>Wer ihn bekämpft, ohne die zugrunde liegenden Vertrauensdefizite anzugehen, behandelt das Symptom.</s>
+      <s>Wenn Menschen das Gefühl haben, dass etablierte Parteien sie nicht mehr hören, suchen sie Gehör woanders.</s>
+      <s>Das ist kein Versagen der Demokratie — das ist ihr Signal.</s>
+    </voice>
+    <break time="4s"/>
+
+    <!-- Sprecher 3: Frau Dr. Faber, Wahlsystemforscherin -->
+    <voice name="de-DE-KatjaNeural">
+      <s>Sprecher 3. Frau Dr. Faber, Wahlsystemforscherin.</s>
+      <break time="1s"/>
+      <s>Ich befürworte Wahlsystemreformen, aber der gesellschaftliche Konsens muss vorher stehen.</s>
+      <s>Reformen ohne Rückhalt schwächen das Vertrauen in den demokratischen Prozess selbst.</s>
+      <s>Ein Wahlsystem ist kein technisches Werkzeug — es trägt die Legitimität jeder Regierung.</s>
+      <s>Wer es ohne Mehrheitsverständigung ändert, riskiert mehr als er gewinnt.</s>
+    </voice>
+    <break time="4s"/>
+
+    <!-- Sprecher 4: Herr Prof. Grünwald, Föderalismusexperte -->
+    <voice name="de-DE-ConradNeural">
+      <s>Sprecher 4. Herr Prof. Grünwald, Föderalismusexperte.</s>
+      <break time="1s"/>
+      <s>Gerade in Krisen zeigt sich der Wert des Föderalismus.</s>
+      <s>Wenn zentrale Institutionen unter Druck geraten, halten die Länder dagegen.</s>
+      <s>Das ist keine Schwäche des Systems — das ist gewollte Resilienz.</s>
+      <s>Wer Föderalismus als Blockierer sieht, verkennt seine eigentliche Schutzfunktion.</s>
+    </voice>
+    <break time="4s"/>
+
+    <!-- Sprecher 5: Frau Möller, Medienwissenschaftlerin -->
+    <voice name="de-DE-KatjaNeural">
+      <s>Sprecher 5. Frau Möller, Medienwissenschaftlerin.</s>
+      <break time="1s"/>
+      <s>Wenn fünf Verlagsgruppen den öffentlichen Diskurs kontrollieren, können Wählerinnen und Wähler keine wirklich informierte Entscheidung mehr treffen.</s>
+      <s>Medienkonzentration ist kein marktwirtschaftliches Problem — sie ist ein demokratisches.</s>
+      <s>Das untergräbt die Grundvoraussetzung jeder freien Wahl: die informierte Entscheidung.</s>
+    </voice>
+    <break time="4s"/>
+
+    <!-- Sprecher 6: Herr Steinbach, Zivilgesellschafts-Aktivist -->
+    <voice name="de-DE-ConradNeural">
+      <s>Sprecher 6. Herr Steinbach, Zivilgesellschafts-Aktivist.</s>
+      <break time="1s"/>
+      <s>Parlamente können sich irren, Regierungen können scheitern.</s>
+      <s>Aber wenn die Zivilgesellschaft wach ist und sich organisiert, gibt es immer eine Gegenkraft.</s>
+      <s>Das ist das eigentliche demokratische Immunsystem — nicht Gerichte, nicht Parteien, sondern engagierte Bürgerinnen und Bürger.</s>
+    </voice>
+    <break time="4s"/>
+
+    <!-- Sprecher 7: Frau Dr. Langer, Rechtsextremismusforscherin -->
+    <voice name="de-DE-KatjaNeural">
+      <s>Sprecher 7. Frau Dr. Langer, Rechtsextremismusforscherin.</s>
+      <break time="1s"/>
+      <s>Wenn rechtsextreme Positionen routinemäßig im Parlament vertreten werden, verschiebt sich die Wahrnehmung dessen, was sagbar ist.</s>
+      <s>Über Jahrzehnte normalisiert das Demokratiefeindlichkeit.</s>
+      <s>Was heute noch als Tabubruch gilt, kann in zehn Jahren als Mehrheitsmeinung erscheinen — wenn wir nicht aktiv gegensteuern.</s>
+    </voice>
+    <break time="4s"/>
+
+    <!-- Sprecher 8: Herr Prof. Wagner, Direktdemokratie-Forscher -->
+    <voice name="de-DE-ConradNeural">
+      <s>Sprecher 8. Herr Prof. Wagner, Direktdemokratie-Forscher.</s>
+      <break time="1s"/>
+      <s>Volksbegehren und Referenden setzen voraus, dass Bürgerinnen und Bürger hochkomplexe Sachverhalte auf Basis verlässlicher Informationen entscheiden.</s>
+      <s>In einem Zeitalter massiver Desinformation ist das eine gefährliche Annahme.</s>
+      <s>Direkte Demokratie ist kein Allheilmittel — ohne Informationsintegrität wird sie zum Einfallstor für Manipulation.</s>
+    </voice>
+    <break time="3s"/>
+
+  </prosody>
+</speak>
