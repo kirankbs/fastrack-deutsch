@@ -1,13 +1,1460 @@
 {
   "id": "C1_mock_10",
   "level": "C1",
-  "title": "Übungstest 10",
-  "version": 0,
-  "_stub": true,
+  "title": "C1 Übungstest 10: Klima und Nachhaltigkeit",
+  "version": 1,
   "sections": {
-    "listening": { "totalTimeMinutes": 20, "parts": [] },
-    "reading": { "totalTimeMinutes": 25, "parts": [] },
-    "writing": { "totalTimeMinutes": 20, "tasks": [] },
-    "speaking": { "totalTimeMinutes": 15, "prepTimeMinutes": 0, "parts": [] }
+    "reading": {
+      "totalTimeMinutes": 90,
+      "parts": [
+        {
+          "partNumber": 1,
+          "instructions": "Lesen Sie den folgenden Text. Sechs Sätze wurden herausgenommen. Wählen Sie aus den acht angebotenen Sätzen (a–h) den jeweils passenden. Zwei Sätze passen nicht. Schreiben Sie den Buchstaben des richtigen Satzes in die entsprechende Lücke.",
+          "instructionsTranslation": "Read the following text. Six sentences have been removed. Choose the appropriate sentence from the eight offered (a–h) for each gap. Two sentences do not fit. Write the letter of the correct sentence in the corresponding gap.",
+          "texts": [
+            {
+              "id": "C1_m10_R1_main",
+              "type": "article",
+              "content": "Klimapolitik zwischen Ambition und Akzeptanz: Die CO2-Bepreisung im Brennpunkt\n\nKaum eine klimapolitische Maßnahme ist ökonomisch so gut begründet wie die Bepreisung von CO2-Emissionen — und kaum eine stößt in der politischen Praxis auf ähnlich hartnäckigen Widerstand. [1] Ökonomen aus dem gesamten politischen Spektrum loben den Mechanismus: Ein steigender Preis für fossile Energie setzt einen systemischen Anreiz, Verhalten zu ändern, ohne staatliche Detailsteuerung zu erfordern. In der Theorie funktioniert der Marktmechanismus elegant; in der Praxis stößt er auf Einwände, die nicht einfach als irrational abgetan werden können.\n\nDie soziale Dimension ist der schwierigste Knoten. Ein einheitlicher CO2-Preis trifft niedrige Einkommensgruppen überproportional, weil diese einen größeren Anteil ihres Budgets für Energie und Mobilität ausgeben. [2] Wer im subventionierten Nahverkehr einer Großstadt lebt, hat Ausweichmöglichkeiten; wer auf dem Land auf ein Auto angewiesen ist, um zur Arbeit zu fahren, hat sie kaum. Das macht die Verteilungsfrage zu einem zentralen Legitimationsproblem — nicht zu einem Argument gegen CO2-Bepreisung, sondern für eine intelligente Rückverteilung der Einnahmen.\n\nDeutschland hat mit dem Klimageld-Konzept eine Antwort versucht. [3] Tatsächlich ist das Klimageld — eine Pro-Kopf-Auszahlung der CO2-Steuereinnahmen an alle Bürgerinnen und Bürger — in Deutschland bisher nicht umgesetzt worden. Die politische Blockade entsteht nicht durch fehlende ökonomische Argumente, sondern durch institutionelle und fiskalische Mechanismen, die eine direkte Rückerstattung an Bürgerinnen schwieriger machen als technisch gedacht.\n\nAuf europäischer Ebene hat der Emissionshandel (EU-ETS) eine zweigleisige Architektur entwickelt. [4] Das neue ETS-2-System, das ab 2027 Gebäude und Verkehr einschließt, soll durch einen Sozialklimafonds abgefedert werden, dessen Mittel in einkommensschwache Haushalte und vulnerable Regionen fließen. Kritiker bezweifeln, ob die Fondsmittel ausreichen werden, um die Belastungswirkung des zweiten Handelssystems zu kompensieren; andere sehen die Konstruktion als Modell für künftige Klimafinanzierungen.\n\nJenseits der Preisinstrumente steht die Suffizienz-Debatte: Kann Klimaschutz allein durch Effizienzgewinne und technologischen Fortschritt gelingen — oder braucht es auch eine politisch induzierte Reduktion von Verbrauch und Mobilität? [5] Effizienz-Optimisten verweisen darauf, dass der globale Energiebedarf trotz steigendem Wohlstand technologisch entkoppelt werden könne. Suffizienz-Vertreter erwidern, dass technologische Effizienzgewinne historisch durch Rebound-Effekte neutralisiert wurden: Was billiger wird, wird mehr genutzt.\n\nVerkehrswende ist das Politikfeld, in dem diese Debatte besonders konkret wird. [6] Der Umstieg auf Elektromobilität allein genügt nicht, wenn die Fahrleistung weiter steigt. Eine echte Verkehrswende würde nicht nur Antriebe ersetzen, sondern Raumplanung, Subventionsstrukturen und das Verhältnis von Privatauto und Öffentlichem Verkehr grundlegend neu verhandeln. Dass dies politisch schwer durchsetzbar ist, liegt nicht daran, dass es technisch unmöglich wäre — sondern daran, dass es bestehende Mobilitätsprivilegien und Infrastrukturinvestitionen in Frage stellt. Die Klimapolitik der kommenden Dekade wird sich daran messen lassen, ob sie den Mut aufbringt, auch strukturell unbequeme Entscheidungen zu treffen — oder ob sie im Symbolischen verbleibt.",
+              "source": "Aus Politik und Zeitgeschichte, Bundeszentrale für politische Bildung, Ausgabe 9/2026"
+            },
+            {
+              "id": "C1_m10_R1_sent_a",
+              "type": "notice",
+              "content": "a) Besonders ausgeprägt ist diese Ungleichverteilung in der Geografie: Städtische und ländliche Haushalte sind strukturell unterschiedlich von CO2-Preissteigerungen betroffen."
+            },
+            {
+              "id": "C1_m10_R1_sent_b",
+              "type": "notice",
+              "content": "b) Die Idee war im Koalitionsvertrag 2021 verankert — die Umsetzung scheiterte jedoch an den Zuständigkeiten innerhalb des Bundeshaushalts."
+            },
+            {
+              "id": "C1_m10_R1_sent_c",
+              "type": "notice",
+              "content": "c) Dabei haben diese konträren Positionen gemein, dass sie die politische Entscheidung über das Tempo des Wandels nicht umgehen, sondern nur verlagern."
+            },
+            {
+              "id": "C1_m10_R1_sent_d",
+              "type": "notice",
+              "content": "d) Diese Spannung zwischen ökonomischer Effizienz und politischer Durchsetzbarkeit ist das Kerndilemma moderner Klimapolitik."
+            },
+            {
+              "id": "C1_m10_R1_sent_e",
+              "type": "notice",
+              "content": "e) Konkret bedeutet das: Wer keine Emissionsberechtigungen kaufen muss, zahlt nicht — wer fossile Energie einsetzt, zahlt proportional zu seinen Emissionen."
+            },
+            {
+              "id": "C1_m10_R1_sent_f",
+              "type": "notice",
+              "content": "f) Im Kontext der Mobilität zeigt sich das Problem besonders deutlich: Elektroautos reduzieren lokale Emissionen, lösen aber das Flächenproblem des Individualverkehrs nicht."
+            },
+            {
+              "id": "C1_m10_R1_sent_g",
+              "type": "notice",
+              "content": "g) Hinzu kommt das Problem internationaler Wettbewerbsverzerrungen: Unternehmen, die in Hochpreisregionen produzieren, stehen unter einem strukturellen Kostennachteil gegenüber Konkurrenten in Regionen ohne CO2-Bepreisung."
+            },
+            {
+              "id": "C1_m10_R1_sent_h",
+              "type": "notice",
+              "content": "h) Zumindest auf dem Papier: Das erste System deckt die Industrie und den Energiesektor ab, das zweite — ab 2027 — soll Gebäude und Verkehr einbeziehen."
+            }
+          ],
+          "questions": [
+            {
+              "id": "C1_m10_R1_q1",
+              "type": "matching",
+              "questionText": "Lücke 1 im Text: '…stößt in der politischen Praxis auf ähnlich hartnäckigen Widerstand. [1] Ökonomen aus dem gesamten politischen Spektrum…'",
+              "matchingSources": [
+                {
+                  "id": "C1_m10_R1_sent_a",
+                  "label": "a"
+                },
+                {
+                  "id": "C1_m10_R1_sent_b",
+                  "label": "b"
+                },
+                {
+                  "id": "C1_m10_R1_sent_c",
+                  "label": "c"
+                },
+                {
+                  "id": "C1_m10_R1_sent_d",
+                  "label": "d"
+                },
+                {
+                  "id": "C1_m10_R1_sent_e",
+                  "label": "e"
+                },
+                {
+                  "id": "C1_m10_R1_sent_f",
+                  "label": "f"
+                },
+                {
+                  "id": "C1_m10_R1_sent_g",
+                  "label": "g"
+                },
+                {
+                  "id": "C1_m10_R1_sent_h",
+                  "label": "h"
+                }
+              ],
+              "correctAnswer": "d",
+              "explanation": "Lücke 1 steht nach der Aussage, dass CO2-Bepreisung ökonomisch begründet ist aber politisch auf Widerstand stößt. Satz d) benennt genau dieses Spannungsverhältnis als das Kerndilemma moderner Klimapolitik und liefert so die thematische Brücke zum nachfolgenden Abschnitt, der erklärt, warum Ökonomen aller Lager den Mechanismus loben. Satz g) behandelt Wettbewerbsverzerrungen — ein verwandtes, aber inhaltlich späteres Argument."
+            },
+            {
+              "id": "C1_m10_R1_q2",
+              "type": "matching",
+              "questionText": "Lücke 2 im Text: '…weil diese einen größeren Anteil ihres Budgets für Energie und Mobilität ausgeben. [2] Wer im subventionierten Nahverkehr…'",
+              "matchingSources": [
+                {
+                  "id": "C1_m10_R1_sent_a",
+                  "label": "a"
+                },
+                {
+                  "id": "C1_m10_R1_sent_b",
+                  "label": "b"
+                },
+                {
+                  "id": "C1_m10_R1_sent_c",
+                  "label": "c"
+                },
+                {
+                  "id": "C1_m10_R1_sent_d",
+                  "label": "d"
+                },
+                {
+                  "id": "C1_m10_R1_sent_e",
+                  "label": "e"
+                },
+                {
+                  "id": "C1_m10_R1_sent_f",
+                  "label": "f"
+                },
+                {
+                  "id": "C1_m10_R1_sent_g",
+                  "label": "g"
+                },
+                {
+                  "id": "C1_m10_R1_sent_h",
+                  "label": "h"
+                }
+              ],
+              "correctAnswer": "a",
+              "explanation": "Lücke 2 folgt auf die allgemeine Aussage über überproportionale Belastung niedriger Einkommen. Satz a) präzisiert dies geografisch — städtisch vs. ländlich — und leitet direkt zum nächsten Satz über, der diesen geografischen Unterschied konkret am Beispiel Nahverkehr/Auto ausführt. Das Demonstrativpronomen 'diese' in Satz a) verweist anaphorisch auf die zuvor beschriebene Ungleichverteilung."
+            },
+            {
+              "id": "C1_m10_R1_q3",
+              "type": "matching",
+              "questionText": "Lücke 3 im Text: '…hat mit dem Klimageld-Konzept eine Antwort versucht. [3] Tatsächlich ist das Klimageld…'",
+              "matchingSources": [
+                {
+                  "id": "C1_m10_R1_sent_a",
+                  "label": "a"
+                },
+                {
+                  "id": "C1_m10_R1_sent_b",
+                  "label": "b"
+                },
+                {
+                  "id": "C1_m10_R1_sent_c",
+                  "label": "c"
+                },
+                {
+                  "id": "C1_m10_R1_sent_d",
+                  "label": "d"
+                },
+                {
+                  "id": "C1_m10_R1_sent_e",
+                  "label": "e"
+                },
+                {
+                  "id": "C1_m10_R1_sent_f",
+                  "label": "f"
+                },
+                {
+                  "id": "C1_m10_R1_sent_g",
+                  "label": "g"
+                },
+                {
+                  "id": "C1_m10_R1_sent_h",
+                  "label": "h"
+                }
+              ],
+              "correctAnswer": "b",
+              "explanation": "Lücke 3 folgt auf die Erwähnung des Klimageld-Konzepts als deutschen Antwortversuch. Satz b) erklärt konkret, dass die Idee im Koalitionsvertrag stand, aber an Haushaltszuständigkeiten scheiterte — das ist das notwendige Bindeglied zu dem darauffolgenden Satz, der das Scheitern der Umsetzung konstatiert. Satz d) wäre thematisch zu allgemein und zu früh."
+            },
+            {
+              "id": "C1_m10_R1_q4",
+              "type": "matching",
+              "questionText": "Lücke 4 im Text: '…hat der Emissionshandel (EU-ETS) eine zweigleisige Architektur entwickelt. [4] Das neue ETS-2-System…'",
+              "matchingSources": [
+                {
+                  "id": "C1_m10_R1_sent_a",
+                  "label": "a"
+                },
+                {
+                  "id": "C1_m10_R1_sent_b",
+                  "label": "b"
+                },
+                {
+                  "id": "C1_m10_R1_sent_c",
+                  "label": "c"
+                },
+                {
+                  "id": "C1_m10_R1_sent_d",
+                  "label": "d"
+                },
+                {
+                  "id": "C1_m10_R1_sent_e",
+                  "label": "e"
+                },
+                {
+                  "id": "C1_m10_R1_sent_f",
+                  "label": "f"
+                },
+                {
+                  "id": "C1_m10_R1_sent_g",
+                  "label": "g"
+                },
+                {
+                  "id": "C1_m10_R1_sent_h",
+                  "label": "h"
+                }
+              ],
+              "correctAnswer": "h",
+              "explanation": "Lücke 4 folgt auf die Erwähnung der zweigleisigen Architektur des EU-ETS. Satz h) beschreibt diese Zweiteilung konkret — ETS-1 für Industrie/Energie, ETS-2 für Gebäude/Verkehr — und liefert so die Exposition für den nachfolgenden Satz, der ETS-2 und den Sozialklimafonds im Detail vorstellt. Satz e) beschreibt den allgemeinen Emissionshandelsmechanismus, passt aber inhaltlich nicht zur Zweigliedrigkeit des EU-ETS-Systems."
+            },
+            {
+              "id": "C1_m10_R1_q5",
+              "type": "matching",
+              "questionText": "Lücke 5 im Text: '…braucht es auch eine politisch induzierte Reduktion von Verbrauch und Mobilität? [5] Effizienz-Optimisten verweisen darauf…'",
+              "matchingSources": [
+                {
+                  "id": "C1_m10_R1_sent_a",
+                  "label": "a"
+                },
+                {
+                  "id": "C1_m10_R1_sent_b",
+                  "label": "b"
+                },
+                {
+                  "id": "C1_m10_R1_sent_c",
+                  "label": "c"
+                },
+                {
+                  "id": "C1_m10_R1_sent_d",
+                  "label": "d"
+                },
+                {
+                  "id": "C1_m10_R1_sent_e",
+                  "label": "e"
+                },
+                {
+                  "id": "C1_m10_R1_sent_f",
+                  "label": "f"
+                },
+                {
+                  "id": "C1_m10_R1_sent_g",
+                  "label": "g"
+                },
+                {
+                  "id": "C1_m10_R1_sent_h",
+                  "label": "h"
+                }
+              ],
+              "correctAnswer": "c",
+              "explanation": "Lücke 5 steht zwischen der Frage nach Effizienz vs. Suffizienz und der Darstellung beider Lager. Satz c) stellt fest, dass beide Positionen die politische Entscheidung nur verlagern, nicht umgehen — das ist der Metakommentar, der die nachfolgende Darstellung der beiden Lager (Effizienz-Optimisten, Suffizienz-Vertreter) rahmt und vorstrukturiert."
+            },
+            {
+              "id": "C1_m10_R1_q6",
+              "type": "matching",
+              "questionText": "Lücke 6 im Text: '…Politikfeld, in dem diese Debatte besonders konkret wird. [6] Der Umstieg auf Elektromobilität…'",
+              "matchingSources": [
+                {
+                  "id": "C1_m10_R1_sent_a",
+                  "label": "a"
+                },
+                {
+                  "id": "C1_m10_R1_sent_b",
+                  "label": "b"
+                },
+                {
+                  "id": "C1_m10_R1_sent_c",
+                  "label": "c"
+                },
+                {
+                  "id": "C1_m10_R1_sent_d",
+                  "label": "d"
+                },
+                {
+                  "id": "C1_m10_R1_sent_e",
+                  "label": "e"
+                },
+                {
+                  "id": "C1_m10_R1_sent_f",
+                  "label": "f"
+                },
+                {
+                  "id": "C1_m10_R1_sent_g",
+                  "label": "g"
+                },
+                {
+                  "id": "C1_m10_R1_sent_h",
+                  "label": "h"
+                }
+              ],
+              "correctAnswer": "f",
+              "explanation": "Lücke 6 steht nach der Einführung der Verkehrswende als Konkretisierungsfeld der Suffizienz-Debatte. Satz f) benennt das spezifische Problem: Elektroautos allein lösen das Flächenproblem nicht — und leitet damit zum nachfolgenden Argument über, das erklärt, warum echte Verkehrswende mehr als Antriebswechsel bedeutet. Satz g) (Wettbewerbsverzerrung) passt nicht in diesen Verkehrskontext."
+            }
+          ]
+        },
+        {
+          "partNumber": 2,
+          "instructions": "Lesen Sie die fünf Absätze (a–e) zum Thema Klimapolitik und Energiewende. Lesen Sie dann die sechs Fragen. Welcher Absatz enthält die Antwort auf jede Frage? Schreiben Sie den Buchstaben des richtigen Absatzes. Ein Absatz kann für mehrere Fragen passen. Wenn kein Absatz passt, schreiben Sie 'x'.",
+          "instructionsTranslation": "Read the five paragraphs (a–e) on the topic of climate policy and the energy transition. Then read the six questions. Which paragraph contains the answer to each question? Write the letter of the correct paragraph. One paragraph may match multiple questions. If no paragraph fits, write 'x'.",
+          "texts": [
+            {
+              "id": "C1_m10_R2_para_a",
+              "type": "article",
+              "content": "a) Das Konzept der Klimagerechtigkeit verbindet globale Emissionsverantwortung mit sozialer Ungleichheit. Länder des Globalen Südens haben historisch wenig zum Klimawandel beigetragen, tragen aber seine schlimmsten Folgen. Auf der COP28 wurde ein Schadensfonds für besonders betroffene Länder beschlossen — ein symbolischer Schritt, da die zugesagten Mittel gemessen an den tatsächlichen Klimaschäden minimal sind. Kritiker betonen, dass echte Klimagerechtigkeit nicht nur Anpassungshilfen, sondern die grundlegende Veränderung von Handels- und Finanzstrukturen erfordern würde, die den Reichtum des Nordens reproduzieren."
+            },
+            {
+              "id": "C1_m10_R2_para_b",
+              "type": "article",
+              "content": "b) Der Rebound-Effekt beschreibt das Phänomen, dass Effizienzgewinne in der Energietechnologie durch erhöhten Verbrauch ganz oder teilweise aufgezehrt werden. Energie-effizientere Autos führen dazu, dass mehr gefahren wird; günstigere LED-Leuchtmittel erhöhen die Beleuchtungsdichte in Städten. In der Klimawirtschaft ist der Rebound-Effekt eines der stärksten Argumente der Suffizienz-Bewegung: Technischer Fortschritt allein genügt nicht, wenn er nicht durch Verhaltensänderungen oder regulatorische Obergrenzen flankiert wird."
+            },
+            {
+              "id": "C1_m10_R2_para_c",
+              "type": "article",
+              "content": "c) Die Energiepolitik der Europäischen Union hat nach dem russischen Angriff auf die Ukraine eine drastische Umorientierung erfahren. Die Abkehr von russischem Gas beschleunigte Investitionen in erneuerbare Energien, aber auch in LNG-Terminals und neue Gasversorgungsverträge mit Drittländern. Kritiker sehen darin eine Gleichzeitigkeit von Dekarbonisierung und Re-Fossilisierung — eine strategische Inkonsistenz, die durch die Dringlichkeit der Versorgungssicherheit politisch legitimiert, aber klimapolitisch nicht gerechtfertigt werde."
+            },
+            {
+              "id": "C1_m10_R2_para_d",
+              "type": "article",
+              "content": "d) Die Suffizienz-Strategie unterscheidet sich von Effizienz und Konsistenz als klimapolitischen Ansätzen. Während Effizienz dasselbe Ziel mit weniger Ressourcen anstrebt und Konsistenz auf kreislaufwirtschaftliche Systeme setzt, zielt Suffizienz auf die Reduktion von Bedürfnissen selbst — weniger fliegen, weniger konsumieren, weniger wohnen. Politisch ist Suffizienz das unbeliebteste der drei Konzepte, weil es direkt in individuelle Präferenzen eingreift und leicht als paternalistisch wahrgenommen wird. Befürworter halten dem entgegen, dass Suffizienz in Gesellschaften des Überkonsums keine Verknappung, sondern eine Qualitätsverschiebung bedeutet."
+            },
+            {
+              "id": "C1_m10_R2_para_e",
+              "type": "article",
+              "content": "e) Die Finanzierung der Energiewende ist umstritten, weil sie verschiedene Generationen und Einkommensgruppen ungleich belastet. Netzbetreiber argumentieren, dass Netzausbaukosten durch alle Verbraucher gleichmäßig verteilt werden sollten; Verbraucherschützer betonen, dass einkommensschwache Haushalte einen deutlich höheren Anteil ihres Einkommens für Strom zahlen und eine Pro-Kopf-Verteilung sozial regressiv wirkt. Eine alternative Finanzierungsstruktur — etwa über progressiv gestaffelte Energieabgaben oder eine Kapitalertragsteuer auf Energieunternehmen — befindet sich politisch noch in der Diskussionsphase."
+            }
+          ],
+          "questions": [
+            {
+              "id": "C1_m10_R2_q1",
+              "type": "mcq",
+              "questionText": "In welchem Absatz wird erklärt, warum technologische Effizienzgewinne klimapolitisch unzureichend sein können?",
+              "options": [
+                "a",
+                "b",
+                "c",
+                "d",
+                "e",
+                "x"
+              ],
+              "correctAnswer": "b",
+              "explanation": "Absatz b) erklärt den Rebound-Effekt: Effizienzgewinne werden durch erhöhten Verbrauch kompensiert. Das ist das zentrale Argument dafür, dass technischer Fortschritt allein klimapolitisch unzureichend ist."
+            },
+            {
+              "id": "C1_m10_R2_q2",
+              "type": "mcq",
+              "questionText": "Welcher Absatz beschreibt einen Fall, bei dem Klimaschutz und Energiesicherheit in Widerspruch gerieten?",
+              "options": [
+                "a",
+                "b",
+                "c",
+                "d",
+                "e",
+                "x"
+              ],
+              "correctAnswer": "c",
+              "explanation": "Absatz c) beschreibt die EU-Energiepolitik nach dem Ukraine-Krieg: Gleichzeitig wurden erneuerbare Energien ausgebaut und neue Gasverträge geschlossen — ein Widerspruch zwischen Dekarbonisierung und Versorgungssicherheit."
+            },
+            {
+              "id": "C1_m10_R2_q3",
+              "type": "mcq",
+              "questionText": "In welchem Absatz wird die ungleiche Kostenverteilung der Energiewende zwischen verschiedenen Einkommensgruppen diskutiert?",
+              "options": [
+                "a",
+                "b",
+                "c",
+                "d",
+                "e",
+                "x"
+              ],
+              "correctAnswer": "e",
+              "explanation": "Absatz e) behandelt explizit, dass einkommensschwache Haushalte einen höheren Anteil ihres Einkommens für Strom zahlen und diskutiert alternative Finanzierungsmodelle zur Abmilderung dieser Ungleichheit."
+            },
+            {
+              "id": "C1_m10_R2_q4",
+              "type": "mcq",
+              "questionText": "Welcher Absatz erklärt, warum Suffizienz als klimapolitischer Ansatz politisch schwerer durchsetzbar ist als Effizienz?",
+              "options": [
+                "a",
+                "b",
+                "c",
+                "d",
+                "e",
+                "x"
+              ],
+              "correctAnswer": "d",
+              "explanation": "Absatz d) unterscheidet Suffizienz von Effizienz und Konsistenz und erklärt, dass Suffizienz direkt in individuelle Präferenzen eingreift — weshalb sie als paternalistisch gilt und politisch am unbeliebtesten ist."
+            },
+            {
+              "id": "C1_m10_R2_q5",
+              "type": "mcq",
+              "questionText": "In welchem Absatz wird kritisiert, dass beschlossene Klimafinanzierungsmaßnahmen gemessen an den tatsächlichen Schäden unzureichend sind?",
+              "options": [
+                "a",
+                "b",
+                "c",
+                "d",
+                "e",
+                "x"
+              ],
+              "correctAnswer": "a",
+              "explanation": "Absatz a) beschreibt den COP28-Schadensfonds und nennt ihn 'symbolisch', weil die zugesagten Mittel gemessen an den tatsächlichen Klimaschäden minimal sind."
+            },
+            {
+              "id": "C1_m10_R2_q6",
+              "type": "mcq",
+              "questionText": "Welcher Absatz diskutiert die Frage, ob strukturelle Wirtschaftsveränderungen Voraussetzung für globale Klimagerechtigkeit sind?",
+              "options": [
+                "a",
+                "b",
+                "c",
+                "d",
+                "e",
+                "x"
+              ],
+              "correctAnswer": "a",
+              "explanation": "Absatz a) argumentiert, dass echte Klimagerechtigkeit nicht nur Anpassungshilfen, sondern die Veränderung von Handels- und Finanzstrukturen erfordert — eine strukturelle Wirtschaftsdimension, die in keinem anderen Absatz thematisiert wird."
+            }
+          ]
+        },
+        {
+          "partNumber": 3,
+          "instructions": "Lesen Sie die vier Texte und beantworten Sie zu jedem Text die Fragen. Kreuzen Sie bei jeder Frage die richtige Antwort (a, b oder c) an.",
+          "instructionsTranslation": "Read the four texts and answer the questions for each text. For each question, select the correct answer (a, b or c).",
+          "texts": [
+            {
+              "id": "C1_m10_R3_text1",
+              "type": "article",
+              "title": "Kommentar: Das Dilemma der Klimakommunikation",
+              "content": "Die Wissenschaft ist eindeutig: 1,5 Grad Celsius globale Erwärmung ist eine Grenze, deren Überschreiten kaskadierende Risiken auslöst. Doch zwischen wissenschaftlicher Eindeutigkeit und politischer Handlung liegt ein kommunikativer Abgrund, den weder Apokalypsenarrativ noch nüchterner Sachbericht überbrücken konnte. Klimapessimismus lähmt, Klimaoptimismus verharmlost — beide Extreme erzeugen politische Passivität, nur aus verschiedenen Richtungen. Was fehlt, ist eine Sprache, die Dringlichkeit und Handlungsfähigkeit verbindet: nicht 'es ist zu spät', nicht 'der Markt löst es', sondern 'hier ist, was konkret möglich ist und wer dafür verantwortlich ist'. Ohne diese Präzision bleibt Klimakommunikation politisch folgenlos."
+            },
+            {
+              "id": "C1_m10_R3_text2",
+              "type": "article",
+              "title": "Pressemitteilung: Umweltbundesamt veröffentlicht CO2-Preispfad",
+              "content": "Das Umweltbundesamt hat heute seinen aktualisierten Empfehlungsbericht zum nationalen CO2-Preispfad veröffentlicht. Demnach empfiehlt die Behörde einen schrittweisen Anstieg des nationalen CO2-Preises von derzeit 45 Euro pro Tonne auf 175 Euro bis 2030. Der Preisanstieg solle durch ein Klimageld sozial abgefedert werden, das als Pro-Kopf-Zahlung an alle Haushalte ausgezahlt wird. Das Umweltbundesamt betont, dass ein alleiniger Preisanstieg ohne flankierende Infrastrukturinvestitionen — insbesondere im Bereich öffentlicher Nahverkehr und Gebäudesanierung — sozial- und verteilungspolitisch problematisch sei. Eine Sprecherin erklärte: Ohne Investitionen in Alternativen wälzen wir lediglich Kosten auf jene, die keine Wahl haben."
+            },
+            {
+              "id": "C1_m10_R3_text3",
+              "type": "article",
+              "title": "Leserbrief: Suffizienz ist kein Luxus der Besserverdienenden",
+              "content": "In der Debatte um Suffizienz wird oft übersehen, dass das Konzept nicht für alle Gesellschaftsschichten gleich zugänglich ist. Wer im Eigenheim wohnt, kann seinen Energieverbrauch selbst steuern. Wer zur Miete in einer schlecht isolierten Wohnung wohnt, kann nicht. Suffizienz-Appelle, die soziale Ungleichheit ignorieren, schreiben diese strukturell fort: Wer ohnehin wenig hat, soll zusätzlich verzichten. Echte Suffizienzpolitik müsste beginnen bei denjenigen, die tatsächlich überproportional verbrauchen — nicht beim Durchschnittshaushalt, der ohnehin schon sparsam wirtschaftet. Die Klimadebatte braucht mehr Differenzierung — wer wie viel verbraucht und wer wie viel verändern könnte."
+            },
+            {
+              "id": "C1_m10_R3_text4",
+              "type": "article",
+              "title": "Kurzinterview: Grüne Wasserstoffstrategie — Versprechen und Wirklichkeit",
+              "content": "Frage: Ist grüner Wasserstoff das Energiemedium der Zukunft?\n\nExpertin: Wasserstoff ist kein Energiequelle — er ist ein Energieträger. Diese Unterscheidung ist fundamental: Er muss zuerst produziert werden, und das kostet Energie. Grüner Wasserstoff aus erneuerbaren Quellen ist energetisch ineffizient — für ein Kilowatt nutzbarer Energie braucht man drei bis vier Kilowatt Primärenergie. Das macht ihn geeignet für Sektoren, in denen direkte Elektrifizierung nicht möglich ist: Stahl, Chemie, vielleicht Langstreckenfliegen. Für Heizung und PKW-Antrieb ist er die falsche Technologie. Wer heute Milliarden in Wasserstoff-PKW-Infrastruktur investiert, setzt auf das falsche Pferd — und verzögert die nötigen Investitionen in Wärmepumpen und Batterien."
+            }
+          ],
+          "questions": [
+            {
+              "id": "C1_m10_R3_q1",
+              "type": "mcq",
+              "questionText": "Was kritisiert der Autor des Kommentars (Text 1) an der bisherigen Klimakommunikation?",
+              "options": [
+                "a) Sie ist zu wissenschaftlich und für ein breites Publikum unverständlich.",
+                "b) Sie erzeugt durch gegensätzliche Extreme — Pessimismus und Optimismus — beide politische Passivität.",
+                "c) Sie unterschätzt die Dringlichkeit des Problems und verhindert ausreichende Gegenmaßnahmen."
+              ],
+              "correctAnswer": "b",
+              "explanation": "Der Kommentar argumentiert explizit, dass sowohl Klimapessimismus als auch Klimaoptimismus politische Passivität erzeugen — nur aus verschiedenen Richtungen."
+            },
+            {
+              "id": "C1_m10_R3_q2",
+              "type": "mcq",
+              "questionText": "Welche zusätzliche Bedingung nennt der Kommentar (Text 1) für wirksame Klimakommunikation?",
+              "options": [
+                "a) Sie muss emotionaler werden und persönliche Betroffenheit ansprechen.",
+                "b) Sie muss konkrete Handlungsmöglichkeiten und klare Verantwortlichkeiten benennen.",
+                "c) Sie muss sich stärker an wissenschaftlichen Konsens halten und Meinungen ausblenden."
+              ],
+              "correctAnswer": "b",
+              "explanation": "Der Kommentar fordert eine Sprache, die benennt 'was konkret möglich ist und wer dafür verantwortlich ist' — also konkrete Handlungsmöglichkeiten und klare Verantwortlichkeiten."
+            },
+            {
+              "id": "C1_m10_R3_q3",
+              "type": "mcq",
+              "questionText": "Was empfiehlt das Umweltbundesamt (Text 2) als soziale Begleitmaßnahme zum CO2-Preisanstieg?",
+              "options": [
+                "a) Eine Senkung der Mehrwertsteuer auf Grundnahrungsmittel und Energie.",
+                "b) Ein Klimageld als einkommensunabhängige Pro-Kopf-Zahlung an alle Haushalte.",
+                "c) Eine einkommensabhängige Subvention für den Erwerb von Elektrofahrzeugen."
+              ],
+              "correctAnswer": "b",
+              "explanation": "Das Umweltbundesamt empfiehlt explizit ein 'Klimageld', das als 'Pro-Kopf-Zahlung an alle Haushalte' ausgezahlt wird."
+            },
+            {
+              "id": "C1_m10_R3_q4",
+              "type": "mcq",
+              "questionText": "Was betont das Umweltbundesamt (Text 2) als notwendige Ergänzung zu einem höheren CO2-Preis?",
+              "options": [
+                "a) Internationale Klimaverhandlungen, um Wettbewerbsverzerrungen zu vermeiden.",
+                "b) Flankierende Infrastrukturinvestitionen, insbesondere in Nahverkehr und Gebäudesanierung.",
+                "c) Eine stärkere Regulierung der Energiekonzerne und Preisdeckelungen."
+              ],
+              "correctAnswer": "b",
+              "explanation": "Das Umweltbundesamt betont, dass ein CO2-Preisanstieg 'ohne flankierende Infrastrukturinvestitionen — insbesondere im Bereich öffentlicher Nahverkehr und Gebäudesanierung' problematisch sei."
+            },
+            {
+              "id": "C1_m10_R3_q5",
+              "type": "mcq",
+              "questionText": "Welche Hauptkritik formuliert der Leserbrief (Text 3) an Suffizienz-Appellen?",
+              "options": [
+                "a) Suffizienz-Appelle ignorieren, dass technologische Lösungen effizienter wären.",
+                "b) Sie richten sich faktisch an Gruppen, die ohnehin wenig verbrauchen, und übersehen strukturelle Verbrauchsungleichheit.",
+                "c) Sie sind zu abstrakt formuliert und erreichen dadurch keine breite Öffentlichkeit."
+              ],
+              "correctAnswer": "b",
+              "explanation": "Der Leserbrief kritisiert, dass Suffizienz-Appelle soziale Ungleichheit ignorieren und de facto jene zur Reduktion auffordern, die ohnehin schon sparsam wirtschaften, statt überproportionale Verbraucher zu adressieren."
+            },
+            {
+              "id": "C1_m10_R3_q6",
+              "type": "mcq",
+              "questionText": "Welche grundlegende Unterscheidung trifft die Expertin im Interview (Text 4) zum Thema Wasserstoff?",
+              "options": [
+                "a) Zwischen grünem und blauem Wasserstoff hinsichtlich ihrer Klimabilanz.",
+                "b) Zwischen Wasserstoff als Energiequelle und Wasserstoff als Energieträger.",
+                "c) Zwischen Wasserstoff für industrielle Nutzung und für private Haushalte."
+              ],
+              "correctAnswer": "b",
+              "explanation": "Die Expertin erklärt explizit: 'Wasserstoff ist keine Energiequelle — er ist ein Energieträger.' Diese Unterscheidung nennt sie 'fundamental'."
+            },
+            {
+              "id": "C1_m10_R3_q7",
+              "type": "mcq",
+              "questionText": "Für welche Sektoren hält die Expertin (Text 4) grünen Wasserstoff für geeignet?",
+              "options": [
+                "a) Heizung und PKW-Antrieb, weil die Technologie dort besonders effizient ist.",
+                "b) Stahl, Chemie und möglicherweise Langstreckenfliegen, wo direkte Elektrifizierung nicht möglich ist.",
+                "c) Öffentlicher Nahverkehr und Gebäudesanierung als Ergänzung zu Wärmepumpen."
+              ],
+              "correctAnswer": "b",
+              "explanation": "Die Expertin nennt Stahl, Chemie und 'vielleicht Langstreckenfliegen' als geeignete Sektoren — jene, 'in denen direkte Elektrifizierung nicht möglich ist'."
+            },
+            {
+              "id": "C1_m10_R3_q8",
+              "type": "mcq",
+              "questionText": "Was warnt die Expertin (Text 4) hinsichtlich von Investitionen in Wasserstoff-PKW-Infrastruktur?",
+              "options": [
+                "a) Diese Investitionen seien zu teuer und würden die Staatsverschuldung erhöhen.",
+                "b) Sie setzen auf eine falsche Technologie und verzögern nötige Investitionen in Wärmepumpen und Batterien.",
+                "c) Die Technologie sei noch zu unreif für den Masseneinsatz und brauche mehr Forschungsförderung."
+              ],
+              "correctAnswer": "b",
+              "explanation": "Die Expertin warnt: Wer in Wasserstoff-PKW-Infrastruktur investiert, 'setzt auf das falsche Pferd — und verzögert die nötigen Investitionen in Wärmepumpen und Batterien'."
+            },
+            {
+              "id": "C1_m10_R3_q9",
+              "type": "mcq",
+              "questionText": "Welches übergeordnete Argument verbindet den Kommentar (Text 1) und den Leserbrief (Text 3)?",
+              "options": [
+                "a) Beide fordern eine stärkere Regulierung der Energiewirtschaft.",
+                "b) Beide kritisieren, dass Klimadiskurse Differenzierung vermissen lassen — nach Verantwortlichkeiten bzw. nach sozialer Lage.",
+                "c) Beide plädieren für eine technologieoffene Klimapolitik ohne normative Vorannahmen."
+              ],
+              "correctAnswer": "b",
+              "explanation": "Der Kommentar kritisiert fehlende Differenzierung nach Verantwortlichkeiten ('wer ist dafür verantwortlich'); der Leserbrief kritisiert fehlende Differenzierung nach sozialer Lage ('wer wie viel verbraucht'). Beide Texte mahnen also mehr Differenziertheit im Klimadiskurs an."
+            },
+            {
+              "id": "C1_m10_R3_q10",
+              "type": "mcq",
+              "questionText": "Welche gemeinsame Schlussfolgerung lässt sich aus den Texten 2 und 3 zum Thema CO2-Bepreisung und Suffizienz ziehen?",
+              "options": [
+                "a) Beide Texte lehnen marktbasierte Klimainstrumente als sozial ungerecht ab.",
+                "b) Beide Texte zeigen, dass Klimamaßnahmen soziale Ungleichheit aktiv berücksichtigen müssen, um legitim zu sein.",
+                "c) Beide Texte argumentieren, dass individuelle Verhaltensänderungen wichtiger sind als strukturelle Maßnahmen."
+              ],
+              "correctAnswer": "b",
+              "explanation": "Text 2 fordert Infrastrukturinvestitionen als Begleitmaßnahme zu CO2-Preisen; Text 3 fordert, dass Suffizienz-Appelle soziale Ungleichheit adressieren. Beide Texte thematisieren damit die soziale Dimension von Klimamaßnahmen als Legitimitätsbedingung."
+            }
+          ]
+        }
+      ]
+    },
+    "listening": {
+      "totalTimeMinutes": 20,
+      "parts": [
+        {
+          "partNumber": 1,
+          "type": "matching",
+          "playCount": 1,
+          "audioFile": "assets/audio/C1/mock10/listening_part1.mp3",
+          "instructions": "Sie hören acht kurze Stellungnahmen verschiedener Personen. Welche Zusammenfassung (a–j) passt zu welchem Sprecher? Zwei Zusammenfassungen passen nicht. Sie hören die Texte nur einmal.",
+          "instructionsTranslation": "You will hear eight short statements from different speakers. Which summary (a–j) matches which speaker? Two summaries do not fit. You will hear the texts once.",
+          "questions": [
+            {
+              "id": "C1_m10_HV1_q1",
+              "type": "matching",
+              "questionText": "Sprecher 1: Frau Dr. Petersen, Energieökonomin",
+              "matchingSources": [
+                {
+                  "id": "sum_a",
+                  "label": "a",
+                  "content": "a) Die Sprecherin betont, dass CO2-Bepreisung ohne Rückverteilung sozial regressiv wirkt und politisch scheitern wird."
+                },
+                {
+                  "id": "sum_b",
+                  "label": "b",
+                  "content": "b) Der Sprecher warnt, dass Energiewende-Finanzierung ohne progressive Tarifstruktur einkommensschwache Haushalte überproportional belastet."
+                },
+                {
+                  "id": "sum_c",
+                  "label": "c",
+                  "content": "c) Die Sprecherin sieht im Rebound-Effekt das stärkste Gegenargument zu einer rein technologiegetriebenen Klimastrategie."
+                },
+                {
+                  "id": "sum_d",
+                  "label": "d",
+                  "content": "d) Der Sprecher fordert internationale CO2-Grenzausgleichsmechanismen als Voraussetzung für eine wettbewerbsneutrale Klimapolitik."
+                },
+                {
+                  "id": "sum_e",
+                  "label": "e",
+                  "content": "e) Die Sprecherin hält Suffizienz für politisch nicht durchsetzbar und plädiert für Effizienz als pragmatische Alternative."
+                },
+                {
+                  "id": "sum_f",
+                  "label": "f",
+                  "content": "f) Der Sprecher sieht in der Verkehrswende das Testfeld, an dem die Ernsthaftigkeit der Klimapolitik gemessen werden wird."
+                },
+                {
+                  "id": "sum_g",
+                  "label": "g",
+                  "content": "g) Die Sprecherin kritisiert, dass Klimagerechtigkeit in globalen Verhandlungen als Verhandlungsmasse benutzt wird, statt als Verpflichtung ernst genommen zu werden."
+                },
+                {
+                  "id": "sum_h",
+                  "label": "h",
+                  "content": "h) Der Sprecher betont, dass grüner Wasserstoff für bestimmte Industriesektoren unverzichtbar ist, aber kein Allheilmittel für die Energiewende darstellt."
+                },
+                {
+                  "id": "sum_i",
+                  "label": "i",
+                  "content": "i) Die Sprecherin fordert, dass Klimafinanzierung für den Globalen Süden als Reparationsverpflichtung anerkannt wird, nicht als freiwillige Entwicklungshilfe."
+                },
+                {
+                  "id": "sum_j",
+                  "label": "j",
+                  "content": "j) Der Sprecher sieht in der europäischen Energiepolitik nach dem Ukraine-Krieg eine strukturelle Inkonsistenz, die langfristig die Glaubwürdigkeit der EU-Klimaziele untergräbt."
+                }
+              ],
+              "correctAnswer": "a",
+              "explanation": "Frau Dr. Petersen erklärt, dass CO2-Bepreisung ohne Rückverteilungsmechanismus — wie ein Klimageld — einkommensschwache Haushalte überproportional trifft und deshalb politisch nicht durchgehalten werden kann. Das entspricht Zusammenfassung a). Distraktor e) klingt ähnlich, plädiert aber für Effizienz als Alternative — ein anderer Schluss."
+            },
+            {
+              "id": "C1_m10_HV1_q2",
+              "type": "matching",
+              "questionText": "Sprecher 2: Herr Prof. Müller, Verkehrsforscher",
+              "matchingSources": [
+                {
+                  "id": "sum_a",
+                  "label": "a",
+                  "content": "a) Die Sprecherin betont, dass CO2-Bepreisung ohne Rückverteilung sozial regressiv wirkt und politisch scheitern wird."
+                },
+                {
+                  "id": "sum_b",
+                  "label": "b",
+                  "content": "b) Der Sprecher warnt, dass Energiewende-Finanzierung ohne progressive Tarifstruktur einkommensschwache Haushalte überproportional belastet."
+                },
+                {
+                  "id": "sum_c",
+                  "label": "c",
+                  "content": "c) Die Sprecherin sieht im Rebound-Effekt das stärkste Gegenargument zu einer rein technologiegetriebenen Klimastrategie."
+                },
+                {
+                  "id": "sum_d",
+                  "label": "d",
+                  "content": "d) Der Sprecher fordert internationale CO2-Grenzausgleichsmechanismen als Voraussetzung für eine wettbewerbsneutrale Klimapolitik."
+                },
+                {
+                  "id": "sum_e",
+                  "label": "e",
+                  "content": "e) Die Sprecherin hält Suffizienz für politisch nicht durchsetzbar und plädiert für Effizienz als pragmatische Alternative."
+                },
+                {
+                  "id": "sum_f",
+                  "label": "f",
+                  "content": "f) Der Sprecher sieht in der Verkehrswende das Testfeld, an dem die Ernsthaftigkeit der Klimapolitik gemessen werden wird."
+                },
+                {
+                  "id": "sum_g",
+                  "label": "g",
+                  "content": "g) Die Sprecherin kritisiert, dass Klimagerechtigkeit in globalen Verhandlungen als Verhandlungsmasse benutzt wird, statt als Verpflichtung ernst genommen zu werden."
+                },
+                {
+                  "id": "sum_h",
+                  "label": "h",
+                  "content": "h) Der Sprecher betont, dass grüner Wasserstoff für bestimmte Industriesektoren unverzichtbar ist, aber kein Allheilmittel für die Energiewende darstellt."
+                },
+                {
+                  "id": "sum_i",
+                  "label": "i",
+                  "content": "i) Die Sprecherin fordert, dass Klimafinanzierung für den Globalen Süden als Reparationsverpflichtung anerkannt wird, nicht als freiwillige Entwicklungshilfe."
+                },
+                {
+                  "id": "sum_j",
+                  "label": "j",
+                  "content": "j) Der Sprecher sieht in der europäischen Energiepolitik nach dem Ukraine-Krieg eine strukturelle Inkonsistenz, die langfristig die Glaubwürdigkeit der EU-Klimaziele untergräbt."
+                }
+              ],
+              "correctAnswer": "f",
+              "explanation": "Prof. Müller argumentiert, dass Klimapolitik an der Verkehrswende scheitern oder sich bewähren wird — weil sie dort auf die konkretesten gesellschaftlichen Widerstände trifft: Infrastruktur, Raumplanung, Automobillobby. Das entspricht Zusammenfassung f)."
+            },
+            {
+              "id": "C1_m10_HV1_q3",
+              "type": "matching",
+              "questionText": "Sprecher 3: Frau Osei, Klimagerechtigkeitsaktivistin",
+              "matchingSources": [
+                {
+                  "id": "sum_a",
+                  "label": "a",
+                  "content": "a) Die Sprecherin betont, dass CO2-Bepreisung ohne Rückverteilung sozial regressiv wirkt und politisch scheitern wird."
+                },
+                {
+                  "id": "sum_b",
+                  "label": "b",
+                  "content": "b) Der Sprecher warnt, dass Energiewende-Finanzierung ohne progressive Tarifstruktur einkommensschwache Haushalte überproportional belastet."
+                },
+                {
+                  "id": "sum_c",
+                  "label": "c",
+                  "content": "c) Die Sprecherin sieht im Rebound-Effekt das stärkste Gegenargument zu einer rein technologiegetriebenen Klimastrategie."
+                },
+                {
+                  "id": "sum_d",
+                  "label": "d",
+                  "content": "d) Der Sprecher fordert internationale CO2-Grenzausgleichsmechanismen als Voraussetzung für eine wettbewerbsneutrale Klimapolitik."
+                },
+                {
+                  "id": "sum_e",
+                  "label": "e",
+                  "content": "e) Die Sprecherin hält Suffizienz für politisch nicht durchsetzbar und plädiert für Effizienz als pragmatische Alternative."
+                },
+                {
+                  "id": "sum_f",
+                  "label": "f",
+                  "content": "f) Der Sprecher sieht in der Verkehrswende das Testfeld, an dem die Ernsthaftigkeit der Klimapolitik gemessen werden wird."
+                },
+                {
+                  "id": "sum_g",
+                  "label": "g",
+                  "content": "g) Die Sprecherin kritisiert, dass Klimagerechtigkeit in globalen Verhandlungen als Verhandlungsmasse benutzt wird, statt als Verpflichtung ernst genommen zu werden."
+                },
+                {
+                  "id": "sum_h",
+                  "label": "h",
+                  "content": "h) Der Sprecher betont, dass grüner Wasserstoff für bestimmte Industriesektoren unverzichtbar ist, aber kein Allheilmittel für die Energiewende darstellt."
+                },
+                {
+                  "id": "sum_i",
+                  "label": "i",
+                  "content": "i) Die Sprecherin fordert, dass Klimafinanzierung für den Globalen Süden als Reparationsverpflichtung anerkannt wird, nicht als freiwillige Entwicklungshilfe."
+                },
+                {
+                  "id": "sum_j",
+                  "label": "j",
+                  "content": "j) Der Sprecher sieht in der europäischen Energiepolitik nach dem Ukraine-Krieg eine strukturelle Inkonsistenz, die langfristig die Glaubwürdigkeit der EU-Klimaziele untergräbt."
+                }
+              ],
+              "correctAnswer": "i",
+              "explanation": "Frau Osei argumentiert scharf: Klimafinanzierung für den Globalen Süden ist keine Hilfe, sondern Wiedergutmachung für historische Emissionsschulden. Das entspricht Zusammenfassung i). Distraktor g) ist verwandt, betont aber den Verhandlungsmissbrauch — ein anderes Hauptargument."
+            },
+            {
+              "id": "C1_m10_HV1_q4",
+              "type": "matching",
+              "questionText": "Sprecher 4: Herr Weber, Industrieverbandsvertreter",
+              "matchingSources": [
+                {
+                  "id": "sum_a",
+                  "label": "a",
+                  "content": "a) Die Sprecherin betont, dass CO2-Bepreisung ohne Rückverteilung sozial regressiv wirkt und politisch scheitern wird."
+                },
+                {
+                  "id": "sum_b",
+                  "label": "b",
+                  "content": "b) Der Sprecher warnt, dass Energiewende-Finanzierung ohne progressive Tarifstruktur einkommensschwache Haushalte überproportional belastet."
+                },
+                {
+                  "id": "sum_c",
+                  "label": "c",
+                  "content": "c) Die Sprecherin sieht im Rebound-Effekt das stärkste Gegenargument zu einer rein technologiegetriebenen Klimastrategie."
+                },
+                {
+                  "id": "sum_d",
+                  "label": "d",
+                  "content": "d) Der Sprecher fordert internationale CO2-Grenzausgleichsmechanismen als Voraussetzung für eine wettbewerbsneutrale Klimapolitik."
+                },
+                {
+                  "id": "sum_e",
+                  "label": "e",
+                  "content": "e) Die Sprecherin hält Suffizienz für politisch nicht durchsetzbar und plädiert für Effizienz als pragmatische Alternative."
+                },
+                {
+                  "id": "sum_f",
+                  "label": "f",
+                  "content": "f) Der Sprecher sieht in der Verkehrswende das Testfeld, an dem die Ernsthaftigkeit der Klimapolitik gemessen werden wird."
+                },
+                {
+                  "id": "sum_g",
+                  "label": "g",
+                  "content": "g) Die Sprecherin kritisiert, dass Klimagerechtigkeit in globalen Verhandlungen als Verhandlungsmasse benutzt wird, statt als Verpflichtung ernst genommen zu werden."
+                },
+                {
+                  "id": "sum_h",
+                  "label": "h",
+                  "content": "h) Der Sprecher betont, dass grüner Wasserstoff für bestimmte Industriesektoren unverzichtbar ist, aber kein Allheilmittel für die Energiewende darstellt."
+                },
+                {
+                  "id": "sum_i",
+                  "label": "i",
+                  "content": "i) Die Sprecherin fordert, dass Klimafinanzierung für den Globalen Süden als Reparationsverpflichtung anerkannt wird, nicht als freiwillige Entwicklungshilfe."
+                },
+                {
+                  "id": "sum_j",
+                  "label": "j",
+                  "content": "j) Der Sprecher sieht in der europäischen Energiepolitik nach dem Ukraine-Krieg eine strukturelle Inkonsistenz, die langfristig die Glaubwürdigkeit der EU-Klimaziele untergräbt."
+                }
+              ],
+              "correctAnswer": "d",
+              "explanation": "Herr Weber vertritt die Industrie und argumentiert, dass ambitionierte CO2-Preise in Europa nur dann wettbewerbsneutral sein können, wenn ein CO2-Grenzausgleich (CBAM) Importe aus Niedrigpreisregionen gleichstellt. Das entspricht Zusammenfassung d)."
+            },
+            {
+              "id": "C1_m10_HV1_q5",
+              "type": "matching",
+              "questionText": "Sprecher 5: Frau Dr. Schneider, Wohlfahrtsforscherin",
+              "matchingSources": [
+                {
+                  "id": "sum_a",
+                  "label": "a",
+                  "content": "a) Die Sprecherin betont, dass CO2-Bepreisung ohne Rückverteilung sozial regressiv wirkt und politisch scheitern wird."
+                },
+                {
+                  "id": "sum_b",
+                  "label": "b",
+                  "content": "b) Der Sprecher warnt, dass Energiewende-Finanzierung ohne progressive Tarifstruktur einkommensschwache Haushalte überproportional belastet."
+                },
+                {
+                  "id": "sum_c",
+                  "label": "c",
+                  "content": "c) Die Sprecherin sieht im Rebound-Effekt das stärkste Gegenargument zu einer rein technologiegetriebenen Klimastrategie."
+                },
+                {
+                  "id": "sum_d",
+                  "label": "d",
+                  "content": "d) Der Sprecher fordert internationale CO2-Grenzausgleichsmechanismen als Voraussetzung für eine wettbewerbsneutrale Klimapolitik."
+                },
+                {
+                  "id": "sum_e",
+                  "label": "e",
+                  "content": "e) Die Sprecherin hält Suffizienz für politisch nicht durchsetzbar und plädiert für Effizienz als pragmatische Alternative."
+                },
+                {
+                  "id": "sum_f",
+                  "label": "f",
+                  "content": "f) Der Sprecher sieht in der Verkehrswende das Testfeld, an dem die Ernsthaftigkeit der Klimapolitik gemessen werden wird."
+                },
+                {
+                  "id": "sum_g",
+                  "label": "g",
+                  "content": "g) Die Sprecherin kritisiert, dass Klimagerechtigkeit in globalen Verhandlungen als Verhandlungsmasse benutzt wird, statt als Verpflichtung ernst genommen zu werden."
+                },
+                {
+                  "id": "sum_h",
+                  "label": "h",
+                  "content": "h) Der Sprecher betont, dass grüner Wasserstoff für bestimmte Industriesektoren unverzichtbar ist, aber kein Allheilmittel für die Energiewende darstellt."
+                },
+                {
+                  "id": "sum_i",
+                  "label": "i",
+                  "content": "i) Die Sprecherin fordert, dass Klimafinanzierung für den Globalen Süden als Reparationsverpflichtung anerkannt wird, nicht als freiwillige Entwicklungshilfe."
+                },
+                {
+                  "id": "sum_j",
+                  "label": "j",
+                  "content": "j) Der Sprecher sieht in der europäischen Energiepolitik nach dem Ukraine-Krieg eine strukturelle Inkonsistenz, die langfristig die Glaubwürdigkeit der EU-Klimaziele untergräbt."
+                }
+              ],
+              "correctAnswer": "b",
+              "explanation": "Dr. Schneider fokussiert auf die Finanzierungsstruktur der Energiewende: Gleichmäßige Netzkosten treffen ärmere Haushalte relativ stärker — ohne progressive Struktur ist das sozial nicht vertretbar. Das entspricht Zusammenfassung b). Distraktor a) ist ähnlich, bezieht sich aber auf CO2-Preisbepreisung, nicht auf Netzfinanzierung."
+            },
+            {
+              "id": "C1_m10_HV1_q6",
+              "type": "matching",
+              "questionText": "Sprecher 6: Herr Dr. Bergmann, Nachhaltigkeitsforscher",
+              "matchingSources": [
+                {
+                  "id": "sum_a",
+                  "label": "a",
+                  "content": "a) Die Sprecherin betont, dass CO2-Bepreisung ohne Rückverteilung sozial regressiv wirkt und politisch scheitern wird."
+                },
+                {
+                  "id": "sum_b",
+                  "label": "b",
+                  "content": "b) Der Sprecher warnt, dass Energiewende-Finanzierung ohne progressive Tarifstruktur einkommensschwache Haushalte überproportional belastet."
+                },
+                {
+                  "id": "sum_c",
+                  "label": "c",
+                  "content": "c) Die Sprecherin sieht im Rebound-Effekt das stärkste Gegenargument zu einer rein technologiegetriebenen Klimastrategie."
+                },
+                {
+                  "id": "sum_d",
+                  "label": "d",
+                  "content": "d) Der Sprecher fordert internationale CO2-Grenzausgleichsmechanismen als Voraussetzung für eine wettbewerbsneutrale Klimapolitik."
+                },
+                {
+                  "id": "sum_e",
+                  "label": "e",
+                  "content": "e) Die Sprecherin hält Suffizienz für politisch nicht durchsetzbar und plädiert für Effizienz als pragmatische Alternative."
+                },
+                {
+                  "id": "sum_f",
+                  "label": "f",
+                  "content": "f) Der Sprecher sieht in der Verkehrswende das Testfeld, an dem die Ernsthaftigkeit der Klimapolitik gemessen werden wird."
+                },
+                {
+                  "id": "sum_g",
+                  "label": "g",
+                  "content": "g) Die Sprecherin kritisiert, dass Klimagerechtigkeit in globalen Verhandlungen als Verhandlungsmasse benutzt wird, statt als Verpflichtung ernst genommen zu werden."
+                },
+                {
+                  "id": "sum_h",
+                  "label": "h",
+                  "content": "h) Der Sprecher betont, dass grüner Wasserstoff für bestimmte Industriesektoren unverzichtbar ist, aber kein Allheilmittel für die Energiewende darstellt."
+                },
+                {
+                  "id": "sum_i",
+                  "label": "i",
+                  "content": "i) Die Sprecherin fordert, dass Klimafinanzierung für den Globalen Süden als Reparationsverpflichtung anerkannt wird, nicht als freiwillige Entwicklungshilfe."
+                },
+                {
+                  "id": "sum_j",
+                  "label": "j",
+                  "content": "j) Der Sprecher sieht in der europäischen Energiepolitik nach dem Ukraine-Krieg eine strukturelle Inkonsistenz, die langfristig die Glaubwürdigkeit der EU-Klimaziele untergräbt."
+                }
+              ],
+              "correctAnswer": "c",
+              "explanation": "Dr. Bergmann erklärt, dass der Rebound-Effekt historisch belegt ist und zeigt, dass jeder Effizienzgewinn durch erhöhten Verbrauch kompensiert wird — das ist das stärkste Argument gegen rein technologiegetriebene Strategien. Das entspricht Zusammenfassung c)."
+            },
+            {
+              "id": "C1_m10_HV1_q7",
+              "type": "matching",
+              "questionText": "Sprecher 7: Frau Amara, Klimadiplomat",
+              "matchingSources": [
+                {
+                  "id": "sum_a",
+                  "label": "a",
+                  "content": "a) Die Sprecherin betont, dass CO2-Bepreisung ohne Rückverteilung sozial regressiv wirkt und politisch scheitern wird."
+                },
+                {
+                  "id": "sum_b",
+                  "label": "b",
+                  "content": "b) Der Sprecher warnt, dass Energiewende-Finanzierung ohne progressive Tarifstruktur einkommensschwache Haushalte überproportional belastet."
+                },
+                {
+                  "id": "sum_c",
+                  "label": "c",
+                  "content": "c) Die Sprecherin sieht im Rebound-Effekt das stärkste Gegenargument zu einer rein technologiegetriebenen Klimastrategie."
+                },
+                {
+                  "id": "sum_d",
+                  "label": "d",
+                  "content": "d) Der Sprecher fordert internationale CO2-Grenzausgleichsmechanismen als Voraussetzung für eine wettbewerbsneutrale Klimapolitik."
+                },
+                {
+                  "id": "sum_e",
+                  "label": "e",
+                  "content": "e) Die Sprecherin hält Suffizienz für politisch nicht durchsetzbar und plädiert für Effizienz als pragmatische Alternative."
+                },
+                {
+                  "id": "sum_f",
+                  "label": "f",
+                  "content": "f) Der Sprecher sieht in der Verkehrswende das Testfeld, an dem die Ernsthaftigkeit der Klimapolitik gemessen werden wird."
+                },
+                {
+                  "id": "sum_g",
+                  "label": "g",
+                  "content": "g) Die Sprecherin kritisiert, dass Klimagerechtigkeit in globalen Verhandlungen als Verhandlungsmasse benutzt wird, statt als Verpflichtung ernst genommen zu werden."
+                },
+                {
+                  "id": "sum_h",
+                  "label": "h",
+                  "content": "h) Der Sprecher betont, dass grüner Wasserstoff für bestimmte Industriesektoren unverzichtbar ist, aber kein Allheilmittel für die Energiewende darstellt."
+                },
+                {
+                  "id": "sum_i",
+                  "label": "i",
+                  "content": "i) Die Sprecherin fordert, dass Klimafinanzierung für den Globalen Süden als Reparationsverpflichtung anerkannt wird, nicht als freiwillige Entwicklungshilfe."
+                },
+                {
+                  "id": "sum_j",
+                  "label": "j",
+                  "content": "j) Der Sprecher sieht in der europäischen Energiepolitik nach dem Ukraine-Krieg eine strukturelle Inkonsistenz, die langfristig die Glaubwürdigkeit der EU-Klimaziele untergräbt."
+                }
+              ],
+              "correctAnswer": "g",
+              "explanation": "Frau Amara beobachtet, dass wohlhabende Staaten Klimagerechtigkeit in COP-Verhandlungen taktisch einsetzen — als Konzession, die verschoben werden kann, nicht als moralische Verpflichtung. Das entspricht Zusammenfassung g). Distraktor i) hat eine andere Stoßrichtung: Reparationspflicht statt Verhandlungstaktik."
+            },
+            {
+              "id": "C1_m10_HV1_q8",
+              "type": "matching",
+              "questionText": "Sprecher 8: Herr Dr. Kraft, Energietechnologe",
+              "matchingSources": [
+                {
+                  "id": "sum_a",
+                  "label": "a",
+                  "content": "a) Die Sprecherin betont, dass CO2-Bepreisung ohne Rückverteilung sozial regressiv wirkt und politisch scheitern wird."
+                },
+                {
+                  "id": "sum_b",
+                  "label": "b",
+                  "content": "b) Der Sprecher warnt, dass Energiewende-Finanzierung ohne progressive Tarifstruktur einkommensschwache Haushalte überproportional belastet."
+                },
+                {
+                  "id": "sum_c",
+                  "label": "c",
+                  "content": "c) Die Sprecherin sieht im Rebound-Effekt das stärkste Gegenargument zu einer rein technologiegetriebenen Klimastrategie."
+                },
+                {
+                  "id": "sum_d",
+                  "label": "d",
+                  "content": "d) Der Sprecher fordert internationale CO2-Grenzausgleichsmechanismen als Voraussetzung für eine wettbewerbsneutrale Klimapolitik."
+                },
+                {
+                  "id": "sum_e",
+                  "label": "e",
+                  "content": "e) Die Sprecherin hält Suffizienz für politisch nicht durchsetzbar und plädiert für Effizienz als pragmatische Alternative."
+                },
+                {
+                  "id": "sum_f",
+                  "label": "f",
+                  "content": "f) Der Sprecher sieht in der Verkehrswende das Testfeld, an dem die Ernsthaftigkeit der Klimapolitik gemessen werden wird."
+                },
+                {
+                  "id": "sum_g",
+                  "label": "g",
+                  "content": "g) Die Sprecherin kritisiert, dass Klimagerechtigkeit in globalen Verhandlungen als Verhandlungsmasse benutzt wird, statt als Verpflichtung ernst genommen zu werden."
+                },
+                {
+                  "id": "sum_h",
+                  "label": "h",
+                  "content": "h) Der Sprecher betont, dass grüner Wasserstoff für bestimmte Industriesektoren unverzichtbar ist, aber kein Allheilmittel für die Energiewende darstellt."
+                },
+                {
+                  "id": "sum_i",
+                  "label": "i",
+                  "content": "i) Die Sprecherin fordert, dass Klimafinanzierung für den Globalen Süden als Reparationsverpflichtung anerkannt wird, nicht als freiwillige Entwicklungshilfe."
+                },
+                {
+                  "id": "sum_j",
+                  "label": "j",
+                  "content": "j) Der Sprecher sieht in der europäischen Energiepolitik nach dem Ukraine-Krieg eine strukturelle Inkonsistenz, die langfristig die Glaubwürdigkeit der EU-Klimaziele untergräbt."
+                }
+              ],
+              "correctAnswer": "h",
+              "explanation": "Dr. Kraft erklärt als Technologe differenziert: Grüner Wasserstoff ist für Stahl und Chemie unverzichtbar, aber energetisch zu ineffizient für PKW und Heizung. Das entspricht Zusammenfassung h). Distraktor c) (Rebound) liegt inhaltlich fern."
+            }
+          ]
+        },
+        {
+          "partNumber": 2,
+          "type": "mcq",
+          "playCount": 1,
+          "audioFile": "assets/audio/C1/mock10/listening_part2.mp3",
+          "instructions": "Sie hören ein Interview zum Thema Klimapolitik und CO2-Bepreisung. Lesen Sie zuerst die zehn Aufgaben. Hören Sie dann das Interview. Was ist richtig? Sie hören das Interview nur einmal.",
+          "instructionsTranslation": "You will hear an interview on climate policy and CO2 pricing. Read the ten questions first. Then listen to the interview. What is correct? You will hear the interview once.",
+          "questions": [
+            {
+              "id": "C1_m10_HV2_q1",
+              "type": "mcq",
+              "questionText": "Was bezeichnet die Interviewte als das Kernproblem der bisherigen CO2-Preispolitik?",
+              "options": [
+                "a) Der Preis ist zu niedrig, um Verhaltensänderungen auszulösen.",
+                "b) Die Einnahmen werden nicht konsequent für den Klimaschutz reinvestiert.",
+                "c) Der Preisanstieg ist zu abrupt und gefährdet die wirtschaftliche Wettbewerbsfähigkeit."
+              ],
+              "correctAnswer": "a",
+              "explanation": "Die Interviewte erklärt, dass der bisherige CO2-Preis von 45 Euro pro Tonne weit unter dem liegt, was die Forschung als verhaltensrelevante Schwelle identifiziert — und deshalb strukturell unwirksam bleibt."
+            },
+            {
+              "id": "C1_m10_HV2_q2",
+              "type": "mcq",
+              "questionText": "Welche Rückverteilungsmaßnahme hält die Interviewte für die effektivste?",
+              "options": [
+                "a) Eine Senkung der Mehrwertsteuer auf Energie und Lebensmittel.",
+                "b) Ein Klimageld als gleichmäßige Pro-Kopf-Auszahlung an alle Bürgerinnen.",
+                "c) Direkte Subventionen für Elektrofahrzeuge und Wärmepumpen."
+              ],
+              "correctAnswer": "b",
+              "explanation": "Die Interviewte erklärt, dass das Klimageld — im Unterschied zu Steuersenkungen oder Subventionen — automatisch progressiv wirkt: Wer wenig verbraucht, gewinnt netto; wer viel verbraucht, zahlt netto."
+            },
+            {
+              "id": "C1_m10_HV2_q3",
+              "type": "mcq",
+              "questionText": "Warum wurde das Klimageld bisher in Deutschland nicht umgesetzt?",
+              "options": [
+                "a) Es fehlt breiter politischer Konsens über die Höhe der Auszahlung.",
+                "b) Es gibt haushaltsrechtliche und institutionelle Hindernisse für direkte Bürgerauszahlungen.",
+                "c) Verfassungsrechtliche Bedenken verhindern die direkte Verwendung von Steuereinnahmen."
+              ],
+              "correctAnswer": "b",
+              "explanation": "Die Interviewte erläutert, dass die technische Umsetzung einer Pro-Kopf-Auszahlung an alle Bürger in Deutschland an institutionellen und haushaltssystematischen Hindernissen scheitert — nicht an fehlendem politischen Willen allein."
+            },
+            {
+              "id": "C1_m10_HV2_q4",
+              "type": "mcq",
+              "questionText": "Welche Position vertritt die Interviewte zur Frage Effizienz versus Suffizienz?",
+              "options": [
+                "a) Suffizienz ist eine Zumutung und in demokratischen Gesellschaften nicht durchsetzbar.",
+                "b) Beide Strategien sind nötig, aber Effizienz allein reicht wegen des Rebound-Effekts nicht aus.",
+                "c) Suffizienz ist die überlegene Strategie, weil Effizienzgewinne immer aufgezehrt werden."
+              ],
+              "correctAnswer": "b",
+              "explanation": "Die Interviewte erkennt die Stärke beider Ansätze an, betont aber, dass der Rebound-Effekt zeigt, warum Effizienz ohne Suffizienz-Elemente klimapolitisch unzureichend ist."
+            },
+            {
+              "id": "C1_m10_HV2_q5",
+              "type": "mcq",
+              "questionText": "Was sagt die Interviewte zur Rolle der Verkehrswende im Klimaschutz?",
+              "options": [
+                "a) Die Elektrifizierung des Individualverkehrs ist ausreichend und die wichtigste Maßnahme.",
+                "b) Echte Verkehrswende erfordert strukturelle Veränderungen in Raumplanung und Subventionen, nicht nur Antriebswechsel.",
+                "c) Der öffentliche Verkehr spielt eine untergeordnete Rolle, solange Elektromobilität ausgebaut wird."
+              ],
+              "correctAnswer": "b",
+              "explanation": "Die Interviewte betont, dass Elektromobilität das Flächenproblem des Individualverkehrs nicht löst — echte Verkehrswende erfordert Raumplanung, Subventionsstruktur und Stärkung des Öffentlichen Verkehrs."
+            },
+            {
+              "id": "C1_m10_HV2_q6",
+              "type": "mcq",
+              "questionText": "Wie bewertet die Interviewte den EU-Sozialklimafonds (SCF)?",
+              "options": [
+                "a) Er ist ein überzeugendes Modell für soziale Abfederung und wird ausreichend finanziert sein.",
+                "b) Er ist konzeptionell sinnvoll, aber es bestehen Zweifel, ob die Mittel ausreichen werden.",
+                "c) Er ist überflüssig, weil ETS-2 die Belastungen für einkommensschwache Haushalte automatisch ausgleicht."
+              ],
+              "correctAnswer": "b",
+              "explanation": "Die Interviewte lobt das Konzept des Sozialklimafonds, äußert aber Skepsis hinsichtlich der Fondsmittel: Sie seien gemessen an der erwarteten Belastungswirkung des ETS-2 voraussichtlich unzureichend."
+            },
+            {
+              "id": "C1_m10_HV2_q7",
+              "type": "mcq",
+              "questionText": "Was sagt die Interviewte zur internationalen Dimension von CO2-Bepreisung?",
+              "options": [
+                "a) Nationale CO2-Preise sind wirkungslos, solange keine globale Einigung besteht.",
+                "b) Ein CO2-Grenzausgleich (CBAM) ist nötig, um Wettbewerbsnachteile für europäische Unternehmen zu vermeiden.",
+                "c) Die EU sollte auf nationalen CO2-Preis verzichten und ausschließlich auf EU-ETS setzen."
+              ],
+              "correctAnswer": "b",
+              "explanation": "Die Interviewte erläutert, dass ohne CO2-Grenzausgleich Industrien in Hochpreisregionen unter Wettbewerbsdruck geraten — der CBAM sei deshalb kein protektionistisches Instrument, sondern Voraussetzung für klimapolitische Ambition."
+            },
+            {
+              "id": "C1_m10_HV2_q8",
+              "type": "mcq",
+              "questionText": "Welche Einschätzung gibt die Interviewte zur Glaubwürdigkeit der EU-Klimaziele?",
+              "options": [
+                "a) Die EU ist auf einem guten Weg und die Klimaziele für 2030 sind realistisch erreichbar.",
+                "b) Die Gleichzeitigkeit von Dekarbonisierung und neuen Gasverträgen nach dem Ukraine-Krieg untergräbt die Glaubwürdigkeit.",
+                "c) Die EU-Klimaziele sind zu ambitioniert und sollten realistisch nach unten angepasst werden."
+              ],
+              "correctAnswer": "b",
+              "explanation": "Die Interviewte sieht in der EU-Energiepolitik nach dem Ukraine-Krieg eine strukturelle Inkonsistenz: Gleichzeitig werden Erneuerbare ausgebaut und neue Gasverträge abgeschlossen — das schadet der klimapolitischen Glaubwürdigkeit."
+            },
+            {
+              "id": "C1_m10_HV2_q9",
+              "type": "mcq",
+              "questionText": "Was hält die Interviewte für die wichtigste politische Bedingung für wirksamen Klimaschutz?",
+              "options": [
+                "a) Internationale Vereinbarungen, die alle großen Emittenten einbeziehen.",
+                "b) Klare gesetzliche Verbindlichkeit für CO2-Minderungspfade und Berichtspflichten.",
+                "c) Breite gesellschaftliche Akzeptanz, die nur durch freiwillige Maßnahmen erreicht werden kann."
+              ],
+              "correctAnswer": "b",
+              "explanation": "Die Interviewte betont, dass freiwillige Selbstverpflichtungen strukturell unzureichend sind — wirksamer Klimaschutz braucht gesetzlich verbindliche Pfade mit Berichtspflichten und Sanktionsmechanismen."
+            },
+            {
+              "id": "C1_m10_HV2_q10",
+              "type": "mcq",
+              "questionText": "Mit welchem Fazit schließt die Interviewte das Gespräch?",
+              "options": [
+                "a) Klimapolitik muss technologieoffen bleiben und darf keine Instrumente vorschreiben.",
+                "b) Der gesellschaftliche Wille zur Veränderung ist vorhanden — es fehlt an politischer Umsetzungsbereitschaft.",
+                "c) Die Zeit für inkrementelle Reformen ist abgelaufen; nur radikale Transformationen können noch wirken."
+              ],
+              "correctAnswer": "b",
+              "explanation": "Die Interviewte schließt mit der These, dass Umfragen und Bürgerdialoge zeigen, dass Klimaschutz gesellschaftlich gewollt ist — das Problem liegt in institutionellen und politischen Umsetzungsblockaden, nicht in fehlendem Bewusstsein."
+            }
+          ]
+        },
+        {
+          "partNumber": 3,
+          "type": "mcq",
+          "playCount": 2,
+          "audioFile": "assets/audio/C1/mock10/listening_part3.mp3",
+          "instructions": "Sie hören einen akademischen Vortrag zum Thema Klimapolitik zwischen Ambition und Pfadabhängigkeit. Lesen Sie zuerst die zehn Fragen. Was ist richtig? Kreuzen Sie an: a, b oder c. Sie hören den Vortrag zweimal.",
+          "instructionsTranslation": "You will hear an academic lecture on climate policy between ambition and path dependency. Read the ten questions first. What is correct? Mark a, b or c. You will hear the lecture twice.",
+          "questions": [
+            {
+              "id": "C1_m10_HV3_q1",
+              "type": "mcq",
+              "questionText": "Was bezeichnet der Vortragende als methodische Grundvoraussetzung für wirksame Klimapolitik?",
+              "options": [
+                "a) Ein internationaler Konsens über CO2-Preisziele.",
+                "b) Verlässliche Emissionsdaten und transparente Fortschrittsberichte.",
+                "c) Eine politisch unabhängige Klimabehörde mit Sanktionskompetenz."
+              ],
+              "correctAnswer": "b",
+              "explanation": "Der Vortragende betont, dass ohne verlässliche Emissionsdaten und transparente Fortschrittsberichte weder Zielkontrolle noch politische Rechenschaft möglich sind — das ist die methodische Grundvoraussetzung."
+            },
+            {
+              "id": "C1_m10_HV3_q2",
+              "type": "mcq",
+              "questionText": "Was versteht der Vortragende unter 'Pfadabhängigkeit' im Kontext der Klimapolitik?",
+              "options": [
+                "a) Die Tendenz, einmal eingeschlagene Technologiepfade beizubehalten, weil Wechselkosten prohibitiv hoch sind.",
+                "b) Die geografische Abhängigkeit von fossilen Ressourcen in bestimmten Regionen.",
+                "c) Die Verpflichtung zur Einhaltung einmal unterzeichneter Klimaverträge."
+              ],
+              "correctAnswer": "a",
+              "explanation": "Der Vortragende erklärt Pfadabhängigkeit als strukturelles Hemmnis: Einmal getätigte Investitionen — in Infrastruktur, Technologie, Institutionen — erzeugen Lock-in-Effekte, die Alternativen teurer machen und so den Status quo perpetuieren."
+            },
+            {
+              "id": "C1_m10_HV3_q3",
+              "type": "mcq",
+              "questionText": "Welchen Unterschied macht der Vortragende zwischen Effizienz und Suffizienz als klimapolitischen Strategien?",
+              "options": [
+                "a) Effizienz ist technologiebasiert und sofort umsetzbar; Suffizienz erfordert jahrzehntelange Verhaltensänderung.",
+                "b) Effizienz optimiert Ressourcennutzung; Suffizienz zielt auf Reduktion von Bedürfnissen — und ist deshalb politisch umstrittener.",
+                "c) Effizienz eignet sich für Industrie; Suffizienz ist ausschließlich für private Haushalte relevant."
+              ],
+              "correctAnswer": "b",
+              "explanation": "Der Vortragende erklärt, dass Suffizienz direkt in individuelle Präferenzen und Lebensstile eingreift, weshalb sie politisch auf mehr Widerstand stößt als Effizienzmaßnahmen, die dasselbe Ziel mit weniger Ressourcen anstreben."
+            },
+            {
+              "id": "C1_m10_HV3_q4",
+              "type": "mcq",
+              "questionText": "Wie erklärt der Vortragende das politische Scheitern des deutschen Klimagelds?",
+              "options": [
+                "a) Es fehlte eine parlamentarische Mehrheit für das Konzept.",
+                "b) Haushaltsrechtliche Zuständigkeiten erschwerten die technische Umsetzung einer direkten Bürgerauszahlung.",
+                "c) Das Konzept war verfassungsrechtlich problematisch."
+              ],
+              "correctAnswer": "b",
+              "explanation": "Der Vortragende erläutert, dass das Klimageld an haushaltssystematischen Hindernissen scheiterte: Die direkte Pro-Kopf-Auszahlung an alle Bürger ließ sich im deutschen Haushaltsrecht nicht ohne weiteres abbilden."
+            },
+            {
+              "id": "C1_m10_HV3_q5",
+              "type": "mcq",
+              "questionText": "Was sagt der Vortragende über das Konzept 'Klimagerechtigkeit'?",
+              "options": [
+                "a) Es ist ein moralisch relevantes Konzept, das aber in der Klimapolitik kaum operationalisierbar ist.",
+                "b) Es bezeichnet ausschließlich die gerechte Verteilung von Emissionsrechten zwischen Staaten.",
+                "c) Es verbindet historische Emissionsverantwortung mit gegenwärtiger Vulnerabilität — und fordert strukturelle, nicht nur finanzielle Antworten."
+              ],
+              "correctAnswer": "c",
+              "explanation": "Der Vortragende betont, dass Klimagerechtigkeit historische Verantwortung (wer hat emittiert?) mit aktueller Betroffenheit (wer leidet?) verbindet — und dass echte Klimagerechtigkeit strukturelle Veränderungen von Handels- und Finanzordnungen erfordert."
+            },
+            {
+              "id": "C1_m10_HV3_q6",
+              "type": "mcq",
+              "questionText": "Welche empirische Beobachtung macht der Vortragende zum Rebound-Effekt?",
+              "options": [
+                "a) Der Rebound-Effekt ist theoretisch plausibel, aber empirisch schwer nachweisbar.",
+                "b) Historische Daten zeigen, dass Energieeffizienzgewinne regelmäßig durch erhöhten Verbrauch ganz oder teilweise aufgezehrt werden.",
+                "c) Der Rebound-Effekt trifft nur auf Haushalte zu, nicht auf die Industrie."
+              ],
+              "correctAnswer": "b",
+              "explanation": "Der Vortragende zitiert historische Daten zu Automobilverbrauch und Beleuchtung als empirische Belege dafür, dass Effizienzgewinne durch Verhaltensanpassung (mehr Nutzung) regelmäßig kompensiert werden."
+            },
+            {
+              "id": "C1_m10_HV3_q7",
+              "type": "mcq",
+              "questionText": "Was erklärt der Vortragende zur Architektur des EU-Emissionshandels (ETS)?",
+              "options": [
+                "a) Das erste ETS deckt Industrie und Energie ab; das zweite (ab 2027) soll Gebäude und Verkehr einbeziehen.",
+                "b) ETS gilt einheitlich für alle Sektoren und wird durch nationale CO2-Steuern ergänzt.",
+                "c) Das ETS wird ab 2027 vollständig durch nationale CO2-Preise ersetzt."
+              ],
+              "correctAnswer": "a",
+              "explanation": "Der Vortragende beschreibt die Zweiteilung: ETS-1 für Industrie und Energie; ETS-2 als neues System ab 2027 für Gebäude und Verkehr — flankiert durch den Sozialklimafonds."
+            },
+            {
+              "id": "C1_m10_HV3_q8",
+              "type": "mcq",
+              "questionText": "Welche Kritik übt der Vortragende an der EU-Energiepolitik nach 2022?",
+              "options": [
+                "a) Die EU hat zu schnell auf russisches Gas verzichtet und dadurch Versorgungssicherheit gefährdet.",
+                "b) Die Gleichzeitigkeit von Investitionen in erneuerbare Energien und neuen Gasverträgen ist klimapolitisch inkonsistent.",
+                "c) Die EU hat die Chance zur schnelleren Dekarbonisierung durch zu viel Rücksicht auf Mitgliedstaaten verpasst."
+              ],
+              "correctAnswer": "b",
+              "explanation": "Der Vortragende kritisiert, dass die EU nach dem Ukraine-Krieg sowohl in Erneuerbare als auch in neue LNG-Kapazitäten investiert hat — eine Gleichzeitigkeit, die die klimapolitische Glaubwürdigkeit der EU langfristig schädigt."
+            },
+            {
+              "id": "C1_m10_HV3_q9",
+              "type": "mcq",
+              "questionText": "Was nennt der Vortragende als strukturellen Interessenkonflikt in der Klimapolitik?",
+              "options": [
+                "a) Unternehmen, die CO2 emittieren, haben einen strukturellen Anreiz, gegen strenge Regulierung zu lobbieren.",
+                "b) Parlamentarier mit kurzen Wahlperioden haben strukturell wenig Anreiz, langfristige Klimainvestitionen zu priorisieren.",
+                "c) Wissenschaftler, die von der Energiebranche finanziert werden, haben strukturell verzerrte Forschungsergebnisse."
+              ],
+              "correctAnswer": "b",
+              "explanation": "Der Vortragende benennt das kurze-Wahlperioden-Problem als zentralen strukturellen Interessenkonflikt: Klimakosten entstehen jetzt, Klimanutzen kommt in Jahrzehnten — das passt nicht zur Logik demokratischer Wahlzyklen."
+            },
+            {
+              "id": "C1_m10_HV3_q10",
+              "type": "mcq",
+              "questionText": "Was ist die abschließende These des Vortragenden?",
+              "options": [
+                "a) Die 1,5-Grad-Grenze ist bereits nicht mehr erreichbar und die Politik sollte sich auf Anpassung konzentrieren.",
+                "b) Technologischer Fortschritt wird die Klimakrise lösen, wenn die richtigen Investitionsanreize gesetzt werden.",
+                "c) Wirksame Klimapolitik erfordert nicht nur Instrumente und Technologien, sondern den institutionellen Willen, Pfadabhängigkeiten aktiv zu durchbrechen."
+              ],
+              "correctAnswer": "c",
+              "explanation": "Der Vortragende schließt mit der These, dass das Versagen der Klimapolitik kein Instrumenten-, sondern ein Institutionenproblem ist: Pfadabhängigkeiten in Infrastruktur, Subventionen und politischen Anreizstrukturen verhindern die notwendige Transformation."
+            }
+          ]
+        }
+      ]
+    },
+    "writing": {
+      "totalTimeMinutes": 70,
+      "tasks": [
+        {
+          "taskNumber": 1,
+          "type": "essay",
+          "instructions": "Wählen Sie eine der beiden Aufgaben (A oder B) und schreiben Sie einen Text von mindestens 350 Wörtern. Sie haben 70 Minuten Zeit. Beachten Sie die vier Leitpunkte.",
+          "instructionsTranslation": "Choose one of the two tasks (A or B) and write a text of at least 350 words. You have 70 minutes. Pay attention to the four guiding points.",
+          "prompt": "Aufgabe A — Erörterung: Sollte Deutschland einen CO2-Preis einführen, der hoch genug ist, um Verhaltensänderungen zu bewirken?\n\nZwei Stimmen zur Debatte:\n\nStimme 1 (Klimaökonomin, Berlin): „Ein CO2-Preis von 45 Euro ist klimapolitisch wirkungslos — er liegt weit unterhalb der verhaltensrelevanten Schwelle. Wer Klimaschutz ernst nimmt, muss bereit sein, den Preis auf ein Niveau zu heben, das tatsächlich Entscheidungen verändert. Alles andere ist Symbolpolitik.\"\n\nStimme 2 (Sozialverband, Hamburg): „Höhere CO2-Preise ohne starke soziale Abfederung sind ein Angriff auf Menschen, die ohnehin schon wenig haben. Wer Klimaschutz sozial ungerecht gestaltet, vergiftet die gesellschaftliche Akzeptanz — und schadet am Ende auch dem Klima.\"\n\nLeitpunkte:\n1. Führen Sie in das Thema ein und erläutern Sie, warum die Höhe des CO2-Preises politisch umstritten ist.\n2. Diskutieren Sie Argumente für einen deutlich höheren CO2-Preis.\n3. Diskutieren Sie Argumente gegen einen hohen CO2-Preis oder für Alternativansätze.\n4. Begründen Sie Ihren eigenen Standpunkt: Welcher Ansatz erscheint Ihnen angemessen und warum?\n\n---\n\nAufgabe B — Stellungnahme: Suffizienz — zumutbare Forderung oder paternalistischer Eingriff?\n\nAusgangsbehauptung (Nachhaltigkeitsforscher, 2025): „Technologischer Fortschritt allein wird die Klimakrise nicht lösen. Wir brauchen eine gesellschaftliche Debatte darüber, wie viel Konsum, Mobilität und Energieverbrauch vernünftig ist. Suffizienz ist kein Verzicht — es ist eine Qualitätsverschiebung.\"\n\nLeitpunkte:\n1. Erläutern Sie das Konzept der Suffizienz und grenzen Sie es von Effizienz ab.\n2. Diskutieren Sie, inwiefern staatliche Suffizienzpolitik legitim sein kann.\n3. Diskutieren Sie Risiken für individuelle Freiheiten und die Akzeptanz von Klimapolitik.\n4. Nehmen Sie abschließend Stellung: Welche Form von Suffizienzpolitik halten Sie für angemessen?\n\nMindestlänge: 350 Wörter. Empfehlung: 350–400 Wörter.",
+          "promptTranslation": "Task A — Argumentative essay: Should Germany introduce a CO2 price high enough to trigger behavioural change? | Task B — Opinion statement: Sufficiency — a reasonable demand or paternalistic interference?",
+          "requiredPoints": [
+            "Thema einführen und Kontroverse erläutern",
+            "Argumente für eine Position diskutieren",
+            "Argumente für die Gegenposition oder Alternativmodelle diskutieren",
+            "Eigenen Standpunkt begründen"
+          ],
+          "wordCountMin": 350,
+          "wordCountMax": 450,
+          "sampleAnswer": "Aufgabe A — Musterlösung (Erörterung)\n\nDie Frage, ob ein CO2-Preis hoch genug sein soll, um Verhalten zu verändern, ist keine technische — sie ist eine politische. Sie entscheidet, ob Klimaschutz als Kostenverschiebung im Markt oder als gesellschaftliche Transformation verstanden wird. Dass die derzeitigen 45 Euro pro Tonne CO2 weit unterhalb der verhaltensrelevanten Schwelle liegen, ist unter Ökonomen weitgehend Konsens. Die politische Auseinandersetzung dreht sich nicht um das Ob, sondern um die sozialen Bedingungen des Wie.\n\nFür einen deutlich höheren CO2-Preis spricht das Effizienzargument: Der Marktmechanismus lenkt Investitionen in emissionsarme Technologien, ohne staatliche Detailplanung zu erfordern. Ein Preis von 150 bis 200 Euro pro Tonne — wie von vielen Klimaökonominnen gefordert — würde fossile Energie tatsächlich teurer machen als ihre Alternativen und so Investitionsanreize für erneuerbare Energien, Wärmepumpen und Elektromobilität setzen, die auf aktuellem Preisniveau fehlen. Zudem wären die Einnahmen erheblich — genug, um ein wirksames Klimageld zu finanzieren.\n\nDem stehen gewichtige Einwände gegenüber. Kritiker verweisen darauf, dass ein hoher CO2-Preis ohne soziale Abfederung regressive Verteilungswirkungen hat: Einkommensschwache Haushalte geben einen höheren Anteil ihres Einkommens für Energie und Mobilität aus und tragen überproportional die Last. Hinzu kommt das internationale Wettbewerbsproblem: Ohne CO2-Grenzausgleich geraten europäische Unternehmen gegenüber Konkurrenten aus Niedrigpreisregionen unter Druck. Dieses Argument ist kein Gegenargument gegen hohe CO2-Preise, sondern für ihre internationale Flankierung.\n\nIch halte einen CO2-Preis auf verhaltensrelevantem Niveau für notwendig — verbunden mit einem konsequenten Klimageld, das die Einnahmen gleichmäßig an alle Bürgerinnen und Bürger auszahlt. Diese Kombination ist ökonomisch effizient und sozial gerecht: Wer wenig verbraucht, profitiert netto; wer viel verbraucht, zahlt. Die technischen und institutionellen Hindernisse der Umsetzung sind lösbar — wenn der politische Wille vorhanden ist, sie zu lösen.",
+          "sampleAnswerMetadata": "ca. 355 Wörter — demonstriert alle 4 Leitpunkte, CR-15: K1 in indirekter Rede (seien, fehlen, gäbe → korrekt K1: gebe, fehle, liegen → K1: liegen/lägen); ≥3 FVG (unter Druck geraten, in Frage stellen, in Einklang bringen); Konnektoren-Vielfalt (hinzu kommt, dem stehen gegenüber, zudem, verbunden mit); C1-Lexik (regressive Verteilungswirkungen, verhaltensrelevant, Grenzausgleich, Einnahmen reinvestieren)",
+          "scoringCriteria": [
+            {
+              "criterion": "Aufgabengerechtheit",
+              "maxPoints": 12,
+              "description": "Alle 4 Leitpunkte vollständig behandelt — Einführung mit thematischer Einordnung, beide Seiten mit je ≥2 Argumenten, begründeter Standpunkt. Kein Leitpunkt ausgelassen."
+            },
+            {
+              "criterion": "Repertoire",
+              "maxPoints": 12,
+              "description": "C1-Wortschatz: klimapolitische Lexik (CO2-Preis, Grenzausgleich, Rückverteilung, Regressivität), ≥3 Funktionsverbgefüge, Konjunktiv I in indirekter Rede, variiertes Konnektor-Repertoire."
+            },
+            {
+              "criterion": "Korrektheit",
+              "maxPoints": 12,
+              "description": "Morphologische und syntaktische Korrektheit auf C1-Niveau. Konjunktiv I (nicht K2) für indirekte Rede, Genitiv-Präpositionen, Passiv-Ersatzformen und Infinitivkonstruktionen korrekt eingesetzt."
+            },
+            {
+              "criterion": "Kommunikative Gestaltung",
+              "maxPoints": 12,
+              "description": "Klare Textstruktur (Einleitung/Hauptteil/Schluss), kohärente Absatzführung, variierte Konnektoren, durchgängig formal-akademisches Register."
+            }
+          ]
+        }
+      ]
+    },
+    "speaking": {
+      "totalTimeMinutes": 16,
+      "prepTimeMinutes": 0,
+      "parts": [
+        {
+          "partNumber": 1,
+          "instructions": "Teil 1A — Präsentation: Wählen Sie eines der beiden Themen und halten Sie eine Präsentation von ca. 3 Minuten. Nutzen Sie die Stichpunkte als Anregung. Sie haben keine gesonderte Vorbereitungszeit.",
+          "instructionsTranslation": "Part 1A — Presentation: Choose one of the two topics and give a presentation of approximately 3 minutes. Use the bullet points as prompts. You have no additional preparation time.",
+          "type": "presentation",
+          "prompt": "Thema A: CO2-Bepreisung — Steuerungsmedium oder soziale Belastung?\n\nMögliche Aspekte (Sie müssen nicht alle ansprechen):\n• Was unterscheidet CO2-Bepreisung von anderen klimapolitischen Instrumenten?\n• Welche Argumente sprechen für einen deutlich höheren CO2-Preis?\n• Welche sozialen Risiken sind mit einem hohen CO2-Preis verbunden?\n• Welche Begleitmaßnahmen wären notwendig, damit CO2-Bepreisung politisch nachhaltig ist?\n\n---\n\nThema B: Suffizienz — zumutbare Forderung oder paternalistischer Eingriff?\n\nMögliche Aspekte (Sie müssen nicht alle ansprechen):\n• Wie unterscheidet sich Suffizienz von Effizienz als klimapolitischem Ansatz?\n• Welche Bereiche des Alltags wären von Suffizienzpolitik am stärksten betroffen?\n• Wie könnte Suffizienz so gestaltet werden, dass sie nicht als Zumutung wahrgenommen wird?\n• Wo liegen die Grenzen staatlicher Eingriffe in individuelle Lebensstilentscheidungen?",
+          "sampleResponse": "[Thema A — Musterpräsentation]\n\nMeine Damen und Herren, CO2-Bepreisung ist das klimapolitische Instrument, über das unter Ökonominnen und Ökonomen der breiteste Konsens besteht. Trotzdem führt kaum eine Maßnahme zu mehr politischem Widerstand — und dieser Widerspruch lohnt sich zu untersuchen.\n\nDas Prinzip ist einfach: Wer Kohlenstoff emittiert, zahlt. Der Preis macht fossile Energie teurer und setzt damit systemische Anreize für Investitionen in Alternativen — ohne staatliche Detailsteuerung. Das ist ökonomisch elegant. Das Problem ist die Verteilungswirkung: Ein einheitlicher CO2-Preis trifft einkommensschwache Haushalte überproportional. Wer auf dem Land auf das Auto angewiesen ist und in einer schlecht isolierten Mietwohnung lebt, hat keine Ausweichmöglichkeiten — und zahlt trotzdem denselben Preis wie jemand mit Eigenheim, Wärmepumpe und Elektroauto.\n\nDiese Regressive Wirkung ist kein Argument gegen CO2-Bepreisung, sondern für eine kluge Rückverteilung. Das Klimageld — eine gleichmäßige Pro-Kopf-Auszahlung der Einnahmen — löst dieses Problem automatisch: Wer wenig verbraucht, gewinnt netto; wer viel verbraucht, zahlt netto. Es ist sozial gerecht und belässt die Verhaltenssteuerung beim Preis.\n\nDas zweite Argument sind internationale Wettbewerbsverzerrungen. Europäische Unternehmen unter hohem CO2-Preis konkurrieren mit Anbietern aus Regionen ohne Preisregulierung. Das Carbon Border Adjustment Mechanism der EU — kurz CBAM — ist die Antwort: Importe zahlen einen Ausgleich für den Preisvorteil. Das macht CO2-Bepreisung wettbewerbsneutral und schafft Anreize auch für Handelspartner.\n\nMein Fazit: CO2-Bepreisung auf verhaltensrelevantem Niveau, verbunden mit Klimageld und CBAM, ist das effektivste Instrument, das wir haben. Die politischen Hindernisse sind lösbar — sie sind eine Frage des Willens, nicht der Machbarkeit.",
+          "evaluationTips": [
+            "Strukturieren Sie Ihren Vortrag mit Einleitung, Hauptteil (2–3 Argumentationsstränge) und Fazit.",
+            "C1-Erwartung: Keine Auflistung — argumentative Entwicklung mit Kausalität und Wertung.",
+            "Verwenden Sie Konjunktiv I für indirekte Rede (nicht K2): 'Es heißt, der Preis sei zu niedrig…'",
+            "Signalwörter nutzen: 'Zunächst möchte ich…', 'Ein weiterer Aspekt…', 'Mein Fazit…'",
+            "Blickkontakt und natürliche Sprechweise gehören zur Bewertung."
+          ],
+          "keyPhrases": [
+            "Ich möchte zunächst auf … eingehen",
+            "Ein zentraler Aspekt ist …",
+            "Es ließe sich argumentieren, dass …",
+            "Dem ist entgegenzuhalten, dass …",
+            "Meinem Dafürhalten nach …",
+            "Zusammenfassend lässt sich sagen …",
+            "In Anbetracht dieser Überlegungen …",
+            "Dies hat weitreichende Konsequenzen für …"
+          ]
+        },
+        {
+          "partNumber": 2,
+          "instructions": "Teil 1B — Zusammenfassung und Anschlussfrage: Der/die Prüfungspartner/in fasst die Präsentation kurz zusammen und stellt eine Anschlussfrage. Der/die Präsentierende antwortet.",
+          "instructionsTranslation": "Part 1B — Summary and follow-up question: The exam partner briefly summarises the presentation and asks one follow-up question. The presenter responds.",
+          "type": "discussion",
+          "prompt": "Aufgabe für den/die Prüfungspartner/in:\n1. Fassen Sie die Hauptthesen der Präsentation in 2–3 Sätzen zusammen.\n2. Stellen Sie eine Anschlussfrage, die einen neuen Aspekt öffnet oder eine These kritisch hinterfragt.\n\nBeispiele für Anschlussfragen (je nach Präsentationsthema):\n- „Du hast gesagt, das Klimageld sei die Lösung für die sozialen Probleme der CO2-Bepreisung. Aber wäre es nicht gerechter, die Einnahmen direkt in einkommensschwache Haushalte zu investieren, statt sie gleichmäßig zu verteilen?\"\n- „Wenn Suffizienz tatsächlich keine Zumutung ist, sondern eine Qualitätsverbesserung — warum wird sie dann als so bedrohlich wahrgenommen?\"\n- „Welche Sektoren sollten nach deiner Meinung von Suffizienzpolitik prioritär betroffen sein — und wer entscheidet das?\"\n\nAufgabe für den/die Präsentierende/n:\nReagieren Sie direkt: korrigieren Sie Missverständnisse, beantworten Sie die Frage mit begründeter Argumentation.",
+          "sampleResponse": "[Musterreaktion auf Anschlussfrage zum Klimageld]\n\nDas ist eine wichtige Differenzierung. Man könnte argumentieren, dass eine gezielte Umverteilung an einkommensschwache Haushalte sozial effektiver wäre als eine Gleichverteilung. Und das stimmt — wenn das einzige Ziel soziale Gerechtigkeit ist.\n\nAber ich würde zwei Aspekte dagegenstellen. Erstens: Das Klimageld hat den Vorteil der politischen Einfachheit — jeder bekommt denselben Betrag, keine Bürokratie, keine Bedürftigkeitsprüfung. Das erhöht die gesellschaftliche Akzeptanz. Zweitens: Die progressive Wirkung entsteht automatisch, weil einkommensschwache Haushalte weniger emittieren. Sie gewinnen netto, auch ohne gezielte Umverteilung. Wer mehr emittiert — und das sind statistisch die Einkommensstärkeren — zahlt netto.\n\nDie gezielte Umverteilung hat aber einen echten Vorteil: Sie könnte einen Teil der Einnahmen für Investitionen in Infrastruktur nutzen — Nahverkehr, Gebäudesanierung, Ladestationen. Das würde nicht nur die soziale Gerechtigkeit direkt fördern, sondern auch die Ausweichmöglichkeiten schaffen, ohne die ein hoher CO2-Preis für viele schlicht keine Verhaltensalternative bietet. Die Antwort lautet also: Klimageld für den Ausgleich, Investitionsmittel für die Transformation.",
+          "evaluationTips": [
+            "Reagieren Sie direkt auf die Frage — beginnen Sie nicht mit einer allgemeinen Einleitung.",
+            "C1-Erwartung: Differenzierung zwischen verschiedenen Aspekten ('erstens... zweitens...')",
+            "Konjunktiv I für Wiedergabe fremder Positionen: 'Man könnte argumentieren, dass...' (nicht K2: 'würde')",
+            "Zeigen Sie, dass Sie sowohl die Stärke als auch die Grenzen des eigenen Standpunkts kennen.",
+            "Vermeiden Sie zu kurze Antworten — C1 erwartet entwickelte, begründete Reaktion."
+          ],
+          "keyPhrases": [
+            "Das ist eine wichtige Differenzierung",
+            "Man könnte argumentieren, dass …",
+            "Ich würde aber unterscheiden zwischen …",
+            "Der entscheidende Unterschied liegt darin …",
+            "Ich stimme zu, dass … — aber ich würde ergänzen …",
+            "Das führt letztlich zu der Frage …"
+          ]
+        },
+        {
+          "partNumber": 3,
+          "instructions": "Teil 2 — Diskussion: Diskutieren Sie mit Ihrem/Ihrer Prüfungspartner/in das folgende Thema. Sie haben ca. 5 Minuten Zeit.",
+          "instructionsTranslation": "Part 2 — Discussion: Discuss the following topic with your exam partner. You have approximately 5 minutes.",
+          "type": "discussion",
+          "prompt": "Diskussionsthema: Kann Klimapolitik in liberalen Demokratien wirksam sein — oder ist das Prinzip kurzfristiger Wahlzyklen strukturell unvereinbar mit langfristigem Klimaschutz?\n\nMögliche Positionen:\n• Demokratische Systeme sind prinzipiell in der Lage, langfristige Herausforderungen zu bewältigen — das Problem ist politischer Wille, nicht Systemversagen.\n• Kurzfristige Wahlzyklen erzeugen strukturelle Anreize gegen langfristige, kostspielige Investitionen — Klimapolitik braucht institutionelle Absicherungen jenseits von Wahlperioden.\n• Internationaler Druck und gesellschaftliche Bewegungen können Demokratien zu wirksamer Klimapolitik zwingen, wenn der institutionelle Wille fehlt.\n\nDiskutieren Sie Argumente für und gegen diese Positionen. Bringen Sie eigene Beispiele und beziehen Sie Stellung.",
+          "sampleResponse": "[Musterdiskussion — Beitrag A]\n\nIch würde sagen: Das Problem ist nicht die Demokratie als solche — das Problem ist die Art, wie demokratische Institutionen mit Langfristigkeit umgehen. Andere langfristige Herausforderungen — Rentenreform, Infrastruktur — werden auch in Demokratien angegangen. Der Unterschied beim Klima ist, dass die Kosten jetzt entstehen und die Nutznießenden noch nicht geboren sind. Das ist ein echtes Anreizproblem.\n\nAber die Lösung ist nicht weniger Demokratie — sie ist bessere institutionelle Gestaltung. Klimaräte mit gesetzlich verankerten Budgets, unabhängige Klimabehörden mit Sanktionskompetenz, verfassungsrechtlich abgesicherte Klimaziele — das sind Mechanismen, die den kurzfristigen Wahlzyklus um eine langfristige Verpflichtungsebene ergänzen, ohne demokratische Rechenschaft aufzugeben.\n\n[Musterdiskussion — Beitrag B]\n\nDas klingt überzeugend, aber ich habe eine Gegenthese: Diese Institutionen sind selbst demokratisch beschlossen. Wer setzt die Klimaziele? Wer besetzt die Klimabehörde? Wenn es am gesellschaftlichen Konsens fehlt, lösen auch unabhängige Institutionen nichts — sie legitimieren dann nur eine Politik, die an der Lebensrealität vieler Menschen vorbeigeht. Klimapolitik ohne Mehrheit erzeugt Backlash — wie wir in Frankreich mit den Gelbwesten gesehen haben.\n\nDie eigentliche Antwort ist meiner Meinung nach: Klimapolitik muss als gerechte Transformation gestaltet werden — nicht als technische Notwendigkeit, die unabhängige Experten durchsetzen. Das verlangsamt es vielleicht. Aber es sichert die gesellschaftliche Grundlage, ohne die jede ambitionierte Klimapolitik letztlich scheitert.",
+          "evaluationTips": [
+            "C1-Diskussion: Auf Argumente des Partners eingehen — nicht eigene Position wiederholen.",
+            "Strukturierte Gegenargumente mit Konjunktiv I: 'Man könnte einwenden, dass diese Lösung…'",
+            "Eigene Beispiele bringen: konkrete Länder, Politiken, historische Fälle.",
+            "Register: formal-sachlich, keine Umgangssprache, aber natürlich und diskursiv.",
+            "Zuhören und explizit reagieren: 'Das ist ein starkes Argument, aber…'"
+          ],
+          "keyPhrases": [
+            "Ich würde dem entgegenhalten …",
+            "Das ist ein wichtiger Punkt, aber …",
+            "Wenn ich auf Ihren Einwand eingehe …",
+            "Meiner Meinung nach liegt das Problem woanders …",
+            "Das Beispiel zeigt gut, dass …",
+            "Man müsste differenzieren zwischen …"
+          ]
+        }
+      ]
+    }
   }
 }
