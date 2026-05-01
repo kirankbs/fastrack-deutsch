@@ -20,7 +20,7 @@
               "questionText": "Das Tierheim sucht derzeit vor allem Pflegestellen für Katzen.",
               "options": ["richtig", "falsch"],
               "correctAnswer": "falsch",
-              "explanation": "Die Durchsage des Tierheims lautet: 'Wir suchen dringend Pflegestellen für Hunde – besonders große Rassen, die in der Unterkunft keinen Platz mehr finden.' Katzen werden nicht erwähnt.",
+              "explanation": "Die Durchsage des Tierheims lautet: Wir suchen dringend Pflegestellen für Hunde – besonders große Rassen, die in der Unterkunft keinen Platz mehr finden. Katzen werden nicht erwähnt.",
               "audioTimestamp": 10
             },
             {
@@ -29,7 +29,7 @@
               "questionText": "Der Hundetraining-Kurs findet samstags statt.",
               "options": ["richtig", "falsch"],
               "correctAnswer": "richtig",
-              "explanation": "Die Ansage des Hundesportvereins besagt: 'Unser Grundkurs für Welpen und Junghunde findet jeden Samstag von 10 bis 12 Uhr auf dem Vereinsgelände statt.' Die Aussage stimmt.",
+              "explanation": "Die Ansage des Hundesportvereins besagt: Unser Grundkurs für Welpen und Junghunde findet jeden Samstag von 10 bis 12 Uhr auf dem Vereinsgelände statt. Die Aussage stimmt.",
               "audioTimestamp": 11
             },
             {
@@ -38,7 +38,7 @@
               "questionText": "Die Tierarztpraxis hat auch am Dienstagabend geöffnet.",
               "options": ["richtig", "falsch"],
               "correctAnswer": "falsch",
-              "explanation": "Die Bandansage der Praxis nennt: 'Unsere Sprechzeiten sind montags, mittwochs und freitags von 9 bis 18 Uhr sowie donnerstags von 14 bis 20 Uhr.' Dienstag ist kein Öffnungstag.",
+              "explanation": "Die Bandansage der Praxis nennt: Unsere Sprechzeiten sind montags, mittwochs und freitags von 9 bis 18 Uhr sowie donnerstags von 14 bis 20 Uhr. Dienstag ist kein Öffnungstag.",
               "audioTimestamp": 9
             },
             {
@@ -47,7 +47,7 @@
               "questionText": "Die Tierhandlung hat ihr Sortiment um Aquariumpflanzen erweitert.",
               "options": ["richtig", "falsch"],
               "correctAnswer": "richtig",
-              "explanation": "Der Werbespot der Tierhandlung sagt: 'Neu bei uns: ein großes Sortiment an Aquariumpflanzen und Wasserpflanzen – jetzt in unserem Aquaristik-Bereich.' Die Aussage trifft zu.",
+              "explanation": "Der Werbespot der Tierhandlung sagt: Neu bei uns: ein großes Sortiment an Aquariumpflanzen und Wasserpflanzen – jetzt in unserem Aquaristik-Bereich. Die Aussage trifft zu.",
               "audioTimestamp": 10
             },
             {
@@ -56,7 +56,7 @@
               "questionText": "Der Tierfotograf-Workshop kostet 80 Euro pro Person.",
               "options": ["richtig", "falsch"],
               "correctAnswer": "falsch",
-              "explanation": "Die Ansage des Workshops lautet: 'Die Teilnahmegebühr beträgt 65 Euro pro Person – inklusive Materialien und Mittagessen.' 65 Euro, nicht 80 – die Aussage ist falsch.",
+              "explanation": "Die Ansage des Workshops lautet: Die Teilnahmegebühr beträgt 65 Euro pro Person – inklusive Materialien und Mittagessen. 65 Euro, nicht 80 – die Aussage ist falsch.",
               "audioTimestamp": 12
             }
           ]
@@ -74,7 +74,7 @@
               "questionText": "Der Radiobericht handelt von Haustieren und ihrer Bedeutung im Stadtleben.",
               "options": ["richtig", "falsch"],
               "correctAnswer": "richtig",
-              "explanation": "Die Moderatorin sagt zu Beginn: 'Heute sprechen wir darüber, welche Rolle Haustiere im Leben von Stadtmenschen spielen – und warum immer mehr Menschen in der Stadt ein Tier halten.' Das Thema trifft zu.",
+              "explanation": "Die Moderatorin sagt zu Beginn: Heute sprechen wir darüber, welche Rolle Haustiere im Leben von Stadtmenschen spielen – und warum immer mehr Menschen in der Stadt ein Tier halten. Das Thema trifft zu.",
               "audioTimestamp": 6
             },
             {
@@ -83,7 +83,7 @@
               "questionText": "Laut dem Bericht haben weniger als ein Viertel aller Deutschen ein Haustier.",
               "options": ["richtig", "falsch"],
               "correctAnswer": "falsch",
-              "explanation": "Der Sprecher nennt: 'Mittlerweile lebt in mehr als einem Drittel aller deutschen Haushalte ein Tier.' Ein Drittel ist mehr als ein Viertel – die Aussage ist falsch.",
+              "explanation": "Der Sprecher nennt: Mittlerweile lebt in mehr als einem Drittel aller deutschen Haushalte ein Tier. Ein Drittel ist mehr als ein Viertel – die Aussage ist falsch.",
               "audioTimestamp": 28
             },
             {
@@ -92,7 +92,7 @@
               "questionText": "Dr. Steinbach forscht an der Universität München zum Thema Mensch-Tier-Beziehung.",
               "options": ["richtig", "falsch"],
               "correctAnswer": "richtig",
-              "explanation": "Die Moderatorin stellt sie vor: 'Frau Dr. Steinbach leitet an der LMU München eine Forschungsgruppe, die sich mit der Beziehung zwischen Menschen und ihren Haustieren beschäftigt.' Die Aussage stimmt.",
+              "explanation": "Die Moderatorin stellt sie vor: Frau Dr. Steinbach leitet an der LMU München eine Forschungsgruppe, die sich mit der Beziehung zwischen Menschen und ihren Haustieren beschäftigt. Die Aussage stimmt.",
               "audioTimestamp": 50
             },
             {
@@ -101,7 +101,7 @@
               "questionText": "Laut Dr. Steinbach sind Hunde bei Stadtbewohnern häufiger als Katzen.",
               "options": ["richtig", "falsch"],
               "correctAnswer": "falsch",
-              "explanation": "Dr. Steinbach sagt: 'In der Stadt sind Katzen das beliebteste Haustier – sie passen besser in kleine Wohnungen als Hunde.' Katzen sind häufiger, nicht Hunde.",
+              "explanation": "Dr. Steinbach sagt: In der Stadt sind Katzen das beliebteste Haustier – sie passen besser in kleine Wohnungen als Hunde. Katzen sind häufiger, nicht Hunde.",
               "audioTimestamp": 72
             },
             {
@@ -110,7 +110,7 @@
               "questionText": "Haustiere können laut der Expertin das Stressniveau ihrer Besitzer senken.",
               "options": ["richtig", "falsch"],
               "correctAnswer": "richtig",
-              "explanation": "Dr. Steinbach erklärt: 'Studien zeigen klar, dass der Umgang mit Haustieren Stresshormone abbaut und das allgemeine Wohlbefinden verbessert.' Die Aussage ist korrekt.",
+              "explanation": "Dr. Steinbach erklärt: Studien zeigen klar, dass der Umgang mit Haustieren Stresshormone abbaut und das allgemeine Wohlbefinden verbessert. Die Aussage ist korrekt.",
               "audioTimestamp": 95
             },
             {
@@ -119,7 +119,7 @@
               "questionText": "Die Expertin empfiehlt, in einer kleinen Wohnung keinen Hund zu halten.",
               "options": ["richtig", "falsch"],
               "correctAnswer": "falsch",
-              "explanation": "Dr. Steinbach sagt: 'Es kommt nicht auf die Wohnungsgröße an, sondern auf die Bewegung. Auch ein Hund in einer kleinen Wohnung kann glücklich sein, wenn er täglich ausreichend Auslauf bekommt.' Sie empfiehlt es nicht grundsätzlich ab.",
+              "explanation": "Dr. Steinbach sagt: Es kommt nicht auf die Wohnungsgröße an, sondern auf die Bewegung. Auch ein Hund in einer kleinen Wohnung kann glücklich sein, wenn er täglich ausreichend Auslauf bekommt. Sie empfiehlt es nicht grundsätzlich ab.",
               "audioTimestamp": 118
             },
             {
@@ -128,7 +128,7 @@
               "questionText": "Das Tierheim in der Sendung hat mehr Hunde als Plätze.",
               "options": ["richtig", "falsch"],
               "correctAnswer": "richtig",
-              "explanation": "Der Tierheimleiter sagt: 'Wir haben zurzeit 47 Hunde untergebracht, aber nur Plätze für 35 – wir sind also deutlich überbelegt.' Die Aussage trifft zu.",
+              "explanation": "Der Tierheimleiter sagt: Wir haben zur Zeit 47 Hunde untergebracht, aber nur Plätze für 35 – wir sind also deutlich überbelegt. Die Aussage trifft zu.",
               "audioTimestamp": 140
             },
             {
@@ -137,7 +137,7 @@
               "questionText": "Laut dem Bericht ist Tierhaltung in Deutschland gesetzlich frei und ohne Auflagen.",
               "options": ["richtig", "falsch"],
               "correctAnswer": "falsch",
-              "explanation": "Im Bericht heißt es: 'Wer ein Tier hält, trägt rechtliche Verantwortung – von der Impfpflicht beim Hund bis zu Mietvertragsklauseln.' Es gibt also durchaus Auflagen.",
+              "explanation": "Im Bericht heißt es: Wer ein Tier hält, trägt rechtliche Verantwortung – von der Impfpflicht beim Hund bis zu Mietvertragsklauseln. Es gibt also durchaus Auflagen.",
               "audioTimestamp": 160
             },
             {
@@ -146,7 +146,7 @@
               "questionText": "Das Tierheim bietet auch Adoptionen an Familien mit Kindern an.",
               "options": ["richtig", "falsch"],
               "correctAnswer": "richtig",
-              "explanation": "Der Tierheimleiter erklärt: 'Wir vermitteln Tiere gern an Familien – wir achten dabei auf eine gute Passung zwischen Tier und Lebenssituation, also auch mit Kindern im Haus.' Die Aussage stimmt.",
+              "explanation": "Der Tierheimleiter erklärt: Wir vermitteln Tiere gern an Familien – wir achten dabei auf eine gute Passung zwischen Tier und Lebenssituation, also auch mit Kindern im Haus. Die Aussage stimmt.",
               "audioTimestamp": 178
             },
             {
@@ -155,7 +155,7 @@
               "questionText": "Am Ende des Berichts nennt die Moderatorin eine Internetseite mit weiteren Informationen.",
               "options": ["richtig", "falsch"],
               "correctAnswer": "richtig",
-              "explanation": "Die Moderatorin schließt: 'Mehr zum Thema Haustiere im Stadtleben finden Sie auf unserer Website – die Adresse lesen wir nach der Sendung noch einmal vor.' Eine Webseite wird genannt.",
+              "explanation": "Die Moderatorin schließt: Mehr zum Thema Haustiere im Stadtleben finden Sie auf unserer Website – die Adresse lesen wir nach der Sendung noch einmal vor. Eine Webseite wird genannt.",
               "audioTimestamp": 198
             }
           ]
@@ -177,7 +177,7 @@
                 "c) Ihr Hund hat eine Wunde am Pfoten."
               ],
               "correctAnswer": "a",
-              "explanation": "Die Frau sagt an der Rezeption: 'Meine Katze hat seit zwei Tagen nichts gegessen und wirkt sehr matt – ich mache mir Sorgen.' Impfen und Wunden werden nicht erwähnt. Trap: Option b klingt plausibel als Tierarztbesuch, aber der Dialog nennt eine Katze, kein Impfthema.",
+              "explanation": "Die Frau sagt: Meine Katze hat seit zwei Tagen nichts gegessen und wirkt sehr matt. Trap: Option b klingt plausibel als Tierarztbesuch (Impfung ist häufiger Anlass), aber der Dialog nennt eine Katze mit Fressverweigerung, kein Impfthema.",
               "audioTimestamp": 17
             },
             {
@@ -190,7 +190,7 @@
                 "c) Sie sind beide allergisch gegen Tierhaare."
               ],
               "correctAnswer": "b",
-              "explanation": "Der Mann erklärt: 'Wir sind beruflich viel unterwegs – letztens drei Wochen am Stück. Da können wir kein Tier allein lassen, und eine Pflegestelle wäre uns zu aufwendig.' Vermieter und Allergie kommen nicht vor. Trap: Option a ist ein klassischer Hinderungsgrund bei Tierhaltung und klingt naheliegend.",
+              "explanation": "Der Mann erklärt: Wir sind beruflich viel unterwegs – letztens drei Wochen am Stück. Da können wir kein Tier allein lassen. Trap: Option a (Vermieter) ist ein klassischer Hinderungsgrund bei Tierhaltung und klingt naheliegend, wird aber nicht erwähnt.",
               "audioTimestamp": 50
             },
             {
@@ -203,7 +203,7 @@
                 "c) Sie soll zunächst am offenen Besuchstag vorbeikommen."
               ],
               "correctAnswer": "c",
-              "explanation": "Die Mitarbeiterin sagt: 'Am besten kommen Sie erst mal an unserem Besuchstag vorbei – jeden Sonntag von 14 bis 17 Uhr. Dann können Sie die Tiere kennenlernen, bevor Sie sich entscheiden.' Probezeit und Doppelkauf werden nicht empfohlen. Trap: Option a klingt fürsorglich und fachgerecht, wurde aber nicht gesagt.",
+              "explanation": "Die Mitarbeiterin sagt: Am besten kommen Sie erst mal an unserem Besuchstag vorbei – jeden Sonntag von 14 bis 17 Uhr. Trap: Option a klingt fürsorglich und fachgerecht (Probezeit), wurde aber nicht gesagt.",
               "audioTimestamp": 88
             },
             {
@@ -216,7 +216,7 @@
                 "c) Der Nachbar hat den Hund auf dem Balkon allein gelassen."
               ],
               "correctAnswer": "b",
-              "explanation": "Die Frau beschwert sich: 'Ihr Hund ist gestern wieder unkontrolliert durch das Treppenhaus gelaufen – mein Kind hat sich erschrocken.' Bellen und Balkon werden nicht erwähnt. Trap: Option a ist ein häufiger Nachbarschaftskonflikt mit Hunden und daher verlockend.",
+              "explanation": "Die Frau beschwert sich: Ihr Hund ist gestern wieder unkontrolliert durch das Treppenhaus gelaufen – mein Kind hat sich erschrocken. Trap: Option a (Bellen) ist ein häufiger Nachbarschaftskonflikt mit Hunden und daher verlockend.",
               "audioTimestamp": 122
             },
             {
@@ -229,7 +229,7 @@
                 "c) Sie tauschen ihre Aquariumfische gegeneinander."
               ],
               "correctAnswer": "b",
-              "explanation": "Am Schluss sagt Jonas: 'Also gut – ich komme jeden zweiten Tag vorbei und füttere die Fische, solange du weg bist.' Fischkauf und Tausch kommen nicht vor. Trap: Option a klingt nach dem, was man vor einem Urlaub tun könnte, aber das wird im Dialog nicht vereinbart.",
+              "explanation": "Am Schluss sagt Jonas: Also gut – ich komme jeden zweiten Tag vorbei und füttere die Fische, solange du weg bist. Trap: Option a klingt nach dem, was man vor einem Urlaub tun könnte, aber das wird im Dialog nicht vereinbart.",
               "audioTimestamp": 160
             }
           ]
@@ -355,7 +355,7 @@
               "id": "B1_m09_R2_text",
               "type": "article",
               "title": "Tauschring oder Tierheim? Wie Städter ihre Haustierbetreuung organisieren",
-              "content": "Wer in der Stadt ein Haustier hält, kennt das Problem: Ein spontaner Kurzurlaub, ein längerer Arbeitstag oder eine Dienstreise – und schon stellt sich die Frage, wer sich um den Hund oder die Katze kümmert. Professionelle Tierpensionen und Hundesitter sind eine Möglichkeit, doch sie können teuer sein. Viele Stadtbewohner suchen deshalb nach günstigeren oder persönlicheren Lösungen.\n\nEin Modell, das sich in vielen deutschen Städten zunehmend verbreitet, sind sogenannte Haustier-Tauschringe. Ähnlich wie klassische Tauschringe, bei denen Dienstleistungen ohne Geld gegen andere Leistungen eingetauscht werden, funktionieren auch diese Netzwerke auf Gegenseitigkeit. Wer heute auf den Hund der Nachbarin aufpasst, kann morgen bitten, dass jemand anderes die eigene Katze versorgt.\n\nDie Berliner Initiative „Pfoten-Netz\" zählt derzeit über 400 Mitglieder. Die Koordinatorin Jana Diekmann erklärt: „Bei uns ist nicht Geld, sondern Vertrauen die Währung. Die Mitglieder lernen sich zuerst persönlich kennen, bevor Tiere übergeben werden.\" Jede Betreuungsstunde wird auf einem digitalen Konto vermerkt – wer oft hilft, kann häufiger Hilfe abrufen.\n\nDoch das Modell hat auch Schwächen. Anders als bei einer bezahlten Tierpension gibt es keine vertragliche Absicherung. Jana Diekmann räumt ein: „Es passiert manchmal, dass jemand kurzfristig absagt. Das ist dann natürlich schwierig.\" Außerdem müssen alle Mitglieder regelmäßig aktiv bleiben – wer sich über Monate nicht meldet, wird aus dem Netzwerk entfernt.\n\nEine Alternative für Tierbesitzer, die kein Netzwerk aufbauen wollen, sind städtische Tierheime, die neuerdings auch Kurzzeitpflege anbieten. Für einen festen Tagessatz übernehmen ausgebildete Tierpfleger die Betreuung – inklusive medizinischer Grundversorgung. Dieser Service läuft bislang nur als Pilotprojekt in einigen Städten, findet aber regen Zulauf.\n\nEgal ob Tauschring oder Tierpension: Experten raten dazu, die Betreuungsperson immer vorab kennenzulernen – für Tier und Mensch gleichermaßen. Denn ein verunsichertes Tier in fremder Umgebung kann sich genauso schnell erholen, wie es unter Stress leidet."
+              "content": "Wer in der Stadt ein Haustier hält, kennt das Problem: Ein spontaner Kurzurlaub, ein längerer Arbeitstag oder eine Dienstreise – und schon stellt sich die Frage, wer sich um den Hund oder die Katze kümmert. Professionelle Tierpensionen und Hundesitter sind eine Möglichkeit, doch sie können teuer sein. Viele Stadtbewohner suchen deshalb nach günstigeren oder persönlicheren Lösungen.\n\nEin Modell, das sich in vielen deutschen Städten zunehmend verbreitet, sind sogenannte Haustier-Tauschringe. Ähnlich wie klassische Tauschringe, bei denen Dienstleistungen ohne Geld gegen andere Leistungen eingetauscht werden, funktionieren auch diese Netzwerke auf Gegenseitigkeit. Wer heute auf den Hund der Nachbarin aufpasst, kann morgen bitten, dass jemand anderes die eigene Katze versorgt.\n\nDie Berliner Initiative Pfoten-Netz zählt derzeit über 400 Mitglieder. Die Koordinatorin Jana Diekmann erklärt: Bei uns ist nicht Geld, sondern Vertrauen die Währung. Die Mitglieder lernen sich zuerst persönlich kennen, bevor Tiere übergeben werden. Jede Betreuungsstunde wird auf einem digitalen Konto vermerkt – wer oft hilft, kann häufiger Hilfe abrufen.\n\nDoch das Modell hat auch Schwächen. Anders als bei einer bezahlten Tierpension gibt es keine vertragliche Absicherung. Jana Diekmann räumt ein: Es passiert manchmal, dass jemand kurzfristig absagt. Das ist dann natürlich schwierig. Außerdem müssen alle Mitglieder regelmäßig aktiv bleiben – wer sich über Monate nicht meldet, wird aus dem Netzwerk entfernt.\n\nEine Alternative für Tierbesitzer, die kein Netzwerk aufbauen wollen, sind städtische Tierheime, die neuerdings auch Kurzzeitpflege anbieten. Für einen festen Tagessatz übernehmen ausgebildete Tierpfleger die Betreuung – inklusive medizinischer Grundversorgung. Dieser Service läuft bislang nur als Pilotprojekt in einigen Städten, findet aber regen Zulauf.\n\nEgal ob Tauschring oder Tierpension: Experten raten dazu, die Betreuungsperson immer vorab kennenzulernen – für Tier und Mensch gleichermaßen. Denn ein verunsichertes Tier in fremder Umgebung kann sich genauso schnell erholen, wie es unter Stress leidet."
             }
           ],
           "questions": [
@@ -369,20 +369,20 @@
                 "c) Ein professioneller Koordinator organisiert alle Einsätze zentral."
               ],
               "correctAnswer": "b",
-              "explanation": "Der Text erklärt: 'Ähnlich wie klassische Tauschringe, bei denen Dienstleistungen ohne Geld gegen andere Leistungen eingetauscht werden, funktionieren auch diese Netzwerke auf Gegenseitigkeit.' Trap für a): Der Text nennt ein digitales Stundenkonto, was wie ein Bezahlsystem klingen kann – aber es ist kein Geldbeitrag.",
+              "explanation": "Der Text erklärt: Ähnlich wie klassische Tauschringe, bei denen Dienstleistungen ohne Geld gegen andere Leistungen eingetauscht werden, funktionieren auch diese Netzwerke auf Gegenseitigkeit. Trap a): Das digitale Stundenkonto klingt wie ein Bezahlsystem – aber es ist kein Geldbeitrag.",
               "pointValue": 5
             },
             {
               "id": "B1_m09_R2_q2",
               "type": "mcq",
-              "questionText": "7. Wie viele Mitglieder hat die Initiative 'Pfoten-Netz' in Berlin?",
+              "questionText": "7. Wie viele Mitglieder hat die Initiative Pfoten-Netz in Berlin?",
               "options": [
                 "a) etwa 300",
                 "b) mehr als 400",
                 "c) genau 450"
               ],
               "correctAnswer": "b",
-              "explanation": "Im Text steht: 'Die Berliner Initiative „Pfoten-Netz\" zählt derzeit über 400 Mitglieder.' Option c) ist eine präzise Zahl, die im Text nicht vorkommt – ein klassischer Präzisionsfallen-Trap.",
+              "explanation": "Im Text steht: Die Berliner Initiative Pfoten-Netz zählt derzeit über 400 Mitglieder. Option c) ist eine präzise Zahl, die im Text nicht vorkommt – Präzisionsfallen-Trap.",
               "pointValue": 5
             },
             {
@@ -395,7 +395,7 @@
                 "c) Das digitale Konto funktioniert oft nicht."
               ],
               "correctAnswer": "b",
-              "explanation": "Jana Diekmann sagt direkt: 'Es passiert manchmal, dass jemand kurzfristig absagt.' Option a) ist ein Umkehr-Trap: Der Text betont Vertrauen als Stärke, nicht Misstrauen als Schwäche. Option c) wird im Text nicht erwähnt.",
+              "explanation": "Jana Diekmann sagt direkt: Es passiert manchmal, dass jemand kurzfristig absagt. Option a) ist Umkehr-Trap: Der Text betont Vertrauen als Stärke, nicht Misstrauen als Schwäche.",
               "pointValue": 5
             },
             {
@@ -408,7 +408,7 @@
                 "c) Sie haben ihre Öffnungszeiten auf 24 Stunden täglich erweitert."
               ],
               "correctAnswer": "b",
-              "explanation": "Der Text nennt: 'städtische Tierheime, die neuerdings auch Kurzzeitpflege anbieten. Für einen festen Tagessatz übernehmen ausgebildete Tierpfleger die Betreuung.' Option a) ist ein Gegensatz-Trap: 'fester Tagessatz' bedeutet nicht kostenlos. Option c) wird nicht erwähnt.",
+              "explanation": "Der Text nennt: städtische Tierheime, die neuerdings auch Kurzzeitpflege anbieten. Für einen festen Tagessatz übernehmen ausgebildete Tierpfleger die Betreuung. Option a) Gegensatz-Trap: fester Tagessatz bedeutet nicht kostenlos.",
               "pointValue": 5
             },
             {
@@ -421,7 +421,7 @@
                 "c) Ein Tier soll vor dem Urlaub an Stress gewöhnt werden."
               ],
               "correctAnswer": "b",
-              "explanation": "Am Ende heißt es: 'Experten raten dazu, die Betreuungsperson immer vorab kennenzulernen – für Tier und Mensch gleichermaßen.' Option a) ist ein Übertreibungs-Trap: 'grundsätzlich immer' steht so nicht im Text. Option c) wird nicht erwähnt.",
+              "explanation": "Am Ende heißt es: Experten raten dazu, die Betreuungsperson immer vorab kennenzulernen – für Tier und Mensch gleichermaßen. Option a) Übertreibungs-Trap: grundsätzlich immer steht so nicht im Text.",
               "pointValue": 5
             }
           ]
@@ -447,19 +447,19 @@
               "id": "B1_m09_R3_adC",
               "type": "notice",
               "label": "C",
-              "content": "TIERHEIM MARIENFELDE\nWir geben ab: Katzen, Hunde, Kleintiere.\nAdoptionsgebühr: 50–150 €.\nÖffnungszeiten: Di–So 12–17 Uhr.\nKinderfreundliche Vermittlung – Beratung inklusive."
+              "content": "TIERHEIM MARIENFELDE\nWir geben ab: Katzen, Hunde, Kleintiere.\nAdoptionsgebühr: 50–150 EUR.\nÖffnungszeiten: Di–So 12–17 Uhr.\nKinderfreundliche Vermittlung – Beratung inklusive."
             },
             {
               "id": "B1_m09_R3_adD",
               "type": "notice",
               "label": "D",
-              "content": "KATZE ABZUGEBEN\nKastrierter Kater, 5 Jahre, sehr verschmust, sucht ruhiges Zuhause ohne Hund.\nNur an Nichtraucher. Schutzgebühr 30 €.\nInfo: Tel. 030-556781"
+              "content": "KATZE ABZUGEBEN\nKastrierter Kater, 5 Jahre, sehr verschmust, sucht ruhiges Zuhause ohne Hund.\nNur an Nichtraucher. Schutzgebühr 30 EUR.\nInfo: Tel. 030-556781"
             },
             {
               "id": "B1_m09_R3_adE",
               "type": "notice",
               "label": "E",
-              "content": "HUNDETRAINING BERLIN-MITTE\nEinzel- und Gruppentraining für alle Rassen.\nAnti-Aggressionskurs, Welpengruppe, Gehorsamkeit.\nErstes Schnupperstunde kostenlos!\nTermine: hundetraining-berlin.de"
+              "content": "HUNDETRAINING BERLIN-MITTE\nEinzel- und Gruppentraining für alle Rassen.\nAnti-Aggressionskurs, Welpengruppe, Gehorsamkeit.\nErste Schnupperstunde kostenlos!\nTermine: hundetraining-berlin.de"
             },
             {
               "id": "B1_m09_R3_adF",
@@ -489,7 +489,7 @@
               "id": "B1_m09_R3_adJ",
               "type": "notice",
               "label": "J",
-              "content": "TIERFOTOGRAF MICHAEL BRAND\nProfessionelle Fotos von Ihrem Haustier im Studio oder bei Ihnen zu Hause.\nPakete ab 89 €. Alle Bilder digital + 3 Ausdrucke.\nTerminbuchung: michael-brand-foto.de"
+              "content": "TIERFOTOGRAF MICHAEL BRAND\nProfessionelle Fotos von Ihrem Haustier im Studio oder bei Ihnen zu Hause.\nPakete ab 89 EUR. Alle Bilder digital + 3 Ausdrucke.\nTerminbuchung: michael-brand-foto.de"
             },
             {
               "id": "B1_m09_R3_adK",
@@ -540,7 +540,7 @@
             {
               "id": "B1_m09_R3_q5",
               "type": "matching",
-              "questionText": "15. Emilia ist 11 Jahre alt und möchte im Sommer Reitenlernen. Ihre Eltern suchen ein Angebot speziell für Kinder.",
+              "questionText": "15. Emilia ist 11 Jahre alt und möchte im Sommer Reiten lernen. Ihre Eltern suchen ein Angebot speziell für Kinder.",
               "correctAnswer": "G",
               "explanation": "Anzeige G bietet Reitlager in den Sommerferien für Kinder zwischen 8 und 14 Jahren an.",
               "pointValue": 5
@@ -590,82 +590,85 @@
       ]
     },
     "sprachbausteine": {
-      "totalTimeMinutes": 15,
       "parts": [
         {
           "partNumber": 1,
           "instructions": "Lesen Sie den folgenden Text und kreuzen Sie für jede Lücke das richtige Wort (a, b oder c) an.",
-          "instructionsTranslation": "Read the following text and mark the correct word (a, b, or c) for each gap.",
-          "texts": [
+          "text": "Sehr geehrte Damen und Herren,\n\nmit diesem Schreiben möchte ich mich __(0)__ eine Stelle als Tierpfleger in Ihrer Einrichtung bewerben. Ich habe __(21)__ meiner Ausbildung als Zootierpfleger umfangreiche Erfahrungen __(22)__ der Pflege und Betreuung verschiedener Tierarten gesammelt.\n\nDerzeit bin ich __(23)__ einem städtischen Tierheim tätig, wo ich für die tägliche Versorgung der Tiere sowie für die Beratung von Interessenten __(24)__ bin. Zu meinen Aufgaben gehört außerdem die Reinigung und Instandhaltung der Gehege.\n\nIch lege großen Wert darauf, dass die Tiere nicht __(25)__ medizinisch, sondern auch seelisch gut betreut werden. __(26)__ diesem Grund engagiere ich mich auch in meiner Freizeit beim lokalen Tierschutzverein.\n\nFür eventuelle Rückfragen stehe ich Ihnen __(27)__ gerne zur Verfügung. Ich würde mich sehr freuen, __(28)__ ich die Möglichkeit hätte, mich in einem persönlichen Gespräch vorzustellen.\n\nIch bitte Sie __(29)__ die Berücksichtigung meiner Bewerbung und verbleibe\n\nmit freundlichen Grüßen\n\nKlaus Berger\n\nAnlage: Lebenslauf __(30)__ Zeugnisse",
+          "questions": [
             {
-              "id": "B1_m09_SB1_text",
-              "type": "letter",
-              "content": "Sehr geehrte Damen und Herren,\n\nmit diesem Schreiben möchte ich mich (0) eine Stelle als Tierpfleger in Ihrer Einrichtung bewerben. Ich habe (21) meiner Ausbildung als Zootierpfleger umfangreiche Erfahrungen (22) der Pflege und Betreuung verschiedener Tierarten gesammelt.\n\nDerzeit bin ich (23) einem städtischen Tierheim tätig, wo ich für die tägliche Versorgung der Tiere sowie für die Beratung von Interessenten (24) bin. Zu meinen Aufgaben gehört außerdem die Reinigung und Instandhaltung der Gehege.\n\nIch lege großen Wert darauf, dass die Tiere nicht (25) medizinisch, sondern auch seelisch gut betreut werden. (26) diesem Grund engagiere ich mich auch in meiner Freizeit beim lokalen Tierschutzverein.\n\nFür eventuelle Rückfragen stehe ich Ihnen (27) gerne zur Verfügung. Ich würde mich sehr freuen, (28) ich die Möglichkeit hätte, mich in einem persönlichen Gespräch vorzustellen.\n\nIch bitte Sie (29) die Berücksichtigung meiner Bewerbung und verbleibe\n\nmit freundlichen Grüßen\n\nKlaus Berger\n\nAnlage: Lebenslauf (30) Zeugnisse"
-            }
-          ],
-          "wordBankOrChoices": [
-            {
-              "gapNumber": 0,
+              "blankNumber": 0,
+              "type": "mcq",
               "options": ["a) für", "b) um", "c) an"],
               "correctAnswer": "b",
               "explanation": "Man bewirbt sich 'um' eine Stelle – feste Präpositionalverbindung: sich bewerben um."
             },
             {
-              "gapNumber": 21,
+              "blankNumber": 21,
+              "type": "mcq",
               "options": ["a) während", "b) bei", "c) in"],
               "correctAnswer": "a",
               "explanation": "'Während meiner Ausbildung' ist die korrekte zeitliche Angabe. 'Bei meiner Ausbildung' wäre umgangssprachlich; 'in meiner Ausbildung' ist nicht standardkonform."
             },
             {
-              "gapNumber": 22,
+              "blankNumber": 22,
+              "type": "mcq",
               "options": ["a) für", "b) in", "c) bei"],
               "correctAnswer": "b",
               "explanation": "'Erfahrungen in der Pflege' – der Bereich wird mit 'in' angeschlossen. 'Bei' wäre kolloquial, 'für' passt semantisch nicht."
             },
             {
-              "gapNumber": 23,
+              "blankNumber": 23,
+              "type": "mcq",
               "options": ["a) an", "b) in", "c) bei"],
               "correctAnswer": "c",
               "explanation": "'Tätig sein bei einer Einrichtung' – Standardformulierung im Bewerbungsschreiben. 'An' und 'in' passen hier nicht idiomatisch."
             },
             {
-              "gapNumber": 24,
+              "blankNumber": 24,
+              "type": "mcq",
               "options": ["a) zuständig", "b) verantwortlich", "c) beauftragt"],
               "correctAnswer": "a",
-              "explanation": "'Zuständig sein für' ist die übliche Formulierung in Stellenbeschreibungen. 'Verantwortlich für' wäre ebenfalls möglich, passt aber weniger zur formalen Struktur des Satzes mit 'bin'."
+              "explanation": "'Zuständig sein für' ist die übliche Formulierung in Stellenbeschreibungen. 'Verantwortlich für' wäre ebenfalls möglich, passt aber weniger zur formalen Satzstruktur."
             },
             {
-              "gapNumber": 25,
+              "blankNumber": 25,
+              "type": "mcq",
               "options": ["a) nur", "b) auch", "c) sowohl"],
               "correctAnswer": "a",
               "explanation": "'Nicht nur … sondern auch' – zweiteilige Konjunktion. 'Nicht auch' und 'nicht sowohl' sind keine korrekten Konstruktionen."
             },
             {
-              "gapNumber": 26,
+              "blankNumber": 26,
+              "type": "mcq",
               "options": ["a) Wegen", "b) Aufgrund", "c) Aus"],
               "correctAnswer": "c",
               "explanation": "'Aus diesem Grund' ist die idiomatische Formulierung. 'Wegen dieses Grundes' und 'Aufgrund dieses Grundes' sind stilistisch unüblich in Bewerbungsschreiben."
             },
             {
-              "gapNumber": 27,
+              "blankNumber": 27,
+              "type": "mcq",
               "options": ["a) jederzeit", "b) manchmal", "c) schon"],
               "correctAnswer": "a",
               "explanation": "'Jederzeit zur Verfügung stehen' ist die Standardformel im formellen Brief. 'Manchmal' würde das Gegenteil implizieren."
             },
             {
-              "gapNumber": 28,
+              "blankNumber": 28,
+              "type": "mcq",
               "options": ["a) ob", "b) falls", "c) wenn"],
               "correctAnswer": "c",
               "explanation": "'Wenn ich die Möglichkeit hätte' – Konjunktiv II mit 'wenn' für einen höflichen Wunsch. 'Ob' leitet indirekte Fragen ein; 'falls' ist möglich, aber 'wenn' ist im Bewerbungskontext idiomatischer."
             },
             {
-              "gapNumber": 29,
+              "blankNumber": 29,
+              "type": "mcq",
               "options": ["a) um", "b) für", "c) wegen"],
               "correctAnswer": "a",
               "explanation": "'Um die Berücksichtigung bitten' – feste Redewendung im Bewerbungsschreiben. 'Für die Berücksichtigung bitten' ist nicht korrekt."
             },
             {
-              "gapNumber": 30,
+              "blankNumber": 30,
+              "type": "mcq",
               "options": ["a) sowie", "b) also", "c) sondern"],
               "correctAnswer": "a",
               "explanation": "'Lebenslauf sowie Zeugnisse' – additive Aufzählung im formellen Brief. 'Also' ist kausal, 'sondern' ist adversativ – beide passen nicht."
@@ -675,85 +678,82 @@
         {
           "partNumber": 2,
           "instructions": "Lesen Sie den folgenden Text und schreiben Sie den richtigen Buchstaben (A–P) in die Tabelle. Sie können jedes Wort nur einmal verwenden. Nicht alle Wörter passen in den Text.",
-          "instructionsTranslation": "Read the following text and write the correct letter (A–P) in the table. You may use each word only once. Not all words fit into the text.",
-          "texts": [
+          "text": "Liebe Sarah,\n\nstell dir vor, was mir letzte Woche passiert ist! Du weißt ja, dass ich seit letztem Herbst eine Katze habe – Mia. Ich habe sie __(0)__ dem Tierheim geholt, weil sie so eine traurige Geschichte hatte.\n\nVor drei Tagen hat sie plötzlich angefangen, sehr laut zu miauen – fast die __(31)__ Nacht lang. Ich wurde natürlich nervös und dachte __(32)__, sie könnte krank sein. Also bin ich direkt zum Tierarzt gefahren.\n\nDer Tierarzt hat Mia gründlich untersucht und mir erklärt, dass es ihr __(33)__ gut geht, aber dass sie viel mehr Beschäftigung __(34)__. Sie ist nämlich ein sehr __(35)__ Tier und braucht Abwechslung. Er empfahl mir, ihr ein Kletterbrett __(36)__ zu kaufen und mehr Zeit mit ihr zu spielen.\n\nIch habe dann __(37)__ ein großes Klettergerüst für sie besorgt und es __(38)__ Wochenende aufgebaut. Mia war sofort begeistert! Seitdem __(39)__ sie deutlich ruhiger – und ich schlafe __(40)__ besser.\n\nIch schreibe dir das, weil du ja auch überlegst, dir eine Katze anzuschaffen. Mit der richtigen Beschäftigung macht es wirklich viel Spaß!\n\nLiebe Grüße\ndeine\nKatharina",
+          "questions": [
             {
-              "id": "B1_m09_SB2_text",
-              "type": "letter",
-              "content": "Liebe Sarah,\n\nstell dir vor, was mir letzte Woche passiert ist! Du weißt ja, dass ich seit letztem Herbst eine Katze habe – Mia. Ich habe sie (0) dem Tierheim geholt, weil sie so eine traurige Geschichte hatte.\n\nVor drei Tagen hat sie plötzlich angefangen, sehr laut zu miauen – fast die (31) Nacht lang. Ich wurde natürlich nervös und dachte (32) , sie könnte krank sein. Also bin ich direkt zum Tierarzt gefahren.\n\nDer Tierarzt hat Mia gründlich untersucht und mir erklärt, dass es ihr (33) gut geht, aber dass sie viel mehr Beschäftigung (34) . Sie ist nämlich ein sehr (35) Tier und braucht Abwechslung. Er empfahl mir, ihr ein Kletterbrett (36) zu kaufen und mehr Zeit mit ihr zu spielen.\n\nIch habe dann (37) ein großes Klettergerüst für sie besorgt und es (38) Wochenende aufgebaut. Mia war sofort begeistert! Seitdem (39) sie deutlich ruhiger – und ich schlafe (40) besser.\n\nIch schreibe dir das, weil du ja auch überlegst, dir eine Katze anzuschaffen. Mit der richtigen Beschäftigung macht es wirklich viel Spaß!\n\nLiebe Grüße\ndeine\nKatharina"
-            }
-          ],
-          "wordBank": [
-            { "label": "A", "word": "aus" },
-            { "label": "B", "word": "auch" },
-            { "label": "C", "word": "ganze" },
-            { "label": "D", "word": "sofort" },
-            { "label": "E", "word": "zuerst" },
-            { "label": "F", "word": "braucht" },
-            { "label": "G", "word": "aktives" },
-            { "label": "H", "word": "am" },
-            { "label": "I", "word": "noch" },
-            { "label": "J", "word": "ist" },
-            { "label": "K", "word": "außerdem" },
-            { "label": "L", "word": "daran" },
-            { "label": "M", "word": "dabei" },
-            { "label": "N", "word": "viel" },
-            { "label": "O", "word": "wenn" },
-            { "label": "P", "word": "seitdem" }
-          ],
-          "wordBankOrChoices": [
-            {
-              "gapNumber": 0,
+              "blankNumber": 0,
+              "type": "word_bank",
+              "options": ["A) aus", "B) auch", "C) ganze", "D) sofort", "E) zuerst", "F) braucht", "G) aktives", "H) am", "I) noch", "J) ist", "K) außerdem", "L) daran", "M) dabei", "N) viel", "O) wenn", "P) seitdem"],
               "correctAnswer": "A",
               "explanation": "'Aus dem Tierheim holen' – Standardwendung für das Adoptieren eines Tieres."
             },
             {
-              "gapNumber": 31,
+              "blankNumber": 31,
+              "type": "word_bank",
+              "options": ["A) aus", "B) auch", "C) ganze", "D) sofort", "E) zuerst", "F) braucht", "G) aktives", "H) am", "I) noch", "J) ist", "K) außerdem", "L) daran", "M) dabei", "N) viel", "O) wenn", "P) seitdem"],
               "correctAnswer": "C",
               "explanation": "'Die ganze Nacht lang' – feste Redewendung mit 'ganz'."
             },
             {
-              "gapNumber": 32,
+              "blankNumber": 32,
+              "type": "word_bank",
+              "options": ["A) aus", "B) auch", "C) ganze", "D) sofort", "E) zuerst", "F) braucht", "G) aktives", "H) am", "I) noch", "J) ist", "K) außerdem", "L) daran", "M) dabei", "N) viel", "O) wenn", "P) seitdem"],
               "correctAnswer": "L",
-              "explanation": "'Daran denken, dass …' – Pronominaladverb 'daran' mit nachfolgendem dass-Satz."
+              "explanation": "'Daran denken, dass ...' – Pronominaladverb 'daran' mit nachfolgendem dass-Satz."
             },
             {
-              "gapNumber": 33,
+              "blankNumber": 33,
+              "type": "word_bank",
+              "options": ["A) aus", "B) auch", "C) ganze", "D) sofort", "E) zuerst", "F) braucht", "G) aktives", "H) am", "I) noch", "J) ist", "K) außerdem", "L) daran", "M) dabei", "N) viel", "O) wenn", "P) seitdem"],
               "correctAnswer": "I",
               "explanation": "'Es geht ihr noch gut' – Adverb 'noch' verstärkt die Entwarnung durch den Tierarzt."
             },
             {
-              "gapNumber": 34,
+              "blankNumber": 34,
+              "type": "word_bank",
+              "options": ["A) aus", "B) auch", "C) ganze", "D) sofort", "E) zuerst", "F) braucht", "G) aktives", "H) am", "I) noch", "J) ist", "K) außerdem", "L) daran", "M) dabei", "N) viel", "O) wenn", "P) seitdem"],
               "correctAnswer": "F",
               "explanation": "'Beschäftigung brauchen' – Prädikat im Nebensatz passt zu 'braucht'."
             },
             {
-              "gapNumber": 35,
+              "blankNumber": 35,
+              "type": "word_bank",
+              "options": ["A) aus", "B) auch", "C) ganze", "D) sofort", "E) zuerst", "F) braucht", "G) aktives", "H) am", "I) noch", "J) ist", "K) außerdem", "L) daran", "M) dabei", "N) viel", "O) wenn", "P) seitdem"],
               "correctAnswer": "G",
               "explanation": "'Ein aktives Tier' – Adjektiv vor Nomen, passend zum Kontext der empfohlenen Beschäftigung."
             },
             {
-              "gapNumber": 36,
+              "blankNumber": 36,
+              "type": "word_bank",
+              "options": ["A) aus", "B) auch", "C) ganze", "D) sofort", "E) zuerst", "F) braucht", "G) aktives", "H) am", "I) noch", "J) ist", "K) außerdem", "L) daran", "M) dabei", "N) viel", "O) wenn", "P) seitdem"],
               "correctAnswer": "B",
               "explanation": "'Auch zu kaufen' – 'auch' als Partikel zur Erweiterung der Empfehlung."
             },
             {
-              "gapNumber": 37,
+              "blankNumber": 37,
+              "type": "word_bank",
+              "options": ["A) aus", "B) auch", "C) ganze", "D) sofort", "E) zuerst", "F) braucht", "G) aktives", "H) am", "I) noch", "J) ist", "K) außerdem", "L) daran", "M) dabei", "N) viel", "O) wenn", "P) seitdem"],
               "correctAnswer": "D",
               "explanation": "'Sofort ein Klettergerüst besorgt' – Adverb zur schnellen Reaktion."
             },
             {
-              "gapNumber": 38,
+              "blankNumber": 38,
+              "type": "word_bank",
+              "options": ["A) aus", "B) auch", "C) ganze", "D) sofort", "E) zuerst", "F) braucht", "G) aktives", "H) am", "I) noch", "J) ist", "K) außerdem", "L) daran", "M) dabei", "N) viel", "O) wenn", "P) seitdem"],
               "correctAnswer": "H",
               "explanation": "'Am Wochenende aufgebaut' – 'am' mit dem Wochentag als Zeitangabe."
             },
             {
-              "gapNumber": 39,
+              "blankNumber": 39,
+              "type": "word_bank",
+              "options": ["A) aus", "B) auch", "C) ganze", "D) sofort", "E) zuerst", "F) braucht", "G) aktives", "H) am", "I) noch", "J) ist", "K) außerdem", "L) daran", "M) dabei", "N) viel", "O) wenn", "P) seitdem"],
               "correctAnswer": "J",
-              "explanation": "'Seitdem ist sie deutlich ruhiger' – Hilfsverb 'ist' im Nebensatz nach 'seitdem'."
+              "explanation": "'Seitdem ist sie deutlich ruhiger' – Hilfsverb 'ist' im Verbzweitsatz nach 'seitdem'."
             },
             {
-              "gapNumber": 40,
+              "blankNumber": 40,
+              "type": "word_bank",
+              "options": ["A) aus", "B) auch", "C) ganze", "D) sofort", "E) zuerst", "F) braucht", "G) aktives", "H) am", "I) noch", "J) ist", "K) außerdem", "L) daran", "M) dabei", "N) viel", "O) wenn", "P) seitdem"],
               "correctAnswer": "N",
               "explanation": "'Viel besser schlafen' – Adverb 'viel' zur Verstärkung des Komparativs."
             }
@@ -821,13 +821,13 @@
             {
               "candidate": "A",
               "topic": "Mensch und Tier",
-              "stimulus": "Haustiere in deutschen Haushalten\n\nLaut einer aktuellen Umfrage:\n• 34 % aller deutschen Haushalte haben mindestens ein Haustier\n• Beliebteste Haustiere: Katzen (16,7 Mio.), Hunde (10,6 Mio.), Kleintiere (5,4 Mio.)\n• Junge Erwachsene (18–35 J.) kaufen sich häufiger Haustiere als früher\n\nAufgabe: Berichten Sie kurz über diese Informationen. Erzählen Sie dann von Ihren eigenen Erfahrungen mit Haustieren und stellen Sie Ihrer Partnerin / Ihrem Partner Fragen.",
+              "stimulus": "Haustiere in deutschen Haushalten\n\nLaut einer aktuellen Umfrage:\n- 34 % aller deutschen Haushalte haben mindestens ein Haustier\n- Beliebteste Haustiere: Katzen (16,7 Mio.), Hunde (10,6 Mio.), Kleintiere (5,4 Mio.)\n- Junge Erwachsene (18-35 J.) kaufen sich häufiger Haustiere als früher\n\nAufgabe: Berichten Sie kurz über diese Informationen. Erzählen Sie dann von Ihren eigenen Erfahrungen mit Haustieren und stellen Sie Ihrer Partnerin / Ihrem Partner Fragen.",
               "taskDescription": "Berichten Sie kurz über die Grafik. Erzählen Sie danach von persönlichen Erfahrungen und stellen Sie Fragen."
             },
             {
               "candidate": "B",
               "topic": "Mensch und Tier",
-              "stimulus": "Tiere und Kinder\n\nPsychologen empfehlen Haustiere für Kinder:\n• Kinder mit Haustier zeigen mehr Verantwortungsbewusstsein\n• Haustiere fördern soziale Kompetenz und Einfühlungsvermögen\n• Hunde gelten als besonders positiv für die Entwicklung von Kindern\n• Aber: Eltern müssen die Hauptverantwortung übernehmen\n\nAufgabe: Berichten Sie kurz über diese Informationen. Erzählen Sie dann von Ihren eigenen Erfahrungen und stellen Sie Fragen.",
+              "stimulus": "Tiere und Kinder\n\nPsychologen empfehlen Haustiere für Kinder:\n- Kinder mit Haustier zeigen mehr Verantwortungsbewusstsein\n- Haustiere fördern soziale Kompetenz und Einfühlungsvermögen\n- Hunde gelten als besonders positiv für die Entwicklung von Kindern\n- Aber: Eltern müssen die Hauptverantwortung übernehmen\n\nAufgabe: Berichten Sie kurz über diese Informationen. Erzählen Sie dann von Ihren eigenen Erfahrungen und stellen Sie Fragen.",
               "taskDescription": "Berichten Sie kurz über den Text. Erzählen Sie danach von persönlichen Erfahrungen und stellen Sie Fragen."
             }
           ]
