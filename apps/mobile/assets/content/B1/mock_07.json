@@ -162,54 +162,74 @@
         },
         {
           "partNumber": 3,
-          "instructions": "Sie hören fünf kurze Texte. Entscheiden Sie bei jedem Text: Ist die Aussage richtig oder falsch? Sie hören jeden Text zweimal.",
-          "instructionsTranslation": "You will hear five short texts. For each text, decide: Is the statement correct or incorrect? You will hear each text twice.",
+          "instructions": "Sie hören fünf kurze Texte. Entscheiden Sie bei jedem Text: Was ist richtig? Kreuzen Sie an: a, b oder c. Sie hören jeden Text zweimal.",
+          "instructionsTranslation": "You will hear five short texts. For each text: What is correct? Mark: a, b, or c. You will hear each text twice.",
           "audioFile": "assets/audio/B1/mock07/listening_part3.mp3",
           "playCount": 2,
           "questions": [
             {
               "id": "B1_m07_L3_q1",
-              "type": "true_false",
-              "questionText": "Die Telefonansage informiert über geänderte Öffnungszeiten der Kfz-Werkstatt.",
-              "options": ["richtig", "falsch"],
-              "correctAnswer": "richtig",
-              "explanation": "Die Ansage lautet: 'Wir möchten Sie darauf hinweisen, dass sich unsere Öffnungszeiten ab dem 1. Mai geändert haben.' Die Aussage ist korrekt.",
+              "type": "mcq",
+              "questionText": "Warum ruft die Kfz-Werkstatt an?",
+              "options": [
+                "a) Das Auto ist früher als geplant fertig.",
+                "b) Ein benötigtes Ersatzteil ist nicht mehr lieferbar.",
+                "c) Die Werkstatt muss den Termin verschieben."
+              ],
+              "correctAnswer": "a",
+              "explanation": "Die Werkstatt sagt: 'Ihr Fahrzeug ist bereits heute Nachmittag fertig – Sie können es ab 15 Uhr abholen.' Das Auto ist früher fertig. Option c (Termin verschieben) ist ein plausibles Distraktor bei Werkstattanrufen, wird aber nicht gesagt. Trap type: plausible-but-absent (c).",
               "audioTimestamp": 5
             },
             {
               "id": "B1_m07_L3_q2",
-              "type": "true_false",
-              "questionText": "Im Radio wird berichtet, dass Computerservice-Firmen im Sommer günstigere Preise anbieten.",
-              "options": ["richtig", "falsch"],
-              "correctAnswer": "falsch",
-              "explanation": "Im Radio wird von steigenden Nachfrage nach Computerservice berichtet, aber keine Sonderpreise im Sommer erwähnt. Trap type: unsupported inference.",
+              "type": "mcq",
+              "questionText": "Was erfährt man in der Radiosendung über Computerservice?",
+              "options": [
+                "a) Im Sommer sind die Preise günstiger.",
+                "b) Die Nachfrage nach Computerservice ist in den letzten Jahren gestiegen.",
+                "c) Computerservice-Firmen bieten jetzt auch Hausbesuche an."
+              ],
+              "correctAnswer": "b",
+              "explanation": "Im Radio wird von steigender Nachfrage nach Computerservice berichtet. Günstigere Sommerpreise (a) werden nicht erwähnt. Hausbesuche (c) sind zwar real, werden in diesem Bericht aber nicht als Neuigkeit dargestellt. Trap type: unsupported inference (a), plausible extension (c).",
               "audioTimestamp": 8
             },
             {
               "id": "B1_m07_L3_q3",
-              "type": "true_false",
-              "questionText": "Der Anrufbeantworter der Umzugsfirma nennt den Namen eines Ansprechpartners.",
-              "options": ["richtig", "falsch"],
-              "correctAnswer": "richtig",
-              "explanation": "Der Anrufbeantworter sagt: 'Bitte hinterlassen Sie eine Nachricht für Herrn Brandt – er wird sich schnellstmöglich bei Ihnen melden.' Ein Name wird genannt.",
+              "type": "mcq",
+              "questionText": "Was soll die Anruferin bei der Umzugsfirma tun?",
+              "options": [
+                "a) Eine E-Mail mit allen Details schicken.",
+                "b) Auf den Rückruf von Herrn Brandt warten.",
+                "c) Direkt in der Firma vorbeikommen."
+              ],
+              "correctAnswer": "b",
+              "explanation": "Der Anrufbeantworter sagt: 'Bitte hinterlassen Sie eine Nachricht für Herrn Brandt – er wird sich schnellstmöglich bei Ihnen melden.' Die Anruferin soll auf den Rückruf warten. Trap type: action swap (a – E-Mail statt warten).",
               "audioTimestamp": 7
             },
             {
               "id": "B1_m07_L3_q4",
-              "type": "true_false",
-              "questionText": "Die Sprecherin gibt eine Stellenanzeige für eine Haushaltshilfe auf.",
-              "options": ["richtig", "falsch"],
-              "correctAnswer": "falsch",
-              "explanation": "Die Sprecherin antwortet auf eine bereits aufgegebene Anzeige und bewirbt sich als Haushaltshilfe. Sie gibt keine Anzeige auf, sie reagiert auf eine. Trap type: role reversal.",
+              "type": "mcq",
+              "questionText": "Warum ruft die Frau bei der Stellenanzeige an?",
+              "options": [
+                "a) Sie gibt eine neue Anzeige für eine Haushaltshilfe auf.",
+                "b) Sie möchte sich als Haushaltshilfe bewerben.",
+                "c) Sie fragt nach, ob die Stelle noch frei ist."
+              ],
+              "correctAnswer": "b",
+              "explanation": "Die Sprecherin antwortet auf eine bereits aufgegebene Anzeige und bewirbt sich als Haushaltshilfe. Option a ist ein Rollenvertauschungs-Distraktor. Option c klingt nah dran, aber die Sprecherin bewirbt sich, fragt nicht nur nach. Trap type: role reversal (a), false precision (c).",
               "audioTimestamp": 6
             },
             {
               "id": "B1_m07_L3_q5",
-              "type": "true_false",
-              "questionText": "Laut Durchsage ist das Gartenservice-Unternehmen auch am Wochenende erreichbar.",
-              "options": ["richtig", "falsch"],
-              "correctAnswer": "richtig",
-              "explanation": "Die Durchsage nennt: 'Unser Büro ist montags bis freitags von 8 bis 18 Uhr und samstags von 9 bis 14 Uhr für Sie erreichbar.' Samstag ist ein Wochenendtag.",
+              "type": "mcq",
+              "questionText": "Wann ist das Gartenservice-Unternehmen erreichbar?",
+              "options": [
+                "a) Nur montags bis freitags.",
+                "b) Täglich von 8 bis 18 Uhr.",
+                "c) Auch samstags bis 14 Uhr."
+              ],
+              "correctAnswer": "c",
+              "explanation": "Die Durchsage nennt: 'Unser Büro ist montags bis freitags von 8 bis 18 Uhr und samstags von 9 bis 14 Uhr für Sie erreichbar.' Option a ist eine unvollständige Teilwahrheit. Option b nennt zwar die Wochenzeit-Öffnungszeiten, aber verfehlt den Samstag. Trap type: incomplete truth (a), partial match (b).",
               "audioTimestamp": 9
             }
           ]
@@ -221,166 +241,183 @@
       "parts": [
         {
           "partNumber": 1,
-          "instructions": "Lesen Sie die fünf Texte und wählen Sie für jeden Text die passende Überschrift aus der Liste. Jede Überschrift passt nur zu einem Text. Drei Überschriften bleiben übrig.",
-          "instructionsTranslation": "Read the five texts and choose the matching heading for each. Each heading fits only one text. Three headings will be left over.",
+          "instructions": "Lesen Sie zuerst die fünf Situationen (1–5) und dann die acht Überschriften (a–h). Welche Überschrift passt zu welcher Situation? Für jede Situation gibt es genau eine passende Überschrift. Drei Überschriften bleiben übrig.",
+          "instructionsTranslation": "First read the five situations (1–5) and then the eight headlines (a–h). Which headline matches which situation? For each situation there is exactly one matching headline. Three headlines remain unused.",
+          "texts": [
+            { "id": "B1_m07_R1_head_a", "type": "notice", "content": "a) Tipps für die Auswahl einer guten Reinigungsfirma" },
+            { "id": "B1_m07_R1_head_b", "type": "notice", "content": "b) Neue Trends im Stadtgärtnern: Urban Farming auf dem Vormarsch" },
+            { "id": "B1_m07_R1_head_c", "type": "notice", "content": "c) Hundehalter gesucht: Freiwilliger Gassiservice für ältere Nachbarn" },
+            { "id": "B1_m07_R1_head_d", "type": "notice", "content": "d) Gegenseitig helfen statt Geld zahlen: Nachbarschaftstausch boomt" },
+            { "id": "B1_m07_R1_head_e", "type": "notice", "content": "e) Fahrrad selbst reparieren: Diese Werkzeuge brauchen Sie" },
+            { "id": "B1_m07_R1_head_f", "type": "notice", "content": "f) Schimmel in der Wohnung: Was Mieter wissen müssen" },
+            { "id": "B1_m07_R1_head_g", "type": "notice", "content": "g) Wochenendkurse für Hobbygärtner an der Volkshochschule" },
+            { "id": "B1_m07_R1_head_h", "type": "notice", "content": "h) Wenn Beruf und Haustier sich schwer vereinbaren lassen" }
+          ],
           "questions": [
             {
               "id": "B1_m07_R1_q1",
               "type": "matching",
-              "textPassage": "Wer professionelle Hilfe bei der Gartenpflege sucht, sollte einige Punkte beachten. Zunächst ist es ratsam, mehrere Angebote einzuholen und die Preise zu vergleichen. Außerdem sollte man fragen, ob die Firma versichert ist und ob sie Erfahrung mit der jeweiligen Pflanzenart hat. Ein persönliches Gespräch vor Ort gibt oft mehr Auskunft als ein Telefonat.",
-              "questionText": "Welche Überschrift passt zu diesem Text?",
-              "options": [
-                "A) Tipps für die Auswahl eines Gartenservice",
-                "B) Neue Trends im Stadtgärtnern",
-                "C) Warum Gartenpflege so zeitaufwändig ist",
-                "D) Geschichte der Gartenplanung in Deutschland",
-                "E) Vorteile von Bio-Dünger",
-                "F) So finden Sie den richtigen Handwerker",
-                "G) Wochenendkurse für Hobbygärtner",
-                "H) Wie Computerdienste Haushalte entlasten"
+              "questionText": "1. Frau Dinkel zieht in eine neue Wohnung. Sie überlegt, die Wohnung professionell reinigen zu lassen, weiß aber nicht, worauf sie bei der Auswahl achten soll.",
+              "matchingSources": [
+                { "id": "B1_m07_R1_head_a", "label": "a" },
+                { "id": "B1_m07_R1_head_b", "label": "b" },
+                { "id": "B1_m07_R1_head_c", "label": "c" },
+                { "id": "B1_m07_R1_head_d", "label": "d" },
+                { "id": "B1_m07_R1_head_e", "label": "e" },
+                { "id": "B1_m07_R1_head_f", "label": "f" },
+                { "id": "B1_m07_R1_head_g", "label": "g" },
+                { "id": "B1_m07_R1_head_h", "label": "h" }
               ],
-              "correctAnswer": "A) Tipps für die Auswahl eines Gartenservice",
-              "explanation": "Der Text gibt praktische Ratschläge, worauf man bei der Wahl eines Gartenservices achten soll. Überschrift A passt genau. F wäre zu allgemein und bezieht sich nicht spezifisch auf Garten."
+              "correctAnswer": "a",
+              "explanation": "Überschrift a) bietet Tipps zur Auswahl einer Reinigungsfirma – genau das, was Frau Dinkel sucht. Überschrift f (Schimmel) handelt zwar auch von Wohnungsproblemen, aber nicht von der Auswahl von Firmen."
             },
             {
               "id": "B1_m07_R1_q2",
               "type": "matching",
-              "textPassage": "In vielen Städten hat sich ein neues Phänomen entwickelt: das sogenannte Urban Gardening. Dabei bauen Stadtbewohner auf Balkonen, Dächern und brachliegenden Grundstücken Gemüse und Kräuter an. Neben dem Spaß an der Natur steht dabei oft auch der Wunsch nach frischen, selbst angebauten Lebensmitteln im Vordergrund.",
-              "questionText": "Welche Überschrift passt zu diesem Text?",
-              "options": [
-                "A) Tipps für die Auswahl eines Gartenservice",
-                "B) Neue Trends im Stadtgärtnern",
-                "C) Warum Gartenpflege so zeitaufwändig ist",
-                "D) Geschichte der Gartenplanung in Deutschland",
-                "E) Vorteile von Bio-Dünger",
-                "F) So finden Sie den richtigen Handwerker",
-                "G) Wochenendkurse für Hobbygärtner",
-                "H) Wie Computerdienste Haushalte entlasten"
+              "questionText": "2. Herr Tomić ist berufstätig und hat wenig Zeit. Er hat seit einem Jahr einen Hund und sucht jemanden, der das Tier an Wochentagen rausbringt.",
+              "matchingSources": [
+                { "id": "B1_m07_R1_head_a", "label": "a" },
+                { "id": "B1_m07_R1_head_b", "label": "b" },
+                { "id": "B1_m07_R1_head_c", "label": "c" },
+                { "id": "B1_m07_R1_head_d", "label": "d" },
+                { "id": "B1_m07_R1_head_e", "label": "e" },
+                { "id": "B1_m07_R1_head_f", "label": "f" },
+                { "id": "B1_m07_R1_head_g", "label": "g" },
+                { "id": "B1_m07_R1_head_h", "label": "h" }
               ],
-              "correctAnswer": "B) Neue Trends im Stadtgärtnern",
-              "explanation": "Der Text beschreibt Urban Gardening als neues Phänomen in Städten. Das entspricht direkt dem Thema neue Trends im Stadtgärtnern."
+              "correctAnswer": "h",
+              "explanation": "Überschrift h) beschreibt den Konflikt zwischen Beruf und Haustier – genau Herrn Tomićs Problem. Überschrift c (freiwilliger Gassiservice) klingt ähnlich, richtet sich aber an freiwillige Helfer, nicht an Hundehalter, die Hilfe suchen."
             },
             {
               "id": "B1_m07_R1_q3",
               "type": "matching",
-              "textPassage": "Haustiere erfordern mehr Fürsorge, als viele Halter zunächst erwarten. Besonders Hunde müssen regelmäßig Gassi geführt werden – auch bei schlechtem Wetter. Wer berufstätig ist und wenig Zeit hat, sollte darüber nachdenken, ob ein Hundeauslauf-Service eine sinnvolle Lösung sein könnte.",
-              "questionText": "Welche Überschrift passt zu diesem Text?",
-              "options": [
-                "A) Tipps für die Auswahl eines Gartenservice",
-                "B) Neue Trends im Stadtgärtnern",
-                "C) Warum Gartenpflege so zeitaufwändig ist",
-                "D) Geschichte der Gartenplanung in Deutschland",
-                "E) Vorteile von Bio-Dünger",
-                "F) So finden Sie den richtigen Handwerker",
-                "G) Wochenendkurse für Hobbygärtner",
-                "H) Wenn Beruf und Haustier sich schwer vereinbaren lassen"
+              "questionText": "3. Familie Kranz hat einen kleinen Balkon und möchte gern selbst Gemüse und Kräuter anbauen. Sie interessiert sich für neue Möglichkeiten des städtischen Gärtnerns.",
+              "matchingSources": [
+                { "id": "B1_m07_R1_head_a", "label": "a" },
+                { "id": "B1_m07_R1_head_b", "label": "b" },
+                { "id": "B1_m07_R1_head_c", "label": "c" },
+                { "id": "B1_m07_R1_head_d", "label": "d" },
+                { "id": "B1_m07_R1_head_e", "label": "e" },
+                { "id": "B1_m07_R1_head_f", "label": "f" },
+                { "id": "B1_m07_R1_head_g", "label": "g" },
+                { "id": "B1_m07_R1_head_h", "label": "h" }
               ],
-              "correctAnswer": "H) Wenn Beruf und Haustier sich schwer vereinbaren lassen",
-              "explanation": "Der Text thematisiert den Zeitaufwand für Haustiere und wie Berufstätige damit umgehen. Überschrift H fasst das Kernproblem passend zusammen."
+              "correctAnswer": "b",
+              "explanation": "Überschrift b) behandelt Urban Farming und Stadtgärtnern – ideal für Familie Kranz. Überschrift g (Wochenendkurse) erwähnt zwar Gärtnern, bezieht sich aber auf Kurse, nicht auf Trends beim Stadtgärtnern."
             },
             {
               "id": "B1_m07_R1_q4",
               "type": "matching",
-              "textPassage": "Wer sein Fahrrad selber reparieren möchte, braucht nicht unbedingt ein teures Werkzeug. Ein einfaches Set mit Schraubenziehern, einem Reifenheber und einer Luftpumpe genügt für die häufigsten Pannen. Viele Volkshochschulen bieten mittlerweile auch Reparatur-Workshops an, in denen man die Grundlagen erlernen kann.",
-              "questionText": "Welche Überschrift passt zu diesem Text?",
-              "options": [
-                "A) Tipps für die Auswahl eines Gartenservice",
-                "B) Neue Trends im Stadtgärtnern",
-                "C) Fahrrad selbst reparieren: So geht's",
-                "D) Geschichte der Gartenplanung in Deutschland",
-                "E) Vorteile von Bio-Dünger",
-                "F) So finden Sie den richtigen Handwerker",
-                "G) Wochenendkurse für Hobbygärtner",
-                "H) Wenn Beruf und Haustier sich schwer vereinbaren lassen"
+              "questionText": "4. Jan Schneider hat kein Geld für eine Fahrradreparatur in der Werkstatt. Sein Hinterreifen hat eine Delle und eine Schraube ist locker.",
+              "matchingSources": [
+                { "id": "B1_m07_R1_head_a", "label": "a" },
+                { "id": "B1_m07_R1_head_b", "label": "b" },
+                { "id": "B1_m07_R1_head_c", "label": "c" },
+                { "id": "B1_m07_R1_head_d", "label": "d" },
+                { "id": "B1_m07_R1_head_e", "label": "e" },
+                { "id": "B1_m07_R1_head_f", "label": "f" },
+                { "id": "B1_m07_R1_head_g", "label": "g" },
+                { "id": "B1_m07_R1_head_h", "label": "h" }
               ],
-              "correctAnswer": "C) Fahrrad selbst reparieren: So geht's",
-              "explanation": "Der Text erklärt, was man zum Reparieren eines Fahrrads braucht. Überschrift C trifft das Thema direkt. G (Wochenendkurse) ist verführerisch, weil der Text Workshops erwähnt, bezieht sich aber auf Gärtnern, nicht Radfahren."
+              "correctAnswer": "e",
+              "explanation": "Überschrift e) erklärt, welche Werkzeuge man für die Fahrradreparatur selbst braucht – genau das, was Jan Schneider ohne Werkstattbesuch braucht."
             },
             {
               "id": "B1_m07_R1_q5",
               "type": "matching",
-              "textPassage": "Nachbarschaftshilfe erlebt in deutschen Städten gerade eine Renaissance. Über Apps und lokale Gruppen helfen sich Menschen gegenseitig: beim Einkaufen, beim Babysitten oder beim Umzug. Der Vorteil: Man zahlt oft nichts und gibt stattdessen seine eigene Zeit und Fähigkeiten weiter.",
-              "questionText": "Welche Überschrift passt zu diesem Text?",
-              "options": [
-                "A) Tipps für die Auswahl eines Gartenservice",
-                "B) Neue Trends im Stadtgärtnern",
-                "C) Fahrrad selbst reparieren: So geht's",
-                "D) Gegenseitig helfen statt Geld zahlen",
-                "E) Vorteile von Bio-Dünger",
-                "F) So finden Sie den richtigen Handwerker",
-                "G) Wochenendkurse für Hobbygärtner",
-                "H) Wenn Beruf und Haustier sich schwer vereinbaren lassen"
+              "questionText": "5. Mia Wagner hilft ihrer Nachbarin beim Einkaufen, und dafür hilft die Nachbarin ihr beim Kochen. Mia findet, das spart beiden Geld und stärkt den Kontakt.",
+              "matchingSources": [
+                { "id": "B1_m07_R1_head_a", "label": "a" },
+                { "id": "B1_m07_R1_head_b", "label": "b" },
+                { "id": "B1_m07_R1_head_c", "label": "c" },
+                { "id": "B1_m07_R1_head_d", "label": "d" },
+                { "id": "B1_m07_R1_head_e", "label": "e" },
+                { "id": "B1_m07_R1_head_f", "label": "f" },
+                { "id": "B1_m07_R1_head_g", "label": "g" },
+                { "id": "B1_m07_R1_head_h", "label": "h" }
               ],
-              "correctAnswer": "D) Gegenseitig helfen statt Geld zahlen",
-              "explanation": "Der Text beschreibt das Tauschprinzip bei Nachbarschaftshilfe – kein Geld, sondern Zeit und Fähigkeiten. Überschrift D passt genau."
+              "correctAnswer": "d",
+              "explanation": "Überschrift d) beschreibt den Nachbarschaftstausch – Helfen ohne Geld. Genau das, was Mia und ihre Nachbarin praktizieren. Übrig bleiben c, f und g als nicht verwendete Überschriften."
             }
           ]
         },
         {
           "partNumber": 2,
-          "instructions": "Lesen Sie den Text und wählen Sie bei den Aufgaben 6–10 die richtige Antwort (A, B oder C).",
-          "instructionsTranslation": "Read the text and choose the correct answer (A, B, or C) for questions 6–10.",
-          "textPassage": "Haushaltsdienstleistungen boomen\n\nDie Nachfrage nach professionellen Haushaltsdienstleistungen ist in Deutschland in den vergangenen Jahren stark gestiegen. Laut einer aktuellen Studie des Instituts für Marktforschung nutzt bereits jeder fünfte Haushalt regelmäßig externe Hilfe – sei es für die Reinigung, Gartenarbeit oder kleinere Reparaturen.\n\nAls Hauptgrund nennen Befragte in erster Linie Zeitmangel: Doppelverdienerhaushalte mit Kindern haben schlicht keine Zeit mehr, alle anfallenden Arbeiten selbst zu erledigen. Interessant ist, dass nicht nur Gutverdienende solche Dienste in Anspruch nehmen. Auch Menschen mit mittlerem Einkommen geben an, mindestens einmal pro Monat einen Dienstleister zu beauftragen.\n\nKritiker hingegen warnen vor schlecht bezahlten Beschäftigungsverhältnissen in der Branche. Viele der Beschäftigten arbeiten auf Minijobbasis ohne Anspruch auf Urlaub oder Lohnfortzahlung im Krankheitsfall. Gewerkschaften fordern daher bessere Arbeitsbedingungen und eine stärkere Kontrolle durch die zuständigen Behörden.\n\nFür Verbraucher empfiehlt die Verbraucherzentrale, Dienstleister sorgfältig auszuwählen. Ein schriftlicher Vertrag schütze vor Missverständnissen und bösen Überraschungen. Wer günstige Angebote über informelle Kanäle annimmt, riskiert im Schadensfall auf den Kosten sitzenzubleiben, da solche Beschäftigten oft keine Haftpflichtversicherung haben.",
+          "instructions": "Lesen Sie den Text und wählen Sie bei den Aufgaben 6–10 die richtige Antwort (a, b oder c).",
+          "instructionsTranslation": "Read the text and choose the correct answer (a, b, or c) for questions 6–10.",
+          "texts": [
+            {
+              "id": "B1_m07_R2_article",
+              "type": "article",
+              "content": "Haushaltsdienstleistungen boomen\n\nDie Nachfrage nach professionellen Haushaltsdienstleistungen ist in Deutschland in den vergangenen Jahren stark gestiegen. Laut einer aktuellen Studie des Instituts für Marktforschung nutzt bereits jeder fünfte Haushalt regelmäßig externe Hilfe – sei es für die Reinigung, Gartenarbeit oder kleinere Reparaturen.\n\nAls Hauptgrund nennen Befragte in erster Linie Zeitmangel: Doppelverdienerhaushalte mit Kindern haben schlicht keine Zeit mehr, alle anfallenden Arbeiten selbst zu erledigen. Interessant ist, dass nicht nur Gutverdienende solche Dienste in Anspruch nehmen. Auch Menschen mit mittlerem Einkommen geben an, mindestens einmal pro Monat einen Dienstleister zu beauftragen.\n\nKritiker hingegen warnen vor schlecht bezahlten Beschäftigungsverhältnissen in der Branche. Viele der Beschäftigten arbeiten auf Minijobbasis ohne Anspruch auf Urlaub oder Lohnfortzahlung im Krankheitsfall. Gewerkschaften fordern daher bessere Arbeitsbedingungen und eine stärkere Kontrolle durch die zuständigen Behörden.\n\nFür Verbraucher empfiehlt die Verbraucherzentrale, Dienstleister sorgfältig auszuwählen. Ein schriftlicher Vertrag schütze vor Missverständnissen und bösen Überraschungen. Wer günstige Angebote über informelle Kanäle annimmt, riskiert im Schadensfall auf den Kosten sitzenzubleiben, da solche Beschäftigten oft keine Haftpflichtversicherung haben.",
+              "source": "Wirtschaftsmagazin Kompakt, März 2026"
+            }
+          ],
           "questions": [
             {
               "id": "B1_m07_R2_q1",
-              "type": "multiple_choice",
-              "questionText": "Laut dem Text nutzt heute externer Haushaltsdienstleistungen regelmäßig...",
+              "type": "mcq",
+              "questionText": "Laut dem Text nutzt externe Haushaltsdienstleistungen regelmäßig...",
+              "relatedTextId": "B1_m07_R2_article",
               "options": [
-                "A) jeder zweite Haushalt in Deutschland.",
-                "B) etwa ein Fünftel aller Haushalte.",
-                "C) vor allem Familien mit sehr hohem Einkommen."
+                "a) jeder zweite Haushalt in Deutschland.",
+                "b) etwa ein Fünftel aller Haushalte.",
+                "c) vor allem Familien mit sehr hohem Einkommen."
               ],
-              "correctAnswer": "B) etwa ein Fünftel aller Haushalte.",
-              "explanation": "Der Text sagt: 'bereits jeder fünfte Haushalt nutzt regelmäßig externe Hilfe.' Jeder Zweite (A) wäre zu viel; Gutverdienende ausschließlich (C) widerspricht dem dritten Absatz. Trap type: quantity distortion (A) + exclusivity claim (C)."
+              "correctAnswer": "b",
+              "explanation": "Der Text sagt: 'bereits jeder fünfte Haushalt nutzt regelmäßig externe Hilfe.' Jeder Zweite (a) wäre zu viel – Trap type: quantity distortion. Gutverdienende ausschließlich (c) widerspricht dem zweiten Absatz – Trap type: exclusivity claim."
             },
             {
               "id": "B1_m07_R2_q2",
-              "type": "multiple_choice",
+              "type": "mcq",
               "questionText": "Als Hauptgrund für die Nutzung von Dienstleistern nennen Befragte...",
+              "relatedTextId": "B1_m07_R2_article",
               "options": [
-                "A) zu hohe Kosten für Eigenarbeit.",
-                "B) fehlende Kenntnisse bei Reparaturen.",
-                "C) zu wenig Zeit für eigene Hausarbeiten."
+                "a) zu hohe Kosten für Eigenarbeit.",
+                "b) fehlende Kenntnisse bei Reparaturen.",
+                "c) zu wenig Zeit für eigene Hausarbeiten."
               ],
-              "correctAnswer": "C) zu wenig Zeit für eigene Hausarbeiten.",
-              "explanation": "Der zweite Absatz nennt ausdrücklich 'Zeitmangel' als Hauptgrund, besonders bei Doppelverdienerhaushalten. A und B werden nicht erwähnt. Trap type: plausible-but-absent options."
+              "correctAnswer": "c",
+              "explanation": "Der zweite Absatz nennt ausdrücklich 'Zeitmangel' als Hauptgrund. A und B werden nicht erwähnt. Trap type: plausible-but-absent options."
             },
             {
               "id": "B1_m07_R2_q3",
-              "type": "multiple_choice",
+              "type": "mcq",
               "questionText": "Was kritisieren Gewerkschaften an der Branche?",
+              "relatedTextId": "B1_m07_R2_article",
               "options": [
-                "A) Die Preise für Dienstleistungen sind zu hoch.",
-                "B) Viele Beschäftigte haben schlechte Arbeitsbedingungen.",
-                "C) Dienstleister arbeiten zu häufig ohne Genehmigung."
+                "a) Die Preise für Dienstleistungen sind zu hoch.",
+                "b) Viele Beschäftigte haben schlechte Arbeitsbedingungen.",
+                "c) Dienstleister arbeiten zu häufig ohne Genehmigung."
               ],
-              "correctAnswer": "B) Viele Beschäftigte haben schlechte Arbeitsbedingungen.",
-              "explanation": "Der dritte Absatz beschreibt Minijobs ohne Urlaubsanspruch und Lohnfortzahlung. Gewerkschaften fordern bessere Bedingungen. Zu hohe Preise (A) und fehlende Genehmigungen (C) sind nicht im Text. Trap type: topic association (C looks plausible in informal-service context)."
+              "correctAnswer": "b",
+              "explanation": "Der dritte Absatz beschreibt Minijobs ohne Urlaubsanspruch und Lohnfortzahlung. Zu hohe Preise (a) und fehlende Genehmigungen (c) sind nicht im Text. Trap type: topic association (c looks plausible in informal-service context)."
             },
             {
               "id": "B1_m07_R2_q4",
-              "type": "multiple_choice",
+              "type": "mcq",
               "questionText": "Die Verbraucherzentrale empfiehlt, beim Beauftragen eines Dienstleisters...",
+              "relatedTextId": "B1_m07_R2_article",
               "options": [
-                "A) immer einen schriftlichen Vertrag abzuschließen.",
-                "B) nur Firmen mit staatlicher Zulassung zu wählen.",
-                "C) auf Empfehlungen von Bekannten zu verzichten."
+                "a) immer einen schriftlichen Vertrag abzuschließen.",
+                "b) nur Firmen mit staatlicher Zulassung zu wählen.",
+                "c) auf Empfehlungen von Bekannten zu verzichten."
               ],
-              "correctAnswer": "A) immer einen schriftlichen Vertrag abzuschließen.",
-              "explanation": "Der letzte Absatz empfiehlt ausdrücklich einen schriftlichen Vertrag als Schutz. Staatliche Zulassung (B) und Verzicht auf Empfehlungen (C) werden nicht erwähnt. Trap type: unsupported inference (B) + negation trap (C)."
+              "correctAnswer": "a",
+              "explanation": "Der letzte Absatz empfiehlt ausdrücklich einen schriftlichen Vertrag als Schutz. Staatliche Zulassung (b) und Verzicht auf Empfehlungen (c) werden nicht erwähnt. Trap type: unsupported inference (b), negation trap (c)."
             },
             {
               "id": "B1_m07_R2_q5",
-              "type": "multiple_choice",
+              "type": "mcq",
               "questionText": "Wer über informelle Kanäle einen Dienstleister beauftragt, riskiert laut Text...",
+              "relatedTextId": "B1_m07_R2_article",
               "options": [
-                "A) eine Geldstrafe von der Behörde.",
-                "B) bei einem Schaden die Kosten selbst tragen zu müssen.",
-                "C) den Dienstleister vor Gericht verklagen zu müssen."
+                "a) eine Geldstrafe von der Behörde.",
+                "b) bei einem Schaden die Kosten selbst tragen zu müssen.",
+                "c) den Dienstleister vor Gericht verklagen zu müssen."
               ],
-              "correctAnswer": "B) bei einem Schaden die Kosten selbst tragen zu müssen.",
-              "explanation": "Der Text erklärt, informelle Beschäftigte haben oft keine Haftpflichtversicherung, deshalb bleibt man bei Schäden auf den Kosten sitzen. Geldstrafe (A) und Klage (C) werden nicht genannt. Trap type: consequence inflation (A, C)."
+              "correctAnswer": "b",
+              "explanation": "Der Text erklärt, informelle Beschäftigte haben oft keine Haftpflichtversicherung, deshalb bleibt man bei Schäden auf den Kosten sitzen. Geldstrafe (a) und Klage (c) werden nicht genannt. Trap type: consequence inflation (a, c)."
             }
           ]
         },
@@ -388,400 +425,368 @@
           "partNumber": 3,
           "instructions": "Lesen Sie zuerst die zehn Situationen (Nr. 11–20) und dann die zwölf Anzeigen (A–L). Welche Anzeige passt zu welcher Situation? Jede Anzeige kann nur einmal verwendet werden. Es ist möglich, dass keine Anzeige passt – schreiben Sie dann 0.",
           "instructionsTranslation": "Read the ten situations first, then the twelve advertisements. Which advertisement matches which situation? Each ad can only be used once. If no ad fits, write 0.",
+          "texts": [
+            { "id": "B1_m07_R3_ad_A", "type": "ad", "content": "A) Haushaltsauflösung & Entrümpelung – schnell, zuverlässig, faire Preise. Tel. 0221-443322" },
+            { "id": "B1_m07_R3_ad_B", "type": "ad", "content": "B) Reparaturservice Lange – Elektrogeräte aller Art, Haushaltsgeräte, schnelle Termine. Tel. 0351-667788" },
+            { "id": "B1_m07_R3_ad_C", "type": "ad", "content": "C) Fensterreinigung Klar – Innen und außen, auch Hochhäuser, auf Wunsch monatlich. Tel. 030-334455" },
+            { "id": "B1_m07_R3_ad_D", "type": "ad", "content": "D) Schlüsseldienst Sicher – 24h-Notdienst, Schlösser öffnen und austauschen. Tel. 089-998877" },
+            { "id": "B1_m07_R3_ad_E", "type": "ad", "content": "E) Kinderbetreuung Sonnenschein – Tagesmutter für Kinder 0–6 J., flexible Zeiten. Tel. 040-556677" },
+            { "id": "B1_m07_R3_ad_F", "type": "ad", "content": "F) Gartengestaltung & Pflege – Rasen, Hecken, Bäume, Saisonpflanzung. Tel. 0711-223344" },
+            { "id": "B1_m07_R3_ad_G", "type": "ad", "content": "G) Umzugsunternehmen Schneider – günstig, sorgfältig, auch Kleintransporte. Tel. 0721-887766" },
+            { "id": "B1_m07_R3_ad_H", "type": "ad", "content": "H) Haushaltshilfe Sauber & Zuverlässig – 2–3 Stunden wöchentlich, Referenzen vorhanden. Tel. 069-445566" },
+            { "id": "B1_m07_R3_ad_I", "type": "ad", "content": "I) Malermeister Brandt – Innen- und Außenarbeiten, Tapezieren, kostenloser Kostenvoranschlag. Tel. 0221-334455" },
+            { "id": "B1_m07_R3_ad_J", "type": "ad", "content": "J) Computerservice Klein – Viren entfernen, Datenverlust, Neueinrichtung, Hausbesuche möglich. Tel. 0911-778899" },
+            { "id": "B1_m07_R3_ad_K", "type": "ad", "content": "K) Hundeauslauf Waldi – täglich Gassigehen, auch Wochenende, Stadtgebiet. Tel. 030-667755" },
+            { "id": "B1_m07_R3_ad_L", "type": "ad", "content": "L) Heizungsnotdienst Nord – Heizung ausgefallen? Wir kommen sofort. Tel. 040-889900" }
+          ],
           "questions": [
             {
               "id": "B1_m07_R3_q1",
               "type": "matching",
               "questionText": "11. Ihr Herd ist kaputt. Sie suchen jemanden, der ihn repariert.",
-              "options": [
-                "A) Haushaltsauflösung & Entrümpelung – schnell, zuverlässig, faire Preise. Tel. 0221-443322",
-                "B) Reparaturservice Lange – Elektrogeräte aller Art, Haushaltsgeräte, schnelle Termine. Tel. 0351-667788",
-                "C) Fensterreinigung Klar – Innen und außen, auch Hochhäuser, auf Wunsch monatlich. Tel. 030-334455",
-                "D) Schlüsseldienst Sicher – 24h-Notdienst, Schlösser öffnen und austauschen. Tel. 089-998877",
-                "E) Kinderbetreuung Sonnenschein – Tagesmutter für Kinder 0–6 J., flexible Zeiten. Tel. 040-556677",
-                "F) Gartengestaltung & Pflege – Rasen, Hecken, Bäume, Saisonpflanzung. Tel. 0711-223344",
-                "G) Umzugsunternehmen Schneider – günstig, sorgfältig, auch Kleintransporte. Tel. 0721-887766",
-                "H) Haushaltshilfe Sauber & Zuverlässig – 2–3 Stunden wöchentlich, Referenzen vorhanden. Tel. 069-445566",
-                "I) Malermeister Brandt – Innen- und Außenarbeiten, Tapezieren, kostenloser Kostenvoranschlag. Tel. 0221-334455",
-                "J) Computerservice Klein – Viren entfernen, Datenverlust, Neueinrichtung, Hausbesuche möglich. Tel. 0911-778899",
-                "K) Hundeauslauf Waldi – täglich Gassigehen, auch Wochenende, Stadtgebiet. Tel. 030-667755",
-                "L) Heizungsnotdienst Nord – Heizung ausgefallen? Wir kommen sofort. Tel. 040-889900"
+              "matchingSources": [
+                { "id": "B1_m07_R3_ad_A", "label": "A" }, { "id": "B1_m07_R3_ad_B", "label": "B" },
+                { "id": "B1_m07_R3_ad_C", "label": "C" }, { "id": "B1_m07_R3_ad_D", "label": "D" },
+                { "id": "B1_m07_R3_ad_E", "label": "E" }, { "id": "B1_m07_R3_ad_F", "label": "F" },
+                { "id": "B1_m07_R3_ad_G", "label": "G" }, { "id": "B1_m07_R3_ad_H", "label": "H" },
+                { "id": "B1_m07_R3_ad_I", "label": "I" }, { "id": "B1_m07_R3_ad_J", "label": "J" },
+                { "id": "B1_m07_R3_ad_K", "label": "K" }, { "id": "B1_m07_R3_ad_L", "label": "L" }
               ],
-              "correctAnswer": "B) Reparaturservice Lange – Elektrogeräte aller Art, Haushaltsgeräte, schnelle Termine. Tel. 0351-667788",
-              "explanation": "Der Herd ist ein Haushaltsgerät/Elektrogerät. Anzeige B ist ein Reparaturservice für Elektrogeräte und Haushaltsgeräte – das passt genau."
+              "correctAnswer": "B",
+              "explanation": "Der Herd ist ein Haushaltsgerät/Elektrogerät. Anzeige B ist ein Reparaturservice für Elektrogeräte und Haushaltsgeräte – passt genau."
             },
             {
               "id": "B1_m07_R3_q2",
               "type": "matching",
               "questionText": "12. Sie sind eingezogen und möchten Ihre Wohnung streichen und tapezieren lassen.",
-              "options": [
-                "A) Haushaltsauflösung & Entrümpelung – schnell, zuverlässig, faire Preise. Tel. 0221-443322",
-                "B) Reparaturservice Lange – Elektrogeräte aller Art, Haushaltsgeräte, schnelle Termine. Tel. 0351-667788",
-                "C) Fensterreinigung Klar – Innen und außen, auch Hochhäuser, auf Wunsch monatlich. Tel. 030-334455",
-                "D) Schlüsseldienst Sicher – 24h-Notdienst, Schlösser öffnen und austauschen. Tel. 089-998877",
-                "E) Kinderbetreuung Sonnenschein – Tagesmutter für Kinder 0–6 J., flexible Zeiten. Tel. 040-556677",
-                "F) Gartengestaltung & Pflege – Rasen, Hecken, Bäume, Saisonpflanzung. Tel. 0711-223344",
-                "G) Umzugsunternehmen Schneider – günstig, sorgfältig, auch Kleintransporte. Tel. 0721-887766",
-                "H) Haushaltshilfe Sauber & Zuverlässig – 2–3 Stunden wöchentlich, Referenzen vorhanden. Tel. 069-445566",
-                "I) Malermeister Brandt – Innen- und Außenarbeiten, Tapezieren, kostenloser Kostenvoranschlag. Tel. 0221-334455",
-                "J) Computerservice Klein – Viren entfernen, Datenverlust, Neueinrichtung, Hausbesuche möglich. Tel. 0911-778899",
-                "K) Hundeauslauf Waldi – täglich Gassigehen, auch Wochenende, Stadtgebiet. Tel. 030-667755",
-                "L) Heizungsnotdienst Nord – Heizung ausgefallen? Wir kommen sofort. Tel. 040-889900"
+              "matchingSources": [
+                { "id": "B1_m07_R3_ad_A", "label": "A" }, { "id": "B1_m07_R3_ad_B", "label": "B" },
+                { "id": "B1_m07_R3_ad_C", "label": "C" }, { "id": "B1_m07_R3_ad_D", "label": "D" },
+                { "id": "B1_m07_R3_ad_E", "label": "E" }, { "id": "B1_m07_R3_ad_F", "label": "F" },
+                { "id": "B1_m07_R3_ad_G", "label": "G" }, { "id": "B1_m07_R3_ad_H", "label": "H" },
+                { "id": "B1_m07_R3_ad_I", "label": "I" }, { "id": "B1_m07_R3_ad_J", "label": "J" },
+                { "id": "B1_m07_R3_ad_K", "label": "K" }, { "id": "B1_m07_R3_ad_L", "label": "L" }
               ],
-              "correctAnswer": "I) Malermeister Brandt – Innen- und Außenarbeiten, Tapezieren, kostenloser Kostenvoranschlag. Tel. 0221-334455",
+              "correctAnswer": "I",
               "explanation": "Die Situation erfordert streichen und tapezieren. Anzeige I nennt ausdrücklich Tapezieren und Innenarbeiten."
             },
             {
               "id": "B1_m07_R3_q3",
               "type": "matching",
               "questionText": "13. Sie sind berufstätig und suchen jemanden, der Ihren Hund regelmäßig Gassi führt.",
-              "options": [
-                "A) Haushaltsauflösung & Entrümpelung – schnell, zuverlässig, faire Preise. Tel. 0221-443322",
-                "B) Reparaturservice Lange – Elektrogeräte aller Art, Haushaltsgeräte, schnelle Termine. Tel. 0351-667788",
-                "C) Fensterreinigung Klar – Innen und außen, auch Hochhäuser, auf Wunsch monatlich. Tel. 030-334455",
-                "D) Schlüsseldienst Sicher – 24h-Notdienst, Schlösser öffnen und austauschen. Tel. 089-998877",
-                "E) Kinderbetreuung Sonnenschein – Tagesmutter für Kinder 0–6 J., flexible Zeiten. Tel. 040-556677",
-                "F) Gartengestaltung & Pflege – Rasen, Hecken, Bäume, Saisonpflanzung. Tel. 0711-223344",
-                "G) Umzugsunternehmen Schneider – günstig, sorgfältig, auch Kleintransporte. Tel. 0721-887766",
-                "H) Haushaltshilfe Sauber & Zuverlässig – 2–3 Stunden wöchentlich, Referenzen vorhanden. Tel. 069-445566",
-                "I) Malermeister Brandt – Innen- und Außenarbeiten, Tapezieren, kostenloser Kostenvoranschlag. Tel. 0221-334455",
-                "J) Computerservice Klein – Viren entfernen, Datenverlust, Neueinrichtung, Hausbesuche möglich. Tel. 0911-778899",
-                "K) Hundeauslauf Waldi – täglich Gassigehen, auch Wochenende, Stadtgebiet. Tel. 030-667755",
-                "L) Heizungsnotdienst Nord – Heizung ausgefallen? Wir kommen sofort. Tel. 040-889900"
+              "matchingSources": [
+                { "id": "B1_m07_R3_ad_A", "label": "A" }, { "id": "B1_m07_R3_ad_B", "label": "B" },
+                { "id": "B1_m07_R3_ad_C", "label": "C" }, { "id": "B1_m07_R3_ad_D", "label": "D" },
+                { "id": "B1_m07_R3_ad_E", "label": "E" }, { "id": "B1_m07_R3_ad_F", "label": "F" },
+                { "id": "B1_m07_R3_ad_G", "label": "G" }, { "id": "B1_m07_R3_ad_H", "label": "H" },
+                { "id": "B1_m07_R3_ad_I", "label": "I" }, { "id": "B1_m07_R3_ad_J", "label": "J" },
+                { "id": "B1_m07_R3_ad_K", "label": "K" }, { "id": "B1_m07_R3_ad_L", "label": "L" }
               ],
-              "correctAnswer": "K) Hundeauslauf Waldi – täglich Gassigehen, auch Wochenende, Stadtgebiet. Tel. 030-667755",
+              "correctAnswer": "K",
               "explanation": "Situation: Hund regelmäßig Gassi führen. Anzeige K bietet täglich Gassigehen an."
             },
             {
               "id": "B1_m07_R3_q4",
               "type": "matching",
               "questionText": "14. Sie haben Ihren Schlüssel verloren und kommen nicht in Ihre Wohnung.",
-              "options": [
-                "A) Haushaltsauflösung & Entrümpelung – schnell, zuverlässig, faire Preise. Tel. 0221-443322",
-                "B) Reparaturservice Lange – Elektrogeräte aller Art, Haushaltsgeräte, schnelle Termine. Tel. 0351-667788",
-                "C) Fensterreinigung Klar – Innen und außen, auch Hochhäuser, auf Wunsch monatlich. Tel. 030-334455",
-                "D) Schlüsseldienst Sicher – 24h-Notdienst, Schlösser öffnen und austauschen. Tel. 089-998877",
-                "E) Kinderbetreuung Sonnenschein – Tagesmutter für Kinder 0–6 J., flexible Zeiten. Tel. 040-556677",
-                "F) Gartengestaltung & Pflege – Rasen, Hecken, Bäume, Saisonpflanzung. Tel. 0711-223344",
-                "G) Umzugsunternehmen Schneider – günstig, sorgfältig, auch Kleintransporte. Tel. 0721-887766",
-                "H) Haushaltshilfe Sauber & Zuverlässig – 2–3 Stunden wöchentlich, Referenzen vorhanden. Tel. 069-445566",
-                "I) Malermeister Brandt – Innen- und Außenarbeiten, Tapezieren, kostenloser Kostenvoranschlag. Tel. 0221-334455",
-                "J) Computerservice Klein – Viren entfernen, Datenverlust, Neueinrichtung, Hausbesuche möglich. Tel. 0911-778899",
-                "K) Hundeauslauf Waldi – täglich Gassigehen, auch Wochenende, Stadtgebiet. Tel. 030-667755",
-                "L) Heizungsnotdienst Nord – Heizung ausgefallen? Wir kommen sofort. Tel. 040-889900"
+              "matchingSources": [
+                { "id": "B1_m07_R3_ad_A", "label": "A" }, { "id": "B1_m07_R3_ad_B", "label": "B" },
+                { "id": "B1_m07_R3_ad_C", "label": "C" }, { "id": "B1_m07_R3_ad_D", "label": "D" },
+                { "id": "B1_m07_R3_ad_E", "label": "E" }, { "id": "B1_m07_R3_ad_F", "label": "F" },
+                { "id": "B1_m07_R3_ad_G", "label": "G" }, { "id": "B1_m07_R3_ad_H", "label": "H" },
+                { "id": "B1_m07_R3_ad_I", "label": "I" }, { "id": "B1_m07_R3_ad_J", "label": "J" },
+                { "id": "B1_m07_R3_ad_K", "label": "K" }, { "id": "B1_m07_R3_ad_L", "label": "L" }
               ],
-              "correctAnswer": "D) Schlüsseldienst Sicher – 24h-Notdienst, Schlösser öffnen und austauschen. Tel. 089-998877",
+              "correctAnswer": "D",
               "explanation": "Schlüssel verloren und nicht in die Wohnung kommen – Anzeige D bietet 24h-Schlüsseldienst mit Schlossöffnung."
             },
             {
               "id": "B1_m07_R3_q5",
               "type": "matching",
               "questionText": "15. Sie suchen eine zuverlässige Person, die wöchentlich Ihre Wohnung putzt.",
-              "options": [
-                "A) Haushaltsauflösung & Entrümpelung – schnell, zuverlässig, faire Preise. Tel. 0221-443322",
-                "B) Reparaturservice Lange – Elektrogeräte aller Art, Haushaltsgeräte, schnelle Termine. Tel. 0351-667788",
-                "C) Fensterreinigung Klar – Innen und außen, auch Hochhäuser, auf Wunsch monatlich. Tel. 030-334455",
-                "D) Schlüsseldienst Sicher – 24h-Notdienst, Schlösser öffnen und austauschen. Tel. 089-998877",
-                "E) Kinderbetreuung Sonnenschein – Tagesmutter für Kinder 0–6 J., flexible Zeiten. Tel. 040-556677",
-                "F) Gartengestaltung & Pflege – Rasen, Hecken, Bäume, Saisonpflanzung. Tel. 0711-223344",
-                "G) Umzugsunternehmen Schneider – günstig, sorgfältig, auch Kleintransporte. Tel. 0721-887766",
-                "H) Haushaltshilfe Sauber & Zuverlässig – 2–3 Stunden wöchentlich, Referenzen vorhanden. Tel. 069-445566",
-                "I) Malermeister Brandt – Innen- und Außenarbeiten, Tapezieren, kostenloser Kostenvoranschlag. Tel. 0221-334455",
-                "J) Computerservice Klein – Viren entfernen, Datenverlust, Neueinrichtung, Hausbesuche möglich. Tel. 0911-778899",
-                "K) Hundeauslauf Waldi – täglich Gassigehen, auch Wochenende, Stadtgebiet. Tel. 030-667755",
-                "L) Heizungsnotdienst Nord – Heizung ausgefallen? Wir kommen sofort. Tel. 040-889900"
+              "matchingSources": [
+                { "id": "B1_m07_R3_ad_A", "label": "A" }, { "id": "B1_m07_R3_ad_B", "label": "B" },
+                { "id": "B1_m07_R3_ad_C", "label": "C" }, { "id": "B1_m07_R3_ad_D", "label": "D" },
+                { "id": "B1_m07_R3_ad_E", "label": "E" }, { "id": "B1_m07_R3_ad_F", "label": "F" },
+                { "id": "B1_m07_R3_ad_G", "label": "G" }, { "id": "B1_m07_R3_ad_H", "label": "H" },
+                { "id": "B1_m07_R3_ad_I", "label": "I" }, { "id": "B1_m07_R3_ad_J", "label": "J" },
+                { "id": "B1_m07_R3_ad_K", "label": "K" }, { "id": "B1_m07_R3_ad_L", "label": "L" }
               ],
-              "correctAnswer": "H) Haushaltshilfe Sauber & Zuverlässig – 2–3 Stunden wöchentlich, Referenzen vorhanden. Tel. 069-445566",
+              "correctAnswer": "H",
               "explanation": "Wöchentliche Reinigung der Wohnung – Anzeige H bietet 2–3 Stunden wöchentlich Haushaltshilfe."
             },
             {
               "id": "B1_m07_R3_q6",
               "type": "matching",
               "questionText": "16. Ihre Tochter ist 3 Jahre alt. Sie arbeiten halbtags und brauchen eine Betreuung für den Nachmittag.",
-              "options": [
-                "A) Haushaltsauflösung & Entrümpelung – schnell, zuverlässig, faire Preise. Tel. 0221-443322",
-                "B) Reparaturservice Lange – Elektrogeräte aller Art, Haushaltsgeräte, schnelle Termine. Tel. 0351-667788",
-                "C) Fensterreinigung Klar – Innen und außen, auch Hochhäuser, auf Wunsch monatlich. Tel. 030-334455",
-                "D) Schlüsseldienst Sicher – 24h-Notdienst, Schlösser öffnen und austauschen. Tel. 089-998877",
-                "E) Kinderbetreuung Sonnenschein – Tagesmutter für Kinder 0–6 J., flexible Zeiten. Tel. 040-556677",
-                "F) Gartengestaltung & Pflege – Rasen, Hecken, Bäume, Saisonpflanzung. Tel. 0711-223344",
-                "G) Umzugsunternehmen Schneider – günstig, sorgfältig, auch Kleintransporte. Tel. 0721-887766",
-                "H) Haushaltshilfe Sauber & Zuverlässig – 2–3 Stunden wöchentlich, Referenzen vorhanden. Tel. 069-445566",
-                "I) Malermeister Brandt – Innen- und Außenarbeiten, Tapezieren, kostenloser Kostenvoranschlag. Tel. 0221-334455",
-                "J) Computerservice Klein – Viren entfernen, Datenverlust, Neueinrichtung, Hausbesuche möglich. Tel. 0911-778899",
-                "K) Hundeauslauf Waldi – täglich Gassigehen, auch Wochenende, Stadtgebiet. Tel. 030-667755",
-                "L) Heizungsnotdienst Nord – Heizung ausgefallen? Wir kommen sofort. Tel. 040-889900"
+              "matchingSources": [
+                { "id": "B1_m07_R3_ad_A", "label": "A" }, { "id": "B1_m07_R3_ad_B", "label": "B" },
+                { "id": "B1_m07_R3_ad_C", "label": "C" }, { "id": "B1_m07_R3_ad_D", "label": "D" },
+                { "id": "B1_m07_R3_ad_E", "label": "E" }, { "id": "B1_m07_R3_ad_F", "label": "F" },
+                { "id": "B1_m07_R3_ad_G", "label": "G" }, { "id": "B1_m07_R3_ad_H", "label": "H" },
+                { "id": "B1_m07_R3_ad_I", "label": "I" }, { "id": "B1_m07_R3_ad_J", "label": "J" },
+                { "id": "B1_m07_R3_ad_K", "label": "K" }, { "id": "B1_m07_R3_ad_L", "label": "L" }
               ],
-              "correctAnswer": "E) Kinderbetreuung Sonnenschein – Tagesmutter für Kinder 0–6 J., flexible Zeiten. Tel. 040-556677",
+              "correctAnswer": "E",
               "explanation": "Kind 3 Jahre, nachmittags Betreuung. Anzeige E: Tagesmutter für Kinder 0–6 Jahre mit flexiblen Zeiten."
             },
             {
               "id": "B1_m07_R3_q7",
               "type": "matching",
               "questionText": "17. Sie ziehen um und brauchen Hilfe beim Transport Ihrer Möbel.",
-              "options": [
-                "A) Haushaltsauflösung & Entrümpelung – schnell, zuverlässig, faire Preise. Tel. 0221-443322",
-                "B) Reparaturservice Lange – Elektrogeräte aller Art, Haushaltsgeräte, schnelle Termine. Tel. 0351-667788",
-                "C) Fensterreinigung Klar – Innen und außen, auch Hochhäuser, auf Wunsch monatlich. Tel. 030-334455",
-                "D) Schlüsseldienst Sicher – 24h-Notdienst, Schlösser öffnen und austauschen. Tel. 089-998877",
-                "E) Kinderbetreuung Sonnenschein – Tagesmutter für Kinder 0–6 J., flexible Zeiten. Tel. 040-556677",
-                "F) Gartengestaltung & Pflege – Rasen, Hecken, Bäume, Saisonpflanzung. Tel. 0711-223344",
-                "G) Umzugsunternehmen Schneider – günstig, sorgfältig, auch Kleintransporte. Tel. 0721-887766",
-                "H) Haushaltshilfe Sauber & Zuverlässig – 2–3 Stunden wöchentlich, Referenzen vorhanden. Tel. 069-445566",
-                "I) Malermeister Brandt – Innen- und Außenarbeiten, Tapezieren, kostenloser Kostenvoranschlag. Tel. 0221-334455",
-                "J) Computerservice Klein – Viren entfernen, Datenverlust, Neueinrichtung, Hausbesuche möglich. Tel. 0911-778899",
-                "K) Hundeauslauf Waldi – täglich Gassigehen, auch Wochenende, Stadtgebiet. Tel. 030-667755",
-                "L) Heizungsnotdienst Nord – Heizung ausgefallen? Wir kommen sofort. Tel. 040-889900"
+              "matchingSources": [
+                { "id": "B1_m07_R3_ad_A", "label": "A" }, { "id": "B1_m07_R3_ad_B", "label": "B" },
+                { "id": "B1_m07_R3_ad_C", "label": "C" }, { "id": "B1_m07_R3_ad_D", "label": "D" },
+                { "id": "B1_m07_R3_ad_E", "label": "E" }, { "id": "B1_m07_R3_ad_F", "label": "F" },
+                { "id": "B1_m07_R3_ad_G", "label": "G" }, { "id": "B1_m07_R3_ad_H", "label": "H" },
+                { "id": "B1_m07_R3_ad_I", "label": "I" }, { "id": "B1_m07_R3_ad_J", "label": "J" },
+                { "id": "B1_m07_R3_ad_K", "label": "K" }, { "id": "B1_m07_R3_ad_L", "label": "L" }
               ],
-              "correctAnswer": "G) Umzugsunternehmen Schneider – günstig, sorgfältig, auch Kleintransporte. Tel. 0721-887766",
+              "correctAnswer": "G",
               "explanation": "Transport bei Umzug. Anzeige G: Umzugsunternehmen mit Kleintransporten."
             },
             {
               "id": "B1_m07_R3_q8",
               "type": "matching",
               "questionText": "18. Ihr Computer ist sehr langsam und Sie vermuten einen Virus.",
-              "options": [
-                "A) Haushaltsauflösung & Entrümpelung – schnell, zuverlässig, faire Preise. Tel. 0221-443322",
-                "B) Reparaturservice Lange – Elektrogeräte aller Art, Haushaltsgeräte, schnelle Termine. Tel. 0351-667788",
-                "C) Fensterreinigung Klar – Innen und außen, auch Hochhäuser, auf Wunsch monatlich. Tel. 030-334455",
-                "D) Schlüsseldienst Sicher – 24h-Notdienst, Schlösser öffnen und austauschen. Tel. 089-998877",
-                "E) Kinderbetreuung Sonnenschein – Tagesmutter für Kinder 0–6 J., flexible Zeiten. Tel. 040-556677",
-                "F) Gartengestaltung & Pflege – Rasen, Hecken, Bäume, Saisonpflanzung. Tel. 0711-223344",
-                "G) Umzugsunternehmen Schneider – günstig, sorgfältig, auch Kleintransporte. Tel. 0721-887766",
-                "H) Haushaltshilfe Sauber & Zuverlässig – 2–3 Stunden wöchentlich, Referenzen vorhanden. Tel. 069-445566",
-                "I) Malermeister Brandt – Innen- und Außenarbeiten, Tapezieren, kostenloser Kostenvoranschlag. Tel. 0221-334455",
-                "J) Computerservice Klein – Viren entfernen, Datenverlust, Neueinrichtung, Hausbesuche möglich. Tel. 0911-778899",
-                "K) Hundeauslauf Waldi – täglich Gassigehen, auch Wochenende, Stadtgebiet. Tel. 030-667755",
-                "L) Heizungsnotdienst Nord – Heizung ausgefallen? Wir kommen sofort. Tel. 040-889900"
+              "matchingSources": [
+                { "id": "B1_m07_R3_ad_A", "label": "A" }, { "id": "B1_m07_R3_ad_B", "label": "B" },
+                { "id": "B1_m07_R3_ad_C", "label": "C" }, { "id": "B1_m07_R3_ad_D", "label": "D" },
+                { "id": "B1_m07_R3_ad_E", "label": "E" }, { "id": "B1_m07_R3_ad_F", "label": "F" },
+                { "id": "B1_m07_R3_ad_G", "label": "G" }, { "id": "B1_m07_R3_ad_H", "label": "H" },
+                { "id": "B1_m07_R3_ad_I", "label": "I" }, { "id": "B1_m07_R3_ad_J", "label": "J" },
+                { "id": "B1_m07_R3_ad_K", "label": "K" }, { "id": "B1_m07_R3_ad_L", "label": "L" }
               ],
-              "correctAnswer": "J) Computerservice Klein – Viren entfernen, Datenverlust, Neueinrichtung, Hausbesuche möglich. Tel. 0911-778899",
-              "explanation": "Virenproblem am Computer. Anzeige J: Computerservice mit Viren entfernen. B ist verlockend (Elektrogeräte), aber kein Computerservice."
+              "correctAnswer": "J",
+              "explanation": "Virenproblem am Computer. Anzeige J: Computerservice mit Viren entfernen. B ist verlockend (Elektrogeräte), aber kein IT-/Computerservice."
             },
             {
               "id": "B1_m07_R3_q9",
               "type": "matching",
               "questionText": "19. Ihre alte Mutter ist verstorben und Sie müssen ihre Wohnung auflösen.",
-              "options": [
-                "A) Haushaltsauflösung & Entrümpelung – schnell, zuverlässig, faire Preise. Tel. 0221-443322",
-                "B) Reparaturservice Lange – Elektrogeräte aller Art, Haushaltsgeräte, schnelle Termine. Tel. 0351-667788",
-                "C) Fensterreinigung Klar – Innen und außen, auch Hochhäuser, auf Wunsch monatlich. Tel. 030-334455",
-                "D) Schlüsseldienst Sicher – 24h-Notdienst, Schlösser öffnen und austauschen. Tel. 089-998877",
-                "E) Kinderbetreuung Sonnenschein – Tagesmutter für Kinder 0–6 J., flexible Zeiten. Tel. 040-556677",
-                "F) Gartengestaltung & Pflege – Rasen, Hecken, Bäume, Saisonpflanzung. Tel. 0711-223344",
-                "G) Umzugsunternehmen Schneider – günstig, sorgfältig, auch Kleintransporte. Tel. 0721-887766",
-                "H) Haushaltshilfe Sauber & Zuverlässig – 2–3 Stunden wöchentlich, Referenzen vorhanden. Tel. 069-445566",
-                "I) Malermeister Brandt – Innen- und Außenarbeiten, Tapezieren, kostenloser Kostenvoranschlag. Tel. 0221-334455",
-                "J) Computerservice Klein – Viren entfernen, Datenverlust, Neueinrichtung, Hausbesuche möglich. Tel. 0911-778899",
-                "K) Hundeauslauf Waldi – täglich Gassigehen, auch Wochenende, Stadtgebiet. Tel. 030-667755",
-                "L) Heizungsnotdienst Nord – Heizung ausgefallen? Wir kommen sofort. Tel. 040-889900"
+              "matchingSources": [
+                { "id": "B1_m07_R3_ad_A", "label": "A" }, { "id": "B1_m07_R3_ad_B", "label": "B" },
+                { "id": "B1_m07_R3_ad_C", "label": "C" }, { "id": "B1_m07_R3_ad_D", "label": "D" },
+                { "id": "B1_m07_R3_ad_E", "label": "E" }, { "id": "B1_m07_R3_ad_F", "label": "F" },
+                { "id": "B1_m07_R3_ad_G", "label": "G" }, { "id": "B1_m07_R3_ad_H", "label": "H" },
+                { "id": "B1_m07_R3_ad_I", "label": "I" }, { "id": "B1_m07_R3_ad_J", "label": "J" },
+                { "id": "B1_m07_R3_ad_K", "label": "K" }, { "id": "B1_m07_R3_ad_L", "label": "L" }
               ],
-              "correctAnswer": "A) Haushaltsauflösung & Entrümpelung – schnell, zuverlässig, faire Preise. Tel. 0221-443322",
+              "correctAnswer": "A",
               "explanation": "Wohnung auflösen nach dem Tod der Mutter. Anzeige A: Haushaltsauflösung & Entrümpelung."
             },
             {
               "id": "B1_m07_R3_q10",
               "type": "matching",
-              "questionText": "20. Sie suchen einen Kindergartenplatz für ein Kleinkind von 18 Monaten. Es gibt keinen freien Platz in der Stadt.",
-              "options": [
-                "A) Haushaltsauflösung & Entrümpelung – schnell, zuverlässig, faire Preise. Tel. 0221-443322",
-                "B) Reparaturservice Lange – Elektrogeräte aller Art, Haushaltsgeräte, schnelle Termine. Tel. 0351-667788",
-                "C) Fensterreinigung Klar – Innen und außen, auch Hochhäuser, auf Wunsch monatlich. Tel. 030-334455",
-                "D) Schlüsseldienst Sicher – 24h-Notdienst, Schlösser öffnen und austauschen. Tel. 089-998877",
-                "E) Kinderbetreuung Sonnenschein – Tagesmutter für Kinder 0–6 J., flexible Zeiten. Tel. 040-556677",
-                "F) Gartengestaltung & Pflege – Rasen, Hecken, Bäume, Saisonpflanzung. Tel. 0711-223344",
-                "G) Umzugsunternehmen Schneider – günstig, sorgfältig, auch Kleintransporte. Tel. 0721-887766",
-                "H) Haushaltshilfe Sauber & Zuverlässig – 2–3 Stunden wöchentlich, Referenzen vorhanden. Tel. 069-445566",
-                "I) Malermeister Brandt – Innen- und Außenarbeiten, Tapezieren, kostenloser Kostenvoranschlag. Tel. 0221-334455",
-                "J) Computerservice Klein – Viren entfernen, Datenverlust, Neueinrichtung, Hausbesuche möglich. Tel. 0911-778899",
-                "K) Hundeauslauf Waldi – täglich Gassigehen, auch Wochenende, Stadtgebiet. Tel. 030-667755",
-                "L) Heizungsnotdienst Nord – Heizung ausgefallen? Wir kommen sofort. Tel. 040-889900"
+              "questionText": "20. Ihre Heizung funktioniert nicht mehr. Es ist Winterzeit und sehr kalt in der Wohnung.",
+              "matchingSources": [
+                { "id": "B1_m07_R3_ad_A", "label": "A" }, { "id": "B1_m07_R3_ad_B", "label": "B" },
+                { "id": "B1_m07_R3_ad_C", "label": "C" }, { "id": "B1_m07_R3_ad_D", "label": "D" },
+                { "id": "B1_m07_R3_ad_E", "label": "E" }, { "id": "B1_m07_R3_ad_F", "label": "F" },
+                { "id": "B1_m07_R3_ad_G", "label": "G" }, { "id": "B1_m07_R3_ad_H", "label": "H" },
+                { "id": "B1_m07_R3_ad_I", "label": "I" }, { "id": "B1_m07_R3_ad_J", "label": "J" },
+                { "id": "B1_m07_R3_ad_K", "label": "K" }, { "id": "B1_m07_R3_ad_L", "label": "L" }
               ],
-              "correctAnswer": "0",
-              "explanation": "Die Situation fragt nach einem Kindergartenplatz. Anzeige E (Tagesmutter) passt für Kleinkinder, aber die Situation sagt ausdrücklich, es gibt keinen Kindergartenplatz – eine Tagesmutter wäre zwar eine Alternative, aber die Situation fragt nach einem Kita-Platz, nicht nach einer Tagesmutter. Keine Anzeige deckt genau den Bedarf: 0."
+              "correctAnswer": "L",
+              "explanation": "Heizung ausgefallen im Winter. Anzeige L: Heizungsnotdienst kommt sofort."
             }
           ]
-        },
+        }
+      ]
+    },
+    "sprachbausteine": {
+      "parts": [
         {
-          "partNumber": 4,
-          "instructions": "Lesen Sie den Text und wählen Sie für jede Lücke (21–30) die richtige Lösung (A, B oder C).",
-          "instructionsTranslation": "Read the text and choose the correct answer (A, B, or C) for each gap (21–30).",
-          "textPassage": "Sehr geehrte Damen und Herren,\n\nmein Name ist Jonas Fischer und ich wende mich (21) _____ an Sie, weil ich Ihr Unternehmen als möglichen Arbeitgeber sehr schätze. Ich habe (22) _____ Ihrem Internetauftritt entnommen, dass Sie derzeit Verstärkung im Bereich Kundenservice suchen.\n\nNach (23) _____ erfolgreichen Abschluss meiner Ausbildung als Bürokaufmann habe ich drei Jahre lang in einem mittelständischen Unternehmen gearbeitet und dabei viel Erfahrung im direkten Kundenkontakt (24) _____. Zu meinen Stärken zählen eine strukturierte Arbeitsweise und die Fähigkeit, auch (25) _____ schwierigen Situationen ruhig und lösungsorientiert zu bleiben.\n\nIch würde mich sehr (26) _____, wenn ich Ihnen meine Qualifikationen in einem persönlichen Gespräch vorstellen (27) _____. Meine vollständigen Bewerbungsunterlagen (28) _____ ich gerne auf Anfrage zu.\n\nFür Rückfragen stehe ich Ihnen (29) _____ zur Verfügung. Ich freue mich (30) _____ Ihre Rückmeldung.\n\nMit freundlichen Grüßen\nJonas Fischer",
+          "partNumber": 1,
+          "instructions": "Lesen Sie den folgenden Text und entscheiden Sie, welches Wort (a, b oder c) in die Lücke passt. Es gibt jeweils nur eine richtige Lösung.",
+          "text": "Sehr geehrte Damen und Herren,\n\nmein Name ist Jonas Fischer und ich wende mich __(1)__ an Sie, weil ich Ihr Unternehmen als möglichen Arbeitgeber sehr schätze. Ich habe __(2)__ Ihrem Internetauftritt entnommen, dass Sie derzeit Verstärkung im Bereich Kundenservice suchen.\n\nNach __(3)__ erfolgreichen Abschluss meiner Ausbildung als Bürokaufmann habe ich drei Jahre lang in einem mittelständischen Unternehmen gearbeitet und dabei viel Erfahrung im direkten Kundenkontakt __(4)__. Zu meinen Stärken zählen eine strukturierte Arbeitsweise und die Fähigkeit, auch __(5)__ schwierigen Situationen ruhig und lösungsorientiert zu bleiben.\n\nIch würde mich sehr __(6)__, wenn ich Ihnen meine Qualifikationen in einem persönlichen Gespräch vorstellen __(7)__. Meine vollständigen Bewerbungsunterlagen __(8)__ ich gerne auf Anfrage zu.\n\nFür Rückfragen stehe ich Ihnen __(9)__ zur Verfügung. Ich freue mich __(10)__ Ihre Rückmeldung.\n\nMit freundlichen Grüßen\nJonas Fischer",
           "questions": [
             {
-              "id": "B1_m07_SB1_q1",
-              "type": "multiple_choice",
-              "questionText": "21",
-              "options": ["A) schriftlich", "B) mündlich", "C) persönlich"],
-              "correctAnswer": "A) schriftlich",
-              "explanation": "Es handelt sich um einen schriftlichen Brief/eine schriftliche Bewerbung – 'schriftlich' passt zum Register und Kontext. 'Mündlich' ist inhaltlich falsch (Brief), 'persönlich' kommt zwar vor, aber 'schriftlich an jemanden wenden' ist die korrekte feste Wendung."
+              "blankNumber": 1,
+              "type": "mcq",
+              "options": ["a) schriftlich", "b) mündlich", "c) persönlich"],
+              "correctAnswer": "a",
+              "explanation": "Es handelt sich um einen Brief – 'sich schriftlich an jemanden wenden' ist die korrekte feste Wendung. 'Mündlich' ist inhaltlich falsch (Brief), 'persönlich' würde ein Treffen implizieren."
             },
             {
-              "id": "B1_m07_SB1_q2",
-              "type": "multiple_choice",
-              "questionText": "22",
-              "options": ["A) auf", "B) bei", "C) aus"],
-              "correctAnswer": "A) auf",
+              "blankNumber": 2,
+              "type": "mcq",
+              "options": ["a) auf", "b) bei", "c) aus"],
+              "correctAnswer": "a",
               "explanation": "'Auf dem Internetauftritt' ist die richtige Präpositionalverbindung. 'Bei' und 'aus' passen grammatikalisch nicht zu 'Internetauftritt entnehmen'."
             },
             {
-              "id": "B1_m07_SB1_q3",
-              "type": "multiple_choice",
-              "questionText": "23",
-              "options": ["A) dem", "B) meinem", "C) einem"],
-              "correctAnswer": "B) meinem",
-              "explanation": "'Nach meinem erfolgreichen Abschluss' – Genitiv-Possessiv passt. 'Dem' wäre ohne Bezug, 'einem' zu unspezifisch für eine Bewerbung."
+              "blankNumber": 3,
+              "type": "mcq",
+              "options": ["a) dem", "b) meinem", "c) einem"],
+              "correctAnswer": "b",
+              "explanation": "'Nach meinem erfolgreichen Abschluss' – Possessivpronomen passt für Bewerbungskontext. 'Dem' wäre ohne persönlichen Bezug, 'einem' zu unspezifisch."
             },
             {
-              "id": "B1_m07_SB1_q4",
-              "type": "multiple_choice",
-              "questionText": "24",
-              "options": ["A) gesammelt", "B) gemacht", "C) erworben"],
-              "correctAnswer": "C) erworben",
-              "explanation": "'Erfahrung erwerben' ist die korrekte Kollokation in formalem Schreiben. 'Erfahrung sammeln' (A) ist auch möglich im Alltag, aber 'erwerben' ist formeller und typischer für Bewerbungsschreiben."
+              "blankNumber": 4,
+              "type": "mcq",
+              "options": ["a) gesammelt", "b) gemacht", "c) erworben"],
+              "correctAnswer": "c",
+              "explanation": "'Erfahrung erwerben' ist die korrekte Kollokation in formellem Schreiben. 'Sammeln' ist alltäglich, 'machen' zu informell für Bewerbungen."
             },
             {
-              "id": "B1_m07_SB1_q5",
-              "type": "multiple_choice",
-              "questionText": "25",
-              "options": ["A) in", "B) bei", "C) unter"],
-              "correctAnswer": "A) in",
-              "explanation": "'In schwierigen Situationen' ist die korrekte Präposition. 'Bei' und 'unter' passen nicht in diesem Kontext."
+              "blankNumber": 5,
+              "type": "mcq",
+              "options": ["a) in", "b) bei", "c) unter"],
+              "correctAnswer": "a",
+              "explanation": "'In schwierigen Situationen' ist die korrekte Präposition. 'Bei' und 'unter' passen in diesem Kontext nicht."
             },
             {
-              "id": "B1_m07_SB1_q6",
-              "type": "multiple_choice",
-              "questionText": "26",
-              "options": ["A) bewerben", "B) freuen", "C) bemühen"],
-              "correctAnswer": "B) freuen",
-              "explanation": "'Ich würde mich sehr freuen, wenn ...' ist die formelle Standardwendung in Bewerbungsbriefen. Die anderen Verben passen grammatikalisch nicht in diesen Satzrahmen."
+              "blankNumber": 6,
+              "type": "mcq",
+              "options": ["a) bewerben", "b) freuen", "c) bemühen"],
+              "correctAnswer": "b",
+              "explanation": "'Ich würde mich sehr freuen, wenn ...' ist die Standardwendung für höfliche Bitten in Bewerbungsbriefen."
             },
             {
-              "id": "B1_m07_SB1_q7",
-              "type": "multiple_choice",
-              "questionText": "27",
-              "options": ["A) könnte", "B) dürfte", "C) sollte"],
-              "correctAnswer": "A) könnte",
-              "explanation": "'vorstellen könnte' – Konjunktiv II von 'können' in einem höflichen Konditionalsatz. 'Dürfte' wäre unpassend (Erlaubnisfokus), 'sollte' wäre zu direkt."
+              "blankNumber": 7,
+              "type": "mcq",
+              "options": ["a) könnte", "b) dürfte", "c) sollte"],
+              "correctAnswer": "a",
+              "explanation": "'vorstellen könnte' – Konjunktiv II von 'können' in einem höflichen Konditionalsatz. 'Dürfte' betont Erlaubnis, 'sollte' wäre zu direktiv."
             },
             {
-              "id": "B1_m07_SB1_q8",
-              "type": "multiple_choice",
-              "questionText": "28",
-              "options": ["A) schicke", "B) sende", "C) leite"],
-              "correctAnswer": "B) sende",
-              "explanation": "'Unterlagen zusenden' ist die formelle Standardformulierung in Bewerbungsschreiben. 'Schicken' ist eher informell, 'leiten' passt nicht mit 'zu' in diesem Kontext."
+              "blankNumber": 8,
+              "type": "mcq",
+              "options": ["a) schicke", "b) sende", "c) leite"],
+              "correctAnswer": "b",
+              "explanation": "'Unterlagen zusenden' ist die formelle Standardformulierung. 'Schicken' ist eher informell, 'leiten zu' ist unüblich in diesem Kontext."
             },
             {
-              "id": "B1_m07_SB1_q9",
-              "type": "multiple_choice",
-              "questionText": "29",
-              "options": ["A) immer", "B) jederzeit", "C) gerne"],
-              "correctAnswer": "B) jederzeit",
-              "explanation": "'Für Rückfragen jederzeit zur Verfügung stehen' ist die typische formelle Wendung. 'Immer' ist etwas zu informell, 'gerne zur Verfügung stehen' wäre eine andere korrekte Kombination, aber mit 'stehe ich Ihnen' passt 'jederzeit' besser."
+              "blankNumber": 9,
+              "type": "mcq",
+              "options": ["a) immer", "b) jederzeit", "c) gerne"],
+              "correctAnswer": "b",
+              "explanation": "'Für Rückfragen jederzeit zur Verfügung stehen' ist die typische formelle Wendung. 'Immer' klingt etwas zu umgangssprachlich, 'gerne' würde eine andere Struktur erfordern."
             },
             {
-              "id": "B1_m07_SB1_q10",
-              "type": "multiple_choice",
-              "questionText": "30",
-              "options": ["A) über", "B) auf", "C) an"],
-              "correctAnswer": "B) auf",
-              "explanation": "'Ich freue mich auf Ihre Rückmeldung' – die Präposition 'auf' regiert 'sich freuen' bei Erwartungen/Vorausschau. 'Über' würde eine bereits erhaltene Sache bezeichnen."
+              "blankNumber": 10,
+              "type": "mcq",
+              "options": ["a) über", "b) auf", "c) an"],
+              "correctAnswer": "b",
+              "explanation": "'Ich freue mich auf Ihre Rückmeldung' – Präposition 'auf' steht bei 'sich freuen' wenn man auf etwas Zukünftiges wartet. 'Über' bezeichnet etwas bereits Erhaltenes."
             }
           ]
         },
         {
-          "partNumber": 5,
-          "instructions": "Lesen Sie den Text und schreiben Sie den richtigen Buchstaben (A–P) in die Lücken. Nicht alle Wörter passen in den Text.",
-          "instructionsTranslation": "Read the text and write the correct letter (A–P) in the gaps. Not all words fit in the text.",
-          "textPassage": "Sehr geehrte Damen und Herren,\n\nich möchte mich (0: F) Ihrer Agentur als zuverlässige Haushaltshilfe vorstellen. Ich habe (31) _____ von Ihrer Stellenanzeige auf dem Stadtportal erfahren und (32) _____ mich sofort angesprochen gefühlt.\n\nIch bin 45 Jahre alt, lebe seit zehn Jahren in Deutschland und spreche fließend Deutsch. (33) _____ ich bereits mehrere Jahre als Haushaltshilfe in verschiedenen Privathaushalten gearbeitet habe, kenne ich alle anfallenden Aufgaben gut: Putzen, Waschen, Bügeln und (34) _____ die Zubereitung einfacher Mahlzeiten.\n\nIch bin (35) _____ zuverlässig und pünktlich – das können Ihnen meine bisherigen Arbeitgeber (36) _____. Ich würde mich sehr (37) _____, wenn Sie mir die Möglichkeit geben (38) _____, mich Ihnen persönlich vorzustellen.\n\nFür (39) _____ stehe ich Ihnen telefonisch oder per E-Mail zur Verfügung. Bitte nehmen Sie (40) _____ mit mir Kontakt auf.\n\nMit freundlichen Grüßen\nFatima Al-Hassan",
-          "wordBank": [
-            "A) bekannt",
-            "B) bestätigen",
-            "C) Da",
-            "D) auch",
-            "E) freuen",
-            "F) bei",
-            "G) Rückfragen",
-            "H) würden",
-            "I) haben",
-            "J) gerne",
-            "K) bekommen",
-            "L) bitte",
-            "M) weil",
-            "N) außerdem",
-            "O) würde",
-            "P) Fragen"
-          ],
+          "partNumber": 2,
+          "instructions": "Lesen Sie den folgenden Text. Welches Wort aus der Liste A–P passt in die Lücken? Jedes Wort passt nur einmal. Sechs Wörter bleiben übrig.",
+          "text": "Sehr geehrte Damen und Herren,\n\nich möchte mich __(11)__ Ihrer Agentur als zuverlässige Haushaltshilfe vorstellen. Ich habe __(12)__ von Ihrer Stellenanzeige auf dem Stadtportal __(13)__ und fühlte mich sofort angesprochen.\n\nIch bin 45 Jahre alt, lebe seit zehn Jahren in Deutschland und spreche fließend Deutsch. __(14)__ ich bereits mehrere Jahre als Haushaltshilfe in verschiedenen Privathaushalten gearbeitet habe, kenne ich alle anfallenden Aufgaben gut: Putzen, Waschen, Bügeln und __(15)__ die Zubereitung einfacher Mahlzeiten.\n\nIch bin __(16)__ zuverlässig und pünktlich – das können Ihnen meine bisherigen Arbeitgeber __(17)__. Ich würde mich sehr __(18)__, wenn Sie mir die Möglichkeit geben __(19)__, mich Ihnen persönlich vorzustellen.\n\nFür __(20)__ stehe ich Ihnen telefonisch oder per E-Mail zur Verfügung.\n\nMit freundlichen Grüßen\nFatima Al-Hassan",
           "questions": [
             {
-              "id": "B1_m07_SB2_q1",
-              "type": "fill_blank",
-              "questionText": "31",
-              "correctAnswer": "A) bekannt",
-              "explanation": "'Von etwas bekannt werden' bzw. 'durch etwas bekannt' – hier: 'habe von Ihrer Stellenanzeige bekannt erfahren' ist nicht idiomatisch; die richtige Konstruktion ist 'durch ... bekannt geworden' oder schlicht 'erfahren'. Im Kontext des Satzes: 'von Ihrer Stellenanzeige ... erfahren' ohne Lückenwort ist schon vollständig. Der Einschub 'bekannt' (A) passt als fester Ausdruck 'habe... bekannt gemacht'. Aber semantisch passt hier 'bekannt' = 'habe Kenntnis bekommen durch'. Trap distractor: K) bekommen."
+              "blankNumber": 11,
+              "type": "word_bank",
+              "options": [
+                "A) bei", "B) seit", "C) da", "D) auch", "E) freuen",
+                "F) bekannt", "G) Rückfragen", "H) würden", "I) erfahren",
+                "J) gerne", "K) bestätigen", "L) außerdem", "M) damit", "N) über", "O) würde", "P) Fragen"
+              ],
+              "correctAnswer": "A",
+              "explanation": "Feste Wendung 'sich bei jemandem vorstellen' – 'vorstellen bei' mit Dativ. Distraktoren: N (über) gehört zu 'sich informieren über', nicht zu 'sich vorstellen'."
             },
             {
-              "id": "B1_m07_SB2_q2",
-              "type": "fill_blank",
-              "questionText": "32",
-              "correctAnswer": "I) haben",
-              "explanation": "'habe mich... gefühlt' – Perfekt von 'sich fühlen'. Die Lücke vervollständigt das Perfekt-Hilfsverb."
+              "blankNumber": 12,
+              "type": "word_bank",
+              "options": [
+                "A) bei", "B) seit", "C) da", "D) auch", "E) freuen",
+                "F) bekannt", "G) Rückfragen", "H) würden", "I) erfahren",
+                "J) gerne", "K) bestätigen", "L) außerdem", "M) damit", "N) über", "O) würde", "P) Fragen"
+              ],
+              "correctAnswer": "F",
+              "explanation": "'Ich habe bekannt von Ihrer Stellenanzeige' – 'bekannt' ergänzt die Wendung 'bekannt werden durch / von'. Distraktor I (erfahren) ist zwar semantisch ähnlich, passt aber strukturell nicht ohne 'habe ... erfahren'."
             },
             {
-              "id": "B1_m07_SB2_q3",
-              "type": "fill_blank",
-              "questionText": "33",
-              "correctAnswer": "C) Da",
-              "explanation": "'Da ich bereits mehrere Jahre... gearbeitet habe' – kausale Konjunktion 'da' leitet den Nebensatz ein. M) weil wäre ebenfalls kausal, aber im Kontext eines formellen Briefes mit Hauptsatz-Nachstellung ist 'da' üblicher."
+              "blankNumber": 13,
+              "type": "word_bank",
+              "options": [
+                "A) bei", "B) seit", "C) da", "D) auch", "E) freuen",
+                "F) bekannt", "G) Rückfragen", "H) würden", "I) erfahren",
+                "J) gerne", "K) bestätigen", "L) außerdem", "M) damit", "N) über", "O) würde", "P) Fragen"
+              ],
+              "correctAnswer": "I",
+              "explanation": "'von Ihrer Stellenanzeige erfahren' – Perfekt von 'erfahren': 'habe ... erfahren'. Das Vollverb passt zum Satzmuster 'habe bekannt ... erfahren' → hier füllt 'erfahren' die Lücke als Partizip."
             },
             {
-              "id": "B1_m07_SB2_q4",
-              "type": "fill_blank",
-              "questionText": "34",
-              "correctAnswer": "N) außerdem",
-              "explanation": "'außerdem die Zubereitung' – Aufzählung mit additivem Adverb. 'Auch' (D) wäre möglich, aber 'außerdem' signalisiert eine Erweiterung der Liste stärker."
+              "blankNumber": 14,
+              "type": "word_bank",
+              "options": [
+                "A) bei", "B) seit", "C) da", "D) auch", "E) freuen",
+                "F) bekannt", "G) Rückfragen", "H) würden", "I) erfahren",
+                "J) gerne", "K) bestätigen", "L) außerdem", "M) damit", "N) über", "O) würde", "P) Fragen"
+              ],
+              "correctAnswer": "C",
+              "explanation": "'Da ich bereits mehrere Jahre ... gearbeitet habe' – kausale Konjunktion 'da'. M ('damit') ist finaler Konnektor und passt nicht hier."
             },
             {
-              "id": "B1_m07_SB2_q5",
-              "type": "fill_blank",
-              "questionText": "35",
-              "correctAnswer": "D) auch",
-              "explanation": "'Ich bin auch zuverlässig' – hier reiht 'auch' die Eigenschaft an die implizit vorher genannten Fähigkeiten an."
+              "blankNumber": 15,
+              "type": "word_bank",
+              "options": [
+                "A) bei", "B) seit", "C) da", "D) auch", "E) freuen",
+                "F) bekannt", "G) Rückfragen", "H) würden", "I) erfahren",
+                "J) gerne", "K) bestätigen", "L) außerdem", "M) damit", "N) über", "O) würde", "P) Fragen"
+              ],
+              "correctAnswer": "L",
+              "explanation": "'außerdem die Zubereitung' – additives Adverb für Aufzählung. D ('auch') wäre möglich, aber 'außerdem' signalisiert eine erweiternde Aufzählung klarer in formellem Register."
             },
             {
-              "id": "B1_m07_SB2_q6",
-              "type": "fill_blank",
-              "questionText": "36",
-              "correctAnswer": "B) bestätigen",
-              "explanation": "'Das können meine Arbeitgeber bestätigen' – Bestätigung einer Aussage durch Referenzen. Typische formelle Wendung."
+              "blankNumber": 16,
+              "type": "word_bank",
+              "options": [
+                "A) bei", "B) seit", "C) da", "D) auch", "E) freuen",
+                "F) bekannt", "G) Rückfragen", "H) würden", "I) erfahren",
+                "J) gerne", "K) bestätigen", "L) außerdem", "M) damit", "N) über", "O) würde", "P) Fragen"
+              ],
+              "correctAnswer": "D",
+              "explanation": "'Ich bin auch zuverlässig und pünktlich' – 'auch' reiht hier die Eigenschaften an die implizit vorher genannten Qualifikationen an."
             },
             {
-              "id": "B1_m07_SB2_q7",
-              "type": "fill_blank",
-              "questionText": "37",
-              "correctAnswer": "E) freuen",
-              "explanation": "'Ich würde mich sehr freuen, wenn...' – Konjunktiv-II-Konstruktion für höfliche Bitte in formellen Briefen."
+              "blankNumber": 17,
+              "type": "word_bank",
+              "options": [
+                "A) bei", "B) seit", "C) da", "D) auch", "E) freuen",
+                "F) bekannt", "G) Rückfragen", "H) würden", "I) erfahren",
+                "J) gerne", "K) bestätigen", "L) außerdem", "M) damit", "N) über", "O) würde", "P) Fragen"
+              ],
+              "correctAnswer": "K",
+              "explanation": "'Das können meine Arbeitgeber bestätigen' – Kollokation 'Aussage bestätigen' mit Modalverb. Typische Referenzformel in Bewerbungen."
             },
             {
-              "id": "B1_m07_SB2_q8",
-              "type": "fill_blank",
-              "questionText": "38",
-              "correctAnswer": "H) würden",
-              "explanation": "'wenn Sie mir die Möglichkeit geben würden' – Konjunktiv II im Konditionalsatz."
+              "blankNumber": 18,
+              "type": "word_bank",
+              "options": [
+                "A) bei", "B) seit", "C) da", "D) auch", "E) freuen",
+                "F) bekannt", "G) Rückfragen", "H) würden", "I) erfahren",
+                "J) gerne", "K) bestätigen", "L) außerdem", "M) damit", "N) über", "O) würde", "P) Fragen"
+              ],
+              "correctAnswer": "E",
+              "explanation": "'Ich würde mich sehr freuen, wenn ...' – Konjunktiv-II-Konstruktion für höfliche Bitten in formellen Briefen."
             },
             {
-              "id": "B1_m07_SB2_q9",
-              "type": "fill_blank",
-              "questionText": "39",
-              "correctAnswer": "G) Rückfragen",
-              "explanation": "'Für Rückfragen stehe ich zur Verfügung' – feste formelle Wendung in Geschäftsbriefen. P) Fragen ist ein Distractor, aber 'Rückfragen' ist das Präzise und Formelle."
+              "blankNumber": 19,
+              "type": "word_bank",
+              "options": [
+                "A) bei", "B) seit", "C) da", "D) auch", "E) freuen",
+                "F) bekannt", "G) Rückfragen", "H) würden", "I) erfahren",
+                "J) gerne", "K) bestätigen", "L) außerdem", "M) damit", "N) über", "O) würde", "P) Fragen"
+              ],
+              "correctAnswer": "H",
+              "explanation": "'wenn Sie mir die Möglichkeit geben würden' – Konjunktiv II im Konditionalnebensatz ('würden' als Hilfsverb)."
             },
             {
-              "id": "B1_m07_SB2_q10",
-              "type": "fill_blank",
-              "questionText": "40",
-              "correctAnswer": "J) gerne",
-              "explanation": "'Bitte nehmen Sie gerne Kontakt auf' – typische Abschlussformulierung in formellen Bewerbungen."
+              "blankNumber": 20,
+              "type": "word_bank",
+              "options": [
+                "A) bei", "B) seit", "C) da", "D) auch", "E) freuen",
+                "F) bekannt", "G) Rückfragen", "H) würden", "I) erfahren",
+                "J) gerne", "K) bestätigen", "L) außerdem", "M) damit", "N) über", "O) würde", "P) Fragen"
+              ],
+              "correctAnswer": "G",
+              "explanation": "'Für Rückfragen stehe ich zur Verfügung' – feste formelle Wendung in Geschäftsbriefen. P ('Fragen') ist ein Distraktor: 'Für Fragen' ist umgangssprachlich, 'Rückfragen' ist das Formelle."
             }
           ]
         }
@@ -789,22 +794,43 @@
     },
     "writing": {
       "totalTimeMinutes": 30,
-      "task": {
-        "id": "B1_m07_W1",
-        "type": "letter",
-        "register": "informal",
-        "instructions": "Ihre Freundin Maria hat Ihnen geschrieben. Sie überlegt, ob sie ihren sicheren Job als Buchhalterin aufgeben und eine Ausbildung zur Erzieherin anfangen soll. Sie bittet Sie um Ihre Meinung.\n\nSchreiben Sie Maria einen Brief. Gehen Sie auf alle vier Punkte ein:\n• Warum Sie schreiben und wie es Ihnen geht\n• Ihre Meinung zur Frage, ob sie den Job wechseln soll\n• Mögliche Vor- und Nachteile des Wechsels\n• Einen Ratschlag oder eine Frage an Maria\n\nSchreiben Sie 130–170 Wörter. Vergessen Sie Datum, Anrede und Abschlussformel nicht.",
-        "wordCountMin": 130,
-        "wordCountMax": 170,
-        "scoringCriteria": [
-          "Alle vier inhaltlichen Punkte angesprochen",
-          "Privater Briefton (informelle Anrede, Umgangssprache erlaubt)",
-          "Klarer Aufbau: Einleitung, Hauptteil, Schluss",
-          "Sprachliche Korrektheit: Grammatik, Wortschatz, Orthographie",
-          "Angemessene Wortanzahl (130–170 Wörter)"
-        ],
-        "sampleAnswer": "Liebe Maria,\n\nvielen Dank für deinen Brief! Mir geht es gut, aber ich mache mir gerade ein bisschen Sorgen um dich – so eine große Entscheidung!\n\nIch finde es toll, dass du dir überlegst, etwas zu ändern. Als Erzieherin könntest du wirklich Gutes für Kinder tun, und das klingt nach einer erfüllenden Arbeit. Ich verstehe, dass dein jetziger Job sicher ist, aber manchmal ist Sicherheit nicht alles.\n\nAllerdings solltest du auch die Nachteile nicht vergessen: Eine Ausbildung dauert ihre Zeit, und du verdienst dabei weniger als jetzt. Außerdem ist die Arbeit mit kleinen Kindern manchmal sehr anstrengend.\n\nMein Rat: Sprich zuerst mit einer Erzieherin, die dir ehrlich erzählen kann, wie der Alltag wirklich ist. Hast du schon mal ein Praktikum in einer Kita gemacht?\n\nIch drücke dir die Daumen!\n\nHerzliche Grüße\n[Name]"
-      }
+      "tasks": [
+        {
+          "taskNumber": 1,
+          "type": "letter",
+          "instructions": "Ihre Freundin Maria hat Ihnen geschrieben. Sie überlegt, ob sie ihren sicheren Job als Buchhalterin aufgeben und eine Ausbildung zur Erzieherin anfangen soll. Sie bittet Sie um Ihre Meinung. Schreiben Sie Maria einen Brief. Gehen Sie auf alle vier Punkte ein. Schreiben Sie 130–170 Wörter.",
+          "instructionsTranslation": "Your friend Maria has written to you. She is wondering whether to leave her secure job as an accountant and start training as a nursery teacher. She is asking for your opinion. Write Maria a letter. Address all four points. Write 130–170 words.",
+          "prompt": "Maria schreibt Ihnen: 'Ich weiß wirklich nicht, was ich tun soll. Mein Job als Buchhalterin ist sicher, aber ich fühle mich nicht glücklich. Ich träume schon lange davon, mit Kindern zu arbeiten. Was denkst du?'\n\nSchreiben Sie Maria einen Brief. Gehen Sie auf folgende vier Punkte ein:\n- Warum Sie schreiben und wie es Ihnen geht\n- Ihre Meinung: Soll Maria den Job wechseln?\n- Mögliche Vor- und Nachteile eines Berufswechsels\n- Einen Ratschlag oder eine Frage an Maria\n\nVergessen Sie Datum, Anrede und Abschlussformel nicht.",
+          "promptTranslation": "Maria writes to you: 'I really don't know what to do. My job as an accountant is secure, but I don't feel happy. I've been dreaming of working with children for a long time. What do you think?'\n\nWrite Maria a letter. Address the following four points:\n- Why you are writing and how you are doing\n- Your opinion: Should Maria change jobs?\n- Possible advantages and disadvantages of a career change\n- A piece of advice or a question for Maria\n\nDon't forget date, salutation, and closing.",
+          "requiredPoints": [
+            "Einleitung: Anlass des Briefes und persönliches Befinden",
+            "Meinung zum geplanten Berufswechsel mit Begründung",
+            "Mindestens ein Vor- und ein Nachteil des Wechsels",
+            "Konkreter Ratschlag oder persönliche Frage an Maria"
+          ],
+          "wordCountMin": 130,
+          "wordCountMax": 170,
+          "sampleAnswer": "Liebe Maria,\n\nvielen Dank für deinen Brief! Mir geht es gut, aber ich mache mir gerade ein bisschen Sorgen um dich – so eine große Entscheidung!\n\nIch finde es toll, dass du dir überlegst, etwas zu ändern. Als Erzieherin könntest du wirklich Gutes für Kinder tun, und das klingt nach einer erfüllenden Arbeit. Ich verstehe, dass dein jetziger Job sicher ist, aber manchmal ist Sicherheit nicht alles.\n\nAllerdings solltest du auch die Nachteile nicht vergessen: Eine Ausbildung dauert ihre Zeit, und du verdienst dabei weniger als jetzt. Außerdem ist die Arbeit mit kleinen Kindern manchmal sehr anstrengend.\n\nMein Rat: Sprich zuerst mit einer Erzieherin, die dir ehrlich erzählen kann, wie der Alltag wirklich ist. Hast du schon mal ein Praktikum in einer Kita gemacht?\n\nIch drücke dir die Daumen!\n\nHerzliche Grüße\nAlex",
+          "sampleAnswerMetadata": "Wortanzahl: ca. 145 Wörter. Strukturmerkmale: Konjunktiv II (könntest), Konnektoren (allerdings, außerdem), persönlicher Ton, alle vier Punkte adressiert.",
+          "scoringCriteria": [
+            {
+              "criterion": "I. Inhaltliche Vollständigkeit",
+              "maxPoints": 15,
+              "description": "Alle vier Leitpunkte (Einleitung/Befinden, Meinung, Vor-/Nachteile, Ratschlag/Frage) sind klar behandelt. Wird ein Punkt nicht bearbeitet, erhält der gesamte Text 0 Punkte."
+            },
+            {
+              "criterion": "II. Kommunikative Gestaltung",
+              "maxPoints": 15,
+              "description": "Angemessene Anrede ('Liebe Maria'), persönlicher informeller Ton, logische Übergänge, Briefgrußformel. Verwendung von Konnektoren (allerdings, außerdem, aber, deshalb)."
+            },
+            {
+              "criterion": "III. Formale Richtigkeit",
+              "maxPoints": 15,
+              "description": "Grammatik, Rechtschreibung und Wortwahl auf B1-Niveau. Korrekte Zeitformen, Nebensatzstellung, Kasus nach Präpositionen."
+            }
+          ]
+        }
+      ]
     },
     "speaking": {
       "totalTimeMinutes": 15,
@@ -812,51 +838,29 @@
       "parts": [
         {
           "partNumber": 1,
-          "type": "personal_introduction",
-          "durationMinutes": 3,
-          "instructions": "Stellen Sie sich Ihrer Gesprächspartnerin / Ihrem Gesprächspartner vor. Erzählen Sie etwas über sich.",
-          "promptPoints": [
-            "Name und Herkunft",
-            "Wohnort und Wohnsituation",
-            "Familie / Freunde",
-            "Beruf oder Ausbildung",
-            "Hobbys und Freizeitinteressen",
-            "Sprachkenntnisse"
-          ]
+          "type": "introduce",
+          "instructions": "Stellen Sie sich Ihrer Gesprächspartnerin / Ihrem Gesprächspartner vor. Sprechen Sie über sich: Name, Herkunft, Wohnort, Familie, Beruf oder Ausbildung, Hobbys und Sprachen.",
+          "instructionsTranslation": "Introduce yourself to your conversation partner. Talk about: name, origin, place of residence, family, work or education, hobbies, and languages.",
+          "prompt": "Bitte stellen Sie sich Ihrem Partner / Ihrer Partnerin vor. Sprechen Sie u.a. über:\n- Ihren Namen und Ihre Herkunft\n- Ihren aktuellen Wohnort\n- Ihre Familie\n- Ihren Beruf oder Ihr Studium\n- Ihre Hobbys und Interessen\n- Die Sprachen, die Sie sprechen",
+          "sampleResponse": "Guten Tag, ich heiße Selin Yılmaz und komme ursprünglich aus der Türkei. Seit vier Jahren wohne ich in Köln, wo ich als Verkäuferin in einem Elektrogeschäft arbeite. Meine Familie lebt noch in Istanbul – meine Eltern und ein jüngerer Bruder. In meiner Freizeit koche ich sehr gerne und treffe mich mit Freunden. Außerdem lerne ich gerade Gitarre spielen – das macht mir großen Spaß. Neben Deutsch spreche ich natürlich Türkisch und ein wenig Englisch. Und wie ist das bei Ihnen? Wie lange lernen Sie schon Deutsch?"
         },
         {
           "partNumber": 2,
-          "type": "topic_discussion",
-          "durationMinutes": 6,
-          "topic": "Dienstleistungen im Alltag",
-          "instructions": "Sprechen Sie mit Ihrer Gesprächspartnerin / Ihrem Gesprächspartner über das Thema 'Dienstleistungen im Alltag'. Berichten Sie kurz über die Informationen unten und teilen Sie Ihre persönlichen Erfahrungen mit.",
-          "stimulusText": "Laut einer Umfrage nutzen immer mehr Menschen in Deutschland professionelle Dienstleistungen für Haushalt und Alltag. Fast 40% gaben an, dass sie sich mehr Zeit für Familie und Freizeit wünschen.",
-          "discussionPoints": [
-            "Welche Dienstleistungen nutzen Menschen in Ihrem Land / Ihrer Umgebung?",
-            "Haben Sie selbst schon einmal einen Handwerker oder eine Haushaltshilfe beauftragt?",
-            "Was sind die Vor- und Nachteile, professionelle Hilfe in Anspruch zu nehmen?"
-          ]
+          "type": "conversation",
+          "instructions": "Sprechen Sie mit Ihrer Gesprächspartnerin / Ihrem Gesprächspartner über das Thema 'Dienstleistungen im Alltag'. Berichten Sie über die Informationen unten und teilen Sie Ihre persönlichen Erfahrungen mit.",
+          "instructionsTranslation": "Talk with your conversation partner about 'Services in everyday life'. Report on the information below and share your personal experiences.",
+          "prompt": "Laut einer Umfrage nutzen immer mehr Menschen in Deutschland professionelle Dienstleistungen für Haushalt und Alltag. Fast 40% gaben an, dass sie sich mehr Zeit für Familie und Freizeit wünschen.\n\nBerichten Sie Ihrem Partner / Ihrer Partnerin kurz darüber. Teilen Sie danach Ihre eigenen Erfahrungen mit und stellen Sie Fragen:\n- Welche Dienstleistungen nutzen Menschen in Ihrer Umgebung?\n- Haben Sie selbst schon einmal einen Handwerker oder eine Haushaltshilfe beauftragt?\n- Was sind Ihrer Meinung nach die Vor- und Nachteile?",
+          "sampleResponse": "Ich habe hier interessante Informationen zum Thema Dienstleistungen. Laut einer Umfrage nutzen immer mehr Leute in Deutschland professionelle Hilfe im Alltag – fast 40 Prozent wünschen sich einfach mehr Zeit. Das finde ich gut nachvollziehbar, denn der Alltag ist oft sehr stressig. Ich selbst habe noch keine Haushaltshilfe beauftragt, aber ich kann mir vorstellen, das zu tun, wenn ich mehr arbeite. Was meinen Sie – nutzen Sie solche Dienste?"
         },
         {
           "partNumber": 3,
-          "type": "collaborative_task",
-          "durationMinutes": 6,
-          "topic": "Quartiersfest planen",
+          "type": "planning",
           "instructions": "Sie sollen zusammen mit Ihrer Gesprächspartnerin / Ihrem Gesprächspartner ein Quartiersfest für Ihre Nachbarschaft planen. Überlegen Sie gemeinsam, was Sie organisieren müssen.",
-          "taskDescription": "Ihr Wohnviertel möchte ein Nachbarschaftstreffen / Quartiersfest organisieren. Sie haben die Aufgabe, mit Ihrer Gesprächspartnerin / Ihrem Gesprächspartner gemeinsam zu planen.",
-          "planningPoints": [
-            "Wann und wo soll das Fest stattfinden?",
-            "Wen soll man einladen und wie informiert man die Nachbarn?",
-            "Was für Essen und Trinken braucht man, und wer bringt was mit?",
-            "Welche Aktivitäten oder Spiele soll es geben?",
-            "Wie teilt man die Aufgaben auf?",
-            "Was passiert, wenn das Wetter schlecht ist?"
-          ]
+          "instructionsTranslation": "Together with your conversation partner, plan a neighbourhood festival for your local community. Discuss together what needs to be organised.",
+          "prompt": "Ihr Wohnviertel möchte ein Quartiersfest / Nachbarschaftstreffen organisieren. Sie haben die Aufgabe, gemeinsam mit Ihrer Gesprächspartnerin / Ihrem Gesprächspartner zu planen:\n\n- Wann und wo soll das Fest stattfinden?\n- Wen soll man einladen und wie informiert man die Nachbarn?\n- Was für Essen und Trinken braucht man, und wer bringt was mit?\n- Welche Aktivitäten oder Spiele soll es geben?\n- Wie teilt man die Aufgaben auf?\n- Was passiert, wenn das Wetter schlecht ist?",
+          "sampleResponse": "Ich würde vorschlagen, das Fest am ersten Samstag im Juli zu machen – dann ist es hoffentlich warm. Als Ort könnten wir den Hinterhof oder den kleinen Park am Ende der Straße nehmen. Um die Nachbarn zu informieren, könnten wir Flyer in die Briefkästen stecken. Ich übernehme gerne die Organisation des Grillens, wenn jemand anders Getränke und Salate mitbringt. Für die Kinder könnte man ein paar Spiele vorbereiten. Und falls es regnet – haben Sie eine Idee, wie wir das lösen können?"
         }
       ]
-    },
-    "sprachbausteine": {
-      "note": "Sprachbausteine content is embedded within the reading section (parts 4 and 5) per telc B1 format."
     }
   }
 }
