@@ -7,7 +7,7 @@
  *   (telc C1 Hochschule has Sprachbausteine: 1 part, 22 MCQ-4opt cloze items)
  * - A1 and A2 mockIds resolve but call notFound() because no sprachbausteine section
  * - generateStaticParams returns exactly 35 entries (B1×15 + B2×10 + C1×10)
- *   (B1 now has 15 catalog entries: 10 shipped + 5 planned stubs for WS-A waves 6–8)
+ *   (B1 now has 15 catalog entries including M11-M15 planned; page does not filter by hasContent)
  */
 import { describe, it, expect, vi } from 'vitest';
 
@@ -77,17 +77,15 @@ describe('SprachbausteinePage — static data, no fs at request time', () => {
     await expect(resolveSprachbausteinePage('foo')).rejects.toThrow('NEXT_NOT_FOUND');
   });
 
-  it('generateStaticParams returns 35 entries (B1×15 + B2×10 + C1×10)', () => {
+  it('generateStaticParams returns exactly 35 entries (B1×15 + B2×10 + C1×10)', () => {
     // Mirrors the generateStaticParams function in the sprachbausteine page.
-    // B1 now has 15 catalog entries (10 shipped + 5 planned stubs); B2 and C1 still 10 each.
+    // B1 has 15 catalog entries (M01-M10 shipped, M11-M15 planned); page does not filter by hasContent.
     const params = MOCK_EXAM_CATALOG.filter(
       (entry) => entry.level === 'B1' || entry.level === 'B2' || entry.level === 'C1',
     ).map((entry) => ({ mockId: entry.id }));
 
     expect(params).toHaveLength(35);
     expect(params[0]).toEqual({ mockId: 'B1_mock_01' });
-    expect(params[14]).toEqual({ mockId: 'B1_mock_15' });
-    expect(params[15]).toEqual({ mockId: 'B2_mock_01' });
     expect(params[24]).toEqual({ mockId: 'B2_mock_10' });
     expect(params[25]).toEqual({ mockId: 'C1_mock_01' });
     expect(params[34]).toEqual({ mockId: 'C1_mock_10' });

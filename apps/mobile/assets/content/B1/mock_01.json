@@ -1,8 +1,8 @@
 {
   "id": "B1_mock_01",
   "level": "B1",
-  "title": "B1 Übungstest 1: Alltag",
-  "version": 1,
+  "title": "B1 Übungstest 1: Alltag & Reisen",
+  "version": 2,
   "sections": {
     "listening": {
       "totalTimeMinutes": 30,
@@ -170,66 +170,66 @@
             {
               "id": "B1_m01_L3_q1",
               "type": "mcq",
-              "questionText": "Warum ruft die Frau bei der Autowerkstatt an?",
+              "questionText": "Wieso glaubt Frau Wagner, dass der neue Kurs besser zu ihr passt als der alte?",
               "options": [
-                "a) Sie möchte einen Termin für die Inspektion vereinbaren.",
-                "b) Sie möchte wissen, wann ihr Auto abholbereit ist.",
-                "c) Sie möchte sich über eine zu hohe Rechnung beschweren."
+                "a) Der Kurs findet morgens statt, was ihr Zeitplan erfordert.",
+                "b) Die Gruppe ist kleiner und der Unterricht geht mehr auf individuelle Fehler ein.",
+                "c) Der neue Kursleiter ist freundlicher als der vorherige."
               ],
               "correctAnswer": "b",
-              "explanation": "Die Frau fragt zu Beginn: 'Ich wollte nur kurz nachfragen, ob mein Wagen schon fertig ist und ich ihn heute noch abholen kann.' Sie fragt also nach der Abholung. Die Inspektion ist bereits vereinbart, und die Rechnung wird nicht erwähnt.",
+              "explanation": "Frau Wagner erklärt: 'Im alten Kurs waren wir dreißig Leute – da hat der Lehrer kaum gemerkt, wenn ich etwas falsch gemacht habe. Jetzt sind wir nur acht, und Herr Fischer korrigiert uns bei jedem Fehler.' Die kleinere Gruppe und gezielte Korrektur sind der Grund – nicht die Uhrzeit (a), die sie nie erwähnt. Option c ist eine subject-swap-Falle: Freundlichkeit wird dem alten, nicht dem neuen Kursleiter zugeschrieben. [Trap used: subject-swap (c)]",
               "audioTimestamp": 15
             },
             {
               "id": "B1_m01_L3_q2",
               "type": "mcq",
-              "questionText": "Worauf einigen sich die beiden Freundinnen am Ende?",
+              "questionText": "Was hat Thomas letzte Woche gemacht, um sich auf die Reise vorzubereiten?",
               "options": [
-                "a) Sie gehen am Samstag zusammen ins Kino.",
-                "b) Sie treffen sich am Sonntag zum Brunch.",
-                "c) Sie verschieben das Treffen auf nächste Woche."
+                "a) Er hat den Koffer gepackt und das Ticket gebucht.",
+                "b) Er hat einen Reiseführer gekauft und das Hotel angerufen.",
+                "c) Er hat den Reisepass verlängern lassen und Reisepläne ausgedruckt."
               ],
               "correctAnswer": "c",
-              "explanation": "Am Schluss sagt Lisa: 'Okay, dann lass uns das einfach auf nächste Woche verschieben – da passt es uns beiden besser.' Kino und Brunch werden zwar diskutiert, aber wegen Terminschwierigkeiten verworfen.",
+              "explanation": "Thomas sagt: 'Ich war Montag beim Einwohnermeldeamt für den Reisepass — der war schon abgelaufen — und am Dienstag habe ich alle Buchungsbestätigungen ausgedruckt.' Koffer packen (a) plant er noch für diese Woche — eine time-frame-shift-Falle. Reiseführer kaufen (b) wird nicht erwähnt. [Trap used: time-frame shift (a)]",
               "audioTimestamp": 52
             },
             {
               "id": "B1_m01_L3_q3",
               "type": "mcq",
-              "questionText": "Was empfiehlt der Mitarbeiter dem Kunden im Elektronikgeschäft?",
+              "questionText": "Was ärgert Melanie am meisten an ihrer neuen Wohnsituation?",
               "options": [
-                "a) das teuerste Modell mit der längsten Garantie",
-                "b) ein mittelpreisiges Modell mit gutem Akku",
-                "c) das günstigste Gerät aus dem Sonderangebot"
+                "a) Die Miete ist deutlich höher als in ihrer alten Wohnung.",
+                "b) Die Nachbarn im Haus machen nachts sehr viel Lärm.",
+                "c) Die Wohnung ist günstig, aber der Weg zur Arbeit kostet sie täglich fast zwei Stunden."
               ],
-              "correctAnswer": "b",
-              "explanation": "Der Verkäufer sagt: 'Für Ihre Zwecke würde ich Ihnen dieses Gerät für 549 Euro empfehlen – Preis und Akkulaufzeit passen einfach hervorragend zusammen.' Er empfiehlt also ein mittelpreisiges Modell wegen der Akkulaufzeit. Das teuerste und das günstigste werden nur erwähnt, aber nicht empfohlen.",
+              "correctAnswer": "c",
+              "explanation": "Melanie sagt: 'Die Wohnung an sich ist super und bezahlbar — aber ich brauche morgens eine Stunde hin und abends mindestens fünfzig Minuten zurück. Das nervt mich wirklich am meisten.' Miete (a) ist kein Problem — das ist eine generalisation-Falle (aus 'bezahlbar' wird fälschlich 'teuer'). Lärm (b) wird nicht erwähnt. [Trap used: generalisation (a)]",
               "audioTimestamp": 88
             },
             {
               "id": "B1_m01_L3_q4",
               "type": "mcq",
-              "questionText": "Warum möchte der Vater seinen Sohn nicht sofort zum Flughafen fahren?",
+              "questionText": "Was schlägt der Vater vor, damit sein Sohn rechtzeitig zum Flughafen kommt?",
               "options": [
-                "a) Er hat gerade keinen Benzin im Auto.",
-                "b) Er ist müde und möchte erst etwas ausruhen.",
-                "c) Er erwartet selbst noch einen wichtigen Anruf."
+                "a) Er will ihn in einer Stunde mit dem Auto fahren, sobald sein Telefonat beendet ist.",
+                "b) Er empfiehlt dem Sohn, gleich ein Taxi zu nehmen, weil der Vater im Stau steht.",
+                "c) Er bittet den Sohn, auf den Bruder zu warten, der ihn abholt."
               ],
-              "correctAnswer": "c",
-              "explanation": "Der Vater erklärt: 'Ich warte noch auf einen dringenden Anruf von meinem Chef – sobald das erledigt ist, bringe ich dich selbstverständlich zum Flughafen.' Der Anruf ist also der Grund. Müdigkeit und Benzin werden nicht erwähnt.",
+              "correctAnswer": "b",
+              "explanation": "Der Vater sagt: 'Ich stecke leider im Stau und komme nicht raus. Nimm dir ein Taxi — das ist schneller und du schaffst das noch locker.' Er schlägt also das Taxi vor. Option a kehrt Ursache und Wirkung um: der Stau verhindert die Fahrt des Vaters, er wartet nicht auf ein Telefonat — das ist eine causal-reversal-Falle. Option c (Bruder) wird nicht erwähnt. [Trap used: causal reversal (a)]",
               "audioTimestamp": 122
             },
             {
               "id": "B1_m01_L3_q5",
               "type": "mcq",
-              "questionText": "Was ist das größte Problem der Studentin bei ihrer neuen Wohnung?",
+              "questionText": "Welcher Plan ist Elena am wichtigsten für ihr Sprachpraktikum?",
               "options": [
-                "a) Die Miete ist für sie zu hoch.",
-                "b) Der Weg zur Universität dauert sehr lange.",
-                "c) Die Wohnung ist zu klein möbliert."
+                "a) Sie möchte möglichst viel Deutsch sprechen und nicht mit Landsleuten zusammenwohnen.",
+                "b) Sie will hauptsächlich den Unterricht besuchen und abends in der Sprachschule lernen.",
+                "c) Sie hofft, einen günstigen Flug zu finden und möglichst wenig Kosten zu haben."
               ],
-              "correctAnswer": "b",
-              "explanation": "Die Studentin klagt: 'Die Wohnung an sich ist wunderbar und bezahlbar, aber ich brauche morgens über eine Stunde zur Uni – das nervt wirklich.' Der lange Weg ist also das Hauptproblem. Die Miete ist bezahlbar, und zur Wohnungsgröße sagt sie 'wunderbar'.",
+              "correctAnswer": "a",
+              "explanation": "Elena betont: 'Das Wichtigste für mich ist, wirklich in die Sprache einzutauchen — deshalb möchte ich auf keinen Fall in einem Wohnheim landen, wo alle dieselbe Muttersprache haben. Ich will jeden Tag gezwungen sein, Deutsch zu reden.' Option b klingt naheliegend, ist aber eine false-inference-Falle: Unterricht ist nicht das, was Elena explizit als wichtigsten Plan nennt. Kosten (c) nennt sie als zweitrangig. [Trap used: false-inference (b)]",
               "audioTimestamp": 158
             }
           ]
@@ -269,7 +269,7 @@
                 { "id": "B1_m01_R1_head_h", "label": "h" }
               ],
               "correctAnswer": "e",
-              "explanation": "Überschrift e) 'Sprachtandem gesucht: Deutsch gegen Spanisch' passt genau zu Elena, die eine Tandempartnerin für Deutsch und Spanisch sucht. Alle anderen Angebote betreffen Ämter, Berufswahl, Radfahren, Mieter, Flohmarkt, Steuern oder Nachbarschaftshilfe und treffen Elenas Wunsch nicht."
+              "explanation": "Überschrift e) 'Sprachtandem gesucht: Deutsch gegen Spanisch' passt genau zu Elena, die eine Tandempartnerin für Deutsch und Spanisch sucht. Alle anderen Angebote betreffen Ämter, Berufswahl, Radfahren, Mieter, Flohmarkt, Steuern oder Nachbarschaftshilfe."
             },
             {
               "id": "B1_m01_R1_q2",
@@ -286,7 +286,7 @@
                 { "id": "B1_m01_R1_head_h", "label": "h" }
               ],
               "correctAnswer": "d",
-              "explanation": "Überschrift d) bietet kostenlose Rechtsberatung speziell für Mieter an – genau das, was Herr Becker in seinem Streit um die Nebenkostenabrechnung braucht. Die anderen Angebote betreffen keine Rechtsfragen oder richten sich an andere Zielgruppen."
+              "explanation": "Überschrift d) bietet kostenlose Rechtsberatung speziell für Mieter an – genau das, was Herr Becker in seinem Streit um die Nebenkostenabrechnung braucht. Die anderen Angebote betreffen keine Rechtsfragen."
             },
             {
               "id": "B1_m01_R1_q3",
@@ -303,7 +303,7 @@
                 { "id": "B1_m01_R1_head_h", "label": "h" }
               ],
               "correctAnswer": "b",
-              "explanation": "Überschrift b) kündigt eine Berufsorientierungsmesse für Schulabgänger an – der ideale Ort, um Ausbildung, Studium und andere Wege gemeinsam vorzustellen. Kein anderes Angebot richtet sich an Schulabgänger zur Berufsorientierung."
+              "explanation": "Überschrift b) kündigt eine Berufsorientierungsmesse für Schulabgänger an – der ideale Ort, um Ausbildung, Studium und andere Wege gemeinsam vorzustellen."
             },
             {
               "id": "B1_m01_R1_q4",
@@ -320,7 +320,7 @@
                 { "id": "B1_m01_R1_head_h", "label": "h" }
               ],
               "correctAnswer": "g",
-              "explanation": "Überschrift g) 'Online-Kurs Steuererklärung einfach gemacht' passt perfekt zu Frau Öztürks Bedarf, sich selbst Schritt für Schritt in die Steuererklärung einzuarbeiten. Die anderen Angebote bieten keine Steuerhilfe."
+              "explanation": "Überschrift g) 'Online-Kurs Steuererklärung einfach gemacht' passt perfekt zu Frau Öztürks Bedarf, sich selbst Schritt für Schritt einzuarbeiten. Die anderen Angebote bieten keine Steuerhilfe."
             },
             {
               "id": "B1_m01_R1_q5",
@@ -337,7 +337,7 @@
                 { "id": "B1_m01_R1_head_h", "label": "h" }
               ],
               "correctAnswer": "h",
-              "explanation": "Überschrift h) sucht Freiwillige für einen Einkaufsdienst für ältere Nachbarn – genau die Art von sozialem Engagement, die Jan im Sinn hat. Die restlichen Angebote beziehen sich nicht auf Nachbarschaftshilfe."
+              "explanation": "Überschrift h) sucht Freiwillige für einen Einkaufsdienst für ältere Nachbarn – genau die Art von sozialem Engagement, die Jan im Sinn hat."
             }
           ]
         },
@@ -349,75 +349,80 @@
             {
               "id": "B1_m01_R2_article",
               "type": "article",
-              "content": "Alltag am Bildschirm – wie viel Zeit verbringen wir wirklich online?\n\nEine neue Studie der Universität Leipzig zeigt: Erwachsene in Deutschland verbringen im Durchschnitt fast sechs Stunden pro Tag vor einem Bildschirm. Dazu zählen nicht nur die Stunden im Büro, sondern auch die Nutzung von Smartphone, Tablet und Fernseher am Abend. Vor zehn Jahren lag dieser Wert noch bei knapp drei Stunden – er hat sich also fast verdoppelt.\n\nBesonders auffällig ist, dass viele Befragte die eigene Nutzung deutlich unterschätzen. Fragt man die Teilnehmer, wie lange sie pro Tag am Handy sind, nennen die meisten etwa eineinhalb Stunden. Die Messsoftware auf ihren Geräten zeigt jedoch regelmäßig mehr als drei Stunden. 'Unsere Selbstwahrnehmung und die Realität klaffen oft weit auseinander', erklärt Studienleiterin Dr. Julia Wegener. Dabei spiele es keine Rolle, ob jemand Social Media, E-Mails oder Nachrichtenseiten nutze.\n\nDie Folgen sind nicht zu unterschätzen. Viele Menschen klagen über Schlafprobleme, weil sie abends noch lange auf helle Bildschirme schauen. Auch Nackenschmerzen und trockene Augen treten häufiger auf. Psychologen warnen zusätzlich vor dem Gefühl, immer erreichbar sein zu müssen – dieser Druck führe bei vielen zu innerer Unruhe.\n\nGleichzeitig betont die Studie, dass Bildschirmzeit nicht grundsätzlich schlecht ist. Wer einen Videokurs besucht, mit Freunden im Ausland telefoniert oder eine wichtige Arbeit am Computer erledigt, nutzt die Zeit sinnvoll. Entscheidend sei, so Dr. Wegener, die Qualität der Nutzung. Sie empfiehlt drei einfache Regeln: eine Stunde vor dem Schlafen keine Bildschirme mehr, regelmäßige Pausen beim Arbeiten und mindestens einen Tag pro Woche ohne Social Media. Wer das ausprobiert, berichtet nach wenigen Wochen oft von besserem Schlaf und mehr Energie im Alltag.",
-              "source": "Leipziger Allgemeine, März 2026"
+              "content": "Urlaub mit dem Zug — warum immer mehr Deutsche die Bahn entdecken\n\nEin lauer Sommermorgen in München Hauptbahnhof. Auf Gleis 11 wartet ein ICE nach Hamburg. Familien schieben Koffer, Studenten schleppen Rucksäcke, und ein älteres Pärchen trägt zwei Fahrräder zum Gepäckwagen. Was früher eher die Ausnahme war, wird zur Regel: Immer mehr Deutsche verreisen mit der Bahn statt mit dem Flugzeug.\n\nLaut einer aktuellen Erhebung des Deutschen Reiseverbands hat sich der Anteil der Bahnreisenden unter Urlaubern in den letzten sieben Jahren von 18 auf 31 Prozent erhöht. Gleichzeitig sank die Zahl derer, die für Reisen innerhalb Europas das Flugzeug nutzen, von 47 auf 39 Prozent. 'Die Leute denken pragmatisch', sagt Verkehrsexpertin Dr. Sonja Neumann. 'Wenn man Anreise zum Flughafen, Sicherheitskontrolle und Wartezeit einrechnet, ist der Zug für viele Strecken schlicht schneller und bequemer.'\n\nDabei spielt das Thema Umwelt eine wachsende, aber keineswegs alleinige Rolle. Natürlich geht es auf die Nerven, wenn man stundenlang am Flughafen sitzt, nur weil ein Flug Verspätung hat. Aber viele Reisende nennen auch praktische Gründe: Im Zug kann man arbeiten, lesen oder schlafen, ohne sich um Einschränkungen beim Handgepäck kümmern zu müssen. Kinder dürfen sich frei bewegen, und das große Gepäckstück muss nicht drei Tage früher eingecheckt werden.\n\nBesonders populär sind Nacht- und Fernzüge. Die Österreichischen Bundesbahnen, die ihr Nachtzugnetz in den letzten Jahren stark ausgebaut haben, melden für ihre ÖBB-Nightjet-Verbindungen Buchungsrekorde. Von Wien aus erreicht man inzwischen Barcelona, Brüssel und Amsterdam ohne einen einzigen Flug — und wacht morgens ausgeruht am Ziel auf. 'Viele Kunden sagen uns, dass die Nacht im Zug das Beste an der ganzen Reise war', erzählt ÖBB-Sprecher Klaus Hartmann.\n\nEin Haken bleibt: Die Ticketpreise auf den beliebtesten Strecken können hoch sein, besonders wenn man kurzfristig bucht. Und nicht alle Regionen sind gut angebunden. Auf dem Land muss man oft noch mit dem Auto zum nächsten Bahnhof fahren. Trotzdem: Wer einmal erlebt hat, wie bequem eine Zugreise sein kann, kommt meist nicht mehr zurück zum Billigflieger.",
+              "source": "Reisemagazin Unterwegs, April 2026"
             }
           ],
           "questions": [
             {
               "id": "B1_m01_R2_q1",
               "type": "mcq",
-              "questionText": "Was ist das Hauptergebnis der Studie aus Leipzig?",
+              "questionText": "Was ist laut der Erhebung des Deutschen Reiseverbands in den letzten sieben Jahren passiert?",
               "relatedTextId": "B1_m01_R2_article",
               "options": [
-                "a) Die tägliche Bildschirmzeit ist in zehn Jahren fast doppelt so hoch geworden.",
-                "b) Erwachsene verbringen täglich etwa drei Stunden vor dem Fernseher.",
-                "c) Jugendliche nutzen den Bildschirm deutlich länger als Erwachsene."
+                "a) Der Anteil der Bahnreisenden ist von 31 auf 18 Prozent gesunken.",
+                "b) Der Anteil der Bahnreisenden ist gestiegen und der der Flugreisenden gesunken.",
+                "c) Mehr als die Hälfte der Deutschen fliegt heute innerhalb Europas."
               ],
-              "correctAnswer": "a",
-              "explanation": "Im Text steht: 'Vor zehn Jahren lag dieser Wert noch bei knapp drei Stunden – er hat sich also fast verdoppelt.' Das ist das zentrale Ergebnis. Option b nennt nur eine alte Zahl, und Jugendliche (c) werden im Artikel nicht gesondert verglichen."
+              "correctAnswer": "b",
+              "explanation": "Der Text sagt: 'der Anteil der Bahnreisenden erhöht ... von 18 auf 31 Prozent' und 'der Flugzeuganteil sank von 47 auf 39 Prozent.' Option b fasst beides korrekt zusammen. Option a kehrt die Richtung um (numerical near-miss: 18 und 31 tauchen beide auf, aber vertauscht). Option c ist eine Generalisation: 39 % ist weit unter der Hälfte. [Trap used: numerical near-miss (a), generalisation (c)]",
+              "audioTimestamp": null
             },
             {
               "id": "B1_m01_R2_q2",
               "type": "mcq",
-              "questionText": "Was zeigt die Studie über die Selbstwahrnehmung der Teilnehmer?",
+              "questionText": "Was erklärt Dr. Sonja Neumann als Hauptvorteil des Zuges auf vielen Strecken?",
               "relatedTextId": "B1_m01_R2_article",
               "options": [
-                "a) Die Teilnehmer schätzen ihre Handynutzung korrekt ein.",
-                "b) Die Teilnehmer glauben, weniger am Handy zu sein, als sie tatsächlich sind.",
-                "c) Die Teilnehmer überschätzen ihre Bildschirmzeit deutlich."
+                "a) Das Bahnticket ist günstiger als ein Flugticket.",
+                "b) Wenn man die gesamte Reisezeit rechnet, ist der Zug auf manchen Strecken schneller und bequemer.",
+                "c) Der Zug verursacht weniger CO₂ und ist deshalb umweltfreundlicher."
               ],
               "correctAnswer": "b",
-              "explanation": "Der Text sagt: 'Die meisten nennen etwa eineinhalb Stunden. Die Messsoftware zeigt jedoch regelmäßig mehr als drei Stunden.' Sie glauben also, weniger am Handy zu sein, als sie es tatsächlich sind. Option a widerspricht dem Text, und Option c kehrt das Verhältnis falsch herum."
+              "explanation": "Dr. Neumann wird so zitiert: 'Wenn man Anreise zum Flughafen, Sicherheitskontrolle und Wartezeit einrechnet, ist der Zug schlicht schneller und bequemer.' Preis (a) nennt sie nicht. Umwelt (c) wird im Text erwähnt, aber Dr. Neumann wird diese Aussage nicht zugeschrieben — das ist eine subject-swap-Falle. [Trap used: subject-swap (c)]",
+              "audioTimestamp": null
             },
             {
               "id": "B1_m01_R2_q3",
               "type": "mcq",
-              "questionText": "Welches gesundheitliche Problem wird im Text ausdrücklich erwähnt?",
+              "questionText": "Welchen Vorteil des Zuges nennt der Artikel für Reisende mit Kindern?",
               "relatedTextId": "B1_m01_R2_article",
               "options": [
-                "a) Schlafprobleme durch helle Bildschirme am Abend",
-                "b) starke Kopfschmerzen vor allem am Morgen",
-                "c) Übergewicht durch zu wenig Bewegung"
+                "a) Kinder fahren auf vielen Strecken kostenlos mit.",
+                "b) Kinder können sich im Zug frei bewegen.",
+                "c) Es gibt im Zug spezielle Kinderabteile mit Spielmaterial."
               ],
-              "correctAnswer": "a",
-              "explanation": "Im Text heißt es wörtlich: 'Viele Menschen klagen über Schlafprobleme, weil sie abends noch lange auf helle Bildschirme schauen.' Kopfschmerzen (b) und Übergewicht (c) werden im Artikel nicht genannt."
+              "correctAnswer": "b",
+              "explanation": "Der Text nennt explizit: 'Kinder dürfen sich frei bewegen.' Kostenlose Fahrt (a) und Kinderabteile mit Spielmaterial (c) werden nirgends erwähnt. Option c ist eine false-inference-Falle: 'frei bewegen' klingt nach strukturiertem Raum, bedeutet aber nur die Freiheit zur Bewegung. [Trap used: false-inference (c)]",
+              "audioTimestamp": null
             },
             {
               "id": "B1_m01_R2_q4",
               "type": "mcq",
-              "questionText": "Wie bewertet Dr. Wegener Bildschirmzeit grundsätzlich?",
+              "questionText": "Was berichtet ÖBB-Sprecher Klaus Hartmann über die Nachtzugverbindungen?",
               "relatedTextId": "B1_m01_R2_article",
               "options": [
-                "a) Sie hält jede Bildschirmzeit für gesundheitsschädlich.",
-                "b) Sie findet, dass es nicht auf die Dauer, sondern auf die Art der Nutzung ankommt.",
-                "c) Sie meint, dass nur berufliche Bildschirmzeit akzeptabel ist."
+                "a) Die ÖBB plant, das Nachtzugnetz in den nächsten Jahren weiter auszubauen.",
+                "b) Viele Kunden sagen, dass die Nacht im Zug das Beste an der ganzen Reise war.",
+                "c) Die ÖBB hat das Nachtzugnetz erst vor Kurzem neu eingeführt."
               ],
               "correctAnswer": "b",
-              "explanation": "Dr. Wegener wird so zitiert: 'Entscheidend sei die Qualität der Nutzung.' Der Artikel nennt sinnvolle Nutzungen wie Videokurs oder Telefonieren mit Freunden im Ausland. Option a ist zu pauschal, und Option c wird nirgends gesagt."
+              "explanation": "Hartmann wird direkt zitiert: 'Viele Kunden sagen uns, dass die Nacht im Zug das Beste an der ganzen Reise war.' Option a nutzt einen time-frame-shift: das Netz wurde bereits ausgebaut (Vergangenheit), nicht geplant (Zukunft). Option c widerspricht dem Text: 'in den letzten Jahren stark ausgebaut' — 'eingeführt' (neu) vs 'ausgebaut' (expanded) ist eine lexical false-friend-Falle. [Trap used: time-frame shift (a), lexical false-friend (c)]",
+              "audioTimestamp": null
             },
             {
               "id": "B1_m01_R2_q5",
               "type": "mcq",
-              "questionText": "Welche der folgenden Regeln empfiehlt die Studienleiterin?",
+              "questionText": "Was nennt der Artikel als Nachteil der Bahnreise?",
               "relatedTextId": "B1_m01_R2_article",
               "options": [
-                "a) mindestens eine Woche im Monat komplett offline zu sein",
-                "b) das Smartphone spätestens ab 20 Uhr auszuschalten",
-                "c) eine Stunde vor dem Schlafen keine Bildschirme mehr zu benutzen"
+                "a) Der Zug ist auf langen Strecken deutlich langsamer als das Flugzeug.",
+                "b) In manchen Regionen fehlt eine gute Bahnanbindung, und kurzfristige Tickets können teuer sein.",
+                "c) Man darf im Zug kein großes Gepäck mitnehmen."
               ],
-              "correctAnswer": "c",
-              "explanation": "Der Text listet drei konkrete Empfehlungen auf; die erste lautet wörtlich: 'eine Stunde vor dem Schlafen keine Bildschirme mehr.' Option a ist überzogen (nur ein Tag pro Woche ohne Social Media wird empfohlen), und die feste Uhrzeit 20 Uhr in Option b steht nicht im Text."
+              "correctAnswer": "b",
+              "explanation": "Der Text nennt zwei Nachteile: hohe Ticketpreise bei kurzfristiger Buchung und schlechte Anbindung im ländlichen Bereich. Option a dreht das Argument um — der Text sagt, der Zug sei auf manchen Strecken schneller, nicht langsamer (causal reversal). Option c ist das Gegenteil des Artikelinhalts: kein Handgepäck-Limit ist ein genannter Vorteil — 'kein großes Gepäck erlaubt' kehrt das Gesagte um (voice/mood swap). [Trap used: causal reversal (a), voice/mood swap (c)]",
+              "audioTimestamp": null
             }
           ]
         },
@@ -426,84 +431,24 @@
           "instructions": "Sie lesen zehn Situationen (1–10) und zwölf kurze Anzeigen (a–l). Welche Anzeige passt zu welcher Situation? Für jede Situation gibt es genau eine passende Anzeige. Zwei Anzeigen bleiben übrig. Wenn keine Anzeige passt, schreiben Sie 'x'.",
           "instructionsTranslation": "You read ten situations (1–10) and twelve short advertisements (a–l). Which advertisement matches which situation? For each situation there is exactly one matching advertisement. Two advertisements remain unused. If no advertisement fits, write 'x'.",
           "texts": [
-            { "id": "B1_m01_R3_ad_a", "type": "ad", "content": "a) FITNESSSTUDIO SPORTPLUS – Monatlich 29,90 € ohne Mindestlaufzeit. Kurse inklusive: Yoga, Pilates, Zumba. Geöffnet täglich 6–23 Uhr. www.sportplus.de" },
-            { "id": "B1_m01_R3_ad_b", "type": "ad", "content": "b) Hundesitter gesucht – Familie mit kleinem Hund sucht zuverlässige Betreuung an Wochenenden (Fr–So). 15 €/Stunde, eigenes Zuhause bevorzugt. Tel. 030 445 12 88" },
-            { "id": "B1_m01_R3_ad_c", "type": "ad", "content": "c) Möbeltransport – Günstig umziehen in Berlin und Umgebung. Ab 40 €/Stunde inkl. zwei Helfern und Transporter. Auch am Wochenende. Sofortangebot: 0176 223 99 41" },
-            { "id": "B1_m01_R3_ad_d", "type": "ad", "content": "d) Klavierunterricht für Anfänger und Fortgeschrittene. Einzelstunden (45 Min.) bei Ihnen zu Hause oder im Studio. 35 €/Stunde. Erste Probestunde kostenlos. kontakt@klavierhaus-berlin.de" },
-            { "id": "B1_m01_R3_ad_e", "type": "ad", "content": "e) GEBRAUCHTES FAHRRAD zu verkaufen – Damenrad, 7 Gänge, gut erhalten, Preis VB 120 €. Übergabe in Berlin-Charlottenburg. Mail: lisa.becker@mail.de" },
-            { "id": "B1_m01_R3_ad_f", "type": "ad", "content": "f) Kinderbetreuung in Tagesmutter-Gruppe (max. 5 Kinder, 1–3 Jahre). Montag bis Freitag 8–16 Uhr. Freundliche Atmosphäre, pädagogisch ausgebildet. Anmeldung: Frau Meier, 030 887 44 02" },
-            { "id": "B1_m01_R3_ad_g", "type": "ad", "content": "g) WG-Zimmer in 3er-WG frei ab 1. Mai. 18 m², möbliert, 450 € warm, Nähe Prenzlauer Berg. Studenten bevorzugt. Bewerbung mit kurzem Steckbrief an wg-pberg@gmx.de" },
-            { "id": "B1_m01_R3_ad_h", "type": "ad", "content": "h) Konversationskurs Deutsch (B1/B2) – 10 Einheiten à 90 Min., dienstags 19–20:30 Uhr. Kleine Gruppe, zertifizierte Lehrerin. Preis: 180 €. Anmeldung: deutschkreis@mail.de" },
-            { "id": "B1_m01_R3_ad_i", "type": "ad", "content": "i) Fahrrad-Werkstatt 'Die Kette' – Reparaturen aller Marken innerhalb von 24 Stunden. Inspektion ab 39 €. Di–Sa 10–18 Uhr, Friedrichstr. 44. Tel. 030 334 78 90" },
-            { "id": "B1_m01_R3_ad_j", "type": "ad", "content": "j) Bio-Kochkurs am Wochenende – Saisonale Küche mit regionalen Produkten. Samstag 11–15 Uhr, 65 € inklusive Zutaten. Anmeldung: www.koch-natur.de/termine" },
-            { "id": "B1_m01_R3_ad_k", "type": "ad", "content": "k) Gartenhilfe gesucht – Unser Schrebergarten in Pankow braucht Unterstützung beim Umgraben und Rasenmähen (ca. 2x pro Monat, samstags). 12 €/Stunde. Tel. 0151 223 88 11" },
-            { "id": "B1_m01_R3_ad_l", "type": "ad", "content": "l) Zahnarztpraxis Dr. Wagner – Neue Patienten willkommen. Termine auch abends bis 20 Uhr. Barrierefrei. Ringstr. 12, Termin online: www.praxis-wagner.de" }
+            { "id": "B1_m01_R3_ad_a", "type": "ad", "content": "a) HOTEL SEEBLICK — Doppelzimmer ab 89 €/Nacht inkl. Frühstücksbuffet. Direkter Seezugang, kostenlose Parkplätze. Familienfreundlich: Kinder bis 12 Jahre kostenlos. Montag–Freitag Sonderpreise. Tel. 08022 / 4451-0." },
+            { "id": "B1_m01_R3_ad_b", "type": "ad", "content": "b) Hostel City-Star — Schlafsaal (6 Betten) 18 €/Nacht, Einzelzimmer 49 €. Zentral gelegen, 5 Minuten vom Hauptbahnhof. WLAN kostenlos. Keine Altersgrenze. Buchung: www.citystar-hostel.de" },
+            { "id": "B1_m01_R3_ad_c", "type": "ad", "content": "c) Ferienwohnung Alpenpanorama — 2 Zimmer, 55 m², für 2–4 Personen. Voll ausgestattet, Terrasse mit Bergblick. Ab 95 €/Nacht, Mindestaufenthalt 3 Nächte. Haustiere willkommen. Familie Gruber, 0664 / 887 23 11" },
+            { "id": "B1_m01_R3_ad_d", "type": "ad", "content": "d) REISEBÜRO FERNWEH — Wir planen Ihre Traumreise! Gruppenreisen, Familienurlaub, Einzelreisen. Persönliche Beratung Montag–Samstag 9–18 Uhr, Goethestraße 12. Keine Online-Buchung — persönliche Beratung zählt." },
+            { "id": "B1_m01_R3_ad_e", "type": "ad", "content": "e) CAMPING WALDFRIEDEN — Stellplätze ab 12 €/Nacht, Mobilheime ab 55 €. Sanitäranlagen renoviert 2024, Spielplatz, kleines Café. Hunde erlaubt. Saison April–Oktober. Reservierung empfohlen: camping-waldfrieden.de" },
+            { "id": "B1_m01_R3_ad_f", "type": "ad", "content": "f) LAST-MINUTE ANGEBOTE — Bis zu 40 % Rabatt auf ausgewählte Pauschalreisen! Abflug ab Frankfurt in den nächsten 14 Tagen. Mallorca ab 299 €, Türkei ab 349 €, Ägypten ab 419 €. Nur solange Plätze verfügbar! Tel. 069 / 771 88 22" },
+            { "id": "B1_m01_R3_ad_g", "type": "ad", "content": "g) Pension Zum Goldenen Löwen — Ruhige Lage, 10 Minuten vom Stadtzentrum. Zimmer mit Frühstück ab 65 €. Kein Aufzug. Langzeitgäste (ab 7 Nächte) erhalten 15 % Rabatt. Tel. 0911 / 334 56" },
+            { "id": "B1_m01_R3_ad_h", "type": "ad", "content": "h) GRUPPENREISE ALPENRADTOUR — 7 Tage Radwandern durch Österreich. Geführte Tour, max. 12 Teilnehmer. Übernachtung in kleinen Gasthöfen, Gepäcktransport inklusive. Preis: 890 € p.P. (ohne Anreise). Anmeldung bis 30 Tage vor Abfahrt: alpentour@mail.at" },
+            { "id": "B1_m01_R3_ad_i", "type": "ad", "content": "i) APARTHOTEL STADTBLICK — Studios und 1-Zimmer-Apartments mit Küchenzeile. Ab 1 Woche buchbar, 70 €/Nacht. Wäscheservice, Tiefgarage, Rezeption 24h. Ideal für längere Aufenthalte und Geschäftsreisende. www.stadtblick-apartments.de" },
+            { "id": "B1_m01_R3_ad_j", "type": "ad", "content": "j) Jugendherberge Rheintal — DJH-Mitglieder: 22 €/Nacht inkl. Halbpension. Nicht-Mitglieder: 28 €. Mehrbettzimmer und Doppelzimmer. Schulklassen und Gruppen willkommen. Kein Alkohol auf dem Gelände. Online-Buchung: djh.de" },
+            { "id": "B1_m01_R3_ad_k", "type": "ad", "content": "k) Luxushotel Grand Palace — Fünf-Sterne-Komfort im Herzen der Stadt. Zimmer ab 280 €/Nacht, Suite ab 550 €. Spa, Pool, 2 Restaurants. Valet-Parking. Exklusiv für Erwachsene. Reservierung: grandpalace.de" },
+            { "id": "B1_m01_R3_ad_l", "type": "ad", "content": "l) Privatzimmer bei Familie Baumann — Ruhiges Zimmer mit Frühstück in Familienwohnung. 45 €/Nacht, 1 Person. Nutzung Küche gegen Absprache. Nichtraucher, keine Haustiere. Bus Linie 22. Kontakt: A. Baumann, 0731 / 556 87 43" }
           ],
           "questions": [
             {
               "id": "B1_m01_R3_q1",
               "type": "matching",
-              "questionText": "1. Julia zieht nächsten Monat in eine neue Wohnung um und braucht jemanden, der beim Möbeltransport mithilft – auch am Wochenende.",
-              "matchingSources": [
-                { "id": "B1_m01_R3_ad_a", "label": "a" }, { "id": "B1_m01_R3_ad_b", "label": "b" },
-                { "id": "B1_m01_R3_ad_c", "label": "c" }, { "id": "B1_m01_R3_ad_d", "label": "d" },
-                { "id": "B1_m01_R3_ad_e", "label": "e" }, { "id": "B1_m01_R3_ad_f", "label": "f" },
-                { "id": "B1_m01_R3_ad_g", "label": "g" }, { "id": "B1_m01_R3_ad_h", "label": "h" },
-                { "id": "B1_m01_R3_ad_i", "label": "i" }, { "id": "B1_m01_R3_ad_j", "label": "j" },
-                { "id": "B1_m01_R3_ad_k", "label": "k" }, { "id": "B1_m01_R3_ad_l", "label": "l" }
-              ],
-              "correctAnswer": "c",
-              "explanation": "Anzeige c) 'Möbeltransport – Günstig umziehen ... auch am Wochenende' passt exakt zu Julias Bedarf. Keine andere Anzeige bietet Umzugshilfe."
-            },
-            {
-              "id": "B1_m01_R3_q2",
-              "type": "matching",
-              "questionText": "2. Herr Kowalski hat seit zwei Jahren nicht mehr Klavier gespielt und möchte wieder regelmäßig Unterricht nehmen, am liebsten bei sich zu Hause.",
-              "matchingSources": [
-                { "id": "B1_m01_R3_ad_a", "label": "a" }, { "id": "B1_m01_R3_ad_b", "label": "b" },
-                { "id": "B1_m01_R3_ad_c", "label": "c" }, { "id": "B1_m01_R3_ad_d", "label": "d" },
-                { "id": "B1_m01_R3_ad_e", "label": "e" }, { "id": "B1_m01_R3_ad_f", "label": "f" },
-                { "id": "B1_m01_R3_ad_g", "label": "g" }, { "id": "B1_m01_R3_ad_h", "label": "h" },
-                { "id": "B1_m01_R3_ad_i", "label": "i" }, { "id": "B1_m01_R3_ad_j", "label": "j" },
-                { "id": "B1_m01_R3_ad_k", "label": "k" }, { "id": "B1_m01_R3_ad_l", "label": "l" }
-              ],
-              "correctAnswer": "d",
-              "explanation": "Anzeige d) bietet Klavierunterricht für Anfänger und Fortgeschrittene an – auch bei Schülern zu Hause. Das passt genau zu Herrn Kowalski."
-            },
-            {
-              "id": "B1_m01_R3_q3",
-              "type": "matching",
-              "questionText": "3. Die Familie Schulze fährt von Freitag bis Sonntag zur Hochzeit ihrer Nichte und sucht jemanden, der in dieser Zeit ihren kleinen Hund betreut.",
-              "matchingSources": [
-                { "id": "B1_m01_R3_ad_a", "label": "a" }, { "id": "B1_m01_R3_ad_b", "label": "b" },
-                { "id": "B1_m01_R3_ad_c", "label": "c" }, { "id": "B1_m01_R3_ad_d", "label": "d" },
-                { "id": "B1_m01_R3_ad_e", "label": "e" }, { "id": "B1_m01_R3_ad_f", "label": "f" },
-                { "id": "B1_m01_R3_ad_g", "label": "g" }, { "id": "B1_m01_R3_ad_h", "label": "h" },
-                { "id": "B1_m01_R3_ad_i", "label": "i" }, { "id": "B1_m01_R3_ad_j", "label": "j" },
-                { "id": "B1_m01_R3_ad_k", "label": "k" }, { "id": "B1_m01_R3_ad_l", "label": "l" }
-              ],
-              "correctAnswer": "b",
-              "explanation": "Allerdings sucht Anzeige b) eine Hundebetreuung am Wochenende (Fr–So) – aber aus Sicht einer anderen Familie, die einen Hundesitter anbietet. Die Situation passt trotzdem: Hundebetreuung an genau diesen Tagen. Das Angebot unter b) ist das einzige, das sich auf Hundebetreuung bezieht und genau den geforderten Zeitraum abdeckt."
-            },
-            {
-              "id": "B1_m01_R3_q4",
-              "type": "matching",
-              "questionText": "4. Anna ist vor einem Monat nach Berlin gezogen und möchte ihr Deutsch durch regelmäßige Konversation in einer kleinen Gruppe verbessern.",
-              "matchingSources": [
-                { "id": "B1_m01_R3_ad_a", "label": "a" }, { "id": "B1_m01_R3_ad_b", "label": "b" },
-                { "id": "B1_m01_R3_ad_c", "label": "c" }, { "id": "B1_m01_R3_ad_d", "label": "d" },
-                { "id": "B1_m01_R3_ad_e", "label": "e" }, { "id": "B1_m01_R3_ad_f", "label": "f" },
-                { "id": "B1_m01_R3_ad_g", "label": "g" }, { "id": "B1_m01_R3_ad_h", "label": "h" },
-                { "id": "B1_m01_R3_ad_i", "label": "i" }, { "id": "B1_m01_R3_ad_j", "label": "j" },
-                { "id": "B1_m01_R3_ad_k", "label": "k" }, { "id": "B1_m01_R3_ad_l", "label": "l" }
-              ],
-              "correctAnswer": "h",
-              "explanation": "Anzeige h) bietet einen Konversationskurs B1/B2 in einer kleinen Gruppe an – ideal für Annas Ziel. Andere Anzeigen betreffen keine Sprachkurse."
-            },
-            {
-              "id": "B1_m01_R3_q5",
-              "type": "matching",
-              "questionText": "5. Tom hat beim Radfahren eine Speiche gebrochen und braucht sein Fahrrad möglichst bis morgen wieder einsatzbereit, weil er damit täglich zur Arbeit fährt.",
+              "questionText": "1. Herr Petrov ist für drei Wochen Gastdozent an einer deutschen Universität und sucht eine Unterkunft, in der er auch selbst kochen kann.",
               "matchingSources": [
                 { "id": "B1_m01_R3_ad_a", "label": "a" }, { "id": "B1_m01_R3_ad_b", "label": "b" },
                 { "id": "B1_m01_R3_ad_c", "label": "c" }, { "id": "B1_m01_R3_ad_d", "label": "d" },
@@ -513,72 +458,12 @@
                 { "id": "B1_m01_R3_ad_k", "label": "k" }, { "id": "B1_m01_R3_ad_l", "label": "l" }
               ],
               "correctAnswer": "i",
-              "explanation": "Anzeige i) wirbt mit 'Reparaturen aller Marken innerhalb von 24 Stunden'. Das ist genau die Dringlichkeit, die Tom braucht. Anzeige e) verkauft ein gebrauchtes Rad, aber repariert keines."
+              "explanation": "Anzeige i) bietet Apartments mit Küchenzeile, ist ab 1 Woche buchbar und eignet sich laut Text ausdrücklich für längere Aufenthalte und Geschäftsreisende. Anzeige c (Ferienwohnung) hat auch eine Küche, aber der Mindestaufenthalt von 3 Nächten und die ländliche Berglage passen nicht zu einem Gastdozenten an einer städtischen Universität."
             },
             {
-              "id": "B1_m01_R3_q6",
+              "id": "B1_m01_R3_q2",
               "type": "matching",
-              "questionText": "6. Susanne und Markus bekommen in drei Monaten ihr erstes Kind. Sie planen schon, in welcher Tagesbetreuung ihre Tochter später einen Platz bekommen könnte.",
-              "matchingSources": [
-                { "id": "B1_m01_R3_ad_a", "label": "a" }, { "id": "B1_m01_R3_ad_b", "label": "b" },
-                { "id": "B1_m01_R3_ad_c", "label": "c" }, { "id": "B1_m01_R3_ad_d", "label": "d" },
-                { "id": "B1_m01_R3_ad_e", "label": "e" }, { "id": "B1_m01_R3_ad_f", "label": "f" },
-                { "id": "B1_m01_R3_ad_g", "label": "g" }, { "id": "B1_m01_R3_ad_h", "label": "h" },
-                { "id": "B1_m01_R3_ad_i", "label": "i" }, { "id": "B1_m01_R3_ad_j", "label": "j" },
-                { "id": "B1_m01_R3_ad_k", "label": "k" }, { "id": "B1_m01_R3_ad_l", "label": "l" }
-              ],
-              "correctAnswer": "f",
-              "explanation": "Anzeige f) bietet eine Tagesmuttergruppe für Kinder von 1–3 Jahren an – genau das, wonach Susanne und Markus für ihre Tochter in einigen Monaten suchen."
-            },
-            {
-              "id": "B1_m01_R3_q7",
-              "type": "matching",
-              "questionText": "7. Nina studiert im dritten Semester und sucht ab Mai ein günstiges Zimmer in einer WG in Berlin.",
-              "matchingSources": [
-                { "id": "B1_m01_R3_ad_a", "label": "a" }, { "id": "B1_m01_R3_ad_b", "label": "b" },
-                { "id": "B1_m01_R3_ad_c", "label": "c" }, { "id": "B1_m01_R3_ad_d", "label": "d" },
-                { "id": "B1_m01_R3_ad_e", "label": "e" }, { "id": "B1_m01_R3_ad_f", "label": "f" },
-                { "id": "B1_m01_R3_ad_g", "label": "g" }, { "id": "B1_m01_R3_ad_h", "label": "h" },
-                { "id": "B1_m01_R3_ad_i", "label": "i" }, { "id": "B1_m01_R3_ad_j", "label": "j" },
-                { "id": "B1_m01_R3_ad_k", "label": "k" }, { "id": "B1_m01_R3_ad_l", "label": "l" }
-              ],
-              "correctAnswer": "g",
-              "explanation": "Anzeige g) bietet ein WG-Zimmer ab 1. Mai, 450 € warm, Studenten bevorzugt – ideal für Ninas Bedarf."
-            },
-            {
-              "id": "B1_m01_R3_q8",
-              "type": "matching",
-              "questionText": "8. Herr Akbar arbeitet tagsüber im Büro und sucht einen Zahnarzt, bei dem er nach Feierabend einen Termin bekommen kann.",
-              "matchingSources": [
-                { "id": "B1_m01_R3_ad_a", "label": "a" }, { "id": "B1_m01_R3_ad_b", "label": "b" },
-                { "id": "B1_m01_R3_ad_c", "label": "c" }, { "id": "B1_m01_R3_ad_d", "label": "d" },
-                { "id": "B1_m01_R3_ad_e", "label": "e" }, { "id": "B1_m01_R3_ad_f", "label": "f" },
-                { "id": "B1_m01_R3_ad_g", "label": "g" }, { "id": "B1_m01_R3_ad_h", "label": "h" },
-                { "id": "B1_m01_R3_ad_i", "label": "i" }, { "id": "B1_m01_R3_ad_j", "label": "j" },
-                { "id": "B1_m01_R3_ad_k", "label": "k" }, { "id": "B1_m01_R3_ad_l", "label": "l" }
-              ],
-              "correctAnswer": "l",
-              "explanation": "Anzeige l) Zahnarztpraxis Dr. Wagner bietet Termine auch abends bis 20 Uhr – genau das, was Herr Akbar braucht."
-            },
-            {
-              "id": "B1_m01_R3_q9",
-              "type": "matching",
-              "questionText": "9. Herr Schneider ist Rentner, hat einen großen Garten, aber seit seiner Knieoperation nicht mehr die Kraft für das Umgraben und den Rasen.",
-              "matchingSources": [
-                { "id": "B1_m01_R3_ad_a", "label": "a" }, { "id": "B1_m01_R3_ad_b", "label": "b" },
-                { "id": "B1_m01_R3_ad_c", "label": "c" }, { "id": "B1_m01_R3_ad_d", "label": "d" },
-                { "id": "B1_m01_R3_ad_e", "label": "e" }, { "id": "B1_m01_R3_ad_f", "label": "f" },
-                { "id": "B1_m01_R3_ad_g", "label": "g" }, { "id": "B1_m01_R3_ad_h", "label": "h" },
-                { "id": "B1_m01_R3_ad_i", "label": "i" }, { "id": "B1_m01_R3_ad_j", "label": "j" },
-                { "id": "B1_m01_R3_ad_k", "label": "k" }, { "id": "B1_m01_R3_ad_l", "label": "l" }
-              ],
-              "correctAnswer": "k",
-              "explanation": "Situation 9 ist fast das Spiegelbild von Anzeige k): In k) sucht jemand Gartenhilfe beim Umgraben und Rasenmähen. Für Herrn Schneider ist das also das passende Angebot."
-            },
-            {
-              "id": "B1_m01_R3_q10",
-              "type": "matching",
-              "questionText": "10. Frau Ivanovic möchte ihre Ernährung umstellen und freut sich darauf, am Wochenende saisonale Gerichte mit Bio-Zutaten selbst kochen zu lernen.",
+              "questionText": "2. Die Schulklasse 8b plant eine viertägige Klassenfahrt. Die Lehrerin sucht eine günstige Unterkunft mit Verpflegung für alle 22 Schüler.",
               "matchingSources": [
                 { "id": "B1_m01_R3_ad_a", "label": "a" }, { "id": "B1_m01_R3_ad_b", "label": "b" },
                 { "id": "B1_m01_R3_ad_c", "label": "c" }, { "id": "B1_m01_R3_ad_d", "label": "d" },
@@ -588,7 +473,127 @@
                 { "id": "B1_m01_R3_ad_k", "label": "k" }, { "id": "B1_m01_R3_ad_l", "label": "l" }
               ],
               "correctAnswer": "j",
-              "explanation": "Anzeige j) wirbt einen Bio-Kochkurs mit saisonaler, regionaler Küche am Wochenende – genau das, was Frau Ivanovic sucht. Anzeigen a) (Fitness) und e) (Fahrrad-Verkauf) bleiben unter den 12 Anzeigen als Distraktoren übrig und passen zu keiner Situation."
+              "explanation": "Anzeige j) Jugendherberge ist günstig (ab 22 €), bietet Halbpension und heißt Schulklassen und Gruppen ausdrücklich willkommen — ideal für 22 Schüler. Anzeige b (Hostel) ist ebenfalls günstig, bietet aber keine Verpflegung."
+            },
+            {
+              "id": "B1_m01_R3_q3",
+              "type": "matching",
+              "questionText": "3. Familie Meier möchte eine Woche in die Berge. Sie haben zwei Kinder (9 und 13 Jahre) und einen Hund und suchen eine Unterkunft in der Natur, wo alle gut Platz haben.",
+              "matchingSources": [
+                { "id": "B1_m01_R3_ad_a", "label": "a" }, { "id": "B1_m01_R3_ad_b", "label": "b" },
+                { "id": "B1_m01_R3_ad_c", "label": "c" }, { "id": "B1_m01_R3_ad_d", "label": "d" },
+                { "id": "B1_m01_R3_ad_e", "label": "e" }, { "id": "B1_m01_R3_ad_f", "label": "f" },
+                { "id": "B1_m01_R3_ad_g", "label": "g" }, { "id": "B1_m01_R3_ad_h", "label": "h" },
+                { "id": "B1_m01_R3_ad_i", "label": "i" }, { "id": "B1_m01_R3_ad_j", "label": "j" },
+                { "id": "B1_m01_R3_ad_k", "label": "k" }, { "id": "B1_m01_R3_ad_l", "label": "l" }
+              ],
+              "correctAnswer": "c",
+              "explanation": "Anzeige c) Ferienwohnung Alpenpanorama: Bergblick, Platz für 2–4 Personen, Haustiere willkommen, für eine Woche buchbar. Anzeige a (Hotel Seeblick) erwähnt Kinder kostenlos, liegt aber am See, nicht in den Bergen, und Haustiere werden nicht erwähnt."
+            },
+            {
+              "id": "B1_m01_R3_q4",
+              "type": "matching",
+              "questionText": "4. Herr und Frau Klein feiern ihren 25. Hochzeitstag und wollen sich an einem besonderen Wochenende etwas gönnen: Spa, Pool, erstklassiges Restaurant — Preis ist zweitrangig.",
+              "matchingSources": [
+                { "id": "B1_m01_R3_ad_a", "label": "a" }, { "id": "B1_m01_R3_ad_b", "label": "b" },
+                { "id": "B1_m01_R3_ad_c", "label": "c" }, { "id": "B1_m01_R3_ad_d", "label": "d" },
+                { "id": "B1_m01_R3_ad_e", "label": "e" }, { "id": "B1_m01_R3_ad_f", "label": "f" },
+                { "id": "B1_m01_R3_ad_g", "label": "g" }, { "id": "B1_m01_R3_ad_h", "label": "h" },
+                { "id": "B1_m01_R3_ad_i", "label": "i" }, { "id": "B1_m01_R3_ad_j", "label": "j" },
+                { "id": "B1_m01_R3_ad_k", "label": "k" }, { "id": "B1_m01_R3_ad_l", "label": "l" }
+              ],
+              "correctAnswer": "k",
+              "explanation": "Anzeige k) Grand Palace bietet Fünf-Sterne, Spa, Pool, 2 Restaurants — exklusiv für Erwachsene, was für das Paar kein Problem ist. Anzeige a (Hotel Seeblick) hätte Frühstück, aber keinen Spa oder Pool."
+            },
+            {
+              "id": "B1_m01_R3_q5",
+              "type": "matching",
+              "questionText": "5. Lars und seine zwei Freunde sind 22 Jahre alt und wollen so billig wie möglich ein langes Wochenende in einer fremden Stadt verbringen. Sie schlafen gern im Mehrbettzimmer.",
+              "matchingSources": [
+                { "id": "B1_m01_R3_ad_a", "label": "a" }, { "id": "B1_m01_R3_ad_b", "label": "b" },
+                { "id": "B1_m01_R3_ad_c", "label": "c" }, { "id": "B1_m01_R3_ad_d", "label": "d" },
+                { "id": "B1_m01_R3_ad_e", "label": "e" }, { "id": "B1_m01_R3_ad_f", "label": "f" },
+                { "id": "B1_m01_R3_ad_g", "label": "g" }, { "id": "B1_m01_R3_ad_h", "label": "h" },
+                { "id": "B1_m01_R3_ad_i", "label": "i" }, { "id": "B1_m01_R3_ad_j", "label": "j" },
+                { "id": "B1_m01_R3_ad_k", "label": "k" }, { "id": "B1_m01_R3_ad_l", "label": "l" }
+              ],
+              "correctAnswer": "b",
+              "explanation": "Anzeige b) Hostel City-Star hat Mehrbettzimmer ab 18 € und keine Altersgrenze — ideal für drei junge Sparreisende zentral in der Stadt. Anzeige j (Jugendherberge) ist ebenfalls günstig, richtet sich aber eher an Schulgruppen und bietet Halbpension, die Lars nicht unbedingt will."
+            },
+            {
+              "id": "B1_m01_R3_q6",
+              "type": "matching",
+              "questionText": "6. Frau Hofer fährt spontan nächste Woche in den Urlaub. Sie hat noch nichts gebucht und möchte für wenig Geld ans Meer.",
+              "matchingSources": [
+                { "id": "B1_m01_R3_ad_a", "label": "a" }, { "id": "B1_m01_R3_ad_b", "label": "b" },
+                { "id": "B1_m01_R3_ad_c", "label": "c" }, { "id": "B1_m01_R3_ad_d", "label": "d" },
+                { "id": "B1_m01_R3_ad_e", "label": "e" }, { "id": "B1_m01_R3_ad_f", "label": "f" },
+                { "id": "B1_m01_R3_ad_g", "label": "g" }, { "id": "B1_m01_R3_ad_h", "label": "h" },
+                { "id": "B1_m01_R3_ad_i", "label": "i" }, { "id": "B1_m01_R3_ad_j", "label": "j" },
+                { "id": "B1_m01_R3_ad_k", "label": "k" }, { "id": "B1_m01_R3_ad_l", "label": "l" }
+              ],
+              "correctAnswer": "f",
+              "explanation": "Anzeige f) Last-Minute bietet bis zu 40 % Rabatt auf Pauschalreisen mit Abflug in den nächsten 14 Tagen — Mallorca und andere Mittelmeerziele sind enthalten. Spontan + günstig + Meer ist genau das Last-Minute-Profil."
+            },
+            {
+              "id": "B1_m01_R3_q7",
+              "type": "matching",
+              "questionText": "7. Herr Wiegand ist zwei Monate im Ausland und sucht für seine 72-jährige Mutter eine ruhige, preiswerte Unterkunft nahe einer Stadt — sie bleibt ungefähr zehn Tage.",
+              "matchingSources": [
+                { "id": "B1_m01_R3_ad_a", "label": "a" }, { "id": "B1_m01_R3_ad_b", "label": "b" },
+                { "id": "B1_m01_R3_ad_c", "label": "c" }, { "id": "B1_m01_R3_ad_d", "label": "d" },
+                { "id": "B1_m01_R3_ad_e", "label": "e" }, { "id": "B1_m01_R3_ad_f", "label": "f" },
+                { "id": "B1_m01_R3_ad_g", "label": "g" }, { "id": "B1_m01_R3_ad_h", "label": "h" },
+                { "id": "B1_m01_R3_ad_i", "label": "i" }, { "id": "B1_m01_R3_ad_j", "label": "j" },
+                { "id": "B1_m01_R3_ad_k", "label": "k" }, { "id": "B1_m01_R3_ad_l", "label": "l" }
+              ],
+              "correctAnswer": "g",
+              "explanation": "Anzeige g) Pension ist ruhig, stadtnahe und bietet 15 % Rabatt ab 7 Nächten — für 10 Nächte gilt dieser Vorteil. 65 € mit Frühstück ist preiswert für eine ältere Dame, die Komfort braucht. Anzeige l (Privatzimmer) ist noch günstiger, aber nur für 1 Person und ohne Rabatt für längere Aufenthalte."
+            },
+            {
+              "id": "B1_m01_R3_q8",
+              "type": "matching",
+              "questionText": "8. Eine Gruppe von fünf sportbegeisterten Freunden sucht ein geführtes Raderlebnis im Gebirge mit Übernachtung und organisiertem Gepäcktransport.",
+              "matchingSources": [
+                { "id": "B1_m01_R3_ad_a", "label": "a" }, { "id": "B1_m01_R3_ad_b", "label": "b" },
+                { "id": "B1_m01_R3_ad_c", "label": "c" }, { "id": "B1_m01_R3_ad_d", "label": "d" },
+                { "id": "B1_m01_R3_ad_e", "label": "e" }, { "id": "B1_m01_R3_ad_f", "label": "f" },
+                { "id": "B1_m01_R3_ad_g", "label": "g" }, { "id": "B1_m01_R3_ad_h", "label": "h" },
+                { "id": "B1_m01_R3_ad_i", "label": "i" }, { "id": "B1_m01_R3_ad_j", "label": "j" },
+                { "id": "B1_m01_R3_ad_k", "label": "k" }, { "id": "B1_m01_R3_ad_l", "label": "l" }
+              ],
+              "correctAnswer": "h",
+              "explanation": "Anzeige h) Alpenradtour: geführte Radtour, Alpen, Übernachtung in Gasthöfen, Gepäcktransport inklusive, max. 12 Teilnehmer — die Gruppe von 5 passt problemlos."
+            },
+            {
+              "id": "B1_m01_R3_q9",
+              "type": "matching",
+              "questionText": "9. Markus und Silke zelten gern und möchten mit ihrem kleinen Hund vier Nächte auf einem Campingplatz mit moderner Ausstattung verbringen.",
+              "matchingSources": [
+                { "id": "B1_m01_R3_ad_a", "label": "a" }, { "id": "B1_m01_R3_ad_b", "label": "b" },
+                { "id": "B1_m01_R3_ad_c", "label": "c" }, { "id": "B1_m01_R3_ad_d", "label": "d" },
+                { "id": "B1_m01_R3_ad_e", "label": "e" }, { "id": "B1_m01_R3_ad_f", "label": "f" },
+                { "id": "B1_m01_R3_ad_g", "label": "g" }, { "id": "B1_m01_R3_ad_h", "label": "h" },
+                { "id": "B1_m01_R3_ad_i", "label": "i" }, { "id": "B1_m01_R3_ad_j", "label": "j" },
+                { "id": "B1_m01_R3_ad_k", "label": "k" }, { "id": "B1_m01_R3_ad_l", "label": "l" }
+              ],
+              "correctAnswer": "e",
+              "explanation": "Anzeige e) Camping Waldfrieden: Stellplätze zum Zelten, renovierte Sanitäranlagen (= modern), Hunde erlaubt. Anzeige c (Ferienwohnung) erlaubt zwar Haustiere, ist aber keine Campingoption."
+            },
+            {
+              "id": "B1_m01_R3_q10",
+              "type": "matching",
+              "questionText": "10. Frau Sommer (68) reist zum ersten Mal nach Südeuropa und möchte von einem Fachmann beraten werden, welches Ziel und welches Angebot am besten zu ihr passt.",
+              "matchingSources": [
+                { "id": "B1_m01_R3_ad_a", "label": "a" }, { "id": "B1_m01_R3_ad_b", "label": "b" },
+                { "id": "B1_m01_R3_ad_c", "label": "c" }, { "id": "B1_m01_R3_ad_d", "label": "d" },
+                { "id": "B1_m01_R3_ad_e", "label": "e" }, { "id": "B1_m01_R3_ad_f", "label": "f" },
+                { "id": "B1_m01_R3_ad_g", "label": "g" }, { "id": "B1_m01_R3_ad_h", "label": "h" },
+                { "id": "B1_m01_R3_ad_i", "label": "i" }, { "id": "B1_m01_R3_ad_j", "label": "j" },
+                { "id": "B1_m01_R3_ad_k", "label": "k" }, { "id": "B1_m01_R3_ad_l", "label": "l" }
+              ],
+              "correctAnswer": "d",
+              "explanation": "Anzeige d) Reisebüro Fernweh: persönliche Beratung vor Ort, alle Reisetypen, und betont 'keine Online-Buchung — persönliche Beratung zählt' — ideal für eine Erstreisende, die Hilfe bei der Entscheidung braucht. Übrig bleiben Anzeige a (Hotel Seeblick) und Anzeige l (Privatzimmer) als Distraktoren."
             }
           ]
         }
@@ -606,187 +611,187 @@
               "type": "mcq",
               "options": ["a) in", "b) an", "c) bei"],
               "correctAnswer": "c",
-              "explanation": "Bei Arbeitgebern verwendet man 'bei' + Dativ: 'bei der Firma / bei der Agentur arbeiten'. 'in' ist bei Stadt/Gebäude möglich, aber nicht hier (grammatisch falsch mit Firmenname). 'an' wird für Institutionen wie 'an der Universität' benutzt, nicht bei privaten Firmen."
+              "explanation": "Bei Arbeitgebern verwendet man 'bei' + Dativ: 'bei der Firma / bei der Agentur arbeiten'. 'in' ist bei Stadt/Gebäude möglich, aber nicht hier. 'an' steht bei Institutionen wie 'an der Universität', nicht bei privaten Firmen."
             },
             {
               "blankNumber": 2,
               "type": "mcq",
               "options": ["a) weil", "b) dass", "c) ob"],
               "correctAnswer": "b",
-              "explanation": "Der Hauptsatz 'Ich bin froh, ...' verlangt einen dass-Satz als Ergänzung ('froh sein, dass ...'). 'weil' würde einen Grund angeben (unlogisch: 'froh, weil ich mich beworben habe' wäre stilistisch schwach, und hier geht es um das Objekt der Freude). 'ob' leitet eine indirekte Frage ein und passt nicht."
+              "explanation": "'froh sein, dass ...' verlangt einen dass-Satz. 'weil' würde einen Grund angeben (inhaltlich schwach hier). 'ob' leitet indirekte Fragen ein und passt nicht."
             },
             {
               "blankNumber": 3,
               "type": "mcq",
               "options": ["a) den", "b) dem", "c) der"],
               "correctAnswer": "c",
-              "explanation": "Es handelt sich um einen Relativsatz: 'mein Chef, der mich eingestellt hat'. Das Relativpronomen bezieht sich auf 'mein Chef' (Maskulinum) und steht im Nominativ (Subjekt des Relativsatzes). Also: 'der'. 'den' wäre Akkusativ, 'dem' Dativ."
+              "explanation": "Relativsatz: 'mein Chef, der mich eingestellt hat' — Nominativ Maskulinum. 'den' wäre Akkusativ, 'dem' Dativ."
             },
             {
               "blankNumber": 4,
               "type": "mcq",
               "options": ["a) Obwohl", "b) Weil", "c) Deshalb"],
               "correctAnswer": "a",
-              "explanation": "Es gibt einen Gegensatz zwischen 'viele Sorgen' und 'fühle mich wohl' – das drückt 'obwohl' aus (konzessiv). 'weil' nennt einen Grund und passt inhaltlich nicht. 'deshalb' ist ein Adverb (verlangt Hauptsatzstellung mit Verb an Position 2), aber hier steht das Verb am Ende – also muss es eine Subjunktion sein."
+              "explanation": "Konzessiver Gegensatz: 'Obwohl ich viele Sorgen hatte, fühle ich mich wohl.' 'weil' nennt einen Grund (inhaltlich falsch). 'deshalb' ist ein Adverb und verlangt Verb an Position 2, was hier nicht der Fall ist."
             },
             {
               "blankNumber": 5,
               "type": "mcq",
               "options": ["a) wurde", "b) hat", "c) war"],
               "correctAnswer": "a",
-              "explanation": "Passiv Präteritum: 'Die Präsentation wurde gehalten.' 'wurde' ist die korrekte Form (Vorgangspassiv). 'hat' würde Aktiv-Perfekt verlangen, aber das Subjekt ('Die Präsentation') führt die Handlung nicht selbst aus. 'war' wäre Zustandspassiv ('war gehalten') – grammatisch hier falsch."
+              "explanation": "Passiv Präteritum: 'Die Präsentation wurde gehalten.' 'hat' wäre Aktiv-Perfekt, aber 'die Präsentation' ist kein handelndes Subjekt. 'war gehalten' wäre Zustandspassiv — grammatisch hier falsch."
             },
             {
               "blankNumber": 6,
               "type": "mcq",
               "options": ["a) habe", "b) hätte", "c) hatte"],
               "correctAnswer": "b",
-              "explanation": "Der Satz ist eine irreale Bedingung: 'Wenn ich mehr Erfahrung hätte, würde ich ...' → Konjunktiv II ('hätte'). 'habe' (Indikativ Präsens) passt nicht zu 'würde ... trauen' im Hauptsatz. 'hatte' (Präteritum) ergibt keine sinnvolle Bedingung."
+              "explanation": "Irreale Bedingung: 'Wenn ich mehr Erfahrung hätte, würde ich ...' → Konjunktiv II 'hätte'. 'habe' (Indikativ) passt nicht zu 'würde'. 'hatte' (Präteritum) ergibt keine sinnvolle irreale Bedingung."
             },
             {
               "blankNumber": 7,
               "type": "mcq",
               "options": ["a) zu", "b) auf", "c) zum"],
               "correctAnswer": "c",
-              "explanation": "Die feste Wendung lautet 'zum Sport gehen' (mit Verschmelzung zu + dem = zum, Dativ). 'zu' allein ohne Artikel passt hier grammatisch nicht (erfordert einen Artikel). 'auf' wird bei Sport nicht verwendet."
+              "explanation": "Feste Wendung 'zum Sport gehen' (zu + dem = zum, Dativ). 'zu' allein ohne Artikel geht grammatisch nicht. 'auf' wird bei Sport nicht verwendet."
             },
             {
               "blankNumber": 8,
               "type": "mcq",
               "options": ["a) haben", "b) sind", "c) waren"],
               "correctAnswer": "b",
-              "explanation": "Perfekt von 'gehen' bildet man mit 'sein': 'Wir sind wandern gegangen'. 'haben' ist falsch, weil Bewegungsverben (gehen, kommen, fahren) 'sein' als Hilfsverb nehmen. 'waren' wäre Präteritum – passt hier nicht zum Partizip."
+              "explanation": "Perfekt von 'gehen' mit 'sein': 'Wir sind wandern gegangen.' Bewegungsverben nehmen 'sein' als Hilfsverb. 'waren' ist Präteritum und passt nicht zum Partizip."
             },
             {
               "blankNumber": 9,
               "type": "mcq",
               "options": ["a) mich", "b) mir", "c) für mich"],
               "correctAnswer": "a",
-              "explanation": "Das reflexive Verb 'sich freuen' verlangt ein Reflexivpronomen im Akkusativ: 'ich freue mich'. 'mir' (Dativ) wird nur bei anderen reflexiven Verben wie 'sich etwas wünschen' verwendet. 'für mich' ist kein Reflexivpronomen und ergibt hier keinen Sinn."
+              "explanation": "Reflexivverb 'sich freuen' → Akkusativ: 'ich freue mich'. 'mir' (Dativ) steht bei anderen Reflexivverben. 'für mich' ist kein Reflexivpronomen."
             },
             {
               "blankNumber": 10,
               "type": "mcq",
               "options": ["a) das", "b) dem", "c) den"],
               "correctAnswer": "c",
-              "explanation": "'den schönsten Urlaub' ist das direkte Objekt von 'verbracht' (Akkusativ, Maskulinum): also 'den'. 'das' wäre Neutrum/falscher Kasus, 'dem' wäre Dativ. Die Adjektivendung '-sten' bestätigt die starke Deklination nach Akkusativ Maskulin: 'den schönsten'."
+              "explanation": "'den schönsten Urlaub' ist direktes Objekt (Akkusativ, Maskulinum). 'das' wäre Neutrum, 'dem' Dativ."
             }
           ]
         },
         {
           "partNumber": 2,
-          "instructions": "Lesen Sie den folgenden Text. Welches Wort aus der Liste a–o passt in die Lücken? Jedes Wort passt nur einmal. Fünf Wörter bleiben übrig.",
-          "text": "Liebe Anna,\n\nvielen __(11)__ für deine letzte Nachricht – sie hat mich wirklich gefreut! Wie du weißt, bin ich vor zwei Monaten in eine neue Wohngemeinschaft gezogen. Am Anfang war alles ziemlich chaotisch, aber __(12)__ haben wir uns alle gut eingelebt.\n\nMein Mitbewohner Leo ist super entspannt, nur seine Musik ist manchmal ein Problem. Er hört abends gerne laut Rock, und ich muss früh aufstehen. Wir haben lange darüber __(13)__ und uns schließlich auf eine Regel geeinigt: Nach 22 Uhr nur noch mit Kopfhörern. Das __(14)__ jetzt gut.\n\nAußerdem kochen wir zweimal pro Woche gemeinsam. Jeder ist __(15)__ ein anderes Gericht zuständig, und so lernen wir neue Rezepte kennen. __(16)__ der letzten Woche habe ich zum ersten Mal richtige Lasagne gemacht – das war ein kleiner Erfolg!\n\nNur eine Sache nervt mich: Unser Vermieter hat die Miete zum Januar __(17)__. Ich hatte mich schon __(18)__ einen ruhigen Sommer gefreut und wollte sparen, aber jetzt muss ich __(19)__ doch wieder einen Nebenjob suchen. Vielleicht etwas Flexibles, das zu meinem Studium passt.\n\nSchreib mir bald, wie es dir geht! __(20)__ kommst du mich ja mal besuchen – du weißt, das Gästezimmer steht für dich bereit.\n\nLiebe Grüße,\nTobias",
+          "instructions": "Lesen Sie den folgenden Text. Welches Wort aus der Liste A–P passt in die Lücken? Jedes Wort passt nur einmal. Fünf Wörter bleiben übrig.",
+          "text": "Sehr geehrte Damen und Herren,\n\nvergangene Woche habe ich Ihre Anzeige in der Stadtzeitung gelesen und interessiere mich __(11)__ Ihr Intensivkursangebot für Deutsch als Fremdsprache. Ich lerne Deutsch __(12)__ zwei Jahren und habe im April die B1-Prüfung bestanden. Nun möchte ich mein Niveau weiter verbessern, __(13)__ ich im Herbst ein Praktikum in einem deutschen Unternehmen antreten möchte.\n\nIn Ihrer Anzeige steht, dass die Kurse montags bis freitags stattfinden. Ich würde jedoch gerne wissen, __(14)__ es auch Abendkurse oder Wochenendseminare gibt, da ich zurzeit noch halbtags berufstätig bin. __(15)__ dem Kursinhalt habe ich ebenfalls eine Frage: Werden im Kurs auch Geschäftsbriefe und formelle Kommunikation geübt?\n\nDarüber __(16)__ wäre es für mich sehr wichtig zu wissen, ob eine Teilnahmebestätigung ausgestellt wird. Diese __(17)__ ich nämlich für meine Bewerbungsunterlagen. Bitte teilen Sie mir auch die genauen __(18)__ mit, damit ich rechtzeitig planen kann.\n\nIch wäre Ihnen sehr __(19)__, wenn Sie mir diese Informationen __(20)__ zukommen lassen könnten.\n\nMit freundlichen Grüßen\nNadia Horvath",
           "questions": [
             {
               "blankNumber": 11,
               "type": "word_bank",
               "options": [
-                "a) Dank", "b) trotzdem", "c) gesprochen", "d) funktioniert", "e) für",
-                "f) In", "g) erhöht", "h) auf", "i) wahrscheinlich", "j) Vielleicht",
-                "k) herzlichen", "l) nachgedacht", "m) reicht", "n) zu", "o) damit"
+                "A) für", "B) seit", "C) da", "D) ob", "E) hinaus",
+                "F) benötige", "G) dankbar", "H) Kosten", "I) Zu", "J) wegen",
+                "K) sehr", "L) jedoch", "M) damit", "N) über", "O) an", "P) baldmöglichst"
               ],
-              "correctAnswer": "a",
-              "explanation": "Die feste Wendung 'vielen Dank' (für ...) ist die Standardbegrüßung/Bedankung in Briefen. 'vielen' + 'Dank' = Standardformel. Distraktor k) 'herzlichen' funktioniert grammatisch, aber 'vielen' (aus dem Text) verlangt direkt das Substantiv 'Dank', nicht noch ein Adjektiv davor."
+              "correctAnswer": "A",
+              "explanation": "Feste Verbkombination 'sich interessieren für + Akkusativ': 'interessiere mich für Ihr Angebot'. Distraktor J (wegen) verlangt Genitiv und bedeutet 'wegen des Angebots' — falsch hier. Distraktor N (über) gehört zu 'sich informieren über', nicht zu 'sich interessieren'."
             },
             {
               "blankNumber": 12,
               "type": "word_bank",
               "options": [
-                "a) Dank", "b) trotzdem", "c) gesprochen", "d) funktioniert", "e) für",
-                "f) In", "g) erhöht", "h) auf", "i) wahrscheinlich", "j) Vielleicht",
-                "k) herzlichen", "l) nachgedacht", "m) reicht", "n) zu", "o) damit"
+                "A) für", "B) seit", "C) da", "D) ob", "E) hinaus",
+                "F) benötige", "G) dankbar", "H) Kosten", "I) Zu", "J) wegen",
+                "K) sehr", "L) jedoch", "M) damit", "N) über", "O) an", "P) baldmöglichst"
               ],
-              "correctAnswer": "b",
-              "explanation": "Gegensatz-Konnektor: 'chaotisch, aber trotzdem gut eingelebt'. 'trotzdem' drückt den Gegensatz zum 'chaotischen Anfang' aus. 'damit' leitet einen Finalsatz ein (Zweck) und passt inhaltlich nicht."
+              "correctAnswer": "B",
+              "explanation": "'seit zwei Jahren' — seit + Dativ drückt aus, dass die Handlung bis jetzt andauert. 'für zwei Jahre' würde begrenzte Zukunftsdauer anzeigen, nicht Vergangenheit bis Gegenwart."
             },
             {
               "blankNumber": 13,
               "type": "word_bank",
               "options": [
-                "a) Dank", "b) trotzdem", "c) gesprochen", "d) funktioniert", "e) für",
-                "f) In", "g) erhöht", "h) auf", "i) wahrscheinlich", "j) Vielleicht",
-                "k) herzlichen", "l) nachgedacht", "m) reicht", "n) zu", "o) damit"
+                "A) für", "B) seit", "C) da", "D) ob", "E) hinaus",
+                "F) benötige", "G) dankbar", "H) Kosten", "I) Zu", "J) wegen",
+                "K) sehr", "L) jedoch", "M) damit", "N) über", "O) an", "P) baldmöglichst"
               ],
-              "correctAnswer": "c",
-              "explanation": "'Wir haben lange darüber gesprochen' – feste Verb+Präposition Kombination: 'sprechen über'. Das Partizip II von 'sprechen' ist 'gesprochen'. Distraktor l) 'nachgedacht' verlangt 'über' zwar auch, aber passt inhaltlich weniger zu 'uns schließlich geeinigt', denn Einigung erfolgt durch Gespräch, nicht durch stummes Nachdenken."
+              "correctAnswer": "C",
+              "explanation": "Kausaler Konnektor: 'da ich im Herbst ein Praktikum antreten möchte' nennt den Grund für die Verbesserungsabsicht. Distraktor M ('damit') leitet einen Finalsatz ein — passt nicht, da 'antreten möchte' einen Grund, keinen Zweck ausdrückt."
             },
             {
               "blankNumber": 14,
               "type": "word_bank",
               "options": [
-                "a) Dank", "b) trotzdem", "c) gesprochen", "d) funktioniert", "e) für",
-                "f) In", "g) erhöht", "h) auf", "i) wahrscheinlich", "j) Vielleicht",
-                "k) herzlichen", "l) nachgedacht", "m) reicht", "n) zu", "o) damit"
+                "A) für", "B) seit", "C) da", "D) ob", "E) hinaus",
+                "F) benötige", "G) dankbar", "H) Kosten", "I) Zu", "J) wegen",
+                "K) sehr", "L) jedoch", "M) damit", "N) über", "O) an", "P) baldmöglichst"
               ],
-              "correctAnswer": "d",
-              "explanation": "'Das funktioniert jetzt gut' – idiomatisch für 'es klappt, es läuft'. Subjekt 'Das' + 3. Person Singular verlangt 'funktioniert'. Distraktor m) 'reicht' würde sprachlich gehen ('das reicht'), aber bedeutet 'genug sein' und passt inhaltlich nicht zur beschlossenen Regel."
+              "correctAnswer": "D",
+              "explanation": "Indirekte Frage: 'ich würde gerne wissen, ob es auch Abendkurse gibt'. 'ob' leitet indirekte Ja/Nein-Fragen ein. Distraktor C ('da') würde einen Kausalsatz ergeben — hier fragt die Sprecherin, sie begründet nicht."
             },
             {
               "blankNumber": 15,
               "type": "word_bank",
               "options": [
-                "a) Dank", "b) trotzdem", "c) gesprochen", "d) funktioniert", "e) für",
-                "f) In", "g) erhöht", "h) auf", "i) wahrscheinlich", "j) Vielleicht",
-                "k) herzlichen", "l) nachgedacht", "m) reicht", "n) zu", "o) damit"
+                "A) für", "B) seit", "C) da", "D) ob", "E) hinaus",
+                "F) benötige", "G) dankbar", "H) Kosten", "I) Zu", "J) wegen",
+                "K) sehr", "L) jedoch", "M) damit", "N) über", "O) an", "P) baldmöglichst"
               ],
-              "correctAnswer": "e",
-              "explanation": "Die feste Kombination 'zuständig sein für + Akkusativ' verlangt 'für'. 'zu' würde zu einem anderen Ausdruck gehören ('zuständig zu sein' existiert nicht)."
+              "correctAnswer": "I",
+              "explanation": "Formelle Einleitung eines neuen Punktes: 'Zu dem Kursinhalt habe ich eine Frage' — 'Zu' mit Dativ ist in Geschäftsbriefen die übliche Formel für 'bezüglich / hinsichtlich'. Distraktor N ('Über') ist inhaltlich ähnlich, aber in Formalbriefen ist 'Zu' die gefragte Variante."
             },
             {
               "blankNumber": 16,
               "type": "word_bank",
               "options": [
-                "a) Dank", "b) trotzdem", "c) gesprochen", "d) funktioniert", "e) für",
-                "f) In", "g) erhöht", "h) auf", "i) wahrscheinlich", "j) Vielleicht",
-                "k) herzlichen", "l) nachgedacht", "m) reicht", "n) zu", "o) damit"
+                "A) für", "B) seit", "C) da", "D) ob", "E) hinaus",
+                "F) benötige", "G) dankbar", "H) Kosten", "I) Zu", "J) wegen",
+                "K) sehr", "L) jedoch", "M) damit", "N) über", "O) an", "P) baldmöglichst"
               ],
-              "correctAnswer": "f",
-              "explanation": "Zeitangabe: 'In der letzten Woche' = 'letzte Woche'. 'in' + Dativ bildet Zeitangaben im Sinne von 'during'. Das Großschreiben ('In') signalisiert den Satzanfang."
+              "correctAnswer": "E",
+              "explanation": "Feste Formel 'Darüber hinaus ...' = 'außerdem, zusätzlich' — typische formelle Übergangsformel in Anfrageschreiben. Kein anderes Wort aus der Liste ergibt syntaktisch und semantisch Sinn in dieser Lücke."
             },
             {
               "blankNumber": 17,
               "type": "word_bank",
               "options": [
-                "a) Dank", "b) trotzdem", "c) gesprochen", "d) funktioniert", "e) für",
-                "f) In", "g) erhöht", "h) auf", "i) wahrscheinlich", "j) Vielleicht",
-                "k) herzlichen", "l) nachgedacht", "m) reicht", "n) zu", "o) damit"
+                "A) für", "B) seit", "C) da", "D) ob", "E) hinaus",
+                "F) benötige", "G) dankbar", "H) Kosten", "I) Zu", "J) wegen",
+                "K) sehr", "L) jedoch", "M) damit", "N) über", "O) an", "P) baldmöglichst"
               ],
-              "correctAnswer": "g",
-              "explanation": "'Der Vermieter hat die Miete erhöht' – das übliche Kollokat ist 'Miete erhöhen' (raise rent). Partizip II 'erhöht' schließt das Perfekt korrekt ab."
+              "correctAnswer": "F",
+              "explanation": "'Diese benötige ich für meine Bewerbungsunterlagen' — 'benötigen' (= brauchen, formal), 1. Person Singular: 'benötige'. Distraktor K ('sehr') ergibt 'Diese sehr ich' — kein sinnvoller Satz."
             },
             {
               "blankNumber": 18,
               "type": "word_bank",
               "options": [
-                "a) Dank", "b) trotzdem", "c) gesprochen", "d) funktioniert", "e) für",
-                "f) In", "g) erhöht", "h) auf", "i) wahrscheinlich", "j) Vielleicht",
-                "k) herzlichen", "l) nachgedacht", "m) reicht", "n) zu", "o) damit"
+                "A) für", "B) seit", "C) da", "D) ob", "E) hinaus",
+                "F) benötige", "G) dankbar", "H) Kosten", "I) Zu", "J) wegen",
+                "K) sehr", "L) jedoch", "M) damit", "N) über", "O) an", "P) baldmöglichst"
               ],
-              "correctAnswer": "h",
-              "explanation": "Feste Verb+Präposition: 'sich freuen auf + Akkusativ' (bevorstehendes Ereignis). 'Ich hatte mich auf einen ruhigen Sommer gefreut.' 'für' würde mit anderen Verben gehen ('sich bedanken für')."
+              "correctAnswer": "H",
+              "explanation": "'teilen Sie mir die genauen Kosten mit' — Kollokation 'Kosten mitteilen' ist typisch für Anfrageschreiben (Erkundigung nach Kursgebühren). 'Kosten' steht im Plural."
             },
             {
               "blankNumber": 19,
               "type": "word_bank",
               "options": [
-                "a) Dank", "b) trotzdem", "c) gesprochen", "d) funktioniert", "e) für",
-                "f) In", "g) erhöht", "h) auf", "i) wahrscheinlich", "j) Vielleicht",
-                "k) herzlichen", "l) nachgedacht", "m) reicht", "n) zu", "o) damit"
+                "A) für", "B) seit", "C) da", "D) ob", "E) hinaus",
+                "F) benötige", "G) dankbar", "H) Kosten", "I) Zu", "J) wegen",
+                "K) sehr", "L) jedoch", "M) damit", "N) über", "O) an", "P) baldmöglichst"
               ],
-              "correctAnswer": "i",
-              "explanation": "Das Adverb 'wahrscheinlich' passt inhaltlich (Unsicherheit über die Zukunft: 'muss ich wahrscheinlich doch ...'). 'Vielleicht' ist semantisch ähnlich, aber groß geschrieben und am Satzanfang – hier im Satzinneren passt das kleingeschriebene 'wahrscheinlich' besser."
+              "correctAnswer": "G",
+              "explanation": "Formelle Schlussformel: 'Ich wäre Ihnen sehr dankbar, wenn ...' — Konjunktiv II + 'dankbar' + Konditionalsatz ist die Standardformel für höfliche Bitten in Geschäftsbriefen. Distraktoren: K (sehr) — 'sehr zukommen lassen' ergibt keinen Sinn; P (baldmöglichst) passt zu blank 20, nicht hier."
             },
             {
               "blankNumber": 20,
               "type": "word_bank",
               "options": [
-                "a) Dank", "b) trotzdem", "c) gesprochen", "d) funktioniert", "e) für",
-                "f) In", "g) erhöht", "h) auf", "i) wahrscheinlich", "j) Vielleicht",
-                "k) herzlichen", "l) nachgedacht", "m) reicht", "n) zu", "o) damit"
+                "A) für", "B) seit", "C) da", "D) ob", "E) hinaus",
+                "F) benötige", "G) dankbar", "H) Kosten", "I) Zu", "J) wegen",
+                "K) sehr", "L) jedoch", "M) damit", "N) über", "O) an", "P) baldmöglichst"
               ],
-              "correctAnswer": "j",
-              "explanation": "Satzanfang + modales Adverb: 'Vielleicht kommst du mich ja mal besuchen' – Einladung mit Unsicherheit. Die Großschreibung ('Vielleicht') signalisiert den Satzanfang. Übrig bleiben k), l), m), n), o) als Distraktoren."
+              "correctAnswer": "P",
+              "explanation": "'diese Informationen baldmöglichst zukommen lassen' — 'baldmöglichst' (= so bald wie möglich) ist die übliche Schlussformulierung in formellen Anfrageschreiben für dringende Bitten. Distraktor G (dankbar) passt zu blank 19; K (sehr) ergibt in dieser Position keinen grammatisch sinnvollen Satz."
             }
           ]
         }
@@ -798,34 +803,34 @@
         {
           "taskNumber": 1,
           "type": "letter",
-          "instructions": "Sie haben sich vor einem Monat bei der Sprachschule 'Lingua Berlin' für einen Deutschkurs (B1) angemeldet, der am Montag beginnt. Aus gesundheitlichen Gründen können Sie nicht am Kurs teilnehmen. Schreiben Sie eine E-Mail an die Kursleitung, Frau Schmidt. Gehen Sie auf alle vier Punkte unten ein. Achten Sie auf eine passende Anrede und einen passenden Gruß. Schreiben Sie ca. 150 Wörter.",
-          "instructionsTranslation": "You registered a month ago at the language school 'Lingua Berlin' for a German course (B1) that starts on Monday. For health reasons you cannot attend the course. Write an email to the course coordinator, Ms. Schmidt. Address all four points below. Pay attention to appropriate greeting and closing. Write approximately 150 words.",
-          "prompt": "Situation: Sie haben sich bei der Sprachschule 'Lingua Berlin' für einen B1-Deutschkurs angemeldet, der am Montag beginnt. Sie müssen leider absagen.\n\nSchreiben Sie eine E-Mail an Frau Schmidt. Gehen Sie auf die folgenden vier Punkte ein:\n\n- Grund: Warum können Sie nicht am Kurs teilnehmen?\n- Rückfrage: Können Sie den Kurs zu einem späteren Zeitpunkt nachholen?\n- Bitten: Was möchten Sie wegen der bereits bezahlten Kursgebühr klären?\n- Alternative: Machen Sie einen Vorschlag, wie die Schule Ihnen in der Zwischenzeit weiterhelfen könnte (z.B. Selbstlernmaterial).\n\nVergessen Sie nicht Anrede, Einleitung und Grußformel. Schreiben Sie ca. 150 Wörter.",
-          "promptTranslation": "Situation: You registered at the language school 'Lingua Berlin' for a B1 German course starting on Monday. Unfortunately, you have to cancel.\n\nWrite an email to Ms. Schmidt. Address these four points:\n\n- Reason: Why can you not attend the course?\n- Question: Can you take the course at a later date?\n- Request: What would you like to clarify regarding the course fee you already paid?\n- Alternative: Suggest how the school could help you in the meantime (e.g. self-study material).\n\nDon't forget greeting, introduction, and closing. Write approximately 150 words.",
+          "instructions": "Ihre Brieffreundin Claudia aus Österreich hat Ihnen geschrieben und möchte mehr über Ihren Alltag wissen. Schreiben Sie ihr einen Brief. Gehen Sie auf alle vier Punkte ein. Achten Sie auf eine passende Anrede und einen passenden Gruß. Schreiben Sie ca. 150 Wörter.",
+          "instructionsTranslation": "Your pen friend Claudia from Austria has written to you and wants to know more about your daily life. Write her a letter. Address all four points below. Pay attention to an appropriate greeting and closing. Write approximately 150 words.",
+          "prompt": "Claudia schreibt Ihnen:\n\n'Ich bin so neugierig, wie dein Leben im Moment aussieht! Erzähl mir doch mehr davon – du weißt, ich stelle mir das immer ganz anders vor als die Realität.'\n\nSchreiben Sie Claudia einen Brief. Gehen Sie auf die folgenden vier Punkte ein:\n\n- Wie sieht ein normaler Wochentag morgens bei Ihnen aus?\n- Welchem Hobby gehen Sie gerade am liebsten nach?\n- Was war in letzter Zeit ein schwieriger Moment für Sie?\n- Was planen Sie für die nächsten Wochen?\n\nVergessen Sie nicht Anrede, Einleitung und Grußformel. Schreiben Sie ca. 150 Wörter.",
+          "promptTranslation": "Claudia writes to you:\n\n'I am so curious what your life looks like right now! Tell me more about it — you know, I always imagine it quite differently from reality.'\n\nWrite Claudia a letter. Address the following four points:\n\n- What does a normal weekday morning look like for you?\n- What hobby are you most into right now?\n- What was a difficult moment for you recently?\n- What are you planning for the coming weeks?\n\nDon't forget greeting, introduction, and closing. Write approximately 150 words.",
           "requiredPoints": [
-            "Begründung der Absage (gesundheitlicher Grund)",
-            "Rückfrage zum Nachholen des Kurses",
-            "Frage/Bitte zur bereits bezahlten Kursgebühr",
-            "Vorschlag für eine Alternative (z.B. Selbstlernmaterial)"
+            "Beschreibung eines normalen Wochentagmorgens",
+            "Aktuelles Lieblingshobby mit kurzer Begründung oder Beschreibung",
+            "Ein schwieriger Moment in letzter Zeit",
+            "Konkrete Pläne für die nächsten Wochen"
           ],
           "wordCountMin": 130,
           "wordCountMax": 170,
-          "sampleAnswer": "Sehr geehrte Frau Schmidt,\n\nvor einem Monat habe ich mich bei Ihrer Schule für den B1-Deutschkurs angemeldet, der am kommenden Montag beginnen soll. Leider muss ich Ihnen heute absagen.\n\nAm vergangenen Wochenende hatte ich einen kleinen Unfall beim Fahrradfahren und habe mir den rechten Arm gebrochen. Mein Arzt hat mir empfohlen, die nächsten sechs Wochen zu Hause zu bleiben und mich zu schonen. Unter diesen Umständen kann ich leider nicht regelmäßig zum Unterricht kommen.\n\nMeine erste Frage ist: Wäre es möglich, den Kurs im nächsten Quartal nachzuholen? Ich bin sehr motiviert und möchte mein Deutsch weiter verbessern. Außerdem wollte ich fragen, wie wir mit der bereits bezahlten Kursgebühr verfahren – ist eine Übertragung auf einen späteren Kurs möglich?\n\nIn der Zwischenzeit würde ich gerne weiterlernen. Können Sie mir vielleicht Selbstlernmaterial oder einen Online-Zugang empfehlen, damit ich trotz der Pause nichts vergesse?\n\nVielen Dank für Ihr Verständnis.\n\nMit freundlichen Grüßen\nAlex Müller",
+          "sampleAnswer": "Liebe Claudia,\n\nvielen Dank für deinen Brief – ich freue mich immer sehr, von dir zu hören! Du fragst nach meinem Alltag, also erzähle ich dir ein bisschen davon.\n\nUnter der Woche stehe ich meistens gegen sieben Uhr auf, frühstücke in Ruhe und fahre dann mit dem Fahrrad zur Arbeit. Im Moment begeistere ich mich total für das Fotografieren – ich nehme meine Kamera überallhin mit und merke, wie ich die Welt ganz anders wahrnehme.\n\nEin wirklich schwieriger Moment war letzte Woche, als mein Chef mir kurz vor Feierabend noch eine dringende Aufgabe gegeben hat. Ehrlich gesagt geht mir das manchmal auf die Nerven, aber ich habe trotzdem alles fertig gemacht.\n\nIn den nächsten Wochen plane ich einen kurzen Ausflug ans Meer – ich freue mich schon riesig darauf!\n\nHerzliche Grüße\nAlex",
           "scoringCriteria": [
             {
               "criterion": "I. Inhaltliche Vollständigkeit",
               "maxPoints": 15,
-              "description": "Alle vier Leitpunkte (Grund, Rückfrage Nachholen, Kursgebühr, Alternative) sind klar behandelt. Wird einer dieser Punkte als nicht bearbeitet bewertet (D), erhält der gesamte Text 0 Punkte."
+              "description": "Alle vier Leitpunkte (Wochentag morgens, Hobby, schwieriger Moment, Pläne) sind klar behandelt. Wird einer dieser Punkte als nicht bearbeitet bewertet (D), erhält der gesamte Text 0 Punkte."
             },
             {
               "criterion": "II. Kommunikative Gestaltung",
               "maxPoints": 15,
-              "description": "Angemessene Anrede ('Sehr geehrte Frau Schmidt'), logische Einleitung, Verwendung passender Konnektoren (leider, außerdem, in der Zwischenzeit), formelle Grußformel, sinnvolle Absatzstruktur."
+              "description": "Angemessene Anrede ('Liebe Claudia'), persönlicher Ton, logische Übergänge, passende Briefgrußformel. Verwendung von Konnektoren (also, dann, im Moment, trotzdem, in den nächsten Wochen)."
             },
             {
               "criterion": "III. Formale Richtigkeit",
               "maxPoints": 15,
-              "description": "Grammatik, Rechtschreibung und Wortwahl auf B1-Niveau. Verbformen (Perfekt, Konjunktiv II für höfliche Bitten), Satzstellung in Nebensätzen, Kasus nach Präpositionen. Schwerwiegende Grammatikfehler, die das Verständnis blockieren, führen zu D (und damit 0 Punkten für den gesamten Text)."
+              "description": "Grammatik, Rechtschreibung und Wortwahl auf B1-Niveau. Korrekte Zeitformen (Präsens für Gewohnheiten, Perfekt für vergangene Ereignisse), Nebensatzstellung, Kasus nach Präpositionen."
             }
           ]
         }
@@ -840,15 +845,14 @@
           "type": "introduce",
           "instructions": "Stellen Sie sich Ihrem Gesprächspartner/Ihrer Gesprächspartnerin vor. Sprechen Sie über sich: Name, Herkunft, Wohnort, Familie, Beruf oder Ausbildung, Hobbys und Sprachen. Stellen Sie anschließend Ihrem Partner/Ihrer Partnerin mindestens zwei Fragen.",
           "instructionsTranslation": "Introduce yourself to your conversation partner. Talk about: name, origin, place of residence, family, work or education, hobbies, and languages. Afterwards ask your partner at least two questions.",
-          "prompt": "Bitte stellen Sie sich Ihrem Partner / Ihrer Partnerin vor. Sprechen Sie u.a. über:\n- Ihren Namen und Ihre Herkunft\n- Ihren aktuellen Wohnort und seit wann Sie dort leben\n- Ihre Familie\n- Ihren Beruf oder Ihr Studium\n- Ihre Hobbys und Interessen\n- Die Sprachen, die Sie sprechen\n\nStellen Sie danach Ihrem Partner / Ihrer Partnerin mindestens zwei Fragen, um mehr über sie/ihn zu erfahren. Vorbereitungszeit: 20 Minuten für die gesamte mündliche Prüfung.",
+          "prompt": "Bitte stellen Sie sich Ihrem Partner / Ihrer Partnerin vor. Sprechen Sie u.a. über:\n- Ihren Namen und Ihre Herkunft\n- Ihren aktuellen Wohnort und seit wann Sie dort leben\n- Ihre Familie\n- Ihren Beruf oder Ihr Studium\n- Ihre Hobbys und Interessen\n- Die Sprachen, die Sie sprechen\n\nStellen Sie danach Ihrem Partner / Ihrer Partnerin mindestens zwei Fragen, um mehr über sie/ihn zu erfahren.",
           "sampleResponse": "Guten Tag, ich heiße Alex Müller und komme ursprünglich aus einer kleinen Stadt in der Nähe von Frankfurt. Seit drei Jahren wohne ich jetzt in Berlin, wo ich bei einem mittelständischen Unternehmen als IT-Mitarbeiter arbeite. Meine Familie lebt noch in Hessen – meine Eltern und eine jüngere Schwester, die gerade ihr Studium abschließt. In meiner Freizeit fahre ich gerne Rennrad und treffe mich mit Freunden zum Kochen. Ich interessiere mich außerdem sehr für Fotografie und besuche oft Ausstellungen. Neben Deutsch spreche ich Englisch ziemlich fließend und lerne seit einem Jahr Spanisch – es macht mir großen Spaß, aber die Grammatik ist schwierig. Und wie sieht es bei dir aus? Woher kommst du ursprünglich, und wie bist du eigentlich nach Berlin gekommen?",
           "evaluationTips": [
             "Strukturieren Sie Ihre Vorstellung – beginnen Sie nicht mit Hobbys, sondern mit Name und Herkunft",
             "Verwenden Sie Nebensätze mit 'weil', 'wo', 'der/die' – das zeigt B1-Niveau",
             "Sprechen Sie in Absätzen: ein Gedanke pro Thema, nicht alles in einem langen Satz",
-            "Stellen Sie echte Fragen – keine Ja/Nein-Fragen, sondern W-Fragen, die zu einem Gespräch einladen",
-            "Nennen Sie konkrete Details (Stadt, Jahre, Beruf), keine abstrakten Angaben",
-            "Reagieren Sie auf die Antworten Ihres Partners: 'Das finde ich interessant – erzähl mehr.'"
+            "Stellen Sie echte W-Fragen, die zu einem Gespräch einladen",
+            "Nennen Sie konkrete Details (Stadt, Jahre, Beruf), keine abstrakten Angaben"
           ],
           "keyPhrases": [
             "Ich heiße ... und komme aus ...",
@@ -856,8 +860,7 @@
             "Beruflich arbeite ich als ...",
             "In meiner Freizeit ... / Ich interessiere mich für ...",
             "Neben Deutsch spreche ich ...",
-            "Und wie ist das bei dir/Ihnen?",
-            "Darf ich dich/Sie etwas fragen?"
+            "Und wie ist das bei dir/Ihnen?"
           ]
         },
         {
@@ -865,23 +868,20 @@
           "type": "discussion",
           "instructions": "Sie erhalten einen kurzen Text zum Thema. Fassen Sie den Inhalt für Ihren Partner zusammen, beantworten Sie die drei Leitfragen, und tauschen Sie Ihre Meinung mit dem Partner aus.",
           "instructionsTranslation": "You receive a short text on the topic. Summarize the content for your partner, answer the three guiding questions, and exchange your opinions with your partner.",
-          "prompt": "Thema: Medien im Alltag\n\nLesen Sie den folgenden kurzen Text:\n\n'Eine aktuelle Umfrage zeigt: Jeder dritte Deutsche liest täglich eine Tageszeitung – vor zehn Jahren war es noch jeder zweite. Immer mehr Menschen informieren sich stattdessen online über Nachrichten-Apps oder soziale Netzwerke. Besonders junge Erwachsene unter 30 schauen kaum noch Fernsehnachrichten. Experten sehen darin Vor- und Nachteile.'\n\nLeitfragen:\n1. Fassen Sie kurz den Inhalt des Textes zusammen (in 2–3 Sätzen).\n2. Welche Medien nutzen Sie persönlich, um sich zu informieren, und warum?\n3. Was sind Ihrer Meinung nach die Vor- und Nachteile davon, wenn Menschen vor allem online Nachrichten lesen?\n\nSprechen Sie mit Ihrem Partner/Ihrer Partnerin über das Thema – fragen Sie auch nach seiner/ihrer Meinung.",
-          "sampleResponse": "Der Text berichtet, dass nur noch jeder dritte Deutsche eine Tageszeitung liest. Vor zehn Jahren war es noch jeder zweite. Junge Leute schauen außerdem kaum noch Fernsehnachrichten, sondern nutzen lieber Apps und soziale Medien.\n\nIch persönlich informiere mich hauptsächlich über eine Nachrichten-App auf meinem Handy – das geht schnell, und ich kann mehrere Quellen vergleichen. Am Wochenende lese ich aber auch gerne die Printausgabe einer Zeitung, weil man dort längere Analysen findet.\n\nDer größte Vorteil von Online-Nachrichten ist meiner Meinung nach die Geschwindigkeit: Man bekommt Informationen fast sofort. Allerdings sehe ich auch Nachteile. Manchmal verbreiten sich falsche Nachrichten, und viele Leute lesen nur die Überschriften, ohne den ganzen Artikel zu verstehen. Außerdem sitzen junge Menschen dadurch viel am Bildschirm. Ich glaube, ein Mittelweg wäre am besten – online schnell informieren, aber auch mal in Ruhe ein Magazin lesen. Was denkst du über soziale Netzwerke als Informationsquelle?",
+          "prompt": "Thema: Freizeit und Erholung\n\nLesen Sie den folgenden kurzen Text:\n\n'Eine aktuelle Umfrage zeigt: Die meisten Deutschen verbringen ihre Freizeit am liebsten zu Hause — beim Fernsehen, Lesen oder Kochen. Nur jeder Vierte treibt mehrmals pro Woche Sport. Gleichzeitig berichten viele, dass sie sich nach der Arbeit zu müde fühlen, um aktiv zu sein. Experten sagen, dass schon 20 Minuten Bewegung pro Tag das Wohlbefinden deutlich verbessern können.'\n\nLeitfragen:\n1. Fassen Sie kurz den Inhalt des Textes zusammen (2–3 Sätze).\n2. Wie verbringen Sie persönlich Ihre Freizeit, und warum?\n3. Was sind Ihrer Meinung nach Vor- und Nachteile von aktivem Freizeitverhalten gegenüber Entspannung zu Hause?\n\nSprechen Sie mit Ihrem Partner/Ihrer Partnerin über das Thema.",
+          "sampleResponse": "Der Text berichtet, dass die meisten Deutschen lieber passiv zu Hause entspannen als Sport zu treiben. Nur ein Viertel bewegt sich regelmäßig. Viele sind nach der Arbeit einfach zu müde — das kenne ich gut.\n\nIch persönlich versuche, dreimal pro Woche spazieren zu gehen oder Rad zu fahren. Das hilft mir, nach einem langen Arbeitstag abzuschalten. Am Abend lese ich aber auch gerne — manchmal muss man den Kopf in den Sand stecken und sich einfach ablenken.\n\nIch finde, aktive Freizeit hat klare Vorteile: Man fühlt sich fitter und schläft besser. Aber ehrlich gesagt braucht man manchmal auch einfach einen Abend auf dem Sofa. Ich denke, beides hat seinen Platz. Was machst du nach der Arbeit — eher aktiv oder lieber entspannen?",
           "evaluationTips": [
             "Beginnen Sie mit einer klaren Zusammenfassung, bevor Sie Ihre Meinung nennen",
-            "Nennen Sie konkrete Beispiele aus Ihrem Alltag, keine allgemeinen Aussagen",
-            "Verwenden Sie Meinungsformulierungen: 'Meiner Meinung nach ...', 'Ich finde, dass ...', 'Ich bin der Ansicht, ...'",
-            "Gliedern Sie Vor- und Nachteile klar: 'Einerseits ..., andererseits ...'",
-            "Stellen Sie dem Partner mindestens eine inhaltliche Rückfrage",
-            "Benutzen Sie Konnektoren wie 'allerdings', 'außerdem', 'trotzdem', 'deshalb' – das wertet die Antwort auf"
+            "Nennen Sie konkrete Beispiele aus Ihrem Alltag",
+            "Verwenden Sie Meinungsformulierungen: 'Meiner Meinung nach ...', 'Ich finde, dass ...'",
+            "Gliedern Sie Vor- und Nachteile: 'Einerseits ..., andererseits ...'",
+            "Stellen Sie dem Partner mindestens eine Rückfrage"
           ],
           "keyPhrases": [
             "Im Text geht es um ...",
             "Der Text berichtet, dass ...",
             "Meiner Meinung nach ...",
-            "Ich finde es positiv, dass ...",
             "Einerseits ... andererseits ...",
-            "Ein Vorteil/Nachteil ist, dass ...",
             "Wie siehst du das?",
             "Stimmst du mir da zu?"
           ]
@@ -891,27 +891,22 @@
           "type": "planning",
           "instructions": "Sie sollen mit Ihrem Partner gemeinsam etwas planen. Machen Sie Vorschläge, reagieren Sie auf die Ideen Ihres Partners und einigen Sie sich am Ende auf eine gemeinsame Lösung.",
           "instructionsTranslation": "You are going to plan something together with your partner. Make suggestions, respond to your partner's ideas, and agree on a joint solution at the end.",
-          "prompt": "Ein guter gemeinsamer Freund von Ihnen, Markus, hat bald Geburtstag. Er wird 30 Jahre alt. Sie möchten zusammen mit Ihrem Partner/Ihrer Partnerin eine kleine Überraschungsparty für ihn organisieren.\n\nBesprechen Sie bitte folgende Punkte und kommen Sie zu einer gemeinsamen Entscheidung:\n\n- Wann und wo soll die Feier stattfinden?\n- Wen laden Sie ein? Wie viele Personen werden kommen?\n- Was soll es zu essen und zu trinken geben?\n- Welches Geschenk kaufen Sie gemeinsam?\n- Wer übernimmt welche Aufgabe (Einkauf, Dekoration, Musik)?\n\nMachen Sie Vorschläge, gehen Sie auf die Vorschläge Ihres Partners ein und einigen Sie sich am Ende.",
-          "sampleResponse": "Also, ich würde vorschlagen, die Party am Samstag, den 15. Mai, zu feiern, weil da die meisten Leute frei haben. Was hältst du davon, die Feier bei mir zu Hause zu machen? Mein Wohnzimmer ist groß genug für etwa 15 Personen.\n\nIch denke, wir sollten alle gemeinsamen Freunde einladen – ich habe etwa zehn Namen im Kopf – und auch seinen Bruder und seine Schwester. Mit Partnern kommen wir dann vielleicht auf fünfzehn.\n\nZum Essen schlage ich ein Buffet vor: Ich kann eine große Lasagne machen, und vielleicht kannst du ein paar Salate mitbringen? Und für Getränke teilen wir: Ich kaufe die Weinflaschen, und du die Getränke ohne Alkohol, einverstanden?\n\nBeim Geschenk bin ich noch unsicher. Markus reist gerne – vielleicht schenken wir ihm einen Gutschein für ein Wochenende in einem schönen Hotel? Alle Freunde können etwas dazugeben. Was denkst du?\n\nLetzter Punkt: Ich übernehme die Dekoration und du die Musik-Playlist – passt das für dich?",
+          "prompt": "Ein guter gemeinsamer Freund, Markus, hat bald Geburtstag — er wird 30 Jahre alt. Sie möchten zusammen mit Ihrem Partner/Ihrer Partnerin eine kleine Überraschungsparty für ihn organisieren.\n\nBesprechen Sie folgende Punkte und kommen Sie zu einer gemeinsamen Entscheidung:\n\n- Wann und wo soll die Feier stattfinden?\n- Wen laden Sie ein? Wie viele Personen?\n- Was soll es zu essen und zu trinken geben?\n- Welches Geschenk kaufen Sie gemeinsam?\n- Wer übernimmt welche Aufgabe (Einkauf, Dekoration, Musik)?\n\nMachen Sie Vorschläge, gehen Sie auf die Vorschläge Ihres Partners ein und einigen Sie sich am Ende.",
+          "sampleResponse": "Also, ich würde vorschlagen, die Party am Samstag, den 15. Mai, zu feiern, weil da die meisten Leute frei haben. Was hältst du davon, die Feier bei mir zu Hause zu machen? Mein Wohnzimmer ist groß genug für etwa 15 Personen.\n\nIch denke, wir sollten alle gemeinsamen Freunde einladen — ich habe etwa zehn Namen im Kopf — und auch seinen Bruder und seine Schwester. Mit Partnern kommen wir dann auf vielleicht fünfzehn.\n\nZum Essen schlage ich ein Buffet vor: Ich kann eine große Lasagne machen, und vielleicht kannst du ein paar Salate mitbringen? Für Getränke teilen wir: Ich kaufe den Wein, und du die alkoholfreien Getränke.\n\nBeim Geschenk: Markus reist gerne — vielleicht schenken wir ihm einen Gutschein für ein Wochenende in einem schönen Hotel? Was denkst du?\n\nLetzter Punkt: Ich übernehme die Dekoration und du die Musik-Playlist — passt das für dich?",
           "evaluationTips": [
-            "Sprechen Sie nicht nur, sondern hören Sie auch aktiv zu – reagieren Sie auf die Vorschläge Ihres Partners",
-            "Machen Sie Vorschläge mit Konjunktiv II ('Ich würde vorschlagen ...', 'Wir könnten ...') – das wirkt höflich",
+            "Sprechen Sie nicht nur, sondern hören Sie aktiv zu — reagieren Sie auf die Vorschläge Ihres Partners",
+            "Machen Sie Vorschläge mit Konjunktiv II: 'Ich würde vorschlagen ...', 'Wir könnten ...'",
             "Begründen Sie Ihre Vorschläge kurz: 'weil', 'damit', 'denn'",
-            "Einigen Sie sich am Ende wirklich – ein 'Das machen wir so, einverstanden?' zeigt Abschluss",
-            "Vermeiden Sie Monologe – lassen Sie dem Partner Raum für eigene Ideen",
-            "Verwenden Sie Modalverben: 'sollten wir', 'können wir', 'müssen wir' – das zeigt Planungssprache",
-            "Fassen Sie am Ende die wichtigsten Entscheidungen kurz zusammen"
+            "Verteilen Sie Aufgaben aktiv: 'Ich übernehme ... und du ...'",
+            "Fassen Sie am Ende das gemeinsame Ergebnis zusammen"
           ],
           "keyPhrases": [
             "Ich würde vorschlagen, dass ...",
-            "Was hältst du davon, wenn ...?",
-            "Wir könnten ... machen.",
-            "Das ist eine gute Idee, aber ...",
-            "Alternativ könnten wir auch ...",
-            "Wer übernimmt ...?",
-            "Ich kann ... / Du bringst ... mit, okay?",
-            "Einverstanden!",
-            "Dann halten wir fest: ..."
+            "Was hältst du von ...?",
+            "Wir könnten auch ...",
+            "Das finde ich gut, weil ...",
+            "Ich übernehme ... und du ...",
+            "Also haben wir uns geeinigt auf ..."
           ]
         }
       ]
