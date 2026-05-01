@@ -916,47 +916,47 @@
     "writing": {
       "totalTimeMinutes": 70,
       "tasks": [
-        {
-          "taskNumber": 1,
-          "type": "essay",
-          "instructions": "Wählen Sie eine der folgenden zwei Aufgaben (A oder B) und schreiben Sie einen Text von mindestens 350 Wörtern. Beachten Sie alle vier Leitpunkte.",
-          "instructionsTranslation": "Choose one of the following two tasks (A or B) and write a text of at least 350 words. Address all four guiding points.",
-          "prompt": "Aufgabe A — Erörterung:\n\nZwei Positionen zur Fachkräftezuwanderung:\n\nPosition 1 (Wirtschaftsverband): „Deutschland braucht eine mutige Zuwanderungspolitik. Ohne qualifizierte Arbeitskräfte aus dem Ausland wird die Wirtschaft langfristig schrumpfen. Bürokratische Hürden beim Anerkennungsverfahren müssen sofort abgebaut werden."\n\nPosition 2 (Lokalpolitiker): „Zuwanderung löst den Fachkräftemangel nicht, wenn die Integrationsinfrastruktur fehlt. Wir brauchen zuerst Investitionen in Schulen, Wohnraum und Sprachkurse — dann erst gezielte Anwerbung."\n\nLeitpunkte:\n1. Stellen Sie das Thema in einen größeren gesellschaftlichen Kontext.\n2. Diskutieren Sie Argumente für Position 1.\n3. Diskutieren Sie Argumente für Position 2.\n4. Begründen Sie Ihren eigenen Standpunkt.\n\nAufgabe B — Stellungnahme:\n\nZwei Positionen zur Postwachstumsökonomie:\n\nPosition 1 (Ökonom): „Eine Volkswirtschaft ohne Wachstum ist auf Dauer nicht stabil. Nur Wachstum schafft die Mittel für Klimainvestitionen, soziale Absicherung und technologischen Fortschritt."\n\nPosition 2 (Umweltökonomin): „Dauerhaftes Wachstum in einer endlichen Welt ist eine Illusion. Gesellschaften müssen lernen, Wohlstand jenseits des BIP zu messen und innerhalb planetarer Grenzen zu wirtschaften."\n\nLeitpunkte:\n1. Erläutern Sie, warum diese Debatte heute besonders relevant ist.\n2. Diskutieren Sie, welche Argumente für die Wachstumsposition sprechen.\n3. Diskutieren Sie, welche Argumente für die Postwachstumsposition sprechen.\n4. Nehmen Sie Stellung: Welche Position halten Sie für überzeugender?",
-          "promptTranslation": "Task A — Argumentative essay on skilled labour immigration. Task B — Opinion piece on post-growth economics.",
-          "requiredPoints": [
-            "Gesellschaftlicher Kontext / Relevanz der Debatte",
-            "Argumente für Position 1",
-            "Argumente für Position 2",
-            "Eigener begründeter Standpunkt"
-          ],
-          "wordCountMin": 350,
-          "wordCountMax": 420,
-          "sampleAnswer": "Aufgabe A — Musterlösung:\n\nDer Fachkräftemangel zählt zu den drängendsten Strukturproblemen der deutschen Volkswirtschaft. In einer Gesellschaft, die demografisch altert und gleichzeitig eine technologische Transformation bewältigen muss, ist die Frage, wie qualifiziertes Personal gewonnen und gehalten wird, weit mehr als eine betriebswirtschaftliche Frage — sie berührt die langfristige Innovationsfähigkeit des gesamten Landes.\n\nFür eine mutige Zuwanderungspolitik spricht zunächst die schiere Dringlichkeit: Über 570.000 offene Stellen, Prognosen von mehr als einer Million fehlender Fachkräfte bis 2035 — diese Zahlen lassen sich nicht durch inländische Weiterbildung allein kompensieren. Unternehmen, die heute keine Ingenieure, IT-Spezialisten oder Pflegekräfte finden, verlieren Wettbewerbsfähigkeit, die sich nicht zurückgewinnen lässt. Zudem haben andere Länder gezeigt, dass offene, planvolle Zuwanderungssysteme — wie Kanadas Express Entry oder Australiens punktebasiertes Modell — funktionieren: Sie ziehen genau die Profile an, die der Arbeitsmarkt braucht. Bürokratische Hürden beim Anerkennungsverfahren zu senken ist in diesem Licht keine Konzession, sondern überfällige Modernisierung.\n\nGleichzeitig ist der Einwand der Lokalpolitikerin nicht von der Hand zu weisen: Zuwanderung allein schafft keine Willkommenskultur. Wer nach Deutschland kommt und keinen erschwinglichen Wohnraum, keinen Kita-Platz und keinen niedrigschwelligen Sprachkurs findet, wird nicht bleiben — und wird das Erlebte als Negativmultiplikator in die Herkunftsländer tragen. Die Bereitschaft, in strukturschwachen Regionen anzukommen, hängt entscheidend davon ab, ob dort die Bedingungen stimmen, die ein Leben aufzubauen erlauben. Investitionen in diese Infrastruktur sind daher keine Alternative zur Zuwanderung, sondern deren notwendige Voraussetzung.\n\nIn Anbetracht dieser Abwägung vertrete ich die Position, dass weder Zuwanderung allein noch Infrastruktur allein ausreicht — es handelt sich um eine simultane Herausforderung, die eine kohärente Politik erfordert. Gleichwohl ist die zeitliche Priorisierung entscheidend: Bevor Anwerbeprogramme skaliert werden, müssen Anerkennungsverfahren beschleunigt und kommunale Integrationskapazitäten gestärkt werden. Wer die Reihenfolge umkehrt, riskiert, qualifizierte Zugewanderte zu gewinnen und zu enttäuschen — ein doppelter Schaden, der politisch wie wirtschaftlich teuer zu stehen kommt.",
-          "scoringCriteria": [
             {
-              "criterion": "Aufgabengerechtheit",
-              "maxPoints": 12,
-              "description": "Alle vier Leitpunkte mit C1-Tiefe adressiert; Erörterung sachlich und abwägend; eigener Standpunkt begründet."
-            },
-            {
-              "criterion": "Repertoire",
-              "maxPoints": 12,
-              "description": "Argumentatives Lexikon (Fachkräftemangel, Integrationsinfrastruktur, Wettbewerbsfähigkeit); FVG; Konnektoren-Vielfalt; idiomatische Wendungen."
-            },
-            {
-              "criterion": "Korrektheit",
-              "maxPoints": 12,
-              "description": "Morphologische und syntaktische Korrektheit; Konjunktiv II und Genitiv-Präpositionen korrekt; keine registerbrechenden Fehler."
-            },
-            {
-              "criterion": "Kommunikative Gestaltung",
-              "maxPoints": 12,
-              "description": "Klare Einleitung (Kontextrahmen), ausgewogener Hauptteil, Schluss mit eigenem Standpunkt; Absatzlogik und Kohäsion."
+                  "taskNumber": 1,
+                  "type": "essay",
+                  "instructions": "Wählen Sie eine der folgenden zwei Aufgaben (A oder B) und schreiben Sie einen Text von mindestens 350 Wörtern. Beachten Sie alle vier Leitpunkte.",
+                  "instructionsTranslation": "Choose one of the following two tasks (A or B) and write a text of at least 350 words. Address all four guiding points.",
+                  "prompt": "Aufgabe A — Erörterung:\n\nZwei Positionen zur Fachkräftezuwanderung:\n\nPosition 1 (Wirtschaftsverband): „Deutschland braucht eine mutige Zuwanderungspolitik. Ohne qualifizierte Arbeitskräfte aus dem Ausland wird die Wirtschaft langfristig schrumpfen. Bürokratische Hürden beim Anerkennungsverfahren müssen sofort abgebaut werden.“\n\nPosition 2 (Lokalpolitiker): „Zuwanderung löst den Fachkräftemangel nicht, wenn die Integrationsinfrastruktur fehlt. Wir brauchen zuerst Investitionen in Schulen, Wohnraum und Sprachkurse — dann erst gezielte Anwerbung.“\n\nLeitpunkte:\n1. Stellen Sie das Thema in einen größeren gesellschaftlichen Kontext.\n2. Diskutieren Sie Argumente für Position 1.\n3. Diskutieren Sie Argumente für Position 2.\n4. Begründen Sie Ihren eigenen Standpunkt.\n\nAufgabe B — Stellungnahme:\n\nZwei Positionen zur Postwachstumsökonomie:\n\nPosition 1 (Ökonom): „Eine Volkswirtschaft ohne Wachstum ist auf Dauer nicht stabil. Nur Wachstum schafft die Mittel für Klimainvestitionen, soziale Absicherung und technologischen Fortschritt.“\n\nPosition 2 (Umweltökonomin): „Dauerhaftes Wachstum in einer endlichen Welt ist eine Illusion. Gesellschaften müssen lernen, Wohlstand jenseits des BIP zu messen und innerhalb planetärer Grenzen zu wirtschaften.“\n\nLeitpunkte:\n1. Erläutern Sie, warum diese Debatte heute besonders relevant ist.\n2. Diskutieren Sie, welche Argumente für die Wachstumsposition sprechen.\n3. Diskutieren Sie, welche Argumente für die Postwachstumsposition sprechen.\n4. Nehmen Sie Stellung: Welche Position halten Sie für überzeugender?",
+                  "promptTranslation": "Task A — Argumentative essay on skilled labour immigration. Task B — Opinion piece on post-growth economics.",
+                  "requiredPoints": [
+                        "Gesellschaftlicher Kontext / Relevanz der Debatte",
+                        "Argumente für Position 1",
+                        "Argumente für Position 2",
+                        "Eigener begründeter Standpunkt"
+                  ],
+                  "wordCountMin": 350,
+                  "wordCountMax": 420,
+                  "sampleAnswer": "Aufgabe A — Musterlösung:\n\nDer Fachkräftemangel zählt zu den drängendsten Strukturproblemen der deutschen Volkswirtschaft. In einer Gesellschaft, die demografisch altert und gleichzeitig eine technologische Transformation bewältigen muss, ist die Frage, wie qualifiziertes Personal gewonnen und gehalten wird, weit mehr als eine betriebswirtschaftliche Frage — sie berührt die langfristige Innovationsfähigkeit des gesamten Landes.\n\nFür eine mutige Zuwanderungspolitik spricht zunächst die schiere Dringlichkeit: Über 570.000 offene Stellen, Prognosen von mehr als einer Million fehlender Fachkräfte bis 2035 — diese Zahlen lassen sich nicht durch inländische Weiterbildung allein kompensieren. Unternehmen, die heute keine Ingenieure, IT-Spezialisten oder Pflegekräfte finden, verlieren Wettbewerbsfähigkeit, die sich nicht zurückgewinnen lässt. Zudem haben andere Länder gezeigt, dass offene, planvolle Zuwanderungssysteme — wie Kanadas Express Entry oder Australiens punktebasiertes Modell — funktionieren: Sie ziehen genau die Profile an, die der Arbeitsmarkt braucht. Bürokratische Hürden beim Anerkennungsverfahren zu senken ist in diesem Licht keine Konzession, sondern überfällige Modernisierung.\n\nGleichzeitig ist der Einwand der Lokalpolitikerin nicht von der Hand zu weisen: Zuwanderung allein schafft keine Willkommenskultur. Wer nach Deutschland kommt und keinen erschwinglichen Wohnraum, keinen Kita-Platz und keinen niedrigschwelligen Sprachkurs findet, wird nicht bleiben — und wird das Erlebte als Negativmultiplikator in die Herkunftsländer tragen. Die Bereitschaft, in strukturschwachen Regionen anzukommen, hängt entscheidend davon ab, ob dort die Bedingungen stimmen, die ein Leben aufzubauen erlauben. Investitionen in diese Infrastruktur sind daher keine Alternative zur Zuwanderung, sondern deren notwendige Voraussetzung.\n\nIn Anbetracht dieser Abwägung vertrete ich die Position, dass weder Zuwanderung allein noch Infrastruktur allein ausreicht — es handelt sich um eine simultane Herausforderung, die eine kohärente Politik erfordert. Gleichwohl ist die zeitliche Priorisierung entscheidend: Bevor Anwerbeprogramme skaliert werden, müssen Anerkennungsverfahren beschleunigt und kommunale Integrationskapazitäten gestärkt werden. Wer die Reihenfolge umkehrt, riskiert, qualifizierte Zugewanderte zu gewinnen und zu enttäuschen — ein doppelter Schaden, der politisch wie wirtschaftlich teuer zu stehen kommt.",
+                  "scoringCriteria": [
+                        {
+                              "criterion": "Aufgabengerechtheit",
+                              "maxPoints": 12,
+                              "description": "Alle vier Leitpunkte mit C1-Tiefe adressiert; Erörterung sachlich und abwägend; eigener Standpunkt begründet."
+                        },
+                        {
+                              "criterion": "Repertoire",
+                              "maxPoints": 12,
+                              "description": "Argumentatives Lexikon (Fachkräftemangel, Integrationsinfrastruktur, Wettbewerbsfähigkeit); FVG; Konnektoren-Vielfalt; idiomatische Wendungen."
+                        },
+                        {
+                              "criterion": "Korrektheit",
+                              "maxPoints": 12,
+                              "description": "Morphologische und syntaktische Korrektheit; Konjunktiv II und Genitiv-Präpositionen korrekt; keine registerbrechenden Fehler."
+                        },
+                        {
+                              "criterion": "Kommunikative Gestaltung",
+                              "maxPoints": 12,
+                              "description": "Klare Einleitung (Kontextrahmen), ausgewogener Hauptteil, Schluss mit eigenem Standpunkt; Absatzlogik und Kohäsion."
+                        }
+                  ]
             }
-          ]
-        }
       ]
-    },
+},
     "speaking": {
       "totalTimeMinutes": 16,
       "prepTimeMinutes": 20,
