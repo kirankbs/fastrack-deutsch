@@ -1417,5 +1417,82 @@
       }
     ],
     "orderIndex": 24
+  },
+  {
+    "id": 25,
+    "level": "B1",
+    "topic": "Pronominaladverbien — darauf, daran, dafür, davon, dazu / worauf, woran, wofür, wovon, wozu",
+    "explanation": "Pronominaladverbien ersetzen Präposition + Pronomen, wenn sich der Bezug auf eine Sache oder einen abstrakten Begriff bezieht (nicht auf Personen). Bildung: da(r) + Präposition. Vor Präpositionen, die mit Vokal beginnen, wird ein -r- eingefügt: darüber, daran, darauf, darum. Kein -r-: damit, dabei, dazu, dafür, davon, dadurch. Bei Personen steht Präposition + Pronomen: Ich warte auf ihn (nicht: darauf). Für Fragen nach Sachen und Abstrakta: wo(r) + Präposition → worauf, woran, wofür, wovon, wozu. 'Worauf wartest du?' ist korrekt, 'Auf was wartest du?' gilt als umgangssprachlich. Feste Präpositionsverben bestimmen die Form: sich freuen auf → darauf; denken an → daran; warten auf → darauf; sich interessieren für → dafür; Angst haben vor → davor.",
+    "examples": [
+      "Ich freue mich darauf.",
+      "Worauf wartest du?",
+      "Sie denkt oft daran.",
+      "Ich habe Angst davor.",
+      "Damit kann ich nichts anfangen.",
+      "Wofür interessierst du dich?",
+      "Wir reden gerade darüber.",
+      "Kannst du dich daran erinnern?"
+    ],
+    "exercises": [
+      {
+        "type": "fill_blank",
+        "prompt": "Er wartet auf die Antwort. → Er wartet ___ .",
+        "correctAnswer": "darauf",
+        "explanation": "warten auf + Sache → Pronominaladverb: da + r + auf = darauf. Das -r- wird eingefügt, weil 'auf' mit Vokal beginnt."
+      },
+      {
+        "type": "fill_blank",
+        "prompt": "Sie interessiert sich für das Thema. → Sie interessiert sich ___ .",
+        "correctAnswer": "dafür",
+        "explanation": "sich interessieren für + Sache → dafür. Kein -r- nötig, da 'für' mit Konsonant beginnt."
+      },
+      {
+        "type": "fill_blank",
+        "prompt": "Ich denke an den Plan. → Ich denke ___ .",
+        "correctAnswer": "daran",
+        "explanation": "denken an + Sache → daran. -r- vor vokalisch anlautender Präposition 'an'."
+      },
+      {
+        "type": "fill_blank",
+        "prompt": "Wir freuen uns auf das Konzert. → Wir freuen uns ___ .",
+        "correctAnswer": "darauf",
+        "explanation": "sich freuen auf + Sache → darauf. Präposition 'auf' beginnt mit Vokal, daher da-r-auf."
+      },
+      {
+        "type": "fill_blank",
+        "prompt": "___ denkst du gerade? — An den Urlaub.",
+        "correctAnswer": "Woran",
+        "explanation": "Frage nach Sache/Abstraktum mit 'denken an': wo + r + an = Woran. Nicht 'An was' (umgangssprachlich)."
+      },
+      {
+        "type": "fill_blank",
+        "prompt": "___ wartet sie so lange? — Auf die Prüfungsergebnisse.",
+        "correctAnswer": "Worauf",
+        "explanation": "Frage nach Sache mit 'warten auf': wo + r + auf = Worauf. Das -r- erscheint, weil 'auf' mit Vokal beginnt."
+      },
+      {
+        "type": "multiple_choice",
+        "prompt": "Die Klasse freut sich ___ den Ausflug.",
+        "correctAnswer": "darauf",
+        "options": [
+          "darauf",
+          "auf ihn",
+          "auf es"
+        ],
+        "explanation": "'Ausflug' ist eine Sache, kein Mensch → Pronominaladverb darauf. 'auf ihn' wäre für eine Person; 'auf es' ist kein gültiges Pronominaladverb."
+      },
+      {
+        "type": "multiple_choice",
+        "prompt": "___ hast du so lange gespart? — Auf eine neue Kamera.",
+        "correctAnswer": "Wofür",
+        "options": [
+          "Wofür",
+          "Für was",
+          "Womit"
+        ],
+        "explanation": "'sparen für' + Sache → Frage mit wofür. 'Für was' gilt als umgangssprachlich; 'Womit' passt nicht zur Präposition 'für'."
+      }
+    ],
+    "orderIndex": 25
   }
 ]
