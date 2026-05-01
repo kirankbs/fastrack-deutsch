@@ -1,0 +1,104 @@
+<speak>
+  <!-- C1 Mock 07 — Teil 3 (10 MCQ-3opt, akademischer Vortrag, playCount=2) -->
+  <!-- CR-11: NO gap cues — continuous lecture, MCQ format (CR-12) -->
+  <!-- Speaker: de-DE-Wavenet-D (male) — academic lecturer, wissenschaftlich register -->
+  <!-- Announcer: de-DE-Wavenet-C (female) -->
+  <!-- C1 spec: natural speed 1.0x, played TWICE, no internal gap signals -->
+  <!-- 10-second initial pause for candidates to read questions before audio begins -->
+  <!-- Topic: Provenienzforschung und internationale Restitutionspolitik -->
+
+  <break time="3s"/>
+
+  <voice name="de-DE-Wavenet-C">
+    <prosody rate="1.0">
+      Hörverstehen, Teil 3. Sie hören einen akademischen Vortrag zum Thema
+      Provenienzforschung und internationale Restitutionspolitik.
+      Lesen Sie zuerst die zehn Fragen in Ihrem Testheft.
+      Was ist richtig? Kreuzen Sie an: a, b oder c.
+      Sie hören den Vortrag zweimal.
+    </prosody>
+    <break time="10s"/>
+  </voice>
+
+  <!-- VORTRAG BEGINNT — KEINE INTERNEN PAUSENSIGNALE -->
+  <voice name="de-DE-Wavenet-D">
+    <prosody rate="1.0">
+      Meine Damen und Herren, herzlich willkommen zu diesem Vortrag über Provenienzforschung
+      und die internationale Restitutionspolitik — ein Thema, das in der Kulturpolitik
+      zunehmend an juristischer, moralischer und diplomatischer Brisanz gewinnt.
+
+      Beginnen wir mit der methodischen Grundlage. Seriöse Provenienzforschung setzt zwingend
+      den Zugang zu zwei Quelltypen voraus: erstens die internen Archive von Museen und Sammlungen,
+      in denen Erwerbsvorgänge, Kaufverträge und Schenkungsurkunden dokumentiert sind; zweitens
+      koloniale Verwaltungsakten — also Gouvernementsberichte, Militärjournale und Handelsregister
+      aus der Kolonialepoche, die in europäischen Nationalarchiven lagern. Ohne diese Kombination
+      bleibt die Forschung methodisch blind: Sie kann Objekte beschreiben, aber nicht die Bedingungen
+      ihres Erwerbs rekonstruieren.
+
+      Kommen wir zu den rechtlichen Rahmenbedingungen. Die Washingtoner Prinzipien von 1998 bilden
+      den zentralen internationalen Referenzrahmen — allerdings primär für Kulturgüter, die während
+      der NS-Zeit entzogen wurden. Sie sind keine bindenden Rechtsverträge, sondern politische
+      Selbstverpflichtungserklärungen der Unterzeichnerstaaten. Das hat eine entscheidende Schwäche:
+      Interpretation und Umsetzung verbleiben bei den Institutionen selbst — also genau jenen,
+      die ein strukturelles Interesse an einer engen Auslegung haben können.
+
+      Für koloniales Kulturgut fehlt ein vergleichbarer rechtlicher Rahmen vollständig. Während
+      NS-Raubkunst durch die Washingtoner Prinzipien und verschiedene nationale Gesetze zumindest
+      partiell abgesichert ist, bewegt sich die Restitution kolonialer Objekte bislang fast
+      ausschließlich im Raum politischer Freiwilligkeit. Das erklärt, warum Einzelstaaten wie
+      Frankreich mit dem Sarr-Savoy-Bericht Maßstäbe setzen konnten, ohne dass andere europäische
+      Länder unmittelbar unter Handlungsdruck gerieten.
+
+      Ein zentraler Begriff in der Debatte ist das sogenannte 'shared custodianship' — das Konzept
+      einer geteilten Obhut oder geteilten Autorschaft. Es bezeichnet ein Modell, bei dem physischer
+      Verbleib und kuratorische Kontrolle entkoppelt werden: Objekte können formal in Europa bleiben,
+      während Herkunftsgesellschaften die inhaltliche und kuratorische Entscheidungshoheit über ihre
+      Präsentation, Kontextualisierung und Nutzung erhalten. Dieses Modell ist theoretisch attraktiv,
+      weil es die Dichotomie zwischen 'wir geben zurück' und 'wir behalten' aufzulösen versucht.
+      In der Praxis hängt seine Qualität davon ab, ob die kuratorische Kontrolle tatsächlich substanziell
+      ist — oder nur formal-symbolisch.
+
+      Eine empirische Beobachtung ist in diesem Kontext aufschlussreich: Museen, die auf gesellschaftlichen
+      Druck mit kuratorischer Vertiefung reagiert haben — also mit expliziter Auseinandersetzung mit
+      der kolonialen Herkunft ihrer Bestände —, haben überdurchschnittliche Besuchszahlen verzeichnet.
+      Das Rijksmuseum Amsterdam mit seiner Ausstellung zur Sklaverei ist das meistzitierte Beispiel:
+      Die Ausstellung war die meistbesuchte in der Geschichte des Hauses. Das widerlegt die defensive
+      Institutionslogik, nach der kritische Reflexion Besucher abschreckt.
+
+      Das sogenannte 'capacity-building'-Argument — also die Aussage, dass Rückgaben aufgeschoben
+      werden müssen, bis Herkunftsländer ausreichende Museumsinfrastruktur haben — ist eines der
+      umstrittensten in der Debatte. Wer es als Hindernis für Restitution verwendet, reproduziert
+      eine paternalistische Logik: Europa entscheidet, wann ein Herkunftsland 'bereit' ist, sein
+      eigenes Erbe zu empfangen. Das ist inakzeptabel. Das Argument ist kein Grund gegen Rückgabe,
+      sondern ein Argument für europäisch finanzierte Infrastrukturhilfen — die der Rückgabe folgen,
+      nicht sie ersetzen.
+
+      Zur Terminologie: Der Begriff 'Raubkunst' ist prägnant, aber methodisch unscharf. Er suggeriert,
+      dass alle kolonialen Erwerbsvorgänge durch offene Gewalt erfolgten — was historisch nicht stimmt.
+      Eine substanzielle Zahl von Objekten wurde käuflich erworben, als Geschenk übergeben oder
+      im Rahmen 'diplomatischer' Austausche transferiert — wobei die Freiwilligkeit dieser Vorgänge
+      unter kolonialen Machtbedingungen grundlegend fraglich bleibt. Methodologisch präziser ist daher
+      der Begriff 'Kulturgut kolonialzeitlicher Herkunft', der keine Vorannahme über die Art des Erwerbs
+      trifft, sondern den historischen Kontext als Analyserahmen setzt.
+
+      Ein strukturelles Problem, das in der öffentlichen Debatte selten offen benannt wird, ist der
+      Interessenkonflikt in der Provenienzforschung. Museen beauftragen und finanzieren in der Regel
+      Forschung über ihre eigenen Sammlungsgeschichten — also Forschung, deren Ergebnisse unmittelbare
+      Konsequenzen für die Institution selbst haben können. Das schafft einen strukturellen Bias,
+      der durch unabhängige Forschungsstellen und öffentliche Finanzierung gemindert werden muss.
+
+      Abschließend: Was braucht es, damit Restitutionspolitik wirklich nachhaltig wirkt? Ich nenne
+      drei Voraussetzungen. Erstens einen verbindlichen rechtlichen Rahmen, der Provenienzforschung
+      nicht als freiwillige Praxis, sondern als gesetzliche Pflicht kodifiziert. Zweitens strukturelle
+      Finanzierung, die der Aufgabe angemessen ist. Und drittens die Bereitschaft, koloniale
+      Geschichtsnarrative nicht nur in Einzelentscheidungen, sondern in der institutionellen
+      Grundausrichtung zu revidieren. Restitution ist kein Abschluss — sie ist ein Anfang.
+      Ich danke Ihnen für Ihre Aufmerksamkeit.
+    </prosody>
+  </voice>
+  <break time="3s"/>
+
+  <voice name="de-DE-Wavenet-C">
+    <prosody rate="1.0">Das ist das Ende von Teil 3 und das Ende des Hörverstehens.</prosody>
+  </voice>
+</speak>
