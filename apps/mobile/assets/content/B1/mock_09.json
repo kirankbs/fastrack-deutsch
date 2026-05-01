@@ -763,31 +763,36 @@
     },
     "writing": {
       "totalTimeMinutes": 30,
-      "parts": [
+      "tasks": [
         {
-          "partNumber": 1,
-          "instructions": "Sie haben einen Brief von Ihrer Brieffreundin Sofia bekommen. Sofia schreibt, dass sie sich im letzten Urlaub ein kleines Kaninchen zugelegt hat, und fragt Sie, ob Sie auch Haustiere mögen. Schreiben Sie Sofia einen Brief. Schreiben Sie etwas zu allen vier Punkten unten. Überlegen Sie sich eine passende Reihenfolge der Punkte, eine passende Einleitung und einen passenden Schluss. Vergessen Sie nicht Datum und Anrede.",
-          "instructionsTranslation": "You have received a letter from your pen pal Sofia. Sofia writes that she got a small rabbit on her last holiday, and asks whether you like pets too. Write Sofia a letter. Write something about all four points below. Think of a suitable order for the points, a suitable introduction and a suitable conclusion. Don't forget the date and greeting.",
-          "promptLetter": {
-            "from": "Sofia",
-            "content": "Liebe(r) ...,\n\ndanke für deinen letzten Brief – ich habe mich sehr darüber gefreut! Ich muss dir unbedingt erzählen, was ich im Urlaub gemacht habe: Ich war drei Wochen in den Bergen und habe dort zufällig ein winziges Kaninchen gefunden, dem es nicht gut ging. Ich habe es mit nach Hause genommen und ihm den Namen Flecki gegeben. Jetzt ist er mein liebstes Haustier!\n\nHast du eigentlich auch Haustiere? Oder magst du Tiere überhaupt? Ich würde mich freuen, mehr darüber zu erfahren.\n\nLiebe Grüße\ndeine\nSofia"
-          },
-          "bulletPoints": [
+          "taskNumber": 1,
+          "type": "letter",
+          "instructions": "Sie haben einen Brief von Ihrer Brieffreundin Sofia bekommen. Sofia schreibt, dass sie sich im letzten Urlaub ein kleines Kaninchen zugelegt hat, und fragt Sie, ob Sie auch Haustiere mögen. Schreiben Sie Sofia einen Brief. Gehen Sie auf alle vier Punkte ein. Achten Sie auf eine passende Anrede und einen passenden Gruß. Schreiben Sie ca. 150 Wörter.",
+          "instructionsTranslation": "You have received a letter from your pen pal Sofia. Sofia writes that she got a small rabbit on her last holiday, and asks whether you like pets too. Write Sofia a letter. Address all four points. Pay attention to an appropriate greeting and closing. Write approx. 150 words.",
+          "prompt": "Liebe(r) ...,\n\ndanke für deinen letzten Brief – ich habe mich sehr darüber gefreut! Ich muss dir unbedingt erzählen, was ich im Urlaub gemacht habe: Ich war drei Wochen in den Bergen und habe dort zufällig ein winziges Kaninchen gefunden, dem es nicht gut ging. Ich habe es mit nach Hause genommen und ihm den Namen Flecki gegeben. Jetzt ist er mein liebstes Haustier!\n\nHast du eigentlich auch Haustiere? Oder magst du Tiere überhaupt? Ich würde mich freuen, mehr darüber zu erfahren.\n\nLiebe Grüße\ndeine\nSofia",
+          "promptTranslation": "Dear ..., thank you for your last letter – I was so happy to receive it! I must tell you what I did on holiday: I spent three weeks in the mountains and by chance found a tiny rabbit that wasn't doing well. I took it home and named him Flecki. He's now my favourite pet! Do you have any pets? Or do you like animals at all? I'd love to find out more. Warm regards, Sofia",
+          "requiredPoints": [
             "Ob Sie Tiere mögen und warum (nicht)",
             "Welches Tier Sie haben oder haben möchten",
             "Eine Erfahrung, die Sie mit einem Tier gemacht haben",
             "Eine Frage an Sofia über Flecki"
           ],
-          "wordCountTarget": "130–170 Wörter",
-          "sampleAnswer": {
-            "text": "Frankfurt, 12. März\n\nLiebe Sofia,\n\nvielen Dank für deinen tollen Brief! Deine Geschichte mit Flecki hat mich sehr berührt – es ist wunderbar, dass du dem kleinen Kaninchen geholfen hast.\n\nIch mag Tiere sehr gerne, vor allem Hunde. Sie sind treu, fröhlich und immer da, wenn man Gesellschaft braucht. Leider darf ich in meiner Wohnung kein Haustier halten, weil mein Vermieter das nicht erlaubt. Am liebsten würde ich mir einen Golden Retriever anschaffen.\n\nEine unvergessliche Erfahrung hatte ich letzten Sommer: Bei meinen Großeltern auf dem Land durfte ich einen Bauernhofhund namens Bruno ausführen. Er hat mich einfach nicht mehr losgelassen – wir waren die ganze Woche unzertrennlich!\n\nJetzt würde ich gerne mehr über Flecki erfahren: Was frisst er am liebsten, und schläft er nachts ruhig?\n\nLiebe Grüße\ndein(e) ...",
-            "wordCount": 152
-          },
-          "scoringCriteria": {
-            "contentPoints": 4,
-            "languagePoints": 4,
-            "totalPoints": 8
-          }
+          "wordCountMin": 130,
+          "wordCountMax": 170,
+          "sampleAnswer": "Frankfurt, 12. März\n\nLiebe Sofia,\n\nvielen Dank für deinen tollen Brief! Deine Geschichte mit Flecki hat mich sehr berührt – es ist wunderbar, dass du dem kleinen Kaninchen geholfen hast.\n\nIch mag Tiere sehr gerne, vor allem Hunde. Sie sind treu, fröhlich und immer da, wenn man Gesellschaft braucht. Leider darf ich in meiner Wohnung kein Haustier halten, weil mein Vermieter das nicht erlaubt. Am liebsten würde ich mir einen Golden Retriever anschaffen.\n\nEine unvergessliche Erfahrung hatte ich letzten Sommer: Bei meinen Großeltern auf dem Land durfte ich einen Bauernhofhund namens Bruno ausführen. Er hat mich einfach nicht mehr losgelassen – wir waren die ganze Woche unzertrennlich!\n\nJetzt würde ich gerne mehr über Flecki erfahren: Was frisst er am liebsten, und schläft er nachts ruhig?\n\nLiebe Grüße\ndein(e) ...",
+          "sampleAnswerMetadata": "152 words. Demonstrates: Konjunktiv II (würde + Infinitiv), Relativsatz, Nebensatz mit weil, Adverbien zur Zeitangabe.",
+          "scoringCriteria": [
+            {
+              "criterion": "Inhalt",
+              "maxPoints": 4,
+              "description": "Alle vier Punkte werden angesprochen und sind verständlich ausgedrückt."
+            },
+            {
+              "criterion": "Sprache",
+              "maxPoints": 4,
+              "description": "Korrekte Grammatik, angemessener Wortschatz, flüssiger Satzbau."
+            }
+          ]
         }
       ]
     },
@@ -797,58 +802,60 @@
       "parts": [
         {
           "partNumber": 1,
-          "title": "Kontaktaufnahme",
-          "durationMinutes": 3,
-          "instructions": "Sie möchten Ihre Partnerin / Ihren Partner näher kennenlernen. Stellen Sie Fragen zu folgenden Punkten.",
-          "instructionsTranslation": "You would like to get to know your partner better. Ask questions about the following points.",
-          "prompts": [
-            "Name",
-            "Woher Sie kommen",
-            "Wo und wie Sie wohnen",
-            "Familie und Geschwister",
-            "Wo Sie Deutsch gelernt haben",
-            "Ob Sie schon in anderen Ländern waren",
-            "Was Sie im Moment machen (Schule, Studium, Beruf, Hobbys)"
+          "type": "introduce",
+          "instructions": "Sie möchten Ihre Partnerin / Ihren Partner näher kennenlernen und stellen ihr/ihm einige Fragen. Versuchen Sie, so viele Informationen wie möglich zu bekommen.",
+          "instructionsTranslation": "You would like to get to know your partner better and ask them some questions. Try to find out as much information as possible.",
+          "prompt": "Stellen Sie Ihrer Partnerin / Ihrem Partner Fragen zu folgenden Punkten:\n- Name\n- Woher sie/er kommt\n- Wo und wie sie/er wohnt\n- Familie und Geschwister\n- Wo sie/er Deutsch gelernt hat\n- Ob sie/er schon in anderen Ländern war\n- Was sie/er im Moment macht (Schule, Studium, Beruf, Hobbys)",
+          "sampleResponse": "Guten Tag, ich heiße Mia Schneider und komme ursprünglich aus Wien. Seit drei Jahren wohne ich in Hamburg, in einer kleinen Zweizimmerwohnung im Zentrum. Ich habe zwei Geschwister – eine ältere Schwester und einen jüngeren Bruder. Deutsch ist meine Muttersprache, aber ich lerne auch Englisch und Spanisch. Letztes Jahr war ich für zwei Monate in Spanien. Im Moment studiere ich Biologie und interessiere mich besonders für Tiere und Natur.",
+          "evaluationTips": [
+            "Stellen Sie offene Fragen, nicht nur Ja/Nein-Fragen.",
+            "Reagieren Sie auf die Antworten – zeigen Sie Interesse durch Nachfragen.",
+            "Strukturieren Sie Ihre eigene Vorstellung: Name, Herkunft, Wohnort, Familie, Beruf/Studium."
+          ],
+          "keyPhrases": [
+            "Ich heiße ... und komme aus ...",
+            "Seit ... Jahren wohne ich in ...",
+            "Darf ich fragen, wie lange Sie schon ...?",
+            "Das ist interessant – und was machen Sie beruflich?"
           ]
         },
         {
           "partNumber": 2,
-          "title": "Gespräch über ein Thema: Mensch und Tier",
-          "durationMinutes": 6,
+          "type": "discussion",
           "instructions": "Berichten Sie Ihrer Partnerin / Ihrem Partner kurz über die Informationen auf Ihrem Blatt. Hören Sie auch dem Bericht Ihrer Partnerin / Ihres Partners zu. Erzählen Sie danach von Ihren eigenen Erfahrungen und stellen Sie Fragen.",
           "instructionsTranslation": "Briefly report the information on your card to your partner. Also listen to your partner's report. Then talk about your own experiences and ask questions.",
-          "candidateCards": [
-            {
-              "candidate": "A",
-              "topic": "Mensch und Tier",
-              "stimulus": "Haustiere in deutschen Haushalten\n\nLaut einer aktuellen Umfrage:\n- 34 % aller deutschen Haushalte haben mindestens ein Haustier\n- Beliebteste Haustiere: Katzen (16,7 Mio.), Hunde (10,6 Mio.), Kleintiere (5,4 Mio.)\n- Junge Erwachsene (18-35 J.) kaufen sich häufiger Haustiere als früher\n\nAufgabe: Berichten Sie kurz über diese Informationen. Erzählen Sie dann von Ihren eigenen Erfahrungen mit Haustieren und stellen Sie Ihrer Partnerin / Ihrem Partner Fragen.",
-              "taskDescription": "Berichten Sie kurz über die Grafik. Erzählen Sie danach von persönlichen Erfahrungen und stellen Sie Fragen."
-            },
-            {
-              "candidate": "B",
-              "topic": "Mensch und Tier",
-              "stimulus": "Tiere und Kinder\n\nPsychologen empfehlen Haustiere für Kinder:\n- Kinder mit Haustier zeigen mehr Verantwortungsbewusstsein\n- Haustiere fördern soziale Kompetenz und Einfühlungsvermögen\n- Hunde gelten als besonders positiv für die Entwicklung von Kindern\n- Aber: Eltern müssen die Hauptverantwortung übernehmen\n\nAufgabe: Berichten Sie kurz über diese Informationen. Erzählen Sie dann von Ihren eigenen Erfahrungen und stellen Sie Fragen.",
-              "taskDescription": "Berichten Sie kurz über den Text. Erzählen Sie danach von persönlichen Erfahrungen und stellen Sie Fragen."
-            }
+          "prompt": "Thema: Mensch und Tier\n\nKandidat A – Haustiere in deutschen Haushalten:\nLaut einer aktuellen Umfrage haben 34 % aller deutschen Haushalte mindestens ein Haustier. Beliebteste Haustiere sind Katzen (16,7 Mio.), Hunde (10,6 Mio.) und Kleintiere (5,4 Mio.). Junge Erwachsene (18–35 J.) kaufen sich häufiger Haustiere als früher.\n\nKandidat B – Tiere und Kinder:\nPsychologen empfehlen Haustiere für Kinder. Kinder mit Haustier zeigen mehr Verantwortungsbewusstsein und stärkeres Einfühlungsvermögen. Hunde gelten als besonders positiv für die Entwicklung. Eltern müssen aber die Hauptverantwortung übernehmen.",
+          "sampleResponse": "Laut meiner Information haben 34 Prozent der deutschen Haushalte ein Haustier. Das finde ich erstaunlich – fast jeder dritte Haushalt. Am beliebtesten sind Katzen, dann kommen Hunde. Ich persönlich hatte als Kind einen Hund namens Rex. Er hat mir wirklich geholfen, ruhiger und verantwortungsvoller zu werden. Haben Sie selbst Haustiere oder hatten Sie früher welche?",
+          "evaluationTips": [
+            "Beginnen Sie mit einer klaren Zusammenfassung der Grafik oder des Textes.",
+            "Nutzen Sie Wendungen wie 'Laut meiner Information ...' oder 'Der Text zeigt, dass ...'",
+            "Verknüpfen Sie die Information mit persönlichen Erfahrungen – das macht das Gespräch natürlicher."
+          ],
+          "keyPhrases": [
+            "Laut meiner Information ...",
+            "Das finde ich interessant, weil ...",
+            "Haben Sie selbst Erfahrungen damit gemacht?",
+            "Im Vergleich dazu ..."
           ]
         },
         {
           "partNumber": 3,
-          "title": "Gemeinsame Aufgabe lösen: Stadtbummel planen",
-          "durationMinutes": 6,
+          "type": "planning",
           "instructions": "Sie und Ihre Partnerin / Ihr Partner planen zusammen einen Stadtbummel für einen freien Samstag in einer Ihnen unbekannten Stadt. Überlegen Sie gemeinsam, was alles zu tun und zu entscheiden ist.",
           "instructionsTranslation": "You and your partner are planning a day exploring an unfamiliar city on a free Saturday. Decide together what needs to be done and agreed on.",
-          "scenario": "Sie haben beide einen freien Samstag und möchten gemeinsam eine neue Stadt erkunden. Besprechen Sie, wie Sie den Tag gestalten.",
-          "planningPoints": [
-            "Wann treffen Sie sich, und wo?",
-            "Womit fahren Sie in die Stadt (Bahn, Auto, Fahrrad)?",
-            "Was möchten Sie besichtigen (Altstadt, Museum, Park)?",
-            "Wo essen Sie zu Mittag?",
-            "Was machen Sie am Nachmittag?",
-            "Möchten Sie abends noch etwas unternehmen?",
-            "Was tun Sie, wenn das Wetter schlecht ist?"
+          "prompt": "Sie haben beide einen freien Samstag und möchten gemeinsam eine neue Stadt erkunden.\n\nPlanen Sie gemeinsam:\n- Wann und wo treffen Sie sich?\n- Womit fahren Sie in die Stadt (Bahn, Auto, Fahrrad)?\n- Was möchten Sie besichtigen (Altstadt, Museum, Park)?\n- Wo essen Sie zu Mittag?\n- Was machen Sie am Nachmittag?\n- Möchten Sie abends noch etwas unternehmen?\n- Was tun Sie, wenn das Wetter schlecht ist?",
+          "sampleResponse": "Also, ich würde vorschlagen, uns um 9 Uhr am Bahnhof zu treffen und dann mit der S-Bahn in die Innenstadt zu fahren – das ist am einfachsten. Zuerst könnten wir durch die Altstadt schlendern und uns die Sehenswürdigkeiten ansehen. Zu Mittag esse ich am liebsten in einem kleinen Restaurant – was hältst du davon? Am Nachmittag würde ich gerne ein Museum besuchen. Und wenn das Wetter schlecht wird, könnten wir einfach ins Café gehen und uns unterhalten.",
+          "evaluationTips": [
+            "Machen Sie konkrete Vorschläge – vermeiden Sie vage Aussagen wie 'vielleicht irgendwas'.",
+            "Reagieren Sie aktiv auf die Ideen Ihres Partners: zustimmen, ablehnen, einen Kompromiss vorschlagen.",
+            "Sprechen Sie alle oder die meisten Planungspunkte an."
           ],
-          "examinerNotes": "Prüfer/in: Kandidaten sollen gemeinsam einen konkreten Plan entwickeln. Beide müssen Vorschläge machen und auf Vorschläge der Partnerin/des Partners reagieren. Mindestens drei Planungspunkte sollen besprochen werden."
+          "keyPhrases": [
+            "Ich würde vorschlagen, dass ...",
+            "Was hältst du von ...?",
+            "Einverstanden – oder hättest du lieber ...?",
+            "Falls das Wetter schlecht ist, könnten wir ..."
+          ]
         }
       ]
     }
