@@ -2,7 +2,7 @@
   "id": "B1_mock_04",
   "level": "B1",
   "title": "B1 Übungstest 4: Medien",
-  "version": 1,
+  "version": 2,
   "sections": {
     "listening": {
       "totalTimeMinutes": 30,
@@ -170,67 +170,67 @@
             {
               "id": "B1_m04_L3_q1",
               "type": "mcq",
-              "questionText": "Warum ruft der Mann beim Streaming-Anbieter an?",
+              "questionText": "Weshalb hat Karola ihren Wagen in die Werkstatt gebracht?",
               "options": [
-                "a) Er möchte sein Abo kündigen.",
-                "b) Er kann sich nicht mehr in sein Konto einloggen.",
-                "c) Er beschwert sich über eine falsche Abbuchung."
+                "a) Die Bremsen haben bei einer Kontrolle nicht bestanden.",
+                "b) Der Motor springt seit einigen Tagen nicht mehr an.",
+                "c) Das Auto verliert nach jeder Fahrt Motoröl."
               ],
-              "correctAnswer": "b",
-              "explanation": "Der Kunde sagt am Anfang: 'Ich komme seit zwei Tagen nicht mehr in mein Konto rein – das Passwort wird immer abgelehnt.' Das Login ist also das Hauptproblem. Kündigung und Abbuchung werden zwar kurz erwähnt, sind aber nicht der Grund des Anrufs.",
-              "audioTimestamp": 14
+              "correctAnswer": "c",
+              "explanation": "Karola sagt: 'Ich bemerke immer wieder Ölflecken unter dem Wagen – das kann ich nicht ignorieren.' Bremsen und Anlasser werden im Gespräch zwar erwähnt, sind aber nicht der Anlass. Distraktor a) ist eine subject-swap-Falle: Kontrolle klingt nach TÜV, hat aber nichts mit dem Ölverlust zu tun.",
+              "audioTimestamp": 12
             },
             {
               "id": "B1_m04_L3_q2",
               "type": "mcq",
-              "questionText": "Worauf einigen sich die beiden Freunde am Ende?",
+              "questionText": "Wozu entscheiden sich Jan und Lea nach dem Gespräch?",
               "options": [
-                "a) Sie schauen den Film am Wochenende gemeinsam im Kino.",
-                "b) Sie schauen den Film heute Abend zu Hause.",
-                "c) Sie verzichten auf den Film und spielen lieber Karten."
+                "a) Sie kaufen gemeinsam ein gebrauchtes Auto.",
+                "b) Sie leihen sich ein Carsharing-Fahrzeug für das Wochenende.",
+                "c) Sie fahren mit dem Zug, weil das Carsharing zu teuer ist."
               ],
-              "correctAnswer": "a",
-              "explanation": "Am Schluss sagt einer: 'Okay, dann warten wir bis Samstag und schauen ihn lieber auf der großen Leinwand.' Das Kino am Wochenende ist die Entscheidung. Option b) wird zwar vorgeschlagen, aber abgelehnt, weil der Fernseher kaputt ist.",
-              "audioTimestamp": 50
+              "correctAnswer": "b",
+              "explanation": "Am Ende sagt Jan: 'Dann reservieren wir ein Carsharing-Auto für Samstag – das reicht für die Strecke.' Option a) war ein früherer Vorschlag, der abgelehnt wurde. Option c) ist eine time-frame-Falle: Der Zug wurde für die Zukunft erwähnt, aber nicht als aktuelle Entscheidung.",
+              "audioTimestamp": 48
             },
             {
               "id": "B1_m04_L3_q3",
               "type": "mcq",
-              "questionText": "Was empfiehlt die Verkäuferin im Elektronikgeschäft?",
+              "questionText": "Was rät der Verkäufer dem Kunden bei der Reifenwahl?",
               "options": [
-                "a) einen Fernseher mit besonders großem Bildschirm",
-                "b) einen mittelgroßen Fernseher mit guter Internetverbindung",
-                "c) das günstigste Modell aus dem Sonderangebot"
+                "a) die günstigsten Sommerreifen, da sie für das ganze Jahr reichen",
+                "b) Winterreifen auf Vorrat kaufen, weil sie im Sommer billiger sind",
+                "c) Allwetterreifen, weil der Kunde nur wenige Kilometer pro Jahr fährt"
               ],
-              "correctAnswer": "b",
-              "explanation": "Die Verkäuferin sagt: 'Für Ihr Wohnzimmer würde ich Ihnen das 55-Zoll-Modell für 699 Euro empfehlen – Bildqualität und Internetanschluss sind hier wirklich überzeugend.' Sie empfiehlt also ein mittelgroßes Gerät mit gutem Internetanschluss.",
-              "audioTimestamp": 88
+              "correctAnswer": "c",
+              "explanation": "Der Verkäufer erklärt: 'Wenn Sie kaum fahren und kein zweites Reifenset lagern möchten, sind Allwetterreifen für Sie die wirtschaftlichste Lösung.' Option a) enthält die Falschinformation 'ganzjährig reichen' – diese macht der Verkäufer ausdrücklich nicht. Option b) ist eine generalisation-Falle, die im Gespräch nicht vorkommt.",
+              "audioTimestamp": 85
             },
             {
               "id": "B1_m04_L3_q4",
               "type": "mcq",
-              "questionText": "Warum möchte die Mutter nicht, dass ihre Tochter ein eigenes Smartphone bekommt?",
+              "questionText": "Aus welchem Grund sucht Herr Bauer eine Mitfahrgelegenheit?",
               "options": [
-                "a) Die Tochter ist noch zu jung dafür.",
-                "b) Die Familie hat gerade nicht genug Geld.",
-                "c) Die Mutter sorgt sich um die Bildschirmzeit."
+                "a) Sein Führerschein wurde ihm für drei Monate entzogen.",
+                "b) Sein Auto ist derzeit in der Werkstatt und kommt erst Ende der Woche zurück.",
+                "c) Er möchte aus Umweltgründen seltener mit dem eigenen Auto fahren."
               ],
-              "correctAnswer": "c",
-              "explanation": "Die Mutter erklärt: 'Es geht nicht ums Geld oder ums Alter – ich mache mir Sorgen, dass du zu lange vor dem Display sitzt.' Die Bildschirmzeit ist also der Hauptgrund.",
-              "audioTimestamp": 122
+              "correctAnswer": "b",
+              "explanation": "Herr Bauer sagt: 'Mein Wagen liegt gerade in der Werkstatt – frühestens Freitag hole ich ihn ab.' Führerscheinentzug kommt nicht vor. Option c) ist eine causal-reversal-Falle: Er nennt Umweltschutz als generelles Ziel, aber der konkrete Grund ist der Werkstattaufenthalt.",
+              "audioTimestamp": 120
             },
             {
               "id": "B1_m04_L3_q5",
               "type": "mcq",
-              "questionText": "Was ist das größte Problem der Studentin mit ihrem neuen Laptop?",
+              "questionText": "Was sagt die Frau über den Gebrauchtwagen, den sie sich angesehen hat?",
               "options": [
-                "a) Der Laptop war deutlich zu teuer.",
-                "b) Der Akku hält nur sehr kurz.",
-                "c) Die Tastatur ist für sie unpraktisch."
+                "a) Der Preis ist angemessen, aber das Fahrzeug hat zu viele Kilometer.",
+                "b) Das Fahrzeug hat wenig Kilometerstand, kostet jedoch mehr als geplant.",
+                "c) Kilometerstand und Preis passen, doch das Auto riecht stark nach Rauch."
               ],
-              "correctAnswer": "b",
-              "explanation": "Die Studentin klagt: 'Der Preis war in Ordnung und die Tastatur gefällt mir – aber ich muss das Gerät schon nach zwei Stunden wieder aufladen.' Der kurze Akku ist also das Hauptproblem.",
-              "audioTimestamp": 155
+              "correctAnswer": "c",
+              "explanation": "Die Frau erklärt: 'Kilometerstand ist gut, Preis stimmt auch – aber der Innenraum riecht nach Zigarettenrauch, das ist für mich ein Ausschlusskriterium.' Option a) dreht Kilometerstand und Preiswertung um (numerical-near-miss + subject-swap). Option b) ist ebenfalls eine Umkehrung der Fakten.",
+              "audioTimestamp": 158
             }
           ]
         }
@@ -269,8 +269,7 @@
                 { "id": "B1_m04_R1_head_h", "label": "h" }
               ],
               "correctAnswer": "c",
-              "explanation": "Überschrift c) bietet eine kostenlose Tablet-Einführung für Seniorinnen und Senioren an – genau das, was Laras Oma braucht, um Videoanrufe einrichten zu können. Alle anderen Angebote sprechen andere Zielgruppen an.",
-              "pointValue": 5
+              "explanation": "Überschrift c) bietet eine kostenlose Tablet-Einführung für Seniorinnen und Senioren an – genau das, was Laras Oma braucht. Alle anderen Angebote sprechen andere Zielgruppen an."
             },
             {
               "id": "B1_m04_R1_q2",
@@ -287,8 +286,7 @@
                 { "id": "B1_m04_R1_head_h", "label": "h" }
               ],
               "correctAnswer": "b",
-              "explanation": "Überschrift b) kündigt einen kostenlosen Fake-News-Workshop speziell für Jugendliche an – ideal für Herrn Demirs Klasse. Kein anderes Angebot richtet sich an Schüler zum Thema falsche Nachrichten.",
-              "pointValue": 5
+              "explanation": "Überschrift b) kündigt einen kostenlosen Fake-News-Workshop speziell für Jugendliche an – ideal für Herrn Demirs Klasse. Kein anderes Angebot richtet sich an Schüler zum Thema falsche Nachrichten."
             },
             {
               "id": "B1_m04_R1_q3",
@@ -305,8 +303,7 @@
                 { "id": "B1_m04_R1_head_h", "label": "h" }
               ],
               "correctAnswer": "h",
-              "explanation": "Überschrift h) beschreibt ein Hörbuch-Tauschregal im Kulturcafé – perfekt für Anja, die beim Hausarbeit machen Geschichten hören und tauschen möchte. Andere Angebote betreffen keine Hörbücher.",
-              "pointValue": 5
+              "explanation": "Überschrift h) beschreibt ein Hörbuch-Tauschregal im Kulturcafé – perfekt für Anja, die beim Hausarbeit machen Geschichten hören und tauschen möchte."
             },
             {
               "id": "B1_m04_R1_q4",
@@ -323,8 +320,7 @@
                 { "id": "B1_m04_R1_head_h", "label": "h" }
               ],
               "correctAnswer": "d",
-              "explanation": "Überschrift d) beschreibt eine Schreibwerkstatt für junge Journalistinnen und Journalisten mit klarer Anmeldefrist – genau Tims Profil. Die übrigen Angebote richten sich nicht an angehende Journalisten.",
-              "pointValue": 5
+              "explanation": "Überschrift d) beschreibt eine Schreibwerkstatt für junge Journalistinnen und Journalisten mit klarer Anmeldefrist – genau Tims Profil."
             },
             {
               "id": "B1_m04_R1_q5",
@@ -341,8 +337,7 @@
                 { "id": "B1_m04_R1_head_h", "label": "h" }
               ],
               "correctAnswer": "g",
-              "explanation": "Überschrift g) kündigt einen Filmabend mit anschließender Diskussion über soziale Medien an – ideal für Murats Interesse. Die anderen Angebote behandeln das Thema soziale Medien nicht mit Diskussion.",
-              "pointValue": 5
+              "explanation": "Überschrift g) kündigt einen Filmabend mit anschließender Diskussion über soziale Medien an – ideal für Murats Interesse."
             }
           ]
         },
@@ -370,8 +365,7 @@
                 "c) Fernsehnachrichten sind bei unter Dreißigjährigen besonders beliebt."
               ],
               "correctAnswer": "b",
-              "explanation": "Im Text steht: '78 Prozent der Befragten nennen soziale Netzwerke als wichtigste Nachrichtenquelle.' Das ist das zentrale Ergebnis. Option a) wird vom Text widerlegt (nur 7 Prozent), Option c) kommt nicht vor.",
-              "pointValue": 5
+              "explanation": "Im Text steht: '78 Prozent der Befragten nennen soziale Netzwerke als wichtigste Nachrichtenquelle.' Option a) wird vom Text widerlegt (nur 7 Prozent lesen Zeitung – generalisation trap). Option c) wird nicht erwähnt – false-inference trap."
             },
             {
               "id": "B1_m04_R2_q2",
@@ -384,8 +378,7 @@
                 "c) Nachrichten, die nur in ausgedruckter Form verteilt werden."
               ],
               "correctAnswer": "a",
-              "explanation": "Dr. Koch erklärt laut Text: 'Man schaut abends ein Tanzvideo und erfährt danach, dass in Berlin eine Demonstration stattgefunden hat – ohne bewusst Nachrichten gesucht zu haben.' Das sind die Beifang-Nachrichten – Zufallsfunde also.",
-              "pointValue": 5
+              "explanation": "Dr. Koch erklärt: 'Man schaut abends ein Tanzvideo und erfährt danach, dass in Berlin eine Demonstration stattgefunden hat – ohne bewusst Nachrichten gesucht zu haben.' Option b) ist die direkte Umkehrung (causal-reversal trap). Option c) ist eine lexical-false-friend-Falle."
             },
             {
               "id": "B1_m04_R2_q3",
@@ -398,8 +391,7 @@
                 "c) Sie vermitteln komplizierte Zusammenhänge selten ausführlich."
               ],
               "correctAnswer": "c",
-              "explanation": "Im Text heißt es: 'Wer nur Videos von sechzig Sekunden sieht, lernt selten, komplizierte Zusammenhänge zu verstehen.' Preis und Sprache werden nicht als Problem genannt.",
-              "pointValue": 5
+              "explanation": "Im Text: 'Wer nur Videos von sechzig Sekunden sieht, lernt selten, komplizierte Zusammenhänge zu verstehen.' Preis und Sprache werden nicht als Problem genannt – Optionen a) und b) sind false-inference traps."
             },
             {
               "id": "B1_m04_R2_q4",
@@ -412,8 +404,7 @@
                 "c) Sie empfiehlt, komplett auf digitale Nachrichten zu verzichten."
               ],
               "correctAnswer": "b",
-              "explanation": "Der Text sagt: 'Wer gezielt seriöse Kanäle abonniert, hat heute mehr Wissen zur Verfügung als jede Generation vorher.' Sie sieht die Chancen – nicht pauschal negativ, aber auch kein Verzicht.",
-              "pointValue": 5
+              "explanation": "Der Text: 'Wer gezielt seriöse Kanäle abonniert, hat heute mehr Wissen zur Verfügung als jede Generation vorher.' Option a) generalisiert zu stark (generalisation trap). Option c) ist das Gegenteil ihrer Empfehlung (causal-reversal trap)."
             },
             {
               "id": "B1_m04_R2_q5",
@@ -426,189 +417,178 @@
                 "c) grundsätzlich keine Nachrichten auf TikTok mehr zu lesen"
               ],
               "correctAnswer": "a",
-              "explanation": "Der Text listet drei Empfehlungen auf, darunter wörtlich: 'einmal pro Woche ein Thema wirklich vertiefen – zum Beispiel mit einem Podcast oder einem Interview.' Option b) und c) stehen nirgendwo im Text.",
-              "pointValue": 5
+              "explanation": "Der Text listet drei Empfehlungen auf, darunter wörtlich: 'einmal pro Woche ein Thema wirklich vertiefen – zum Beispiel mit einem Podcast oder einem Interview.' Option b) kommt im Text nicht vor (time-frame trap). Option c) ist eine causal-reversal-Falle."
             }
           ]
         },
         {
           "partNumber": 3,
-          "instructions": "Sie lesen zehn Situationen (1–10) und zwölf kurze Anzeigen (a–l). Welche Anzeige passt zu welcher Situation? Für jede Situation gibt es genau eine passende Anzeige. Zwei Anzeigen bleiben übrig. Wenn keine Anzeige passt, schreiben Sie 'x'.",
-          "instructionsTranslation": "You read ten situations (1–10) and twelve short advertisements (a–l). Which advertisement matches which situation? For each situation there is exactly one matching advertisement. Two advertisements remain unused. If no advertisement fits, write 'x'.",
+          "instructions": "Sie lesen zehn Situationen (1–10) und zwölf kurze Anzeigen (A–L). Welche Anzeige passt zu welcher Situation? Für jede Situation gibt es genau eine passende Anzeige. Zwei Anzeigen bleiben übrig. Wenn keine Anzeige passt, schreiben Sie '0'.",
+          "instructionsTranslation": "You read ten situations (1–10) and twelve short advertisements (A–L). Which advertisement matches which situation? For each situation there is exactly one matching advertisement. Two advertisements remain unused. If no advertisement fits, write '0'.",
           "texts": [
-            { "id": "B1_m04_R3_ad_a", "type": "ad", "content": "a) STREAM FRESH – Werbefreies Musik-Abo für 4,99 €/Monat. Über 50 Millionen Songs, auch offline hörbar. Erste 30 Tage gratis. www.streamfresh.de" },
-            { "id": "B1_m04_R3_ad_b", "type": "ad", "content": "b) Online-Kurs Video-Schnitt für Einsteiger. 8 Module, kostenlose Software, eigenes Tempo. 89 €. Zugang für ein Jahr. info@video-lernen.de" },
-            { "id": "B1_m04_R3_ad_c", "type": "ad", "content": "c) Kinderbuch-Club für 4–8 Jahre: Jeden Mittwoch 16 Uhr Vorlesen in der Stadtbibliothek. Anmeldung nicht nötig, Eintritt frei." },
-            { "id": "B1_m04_R3_ad_d", "type": "ad", "content": "d) Kamera-Reparatur DIGITEC – Schnelle Reparatur aller Marken innerhalb von drei Werktagen. Mo–Sa 10–19 Uhr, Hauptstraße 18. Tel. 030 556 77 41" },
-            { "id": "B1_m04_R3_ad_e", "type": "ad", "content": "e) Podcast-Workshop am Wochenende – Wie gestalte ich meine erste Folge? Samstag und Sonntag je 10–16 Uhr, 150 € inklusive Mikrofon-Nutzung. kontakt@podcast-akademie.de" },
-            { "id": "B1_m04_R3_ad_f", "type": "ad", "content": "f) Babysitter gesucht – Wir suchen für unseren Sohn (7 Jahre) eine zuverlässige Betreuung am Dienstag- und Donnerstagnachmittag, 15 €/Stunde. Tel. 0176 998 21 33" },
-            { "id": "B1_m04_R3_ad_g", "type": "ad", "content": "g) Öffentliche Lesung: Krimi-Autorin Eva Berger liest aus ihrem neuen Roman. Freitag, 19 Uhr, Stadtcafé Mitte, Eintritt 8 €. Reservierung empfohlen." },
-            { "id": "B1_m04_R3_ad_h", "type": "ad", "content": "h) Zeitungsabo KLARTEXT digital – Politik, Wirtschaft, Kultur. Nur 12,90 €/Monat, erste zwei Monate geschenkt. Täglich neue Artikel, offline lesbar. www.klartext-digital.de" },
-            { "id": "B1_m04_R3_ad_i", "type": "ad", "content": "i) Gebrauchter Laptop zu verkaufen – 15 Zoll, zwei Jahre alt, gut erhalten, ideal für Studium. 320 €. Abholung in Leipzig. stefan.graf@mail.de" },
-            { "id": "B1_m04_R3_ad_j", "type": "ad", "content": "j) Vortragsreihe Medien und Demokratie – Fünf Abende mit Experten aus Forschung und Redaktionen. Universität Dresden, Eintritt frei, Online-Teilnahme möglich. medien-demokratie.de" },
-            { "id": "B1_m04_R3_ad_k", "type": "ad", "content": "k) Sprachkurs Spanisch Anfänger A1 – 10 Wochen, montags 18–19:30 Uhr. Volkshochschule, 140 €, Lehrbuch im Preis enthalten. Anmeldung: vhs-anmeldung@mail.de" },
-            { "id": "B1_m04_R3_ad_l", "type": "ad", "content": "l) Film-Club PANORAMA – Jeden Sonntag 18 Uhr ein anderer internationaler Spielfilm mit anschließender Diskussion. Mitgliedschaft 5 €/Monat. www.panorama-filmclub.de" }
+            { "id": "B1_m04_R3_ad_A", "type": "ad", "content": "A) PKW zu verkaufen – VW Golf, Bj. 2019, 58 000 km, scheckheftgepflegt, tadellos. 13 500 €. Besichtigung nach tel. Vereinbarung. Tel. 0176 234 56 78" },
+            { "id": "B1_m04_R3_ad_B", "type": "ad", "content": "B) Carsharing STADTRAD – Autos, Elektroroller und Lastenräder stunden- oder tageweise mieten. App-Registrierung in 5 Min. Keine Kaution. www.stadtrad-sharing.de" },
+            { "id": "B1_m04_R3_ad_C", "type": "ad", "content": "C) Mitfahrgelegenheit biete – Fahre jeden Montag und Freitag von Mannheim nach Stuttgart (Abfahrt 7:00 Uhr). 2 Plätze frei, Kostenbeteiligung 8 €. WhatsApp 0151 987 65 43" },
+            { "id": "B1_m04_R3_ad_D", "type": "ad", "content": "D) Fahrrad zu verkaufen – Stadtrad 28 Zoll, 7 Gänge, guter Zustand, Licht und Schloss dabei. 95 €. Selbstabholung Köln-Ehrenfeld. fahrrad.angebot@mail.de" },
+            { "id": "B1_m04_R3_ad_E", "type": "ad", "content": "E) KFZ-Werkstatt SCHNELLDIENST – Ölwechsel, TÜV-Vorbereitung, Inspektion. Termine auch kurzfristig. Mo–Sa 8–18 Uhr. Neue Straße 4. Tel. 0211 445 62 00" },
+            { "id": "B1_m04_R3_ad_F", "type": "ad", "content": "F) Reifen-Center REIFENFIX – Komplettrad-Service: Sommerreifen, Winterreifen, Allwetter. Montage + Einlagerung auf Anfrage. Gewerbepark West. reifenfix@web.de" },
+            { "id": "B1_m04_R3_ad_G", "type": "ad", "content": "G) Lastenfahrrad kaufen/verkaufen – Cargo-Bike, 3 Jahre alt, mit Kindertransportbox, 1 Gang, 380 €. Abholung Hamburg-Altona. cargobike.hh@gmail.com" },
+            { "id": "B1_m04_R3_ad_H", "type": "ad", "content": "H) Motorroller Piaggio 125 ccm, Bj. 2021, ca. 9 000 km, guter Zustand, Versicherung bis März abgemeldet. 1 450 €. VB. Tel. 0162 556 77 88" },
+            { "id": "B1_m04_R3_ad_I", "type": "ad", "content": "I) Mitfahrzentrale FAHRGEMEINSCHAFT.DE – Kostenlos Fahrten inserieren oder suchen. Über 80 000 tägliche Angebote bundesweit. App für iOS und Android. www.fahrgemeinschaft.de" },
+            { "id": "B1_m04_R3_ad_J", "type": "ad", "content": "J) Suche PKW-Mitfahrer – Fahre nächsten Samstag 15.06. von Berlin nach Hamburg, Abfahrt 10:00 Uhr. Anteil Spritkosten 25 €. Melden per SMS: 0170 112 34 56" },
+            { "id": "B1_m04_R3_ad_K", "type": "ad", "content": "K) Elektroauto gesucht – Privatperson sucht gebrauchten E-PKW bis 15 000 €, bevorzugt Reichweite ab 200 km. Bitte Angebote an: e-auto-suche@mailbox.de" },
+            { "id": "B1_m04_R3_ad_L", "type": "ad", "content": "L) Auto-Stellplatz zu vermieten – Überdachte Garage in München-Maxvorstadt, 95 €/Monat. Langzeitmiete bevorzugt. Tel. 0179 334 21 09" }
           ],
           "questions": [
             {
               "id": "B1_m04_R3_q1",
               "type": "matching",
-              "questionText": "1. Alina hat im Urlaub viele schöne Videos mit ihrem Handy gefilmt. Jetzt möchte sie lernen, wie man die Aufnahmen professionell schneidet, am liebsten zu Hause in ihrem eigenen Tempo.",
+              "questionText": "1. Herr Nowak fährt jede Woche zwischen zwei Städten zur Arbeit. Er hat kein Auto und sucht einen festen Platz in einem Fahrzeug, um die Fahrtkosten niedrig zu halten.",
               "matchingSources": [
-                { "id": "B1_m04_R3_ad_a", "label": "a" }, { "id": "B1_m04_R3_ad_b", "label": "b" },
-                { "id": "B1_m04_R3_ad_c", "label": "c" }, { "id": "B1_m04_R3_ad_d", "label": "d" },
-                { "id": "B1_m04_R3_ad_e", "label": "e" }, { "id": "B1_m04_R3_ad_f", "label": "f" },
-                { "id": "B1_m04_R3_ad_g", "label": "g" }, { "id": "B1_m04_R3_ad_h", "label": "h" },
-                { "id": "B1_m04_R3_ad_i", "label": "i" }, { "id": "B1_m04_R3_ad_j", "label": "j" },
-                { "id": "B1_m04_R3_ad_k", "label": "k" }, { "id": "B1_m04_R3_ad_l", "label": "l" }
+                { "id": "B1_m04_R3_ad_A", "label": "A" }, { "id": "B1_m04_R3_ad_B", "label": "B" },
+                { "id": "B1_m04_R3_ad_C", "label": "C" }, { "id": "B1_m04_R3_ad_D", "label": "D" },
+                { "id": "B1_m04_R3_ad_E", "label": "E" }, { "id": "B1_m04_R3_ad_F", "label": "F" },
+                { "id": "B1_m04_R3_ad_G", "label": "G" }, { "id": "B1_m04_R3_ad_H", "label": "H" },
+                { "id": "B1_m04_R3_ad_I", "label": "I" }, { "id": "B1_m04_R3_ad_J", "label": "J" },
+                { "id": "B1_m04_R3_ad_K", "label": "K" }, { "id": "B1_m04_R3_ad_L", "label": "L" }
               ],
-              "correctAnswer": "b",
-              "explanation": "Anzeige b) bietet einen Online-Kurs Video-Schnitt für Einsteiger mit eigenem Tempo – genau das, was Alina sucht. Der Podcast-Workshop (e) ist kein Video-Schnitt.",
-              "pointValue": 2.5
+              "correctAnswer": "C",
+              "explanation": "Anzeige C) bietet regelmäßige Mitfahrten Mo/Fr Mannheim–Stuttgart für 8 € – feste Route, günstig. Anzeige I) ist eine Plattform zum Selbstsuchen, kein fertiges Angebot – preposition micro-trap: Plattform ≠ konkretes Mitfahrangebot."
             },
             {
               "id": "B1_m04_R3_q2",
               "type": "matching",
-              "questionText": "2. Herr Lange möchte wieder regelmäßig eine Qualitätszeitung lesen, aber keine Papierstapel mehr zu Hause. Am liebsten auf dem Tablet – auch im Zug, wenn kein Internet da ist.",
+              "questionText": "2. Familie Bremer braucht für einen Nachmittag ein Fahrzeug, um mehrere Möbelstücke vom Flohmarkt nach Hause zu transportieren. Sie wollen kein eigenes Auto kaufen.",
               "matchingSources": [
-                { "id": "B1_m04_R3_ad_a", "label": "a" }, { "id": "B1_m04_R3_ad_b", "label": "b" },
-                { "id": "B1_m04_R3_ad_c", "label": "c" }, { "id": "B1_m04_R3_ad_d", "label": "d" },
-                { "id": "B1_m04_R3_ad_e", "label": "e" }, { "id": "B1_m04_R3_ad_f", "label": "f" },
-                { "id": "B1_m04_R3_ad_g", "label": "g" }, { "id": "B1_m04_R3_ad_h", "label": "h" },
-                { "id": "B1_m04_R3_ad_i", "label": "i" }, { "id": "B1_m04_R3_ad_j", "label": "j" },
-                { "id": "B1_m04_R3_ad_k", "label": "k" }, { "id": "B1_m04_R3_ad_l", "label": "l" }
+                { "id": "B1_m04_R3_ad_A", "label": "A" }, { "id": "B1_m04_R3_ad_B", "label": "B" },
+                { "id": "B1_m04_R3_ad_C", "label": "C" }, { "id": "B1_m04_R3_ad_D", "label": "D" },
+                { "id": "B1_m04_R3_ad_E", "label": "E" }, { "id": "B1_m04_R3_ad_F", "label": "F" },
+                { "id": "B1_m04_R3_ad_G", "label": "G" }, { "id": "B1_m04_R3_ad_H", "label": "H" },
+                { "id": "B1_m04_R3_ad_I", "label": "I" }, { "id": "B1_m04_R3_ad_J", "label": "J" },
+                { "id": "B1_m04_R3_ad_K", "label": "K" }, { "id": "B1_m04_R3_ad_L", "label": "L" }
               ],
-              "correctAnswer": "h",
-              "explanation": "Anzeige h) KLARTEXT digital ist ein digitales Zeitungsabo, offline lesbar – passt zu Herrn Langes Wunsch nach einer Qualitätszeitung ohne Papier und ohne Internetzwang.",
-              "pointValue": 2.5
+              "correctAnswer": "B",
+              "explanation": "Anzeige B) STADTRAD bietet auch Lastenräder stundenweise – ideal für Möbeltransport ohne eigenes Auto. Anzeige G) verkauft ein Lastenrad, verleiht es nicht – subject-swap trap."
             },
             {
               "id": "B1_m04_R3_q3",
               "type": "matching",
-              "questionText": "3. Frau Novak studiert nebenberuflich Politikwissenschaft. Sie sucht eine Veranstaltung, bei der mehrere Experten über Medien und Politik sprechen – gerne auch von zu Hause aus teilnehmbar.",
+              "questionText": "3. Petra möchte ihr altes Stadtfahrrad verkaufen und benötigt keine Kaufanzeige. Sie sucht jemanden, der ihr Rad abnimmt.",
               "matchingSources": [
-                { "id": "B1_m04_R3_ad_a", "label": "a" }, { "id": "B1_m04_R3_ad_b", "label": "b" },
-                { "id": "B1_m04_R3_ad_c", "label": "c" }, { "id": "B1_m04_R3_ad_d", "label": "d" },
-                { "id": "B1_m04_R3_ad_e", "label": "e" }, { "id": "B1_m04_R3_ad_f", "label": "f" },
-                { "id": "B1_m04_R3_ad_g", "label": "g" }, { "id": "B1_m04_R3_ad_h", "label": "h" },
-                { "id": "B1_m04_R3_ad_i", "label": "i" }, { "id": "B1_m04_R3_ad_j", "label": "j" },
-                { "id": "B1_m04_R3_ad_k", "label": "k" }, { "id": "B1_m04_R3_ad_l", "label": "l" }
+                { "id": "B1_m04_R3_ad_A", "label": "A" }, { "id": "B1_m04_R3_ad_B", "label": "B" },
+                { "id": "B1_m04_R3_ad_C", "label": "C" }, { "id": "B1_m04_R3_ad_D", "label": "D" },
+                { "id": "B1_m04_R3_ad_E", "label": "E" }, { "id": "B1_m04_R3_ad_F", "label": "F" },
+                { "id": "B1_m04_R3_ad_G", "label": "G" }, { "id": "B1_m04_R3_ad_H", "label": "H" },
+                { "id": "B1_m04_R3_ad_I", "label": "I" }, { "id": "B1_m04_R3_ad_J", "label": "J" },
+                { "id": "B1_m04_R3_ad_K", "label": "K" }, { "id": "B1_m04_R3_ad_L", "label": "L" }
               ],
-              "correctAnswer": "j",
-              "explanation": "Anzeige j) beschreibt eine Vortragsreihe 'Medien und Demokratie' mit Experten und Online-Teilnahme – ideal für Frau Novaks Interesse und Teilnahmewunsch.",
-              "pointValue": 2.5
+              "correctAnswer": "0",
+              "explanation": "Keine Anzeige entspricht Petras Situation: Sie will ihr Fahrrad verkaufen. Anzeige D) ist eine Verkaufsanzeige von jemandem anderen. Anzeige G) behandelt Lastenräder. Keine Anzeige kauft gebrauchte normale Stadträder an – korrekte Antwort: 0."
             },
             {
               "id": "B1_m04_R3_q4",
               "type": "matching",
-              "questionText": "4. Johanna fotografiert mit einer Spiegelreflexkamera, die seit dem letzten Urlaub nicht mehr richtig funktioniert. Sie braucht die Kamera in wenigen Tagen für einen Auftrag wieder.",
+              "questionText": "4. Markus hat bemerkt, dass sein Auto Öl verliert. Der TÜV ist in drei Wochen. Er sucht eine Werkstatt, die möglichst schnell einen Termin anbieten kann.",
               "matchingSources": [
-                { "id": "B1_m04_R3_ad_a", "label": "a" }, { "id": "B1_m04_R3_ad_b", "label": "b" },
-                { "id": "B1_m04_R3_ad_c", "label": "c" }, { "id": "B1_m04_R3_ad_d", "label": "d" },
-                { "id": "B1_m04_R3_ad_e", "label": "e" }, { "id": "B1_m04_R3_ad_f", "label": "f" },
-                { "id": "B1_m04_R3_ad_g", "label": "g" }, { "id": "B1_m04_R3_ad_h", "label": "h" },
-                { "id": "B1_m04_R3_ad_i", "label": "i" }, { "id": "B1_m04_R3_ad_j", "label": "j" },
-                { "id": "B1_m04_R3_ad_k", "label": "k" }, { "id": "B1_m04_R3_ad_l", "label": "l" }
+                { "id": "B1_m04_R3_ad_A", "label": "A" }, { "id": "B1_m04_R3_ad_B", "label": "B" },
+                { "id": "B1_m04_R3_ad_C", "label": "C" }, { "id": "B1_m04_R3_ad_D", "label": "D" },
+                { "id": "B1_m04_R3_ad_E", "label": "E" }, { "id": "B1_m04_R3_ad_F", "label": "F" },
+                { "id": "B1_m04_R3_ad_G", "label": "G" }, { "id": "B1_m04_R3_ad_H", "label": "H" },
+                { "id": "B1_m04_R3_ad_I", "label": "I" }, { "id": "B1_m04_R3_ad_J", "label": "J" },
+                { "id": "B1_m04_R3_ad_K", "label": "K" }, { "id": "B1_m04_R3_ad_L", "label": "L" }
               ],
-              "correctAnswer": "d",
-              "explanation": "Anzeige d) DIGITEC bietet Kamerareparatur innerhalb von drei Werktagen – genau die Dringlichkeit, die Johanna braucht. Keine andere Anzeige repariert Kameras.",
-              "pointValue": 2.5
+              "correctAnswer": "E",
+              "explanation": "Anzeige E) SCHNELLDIENST bietet Ölwechsel und TÜV-Vorbereitung mit kurzfristigen Terminen – genau Markus' Bedarf. Anzeige F) betrifft Reifen, nicht allgemeine Werkstattleistungen – false-inference trap."
             },
             {
               "id": "B1_m04_R3_q5",
               "type": "matching",
-              "questionText": "5. Pascal hört sehr gerne Musik auf langen Zugfahrten, auch in Regionen ohne Internetempfang, und möchte keine Werbung dabei haben. Er ist bereit, dafür monatlich zu bezahlen.",
+              "questionText": "5. Herr Schulte wohnt in München und hat kein eigenes Auto. Er sucht einen überdachten Stellplatz für sein Motorrad, das er im Winter nicht auf der Straße lassen möchte.",
               "matchingSources": [
-                { "id": "B1_m04_R3_ad_a", "label": "a" }, { "id": "B1_m04_R3_ad_b", "label": "b" },
-                { "id": "B1_m04_R3_ad_c", "label": "c" }, { "id": "B1_m04_R3_ad_d", "label": "d" },
-                { "id": "B1_m04_R3_ad_e", "label": "e" }, { "id": "B1_m04_R3_ad_f", "label": "f" },
-                { "id": "B1_m04_R3_ad_g", "label": "g" }, { "id": "B1_m04_R3_ad_h", "label": "h" },
-                { "id": "B1_m04_R3_ad_i", "label": "i" }, { "id": "B1_m04_R3_ad_j", "label": "j" },
-                { "id": "B1_m04_R3_ad_k", "label": "k" }, { "id": "B1_m04_R3_ad_l", "label": "l" }
+                { "id": "B1_m04_R3_ad_A", "label": "A" }, { "id": "B1_m04_R3_ad_B", "label": "B" },
+                { "id": "B1_m04_R3_ad_C", "label": "C" }, { "id": "B1_m04_R3_ad_D", "label": "D" },
+                { "id": "B1_m04_R3_ad_E", "label": "E" }, { "id": "B1_m04_R3_ad_F", "label": "F" },
+                { "id": "B1_m04_R3_ad_G", "label": "G" }, { "id": "B1_m04_R3_ad_H", "label": "H" },
+                { "id": "B1_m04_R3_ad_I", "label": "I" }, { "id": "B1_m04_R3_ad_J", "label": "J" },
+                { "id": "B1_m04_R3_ad_K", "label": "K" }, { "id": "B1_m04_R3_ad_L", "label": "L" }
               ],
-              "correctAnswer": "a",
-              "explanation": "Anzeige a) STREAM FRESH wirbt mit werbefreier Musik, Offline-Nutzung und monatlichem Preis – genau Pascals Profil. Keine andere Anzeige passt zum Musik-Streaming.",
-              "pointValue": 2.5
+              "correctAnswer": "L",
+              "explanation": "Anzeige L) bietet eine überdachte Garage in München – passt auch für ein Motorrad. Anzeige H) verkauft einen Motorroller, bietet aber keine Unterbringung an – object/purpose micro-trap."
             },
             {
               "id": "B1_m04_R3_q6",
               "type": "matching",
-              "questionText": "6. Frau Özdemir liebt Krimis und möchte mal einen Autor oder eine Autorin persönlich erleben. Am liebsten an einem Abend unter der Woche.",
+              "questionText": "6. Sandra braucht ein günstiges gebrauchtes Stadtfahrrad für den Schulweg. Sie kann es selbst abholen und sucht ein einfaches Modell ohne besondere Extras.",
               "matchingSources": [
-                { "id": "B1_m04_R3_ad_a", "label": "a" }, { "id": "B1_m04_R3_ad_b", "label": "b" },
-                { "id": "B1_m04_R3_ad_c", "label": "c" }, { "id": "B1_m04_R3_ad_d", "label": "d" },
-                { "id": "B1_m04_R3_ad_e", "label": "e" }, { "id": "B1_m04_R3_ad_f", "label": "f" },
-                { "id": "B1_m04_R3_ad_g", "label": "g" }, { "id": "B1_m04_R3_ad_h", "label": "h" },
-                { "id": "B1_m04_R3_ad_i", "label": "i" }, { "id": "B1_m04_R3_ad_j", "label": "j" },
-                { "id": "B1_m04_R3_ad_k", "label": "k" }, { "id": "B1_m04_R3_ad_l", "label": "l" }
+                { "id": "B1_m04_R3_ad_A", "label": "A" }, { "id": "B1_m04_R3_ad_B", "label": "B" },
+                { "id": "B1_m04_R3_ad_C", "label": "C" }, { "id": "B1_m04_R3_ad_D", "label": "D" },
+                { "id": "B1_m04_R3_ad_E", "label": "E" }, { "id": "B1_m04_R3_ad_F", "label": "F" },
+                { "id": "B1_m04_R3_ad_G", "label": "G" }, { "id": "B1_m04_R3_ad_H", "label": "H" },
+                { "id": "B1_m04_R3_ad_I", "label": "I" }, { "id": "B1_m04_R3_ad_J", "label": "J" },
+                { "id": "B1_m04_R3_ad_K", "label": "K" }, { "id": "B1_m04_R3_ad_L", "label": "L" }
               ],
-              "correctAnswer": "g",
-              "explanation": "Anzeige g) kündigt eine Lesung der Krimi-Autorin Eva Berger an einem Freitagabend an – ideal für Frau Özdemirs Wunsch. Keine andere Anzeige bietet eine Lesung.",
-              "pointValue": 2.5
+              "correctAnswer": "D",
+              "explanation": "Anzeige D) bietet ein günstiges Stadtrad 28 Zoll für 95 € zur Selbstabholung – perfekt für Sandra. Anzeige G) ist ein Lastenfahrrad mit Kindertransportbox für 380 €, zu groß und zu teuer – numerical-near-miss plus purpose-mismatch trap."
             },
             {
               "id": "B1_m04_R3_q7",
               "type": "matching",
-              "questionText": "7. Robert möchte einen eigenen Podcast starten und weiß noch nicht genau, wie man ihn aufnimmt und strukturiert. Ein Wochenende zum Ausprobieren wäre für ihn perfekt.",
+              "questionText": "7. Tobias plant nächsten Samstag eine Einzelfahrt von Berlin nach Hamburg. Er sucht jemanden, der noch freie Plätze in seinem Auto hat.",
               "matchingSources": [
-                { "id": "B1_m04_R3_ad_a", "label": "a" }, { "id": "B1_m04_R3_ad_b", "label": "b" },
-                { "id": "B1_m04_R3_ad_c", "label": "c" }, { "id": "B1_m04_R3_ad_d", "label": "d" },
-                { "id": "B1_m04_R3_ad_e", "label": "e" }, { "id": "B1_m04_R3_ad_f", "label": "f" },
-                { "id": "B1_m04_R3_ad_g", "label": "g" }, { "id": "B1_m04_R3_ad_h", "label": "h" },
-                { "id": "B1_m04_R3_ad_i", "label": "i" }, { "id": "B1_m04_R3_ad_j", "label": "j" },
-                { "id": "B1_m04_R3_ad_k", "label": "k" }, { "id": "B1_m04_R3_ad_l", "label": "l" }
+                { "id": "B1_m04_R3_ad_A", "label": "A" }, { "id": "B1_m04_R3_ad_B", "label": "B" },
+                { "id": "B1_m04_R3_ad_C", "label": "C" }, { "id": "B1_m04_R3_ad_D", "label": "D" },
+                { "id": "B1_m04_R3_ad_E", "label": "E" }, { "id": "B1_m04_R3_ad_F", "label": "F" },
+                { "id": "B1_m04_R3_ad_G", "label": "G" }, { "id": "B1_m04_R3_ad_H", "label": "H" },
+                { "id": "B1_m04_R3_ad_I", "label": "I" }, { "id": "B1_m04_R3_ad_J", "label": "J" },
+                { "id": "B1_m04_R3_ad_K", "label": "K" }, { "id": "B1_m04_R3_ad_L", "label": "L" }
               ],
-              "correctAnswer": "e",
-              "explanation": "Anzeige e) beschreibt einen Podcast-Workshop am Wochenende mit Mikrofon-Nutzung – genau Roberts Bedarf. Anzeige b) ist Video-Schnitt, kein Podcast.",
-              "pointValue": 2.5
+              "correctAnswer": "J",
+              "explanation": "Anzeige J) bietet diese Fahrt an: Samstag 15.06. Berlin–Hamburg, 25 €. Anzeige C) bietet eine andere Route (Mannheim–Stuttgart, Mo/Fr) – time-frame trap plus route-mismatch."
             },
             {
               "id": "B1_m04_R3_q8",
               "type": "matching",
-              "questionText": "8. Familie Becker möchte ihrer kleinen Tochter (5 Jahre) etwas Kulturelles anbieten, das sie regelmäßig am Nachmittag machen kann – kostenlos und ohne Anmeldestress.",
+              "questionText": "8. Frau Vogel muss die Sommer- gegen Winterreifen tauschen lassen. Sie möchte die alten Reifen nicht selbst lagern, sondern einlagern lassen.",
               "matchingSources": [
-                { "id": "B1_m04_R3_ad_a", "label": "a" }, { "id": "B1_m04_R3_ad_b", "label": "b" },
-                { "id": "B1_m04_R3_ad_c", "label": "c" }, { "id": "B1_m04_R3_ad_d", "label": "d" },
-                { "id": "B1_m04_R3_ad_e", "label": "e" }, { "id": "B1_m04_R3_ad_f", "label": "f" },
-                { "id": "B1_m04_R3_ad_g", "label": "g" }, { "id": "B1_m04_R3_ad_h", "label": "h" },
-                { "id": "B1_m04_R3_ad_i", "label": "i" }, { "id": "B1_m04_R3_ad_j", "label": "j" },
-                { "id": "B1_m04_R3_ad_k", "label": "k" }, { "id": "B1_m04_R3_ad_l", "label": "l" }
+                { "id": "B1_m04_R3_ad_A", "label": "A" }, { "id": "B1_m04_R3_ad_B", "label": "B" },
+                { "id": "B1_m04_R3_ad_C", "label": "C" }, { "id": "B1_m04_R3_ad_D", "label": "D" },
+                { "id": "B1_m04_R3_ad_E", "label": "E" }, { "id": "B1_m04_R3_ad_F", "label": "F" },
+                { "id": "B1_m04_R3_ad_G", "label": "G" }, { "id": "B1_m04_R3_ad_H", "label": "H" },
+                { "id": "B1_m04_R3_ad_I", "label": "I" }, { "id": "B1_m04_R3_ad_J", "label": "J" },
+                { "id": "B1_m04_R3_ad_K", "label": "K" }, { "id": "B1_m04_R3_ad_L", "label": "L" }
               ],
-              "correctAnswer": "c",
-              "explanation": "Anzeige c) bietet einen Kinderbuch-Club für 4- bis 8-Jährige mit freiem Eintritt und ohne Anmeldung – ideal für die Tochter der Familie Becker.",
-              "pointValue": 2.5
+              "correctAnswer": "F",
+              "explanation": "Anzeige F) REIFENFIX bietet Reifenwechsel und Einlagerung auf Anfrage – genau was Frau Vogel braucht. Anzeige E) ist eine allgemeine KFZ-Werkstatt ohne spezifischen Reifenservice – generalisation trap."
             },
             {
               "id": "B1_m04_R3_q9",
               "type": "matching",
-              "questionText": "9. Fabian studiert ab Oktober und braucht einen Laptop, der für Office-Programme und Recherche ausreicht. Viel Geld möchte er nicht ausgeben.",
+              "questionText": "9. Herr Özkan möchte auf ein Elektroauto umsteigen. Er hat ein Budget von maximal 14 000 € und sucht ein Privatangebot.",
               "matchingSources": [
-                { "id": "B1_m04_R3_ad_a", "label": "a" }, { "id": "B1_m04_R3_ad_b", "label": "b" },
-                { "id": "B1_m04_R3_ad_c", "label": "c" }, { "id": "B1_m04_R3_ad_d", "label": "d" },
-                { "id": "B1_m04_R3_ad_e", "label": "e" }, { "id": "B1_m04_R3_ad_f", "label": "f" },
-                { "id": "B1_m04_R3_ad_g", "label": "g" }, { "id": "B1_m04_R3_ad_h", "label": "h" },
-                { "id": "B1_m04_R3_ad_i", "label": "i" }, { "id": "B1_m04_R3_ad_j", "label": "j" },
-                { "id": "B1_m04_R3_ad_k", "label": "k" }, { "id": "B1_m04_R3_ad_l", "label": "l" }
+                { "id": "B1_m04_R3_ad_A", "label": "A" }, { "id": "B1_m04_R3_ad_B", "label": "B" },
+                { "id": "B1_m04_R3_ad_C", "label": "C" }, { "id": "B1_m04_R3_ad_D", "label": "D" },
+                { "id": "B1_m04_R3_ad_E", "label": "E" }, { "id": "B1_m04_R3_ad_F", "label": "F" },
+                { "id": "B1_m04_R3_ad_G", "label": "G" }, { "id": "B1_m04_R3_ad_H", "label": "H" },
+                { "id": "B1_m04_R3_ad_I", "label": "I" }, { "id": "B1_m04_R3_ad_J", "label": "J" },
+                { "id": "B1_m04_R3_ad_K", "label": "K" }, { "id": "B1_m04_R3_ad_L", "label": "L" }
               ],
-              "correctAnswer": "i",
-              "explanation": "Anzeige i) bietet einen gebrauchten Laptop für 320 €, ideal für das Studium – genau Fabians Bedarf. Keine andere Anzeige verkauft günstige Laptops.",
-              "pointValue": 2.5
+              "correctAnswer": "K",
+              "explanation": "Anzeige K) ist eine Kaufgesucht-Anzeige für E-PKW bis 15 000 € – Herr Özkan passt als Anbieter, oder er kontaktiert sie als Interessent. Anzeige A) ist ein Benziner-Golf, kein Elektroauto – voice/mood-swap trap plus fuel-type mismatch."
             },
             {
               "id": "B1_m04_R3_q10",
               "type": "matching",
-              "questionText": "10. Nina mag Filme aus aller Welt und möchte nach dem Schauen immer mit anderen darüber reden. Am liebsten jeden Sonntag.",
+              "questionText": "10. Lena und ihr Freund wollen zusammen eine längere Reise unternehmen. Sie haben kein Auto und suchen eine Plattform, auf der sie selbst nach Fahrgemeinschaften für verschiedene Routen suchen können.",
               "matchingSources": [
-                { "id": "B1_m04_R3_ad_a", "label": "a" }, { "id": "B1_m04_R3_ad_b", "label": "b" },
-                { "id": "B1_m04_R3_ad_c", "label": "c" }, { "id": "B1_m04_R3_ad_d", "label": "d" },
-                { "id": "B1_m04_R3_ad_e", "label": "e" }, { "id": "B1_m04_R3_ad_f", "label": "f" },
-                { "id": "B1_m04_R3_ad_g", "label": "g" }, { "id": "B1_m04_R3_ad_h", "label": "h" },
-                { "id": "B1_m04_R3_ad_i", "label": "i" }, { "id": "B1_m04_R3_ad_j", "label": "j" },
-                { "id": "B1_m04_R3_ad_k", "label": "k" }, { "id": "B1_m04_R3_ad_l", "label": "l" }
+                { "id": "B1_m04_R3_ad_A", "label": "A" }, { "id": "B1_m04_R3_ad_B", "label": "B" },
+                { "id": "B1_m04_R3_ad_C", "label": "C" }, { "id": "B1_m04_R3_ad_D", "label": "D" },
+                { "id": "B1_m04_R3_ad_E", "label": "E" }, { "id": "B1_m04_R3_ad_F", "label": "F" },
+                { "id": "B1_m04_R3_ad_G", "label": "G" }, { "id": "B1_m04_R3_ad_H", "label": "H" },
+                { "id": "B1_m04_R3_ad_I", "label": "I" }, { "id": "B1_m04_R3_ad_J", "label": "J" },
+                { "id": "B1_m04_R3_ad_K", "label": "K" }, { "id": "B1_m04_R3_ad_L", "label": "L" }
               ],
-              "correctAnswer": "l",
-              "explanation": "Anzeige l) Film-Club PANORAMA zeigt jeden Sonntag einen internationalen Film mit anschließender Diskussion – genau Ninas Wunsch. Übrig bleiben Anzeige f) (Babysitter) und k) (Sprachkurs Spanisch) als Distraktoren.",
-              "pointValue": 2.5
+              "correctAnswer": "I",
+              "explanation": "Anzeige I) FAHRGEMEINSCHAFT.DE ist eine bundesweite Plattform mit 80 000 täglichen Angeboten – ideal für flexible Routensuche. Anzeige J) bietet nur eine konkrete Einzelfahrt Berlin–Hamburg, keine Plattform. Übrig bleiben Anzeigen A) VW Golf und H) Motorroller als Distraktoren ohne passende Situation."
             }
           ]
         }
@@ -626,207 +606,187 @@
               "type": "mcq",
               "options": ["a) in", "b) an", "c) bei"],
               "correctAnswer": "c",
-              "explanation": "Bei Arbeitgebern verwendet man 'bei' + Dativ: 'bei einer Redaktion arbeiten'. 'in' passt für Stadt oder Gebäude, nicht für einen konkreten Arbeitgebernamen. 'an' ist für Institutionen wie Universität oder Schule reserviert.",
-              "pointValue": 1.5
+              "explanation": "Bei Arbeitgebern verwendet man 'bei' + Dativ: 'bei einer Redaktion arbeiten'. 'in' passt für Stadt oder Gebäude, nicht für einen konkreten Arbeitgebernamen. 'an' ist für Institutionen wie Universität oder Schule reserviert."
             },
             {
               "blankNumber": 2,
               "type": "mcq",
               "options": ["a) weil", "b) dass", "c) ob"],
               "correctAnswer": "b",
-              "explanation": "'Ich bin froh, dass ...' ist die Standardkonstruktion nach 'froh sein'. Ein dass-Satz gibt das Objekt der Freude an. 'weil' würde nur einen Grund nennen und passt stilistisch nicht. 'ob' leitet eine indirekte Frage ein und ergibt hier keinen Sinn.",
-              "pointValue": 1.5
+              "explanation": "'Ich bin froh, dass ...' ist die Standardkonstruktion nach 'froh sein'. Ein dass-Satz gibt das Objekt der Freude an. 'weil' würde nur einen Grund nennen und passt stilistisch nicht. 'ob' leitet eine indirekte Frage ein und ergibt hier keinen Sinn."
             },
             {
               "blankNumber": 3,
               "type": "mcq",
               "options": ["a) der", "b) die", "c) den"],
               "correctAnswer": "b",
-              "explanation": "Es handelt sich um einen Relativsatz: 'Meine Kollegin Sarah, die mir ... gezeigt hat'. Das Relativpronomen bezieht sich auf 'Kollegin' (Femininum) und steht im Nominativ (Subjekt des Relativsatzes) – also 'die'. 'der' wäre Maskulinum, 'den' wäre Akkusativ Maskulin.",
-              "pointValue": 1.5
+              "explanation": "Relativsatz: 'Meine Kollegin Sarah, die mir ... gezeigt hat'. Das Relativpronomen bezieht sich auf 'Kollegin' (Femininum, Nominativ). 'der' wäre Maskulinum, 'den' wäre Akkusativ Maskulin."
             },
             {
               "blankNumber": 4,
               "type": "mcq",
               "options": ["a) Obwohl", "b) Weil", "c) Trotzdem"],
               "correctAnswer": "a",
-              "explanation": "Der Satz enthält einen Gegensatz (Angst früher – Sicherheit heute), den 'obwohl' (konzessiv) einleitet. 'weil' würde einen Grund angeben und macht inhaltlich keinen Sinn. 'trotzdem' ist ein Adverb mit Hauptsatzstellung, aber hier steht das Verb am Ende – also muss eine Subjunktion stehen.",
-              "pointValue": 1.5
+              "explanation": "Der Satz enthält einen Gegensatz (Angst früher – Sicherheit heute), den 'obwohl' (konzessiv) einleitet. 'weil' würde einen Grund angeben. 'trotzdem' ist ein Adverb mit Hauptsatzstellung, hier steht das Verb aber am Ende."
             },
             {
               "blankNumber": 5,
               "type": "mcq",
               "options": ["a) wurde", "b) hat", "c) war"],
               "correctAnswer": "a",
-              "explanation": "Passiv Präteritum: 'Der Beitrag wurde veröffentlicht.' Das Subjekt ('der Beitrag') führt die Handlung nicht selbst aus. 'hat' würde Aktiv-Perfekt verlangen, 'war' wäre Zustandspassiv und grammatisch hier falsch.",
-              "pointValue": 1.5
+              "explanation": "Passiv Präteritum: 'Der Beitrag wurde veröffentlicht.' Das Subjekt führt die Handlung nicht selbst aus. 'hat' würde Aktiv-Perfekt verlangen, 'war' wäre Zustandspassiv und hier falsch."
             },
             {
               "blankNumber": 6,
               "type": "mcq",
               "options": ["a) habe", "b) hätte", "c) hatte"],
               "correctAnswer": "b",
-              "explanation": "Irreale Bedingung: 'Wenn ich mehr Erfahrung hätte, würde ich ...' verlangt Konjunktiv II ('hätte'). 'habe' (Indikativ Präsens) passt nicht zur würde-Form im Hauptsatz. 'hatte' (Präteritum Indikativ) ergibt keinen sinnvollen Konditional.",
-              "pointValue": 1.5
+              "explanation": "Irreale Bedingung: 'Wenn ich mehr Erfahrung hätte, würde ich ...' verlangt Konjunktiv II ('hätte'). 'habe' (Indikativ Präsens) passt nicht zur würde-Form. 'hatte' (Präteritum Indikativ) ergibt keinen sinnvollen Konditional."
             },
             {
               "blankNumber": 7,
               "type": "mcq",
               "options": ["a) zu", "b) auf", "c) zum"],
               "correctAnswer": "c",
-              "explanation": "Feste Wendung: 'zum Sport gehen' (zu + dem = zum, Dativ). 'zu' ohne Artikel ist grammatisch unvollständig. 'auf' wird bei Sport nicht verwendet.",
-              "pointValue": 1.5
+              "explanation": "Feste Wendung: 'zum Sport gehen' (zu + dem = zum, Dativ). 'zu' ohne Artikel ist grammatisch unvollständig. 'auf' wird bei Sport nicht verwendet."
             },
             {
               "blankNumber": 8,
               "type": "mcq",
               "options": ["a) haben", "b) sind", "c) waren"],
               "correctAnswer": "b",
-              "explanation": "Perfekt von 'fahren' (Bewegung) wird mit 'sein' gebildet: 'wir sind gefahren'. 'haben' ist bei Bewegungsverben falsch. 'waren' wäre Präteritum und passt nicht zum Partizip II.",
-              "pointValue": 1.5
+              "explanation": "Perfekt von 'fahren' (Bewegung) wird mit 'sein' gebildet: 'wir sind gefahren'. 'haben' ist bei Bewegungsverben falsch. 'waren' wäre Präteritum und passt nicht zum Partizip II."
             },
             {
               "blankNumber": 9,
               "type": "mcq",
               "options": ["a) mich", "b) mir", "c) für mich"],
               "correctAnswer": "a",
-              "explanation": "Das reflexive Verb 'sich freuen' verlangt ein Reflexivpronomen im Akkusativ: 'ich freue mich'. 'mir' (Dativ) passt nur bei anderen reflexiven Verben wie 'sich etwas wünschen'. 'für mich' ist kein Reflexivpronomen.",
-              "pointValue": 1.5
+              "explanation": "Das reflexive Verb 'sich freuen' verlangt ein Reflexivpronomen im Akkusativ: 'ich freue mich'. 'mir' (Dativ) passt nur bei anderen reflexiven Verben. 'für mich' ist kein Reflexivpronomen."
             },
             {
               "blankNumber": 10,
               "type": "mcq",
               "options": ["a) das", "b) dem", "c) den"],
               "correctAnswer": "c",
-              "explanation": "'den schönsten Urlaub' ist direktes Objekt von 'verbracht' (Akkusativ, Maskulinum): 'den'. 'das' wäre Neutrum, 'dem' wäre Dativ. Die Adjektivendung '-sten' bestätigt Akkusativ Maskulinum stark dekliniert.",
-              "pointValue": 1.5
+              "explanation": "'den schönsten Urlaub' ist direktes Objekt (Akkusativ, Maskulinum). 'das' wäre Neutrum, 'dem' wäre Dativ."
             }
           ]
         },
         {
           "partNumber": 2,
-          "instructions": "Lesen Sie den folgenden Text. Welches Wort aus der Liste a–o passt in die Lücken? Jedes Wort passt nur einmal. Fünf Wörter bleiben übrig.",
-          "text": "Liebe Ayla,\n\nvielen __(11)__ für deine liebe Nachricht – ich habe mich wirklich gefreut, nach so langer Zeit wieder von dir zu hören! Wie du weißt, habe ich vor drei Monaten meinen alten Fernseher verkauft und lebe seitdem ohne Kabelanschluss. Am Anfang war es etwas ungewohnt, aber __(12)__ finde ich es sogar sehr angenehm.\n\nAbends höre ich jetzt viel öfter Podcasts oder lese Bücher. Letzte Woche habe ich lange mit meiner Mutter __(13)__, weil sie sich Sorgen gemacht hat, dass ich gar keine Nachrichten mehr sehe. Aber das stimmt gar nicht: Ich __(14)__ seitdem sogar gezielter auf seriöse Quellen im Internet.\n\nAußerdem bin ich seit Kurzem __(15)__ einen kleinen Familien-Newsletter zuständig, den ich jeden Sonntag an meine Verwandten schicke. __(16)__ der letzten Woche haben sogar meine Großeltern geschrieben, dass sie sich schon auf die nächste Ausgabe freuen – das war ein schönes Gefühl.\n\nEine Sache ärgert mich allerdings: Mein Internetanbieter hat die Grundgebühr zum März __(17)__. Ich hatte mich schon __(18)__ einen günstigen Frühling gefreut, aber jetzt zahle ich zehn Euro mehr pro Monat. Vielleicht wechsle ich __(19)__ bald den Anbieter – mal sehen, ob ein anderer ein besseres Angebot hat.\n\nKomm mich doch bald mal besuchen! __(20)__ können wir ja zusammen einen Filmabend veranstalten – ich habe nämlich einen kleinen Beamer geschenkt bekommen.\n\nLiebe Grüße,\nDaniel",
+          "instructions": "Lesen Sie den folgenden Text. Welches Wort aus der Liste (A–P) passt in die Lücken? Jedes Wort passt nur einmal. Fünf Wörter bleiben übrig.",
+          "text": "Sehr geehrte Damen und Herren,\n\nvor Kurzem habe ich __(11)__ der Tageszeitung Ihre Anzeige über Kurse an der Volkshochschule gelesen. Ich interessiere mich __(12)__ besonders für den Kurs 'Grundlagen der Videobearbeitung', da ich meine Hobbyvideos künftig selbst __(13)__ möchte.\n\n__(14)__ hätte ich einige Fragen. __(15)__ beginnt der nächste Kurs, und wie viele Einheiten sind insgesamt __(16)__? Außerdem würde mich interessieren, ob ein eigener Laptop __(17)__ wird oder ob die Volkshochschule Geräte __(18)__.\n\nIch würde mich sehr __(19)__, wenn Sie mir die Informationen per E-Mail zukommen lassen könnten. Bitte teilen Sie mir auch mit, __(20)__ ich mich rechtzeitig anmelden kann.\n\nMit freundlichen Grüßen\nSabrina Moll",
           "questions": [
             {
               "blankNumber": 11,
               "type": "word_bank",
               "options": [
-                "a) Dank", "b) mittlerweile", "c) gesprochen", "d) informiere", "e) für",
-                "f) In", "g) erhöht", "h) auf", "i) wahrscheinlich", "j) Dann",
-                "k) herzlichen", "l) nachgedacht", "m) reicht", "n) durch", "o) damit"
+                "A) in", "B) benötigt", "C) bearbeiten", "D) Allerdings", "E) Wann",
+                "F) vorgesehen", "G) stellt", "H) freuen", "I) wie", "J) sehr",
+                "K) damit", "L) dafür", "M) zur Verfügung", "N) auf", "O) aus", "P) durch"
               ],
-              "correctAnswer": "a",
-              "explanation": "Die Standardformel 'vielen Dank' eröffnet fast jeden B1-Brief. 'vielen' aus dem Text verlangt direkt das Substantiv 'Dank'. Distraktor k) 'herzlichen' würde zwar auch passen, aber 'vielen' steht bereits und lässt nur 'Dank' als Fortsetzung zu.",
-              "pointValue": 1.5
+              "correctAnswer": "A",
+              "explanation": "'ich habe in der Tageszeitung Ihre Anzeige gelesen' – Präposition 'in' + Dativ für Zeitungen. Option O) 'aus' wäre semantisch falsch (man liest etwas in, nicht aus einer Zeitung)."
             },
             {
               "blankNumber": 12,
               "type": "word_bank",
               "options": [
-                "a) Dank", "b) mittlerweile", "c) gesprochen", "d) informiere", "e) für",
-                "f) In", "g) erhöht", "h) auf", "i) wahrscheinlich", "j) Dann",
-                "k) herzlichen", "l) nachgedacht", "m) reicht", "n) durch", "o) damit"
+                "A) in", "B) benötigt", "C) bearbeiten", "D) Allerdings", "E) Wann",
+                "F) vorgesehen", "G) stellt", "H) freuen", "I) wie", "J) sehr",
+                "K) damit", "L) dafür", "M) zur Verfügung", "N) auf", "O) aus", "P) durch"
               ],
-              "correctAnswer": "b",
-              "explanation": "Das temporale Adverb 'mittlerweile' passt: 'Am Anfang war es ungewohnt, aber mittlerweile finde ich es angenehm' – ein natürlicher Verlauf von Anfang zu heute. 'damit' wäre ein Finalkonnektor und ergibt keinen Sinn.",
-              "pointValue": 1.5
+              "correctAnswer": "L",
+              "explanation": "'ich interessiere mich dafür besonders' – Pronominaladverb 'dafür' (= für diesen Kurs). Option N) 'auf' ergibt 'ich interessiere mich auf', was kein korrektes Muster ist."
             },
             {
               "blankNumber": 13,
               "type": "word_bank",
               "options": [
-                "a) Dank", "b) mittlerweile", "c) gesprochen", "d) informiere", "e) für",
-                "f) In", "g) erhöht", "h) auf", "i) wahrscheinlich", "j) Dann",
-                "k) herzlichen", "l) nachgedacht", "m) reicht", "n) durch", "o) damit"
+                "A) in", "B) benötigt", "C) bearbeiten", "D) Allerdings", "E) Wann",
+                "F) vorgesehen", "G) stellt", "H) freuen", "I) wie", "J) sehr",
+                "K) damit", "L) dafür", "M) zur Verfügung", "N) auf", "O) aus", "P) durch"
               ],
-              "correctAnswer": "c",
-              "explanation": "'Ich habe lange mit meiner Mutter gesprochen' – Perfekt von 'sprechen'. Distraktor l) 'nachgedacht' verlangt 'über' und passt nicht zu 'mit meiner Mutter'.",
-              "pointValue": 1.5
+              "correctAnswer": "C",
+              "explanation": "'meine Hobbyvideos selbst bearbeiten möchte' – Infinitiv 'bearbeiten' schließt die Modalverbkonstruktion ab. Option G) 'stellt' wäre ein konjugiertes Verb, das hier nicht passt."
             },
             {
               "blankNumber": 14,
               "type": "word_bank",
               "options": [
-                "a) Dank", "b) mittlerweile", "c) gesprochen", "d) informiere", "e) für",
-                "f) In", "g) erhöht", "h) auf", "i) wahrscheinlich", "j) Dann",
-                "k) herzlichen", "l) nachgedacht", "m) reicht", "n) durch", "o) damit"
+                "A) in", "B) benötigt", "C) bearbeiten", "D) Allerdings", "E) Wann",
+                "F) vorgesehen", "G) stellt", "H) freuen", "I) wie", "J) sehr",
+                "K) damit", "L) dafür", "M) zur Verfügung", "N) auf", "O) aus", "P) durch"
               ],
-              "correctAnswer": "d",
-              "explanation": "'Ich informiere mich auf seriösen Quellen' – das Verb 'sich informieren' passt inhaltlich (es geht um Nachrichten) und grammatisch (1. Person Singular Präsens). 'sich informieren' bildet eine feste Kombination mit 'auf' oder 'über'.",
-              "pointValue": 1.5
+              "correctAnswer": "D",
+              "explanation": "'Allerdings hätte ich einige Fragen' – 'allerdings' als konzessiver Übergang leitet den Fragenteil ein und ist in formellen Anfragen typisch. Option K) 'damit' wäre ein Finalkonnektor und passt nicht an den Satzanfang vor 'hätte'."
             },
             {
               "blankNumber": 15,
               "type": "word_bank",
               "options": [
-                "a) Dank", "b) mittlerweile", "c) gesprochen", "d) informiere", "e) für",
-                "f) In", "g) erhöht", "h) auf", "i) wahrscheinlich", "j) Dann",
-                "k) herzlichen", "l) nachgedacht", "m) reicht", "n) durch", "o) damit"
+                "A) in", "B) benötigt", "C) bearbeiten", "D) Allerdings", "E) Wann",
+                "F) vorgesehen", "G) stellt", "H) freuen", "I) wie", "J) sehr",
+                "K) damit", "L) dafür", "M) zur Verfügung", "N) auf", "O) aus", "P) durch"
               ],
-              "correctAnswer": "e",
-              "explanation": "Feste Kombination 'zuständig sein für + Akkusativ': 'zuständig für einen Newsletter'. 'durch' passt nicht zur Bedeutung ('Verantwortung für'), es würde eher Mittel/Weg angeben.",
-              "pointValue": 1.5
+              "correctAnswer": "E",
+              "explanation": "'Wann beginnt der nächste Kurs' – Fragewort 'Wann' für Zeitangaben, am Satzanfang großgeschrieben. Option I) 'wie' leitet eine Art-und-Weise-Frage ein, nicht eine Zeitfrage."
             },
             {
               "blankNumber": 16,
               "type": "word_bank",
               "options": [
-                "a) Dank", "b) mittlerweile", "c) gesprochen", "d) informiere", "e) für",
-                "f) In", "g) erhöht", "h) auf", "i) wahrscheinlich", "j) Dann",
-                "k) herzlichen", "l) nachgedacht", "m) reicht", "n) durch", "o) damit"
+                "A) in", "B) benötigt", "C) bearbeiten", "D) Allerdings", "E) Wann",
+                "F) vorgesehen", "G) stellt", "H) freuen", "I) wie", "J) sehr",
+                "K) damit", "L) dafür", "M) zur Verfügung", "N) auf", "O) aus", "P) durch"
               ],
-              "correctAnswer": "f",
-              "explanation": "Zeitangabe 'In der letzten Woche' mit Dativ. 'in' am Satzanfang → groß geschrieben 'In'. Das bildet eine typische Zeitangabe.",
-              "pointValue": 1.5
+              "correctAnswer": "F",
+              "explanation": "'wie viele Einheiten sind insgesamt vorgesehen' – 'vorgesehen' (geplant) ist das typische Kollokat für Kursstruktur. Option B) 'benötigt' würde 'werden benötigt' verlangen – Passiv ohne Hilfsverb hier falsch."
             },
             {
               "blankNumber": 17,
               "type": "word_bank",
               "options": [
-                "a) Dank", "b) mittlerweile", "c) gesprochen", "d) informiere", "e) für",
-                "f) In", "g) erhöht", "h) auf", "i) wahrscheinlich", "j) Dann",
-                "k) herzlichen", "l) nachgedacht", "m) reicht", "n) durch", "o) damit"
+                "A) in", "B) benötigt", "C) bearbeiten", "D) Allerdings", "E) Wann",
+                "F) vorgesehen", "G) stellt", "H) freuen", "I) wie", "J) sehr",
+                "K) damit", "L) dafür", "M) zur Verfügung", "N) auf", "O) aus", "P) durch"
               ],
-              "correctAnswer": "g",
-              "explanation": "'Der Anbieter hat die Grundgebühr erhöht' – das übliche Kollokat 'Gebühr erhöhen'. Partizip II 'erhöht' schließt das Perfekt ab.",
-              "pointValue": 1.5
+              "correctAnswer": "B",
+              "explanation": "'ob ein eigener Laptop benötigt wird' – Passiv Präsens 'benötigt wird'. Das Partizip II 'benötigt' schließt den Passivsatz ab. Option G) 'stellt' wäre Aktiv und passt syntaktisch nicht."
             },
             {
               "blankNumber": 18,
               "type": "word_bank",
               "options": [
-                "a) Dank", "b) mittlerweile", "c) gesprochen", "d) informiere", "e) für",
-                "f) In", "g) erhöht", "h) auf", "i) wahrscheinlich", "j) Dann",
-                "k) herzlichen", "l) nachgedacht", "m) reicht", "n) durch", "o) damit"
+                "A) in", "B) benötigt", "C) bearbeiten", "D) Allerdings", "E) Wann",
+                "F) vorgesehen", "G) stellt", "H) freuen", "I) wie", "J) sehr",
+                "K) damit", "L) dafür", "M) zur Verfügung", "N) auf", "O) aus", "P) durch"
               ],
-              "correctAnswer": "h",
-              "explanation": "Feste Verb+Präposition 'sich freuen auf + Akkusativ' (Vorfreude). 'Ich hatte mich auf einen günstigen Frühling gefreut.' 'für' kombiniert mit anderen Verben (sich bedanken für).",
-              "pointValue": 1.5
+              "correctAnswer": "M",
+              "explanation": "'ob die Volkshochschule Geräte zur Verfügung stellt' – feste Kollokation 'zur Verfügung stellen'. Option G) 'stellt' käme später als Verb; 'zur Verfügung' füllt die Lücke 18, 'stellt' steht bereits im Text."
             },
             {
               "blankNumber": 19,
               "type": "word_bank",
               "options": [
-                "a) Dank", "b) mittlerweile", "c) gesprochen", "d) informiere", "e) für",
-                "f) In", "g) erhöht", "h) auf", "i) wahrscheinlich", "j) Dann",
-                "k) herzlichen", "l) nachgedacht", "m) reicht", "n) durch", "o) damit"
+                "A) in", "B) benötigt", "C) bearbeiten", "D) Allerdings", "E) Wann",
+                "F) vorgesehen", "G) stellt", "H) freuen", "I) wie", "J) sehr",
+                "K) damit", "L) dafür", "M) zur Verfügung", "N) auf", "O) aus", "P) durch"
               ],
-              "correctAnswer": "i",
-              "explanation": "Das Adverb 'wahrscheinlich' passt: 'Vielleicht wechsle ich wahrscheinlich bald den Anbieter' – klein geschrieben im Satzinneren, drückt Unsicherheit aus.",
-              "pointValue": 1.5
+              "correctAnswer": "H",
+              "explanation": "'Ich würde mich sehr freuen' – Standardformel im formellen Schriftverkehr (höfliche Bitte). 'freuen' als Infinitiv nach 'würde'. Option J) 'sehr' wäre ein Adverb, kein Infinitiv."
             },
             {
               "blankNumber": 20,
               "type": "word_bank",
               "options": [
-                "a) Dank", "b) mittlerweile", "c) gesprochen", "d) informiere", "e) für",
-                "f) In", "g) erhöht", "h) auf", "i) wahrscheinlich", "j) Dann",
-                "k) herzlichen", "l) nachgedacht", "m) reicht", "n) durch", "o) damit"
+                "A) in", "B) benötigt", "C) bearbeiten", "D) Allerdings", "E) Wann",
+                "F) vorgesehen", "G) stellt", "H) freuen", "I) wie", "J) sehr",
+                "K) damit", "L) dafür", "M) zur Verfügung", "N) auf", "O) aus", "P) durch"
               ],
-              "correctAnswer": "j",
-              "explanation": "Satzanfang + zeitliche Verknüpfung: 'Dann können wir ja zusammen einen Filmabend veranstalten'. Großschreibung zeigt Satzanfang an. Übrig bleiben k) herzlichen, l) nachgedacht, m) reicht, n) durch, o) damit als Distraktoren.",
-              "pointValue": 1.5
+              "correctAnswer": "I",
+              "explanation": "'Bitte teilen Sie mir auch mit, wie ich mich rechtzeitig anmelden kann' – indirekte Frage mit 'wie'. Option E) 'Wann' wäre bereits verbraucht (Lücke 15). Übrig bleiben J) sehr, K) damit, N) auf, O) aus, P) durch."
             }
           ]
         }
@@ -838,34 +798,34 @@
         {
           "taskNumber": 1,
           "type": "letter",
-          "instructions": "Sie haben vor einem Monat ein Streaming-Abo bei der Firma 'FilmLand' abgeschlossen. Seit der letzten Woche funktioniert der Dienst bei Ihnen nicht mehr zuverlässig. Schreiben Sie eine E-Mail an den Kundenservice. Gehen Sie auf alle vier Punkte unten ein. Achten Sie auf eine passende Anrede und einen passenden Gruß. Schreiben Sie ca. 150 Wörter.",
-          "instructionsTranslation": "A month ago you subscribed to a streaming service from 'FilmLand'. Since last week the service has not been working reliably. Write an email to customer service. Address all four points below. Pay attention to appropriate greeting and closing. Write approximately 150 words.",
-          "prompt": "Situation: Sie haben vor einem Monat ein Streaming-Abo bei 'FilmLand' abgeschlossen. Seit einer Woche gibt es immer wieder Probleme beim Abspielen.\n\nSchreiben Sie eine E-Mail an den Kundenservice. Gehen Sie auf die folgenden vier Punkte ein:\n\n- Problem: Beschreiben Sie, welches Problem Sie haben.\n- Rückfrage: Seit wann und wie oft tritt das Problem auf?\n- Bitten: Was möchten Sie als Lösung (z.B. eine Gutschrift oder Rückerstattung)?\n- Alternative: Schlagen Sie vor, was der Anbieter tun könnte, damit Sie weiter Kunde bleiben.\n\nVergessen Sie nicht Anrede, Einleitung und Grußformel. Schreiben Sie ca. 150 Wörter.",
-          "promptTranslation": "Situation: A month ago you subscribed to a streaming service from 'FilmLand'. For a week there have been repeated playback problems.\n\nWrite an email to customer service. Address these four points:\n\n- Problem: Describe the problem you are having.\n- Question: Since when and how often does the problem occur?\n- Request: What would you like as a solution (e.g. credit or refund)?\n- Alternative: Suggest what the provider could do so that you remain a customer.\n\nDon't forget greeting, introduction, and closing. Write approximately 150 words.",
+          "instructions": "Sie haben in der Zeitung eine Anzeige der Fahrschule 'Stadtmobil' gelesen. Die Fahrschule bietet Intensivkurse für den Führerschein an. Sie interessieren sich dafür und möchten mehr erfahren. Schreiben Sie eine Anfrage an die Fahrschule. Gehen Sie auf alle vier Punkte ein. Achten Sie auf eine passende Anrede und einen passenden Gruß. Schreiben Sie ca. 150 Wörter.",
+          "instructionsTranslation": "You read an advertisement from the driving school 'Stadtmobil' offering intensive driving courses. You are interested and want to find out more. Write an inquiry to the driving school. Address all four points. Use an appropriate greeting and closing. Write approximately 150 words.",
+          "prompt": "Situation: Sie haben eine Anzeige der Fahrschule 'Stadtmobil' gelesen, die einen Intensivkurs für den Führerschein anbietet.\n\nSchreiben Sie eine Anfrage. Gehen Sie auf die folgenden vier Punkte ein:\n\n- Wie Sie auf das Angebot aufmerksam geworden sind\n- Welche Informationen Sie zu Terminen und Preisen haben möchten\n- Ob es besondere Voraussetzungen für den Intensivkurs gibt\n- Wie und bis wann Sie sich anmelden können\n\nVergessen Sie nicht Anrede, Einleitung und Grußformel. Schreiben Sie ca. 150 Wörter.",
+          "promptTranslation": "Situation: You read an advertisement from the driving school 'Stadtmobil' offering an intensive driving course.\n\nWrite an inquiry. Address the following four points:\n\n- How you heard about the offer\n- What information you would like about dates and prices\n- Whether there are special requirements for the intensive course\n- How and by when you can register\n\nDon't forget greeting, introduction, and closing. Write approximately 150 words.",
           "requiredPoints": [
-            "Beschreibung des Problems mit dem Streaming-Dienst",
-            "Angabe, seit wann und wie oft das Problem auftritt",
-            "Bitte um eine konkrete Lösung (Gutschrift, Rückerstattung o.ä.)",
-            "Vorschlag, wie der Anbieter Sie als Kunde halten könnte"
+            "Hinweis darauf, wie die Schreiberin / der Schreiber auf das Angebot aufmerksam wurde",
+            "Frage nach Terminen und Kursgebühren",
+            "Frage nach etwaigen Voraussetzungen für den Intensivkurs",
+            "Frage nach Anmeldemodalitäten und Anmeldefrist"
           ],
           "wordCountMin": 130,
           "wordCountMax": 170,
-          "sampleAnswer": "Sehr geehrte Damen und Herren,\n\nvor einem Monat habe ich bei Ihnen ein Streaming-Abo abgeschlossen und war anfangs sehr zufrieden. Leider schreibe ich Ihnen heute wegen eines Problems.\n\nSeit der letzten Woche kann ich Filme und Serien nicht mehr in Ruhe anschauen, weil das Bild immer wieder einfriert. Manchmal geht es erst nach mehreren Minuten weiter. Das Problem tritt fast täglich auf, besonders abends zwischen 19 und 22 Uhr. Mein Internet ist aber in Ordnung, andere Dienste funktionieren bei mir normal.\n\nIch möchte Sie deshalb fragen, ob Sie mir für die betroffenen Tage eine Gutschrift auf meinem Konto geben können. Für einen Dienst, den ich gerade nicht nutzen kann, möchte ich ungern den vollen Preis zahlen.\n\nIch finde Ihr Angebot grundsätzlich gut und würde gerne weiter Kunde bleiben. Vielleicht könnten Sie mir einen technischen Kontakt geben, damit wir das Problem schnell lösen.\n\nVielen Dank im Voraus für Ihre Antwort.\n\nMit freundlichen Grüßen\nJulia Hoffmann",
+          "sampleAnswer": "Sehr geehrte Damen und Herren,\n\nvor einigen Tagen habe ich in der Münchner Wochenzeitung Ihre Anzeige über den Intensivkurs für den Führerschein der Klasse B gelesen. Da ich in den nächsten Wochen möglichst schnell den Führerschein machen möchte, interessiert mich Ihr Angebot sehr.\n\nGerne würde ich wissen, wann der nächste Kurs beginnt und wie lange er insgesamt dauert. Außerdem würde ich Sie bitten, mir die Gesamtkosten mitzuteilen – also sowohl die Kursgebühr als auch die Prüfungsgebühren.\n\nEine weitere Frage: Gibt es bestimmte Voraussetzungen für die Teilnahme am Intensivkurs, zum Beispiel in Bezug auf Alter oder bereits abgelegte Prüfungen?\n\nSchließlich würde ich gerne wissen, wie ich mich anmelden kann und bis wann eine Anmeldung möglich ist.\n\nIch freue mich auf Ihre Antwort und hoffe, dass noch Plätze verfügbar sind.\n\nMit freundlichen Grüßen\nLena Hoffmann",
           "scoringCriteria": [
             {
               "criterion": "I. Inhaltliche Vollständigkeit",
               "maxPoints": 15,
-              "description": "Alle vier Leitpunkte (Problem, Zeitraum/Häufigkeit, Lösungswunsch, Vorschlag) sind klar behandelt. Wird einer dieser Punkte als nicht bearbeitet bewertet (D), erhält der gesamte Text 0 Punkte."
+              "description": "Alle vier Leitpunkte (Aufmerksamkeit auf das Angebot, Termin- und Preisfragen, Voraussetzungen, Anmeldemodalitäten) sind klar behandelt. Fehlt ein Punkt vollständig (D), erhält der gesamte Text 0 Punkte."
             },
             {
               "criterion": "II. Kommunikative Gestaltung",
               "maxPoints": 15,
-              "description": "Förmliche Anrede ('Sehr geehrte Damen und Herren'), sinnvolle Einleitung mit Bezug zur Situation, passende Konnektoren (leider, deshalb, außerdem), formelle Grußformel, logische Absatzstruktur."
+              "description": "Förmliche Anrede ('Sehr geehrte Damen und Herren'), sachliche semi-formelle Einleitung mit Bezug auf die Anzeige, korrekte Fragestruktur, passende formelle Grußformel ('Mit freundlichen Grüßen'), logische Absatzstruktur."
             },
             {
               "criterion": "III. Formale Richtigkeit",
               "maxPoints": 15,
-              "description": "Grammatik, Rechtschreibung und Wortwahl auf B1-Niveau. Korrekte Verbformen (Perfekt, Konjunktiv II für höfliche Bitten), Satzstellung in Nebensätzen, Kasus nach Präpositionen. Schwere Grammatikfehler, die das Verständnis blockieren, führen zu D (und damit 0 Punkten für den gesamten Text)."
+              "description": "Grammatik und Rechtschreibung auf B1-Niveau. Korrekte Fragesätze (direkte und indirekte), Konjunktiv II für höfliche Bitten ('würde ich gerne wissen'), Verbstellung in Nebensätzen. Schwere Fehler, die das Verständnis blockieren, führen zu D."
             }
           ]
         }
@@ -880,7 +840,7 @@
           "type": "introduce",
           "instructions": "Stellen Sie sich Ihrem Gesprächspartner/Ihrer Gesprächspartnerin vor. Sprechen Sie über sich: Name, Herkunft, Wohnort, Familie, Beruf oder Ausbildung, Hobbys und Sprachen. Stellen Sie anschließend Ihrem Partner/Ihrer Partnerin mindestens zwei Fragen.",
           "instructionsTranslation": "Introduce yourself to your conversation partner. Talk about: name, origin, place of residence, family, work or education, hobbies, and languages. Afterwards ask your partner at least two questions.",
-          "prompt": "Bitte stellen Sie sich Ihrem Partner / Ihrer Partnerin vor. Sprechen Sie u.a. über:\n- Ihren Namen und Ihre Herkunft\n- Ihren aktuellen Wohnort und seit wann Sie dort leben\n- Ihre Familie\n- Ihren Beruf oder Ihr Studium\n- Ihre Hobbys und Interessen\n- Die Sprachen, die Sie sprechen\n\nStellen Sie danach Ihrem Partner / Ihrer Partnerin mindestens zwei Fragen, um mehr über sie/ihn zu erfahren. Vorbereitungszeit: 20 Minuten für die gesamte mündliche Prüfung.",
+          "prompt": "Bitte stellen Sie sich Ihrem Partner / Ihrer Partnerin vor. Sprechen Sie u.a. über:\n- Ihren Namen und Ihre Herkunft\n- Ihren aktuellen Wohnort und seit wann Sie dort leben\n- Ihre Familie\n- Ihren Beruf oder Ihr Studium\n- Ihre Hobbys und Interessen\n- Die Sprachen, die Sie sprechen\n\nStellen Sie danach Ihrem Partner / Ihrer Partnerin mindestens zwei Fragen, um mehr über sie/ihn zu erfahren.",
           "sampleResponse": "Guten Tag, mein Name ist Julia Hoffmann, und ich komme ursprünglich aus einer kleinen Stadt in der Nähe von Köln. Seit fünf Jahren wohne ich jetzt in München, wo ich bei einer Online-Redaktion als Autorin arbeite. Meine Familie lebt weiterhin im Rheinland – meine Eltern sind Lehrer, und ich habe einen älteren Bruder, der Arzt ist. In meiner Freizeit gehe ich gerne wandern und höre unterwegs oft Podcasts zu politischen Themen. Außerdem koche ich sehr gerne, besonders italienisch, und treffe mich am Wochenende mit Freunden. Neben Deutsch spreche ich Englisch fließend und lerne seit einem halben Jahr auch Französisch, weil ich gerne nach Lyon reisen möchte. Und wie sieht es bei dir aus? Woher kommst du, und was machst du beruflich?",
           "evaluationTips": [
             "Strukturieren Sie Ihre Vorstellung – erst Name und Herkunft, dann Beruf, dann Hobbys",
@@ -906,7 +866,7 @@
           "instructions": "Sie erhalten einen kurzen Text zum Thema. Fassen Sie den Inhalt für Ihren Partner zusammen, beantworten Sie die drei Leitfragen, und tauschen Sie Ihre Meinung mit dem Partner aus.",
           "instructionsTranslation": "You receive a short text on the topic. Summarize the content for your partner, answer the three guiding questions, and exchange your opinions with your partner.",
           "prompt": "Thema: Soziale Netzwerke im Alltag\n\nLesen Sie den folgenden kurzen Text:\n\n'Eine neue Umfrage zeigt: Jeder zweite Deutsche verbringt täglich mehr als eineinhalb Stunden in sozialen Netzwerken. Bei Jugendlichen zwischen 14 und 19 sind es sogar über drei Stunden. Viele nutzen die Zeit zum Austausch mit Freunden, andere informieren sich über Nachrichten. Experten diskutieren, ob diese Entwicklung eher positiv oder negativ zu bewerten ist.'\n\nLeitfragen:\n1. Fassen Sie kurz den Inhalt des Textes zusammen (in 2–3 Sätzen).\n2. Welche sozialen Netzwerke nutzen Sie persönlich, und wofür?\n3. Was sind Ihrer Meinung nach die Vor- und Nachteile einer täglichen Nutzung von sozialen Netzwerken?\n\nSprechen Sie mit Ihrem Partner/Ihrer Partnerin über das Thema – fragen Sie auch nach seiner/ihrer Meinung.",
-          "sampleResponse": "Der Text berichtet, dass jeder zweite Deutsche täglich mehr als eineinhalb Stunden in sozialen Netzwerken verbringt. Bei Jugendlichen sind es sogar über drei Stunden. Experten sind sich uneinig, ob das eine positive oder negative Entwicklung ist.\n\nIch selbst nutze vor allem WhatsApp, um mit meiner Familie in Kontakt zu bleiben, und Instagram, weil mir die Fotos von Reisen und Rezepten Spaß machen. Täglich bin ich ungefähr eine Stunde dort – meistens abends in kurzen Pausen.\n\nMeiner Meinung nach haben soziale Netzwerke klare Vorteile: Man bleibt mit Freunden in Kontakt, die weit weg wohnen, und bekommt schnell Informationen. Andererseits sehe ich auch Nachteile. Ich merke, dass ich manchmal zu lange scrolle, ohne es zu wollen. Außerdem vergleicht man sich leicht mit anderen, und das macht nicht immer glücklich. Ich glaube, eine feste Grenze am Tag wäre sinnvoll. Nutzt du eigentlich auch Instagram, oder lieber andere Plattformen?",
+          "sampleResponse": "Der Text berichtet, dass jeder zweite Deutsche täglich mehr als eineinhalb Stunden in sozialen Netzwerken verbringt. Bei Jugendlichen sind es sogar über drei Stunden. Experten sind sich uneinig, ob das eine positive oder negative Entwicklung ist.\n\nIch selbst nutze vor allem WhatsApp, um mit meiner Familie in Kontakt zu bleiben, und Instagram, weil mir die Fotos von Reisen und Rezepten Spaß machen. Täglich bin ich ungefähr eine Stunde dort – meistens abends in kurzen Pausen.\n\nMeiner Meinung nach haben soziale Netzwerke klare Vorteile: Man bleibt mit Freunden in Kontakt, die weit weg wohnen, und bekommt schnell Informationen. Andererseits sehe ich auch Nachteile. Ich merke, dass ich manchmal zu lange scrolle, ohne es zu wollen. Außerdem vergleicht man sich leicht mit anderen, und das macht nicht immer glücklich. Nutzt du eigentlich auch Instagram, oder lieber andere Plattformen?",
           "evaluationTips": [
             "Beginnen Sie mit einer klaren Zusammenfassung in 2–3 Sätzen, bevor Sie Ihre Meinung äußern",
             "Nennen Sie konkrete Beispiele aus Ihrem Alltag (welche App, wie oft, wofür)",
@@ -931,26 +891,25 @@
           "type": "planning",
           "instructions": "Sie sollen mit Ihrem Partner gemeinsam etwas planen. Machen Sie Vorschläge, reagieren Sie auf die Ideen Ihres Partners und einigen Sie sich am Ende auf eine gemeinsame Lösung.",
           "instructionsTranslation": "You are going to plan something together with your partner. Make suggestions, respond to your partner's ideas, and agree on a joint solution at the end.",
-          "prompt": "Ihr Sportverein sucht eine neue Möglichkeit, junge Mitglieder zu erreichen. Sie und Ihr Partner / Ihre Partnerin sollen einen kleinen Social-Media-Auftritt für den Verein planen.\n\nBesprechen Sie bitte folgende Punkte und kommen Sie zu einer gemeinsamen Entscheidung:\n\n- Welche Plattform(en) sollen Sie nutzen und warum?\n- Welche Inhalte wollen Sie regelmäßig posten (z.B. Fotos vom Training, Interviews, Termine)?\n- Wie oft soll gepostet werden?\n- Wer macht die Fotos, wer schreibt die Texte?\n- Wie finden Sie neue Follower, z.B. in der Schule oder in der Stadt?\n\nMachen Sie Vorschläge, gehen Sie auf die Vorschläge Ihres Partners ein und einigen Sie sich am Ende.",
-          "sampleResponse": "Also, ich würde vorschlagen, dass wir mit Instagram anfangen, weil dort die meisten Jugendlichen unterwegs sind. Vielleicht können wir später auch TikTok ausprobieren, aber eine Plattform reicht am Anfang. Was hältst du davon?\n\nBeim Inhalt denke ich an eine Mischung: kurze Videos vom Training, Fotos von unseren Turnieren und alle zwei Wochen ein kleines Interview mit einem Mitglied. So sehen Interessierte, wie es bei uns wirklich aussieht.\n\nIch glaube, zweimal pro Woche zu posten ist realistisch – öfter schaffen wir neben Schule und Arbeit nicht. Vielleicht jeden Montag ein Foto und jeden Freitag ein kurzes Video, einverstanden?\n\nWer macht was? Ich fotografiere gerne, aber das Schreiben fällt mir schwer. Könntest du die Texte übernehmen? Im Gegenzug kümmere ich mich um die Bildauswahl und die Bearbeitung.\n\nFür neue Follower könnten wir Aushänge in der Schule machen und den QR-Code dazu drucken. Außerdem lohnt sich ein kleines Plakat am Vereinsheim. Passt das für dich?",
+          "prompt": "Ihr Kollege Herr Petersen verlässt das Unternehmen nach acht Jahren und geht in eine neue Stelle in einer anderen Stadt. Das Team möchte ihm ein gemeinsames Abschiedsgeschenk machen.\n\nBesprechen Sie bitte folgende Punkte und kommen Sie zu einer gemeinsamen Entscheidung:\n\n- Wie viel Geld soll jede Person zum Geschenk beitragen?\n- Was für ein Geschenk ist passend (z.B. Gutschein, persönlicher Gegenstand, Erlebnis)?\n- Wer organisiert die Sammlung und kauft das Geschenk?\n- Soll es zusätzlich eine Karte oder ein kleines Fest geben?\n- Wann und wie überreicht das Team das Geschenk?\n\nMachen Sie Vorschläge, gehen Sie auf die Vorschläge Ihres Partners ein und einigen Sie sich am Ende.",
+          "sampleResponse": "Also, ich schlage vor, dass wir pro Person etwa zehn Euro sammeln – das ergibt mit zwölf Leuten im Team schon einen ordentlichen Betrag. Was meinst du, ist das realistisch für alle?\n\nFür das Geschenk selbst würde ich einen Erlebnis-Gutschein vorschlagen, zum Beispiel ein Abendessen für zwei Personen. Das ist persönlicher als ein Kaufhausgutschein und passt gut zu einem Neuanfang in einer neuen Stadt. Oder hättest du eine andere Idee?\n\nKümmern wir uns gemeinsam darum: Ich kann das Geld in den nächsten drei Tagen einsammeln, und du könntest den Gutschein dann online bestellen – das geht schnell. Einverstanden?\n\nIch finde, eine Karte wäre auf jeden Fall schön – vielleicht unterschreiben alle Teammitglieder, damit Herr Petersen auch nach dem Abschied noch an uns denkt. Ein großes Fest müssen wir nicht organisieren, aber wir könnten am letzten Tag kurz nach der Mittagspause zusammenkommen.\n\nDann halten wir fest: Freitagnachmittag im Besprechungsraum, zehn Euro pro Person, Gutschein plus Karte. Passt das für dich?",
           "evaluationTips": [
-            "Hören Sie aktiv zu und reagieren Sie konkret auf die Vorschläge Ihres Partners",
-            "Machen Sie Vorschläge mit Konjunktiv II ('Ich würde vorschlagen ...', 'Wir könnten ...') – das wirkt höflich",
-            "Begründen Sie Ihre Vorschläge kurz mit 'weil', 'damit', 'denn'",
-            "Einigen Sie sich am Ende explizit – 'Das machen wir so, einverstanden?' zeigt Abschluss",
-            "Teilen Sie Aufgaben klar auf – wer macht Fotos, wer schreibt Texte",
-            "Fassen Sie die wichtigsten Entscheidungen am Ende kurz zusammen"
+            "Beginnen Sie mit einem konkreten Budgetvorschlag und begründen Sie ihn kurz",
+            "Schlagen Sie mindestens zwei Geschenkideen vor und vergleichen Sie sie",
+            "Verteilen Sie Aufgaben klar: wer sammelt Geld, wer kauft das Geschenk",
+            "Stimmen Sie Zeitpunkt und Ort der Übergabe gemeinsam ab",
+            "Reagieren Sie auf die Vorschläge Ihres Partners mit 'Das gefällt mir, weil ...' oder 'Alternativ könnten wir ...'",
+            "Fassen Sie am Ende die gemeinsame Entscheidung zusammen"
           ],
           "keyPhrases": [
-            "Ich würde vorschlagen, dass ...",
-            "Was hältst du davon, wenn ...?",
-            "Wir könnten zum Beispiel ...",
-            "Das ist eine gute Idee, aber ...",
-            "Alternativ könnten wir auch ...",
-            "Wer übernimmt ...?",
-            "Ich kümmere mich um ... / Kannst du ...?",
-            "Einverstanden!",
-            "Dann halten wir fest: ..."
+            "Ich schlage vor, dass wir ... pro Person sammeln.",
+            "Was hältst du von einem Gutschein / Erlebnis / Gegenstand?",
+            "Wer übernimmt die Sammlung?",
+            "Ich könnte ... organisieren, wenn du ... übernimmst.",
+            "Sollen wir auch eine Karte machen?",
+            "Wann und wo übergeben wir das Geschenk?",
+            "Dann halten wir fest: ...",
+            "Einverstanden!"
           ]
         }
       ]
