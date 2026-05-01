@@ -1,13 +1,1720 @@
 {
   "id": "C1_mock_08",
   "level": "C1",
-  "title": "Übungstest 8",
-  "version": 0,
-  "_stub": true,
+  "title": "C1 Übungstest 8: Gesundheit und Medizin",
+  "version": 1,
   "sections": {
-    "listening": { "totalTimeMinutes": 20, "parts": [] },
-    "reading": { "totalTimeMinutes": 25, "parts": [] },
-    "writing": { "totalTimeMinutes": 20, "tasks": [] },
-    "speaking": { "totalTimeMinutes": 15, "prepTimeMinutes": 0, "parts": [] }
+    "reading": {
+      "totalTimeMinutes": 90,
+      "parts": [
+        {
+          "partNumber": 1,
+          "instructions": "Lesen Sie den folgenden Text. Sechs Sätze wurden herausgenommen. Wählen Sie aus den acht angebotenen Sätzen (a–h) den jeweils passenden. Zwei Sätze passen nicht. Schreiben Sie den Buchstaben des richtigen Satzes in die entsprechende Lücke.",
+          "instructionsTranslation": "Read the following text. Six sentences have been removed. Choose the appropriate sentence from the eight offered (a–h) for each gap. Two sentences do not fit. Write the letter of the correct sentence in the corresponding gap.",
+          "texts": [
+            {
+              "id": "C1_m08_R1_main",
+              "type": "article",
+              "content": "Versorgungsforschung im Wandel: Zwischen Evidenz und Realität\n\nDie Versorgungsforschung hat sich in den vergangenen zwei Jahrzehnten von einem Nischengebiet zu einem zentralen Pfeiler gesundheitspolitischer Entscheidungsfindung entwickelt. [1] Während die klassische klinische Forschung unter kontrollierten Bedingungen fragt, ob eine Behandlung wirkt, untersucht Versorgungsforschung, ob sie auch unter realen Bedingungen wirkt — bei heterogenen Patientenpopulationen, mit Komorbiditäten, begrenzter Adhärenz und variierenden institutionellen Kontexten.\n\nDie konzeptuelle Unterscheidung zwischen Efficacy und Effectiveness markiert den Kern dieses Feldes. Efficacy beschreibt die Wirksamkeit unter Idealbedingungen, Effectiveness die unter Alltagsbedingungen. [2] Diese Differenz ist nicht trivial: Zahlreiche Therapien, die in randomisierten kontrollierten Studien überzeugen, zeigen in der Routineversorgung deutlich schwächere Effekte. Die Gründe sind vielfältig — von Patientenselektion über Adhärenzprobleme bis hin zu fehlender spezialisierter Nachsorge.\n\nEin besonders drängender Anwendungsbereich ist die Analyse regionaler Versorgungsungleichheiten. In Deutschland zeigen Versorgungsatlasdaten systematische Unterschiede zwischen urbanen Zentren und strukturschwachen ländlichen Regionen: Wartezeiten auf Facharzttermine können je nach Landkreis um das Drei- bis Fünffache differieren. [3] Besonders eklatant sind die Unterschiede in der psychiatrischen und psychotherapeutischen Versorgung, wo Wartezeiten von sechs bis zwölf Monaten im ländlichen Raum keine Ausnahme, sondern die Regel sind.\n\nMethodisch stützt sich die Versorgungsforschung zunehmend auf Routinedaten — Abrechnungsdaten der Krankenkassen, Krankenhausentlassdaten, Totenscheine. Der Vorteil dieser Datenquellen liegt in ihrer Vollständigkeit und Repräsentativität: Sie bilden das gesamte Behandlungsgeschehen ab, nicht nur Studienpopulationen. [4] Die Herausforderungen sind jedoch erheblich: Abrechnungsdaten wurden nicht für Forschungszwecke erhoben, enthalten keine klinisch relevanten Verlaufsdaten und unterliegen Dokumentationsanreizen, die wissenschaftliche Validität gefährden können.\n\nDie Digitalisierung eröffnet neue Potenziale. Elektronische Patientenakten, Wearable-Daten und Real-World-Evidence-Ansätze versprechen eine granularere Abbildung des Versorgungsgeschehens. [5] Gleichzeitig entstehen neue Fragen: Wem gehören diese Daten? Wie können datenschutzkonforme Forschungsinfrastrukturen aufgebaut werden, ohne Erkenntnispotenzial zu verschwenden? Die Balance zwischen individuellem Datenschutz und kollektivem Erkenntnisnutzen ist dabei keine rein technische, sondern eine normative Frage.\n\nInternational ist Deutschland im Bereich sekundärer Nutzung von Gesundheitsdaten im Vergleich zu nordischen Ländern wie Dänemark oder Schweden deutlich zurück. Dort erlauben nationale Gesundheitsregister eine weitgehend vollständige Verlinkung von Versorgungsdaten über Jahrzehnte hinweg. [6] Der Aufbau vergleichbarer Strukturen in Deutschland scheitert bislang an föderalen Kompetenzfragen, fehlenden rechtlichen Rahmenbedingungen und einer historisch begründeten Zurückhaltung gegenüber zentralisierten Gesundheitsdatenbanken.",
+              "source": "Zeitschrift für Evidenz, Fortbildung und Qualität im Gesundheitswesen, Ausgabe 3/2025"
+            },
+            {
+              "id": "C1_m08_R1_sent_a",
+              "type": "notice",
+              "content": "a) In der Konsequenz müssen Förderprogramme für Versorgungsforschung stärker auf die Implementierungsebene zielen, nicht nur auf die Grundlagenebene."
+            },
+            {
+              "id": "C1_m08_R1_sent_b",
+              "type": "notice",
+              "content": "b) Darin liegt eine methodische Stärke: Gerade weil Routinedaten nicht selektiv erhoben wurden, sind sie für Fragen der Populationsrepräsentativität besser geeignet als Studiendaten."
+            },
+            {
+              "id": "C1_m08_R1_sent_c",
+              "type": "notice",
+              "content": "c) Angesichts dieser Datenlücken bleibt die Versorgungsforschung auf Kooperationen mit Kliniken und Kassenärztlichen Vereinigungen angewiesen."
+            },
+            {
+              "id": "C1_m08_R1_sent_d",
+              "type": "notice",
+              "content": "d) Im akademischen Diskurs wurde das Fach lange als bloße Anwendungsdisziplin ohne eigenständigen theoretischen Kern unterschätzt."
+            },
+            {
+              "id": "C1_m08_R1_sent_e",
+              "type": "notice",
+              "content": "e) Diese Disparitäten sind nicht allein auf Infrastrukturdefizite zurückzuführen, sondern spiegeln auch Verteilungsmuster bei der Niederlassung von Ärztinnen und Ärzten wider."
+            },
+            {
+              "id": "C1_m08_R1_sent_f",
+              "type": "notice",
+              "content": "f) Nordische Länder haben gezeigt, dass Registerstrukturen und Vertrauen in staatliche Institutionen sich gegenseitig verstärken können."
+            },
+            {
+              "id": "C1_m08_R1_sent_g",
+              "type": "notice",
+              "content": "g) Aus diesem Forschungsinteresse heraus entstand eine eigenständige Methodologie, die Elemente der Epidemiologie, der Ökonometrie und der Implementierungswissenschaft verbindet."
+            },
+            {
+              "id": "C1_m08_R1_sent_h",
+              "type": "notice",
+              "content": "h) Diese technologischen Möglichkeiten ändern jedoch nichts an der grundlegenden Notwendigkeit, Forschungsinfrastrukturen institutionell und rechtlich abzusichern."
+            }
+          ],
+          "questions": [
+            {
+              "id": "C1_m08_R1_q1",
+              "type": "matching",
+              "questionText": "Lücke 1 im Text: '…von einem Nischengebiet zu einem zentralen Pfeiler … entwickelt. [1] Während die klassische klinische Forschung…'",
+              "matchingSources": [
+                {
+                  "id": "C1_m08_R1_sent_a",
+                  "label": "a"
+                },
+                {
+                  "id": "C1_m08_R1_sent_b",
+                  "label": "b"
+                },
+                {
+                  "id": "C1_m08_R1_sent_c",
+                  "label": "c"
+                },
+                {
+                  "id": "C1_m08_R1_sent_d",
+                  "label": "d"
+                },
+                {
+                  "id": "C1_m08_R1_sent_e",
+                  "label": "e"
+                },
+                {
+                  "id": "C1_m08_R1_sent_f",
+                  "label": "f"
+                },
+                {
+                  "id": "C1_m08_R1_sent_g",
+                  "label": "g"
+                },
+                {
+                  "id": "C1_m08_R1_sent_h",
+                  "label": "h"
+                }
+              ],
+              "correctAnswer": "d",
+              "explanation": "Lücke 1 folgt auf die Aussage, dass Versorgungsforschung sich zu einem zentralen Pfeiler entwickelt hat. Satz d) beschreibt den Ausgangszustand davor: das Fach wurde 'lange als bloße Anwendungsdisziplin ohne eigenständigen theoretischen Kern unterschätzt'. Das Adverb 'lange' bildet eine semantische Brücke. Satz g) wäre thematisch nah, setzt aber die Etablierung des Faches bereits voraus."
+            },
+            {
+              "id": "C1_m08_R1_q2",
+              "type": "matching",
+              "questionText": "Lücke 2 im Text: '…Effectiveness die unter Alltagsbedingungen. [2] Diese Differenz ist nicht trivial…'",
+              "matchingSources": [
+                {
+                  "id": "C1_m08_R1_sent_a",
+                  "label": "a"
+                },
+                {
+                  "id": "C1_m08_R1_sent_b",
+                  "label": "b"
+                },
+                {
+                  "id": "C1_m08_R1_sent_c",
+                  "label": "c"
+                },
+                {
+                  "id": "C1_m08_R1_sent_d",
+                  "label": "d"
+                },
+                {
+                  "id": "C1_m08_R1_sent_e",
+                  "label": "e"
+                },
+                {
+                  "id": "C1_m08_R1_sent_f",
+                  "label": "f"
+                },
+                {
+                  "id": "C1_m08_R1_sent_g",
+                  "label": "g"
+                },
+                {
+                  "id": "C1_m08_R1_sent_h",
+                  "label": "h"
+                }
+              ],
+              "correctAnswer": "g",
+              "explanation": "Lücke 2 steht nach der Begriffsdefinition von Efficacy/Effectiveness. Satz g) erklärt, wie aus diesem Forschungsinteresse eine eigenständige Methodologie entstanden ist — eine logische Fortführung der konzeptuellen Einführung. 'Aus diesem Forschungsinteresse heraus' verweist anaphorisch auf den Vorsatz. Satz a) käme thematisch in Betracht, setzt aber Förderprogramme voraus, die noch nicht eingeführt sind."
+            },
+            {
+              "id": "C1_m08_R1_q3",
+              "type": "matching",
+              "questionText": "Lücke 3 im Text: '…können je nach Landkreis um das Drei- bis Fünffache differieren. [3] Besonders eklatant sind die Unterschiede…'",
+              "matchingSources": [
+                {
+                  "id": "C1_m08_R1_sent_a",
+                  "label": "a"
+                },
+                {
+                  "id": "C1_m08_R1_sent_b",
+                  "label": "b"
+                },
+                {
+                  "id": "C1_m08_R1_sent_c",
+                  "label": "c"
+                },
+                {
+                  "id": "C1_m08_R1_sent_d",
+                  "label": "d"
+                },
+                {
+                  "id": "C1_m08_R1_sent_e",
+                  "label": "e"
+                },
+                {
+                  "id": "C1_m08_R1_sent_f",
+                  "label": "f"
+                },
+                {
+                  "id": "C1_m08_R1_sent_g",
+                  "label": "g"
+                },
+                {
+                  "id": "C1_m08_R1_sent_h",
+                  "label": "h"
+                }
+              ],
+              "correctAnswer": "e",
+              "explanation": "Lücke 3 folgt auf Daten zu regionalen Versorgungsunterschieden. Satz e) vertieft die Erklärung: Die Disparitäten liegen nicht nur an Infrastruktur, sondern auch an Niederlassungsmustern von Ärzt*innen. 'Diese Disparitäten' verweist anaphorisch auf die im Vorsatz beschriebenen Daten. Satz c) wäre thematisch möglich, würde aber die argumentative Linie vorzeitig auf Kooperationsnotwendigkeit lenken."
+            },
+            {
+              "id": "C1_m08_R1_q4",
+              "type": "matching",
+              "questionText": "Lücke 4 im Text: '…bilden das gesamte Behandlungsgeschehen ab, nicht nur Studienpopulationen. [4] Die Herausforderungen sind jedoch erheblich…'",
+              "matchingSources": [
+                {
+                  "id": "C1_m08_R1_sent_a",
+                  "label": "a"
+                },
+                {
+                  "id": "C1_m08_R1_sent_b",
+                  "label": "b"
+                },
+                {
+                  "id": "C1_m08_R1_sent_c",
+                  "label": "c"
+                },
+                {
+                  "id": "C1_m08_R1_sent_d",
+                  "label": "d"
+                },
+                {
+                  "id": "C1_m08_R1_sent_e",
+                  "label": "e"
+                },
+                {
+                  "id": "C1_m08_R1_sent_f",
+                  "label": "f"
+                },
+                {
+                  "id": "C1_m08_R1_sent_g",
+                  "label": "g"
+                },
+                {
+                  "id": "C1_m08_R1_sent_h",
+                  "label": "h"
+                }
+              ],
+              "correctAnswer": "b",
+              "explanation": "Lücke 4 steht nach dem Vorteil von Routinedaten (Vollständigkeit). Satz b) entwickelt diesen Vorteil weiter: 'Darin liegt eine methodische Stärke' — das Pronomen 'Darin' verweist direkt auf den Vorsatz. Das konzessive 'jedoch' im Folgesatz ist der syntaktische Kontrast zu Satz b). Satz c) käme strukturell in Frage, thematisiert aber Kooperationsbedarf, nicht den methodischen Stärkepunkt."
+            },
+            {
+              "id": "C1_m08_R1_q5",
+              "type": "matching",
+              "questionText": "Lücke 5 im Text: '…versprechen eine granularere Abbildung des Versorgungsgeschehens. [5] Gleichzeitig entstehen neue Fragen…'",
+              "matchingSources": [
+                {
+                  "id": "C1_m08_R1_sent_a",
+                  "label": "a"
+                },
+                {
+                  "id": "C1_m08_R1_sent_b",
+                  "label": "b"
+                },
+                {
+                  "id": "C1_m08_R1_sent_c",
+                  "label": "c"
+                },
+                {
+                  "id": "C1_m08_R1_sent_d",
+                  "label": "d"
+                },
+                {
+                  "id": "C1_m08_R1_sent_e",
+                  "label": "e"
+                },
+                {
+                  "id": "C1_m08_R1_sent_f",
+                  "label": "f"
+                },
+                {
+                  "id": "C1_m08_R1_sent_g",
+                  "label": "g"
+                },
+                {
+                  "id": "C1_m08_R1_sent_h",
+                  "label": "h"
+                }
+              ],
+              "correctAnswer": "h",
+              "explanation": "Lücke 5 folgt auf die Darstellung digitaler Potenziale. Satz h) formuliert die konzessive Einschränkung: Technologische Möglichkeiten ändern nichts an der Notwendigkeit institutioneller Absicherung. 'Diese technologischen Möglichkeiten' verweist direkt auf den Vorsatz. Das 'Gleichzeitig' im Folgesatz setzt diese konzessive Linie fort."
+            },
+            {
+              "id": "C1_m08_R1_q6",
+              "type": "matching",
+              "questionText": "Lücke 6 im Text: '…eine weitgehend vollständige Verlinkung von Versorgungsdaten über Jahrzehnte hinweg. [6] Der Aufbau vergleichbarer Strukturen in Deutschland scheitert…'",
+              "matchingSources": [
+                {
+                  "id": "C1_m08_R1_sent_a",
+                  "label": "a"
+                },
+                {
+                  "id": "C1_m08_R1_sent_b",
+                  "label": "b"
+                },
+                {
+                  "id": "C1_m08_R1_sent_c",
+                  "label": "c"
+                },
+                {
+                  "id": "C1_m08_R1_sent_d",
+                  "label": "d"
+                },
+                {
+                  "id": "C1_m08_R1_sent_e",
+                  "label": "e"
+                },
+                {
+                  "id": "C1_m08_R1_sent_f",
+                  "label": "f"
+                },
+                {
+                  "id": "C1_m08_R1_sent_g",
+                  "label": "g"
+                },
+                {
+                  "id": "C1_m08_R1_sent_h",
+                  "label": "h"
+                }
+              ],
+              "correctAnswer": "f",
+              "explanation": "Lücke 6 folgt auf die Beschreibung nordischer Registerstrukturen als Erfolgsmodell. Satz f) erklärt warum: In nordischen Ländern verstärken Registerstrukturen und institutionelles Vertrauen sich gegenseitig. Das schlägt die Brücke zum folgenden Satz, der die deutschen Hürden benennt. Satz a) ist zwar thematisch verwandt, bezieht sich aber auf Förderprogramme, nicht auf das Vertrauensargument."
+            }
+          ]
+        },
+        {
+          "partNumber": 2,
+          "instructions": "Lesen Sie die fünf Absätze (a–e) zum Thema psychische Gesundheit am Arbeitsplatz. Lesen Sie dann die sechs Fragen. Welcher Absatz enthält die Antwort auf jede Frage? Schreiben Sie den Buchstaben des richtigen Absatzes. Ein Absatz kann für mehrere Fragen passen. Wenn kein Absatz passt, schreiben Sie 'x'.",
+          "instructionsTranslation": "Read the five paragraphs (a–e) on the topic of mental health in the workplace. Then read the six questions. Which paragraph contains the answer to each question? Write the letter of the correct paragraph. One paragraph may match multiple questions. If no paragraph fits, write 'x'.",
+          "texts": [
+            {
+              "id": "C1_m08_R2_para_a",
+              "type": "article",
+              "content": "a) Die Debatte um Burnout und arbeitsbedingten Stress hat sich in den vergangenen Jahren von einem individuellen Phänomen zu einer organisationalen Frage verschoben. Während frühere Diskurse vor allem auf persönliche Resilienz und Selbstmanagement setzten, zeigt die aktuelle Forschung, dass strukturelle Arbeitsbedingungen — Arbeitsintensität, Autonomiegrad, soziale Unterstützung durch Führungskräfte — die stärksten Prädiktoren für psychische Gesundheit im Beruf sind. Organisationen, die ausschließlich auf Individuen als Veränderungshebel setzen, verfehlen den eigentlichen Ansatzpunkt."
+            },
+            {
+              "id": "C1_m08_R2_para_b",
+              "type": "article",
+              "content": "b) Betriebliches Gesundheitsmanagement (BGM) ist gesetzlich verankert, in der Praxis aber sehr unterschiedlich implementiert. Während Großunternehmen häufig über Betriebsärzte, Gesundheitstage und psychosoziale Beratungsangebote verfügen, fehlen in kleinen und mittleren Unternehmen (KMU) häufig sowohl die Ressourcen als auch das Problembewusstsein. Branchenspezifische Unterschiede sind erheblich: Im Pflege- und Sozialbereich, wo psychische Belastungen besonders hoch sind, bleibt BGM strukturell unterfinanziert."
+            },
+            {
+              "id": "C1_m08_R2_para_c",
+              "type": "article",
+              "content": "c) Die Datenlage zu psychischen Erkrankungen am Arbeitsplatz ist besser als noch vor zehn Jahren, aber noch immer lückenhaft. Krankenkassenberichte weisen auf steigende Fehlzeiten durch psychische Diagnosen hin — ein Trend, der sich seit Beginn der 2010er-Jahre beschleunigt hat. Kritiker weisen jedoch darauf hin, dass verbesserte Diagnostik und eine abnehmende Stigmatisierung psychischer Erkrankungen die statistischen Anstiege zumindest teilweise erklären könnten, ohne dass eine tatsächliche Zunahme vorliegen muss."
+            },
+            {
+              "id": "C1_m08_R2_para_d",
+              "type": "article",
+              "content": "d) Führungskräfte spielen eine Schlüsselrolle für die psychische Gesundheit ihrer Mitarbeiterinnen und Mitarbeiter — eine Rolle, auf die sie in den meisten Unternehmen jedoch kaum systematisch vorbereitet werden. Studien zeigen, dass ein transformationaler Führungsstil — Wertschätzung, Sinnstiftung, individualisierte Förderung — mit deutlich geringeren Burnout-Raten assoziiert ist als transaktionale oder laissez-faire Führung. Die Investition in Führungskräfteentwicklung mit explizitem Gesundheitsfokus gilt als eine der kosteneffizientesten Präventionsmaßnahmen."
+            },
+            {
+              "id": "C1_m08_R2_para_e",
+              "type": "article",
+              "content": "e) Digitalisierung und mobiles Arbeiten haben die Grenzen zwischen Beruf und Privatleben durchlässiger gemacht. Einerseits ermöglicht Flexibilität im Arbeitsort und in der Arbeitszeit eine bessere Vereinbarkeit von Familie und Beruf, was sich positiv auf die psychische Gesundheit auswirken kann. Andererseits zeigen Studien zu Always-on-Kulturen, dass permanente Erreichbarkeitserwartungen mit erhöhtem psychischen Distress korrelieren. Das Recht auf Nichterreichbarkeit — in einigen EU-Ländern bereits gesetzlich geregelt — gewinnt als regulatorisches Instrument an Bedeutung."
+            }
+          ],
+          "questions": [
+            {
+              "id": "C1_m08_R2_q1",
+              "type": "mcq",
+              "questionText": "In welchem Absatz wird die Datenlage zu psychischen Erkrankungen als unvollständig, aber verbessert beschrieben?",
+              "options": [
+                "a",
+                "b",
+                "c",
+                "d",
+                "e"
+              ],
+              "correctAnswer": "c",
+              "explanation": "Absatz c) beschreibt: 'Die Datenlage … ist besser als noch vor zehn Jahren, aber noch immer lückenhaft.' Diese Charakterisierung findet sich ausschließlich in Absatz c)."
+            },
+            {
+              "id": "C1_m08_R2_q2",
+              "type": "mcq",
+              "questionText": "Welcher Absatz thematisiert das Recht auf Nichterreichbarkeit als regulatorisches Instrument?",
+              "options": [
+                "a",
+                "b",
+                "c",
+                "d",
+                "e"
+              ],
+              "correctAnswer": "e",
+              "explanation": "Absatz e) nennt das 'Recht auf Nichterreichbarkeit' explizit als in einigen EU-Ländern bereits gesetzlich geregelt. Dieser Aspekt findet sich nur in Absatz e)."
+            },
+            {
+              "id": "C1_m08_R2_q3",
+              "type": "mcq",
+              "questionText": "In welchem Absatz wird argumentiert, dass strukturelle Faktoren wichtiger sind als individuelle Resilienz für psychische Gesundheit am Arbeitsplatz?",
+              "options": [
+                "a",
+                "b",
+                "c",
+                "d",
+                "e"
+              ],
+              "correctAnswer": "a",
+              "explanation": "Absatz a) formuliert: 'strukturelle Arbeitsbedingungen … sind die stärksten Prädiktoren' und kritisiert Ansätze, die 'ausschließlich auf Individuen als Veränderungshebel setzen'. Das ist die klare These von Absatz a)."
+            },
+            {
+              "id": "C1_m08_R2_q4",
+              "type": "mcq",
+              "questionText": "Welcher Absatz beschreibt, dass BGM im Pflegebereich besonders unterfinanziert ist?",
+              "options": [
+                "a",
+                "b",
+                "c",
+                "d",
+                "e"
+              ],
+              "correctAnswer": "b",
+              "explanation": "Absatz b) hält fest: 'Im Pflege- und Sozialbereich … bleibt BGM strukturell unterfinanziert.' Dieser Befund findet sich ausschließlich in Absatz b)."
+            },
+            {
+              "id": "C1_m08_R2_q5",
+              "type": "mcq",
+              "questionText": "In welchem Absatz wird Führungskräfteentwicklung als kosteneffiziente Präventionsmaßnahme eingestuft?",
+              "options": [
+                "a",
+                "b",
+                "c",
+                "d",
+                "e"
+              ],
+              "correctAnswer": "d",
+              "explanation": "Absatz d) bezeichnet 'die Investition in Führungskräfteentwicklung mit explizitem Gesundheitsfokus' als 'eine der kosteneffizientesten Präventionsmaßnahmen'. Diese Einschätzung findet sich nur in Absatz d)."
+            },
+            {
+              "id": "C1_m08_R2_q6",
+              "type": "mcq",
+              "questionText": "Welcher Absatz erwähnt, dass steigende Fehlzeiten durch psychische Diagnosen auch durch verbesserte Diagnostik erklärbar sein könnten?",
+              "options": [
+                "a",
+                "b",
+                "c",
+                "d",
+                "e"
+              ],
+              "correctAnswer": "c",
+              "explanation": "Absatz c) benennt als Alternativerklärung für statistische Anstiege: 'verbesserte Diagnostik und eine abnehmende Stigmatisierung'. Dieser methodenkritische Hinweis findet sich ausschließlich in Absatz c)."
+            }
+          ]
+        },
+        {
+          "partNumber": 3,
+          "instructions": "Lesen Sie den folgenden Artikel. Entscheiden Sie bei jeder Aussage, ob sie richtig (R), falsch (F) oder nicht im Text (N) ist. Außerdem: Welcher Titel passt am besten zum Text? Wählen Sie a, b oder c.",
+          "instructionsTranslation": "Read the following article. For each statement decide whether it is correct (R), incorrect (F) or not in the text (N). In addition: Which title best fits the text? Choose a, b, or c.",
+          "texts": [
+            {
+              "id": "C1_m08_R3_article",
+              "type": "article",
+              "content": "Pandemie-Lehren: Was das Gesundheitssystem gelernt hat — und was nicht\n\nDie COVID-19-Pandemie war für Gesundheitssysteme weltweit ein Stresstest ohne Präzedenz. In Deutschland offenbarte sie strukturelle Stärken und Schwächen, die in der Gesundheitspolitik der vorangegangenen Jahrzehnte angelegt, aber nie unter diesen Bedingungen erprobt worden waren. Nun, einige Jahre nach dem Höhepunkt der Pandemie, lohnt eine nüchterne Bilanz: Was hat das System gelernt? Welche Reformen wurden umgesetzt? Und wo bleibt die institutionelle Erinnerung hinter der Dringlichkeit des Krisengeschehens zurück?\n\nDie auffälligste Stärke des deutschen Systems war die Kapazität der Intensivmedizin. Das DIVI-Intensivregister, das in wenigen Wochen aufgebaut wurde und erstmals eine tagesaktuelle Transparenz über Bettenkapazitäten ermöglichte, gilt heute als Modell für andere Länder. Diese Echtzeit-Infrastruktur wurde inzwischen dauerhaft institutionalisiert und bildet die Grundlage eines nationalen Pandemie-Frühwarnsystems. Hier hat das System gelernt — und die Lehre in belastbare Strukturen überführt.\n\nAnders verhält es sich mit der öffentlichen Gesundheit (Public Health). Die Pandemie machte schlagartig sichtbar, wie stark die kommunalen Gesundheitsämter personell und digital unterausgestattet waren. Der Pakt für den Öffentlichen Gesundheitsdienst sah ursprünglich die Schaffung von 5.000 neuen Stellen bis 2026 vor. Tatsächlich wurden erheblich weniger Stellen besetzt, da Bewerber*innen ausblieben und Kommunen mit der Umstrukturierung überlastet waren. Die digitale Modernisierung — elektronische Meldeketten, interoperable Softwaresysteme — schreitet voran, bleibt aber hinter den im Pakt gesetzten Zielen zurück.\n\nDie Pandemie hat auch Defizite in der internationalen Koordination aufgedeckt. Die Weltgesundheitsorganisation (WHO) sah sich in den ersten Monaten des Ausbruchsgeschehens mit dem Dilemma konfrontiert, epidemiologisch relevante Informationen zu kommunizieren, ohne nationale Regierungen zu verprellen, die wirtschaftliche Interessen schützten. Das Ergebnis war eine zögerliche Krisenkommunikation, die von vielen Gesundheitsexpertinnen und -experten im Nachhinein als zu langsam kritisiert wurde. Reformvorschläge zur Stärkung der WHO-Kompetenzen — insbesondere ein verbindlicherer Pandemievertrag — befinden sich in einem langwierigen internationalen Aushandlungsprozess.\n\nEin weiteres strukturelles Problem war die Vulnerabilität von Lieferketten für Arzneimittel und Schutzausrüstung. Deutschland und die EU haben seitdem Maßnahmen ergriffen, um strategische Reserven aufzubauen und die Produktion kritischer Wirkstoffe teilweise nach Europa zurückzuverlagern. Wie tragfähig diese Reshoring-Strategien unter ökonomischem Normaldruck sind, wird erst die nächste Krise zeigen. Die Pharmaindustrie signalisiert Bereitschaft zur Kooperation, knüpft sie jedoch an langfristige Abnahmegarantien durch staatliche Beschaffungsorgane.\n\nDie Kommunikationskrise während der Pandemie verdient gesonderte Analyse. Wissenschaftliche Unsicherheit und öffentliche Kommunikation stehen in einem strukturellen Spannungsverhältnis: Forschung aktualisiert ihre Erkenntnisse kontinuierlich, während die Öffentlichkeit nach Eindeutigkeit sucht. Die Kommunikationsstrategie der Bundesregierung wurde nach dem ersten Lockdown von Expertinnen und Experten unterschiedlich bewertet — eine einheitliche Einschätzung gibt es bis heute nicht. Fest steht, dass das Vertrauen in staatliche Institutionen und Wissenschaft in Teilen der Bevölkerung nachhaltig beschädigt wurde.\n\nDas Gesundheitssystem hat daraus Konsequenzen gezogen: Die Nationalen Akademien der Wissenschaften Leopoldina und der Deutsche Ethikrat wurden stärker in die Krisenkommunikation eingebunden. Kommunikationswissenschaftliche Expertise floss erstmals systematisch in die Planung von Gesundheitskampagnen ein. Ob diese strukturellen Veränderungen bei der nächsten Krise standhalten, ist offen — institutionelle Reformen müssen sich in realen Belastungssituationen bewähren.\n\nInsgesamt ergibt die Pandemie-Bilanz ein differenziertes Bild. Die klinische Seite des deutschen Gesundheitssystems — Krankenhausversorgung, Intensivmedizin, Impflogistik — hat sich als belastbarer erwiesen als in vielen anderen Ländern. Die Public-Health-Seite — Prävention, Surveillance, internationale Koordination, Krisenkommunikation — bleibt ein Reformprojekt, das strukturell unterfinanziert und politisch nicht priorisiert ist. Die eigentliche Probe für das Gelernte kommt nicht im Rückblick — sie kommt beim nächsten Ausbruch.",
+              "source": "Deutsches Ärzteblatt, Ausgabe 9/2025"
+            }
+          ],
+          "questions": [
+            {
+              "id": "C1_m08_R3_q1",
+              "type": "true_false",
+              "questionText": "Das DIVI-Intensivregister wurde laut Text dauerhaft institutionalisiert und bildet die Grundlage eines Frühwarnsystems.",
+              "options": [
+                "richtig",
+                "falsch",
+                "nicht im Text"
+              ],
+              "correctAnswer": "richtig",
+              "explanation": "Der Text beschreibt ausdrücklich: 'Diese Echtzeit-Infrastruktur wurde inzwischen dauerhaft institutionalisiert und bildet die Grundlage eines nationalen Pandemie-Frühwarnsystems.' Die Aussage ist korrekt."
+            },
+            {
+              "id": "C1_m08_R3_q2",
+              "type": "true_false",
+              "questionText": "Der Pakt für den Öffentlichen Gesundheitsdienst wurde vollständig umgesetzt und alle 5.000 Stellen wurden besetzt.",
+              "options": [
+                "richtig",
+                "falsch",
+                "nicht im Text"
+              ],
+              "correctAnswer": "falsch",
+              "explanation": "Der Text hält explizit fest: 'Tatsächlich wurden erheblich weniger Stellen besetzt.' Das direkte Gegenteil der Aussage ist im Text belegt."
+            },
+            {
+              "id": "C1_m08_R3_q3",
+              "type": "true_false",
+              "questionText": "Die WHO wurde laut Text für ihre zögerliche Krisenkommunikation in den ersten Monaten der Pandemie kritisiert.",
+              "options": [
+                "richtig",
+                "falsch",
+                "nicht im Text"
+              ],
+              "correctAnswer": "richtig",
+              "explanation": "Der Text beschreibt die WHO-Kommunikation als 'zu langsam' von Gesundheitsexpert*innen kritisiert. Die Aussage ist korrekt."
+            },
+            {
+              "id": "C1_m08_R3_q4",
+              "type": "true_false",
+              "questionText": "Die Bundesregierung hat nach der Pandemie eine neue eigenständige Behörde für Krisenkommunikation gegründet.",
+              "options": [
+                "richtig",
+                "falsch",
+                "nicht im Text"
+              ],
+              "correctAnswer": "nicht im Text",
+              "explanation": "Der Text erwähnt keine Gründung einer neuen Behörde, sondern nur, dass bestehende Institutionen (Leopoldina, Ethikrat) stärker eingebunden wurden. Eine neue Behörde ist nicht im Text."
+            },
+            {
+              "id": "C1_m08_R3_q5",
+              "type": "true_false",
+              "questionText": "Die Pharmaindustrie knüpft ihre Bereitschaft zur Reshoring-Kooperation an langfristige staatliche Abnahmegarantien.",
+              "options": [
+                "richtig",
+                "falsch",
+                "nicht im Text"
+              ],
+              "correctAnswer": "richtig",
+              "explanation": "Der Text sagt explizit: 'Die Pharmaindustrie signalisiert Bereitschaft zur Kooperation, knüpft sie jedoch an langfristige Abnahmegarantien durch staatliche Beschaffungsorgane.' Die Aussage ist korrekt."
+            },
+            {
+              "id": "C1_m08_R3_q6",
+              "type": "true_false",
+              "questionText": "Laut Text hat die Pandemie das Vertrauen in staatliche Institutionen bei Teilen der Bevölkerung nachhaltig beschädigt.",
+              "options": [
+                "richtig",
+                "falsch",
+                "nicht im Text"
+              ],
+              "correctAnswer": "richtig",
+              "explanation": "Der Text hält fest: 'das Vertrauen in staatliche Institutionen und Wissenschaft in Teilen der Bevölkerung nachhaltig beschädigt wurde.' Die Aussage ist korrekt."
+            },
+            {
+              "id": "C1_m08_R3_q7",
+              "type": "true_false",
+              "questionText": "Der Text bewertet die Kommunikationsstrategie der Bundesregierung nach dem ersten Lockdown einheitlich positiv.",
+              "options": [
+                "richtig",
+                "falsch",
+                "nicht im Text"
+              ],
+              "correctAnswer": "falsch",
+              "explanation": "Der Text sagt ausdrücklich: 'wurde nach dem ersten Lockdown von Expertinnen und Experten unterschiedlich bewertet — eine einheitliche Einschätzung gibt es bis heute nicht.' Die Aussage ist falsch."
+            },
+            {
+              "id": "C1_m08_R3_q8",
+              "type": "true_false",
+              "questionText": "Ein verbindlicherer internationaler Pandemievertrag befindet sich laut Text noch in einem Aushandlungsprozess.",
+              "options": [
+                "richtig",
+                "falsch",
+                "nicht im Text"
+              ],
+              "correctAnswer": "richtig",
+              "explanation": "Der Text beschreibt, dass Reformvorschläge — 'insbesondere ein verbindlicherer Pandemievertrag — sich in einem langwierigen internationalen Aushandlungsprozess' befinden. Die Aussage ist korrekt."
+            },
+            {
+              "id": "C1_m08_R3_q9",
+              "type": "true_false",
+              "questionText": "Deutschland hat laut Text während der Pandemie mehr Intensivbetten bereitgestellt als alle anderen EU-Länder zusammen.",
+              "options": [
+                "richtig",
+                "falsch",
+                "nicht im Text"
+              ],
+              "correctAnswer": "nicht im Text",
+              "explanation": "Der Text macht keine vergleichende Aussage über Deutschland gegenüber allen anderen EU-Ländern zusammen. Diese quantitative Behauptung ist nicht im Text."
+            },
+            {
+              "id": "C1_m08_R3_q10",
+              "type": "true_false",
+              "questionText": "Die Kommunikationswissenschaft wurde laut Text erstmals systematisch in die Planung von Gesundheitskampagnen einbezogen.",
+              "options": [
+                "richtig",
+                "falsch",
+                "nicht im Text"
+              ],
+              "correctAnswer": "richtig",
+              "explanation": "Der Text beschreibt: 'Kommunikationswissenschaftliche Expertise floss erstmals systematisch in die Planung von Gesundheitskampagnen ein.' Die Aussage ist korrekt."
+            },
+            {
+              "id": "C1_m08_R3_q11",
+              "type": "true_false",
+              "questionText": "Das deutsche Gesundheitssystem hat laut Text die klinische Seite schlechter bewältigt als andere Länder.",
+              "options": [
+                "richtig",
+                "falsch",
+                "nicht im Text"
+              ],
+              "correctAnswer": "falsch",
+              "explanation": "Der Text beschreibt die klinische Seite als 'belastbarer … als in vielen anderen Ländern'. Die Aussage kehrt das im Text beschriebene Verhältnis um."
+            },
+            {
+              "id": "C1_m08_R3_q12",
+              "type": "mcq",
+              "questionText": "Welcher Titel fasst den Artikel am treffendsten zusammen?",
+              "options": [
+                "a) COVID-19: Warum das deutsche Gesundheitssystem vollständig versagt hat",
+                "b) Pandemie-Bilanz: Stärken der Klinik, Defizite bei Public Health und Kommunikation",
+                "c) Das DIVI-Register: Wie ein Datenprojekt die Pandemie gewann"
+              ],
+              "correctAnswer": "b",
+              "explanation": "Der Artikel zeichnet ein differenziertes Bild mit Stärken (Intensivmedizin, DIVI-Register) und Schwächen (Public Health, Krisenkommunikation, internationale Koordination). Option b) trifft diesen ausgewogenen Duktus. a) ist falsch — kein Totalversagen wird beschrieben. c) ist zu eng — das DIVI-Register ist nur ein Teilaspekt."
+            }
+          ]
+        }
+      ]
+    },
+    "sprachbausteine": {
+      "totalTimeMinutes": 25,
+      "parts": [
+        {
+          "partNumber": 1,
+          "instructions": "Lesen Sie den folgenden Text. Wählen Sie bei jeder Lücke (1–22) die richtige Antwort (a, b, c oder d). Es gibt jeweils nur eine richtige Antwort.",
+          "instructionsTranslation": "Read the following text. For each gap (1–22) choose the correct answer (a, b, c or d). There is only one correct answer each time.",
+          "text": "Künstliche Intelligenz in der medizinischen Diagnostik hat in den vergangenen Jahren bemerkenswerte Fortschritte erzielt. Doch die Frage, (1) ____ diese Technologien tatsächlich in der klinischen Routineversorgung ankommen, ist (2) ____ als es Schlagzeilen vermuten lassen. Algorithmen, die in Studien Radiologen bei der Erkennung von Lungenkrebs übertreffen, (3) ____ in Krankenhäusern auf eine Infrastruktur, die für ihre Integration nicht vorbereitet ist. Interoperabilität zwischen Softwaresystemen, Datenschutzanforderungen und fehlende Zertifizierungspfade (4) ____ erhebliche Hürden.\n\nHinzu kommt die Frage der Haftung. (5) ____ ein KI-System eine Diagnose stellt, die sich später als falsch erweist — wer trägt die Verantwortung? Die behandelnde Ärztin? Der Softwarehersteller? Das Krankenhaus? Aktuelle Rechtslage und Haftungsrahmen sind (6) ____ auf diese Konstellation vorbereitet, was Krankenhäuser (7) ____ bei der Einführung von KI-Diagnostik zögern lässt.\n\nBefürworter argumentieren, dass KI vor allem dort eingesetzt werden (8) ____, wo menschliche Kapazitäten chronisch knapp sind — etwa in der Radiologie, der Pathologie oder der Früherkennungsdiagnostik. (9) ____ in Regionen mit Ärztemangel könnten KI-gestützte Systeme Versorgungslücken schließen. Kritiker (10) ____ dagegen, dass Fehldiagnosen durch Algorithmen in der Breite eine andere Dimension haben als individuelle ärztliche Fehler.\n\nFür den Patienten entscheidend ist letztlich die Frage, (11) ____ das Vertrauen in eine algorithmische Diagnose dem Vertrauen in eine ärztliche gleichkommt. Studien zeigen, dass Patientinnen und Patienten KI-Diagnosen (12) ____ akzeptieren, wenn eine Ärztin oder ein Arzt sie erklärt und (13) ____ steht. Die Mensch-Maschine-Kombination — KI als Unterstützung, nicht als Ersatz — scheint (14) ____ der Akzeptanzschlüssel zu sein.\n\nRegulatorisch hat die EU mit dem AI Act einen Rahmen geschaffen, der Hochrisikoanwendungen — darunter medizinische Diagnostik — strengen Anforderungen (15) ____ unterwirft. Transparenz, Nachvollziehbarkeit und menschliche Aufsicht sind (16) ____ verpflichtend vorgeschrieben. Kritiker halten die Anforderungen für zu bürokratisch, (17) ____ Innovationszyklen im Medizintechniksektor zu verlangsamen. Befürworter sehen darin eine notwendige Schutzfunktion — insbesondere mit Blick auf vulnerable Patientengruppen, (18) ____ weniger in der Lage sind, algorithmische Entscheidungen zu hinterfragen.\n\nAm Ende wird sich zeigen, (19) ____ KI in der Medizin ein Werkzeug im Dienst der Versorgung wird oder ein Selbstzweck der Technologiebranche. Die Weichen (20) ____ dafür werden heute gestellt — in Regulierungskommissionen, in Krankenhäusern und in den Erwartungshaltungen, (21) ____ Ärztinnen und Patienten gleichermaßen an die Technologie herantragen. Was feststeht: Die Frage (22) ____ sich nicht mehr stellt, ist, ob KI in die Medizin kommt — sondern wie.",
+          "questions": [
+            {
+              "blankNumber": 1,
+              "type": "mcq",
+              "options": [
+                "ob",
+                "dass",
+                "wann",
+                "wie"
+              ],
+              "correctAnswer": "ob",
+              "explanation": "'die Frage, ob diese Technologien … ankommen' — 'ob' leitet einen indirekten Fragesatz ein. 'Dass' würde eine Tatsachenaussage einleiten, 'wann' und 'wie' verändern die Fragerichtung."
+            },
+            {
+              "blankNumber": 2,
+              "type": "mcq",
+              "options": [
+                "komplizierter",
+                "schwieriger",
+                "komplexer",
+                "einfacher"
+              ],
+              "correctAnswer": "komplexer",
+              "explanation": "'ist komplexer als es Schlagzeilen vermuten lassen' — 'komplex' ist das passende akademische Register für ein vielschichtiges Phänomen. 'Schwieriger' wäre zu wertend; 'komplizierter' ist umgangssprachlicher; 'einfacher' würde die Aussage umkehren."
+            },
+            {
+              "blankNumber": 3,
+              "type": "mcq",
+              "options": [
+                "stoßen",
+                "treffen",
+                "kommen",
+                "geraten"
+              ],
+              "correctAnswer": "treffen",
+              "explanation": "'treffen auf eine Infrastruktur' — 'treffen auf' ist die idiomatische Kollokation für das Aufeinandertreffen von Technologie und Kontext. 'Stoßen auf' wäre möglich, aber im technologischen Register weniger üblich. 'Kommen' und 'geraten' passen syntaktisch nicht."
+            },
+            {
+              "blankNumber": 4,
+              "type": "mcq",
+              "options": [
+                "stellen",
+                "bilden",
+                "schaffen",
+                "setzen"
+              ],
+              "correctAnswer": "bilden",
+              "explanation": "'bilden erhebliche Hürden' — 'bilden' ist die feste Kollokation mit 'Hürden'. 'Stellen' erfordert 'dar'; 'schaffen' hätte die Bedeutung 'erzeugen' (möglich, aber weniger idiomatisch); 'setzen' ist ungebräuchlich in diesem Kontext."
+            },
+            {
+              "blankNumber": 5,
+              "type": "mcq",
+              "options": [
+                "Wenn",
+                "Falls",
+                "Sobald",
+                "Obwohl"
+              ],
+              "correctAnswer": "Wenn",
+              "explanation": "'Wenn ein KI-System eine Diagnose stellt, die sich als falsch erweist' — 'wenn' leitet eine konditional-temporale Bedingung ein. 'Falls' wäre zu hypothetisch; 'Sobald' zu punktuell; 'Obwohl' wäre konzessiv und würde die Frage grammatisch zerstören."
+            },
+            {
+              "blankNumber": 6,
+              "type": "mcq",
+              "options": [
+                "kaum",
+                "wenig",
+                "nicht",
+                "selten"
+              ],
+              "correctAnswer": "kaum",
+              "explanation": "'kaum auf diese Konstellation vorbereitet' — 'kaum' drückt Unzulänglichkeit mit gradueller Einschränkung aus. 'Nicht' wäre zu absolut; 'wenig' ist stilistisch schwächer; 'selten' passt semantisch nicht (es geht um Vorbereitung, nicht Häufigkeit)."
+            },
+            {
+              "blankNumber": 7,
+              "type": "mcq",
+              "options": [
+                "deshalb",
+                "daher",
+                "dazu",
+                "damit"
+              ],
+              "correctAnswer": "dazu",
+              "explanation": "'was Krankenhäuser dazu … zögern lässt' — 'dazu … zögern lassen' ist die idiomatische Konstruktion. 'Deshalb' und 'daher' sind kausal, aber syntaktisch als Relativsatz-Fortsetzung unpassend. 'Damit' würde einen Finalsatz einleiten."
+            },
+            {
+              "blankNumber": 8,
+              "type": "mcq",
+              "options": [
+                "sollte",
+                "müsste",
+                "könnte",
+                "würde"
+              ],
+              "correctAnswer": "sollte",
+              "explanation": "'sollte … eingesetzt werden' — 'sollen' drückt eine normative Empfehlung aus, was zum Kontext 'Befürworter argumentieren' passt. 'Müsste' wäre zu zwingend; 'könnte' zu vage; 'würde' passt nicht zum Konjunktiv der indirekten Rede hier."
+            },
+            {
+              "blankNumber": 9,
+              "type": "mcq",
+              "options": [
+                "Besonders",
+                "Gerade",
+                "Nur",
+                "Vor allem"
+              ],
+              "correctAnswer": "Gerade",
+              "explanation": "'Gerade in Regionen mit Ärztemangel' — 'gerade' hebt den spezifischen Kontext hervor und hat im akademischen Register eine markierende Funktion. 'Besonders', 'Nur' und 'Vor allem' sind stilistisch etwas schwächer in dieser Fokusposition."
+            },
+            {
+              "blankNumber": 10,
+              "type": "mcq",
+              "options": [
+                "halten",
+                "argumentieren",
+                "wenden ein",
+                "entgegnen"
+              ],
+              "correctAnswer": "entgegnen",
+              "explanation": "'Kritiker entgegnen dagegen' — 'entgegnen' ist das präzise Verb für eine direkte Gegenargumentation. 'Halten' erfordert 'dagegen halten'; 'argumentieren' ist zu neutral; 'wenden ein' ist grammatisch richtig, aber weniger idiomatisch."
+            },
+            {
+              "blankNumber": 11,
+              "type": "mcq",
+              "options": [
+                "ob",
+                "dass",
+                "wie",
+                "inwieweit"
+              ],
+              "correctAnswer": "ob",
+              "explanation": "'die Frage, ob das Vertrauen … gleichkommt' — 'ob' leitet den indirekten Fragesatz ein. 'Inwieweit' wäre möglich, aber verändert die Fragenatur von einer Ja/Nein-Frage zur Gradadverbialfrage."
+            },
+            {
+              "blankNumber": 12,
+              "type": "mcq",
+              "options": [
+                "eher",
+                "lieber",
+                "besser",
+                "mehr"
+              ],
+              "correctAnswer": "eher",
+              "explanation": "'eher akzeptieren, wenn' — 'eher' drückt eine konditionierte Präferenz mit komparativem Charakter aus. 'Lieber' wäre zu affektiv; 'besser' und 'mehr' passen syntaktisch nicht zur Konstruktion mit 'wenn'."
+            },
+            {
+              "blankNumber": 13,
+              "type": "mcq",
+              "options": [
+                "dahintersteht",
+                "dafürsteht",
+                "danebsteht",
+                "dazusteht"
+              ],
+              "correctAnswer": "dafürsteht",
+              "explanation": "'wenn eine Ärztin … sie erklärt und dafürsteht' — 'dafürstehen' bedeutet 'persönlich eintreten für, bürgen'. Diese Konstruktion drückt ärztliche Verantwortungsübernahme aus. 'Dahinterstehen' wäre metaphorisch anders; 'dazustehen' ist ungebräuchlich in diesem Kontext."
+            },
+            {
+              "blankNumber": 14,
+              "type": "mcq",
+              "options": [
+                "letztendlich",
+                "grundsätzlich",
+                "tatsächlich",
+                "offensichtlich"
+              ],
+              "correctAnswer": "letztendlich",
+              "explanation": "'scheint letztendlich der Akzeptanzschlüssel zu sein' — 'letztendlich' drückt eine conclusive Schlussfolgerung aus. 'Grundsätzlich' wäre zu prinzipiell; 'tatsächlich' zu assertiv; 'offensichtlich' zu apodiktisch für eine empirische Einschätzung."
+            },
+            {
+              "blankNumber": 15,
+              "type": "mcq",
+              "options": [
+                "strengen Anforderungen",
+                "hohen Standards",
+                "engen Grenzen",
+                "strengen Regeln"
+              ],
+              "correctAnswer": "strengen Anforderungen",
+              "explanation": "'strengen Anforderungen unterwirft' — 'Anforderungen' ist im rechtlichen und regulatorischen Register die Standardvokabel. 'Standards' wäre technisch; 'Grenzen' verengt semantisch; 'Regeln' ist stilistisch schwächer."
+            },
+            {
+              "blankNumber": 16,
+              "type": "mcq",
+              "options": [
+                "gesetzlich",
+                "rechtlich",
+                "normativ",
+                "verbindlich"
+              ],
+              "correctAnswer": "verbindlich",
+              "explanation": "'verbindlich vorgeschrieben' — 'verbindlich' ist das präzise Adjektiv für rechtlich bindende Vorschriften. 'Gesetzlich' und 'rechtlich' wären adverbielle Alternativen, aber 'verbindlich vorgeschrieben' ist die festeste Kollokation."
+            },
+            {
+              "blankNumber": 17,
+              "type": "mcq",
+              "options": [
+                "was",
+                "weil",
+                "da",
+                "indem"
+              ],
+              "correctAnswer": "was",
+              "explanation": "'für zu bürokratisch, was Innovationszyklen … zu verlangsamen' — 'was' leitet einen Relativsatz ein, der eine Folge beschreibt. 'Weil' und 'da' wären kausal; 'indem' modal — keines dieser passt zur konsekutiven Relativsatzkonstruktion."
+            },
+            {
+              "blankNumber": 18,
+              "type": "mcq",
+              "options": [
+                "die",
+                "welche",
+                "denen",
+                "deren"
+              ],
+              "correctAnswer": "die",
+              "explanation": "'vulnerable Patientengruppen, die weniger in der Lage sind' — 'die' als Relativpronomen im Nominativ Plural für 'Patientengruppen'. 'Welche' wäre formal korrekt aber stilistisch steifer; 'denen' wäre Dativ; 'deren' Genitiv."
+            },
+            {
+              "blankNumber": 19,
+              "type": "mcq",
+              "options": [
+                "ob",
+                "dass",
+                "wie",
+                "wenn"
+              ],
+              "correctAnswer": "ob",
+              "explanation": "'wird sich zeigen, ob KI … ein Werkzeug wird' — 'ob' leitet den indirekten Fragesatz nach 'zeigen' ein. 'Dass' würde eine Tatsache einleiten; 'wie' und 'wenn' passen nicht zum Satzbau."
+            },
+            {
+              "blankNumber": 20,
+              "type": "mcq",
+              "options": [
+                "dafür",
+                "dabei",
+                "dazu",
+                "hierfür"
+              ],
+              "correctAnswer": "dafür",
+              "explanation": "'Die Weichen dafür werden heute gestellt' — 'dafür' verweist als Pronominaladverb auf den im Vorsatz beschriebenen Sachverhalt. 'Dabei' wäre temporal; 'dazu' würde eine Ergänzung anzeigen; 'hierfür' ist zu formell für diesen Kontext."
+            },
+            {
+              "blankNumber": 21,
+              "type": "mcq",
+              "options": [
+                "die",
+                "welche",
+                "was",
+                "denen"
+              ],
+              "correctAnswer": "die",
+              "explanation": "'Erwartungshaltungen, die Ärztinnen und Patienten … herantragen' — 'die' als Relativpronomen im Akkusativ Plural. 'Welche' wäre möglich aber steifer; 'was' verweist auf Sätze oder Indefinitpronomen, nicht auf Nomen; 'denen' wäre Dativ."
+            },
+            {
+              "blankNumber": 22,
+              "type": "mcq",
+              "options": [
+                "die",
+                "das",
+                "eine",
+                "der"
+              ],
+              "correctAnswer": "die",
+              "explanation": "'Die Frage, die sich nicht mehr stellt' — 'die' als Relativpronomen für das feminine Nomen 'Frage' im Nominativ. 'Das' und 'der' wären falsches Genus; 'eine' wäre unbestimmter Artikel, kein Relativpronomen."
+            }
+          ]
+        }
+      ]
+    },
+    "listening": {
+      "totalTimeMinutes": 40,
+      "parts": [
+        {
+          "partNumber": 1,
+          "instructions": "Sie hören acht kurze Stellungnahmen verschiedener Personen zum Thema Gesundheit und Medizin. Lesen Sie zuerst die zehn Zusammenfassungen (a–j). Hören Sie dann die acht Aussagen. Welche Zusammenfassung passt zu welchem Sprecher? Zwei Zusammenfassungen passen nicht. Sie hören die Texte nur einmal.",
+          "instructionsTranslation": "You will hear eight short statements from different people on the topic of health and medicine. First read the ten summaries (a–j). Then listen to the eight statements. Which summary matches which speaker? Two summaries do not fit. You will hear the texts only once.",
+          "audioFile": "assets/audio/C1/mock08/listening_part1.mp3",
+          "playCount": 1,
+          "questions": [
+            {
+              "id": "C1_m08_HV1_q1",
+              "type": "matching",
+              "questionText": "Sprecher 1: Frau Dr. Bergmann, Versorgungsforscherin",
+              "matchingSources": [
+                {
+                  "id": "sum_a",
+                  "label": "a",
+                  "content": "a) Die Sprecherin sieht in der Prävention chronischer Erkrankungen die wichtigste Aufgabe eines modernen Gesundheitssystems."
+                },
+                {
+                  "id": "sum_b",
+                  "label": "b",
+                  "content": "b) Der Sprecher betont, dass ärztliche Entscheidungshoheit durch KI-Unterstützung nicht untergraben werden darf."
+                },
+                {
+                  "id": "sum_c",
+                  "label": "c",
+                  "content": "c) Die Sprecherin warnt, dass Versorgungsungleichheiten zwischen Stadt und Land ein strukturelles, nicht nur ein finanzielles Problem sind."
+                },
+                {
+                  "id": "sum_d",
+                  "label": "d",
+                  "content": "d) Der Sprecher plädiert dafür, psychische Erkrankungen bei Berufsunfähigkeitsanerkennungen gleichrangig mit körperlichen zu behandeln."
+                },
+                {
+                  "id": "sum_e",
+                  "label": "e",
+                  "content": "e) Die Sprecherin fordert verbindliche Transparenzstandards für den Einsatz von KI-Algorithmen in klinischen Entscheidungen."
+                },
+                {
+                  "id": "sum_f",
+                  "label": "f",
+                  "content": "f) Der Sprecher sieht in der Digitalisierung der Gesundheitsversorgung primär ein Risiko für Datenmissbrauch."
+                },
+                {
+                  "id": "sum_g",
+                  "label": "g",
+                  "content": "g) Die Sprecherin argumentiert, dass betriebliche Gesundheitsförderung stärker reguliert werden müsste."
+                },
+                {
+                  "id": "sum_h",
+                  "label": "h",
+                  "content": "h) Der Sprecher warnt, dass eine zu starke Medikalisierung psychischer Belastungen gesellschaftliche Ursachen verdrängt."
+                },
+                {
+                  "id": "sum_i",
+                  "label": "i",
+                  "content": "i) Die Sprecherin hält die internationale Koordination bei zukünftigen Pandemien für strukturell unzureichend vorbereitet."
+                },
+                {
+                  "id": "sum_j",
+                  "label": "j",
+                  "content": "j) Der Sprecher kritisiert, dass Gesundheitsökonomie zu stark die Agenda klinischer Forschung bestimmt."
+                }
+              ],
+              "correctAnswer": "c",
+              "explanation": "Korrekte Zusammenfassung: c) Die Sprecherin warnt, dass Versorgungsungleichheiten zwischen Stadt und Land ein strukturelles, nicht nur ein finanzielles Problem sind. Distraktor: a) klingt thematisch nah (Prävention), aber die Sprecherin thematisiert räumliche Disparitäten, nicht chronische Prävention allgemein."
+            },
+            {
+              "id": "C1_m08_HV1_q2",
+              "type": "matching",
+              "questionText": "Sprecher 2: Herr Prof. Kahle, Medizininformatiker",
+              "matchingSources": [
+                {
+                  "id": "sum_a",
+                  "label": "a",
+                  "content": "a) Die Sprecherin sieht in der Prävention chronischer Erkrankungen die wichtigste Aufgabe eines modernen Gesundheitssystems."
+                },
+                {
+                  "id": "sum_b",
+                  "label": "b",
+                  "content": "b) Der Sprecher betont, dass ärztliche Entscheidungshoheit durch KI-Unterstützung nicht untergraben werden darf."
+                },
+                {
+                  "id": "sum_c",
+                  "label": "c",
+                  "content": "c) Die Sprecherin warnt, dass Versorgungsungleichheiten zwischen Stadt und Land ein strukturelles, nicht nur ein finanzielles Problem sind."
+                },
+                {
+                  "id": "sum_d",
+                  "label": "d",
+                  "content": "d) Der Sprecher plädiert dafür, psychische Erkrankungen bei Berufsunfähigkeitsanerkennungen gleichrangig mit körperlichen zu behandeln."
+                },
+                {
+                  "id": "sum_e",
+                  "label": "e",
+                  "content": "e) Die Sprecherin fordert verbindliche Transparenzstandards für den Einsatz von KI-Algorithmen in klinischen Entscheidungen."
+                },
+                {
+                  "id": "sum_f",
+                  "label": "f",
+                  "content": "f) Der Sprecher sieht in der Digitalisierung der Gesundheitsversorgung primär ein Risiko für Datenmissbrauch."
+                },
+                {
+                  "id": "sum_g",
+                  "label": "g",
+                  "content": "g) Die Sprecherin argumentiert, dass betriebliche Gesundheitsförderung stärker reguliert werden müsste."
+                },
+                {
+                  "id": "sum_h",
+                  "label": "h",
+                  "content": "h) Der Sprecher warnt, dass eine zu starke Medikalisierung psychischer Belastungen gesellschaftliche Ursachen verdrängt."
+                },
+                {
+                  "id": "sum_i",
+                  "label": "i",
+                  "content": "i) Die Sprecherin hält die internationale Koordination bei zukünftigen Pandemien für strukturell unzureichend vorbereitet."
+                },
+                {
+                  "id": "sum_j",
+                  "label": "j",
+                  "content": "j) Der Sprecher kritisiert, dass Gesundheitsökonomie zu stark die Agenda klinischer Forschung bestimmt."
+                }
+              ],
+              "correctAnswer": "b",
+              "explanation": "Korrekte Zusammenfassung: b) Der Sprecher betont, dass ärztliche Entscheidungshoheit durch KI-Unterstützung nicht untergraben werden darf. Distraktor: f) klingt ähnlich (Digitalisierung + Risiko), aber der Sprecher betont Entscheidungshoheit, nicht Datenmissbrauch."
+            },
+            {
+              "id": "C1_m08_HV1_q3",
+              "type": "matching",
+              "questionText": "Sprecher 3: Frau Dr. Schulte, Digitalmedizin-Ethikerin",
+              "matchingSources": [
+                {
+                  "id": "sum_a",
+                  "label": "a",
+                  "content": "a) Die Sprecherin sieht in der Prävention chronischer Erkrankungen die wichtigste Aufgabe eines modernen Gesundheitssystems."
+                },
+                {
+                  "id": "sum_b",
+                  "label": "b",
+                  "content": "b) Der Sprecher betont, dass ärztliche Entscheidungshoheit durch KI-Unterstützung nicht untergraben werden darf."
+                },
+                {
+                  "id": "sum_c",
+                  "label": "c",
+                  "content": "c) Die Sprecherin warnt, dass Versorgungsungleichheiten zwischen Stadt und Land ein strukturelles, nicht nur ein finanzielles Problem sind."
+                },
+                {
+                  "id": "sum_d",
+                  "label": "d",
+                  "content": "d) Der Sprecher plädiert dafür, psychische Erkrankungen bei Berufsunfähigkeitsanerkennungen gleichrangig mit körperlichen zu behandeln."
+                },
+                {
+                  "id": "sum_e",
+                  "label": "e",
+                  "content": "e) Die Sprecherin fordert verbindliche Transparenzstandards für den Einsatz von KI-Algorithmen in klinischen Entscheidungen."
+                },
+                {
+                  "id": "sum_f",
+                  "label": "f",
+                  "content": "f) Der Sprecher sieht in der Digitalisierung der Gesundheitsversorgung primär ein Risiko für Datenmissbrauch."
+                },
+                {
+                  "id": "sum_g",
+                  "label": "g",
+                  "content": "g) Die Sprecherin argumentiert, dass betriebliche Gesundheitsförderung stärker reguliert werden müsste."
+                },
+                {
+                  "id": "sum_h",
+                  "label": "h",
+                  "content": "h) Der Sprecher warnt, dass eine zu starke Medikalisierung psychischer Belastungen gesellschaftliche Ursachen verdrängt."
+                },
+                {
+                  "id": "sum_i",
+                  "label": "i",
+                  "content": "i) Die Sprecherin hält die internationale Koordination bei zukünftigen Pandemien für strukturell unzureichend vorbereitet."
+                },
+                {
+                  "id": "sum_j",
+                  "label": "j",
+                  "content": "j) Der Sprecher kritisiert, dass Gesundheitsökonomie zu stark die Agenda klinischer Forschung bestimmt."
+                }
+              ],
+              "correctAnswer": "e",
+              "explanation": "Korrekte Zusammenfassung: e) Die Sprecherin fordert verbindliche Transparenzstandards für den Einsatz von KI-Algorithmen in klinischen Entscheidungen. Distraktor: b) wäre nah (KI-Entscheidungshoheit), aber die Sprecherin fokussiert auf Transparenzstandards, nicht Entscheidungshoheit."
+            },
+            {
+              "id": "C1_m08_HV1_q4",
+              "type": "matching",
+              "questionText": "Sprecher 4: Herr Dr. Meister, Psychiater",
+              "matchingSources": [
+                {
+                  "id": "sum_a",
+                  "label": "a",
+                  "content": "a) Die Sprecherin sieht in der Prävention chronischer Erkrankungen die wichtigste Aufgabe eines modernen Gesundheitssystems."
+                },
+                {
+                  "id": "sum_b",
+                  "label": "b",
+                  "content": "b) Der Sprecher betont, dass ärztliche Entscheidungshoheit durch KI-Unterstützung nicht untergraben werden darf."
+                },
+                {
+                  "id": "sum_c",
+                  "label": "c",
+                  "content": "c) Die Sprecherin warnt, dass Versorgungsungleichheiten zwischen Stadt und Land ein strukturelles, nicht nur ein finanzielles Problem sind."
+                },
+                {
+                  "id": "sum_d",
+                  "label": "d",
+                  "content": "d) Der Sprecher plädiert dafür, psychische Erkrankungen bei Berufsunfähigkeitsanerkennungen gleichrangig mit körperlichen zu behandeln."
+                },
+                {
+                  "id": "sum_e",
+                  "label": "e",
+                  "content": "e) Die Sprecherin fordert verbindliche Transparenzstandards für den Einsatz von KI-Algorithmen in klinischen Entscheidungen."
+                },
+                {
+                  "id": "sum_f",
+                  "label": "f",
+                  "content": "f) Der Sprecher sieht in der Digitalisierung der Gesundheitsversorgung primär ein Risiko für Datenmissbrauch."
+                },
+                {
+                  "id": "sum_g",
+                  "label": "g",
+                  "content": "g) Die Sprecherin argumentiert, dass betriebliche Gesundheitsförderung stärker reguliert werden müsste."
+                },
+                {
+                  "id": "sum_h",
+                  "label": "h",
+                  "content": "h) Der Sprecher warnt, dass eine zu starke Medikalisierung psychischer Belastungen gesellschaftliche Ursachen verdrängt."
+                },
+                {
+                  "id": "sum_i",
+                  "label": "i",
+                  "content": "i) Die Sprecherin hält die internationale Koordination bei zukünftigen Pandemien für strukturell unzureichend vorbereitet."
+                },
+                {
+                  "id": "sum_j",
+                  "label": "j",
+                  "content": "j) Der Sprecher kritisiert, dass Gesundheitsökonomie zu stark die Agenda klinischer Forschung bestimmt."
+                }
+              ],
+              "correctAnswer": "h",
+              "explanation": "Korrekte Zusammenfassung: h) Der Sprecher warnt, dass eine zu starke Medikalisierung psychischer Belastungen gesellschaftliche Ursachen verdrängt. Distraktor: d) klingt verwandt (psychische Erkrankungen), aber der Sprecher kritisiert Medikalisierung, nicht Gleichstellung bei Berufsunfähigkeit."
+            },
+            {
+              "id": "C1_m08_HV1_q5",
+              "type": "matching",
+              "questionText": "Sprecher 5: Frau Prof. Hartmann, Public-Health-Expertin",
+              "matchingSources": [
+                {
+                  "id": "sum_a",
+                  "label": "a",
+                  "content": "a) Die Sprecherin sieht in der Prävention chronischer Erkrankungen die wichtigste Aufgabe eines modernen Gesundheitssystems."
+                },
+                {
+                  "id": "sum_b",
+                  "label": "b",
+                  "content": "b) Der Sprecher betont, dass ärztliche Entscheidungshoheit durch KI-Unterstützung nicht untergraben werden darf."
+                },
+                {
+                  "id": "sum_c",
+                  "label": "c",
+                  "content": "c) Die Sprecherin warnt, dass Versorgungsungleichheiten zwischen Stadt und Land ein strukturelles, nicht nur ein finanzielles Problem sind."
+                },
+                {
+                  "id": "sum_d",
+                  "label": "d",
+                  "content": "d) Der Sprecher plädiert dafür, psychische Erkrankungen bei Berufsunfähigkeitsanerkennungen gleichrangig mit körperlichen zu behandeln."
+                },
+                {
+                  "id": "sum_e",
+                  "label": "e",
+                  "content": "e) Die Sprecherin fordert verbindliche Transparenzstandards für den Einsatz von KI-Algorithmen in klinischen Entscheidungen."
+                },
+                {
+                  "id": "sum_f",
+                  "label": "f",
+                  "content": "f) Der Sprecher sieht in der Digitalisierung der Gesundheitsversorgung primär ein Risiko für Datenmissbrauch."
+                },
+                {
+                  "id": "sum_g",
+                  "label": "g",
+                  "content": "g) Die Sprecherin argumentiert, dass betriebliche Gesundheitsförderung stärker reguliert werden müsste."
+                },
+                {
+                  "id": "sum_h",
+                  "label": "h",
+                  "content": "h) Der Sprecher warnt, dass eine zu starke Medikalisierung psychischer Belastungen gesellschaftliche Ursachen verdrängt."
+                },
+                {
+                  "id": "sum_i",
+                  "label": "i",
+                  "content": "i) Die Sprecherin hält die internationale Koordination bei zukünftigen Pandemien für strukturell unzureichend vorbereitet."
+                },
+                {
+                  "id": "sum_j",
+                  "label": "j",
+                  "content": "j) Der Sprecher kritisiert, dass Gesundheitsökonomie zu stark die Agenda klinischer Forschung bestimmt."
+                }
+              ],
+              "correctAnswer": "a",
+              "explanation": "Korrekte Zusammenfassung: a) Die Sprecherin sieht in der Prävention chronischer Erkrankungen die wichtigste Aufgabe eines modernen Gesundheitssystems. Distraktor: g) klingt ähnlich (betriebliche Gesundheit), aber die Sprecherin fokussiert auf Prävention chronischer Erkrankungen als Systemaufgabe."
+            },
+            {
+              "id": "C1_m08_HV1_q6",
+              "type": "matching",
+              "questionText": "Sprecher 6: Herr Dr. Ritter, Epidemiologe",
+              "matchingSources": [
+                {
+                  "id": "sum_a",
+                  "label": "a",
+                  "content": "a) Die Sprecherin sieht in der Prävention chronischer Erkrankungen die wichtigste Aufgabe eines modernen Gesundheitssystems."
+                },
+                {
+                  "id": "sum_b",
+                  "label": "b",
+                  "content": "b) Der Sprecher betont, dass ärztliche Entscheidungshoheit durch KI-Unterstützung nicht untergraben werden darf."
+                },
+                {
+                  "id": "sum_c",
+                  "label": "c",
+                  "content": "c) Die Sprecherin warnt, dass Versorgungsungleichheiten zwischen Stadt und Land ein strukturelles, nicht nur ein finanzielles Problem sind."
+                },
+                {
+                  "id": "sum_d",
+                  "label": "d",
+                  "content": "d) Der Sprecher plädiert dafür, psychische Erkrankungen bei Berufsunfähigkeitsanerkennungen gleichrangig mit körperlichen zu behandeln."
+                },
+                {
+                  "id": "sum_e",
+                  "label": "e",
+                  "content": "e) Die Sprecherin fordert verbindliche Transparenzstandards für den Einsatz von KI-Algorithmen in klinischen Entscheidungen."
+                },
+                {
+                  "id": "sum_f",
+                  "label": "f",
+                  "content": "f) Der Sprecher sieht in der Digitalisierung der Gesundheitsversorgung primär ein Risiko für Datenmissbrauch."
+                },
+                {
+                  "id": "sum_g",
+                  "label": "g",
+                  "content": "g) Die Sprecherin argumentiert, dass betriebliche Gesundheitsförderung stärker reguliert werden müsste."
+                },
+                {
+                  "id": "sum_h",
+                  "label": "h",
+                  "content": "h) Der Sprecher warnt, dass eine zu starke Medikalisierung psychischer Belastungen gesellschaftliche Ursachen verdrängt."
+                },
+                {
+                  "id": "sum_i",
+                  "label": "i",
+                  "content": "i) Die Sprecherin hält die internationale Koordination bei zukünftigen Pandemien für strukturell unzureichend vorbereitet."
+                },
+                {
+                  "id": "sum_j",
+                  "label": "j",
+                  "content": "j) Der Sprecher kritisiert, dass Gesundheitsökonomie zu stark die Agenda klinischer Forschung bestimmt."
+                }
+              ],
+              "correctAnswer": "i",
+              "explanation": "Korrekte Zusammenfassung: i) Die Sprecherin hält die internationale Koordination bei zukünftigen Pandemien für strukturell unzureichend vorbereitet. Distraktor: a) wäre nah (Prävention), aber der Sprecher thematisiert internationale Pandemiepräparation."
+            },
+            {
+              "id": "C1_m08_HV1_q7",
+              "type": "matching",
+              "questionText": "Sprecher 7: Frau Lenz, Sozialrechtsexpertin",
+              "matchingSources": [
+                {
+                  "id": "sum_a",
+                  "label": "a",
+                  "content": "a) Die Sprecherin sieht in der Prävention chronischer Erkrankungen die wichtigste Aufgabe eines modernen Gesundheitssystems."
+                },
+                {
+                  "id": "sum_b",
+                  "label": "b",
+                  "content": "b) Der Sprecher betont, dass ärztliche Entscheidungshoheit durch KI-Unterstützung nicht untergraben werden darf."
+                },
+                {
+                  "id": "sum_c",
+                  "label": "c",
+                  "content": "c) Die Sprecherin warnt, dass Versorgungsungleichheiten zwischen Stadt und Land ein strukturelles, nicht nur ein finanzielles Problem sind."
+                },
+                {
+                  "id": "sum_d",
+                  "label": "d",
+                  "content": "d) Der Sprecher plädiert dafür, psychische Erkrankungen bei Berufsunfähigkeitsanerkennungen gleichrangig mit körperlichen zu behandeln."
+                },
+                {
+                  "id": "sum_e",
+                  "label": "e",
+                  "content": "e) Die Sprecherin fordert verbindliche Transparenzstandards für den Einsatz von KI-Algorithmen in klinischen Entscheidungen."
+                },
+                {
+                  "id": "sum_f",
+                  "label": "f",
+                  "content": "f) Der Sprecher sieht in der Digitalisierung der Gesundheitsversorgung primär ein Risiko für Datenmissbrauch."
+                },
+                {
+                  "id": "sum_g",
+                  "label": "g",
+                  "content": "g) Die Sprecherin argumentiert, dass betriebliche Gesundheitsförderung stärker reguliert werden müsste."
+                },
+                {
+                  "id": "sum_h",
+                  "label": "h",
+                  "content": "h) Der Sprecher warnt, dass eine zu starke Medikalisierung psychischer Belastungen gesellschaftliche Ursachen verdrängt."
+                },
+                {
+                  "id": "sum_i",
+                  "label": "i",
+                  "content": "i) Die Sprecherin hält die internationale Koordination bei zukünftigen Pandemien für strukturell unzureichend vorbereitet."
+                },
+                {
+                  "id": "sum_j",
+                  "label": "j",
+                  "content": "j) Der Sprecher kritisiert, dass Gesundheitsökonomie zu stark die Agenda klinischer Forschung bestimmt."
+                }
+              ],
+              "correctAnswer": "d",
+              "explanation": "Korrekte Zusammenfassung: d) Der Sprecher plädiert dafür, psychische Erkrankungen bei Berufsunfähigkeitsanerkennungen gleichrangig mit körperlichen zu behandeln. Distraktor: h) klingt ähnlich (psychische Belastungen), aber die Sprecherin fordert rechtliche Gleichstellung, nicht Entmedikalisierung."
+            },
+            {
+              "id": "C1_m08_HV1_q8",
+              "type": "matching",
+              "questionText": "Sprecher 8: Herr Prof. Steiner, Arbeitsmedziner",
+              "matchingSources": [
+                {
+                  "id": "sum_a",
+                  "label": "a",
+                  "content": "a) Die Sprecherin sieht in der Prävention chronischer Erkrankungen die wichtigste Aufgabe eines modernen Gesundheitssystems."
+                },
+                {
+                  "id": "sum_b",
+                  "label": "b",
+                  "content": "b) Der Sprecher betont, dass ärztliche Entscheidungshoheit durch KI-Unterstützung nicht untergraben werden darf."
+                },
+                {
+                  "id": "sum_c",
+                  "label": "c",
+                  "content": "c) Die Sprecherin warnt, dass Versorgungsungleichheiten zwischen Stadt und Land ein strukturelles, nicht nur ein finanzielles Problem sind."
+                },
+                {
+                  "id": "sum_d",
+                  "label": "d",
+                  "content": "d) Der Sprecher plädiert dafür, psychische Erkrankungen bei Berufsunfähigkeitsanerkennungen gleichrangig mit körperlichen zu behandeln."
+                },
+                {
+                  "id": "sum_e",
+                  "label": "e",
+                  "content": "e) Die Sprecherin fordert verbindliche Transparenzstandards für den Einsatz von KI-Algorithmen in klinischen Entscheidungen."
+                },
+                {
+                  "id": "sum_f",
+                  "label": "f",
+                  "content": "f) Der Sprecher sieht in der Digitalisierung der Gesundheitsversorgung primär ein Risiko für Datenmissbrauch."
+                },
+                {
+                  "id": "sum_g",
+                  "label": "g",
+                  "content": "g) Die Sprecherin argumentiert, dass betriebliche Gesundheitsförderung stärker reguliert werden müsste."
+                },
+                {
+                  "id": "sum_h",
+                  "label": "h",
+                  "content": "h) Der Sprecher warnt, dass eine zu starke Medikalisierung psychischer Belastungen gesellschaftliche Ursachen verdrängt."
+                },
+                {
+                  "id": "sum_i",
+                  "label": "i",
+                  "content": "i) Die Sprecherin hält die internationale Koordination bei zukünftigen Pandemien für strukturell unzureichend vorbereitet."
+                },
+                {
+                  "id": "sum_j",
+                  "label": "j",
+                  "content": "j) Der Sprecher kritisiert, dass Gesundheitsökonomie zu stark die Agenda klinischer Forschung bestimmt."
+                }
+              ],
+              "correctAnswer": "g",
+              "explanation": "Korrekte Zusammenfassung: g) Die Sprecherin argumentiert, dass betriebliche Gesundheitsförderung stärker reguliert werden müsste. Distraktor: a) klingt verwandt (Prävention), aber die Sprecherin fokussiert auf regulatorische Anforderungen an BGM."
+            }
+          ]
+        },
+        {
+          "partNumber": 2,
+          "instructions": "Sie hören ein Interview mit Dr. Petra Hoffmann zum Thema KI in der medizinischen Diagnostik. Sie hören das Interview nur einmal.",
+          "instructionsTranslation": "You will hear an interview with Dr. Petra Hoffmann on the topic of AI in medical diagnostics. You will hear the interview only once.",
+          "audioFile": "assets/audio/C1/mock08/listening_part2.mp3",
+          "audioTranscript": "Interviewer: Dr. Hoffmann, KI in der Diagnostik — Hype oder echter Fortschritt?\n\nDr. Hoffmann: Beides, je nach Anwendungsfeld. Im Bereich der Bildgebung — Radiologie, Pathologie — ist der Fortschritt real und belegt. Algorithmen, die auf Millionen annotierter Scans trainiert wurden, erkennen bestimmte Pathologien mit einer Sensitivität, die in kontrollierten Studien mit erfahrenen Spezialisten mithalten kann. Das ist kein Hype.\n\nI: Aber in der Praxis wird das noch kaum eingesetzt?\n\nDr. H: Richtig. Die Lücke zwischen Studienergebnis und klinischer Implementierung ist riesig. Das liegt an mehreren Faktoren: fehlende Zertifizierungspfade, keine klare Haftungsregelung, ungelöste Interoperabilitätsprobleme zwischen den Softwaresystemen in Krankenhäusern. Und dann ist da noch die Frage des Vertrauens — Ärzte müssen ein System verstehen können, bevor sie ihre Diagnose darauf stützen.\n\nI: Wie löst man das Problem der Explainability — der Erklärbarkeit von KI-Entscheidungen?\n\nDr. H: Das ist eine der großen offenen Fragen. Viele leistungsfähige Modelle sind Black Boxes — sie geben eine Wahrscheinlichkeit aus, ohne zu erklären, welche Bildmerkmale zur Entscheidung geführt haben. Das ist für klinische Praxis nicht akzeptabel. Hier investiert die Forschung stark in sogenannte Explainable-AI-Methoden — Visualisierungen, die zeigen, welche Regionen eines Scans die Entscheidung getrieben haben.\n\nI: Welche Rolle spielt der EU AI Act?\n\nDr. H: Der AI Act klassifiziert medizinische KI-Systeme korrekt als Hochrisikoanwendungen. Das bedeutet: Konformitätsbewertung, Transparenzanforderungen, menschliche Aufsicht. Ich halte das für richtig, auch wenn es Entwicklungszyklen verlangsamt. Wir brauchen Regulierung, die Patienten schützt, ohne Innovation pauschal zu blockieren.\n\nI: Was ist Ihre Prognose — wann wird KI-Diagnostik flächendeckend Standard sein?\n\nDr. H: Nicht in fünf Jahren. Die technischen Probleme sind lösbar — die institutionellen und rechtlichen Fragen dauern länger. Meine realistische Einschätzung: In zehn bis fünfzehn Jahren wird KI-Unterstützung in der Radiologie und Pathologie Standard sein. In anderen Fachgebieten länger. Und in der Primärversorgung — beim Hausarzt — noch erheblich länger.",
+          "playCount": 1,
+          "questions": [
+            {
+              "id": "C1_m08_HV2_q1",
+              "type": "mcq",
+              "questionText": "Wie charakterisiert Dr. Hoffmann den Stand von KI in der Diagnostik?",
+              "options": [
+                "a) Reiner Hype ohne substantiellen Fortschritt.",
+                "b) Echter Fortschritt in der Bildgebung, aber noch kaum klinisch implementiert.",
+                "c) Vollständig implementiert in Radiologie und Pathologie."
+              ],
+              "correctAnswer": "b",
+              "explanation": "Dr. Hoffmann beschreibt Fortschritt in der Bildgebung als 'real und belegt', aber die Implementierungslücke in der Praxis als 'riesig'. Das entspricht b). a) und c) sind jeweils zu extrem."
+            },
+            {
+              "id": "C1_m08_HV2_q2",
+              "type": "mcq",
+              "questionText": "Welche Faktoren nennt Dr. Hoffmann für die Implementierungslücke?",
+              "options": [
+                "a) Zu hohe Kosten und mangelndes Interesse der Krankenhäuser.",
+                "b) Fehlende Zertifizierungspfade, unklare Haftung, Interoperabilitätsprobleme und Vertrauensfrage.",
+                "c) Datenschutzgesetze blockieren sämtliche klinische KI-Anwendungen."
+              ],
+              "correctAnswer": "b",
+              "explanation": "Dr. Hoffmann nennt explizit: fehlende Zertifizierungspfade, keine klare Haftungsregelung, Interoperabilitätsprobleme und Vertrauen. Das entspricht b). a) und c) werden nicht genannt."
+            },
+            {
+              "id": "C1_m08_HV2_q3",
+              "type": "mcq",
+              "questionText": "Warum sind viele KI-Modelle laut Dr. Hoffmann für die klinische Praxis problematisch?",
+              "options": [
+                "a) Sie sind zu langsam für den klinischen Alltag.",
+                "b) Sie sind zu teuer für Standardkrankenhäuser.",
+                "c) Sie sind Black Boxes — sie geben keine Erklärung für ihre Entscheidung."
+              ],
+              "correctAnswer": "c",
+              "explanation": "Dr. Hoffmann erklärt: 'Viele leistungsfähige Modelle sind Black Boxes — sie geben eine Wahrscheinlichkeit aus, ohne zu erklären, welche Bildmerkmale zur Entscheidung geführt haben.' Das entspricht c)."
+            },
+            {
+              "id": "C1_m08_HV2_q4",
+              "type": "mcq",
+              "questionText": "Wie bewertet Dr. Hoffmann den EU AI Act für medizinische KI?",
+              "options": [
+                "a) Sie lehnt ihn als innovationsfeindlich ab.",
+                "b) Sie hält die Klassifikation als Hochrisikoanwendung für korrekt und befürwortet Regulierung.",
+                "c) Sie hält den AI Act für unzureichend, weil er keine Haftungsfragen klärt."
+              ],
+              "correctAnswer": "b",
+              "explanation": "Dr. Hoffmann sagt: 'Das halte ich für richtig, auch wenn es Entwicklungszyklen verlangsamt. Wir brauchen Regulierung, die Patienten schützt.' Das entspricht b). a) und c) geben ihre Position falsch wieder."
+            },
+            {
+              "id": "C1_m08_HV2_q5",
+              "type": "mcq",
+              "questionText": "Wann erwartet Dr. Hoffmann KI-Diagnostik als Standard in der Radiologie?",
+              "options": [
+                "a) In fünf Jahren.",
+                "b) In zehn bis fünfzehn Jahren.",
+                "c) Erst wenn alle Haftungsfragen rechtlich geklärt sind."
+              ],
+              "correctAnswer": "b",
+              "explanation": "Dr. Hoffmann sagt: 'In zehn bis fünfzehn Jahren wird KI-Unterstützung in der Radiologie und Pathologie Standard sein.' Das entspricht b). a) schließt sie explizit aus."
+            },
+            {
+              "id": "C1_m08_HV2_q6",
+              "type": "mcq",
+              "questionText": "Was versteht Dr. Hoffmann unter Explainable AI?",
+              "options": [
+                "a) KI-Modelle, die einfachere Algorithmen verwenden.",
+                "b) Methoden, die visualisieren, welche Bildregionen eine Entscheidung getrieben haben.",
+                "c) Systeme, die ihre Ausgabe in natürlicher Sprache erklären."
+              ],
+              "correctAnswer": "b",
+              "explanation": "Dr. Hoffmann beschreibt Explainable-AI-Methoden als 'Visualisierungen, die zeigen, welche Regionen eines Scans die Entscheidung getrieben haben.' Das entspricht b)."
+            },
+            {
+              "id": "C1_m08_HV2_q7",
+              "type": "mcq",
+              "questionText": "Welche Bedingung nennt Dr. Hoffmann für das Vertrauen von Ärzten in KI-Diagnosen?",
+              "options": [
+                "a) Ärzte müssen selbst an der Entwicklung des Systems beteiligt sein.",
+                "b) Das System muss von einer staatlichen Stelle zertifiziert worden sein.",
+                "c) Ärzte müssen ein System verstehen können, bevor sie ihre Diagnose darauf stützen."
+              ],
+              "correctAnswer": "c",
+              "explanation": "Dr. Hoffmann sagt: 'Ärzte müssen ein System verstehen können, bevor sie ihre Diagnose darauf stützen.' Das entspricht c). a) und b) werden nicht genannt."
+            },
+            {
+              "id": "C1_m08_HV2_q8",
+              "type": "mcq",
+              "questionText": "In welchem Bereich erwartet Dr. Hoffmann die langsamste Implementierung von KI?",
+              "options": [
+                "a) In der Pathologie.",
+                "b) In der Radiologie.",
+                "c) In der Primärversorgung beim Hausarzt."
+              ],
+              "correctAnswer": "c",
+              "explanation": "Dr. Hoffmann nennt 'in der Primärversorgung — beim Hausarzt — noch erheblich länger' als langsamste Implementierung. Das entspricht c)."
+            },
+            {
+              "id": "C1_m08_HV2_q9",
+              "type": "mcq",
+              "questionText": "Was beschreibt Dr. Hoffmann als 'eine der großen offenen Fragen' in der KI-Diagnostik?",
+              "options": [
+                "a) Die Finanzierung der KI-Entwicklung durch Krankenkassen.",
+                "b) Die Explainability — Erklärbarkeit von KI-Entscheidungen.",
+                "c) Die internationale Standardisierung klinischer KI-Daten."
+              ],
+              "correctAnswer": "b",
+              "explanation": "Dr. Hoffmann bezeichnet 'das Problem der Explainability' explizit als 'eine der großen offenen Fragen'. Das entspricht b)."
+            },
+            {
+              "id": "C1_m08_HV2_q10",
+              "type": "mcq",
+              "questionText": "Wie beschreibt Dr. Hoffmann die Leistung von KI-Algorithmen in kontrollierten Bildgebungsstudien?",
+              "options": [
+                "a) Sie übertreffen menschliche Spezialisten in allen Fachgebieten deutlich.",
+                "b) Sie können in bestimmten Bereichen mit erfahrenen Spezialisten mithalten.",
+                "c) Sie sind zuverlässiger als Spezialisten, aber langsamer."
+              ],
+              "correctAnswer": "b",
+              "explanation": "Dr. Hoffmann sagt: Algorithmen können 'in kontrollierten Studien mit erfahrenen Spezialisten mithalten'. Das entspricht b). a) und c) übertreiben oder verdrehen die Aussage."
+            }
+          ]
+        },
+        {
+          "partNumber": 3,
+          "instructions": "Sie hören einen akademischen Vortrag zum Thema Herausforderungen der KI-gestützten Diagnostik in der Versorgungsrealität. Beantworten Sie die zehn Fragen. Was ist richtig? Kreuzen Sie an: a, b oder c. Sie hören den Vortrag zweimal.",
+          "instructionsTranslation": "You will hear an academic lecture on the topic of challenges of AI-supported diagnostics in real-world care settings. Answer the ten questions. What is correct? Mark a, b, or c. You will hear the lecture twice.",
+          "audioFile": "assets/audio/C1/mock08/listening_part3.mp3",
+          "playCount": 2,
+          "questions": [
+            {
+              "id": "C1_m08_HV3_q1",
+              "type": "mcq",
+              "questionText": "Was beschreibt der Vortragende als Kernproblem bei der klinischen Implementierung von KI-Diagnostik?",
+              "options": [
+                "a) Mangelndes Interesse der Ärzteschaft an neuen Technologien.",
+                "b) Die Lücke zwischen Studienwirksamkeit und realer Versorgungseffektivität.",
+                "c) Zu niedrige staatliche Investitionen in KI-Forschung."
+              ],
+              "correctAnswer": "b",
+              "explanation": "Der Vortragende beschreibt die Lücke zwischen Efficacy (Studien) und Effectiveness (Versorgungsrealität) als das zentrale Implementierungsproblem — eine direkte Parallele zur Versorgungsforschungs-Terminologie."
+            },
+            {
+              "id": "C1_m08_HV3_q2",
+              "type": "mcq",
+              "questionText": "Welcher Begriff beschreibt laut Vortrag die Fähigkeit verschiedener Softwaresysteme, Daten auszutauschen?",
+              "options": [
+                "a) Explainability",
+                "b) Interoperabilität",
+                "c) Konformitätsbewertung"
+              ],
+              "correctAnswer": "b",
+              "explanation": "Der Vortragende definiert 'Interoperabilität' als die Fähigkeit von Softwaresystemen, Daten standardisiert auszutauschen — eine Grundvoraussetzung für klinische KI-Integration."
+            },
+            {
+              "id": "C1_m08_HV3_q3",
+              "type": "mcq",
+              "questionText": "Was versteht der Vortragende unter dem Begriff 'Algorithmic Drift'?",
+              "options": [
+                "a) Die schrittweise Verbesserung eines Algorithmus durch Lernen im Einsatz.",
+                "b) Den Leistungsverfall eines Algorithmus, wenn sich die Patientenpopulation von der Trainingskohorte unterscheidet.",
+                "c) Die unbeabsichtigte Datenweitergabe durch KI-Systeme."
+              ],
+              "correctAnswer": "b",
+              "explanation": "Algorithmic Drift bezeichnet den Leistungsverfall, wenn Algorithmen auf Daten treffen, die von ihrer Trainingskohorte abweichen — etwa bei anderen demographischen Merkmalen oder klinischen Protokollen."
+            },
+            {
+              "id": "C1_m08_HV3_q4",
+              "type": "mcq",
+              "questionText": "Was beschreibt der Vortragende als 'Automation Bias'?",
+              "options": [
+                "a) Die Tendenz von KI-Systemen, bestimmte Patientengruppen bevorzugt zu behandeln.",
+                "b) Die Neigung von Ärztinnen und Ärzten, algorithmischen Empfehlungen ohne kritische Prüfung zu folgen.",
+                "c) Die Überrepräsentation technischer Fachkräfte in KI-Entwicklungsteams."
+              ],
+              "correctAnswer": "b",
+              "explanation": "Automation Bias ist die kognitive Tendenz, Systemempfehlungen zu übernehmen ohne eigenständige kritische Bewertung — ein zentrales Risiko für die Patientensicherheit beim Einsatz von KI-Diagnoseassistenten."
+            },
+            {
+              "id": "C1_m08_HV3_q5",
+              "type": "mcq",
+              "questionText": "Welche Maßnahme empfiehlt der Vortragende, um Algorithmic Drift zu begrenzen?",
+              "options": [
+                "a) Häufigere Neuentwicklung von Algorithmen mit mehr Trainingsdaten.",
+                "b) Kontinuierliches Post-Market-Monitoring und regelmäßige Rekalibrierung der Modelle.",
+                "c) Einsatz von KI-Systemen ausschließlich in Universitätskliniken."
+              ],
+              "correctAnswer": "b",
+              "explanation": "Der Vortragende empfiehlt systematisches Post-Market-Monitoring und periodische Rekalibrierung — analog zu klinischen Qualitätssicherungsprozessen — als Gegenmaßnahme zu Algorithmic Drift."
+            },
+            {
+              "id": "C1_m08_HV3_q6",
+              "type": "mcq",
+              "questionText": "Welche Gruppe nennt der Vortragende als besonders gefährdet durch Algorithmic Bias?",
+              "options": [
+                "a) Ältere Patienten mit mehreren Komorbiditäten.",
+                "b) Unterrepräsentierte demographische Gruppen in Trainingsdaten.",
+                "c) Patienten in Privatversicherung mit Zugangsprivilegien."
+              ],
+              "correctAnswer": "b",
+              "explanation": "Der Vortragende betont, dass Algorithmic Bias besonders unterrepräsentierte demographische Gruppen betrifft — also Gruppen, deren Daten im Training zu wenig vertreten waren, was zu schlechterer diagnostischer Genauigkeit führt."
+            },
+            {
+              "id": "C1_m08_HV3_q7",
+              "type": "mcq",
+              "questionText": "Wie bewertet der Vortragende das Verhältnis zwischen KI und ärztlicher Entscheidungshoheit?",
+              "options": [
+                "a) KI sollte langfristig die ärztliche Diagnose vollständig ersetzen.",
+                "b) KI ist als Werkzeug zur Entscheidungsunterstützung sinnvoll, nicht als Entscheidungsträger.",
+                "c) Ärzte sollten KI-Diagnosen immer ablehnen, um ihre Autonomie zu sichern."
+              ],
+              "correctAnswer": "b",
+              "explanation": "Der Vortragende plädiert für das Modell der Entscheidungsunterstützung — Human-in-the-loop — bei dem die finale diagnostische Verantwortung beim Arzt verbleibt."
+            },
+            {
+              "id": "C1_m08_HV3_q8",
+              "type": "mcq",
+              "questionText": "Was nennt der Vortragende als regulatorisches Mindesterfordernis für KI-Diagnostiksysteme?",
+              "options": [
+                "a) Eine fünfjährige klinische Erprobungsphase vor Marktzulassung.",
+                "b) Konformitätsbewertung, Transparenzanforderungen und dokumentierte menschliche Aufsicht.",
+                "c) Eine staatliche Einkaufsgarantie zur Absicherung der Entwicklungskosten."
+              ],
+              "correctAnswer": "b",
+              "explanation": "Der Vortragende nennt die drei Anforderungen des EU AI Act für Hochrisikoanwendungen: Konformitätsbewertung, Transparenz und menschliche Aufsicht als regulatorische Mindestandards."
+            },
+            {
+              "id": "C1_m08_HV3_q9",
+              "type": "mcq",
+              "questionText": "Welche Schlussfolgerung zieht der Vortragende bezüglich der Versorgungsforschung im KI-Zeitalter?",
+              "options": [
+                "a) Versorgungsforschung wird durch KI überflüssig.",
+                "b) Versorgungsforschung wird wichtiger, weil Real-World-Performance von Studienergebnissen abweicht.",
+                "c) Versorgungsforschung sollte sich auf KI-Entwicklung konzentrieren statt auf Versorgungsanalyse."
+              ],
+              "correctAnswer": "b",
+              "explanation": "Der Vortragende argumentiert, dass gerade weil KI-Systeme in realen Kontexten anders performen als in Studien, Versorgungsforschung und Real-World-Evidence-Methoden wichtiger werden, nicht überflüssiger."
+            },
+            {
+              "id": "C1_m08_HV3_q10",
+              "type": "mcq",
+              "questionText": "Welche übergeordnete Forderung formuliert der Vortragende abschließend?",
+              "options": [
+                "a) KI-Entwicklung muss beschleunigt werden, um internationalen Rückstand aufzuholen.",
+                "b) Klinische KI-Systeme müssen in Versorgungsforschungsstudien erprobt werden, bevor sie implementiert werden.",
+                "c) Der Fokus muss von technologischer Innovation auf patientenzentrierte Implementierungsforschung verlagert werden."
+              ],
+              "correctAnswer": "c",
+              "explanation": "Der Vortragende schließt mit der Forderung, den Fokus weg von technologischer Innovationsgeschwindigkeit hin zu patientenzentrierter Implementierungsforschung zu verlagern — die entscheidende Frage sei nicht ob KI funktioniert, sondern für wen, wo und unter welchen Bedingungen."
+            }
+          ]
+        }
+      ]
+    },
+    "writing": {
+      "totalTimeMinutes": 70,
+      "tasks": [
+        {
+          "taskNumber": 1,
+          "type": "essay",
+          "instructions": "Wählen Sie eine der beiden Aufgaben (A oder B) und schreiben Sie einen Text von mindestens 350 Wörtern. Sie haben 70 Minuten Zeit. Beachten Sie die vier Leitpunkte.",
+          "instructionsTranslation": "Choose one of the two tasks (A or B) and write a text of at least 350 words. You have 70 minutes. Pay attention to the four guiding points.",
+          "prompt": "Aufgabe A — Erörterung: Sollte KI die medizinische Diagnose unterstützen oder ersetzen?\n\nZwei Stimmen zur Debatte:\n\nStimme 1 (Radiologin): „KI macht mich nicht überflüssig — sie macht mich genauer. Ich nutze Algorithmen als zweiten Blick und entscheide dann selbst. Das ist gute Medizin.\"\n\nStimme 2 (Gesundheitökonom): „Wenn ein Algorithmus nachweislich besser diagnostiziert und Kosten spart, ist es ethisch nicht vertretbar, ihn aus Berufsgruppeninteressen nicht einzusetzen.\"\n\nLeitpunkte:\n1. Führen Sie in das Thema ein: Welche Rolle spielt KI heute in der medizinischen Diagnostik?\n2. Diskutieren Sie Argumente für den unterstützenden Einsatz von KI (Human-in-the-loop).\n3. Diskutieren Sie Argumente für eine weitgehend autonome KI-Diagnostik.\n4. Begründen Sie Ihren eigenen Standpunkt: Welches Modell bevorzugen Sie und unter welchen Bedingungen?\n\n---\n\nAufgabe B — Stellungnahme: Wie lassen sich Versorgungsungleichheiten im deutschen Gesundheitssystem überwinden?\n\nAusgangsbehauptung (Versorgungsatlas 2025): „In strukturschwachen Regionen warten Patienten bis zu zwölf Monate auf einen Facharzttermin. Digitale Lösungen allein werden diese Ungleichheit nicht beseitigen.\"\n\nLeitpunkte:\n1. Führen Sie in das Thema ein: Was sind die Ursachen regionaler Versorgungsungleichheiten?\n2. Diskutieren Sie politische und strukturelle Maßnahmen zur Verbesserung.\n3. Diskutieren Sie die Rolle digitaler Instrumente — Telemedizin, KI-Diagnostik — als Teil der Lösung.\n4. Nehmen Sie Stellung: Welche Maßnahme halten Sie für den wirksamsten Ansatzpunkt?\n\nMindestlänge: 350 Wörter. Empfehlung: 350–400 Wörter.",
+          "promptTranslation": "Task A — Argumentative essay: Should AI support or replace medical diagnosis? | Task B — Opinion statement: How can regional healthcare disparities in Germany be overcome?",
+          "requiredPoints": [
+            "Thema einführen und aktuelle Relevanz erläutern",
+            "Argumente für Human-in-the-loop oder strukturelle Maßnahmen diskutieren",
+            "Gegenargumente oder Grenzen diskutieren",
+            "Eigenen Standpunkt mit Bedingungen begründen"
+          ],
+          "wordCountMin": 350,
+          "wordCountMax": 450,
+          "sampleAnswer": "Aufgabe A — Musterlösung (Erörterung)\n\nDie Frage, ob Künstliche Intelligenz die medizinische Diagnostik grundlegend verändern wird, ist keine Zukunftsspekulation mehr — sie ist eine Gegenwartsdebatte. Während KI-gestützte Systeme in Studien beeindruckende Ergebnisse liefern, bleibt ihre Implementierung in der Versorgungsrealität hinter den Erwartungen zurück. Diese Diskrepanz zu verstehen, ist nicht nur eine technische, sondern vor allem eine gesundheitspolitische Aufgabe.\n\nFür den Einsatz von KI in der Diagnostik sprechen zunächst empirische Belege. Mehrere unabhängige Studien haben gezeigt, dass Algorithmen bei der Erkennung bestimmter Pathologien — etwa Lungenkrebs in CT-Aufnahmen oder diabetische Retinopathie in Fundusfotos — eine Sensitivität erreichen, die mit der erfahrener Spezialisten vergleichbar ist. In Regionen mit Ärztemangel könnten solche Systeme Versorgungslücken schließen, die durch herkömmliche Maßnahmen kaum zu beheben sind. Ein weiteres Argument ist die Skalierbarkeit: Einmal entwickelt, kann ein Algorithmus ohne Qualitätsverlust unbegrenzt eingesetzt werden.\n\nGleichwohl sind die Einwände substanziell. Erstens stellt sich die Frage der Explainability: Ein System, das eine Diagnose ohne nachvollziehbare Begründung liefert, ist für die klinische Praxis problematisch — Ärztinnen und Ärzte können ein Ergebnis nicht kritisch einordnen, wenn sie den Entscheidungsweg nicht kennen. Zweitens besteht die Gefahr des sogenannten Automation Bias: die Tendenz, algorithmischen Empfehlungen unkritisch zu folgen, was im Falle von Fehlern zu systematischen Diagnosefehlern führen kann. Drittens ist Algorithmic Bias ein strukturelles Problem — Modelle, die auf nicht-repräsentativen Trainingsdaten basieren, können bei bestimmten Patientengruppen systematisch schlechter performen.\n\nEine Expertenmeinung, die in der Fachliteratur verbreitet sei, lautet, KI solle nicht als Entscheidungsträger fungieren, sondern als Entscheidungsunterstützung. Das Modell des Human-in-the-loop — bei dem die finale Verantwortung beim Arzt verbleibe — sei aus ethischen und haftungsrechtlichen Gründen unverzichtbar. Andere argumentierten, dass auch dieses Modell das Automation-Bias-Problem nicht löse, da Ärzte algorithmischen Empfehlungen faktisch selten widersprächen.\n\nMeines Erachtens liegt der entscheidende Hebel nicht in der Technologie selbst, sondern in der Implementierungsforschung. Die Frage, ob KI in der Diagnostik funktioniert, ist wissenschaftlich beantwortet. Offen ist, für wen, wo und unter welchen institutionellen Bedingungen. Ohne begleitende Versorgungsforschung, transparente Zertifizierungspfade und eine klare Haftungsregelung bleibt das Potenzial dieser Technologie strukturell unausgeschöpft.",
+          "sampleAnswerMetadata": "ca. 390 Wörter; Konjunktiv I in indirekter Rede: sei, verbleibe, löse, widersprächen; C1-Lexik: Explainability, Automation Bias, Algorithmic Bias, Human-in-the-loop, Implementierungsforschung; Passivkonstruktionen; Funktionsverbgefüge.",
+          "scoringCriteria": [
+            {
+              "criterion": "Aufgabengerechtheit",
+              "maxPoints": 12,
+              "description": "Alle 4 Leitpunkte vollständig behandelt — Einführung mit thematischer Einordnung, beide Positionen mit je ≥2 Argumenten, begründeter eigener Standpunkt mit Bedingungen. Kein Leitpunkt ausgelassen."
+            },
+            {
+              "criterion": "Repertoire",
+              "maxPoints": 12,
+              "description": "C1-Wortschatz: medizinisch-technische Lexik (Diagnostik, Algorithmic Bias, Implementierungsforschung, Konformitätsbewertung), ≥3 Funktionsverbgefüge, Hedging-Ausdrücke, variiertes Konnektor-Repertoire. Keine B2-Einheitsprosa."
+            },
+            {
+              "criterion": "Korrektheit",
+              "maxPoints": 12,
+              "description": "Morphologische und syntaktische Korrektheit auf C1-Niveau. Konjunktiv I in indirekter Rede korrekt eingesetzt (sei, verbleibe, widersprächen). Genitiv-Präpositionen, Passiv-Ersatzformen und Infinitivkonstruktionen korrekt."
+            },
+            {
+              "criterion": "Kommunikative Gestaltung",
+              "maxPoints": 12,
+              "description": "Klare Textstruktur (Einleitung/Hauptteil/Schluss), kohärente Absatzführung, variierte Konnektoren, formal-akademisches Register durchgehalten, keine umgangssprachlichen Einschübe."
+            }
+          ]
+        }
+      ]
+    },
+    "speaking": {
+      "totalTimeMinutes": 16,
+      "prepTimeMinutes": 20,
+      "parts": [
+        {
+          "partNumber": 1,
+          "instructions": "Teil 1A — Präsentation: Wählen Sie eines der beiden Themen und halten Sie eine Präsentation von ca. 3 Minuten. Nutzen Sie die Stichpunkte als Anregung. Sie haben 20 Minuten Vorbereitungszeit.",
+          "instructionsTranslation": "Part 1A — Presentation: Choose one of the two topics and give a presentation of approximately 3 minutes. Use the bullet points as prompts. You have 20 minutes preparation time.",
+          "type": "presentation",
+          "prompt": "Thema A: KI in der medizinischen Diagnostik — Unterstützung oder Entmündigung?\n\nMögliche Aspekte (Sie müssen nicht alle ansprechen):\n• Was sind die nachgewiesenen Vorteile von KI-Diagnostik in kontrollierten Studien?\n• Welche Risiken entstehen bei unreflektiertem Einsatz (Automation Bias, Algorithmic Drift)?\n• Welche institutionellen Voraussetzungen braucht eine sichere Implementierung?\n• Wie verändert KI das Arzt-Patienten-Verhältnis?\n\n---\n\nThema B: Regionale Versorgungsungleichheiten — strukturelles Versagen oder unvermeidliche Realität?\n\nMögliche Aspekte (Sie müssen nicht alle ansprechen):\n• Welche Daten belegen regionale Unterschiede in der Gesundheitsversorgung?\n• Welche strukturellen Ursachen liegen diesen Ungleichheiten zugrunde?\n• Welche politischen Instrumente könnten Abhilfe schaffen?\n• Kann Digitalisierung — Telemedizin, KI-Diagnostik — das Problem lösen?",
+          "sampleResponse": "[Thema A — Musterpräsentation]\n\nMeine Damen und Herren, die Frage, ob KI die medizinische Diagnostik verbessert oder gefährdet, lässt sich nicht pauschal beantworten — sie hängt entscheidend davon ab, wie, wo und mit welchen Schutzmaßnahmen sie eingesetzt wird.\n\nIn kontrollierten Studien sind die Ergebnisse beeindruckend. KI-Algorithmen, die auf Millionen annotierter Bilddaten trainiert wurden, erreichen bei der Erkennung von Lungenkrebs, diabetischer Retinopathie oder Hautläsionen eine Sensitivität, die mit der erfahrener Spezialisten vergleichbar ist. Das ist kein Hype — das ist Evidenz.\n\nDie Herausforderungen liegen jedoch in der Implementierung. Erstens ist Algorithmic Drift ein reales Problem: Ein Modell, das auf einer bestimmten Patientenkohorte trainiert wurde, kann bei abweichenden demographischen Gruppen deutlich schlechter performen. Zweitens besteht die Gefahr des Automation Bias — der Tendenz, algorithmische Empfehlungen ohne kritische Prüfung zu übernehmen. Drittens sind viele Modelle Black Boxes, deren Entscheidungslogik für Ärzte nicht nachvollziehbar ist.\n\nFür eine sichere Implementierung brauchen wir mindestens drei Voraussetzungen: Explainability — der Algorithmus muss erklären können, wie er zur Diagnose kam. Human-in-the-loop — die finale Entscheidung verbleibt beim Arzt. Und kontinuierliches Post-Market-Monitoring, um Leistungsverfall frühzeitig zu erkennen.\n\nDas Arzt-Patienten-Verhältnis verändert sich dadurch nicht grundlegend — es erweitert sich. KI übernimmt die Mustererkennung, der Arzt das Urteil und die Kommunikation. Diese Arbeitsteilung ist medizinisch sinnvoll, wenn sie institutionell abgesichert ist.",
+          "evaluationTips": [
+            "Strukturieren Sie Ihren Vortrag mit Einleitung, Hauptteil (2–3 Argumentationsstränge) und Fazit.",
+            "C1-Erwartung: Keine Auflistung — argumentative Entwicklung mit Kausalität, Einschränkungen und Wertung.",
+            "Fachvokabular demonstrieren: Algorithmic Drift, Automation Bias, Explainability, Human-in-the-loop."
+          ],
+          "keyPhrases": [
+            "Ich möchte zunächst auf … eingehen",
+            "Ein zentrales Problem ist dabei …",
+            "Es wäre voreilig zu behaupten, dass …",
+            "Die entscheidende Voraussetzung ist …"
+          ]
+        },
+        {
+          "partNumber": 2,
+          "instructions": "Teil 1B — Zusammenfassung und Anschlussfrage: Der/die Prüfungspartner/in fasst die Präsentation kurz zusammen und stellt eine Anschlussfrage. Der/die Präsentierende antwortet.",
+          "instructionsTranslation": "Part 1B — Summary and follow-up question: The examination partner briefly summarises the presentation and asks a follow-up question. The presenter responds.",
+          "type": "discussion",
+          "prompt": "Mögliche Anschlussfragen:\n• 'Sie haben das Human-in-the-loop-Modell befürwortet. Wie reagieren Sie auf das Argument, dass Ärzte algorithmischen Empfehlungen faktisch selten widersprechen?'\n• 'Welche Patientengruppen sehen Sie als besonders gefährdet durch Algorithmic Bias?'\n• 'Glauben Sie, dass die Regulierung durch den EU AI Act ausreicht?'",
+          "sampleResponse": "Das Argument ist berechtigt und zeigt das eigentliche Problem: Wenn Ärzte algorithmischen Empfehlungen faktisch nie widersprechen, ist das Human-in-the-loop-Modell eine Fiktion. Die Lösung liegt aber nicht im Rückzug aus der Technologie, sondern in der Ausbildung: Ärztinnen und Ärzte müssen lernen, wann und warum sie einem Algorithmus misstrauen sollten. Das setzt Transparenz des Systems voraus — Explainability ist also keine technische Spielerei, sondern eine Voraussetzung für echte menschliche Aufsicht.",
+          "evaluationTips": [
+            "Aktiv zuhören: Kernaussage der Zusammenfassung korrekt aufgreifen.",
+            "Direkt antworten — kein Ausweichen durch Themenwechsel.",
+            "Eigene Position verteidigen oder differenzieren, nicht einfach zustimmen."
+          ],
+          "keyPhrases": [
+            "Das ist ein wichtiger Einwand, den ich so einordnen würde: …",
+            "Ich stimme teilweise zu, möchte aber unterscheiden zwischen …",
+            "Das Argument überzeugt mich nicht vollständig, weil …"
+          ]
+        },
+        {
+          "partNumber": 3,
+          "instructions": "Teil 2 — Diskussion: Diskutieren Sie gemeinsam mit Ihrem/Ihrer Prüfungspartner/in die folgende These. Beide müssen aktiv argumentieren und auf die Argumente der anderen Person eingehen. Ca. 5–6 Minuten.",
+          "instructionsTranslation": "Part 2 — Discussion: Discuss the following thesis together with your examination partner. Both must actively argue and respond to each other's arguments. Approximately 5–6 minutes.",
+          "type": "discussion",
+          "prompt": "These zur Diskussion:\n\n\"Das deutsche Gesundheitssystem ist gut für medizinische Krisen gerüstet, aber strukturell nicht auf Prävention und Public Health ausgerichtet.\"\n\nMögliche Aspekte:\n• Was hat die COVID-Pandemie über Stärken und Schwächen des Systems gelehrt?\n• Welche Rolle spielen Prävention und Public Health im Vergleich zur kurativen Medizin?\n• Wie könnten Fehlanreize im DRG-System (Fallpauschalen) verändert werden?\n• Welche internationalen Modelle könnten als Vorbild dienen?",
+          "sampleResponse": "Ich würde der These grundsätzlich zustimmen, aber mit einer wichtigen Einschränkung. Die Pandemie hat gezeigt: Die klinische Seite — Intensivmedizin, Krankenhauskapazitäten, Impflogistik — war tatsächlich belastbar. Das DIVI-Register als Echtzeit-Instrument war vorbildlich. Aber der öffentliche Gesundheitsdienst — Gesundheitsämter, Surveillance, internationale Koordination — hat unter chronischer Unterfinanzierung gelitten.\n\nDas DRG-System verstärkt dieses Ungleichgewicht strukturell: Es vergütet Eingriffe und Behandlungen, nicht Prävention. Ein Krankenhaus hat keinen finanziellen Anreiz, Krankheiten zu verhindern — nur, sie zu behandeln. Das ist eine systemische Fehlsteuerung, die durch einzelne Programme kaum zu kompensieren ist.\n\nNordische Länder investieren einen deutlich höheren Anteil ihrer Gesundheitsausgaben in Public Health und präventive Programme. Die Korrelation mit besseren populationsbezogenen Gesundheitsergebnissen ist dokumentiert. Das wäre ein Reformansatzpunkt — wenn der politische Wille vorhanden wäre.",
+          "evaluationTips": [
+            "C1-Diskussion: These → Antithese → Synthese — kein Monolog.",
+            "Auf Argumente der anderen Person eingehen: Zustimmung differenzieren oder Einwand formulieren.",
+            "Fachvokabular: DRG-System, Prävention, Public Health, Fehlanreize, populationsbezogen."
+          ],
+          "keyPhrases": [
+            "Ich stimme der Grundthese zu, möchte aber einen Aspekt herausarbeiten: …",
+            "Das überzeugt mich nicht vollständig — ich würde unterscheiden zwischen …",
+            "Ich möchte einem zentralen Aspekt Ihrer Argumentation widersprechen: …",
+            "Das Gegenbeispiel Schwedens zeigt, dass …"
+          ]
+        }
+      ]
+    }
   }
 }

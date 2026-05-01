@@ -1,0 +1,97 @@
+<speak>
+  <prosody rate="medium" pitch="medium">
+
+    <!-- PART 1 INTRO -->
+    <s>Sie hören acht kurze Stellungnahmen verschiedener Personen zum Thema Gesundheit und Medizin.</s>
+    <s>Hören Sie die Aussagen. Welche Zusammenfassung passt zu welchem Sprecher? Zwei Zusammenfassungen passen nicht.</s>
+    <break time="2s"/>
+
+    <!-- Sprecher 1: Frau Dr. Bergmann, Versorgungsforscherin -->
+    <voice name="de-DE-Wavenet-F">
+      <s>Sprecher 1. Frau Dr. Bergmann, Versorgungsforscherin.</s>
+      <break time="1s"/>
+      <s>Die Kluft zwischen urbanen Zentren und strukturschwachen Regionen ist kein Finanzierungsproblem allein.</s>
+      <s>Sie spiegelt tiefere Verteilungsmuster wider — bei Niederlassungsentscheidungen, bei Infrastruktur, bei Bildungsangeboten für den Nachwuchs.</s>
+      <s>Wer das auf eine Stellenschraube reduziert, hat den Kern des Problems nicht verstanden.</s>
+      <s>Versorgungsungleichheit ist eine strukturelle Frage, und sie braucht strukturelle Antworten.</s>
+    </voice>
+    <break time="4s"/>
+
+    <!-- Sprecher 2: Herr Prof. Kahle, Medizininformatiker -->
+    <voice name="de-DE-Wavenet-B">
+      <s>Sprecher 2. Herr Prof. Kahle, Medizininformatiker.</s>
+      <break time="1s"/>
+      <s>Ich habe kein Problem mit KI in der Diagnostik — solange klar ist, wer das letzte Wort hat.</s>
+      <s>Ein Algorithmus kann Pattern erkennen, die ein Mensch übersieht.</s>
+      <s>Aber er kann nicht abwägen, nicht kommunizieren, nicht Verantwortung übernehmen.</s>
+      <s>Die ärztliche Entscheidungshoheit ist kein veraltetes Standesdenken — sie ist die ethische Grundlage der Patientenversorgung.</s>
+    </voice>
+    <break time="4s"/>
+
+    <!-- Sprecher 3: Frau Dr. Schulte, Digitalmedizin-Ethikerin -->
+    <voice name="de-DE-Wavenet-A">
+      <s>Sprecher 3. Frau Dr. Schulte, Digitalmedizin-Ethikerin.</s>
+      <break time="1s"/>
+      <s>Wenn ein Algorithmus eine Diagnose stellt, ohne erklären zu können wie, dann ist das für die Praxis nicht akzeptabel.</s>
+      <s>Ärzte brauchen Nachvollziehbarkeit — und Patienten haben ein Recht darauf zu verstehen, auf welcher Grundlage Entscheidungen über ihre Gesundheit getroffen werden.</s>
+      <s>Transparenzstandards für klinische KI sind keine Bürokratie — sie sind eine Patientenschutzmaßnahme.</s>
+    </voice>
+    <break time="4s"/>
+
+    <!-- Sprecher 4: Herr Dr. Meister, Psychiater -->
+    <voice name="de-DE-Wavenet-D">
+      <s>Sprecher 4. Herr Dr. Meister, Psychiater.</s>
+      <break time="1s"/>
+      <s>Wir pathologisieren zunehmend, was gesellschaftliche Probleme sind.</s>
+      <s>Wenn jemand am Arbeitsplatz ausgebrannt ist, liegt das oft nicht an einer persönlichen Vulnerabilität, sondern an Arbeitsbedingungen, Führungskultur, Kontrollverlust.</s>
+      <s>Die Medikalisierung löst das nicht — sie verschiebt die Verantwortung vom System auf das Individuum.</s>
+      <s>Das ist weder medizinisch ehrlich noch politisch produktiv.</s>
+    </voice>
+    <break time="4s"/>
+
+    <!-- Sprecher 5: Frau Prof. Hartmann, Public-Health-Expertin -->
+    <voice name="de-DE-Wavenet-E">
+      <s>Sprecher 5. Frau Prof. Hartmann, Public-Health-Expertin.</s>
+      <break time="1s"/>
+      <s>Prävention ist die effizienteste Gesundheitsinvestition, die ein Gemeinwesen tätigen kann — aber sie zahlt sich nicht im Quartalsbericht aus.</s>
+      <s>Wir haben ein System, das Eingriffe vergütet und Prävention vernachlässigt.</s>
+      <s>Das Ergebnis sind chronische Erkrankungen, die mit investierter Prävention zu einem erheblichen Teil vermeidbar gewesen wären.</s>
+      <s>Prävention als Systemaufgabe zu begreifen, nicht als individuelle Verantwortung — das ist der entscheidende Paradigmenwechsel.</s>
+    </voice>
+    <break time="4s"/>
+
+    <!-- Sprecher 6: Herr Dr. Ritter, Epidemiologe -->
+    <voice name="de-DE-Neural2-B">
+      <s>Sprecher 6. Herr Dr. Ritter, Epidemiologe.</s>
+      <break time="1s"/>
+      <s>Die nächste Pandemie kommt — das ist keine Frage des Ob, sondern des Wann.</s>
+      <s>Und die internationale Koordination ist strukturell schlechter vorbereitet als sie sein müsste.</s>
+      <s>Die WHO ist in ihrer Handlungsfähigkeit begrenzt, WHO-Mitgliedstaaten schützen nationale Interessen, und Frühwarnmechanismen sind politisch unterfinanziert.</s>
+      <s>Das ist eine kollektive Selbstgefährdung, die durch kurzfristiges Denken befeuert wird.</s>
+    </voice>
+    <break time="4s"/>
+
+    <!-- Sprecher 7: Frau Lenz, Sozialrechtsexpertin -->
+    <voice name="de-DE-Neural2-F">
+      <s>Sprecher 7. Frau Lenz, Sozialrechtsexpertin.</s>
+      <break time="1s"/>
+      <s>Es ist nicht nachvollziehbar, dass psychische Erkrankungen im Berufsunfähigkeitssystem systematisch schlechter gestellt werden als körperliche.</s>
+      <s>Der Leidensdruck ist gleich — oft höher.</s>
+      <s>Die sozialen Folgen — Jobverlust, Isolation, finanzielle Not — sind messbar.</s>
+      <s>Hier brauchen wir eine Rechtsanpassung, die diese Ungleichbehandlung beseitigt.</s>
+    </voice>
+    <break time="4s"/>
+
+    <!-- Sprecher 8: Herr Prof. Steiner, Arbeitsmediziner -->
+    <voice name="de-DE-Neural2-D">
+      <s>Sprecher 8. Herr Prof. Steiner, Arbeitsmediziner.</s>
+      <break time="1s"/>
+      <s>Betriebliches Gesundheitsmanagement ist gesetzlich verankert, aber in vielen Unternehmen ein Papiertiger.</s>
+      <s>Gerade im Pflege- und Sozialbereich, wo die Belastungen am höchsten sind, fehlen die Ressourcen für funktionierende BGM-Strukturen.</s>
+      <s>Das ist ein Regulierungsversagen: Wir haben Regeln ohne Durchsetzung.</s>
+      <s>Ohne verbindlichere Mindeststandards wird sich das nicht ändern.</s>
+    </voice>
+    <break time="3s"/>
+
+  </prosody>
+</speak>

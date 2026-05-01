@@ -1,0 +1,95 @@
+<speak>
+  <prosody rate="medium" pitch="medium">
+
+    <!-- PART 3 INTRO -->
+    <s>Sie hören einen akademischen Vortrag zum Thema Herausforderungen der KI-gestützten Diagnostik in der Versorgungsrealität.</s>
+    <s>Sie hören den Vortrag zweimal.</s>
+    <break time="2s"/>
+
+    <!-- Vortrag beginnt -->
+    <voice name="de-DE-Wavenet-B">
+
+      <s>Sehr geehrte Damen und Herren,</s>
+      <s>die klinische Implementierung von KI-Diagnostiksystemen stellt die Versorgungsforschung vor eine ihrer zentralen Herausforderungen: die Lücke zwischen Studien-Efficacy und Versorgungs-Effectiveness.</s>
+      <s>Was in kontrollierten Studien beeindruckend funktioniert, trifft in der Versorgungsrealität auf Bedingungen, die mit dem Studiendesign wenig gemein haben — heterogene Patientenpopulationen, variable Geräteumgebungen, unterschiedliche Dokumentationsstandards.</s>
+      <break time="1s"/>
+
+      <s>Ein zentrales Konzept in diesem Zusammenhang ist Interoperabilität — die Fähigkeit verschiedener Softwaresysteme, Daten in standardisierten Formaten auszutauschen.</s>
+      <s>Klinische KI-Systeme sind oft in proprietären Umgebungen entwickelt, die nicht ohne weiteres mit der Krankenhaus-IT-Infrastruktur kommunizieren.</s>
+      <s>Solange dieses Problem nicht gelöst ist, bleibt die breitflächige Implementierung strukturell verhindert.</s>
+      <break time="1s"/>
+
+      <s>Ein weiteres Implementierungsrisiko ist Algorithmic Drift.</s>
+      <s>Darunter versteht man den Leistungsverfall eines Algorithmus, wenn er auf Patientenpopulationen trifft, die von seiner Trainingskohorte abweichen — etwa in Altersstruktur, ethnischer Zusammensetzung oder klinischen Protokollen.</s>
+      <s>Dagegen hilft systematisches Post-Market-Monitoring und periodische Rekalibrierung der Modelle — analog zu klinischen Qualitätssicherungsprozessen.</s>
+      <break time="1s"/>
+
+      <s>Eng verwandt ist das Problem des Algorithmic Bias.</s>
+      <s>Wenn Trainingsdaten bestimmte demographische Gruppen unterrepräsentieren, kann das Modell für diese Gruppen systematisch schlechter performen.</s>
+      <s>Das ist nicht nur eine technische Unzulänglichkeit — es ist ein Gerechtigkeitsproblem, das durch unreflektierte Implementierung bestehende Ungleichheiten im Gesundheitssystem verstärken kann.</s>
+      <break time="1s"/>
+
+      <s>Auf der Ebene des klinischen Entscheidens droht Automation Bias — die kognitive Tendenz, algorithmischen Empfehlungen ohne eigenständige kritische Prüfung zu folgen.</s>
+      <s>Studien zeigen, dass Ärztinnen und Ärzte algorithmischen Empfehlungen seltener widersprechen als Empfehlungen menschlicher Kollegen — selbst wenn Fehler im System bekannt sind.</s>
+      <s>Das Human-in-the-loop-Modell bleibt eine Leerformel, wenn die institutionellen Bedingungen für kritische Reflexion nicht geschaffen werden.</s>
+      <break time="1s"/>
+
+      <s>Auf regulatorischer Ebene hat der EU AI Act medizinische KI-Systeme als Hochrisikoanwendungen eingestuft.</s>
+      <s>Drei Anforderungen sind zentral: Konformitätsbewertung, Transparenz und dokumentierte menschliche Aufsicht.</s>
+      <s>Diese Anforderungen sind nicht innovationsfeindlich — sie sind die Mindestbedingung für Patientensicherheit in einem Hochrisikobereich.</s>
+      <break time="1s"/>
+
+      <s>Was folgt für die Versorgungsforschung?</s>
+      <s>Gerade weil KI-Systeme in realen Kontexten anders performen als in Studien, gewinnen Versorgungsforschung und Real-World-Evidence-Methoden an Bedeutung — nicht weniger.</s>
+      <s>Die relevante Frage ist nicht mehr, ob ein Algorithmus im Labor funktioniert, sondern für wen, wo und unter welchen institutionellen Bedingungen er in der Breite zuverlässig einsetzbar ist.</s>
+      <break time="1s"/>
+
+      <s>Mein Plädoyer abschließend: Der Fokus muss von technologischer Innovationsgeschwindigkeit auf patientenzentrierte Implementierungsforschung verlagert werden.</s>
+      <s>Nicht die Frage, ob KI in die Medizin kommt, ist offen — sie kommt.</s>
+      <s>Die entscheidende Frage ist, wie wir sicherstellen, dass sie für alle Patienten gleichermaßen und sicher ankommt.</s>
+
+      <s>Ich danke für Ihre Aufmerksamkeit.</s>
+
+    </voice>
+    <break time="5s"/>
+
+    <!-- Second playthrough marker -->
+    <s>Sie hören den Vortrag jetzt ein zweites Mal.</s>
+    <break time="2s"/>
+
+    <voice name="de-DE-Wavenet-B">
+
+      <s>Sehr geehrte Damen und Herren,</s>
+      <s>die klinische Implementierung von KI-Diagnostiksystemen stellt die Versorgungsforschung vor eine ihrer zentralen Herausforderungen: die Lücke zwischen Studien-Efficacy und Versorgungs-Effectiveness.</s>
+      <break time="1s"/>
+
+      <s>Interoperabilität — die Fähigkeit verschiedener Softwaresysteme, Daten in standardisierten Formaten auszutauschen — ist eine Grundvoraussetzung für klinische KI-Integration, die in vielen Krankenhäusern noch nicht erfüllt ist.</s>
+      <break time="1s"/>
+
+      <s>Algorithmic Drift: Leistungsverfall eines Algorithmus bei Abweichung der Patientenpopulation von der Trainingskohorte.</s>
+      <s>Gegenmaßnahme: Post-Market-Monitoring und periodische Rekalibrierung.</s>
+      <break time="1s"/>
+
+      <s>Algorithmic Bias betrifft unterrepräsentierte demographische Gruppen in Trainingsdaten und kann bestehende Versorgungsungleichheiten verstärken.</s>
+      <break time="1s"/>
+
+      <s>Automation Bias: die Tendenz, algorithmischen Empfehlungen ohne kritische Prüfung zu folgen.</s>
+      <s>Human-in-the-loop ist nur wirksam, wenn institutionelle Bedingungen für kritische Reflexion bestehen.</s>
+      <break time="1s"/>
+
+      <s>EU AI Act: Hochrisikoanwendung, drei Anforderungen — Konformitätsbewertung, Transparenz, menschliche Aufsicht.</s>
+      <break time="1s"/>
+
+      <s>Versorgungsforschung wird wichtiger, nicht überflüssiger: Real-World-Performance weicht von Studienergebnissen ab.</s>
+      <break time="1s"/>
+
+      <s>Schlussfolgerung: Der Fokus muss auf patientenzentrierte Implementierungsforschung verlagert werden.</s>
+      <s>Die Frage ist nicht ob KI kommt — sondern wie sie für alle Patienten gleichermaßen und sicher ankommt.</s>
+
+      <s>Ich danke für Ihre Aufmerksamkeit.</s>
+
+    </voice>
+    <break time="3s"/>
+
+  </prosody>
+</speak>
