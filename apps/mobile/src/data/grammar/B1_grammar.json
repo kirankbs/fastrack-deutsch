@@ -333,67 +333,119 @@
     "id": 7,
     "level": "B1",
     "topic": "Wechselpräpositionen und feste Präpositionen — Dativ/Akkusativ/Genitiv",
-    "explanation": "Neun Wechselpräpositionen regieren Dativ oder Akkusativ: an, auf, hinter, in, neben, über, unter, vor, zwischen. Wo? → Dativ (Lage). Wohin? → Akkusativ (Richtung). Feste Präpositionen ohne Wahl: mit Dativ: aus, bei, mit, nach, seit, von, zu, gegenüber. Nur Akkusativ: durch, für, gegen, ohne, um. Genitiv (formeller): während, wegen, trotz, (an)statt, innerhalb, außerhalb. Im gesprochenen Deutsch wird nach 'wegen' und 'trotz' zunehmend Dativ benutzt, der Genitiv bleibt aber standardsprachlich richtig. Possessiver Genitiv: 'das Auto meines Vaters', 'das Haus der Familie'. Endungen bei Adjektivbegleiter: -es (maskulin/neutrum), -er (feminin/Plural). [PEDAGOGY-REWRITE]",
+    "explanation": "**Block A — Wechselpräpositionen (Akk vs Dat):** Die neun Wechselpräpositionen an, auf, hinter, in, neben, über, unter, vor, zwischen stehen mit Akkusativ bei Richtung (Wohin?) und mit Dativ bei Lage (Wo?). Merke: 'Ich gehe in die Schule' (Akk, Richtung) vs 'Ich bin in der Schule' (Dat, Lage). Häufige Falle: Bewegung ohne Ortswechsel (z. B. 'schwimmen im See') verlangt Dativ, weil kein Zielwechsel stattfindet. **Block B — Feste Kasus-Präpositionen:** Nur Akkusativ: durch, für, gegen, ohne, um, bis. Nur Dativ: aus, bei, mit, nach, seit, von, zu, gegenüber. Zeitausdrücke mit auf/in nehmen Akkusativ ('auf den nächsten Zug warten', 'in eine neue Stelle wechseln'). Achtung: 'am Montag' (an + Dativ), nicht 'auf Montag'. **Block C — Genitivpräpositionen:** wegen, trotz, während, statt/anstelle, aufgrund, innerhalb, außerhalb. Im formellen Schriftdeutsch steht der Genitiv: 'wegen des Regens', 'trotz seiner Müdigkeit'. Im gesprochenen Deutsch driftet wegen/trotz zum Dativ — telc-Prüfung erwartet Genitiv. dank nimmt formal Genitiv, im Alltag häufig Dativ.",
     "examples": [
-      "Das Buch liegt auf dem Tisch. (Wo? → Dativ)",
-      "Ich lege das Buch auf den Tisch. (Wohin? → Akkusativ)",
-      "Wegen des Regens bleiben wir zu Hause.",
-      "Trotz der Kälte gehen wir raus.",
-      "Seit drei Jahren lerne ich Deutsch.",
-      "Während der Pause trinken wir Kaffee.",
-      "Das ist das Auto meines Vaters. (possessiver Genitiv)",
-      "Der Beruf der Frau ist sehr interessant. (possessiver Genitiv)",
-      "Er fährt mit seinem Auto zur Arbeit.",
-      "Sie wohnt gegenüber dem Park."
+      "Sie hängt das Bild an die Wand. (Wohin? → Akkusativ)",
+      "Das Bild hängt an der Wand. (Wo? → Dativ)",
+      "Wir gehen ins Kino. (in + das → ins, Richtung Akkusativ)",
+      "Ich bestelle ein Buch für meinen Bruder. (für → Akkusativ)",
+      "Sie kommt aus der Schweiz. (aus → Dativ)",
+      "Wir warten seit zwei Stunden. (seit → Dativ)",
+      "Er fährt mit dem Auto zur Arbeit. (mit → Dativ)",
+      "Wegen des Regens bleiben wir zuhause. (wegen → Genitiv)",
+      "Trotz seiner Müdigkeit arbeitet er weiter. (trotz → Genitiv)",
+      "Während des Konzerts war es laut. (während → Genitiv)"
     ],
     "exercises": [
       {
         "type": "fill_blank",
-        "prompt": "Das Bild hängt ___ ___ Wand. (an, Dativ — Wo?)",
+        "prompt": "Ich stelle die Tasche ___ Tisch. (auf, Wohin?)",
+        "correctAnswer": "auf den",
+        "explanation": "Wechselpräposition auf: Richtung (Wohin?) → Akkusativ. Maskulinum: der Tisch → Akkusativ: den Tisch."
+      },
+      {
+        "type": "fill_blank",
+        "prompt": "Die Tasche liegt ___ Tisch. (auf, Wo?)",
+        "correctAnswer": "auf dem",
+        "explanation": "Wechselpräposition auf: Lage (Wo?) → Dativ. Maskulinum: der Tisch → Dativ: dem Tisch."
+      },
+      {
+        "type": "fill_blank",
+        "prompt": "Das Bild hängt ___ ___ Wand. (an, Wo?)",
         "correctAnswer": "an der",
-        "explanation": "Lage → Dativ. Femininum: die Wand → Dativ: der Wand."
+        "explanation": "Wechselpräposition an: Lage → Dativ. Femininum: die Wand → Dativ: der Wand."
       },
       {
         "type": "fill_blank",
-        "prompt": "Sie hängt das Bild ___ ___ Wand. (an, Akkusativ — Wohin?)",
-        "correctAnswer": "an die",
-        "explanation": "Bewegung → Akkusativ. die Wand → Akkusativ: die Wand."
-      },
-      {
-        "type": "mcq",
-        "prompt": "Welcher Satz ist korrekt? 'Wegen ___ Wetters können wir nicht schwimmen.'",
-        "correctAnswer": "des",
-        "explanation": "'wegen' verlangt Genitiv. Neutrum Genitiv: das Wetter → des Wetters."
+        "prompt": "Er legt das Buch ___ ___ Regal. (in, Wohin?)",
+        "correctAnswer": "in das",
+        "explanation": "Wechselpräposition in: Richtung → Akkusativ. Neutrum: das Regal → Akkusativ: das Regal (kein Artikelwechsel, aber Akkusativ-Kontext)."
       },
       {
         "type": "fill_blank",
-        "prompt": "Seit ___ Woche regnet es. (ein)",
+        "prompt": "Die Katze schläft ___ ___ Sofa. (unter, Wo?)",
+        "correctAnswer": "unter dem",
+        "explanation": "Wechselpräposition unter: Lage → Dativ. Neutrum: das Sofa → Dativ: dem Sofa."
+      },
+      {
+        "type": "fill_blank",
+        "prompt": "Wir fahren ___ ___ Tunnel. (durch)",
+        "correctAnswer": "durch den",
+        "explanation": "'durch' ist eine feste Akkusativpräposition. Maskulinum: der Tunnel → Akkusativ: den Tunnel."
+      },
+      {
+        "type": "fill_blank",
+        "prompt": "Seit ___ Woche regnet es täglich. (eine)",
         "correctAnswer": "einer",
-        "explanation": "'seit' verlangt Dativ. Femininum: eine → einer (Dativ)."
+        "explanation": "'seit' verlangt immer Dativ. Femininum: eine → Dativ: einer."
       },
       {
         "type": "fill_blank",
-        "prompt": "Das ist das Auto ___ ___ Vaters. (mein — possessiver Genitiv)",
-        "correctAnswer": "meines",
-        "explanation": "Possessiver Genitiv: Maskulinum/Neutrum → -es. mein + es = meines."
-      },
-      {
-        "type": "mcq",
-        "prompt": "Welcher Satz zeigt possessiven Genitiv?",
-        "correctAnswer": "Das ist der Name meiner Schwester.",
-        "explanation": "Possessiver Genitiv Femininum: mein + er = meiner. 'der Name meiner Schwester' = ihr Name."
-      },
-      {
-        "type": "mcq",
-        "prompt": "Welche Präposition verlangt immer den Akkusativ?",
-        "correctAnswer": "für",
-        "explanation": "'für' gehört zu den festen Akkusativ-Präpositionen (durch, für, gegen, ohne, um)."
+        "prompt": "Er kommt ___ ___ Büro nach Hause. (aus)",
+        "correctAnswer": "aus dem",
+        "explanation": "'aus' verlangt Dativ. Neutrum: das Büro → Dativ: dem Büro."
       },
       {
         "type": "fill_blank",
-        "prompt": "Trotz ___ Regens gehen wir spazieren. (der)",
+        "prompt": "Trotz ___ Regens gehen wir spazieren.",
         "correctAnswer": "des",
-        "explanation": "'trotz' verlangt Genitiv. Maskulinum der Regen → Genitiv: des Regens."
+        "explanation": "'trotz' verlangt Genitiv. Maskulinum: der Regen → Genitiv: des Regens."
+      },
+      {
+        "type": "fill_blank",
+        "prompt": "Wegen ___ Baustelle ist die Straße gesperrt. (die)",
+        "correctAnswer": "der",
+        "explanation": "'wegen' verlangt Genitiv. Femininum: die Baustelle → Genitiv: der Baustelle."
+      },
+      {
+        "type": "fill_blank",
+        "prompt": "Während ___ Prüfung darf man nicht sprechen. (die)",
+        "correctAnswer": "der",
+        "explanation": "'während' verlangt Genitiv. Femininum: die Prüfung → Genitiv: der Prüfung."
+      },
+      {
+        "type": "fill_blank",
+        "prompt": "Sie arbeitet ___ ___ Schule gegenüber. (zu, wohin? — Richtung zum Gebäude)",
+        "correctAnswer": "zur",
+        "explanation": "'zu' verlangt Dativ. zu + der → zur (Femininum Kontraktionsform). Zu gehört zu den festen Dativpräpositionen."
+      },
+      {
+        "type": "mcq",
+        "prompt": "Sie wartet ___ Bus. (warten auf = Akkusativ)",
+        "options": ["auf den", "auf dem", "für den"],
+        "correctAnswer": "auf den",
+        "explanation": "'warten auf' ist ein festes Verb-Präposition-Muster und verlangt Akkusativ. Bus ist maskulin: den Bus."
+      },
+      {
+        "type": "mcq",
+        "prompt": "Wegen ___ Wetters bleiben wir drinnen.",
+        "options": ["des", "dem", "den"],
+        "correctAnswer": "des",
+        "explanation": "'wegen' verlangt Genitiv. Neutrum: das Wetter → Genitiv: des Wetters."
+      },
+      {
+        "type": "mcq",
+        "prompt": "Welcher Satz ist korrekt? (am vs auf — Wochentag)",
+        "options": ["Wir treffen uns am Montag.", "Wir treffen uns auf Montag.", "Wir treffen uns in Montag."],
+        "correctAnswer": "Wir treffen uns am Montag.",
+        "explanation": "Wochentage stehen mit 'an + Dativ' → am (= an + dem) Montag. 'auf Montag' ist ein häufiger Fehler."
+      },
+      {
+        "type": "mcq",
+        "prompt": "Ich kaufe das Geschenk ___ meine Mutter.",
+        "options": ["für", "mit", "bei"],
+        "correctAnswer": "für",
+        "explanation": "'für' ist eine feste Akkusativpräposition. 'mit' und 'bei' verlangen Dativ und passen hier inhaltlich nicht."
       }
     ],
     "orderIndex": 7
