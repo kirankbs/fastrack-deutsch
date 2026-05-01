@@ -1,0 +1,95 @@
+<speak>
+  <!-- C1 Mock 09 — Teil 3 (10 MCQ-3opt, akademischer Vortrag, playCount=2) -->
+  <!-- CR-11: NO gap cues — continuous lecture, MCQ format (CR-12) -->
+  <!-- Speaker: de-DE-Wavenet-D (male) — academic lecturer, wissenschaftlich register -->
+  <!-- Announcer: de-DE-Wavenet-C (female) -->
+  <!-- C1 spec: natural speed 1.0x, played TWICE, no internal gap signals -->
+  <!-- 10-second initial pause for candidates to read questions before audio begins -->
+  <!-- Topic: Philosophische Grundlagen der Identitätspolitik -->
+
+  <break time="3s"/>
+
+  <voice name="de-DE-Wavenet-C">
+    <prosody rate="1.0">
+      Hörverstehen, Teil 3. Sie hören einen akademischen Vortrag zum Thema
+      Philosophische Grundlagen der Identitätspolitik.
+      Lesen Sie zuerst die zehn Fragen in Ihrem Testheft.
+      Was ist richtig? Kreuzen Sie an: a, b oder c.
+      Sie hören den Vortrag zweimal.
+    </prosody>
+    <break time="10s"/>
+  </voice>
+
+  <!-- VORTRAG BEGINNT — KEINE INTERNEN PAUSENSIGNALE -->
+  <voice name="de-DE-Wavenet-D">
+    <prosody rate="1.0">
+      Meine Damen und Herren, herzlich willkommen zu diesem Vortrag über die philosophischen Grundlagen
+      der Identitätspolitik — ein Thema, das in der öffentlichen Debatte oft emotional geführt wird,
+      aber einer nüchternen philosophischen Analyse zugänglich ist und sie auch verlangt.
+
+      Beginnen wir mit einem begrifflichen Klärungsversuch. Identitätspolitik — im engeren philosophischen
+      Sinne — bezeichnet politisches Handeln, das von gruppenspezifischen Erfahrungen ausgeht und
+      Anerkennung, Gleichstellung oder Schutz für die betreffende Gruppe anstrebt.
+      Der Begriff hat eine emanzipatorische Geschichte: Ursprünglich in der US-amerikanischen Bürgerrechtsbewegung
+      geprägt, bezeichnete er den Rückgriff auf geteilte Erfahrungen als Grundlage kollektiven politischen Handelns.
+      Heute wird er in sehr unterschiedlichen — teils gegensätzlichen — politischen Kontexten verwendet,
+      was erhebliche Begriffsverwirrung erzeugt.
+
+      Die philosophische Debatte darüber ist älter als der Begriff selbst.
+      Sie lässt sich auf den Streit zwischen liberalen und kommunitaristischen Theorien zurückführen,
+      der in den 1980er Jahren durch Denker wie John Rawls auf der liberalen Seite
+      und Michael Sandel sowie Charles Taylor auf der kommunitaristischen Seite ausgetragen wurde.
+      Rawls versuchte, Gerechtigkeitsprinzipien zu entwickeln, die unabhängig von partikularen
+      Gruppenidentitäten und Lebenskonzeptionen gelten sollen — das berühmte Konzept des Schleiers des Nichtwissens.
+      Sandel und Taylor hielten dagegen, dass ein derart abstraktes Subjekt philosophisch unhaltbar sei:
+      Wir sind niemals identitätslose Wesen — wir sind immer schon in Gemeinschaft, Sprache und Tradition eingebettet.
+
+      Für die heutige Identitätsdebatte folgt daraus eine zentrale Frage: Welche Identitätsmerkmale sind
+      politisch relevant — und warum? Eine wichtige Antwort liefern Anerkennungstheorien.
+      Axel Honneth unterscheidet drei Anerkennungssphären: Liebe im Nahbereich, Recht im staatlich-institutionellen
+      Bereich und Solidarität im sozialen Wertschätzungsbereich.
+      Marginalisierung im politischen Sinne bezeichnet zumeist den Ausschluss aus der zweiten oder dritten Sphäre —
+      also fehlende rechtliche Gleichstellung oder mangelnde soziale Wertschätzung.
+      Missanerkennung in einer dieser Sphären konstituiert, so Honneth, eine eigenständige Form sozialer Ungerechtigkeit.
+
+      Besondere philosophische Schärfe gewinnt die Debatte durch Miranda Frickers Konzept der epistemischen Ungerechtigkeit.
+      Fricker unterscheidet zwei Typen: Testimoniale Ungerechtigkeit bezeichnet den Umstand, dass einer Person
+      aufgrund von Vorurteilen gegenüber ihrer sozialen Gruppe weniger Glaubwürdigkeit als Zeugin
+      zugesprochen wird, als sie verdient.
+      Hermeneutische Ungerechtigkeit liegt vor, wenn soziale Gruppen strukturell benachteiligt sind, weil für
+      ihre Erfahrungen keine angemessenen kollektiven Verstehens- und Interpretationsressourcen verfügbar sind.
+      Frickers Analyse zeigt, dass Ungerechtigkeit nicht nur materielle und rechtliche, sondern auch epistemische
+      Dimensionen hat — und dass diese epistemischen Ungerechtigkeiten oft kaum sichtbar, aber tiefgreifend wirkend sind.
+
+      Ein zentrales Spannungsfeld der philosophischen Diskussion ist das Verhältnis von Anerkennung und Umverteilung.
+      Nancy Fraser hat diesen Dualismus präzise analysiert: Politiken der Umverteilung — also materielle
+      Gleichstellungsmaßnahmen — und Politiken der Anerkennung — also symbolische Sichtbarkeit und Wertschätzung —
+      adressieren unterschiedliche Dimensionen von Ungerechtigkeit.
+      Fehler entstehen, wenn eine Dimension als ausreichend behandelt wird, ohne die andere zu berücksichtigen.
+      Eine vollständige Gerechtigkeitstheorie, so Fraser, muss beide integrieren.
+
+      Schließlich möchte ich auf das Konzept der strukturellen Verantwortung eingehen.
+      In der politischen Philosophie von Iris Marion Young wird argumentiert, dass strukturelle Ungerechtigkeit
+      eine eigene Kategorie politischer Verantwortung erzeugt.
+      Diese unterscheidet sich von moralischer Schuld: Schuld setzt intentionales schädigendes Handeln voraus;
+      strukturelle Verantwortung setzt nur voraus, dass man in strukturellen Prozessen handelt, die
+      Benachteiligung produzieren — unabhängig von der eigenen Absicht.
+      Young nennt dies das social connection model: Wer in Strukturen eingebettet ist, die Ungerechtigkeit
+      erzeugen, trägt eine politische Verantwortung, auf ihre Transformation hinzuarbeiten.
+      Das ist kein Schuldspruch, sondern eine politische Mobilisierung.
+
+      Zusammenfassend lässt sich sagen: Die Identitätsdebatte ist philosophisch reich und wichtig.
+      Sie berührt Grundfragen der Ethik — Würde, Gerechtigkeit, Verantwortung — und verlangt,
+      dass diese Grundfragen nicht abstrakt, sondern in konkreten sozialen Kontexten gestellt werden.
+      Wer die Debatte auf rhetorischen Kulturkampf reduziert, verpasst das Substanzielle.
+      Und wer sie philosophisch ernst nimmt, kommt nicht umhin, die eigene Position —
+      und die strukturellen Bedingungen, unter denen man sie einnimmt — zu reflektieren.
+      Ich danke Ihnen für Ihre Aufmerksamkeit.
+    </prosody>
+  </voice>
+  <break time="3s"/>
+
+  <voice name="de-DE-Wavenet-C">
+    <prosody rate="1.0">Das ist das Ende von Teil 3 und das Ende des Hörverstehens.</prosody>
+  </voice>
+</speak>
