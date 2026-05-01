@@ -26,9 +26,9 @@ describe('loadGrammar shim — no fs, static data only', () => {
     }
   });
 
-  it('B1 returns 22 topics sorted by orderIndex', () => {
+  it('B1 returns 23 topics sorted by orderIndex', () => {
     const topics = loadGrammar('B1');
-    expect(topics).toHaveLength(22);
+    expect(topics).toHaveLength(23);
     for (let i = 0; i < topics.length - 1; i++) {
       expect(topics[i].orderIndex).toBeLessThan(topics[i + 1].orderIndex);
     }
