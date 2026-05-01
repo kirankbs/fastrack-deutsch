@@ -1,0 +1,168 @@
+<speak>
+  <!-- C1 mock_03 Hörverstehen Teil 1 -->
+  <!-- 8 speakers, 8 unique voices (4 male, 4 female), CR-9 compliant -->
+  <!-- Thema: Medienwandel durch Künstliche Intelligenz -->
+
+  <voice name="de-DE-Wavenet-F">
+    <prosody rate="0.95">
+      Sie hören jetzt acht Personen, die sich zum Thema Medienwandel durch Künstliche Intelligenz äußern.
+      Hören Sie jede Aussage einmal. Ordnen Sie dann jeder Person die passende Zusammenfassung zu.
+      Sie haben nun dreißig Sekunden Zeit, die Zusammenfassungen zu lesen.
+    </prosody>
+  </voice>
+
+  <break time="30s"/>
+
+  <!-- Person 1: Chefredakteurin (female voice: Wavenet-A) -->
+  <voice name="de-DE-Wavenet-A">
+    <prosody rate="0.95">
+      Person 1.
+      <break time="1s"/>
+      Ich arbeite seit zwanzig Jahren im Journalismus und habe viele technologische Umbrüche erlebt.
+      Was mich bei Künstlicher Intelligenz wirklich begeistert, ist nicht die Fähigkeit, Texte zu schreiben —
+      das tut sie bisher eher mittelmäßig für komplexe Themen.
+      Was mich begeistert, ist das Potenzial zur Entlastung: Wenn Algorithmen Datenberge sichten,
+      Agenturmeldungen vorsortieren und Metadaten auswerten, dann haben meine Kolleginnen und Kollegen
+      endlich wieder Zeit für das, was Journalismus eigentlich ausmacht —
+      die investigative Tiefenrecherche, das Gespräch mit Quellen, das Aufdecken von Missständen.
+      Das ist meine Hoffnung für diese Technologie.
+    </prosody>
+  </voice>
+
+  <break time="5s"/>
+
+  <!-- Person 2: Gewerkschaftsvertreter (male voice: Wavenet-B) -->
+  <voice name="de-DE-Wavenet-B">
+    <prosody rate="0.95">
+      Person 2.
+      <break time="1s"/>
+      Ich vertrete rund dreitausend Medienschaffende in unserem Verband, und ich sage Ihnen:
+      Die Stimmung ist besorgt — zu Recht. Verlage sehen in KI vor allem ein Sparpotenzial.
+      Warum fünf Redakteure beschäftigen, wenn eine Software für einen Bruchteil der Kosten
+      Standardnachrichten produziert? Das klingt zynisch, aber genau das passiert bereits.
+      In den USA wurden ganze Lokalredaktionen abgebaut, nachdem KI-Systeme eingeführt wurden.
+      Wir brauchen tarifliche Regelungen, die den Einsatz dieser Systeme an Beschäftigungsgarantien knüpfen.
+      Sonst verlieren wir die Basis des Qualitätsjournalismus: die Menschen, die ihn machen.
+    </prosody>
+  </voice>
+
+  <break time="5s"/>
+
+  <!-- Person 3: Faktenchecker (male voice: Wavenet-D) -->
+  <voice name="de-DE-Wavenet-D">
+    <prosody rate="0.95">
+      Person 3.
+      <break time="1s"/>
+      In meiner täglichen Arbeit beim Faktencheck-Desk ist KI inzwischen unverzichtbar.
+      Wir bekommen täglich Hunderte von Anfragen über verdächtige Aussagen, virale Posts,
+      manipulierte Bilder. Ohne automatisierte Vorabsortierung kämen wir nie durch.
+      Unsere KI-Tools scannen Bilder auf Metadaten, vergleichen Texte mit bekannten Falschmeldungen
+      und priorisieren die dringlichsten Fälle für unser Team.
+      Das macht uns schneller — und Geschwindigkeit ist beim Faktencheck entscheidend,
+      weil eine Falschmeldung nach zwölf Stunden bereits Hunderttausende erreicht hat.
+      Die eigentliche Entscheidung, ob etwas wahr oder falsch ist, treffen nach wie vor Menschen.
+      Aber ohne KI wäre diese Arbeit schlicht nicht mehr skalierbar.
+    </prosody>
+  </voice>
+
+  <break time="5s"/>
+
+  <!-- Person 4: Informatikprofessorin (female voice: Wavenet-C) -->
+  <voice name="de-DE-Wavenet-C">
+    <prosody rate="0.95">
+      Person 4.
+      <break time="1s"/>
+      Was mich als Forscherin am meisten beschäftigt, ist das Problem der algorithmischen Voreingenommenheit.
+      Sprachmodelle werden auf riesigen Mengen menschlich erzeugter Texte trainiert —
+      und diese Texte spiegeln die Vorurteile, Lücken und Machtstrukturen unserer Gesellschaft wider.
+      Wenn ein Nachrichtenalgorithmus bestimmte Bevölkerungsgruppen, Themen oder Perspektiven
+      systematisch unterrepräsentiert, dann reproduziert er historische Ungleichgewichte
+      in einem Maßstab und einer Geschwindigkeit, die weit über menschliche Redaktionsarbeit hinausgehen.
+      Das ist kein hypothetisches Problem — wir messen es bereits in Datensätzen.
+      Und solange die Branche das nicht ernst nimmt, bleibt KI im Journalismus eine Gerechtigkeitsfrage.
+    </prosody>
+  </voice>
+
+  <break time="5s"/>
+
+  <!-- Person 5: Medienpolitikerin (female voice: de-DE-Studio-B) -->
+  <voice name="de-DE-Studio-B">
+    <prosody rate="0.95">
+      Person 5.
+      <break time="1s"/>
+      Ich setze mich im Bundestag für eine gesetzliche Kennzeichnungspflicht ein —
+      und zwar ohne Ausnahmen für kommerzielle Plattformen.
+      Leserinnen und Leser haben ein Recht zu wissen, ob ein Text von einer menschlichen Redakteurin
+      oder einem Sprachmodell verfasst wurde. Das ist keine technische Spitzfindigkeit.
+      Das ist eine demokratische Grundvoraussetzung: informierte Meinungsbildung setzt voraus,
+      dass ich die Quelle und die Entstehungsweise einer Information beurteilen kann.
+      Freiwillige Selbstverpflichtungen der Verlage haben in den letzten Jahren gezeigt,
+      dass sie nicht ausreichen. Wir brauchen Recht, nicht Appell.
+    </prosody>
+  </voice>
+
+  <break time="5s"/>
+
+  <!-- Person 6: Erfahrener Redakteur (male voice: de-DE-Studio-C) -->
+  <voice name="de-DE-Studio-C">
+    <prosody rate="0.95">
+      Person 6.
+      <break time="1s"/>
+      Ich bin vorsichtig optimistisch, was KI betrifft — aber ich sehe in vielen Redaktionen
+      eine gefährliche Entwicklung: Die Chefetage beschließt den KI-Einsatz aus Kostengründen,
+      ohne ausreichend in Schulung und Kontrollprozesse zu investieren.
+      Das Ergebnis sind Artikel, die flüssig klingen, aber inhaltlich fehlerhaft sind.
+      KI halluziniert — das ist hinlänglich bekannt. Sie erfindet Zitate, falsche Daten, nicht existierende Quellen.
+      Wenn das von keiner erfahrenen Redakteurin mehr gegenlesen wird,
+      landet dieser Fehler in der Zeitung und im Internet. Die Konsequenzen für die Glaubwürdigkeit
+      können existenziell sein. Technologie ohne Qualitätskontrolle ist keine Lösung — sie ist ein Risiko.
+    </prosody>
+  </voice>
+
+  <break time="5s"/>
+
+  <!-- Person 7: Medienpädagogin (female voice: de-DE-Neural2-C) -->
+  <voice name="de-DE-Neural2-C">
+    <prosody rate="0.95">
+      Person 7.
+      <break time="1s"/>
+      Ich arbeite seit fünfzehn Jahren in der schulischen Medienbildung und bin überzeugt:
+      Die eigentliche Baustelle ist nicht die Technologie, sondern die Menschen, die sie nutzen.
+      Wir können Algorithmen so transparent machen wie wir wollen —
+      wenn Schülerinnen und Schüler nicht gelernt haben, Quellen zu hinterfragen,
+      Interessen hinter Texten zu erkennen und Widerspruch auszuhalten,
+      bringen auch die besten Regulierungsgesetze wenig.
+      Medienkompetenz muss ins Pflichtcurriculum — in der Grundschule beginnen und bis zum Abitur reichen.
+      Das ist aufwendiger und unbequemer als eine Gesetzgebung. Aber es ist nachhaltiger.
+    </prosody>
+  </voice>
+
+  <break time="5s"/>
+
+  <!-- Person 8: Freie Journalistin (male voice: de-DE-Neural2-B) -->
+  <voice name="de-DE-Neural2-B">
+    <prosody rate="0.95">
+      Person 8.
+      <break time="1s"/>
+      Ich bin seit acht Jahren freie Journalistin und arbeite für mehrere Redaktionen gleichzeitig.
+      Meine Perspektive ist vielleicht pragmatischer als die der anderen:
+      KI ist ein Werkzeug, kein Autor. Sie kann formulieren, aber nicht urteilen.
+      Sie kann Fakten kompilieren, aber nicht die ethische Frage stellen,
+      ob eine Geschichte veröffentlicht werden darf, weil sie jemandem schadet.
+      Sie kann keine Beziehung zu einer Quelle aufbauen, kein Vertrauen gewinnen,
+      keine moralische Verantwortung tragen.
+      Das sind zutiefst menschliche Fähigkeiten — und sie sind der Kern dessen,
+      was guten Journalismus von Inhaltsmasse unterscheidet.
+      Solange wir das nicht vergessen, sind Redakteure unersetzlich.
+    </prosody>
+  </voice>
+
+  <break time="3s"/>
+
+  <voice name="de-DE-Wavenet-F">
+    <prosody rate="0.95">
+      Sie hören die Aufnahme jetzt nicht noch einmal.
+      Tragen Sie nun Ihre Antworten in das Antwortblatt ein.
+    </prosody>
+  </voice>
+</speak>

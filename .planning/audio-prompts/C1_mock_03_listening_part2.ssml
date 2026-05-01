@@ -1,0 +1,244 @@
+<speak>
+  <!-- C1 mock_03 Hörverstehen Teil 2 -->
+  <!-- Radiointerview: Faktencheck-Journalismus im digitalen Zeitalter -->
+  <!-- Moderator: de-DE-Wavenet-B (male), Expertin: de-DE-Wavenet-C (female) -->
+
+  <voice name="de-DE-Wavenet-F">
+    <prosody rate="0.95">
+      Sie hören jetzt ein Radiointerview zum Thema Faktencheck-Journalismus im digitalen Zeitalter.
+      Entscheiden Sie bei jeder Aussage, ob sie richtig oder falsch ist.
+      Sie haben jetzt dreißig Sekunden Zeit, die Aussagen zu lesen.
+    </prosody>
+  </voice>
+
+  <break time="30s"/>
+
+  <voice name="de-DE-Wavenet-B">
+    <prosody rate="0.95">
+      Guten Abend und willkommen bei MediaWatch. Ich begrüße heute Dr. Miriam Schönefeld,
+      Leiterin des Faktencheck-Desks beim Recherchezentrum correctiv.org.
+      Frau Dr. Schönefeld, Faktenchecking boomt — aber hat die Branche tatsächlich mehr zu tun als früher?
+    </prosody>
+  </voice>
+
+  <break time="1s"/>
+
+  <voice name="de-DE-Wavenet-C">
+    <prosody rate="0.95">
+      Absolut. Die Zahlen sprechen für sich: Seit 2019 haben wir unsere bearbeiteten Fälle verdreifacht.
+      Das liegt nicht daran, dass wir mehr Personal hätten — das haben wir nicht.
+      Es liegt daran, dass die Menge an viralen Falschinformationen dramatisch gestiegen ist,
+      und damit auch der gesellschaftliche Druck, diese zu überprüfen.
+      Soziale Medien haben die Verbreitungsgeschwindigkeit von Falschmeldungen auf ein Niveau gebracht,
+      das wir vor zehn Jahren nicht für möglich gehalten hätten.
+    </prosody>
+  </voice>
+
+  <break time="1s"/>
+
+  <voice name="de-DE-Wavenet-B">
+    <prosody rate="0.95">
+      Helfen Ihnen dabei KI-Werkzeuge — und können diese Faktenprüfungen vielleicht bald automatisieren?
+    </prosody>
+  </voice>
+
+  <break time="1s"/>
+
+  <voice name="de-DE-Wavenet-C">
+    <prosody rate="0.95">
+      KI-Tools helfen uns erheblich bei der Vorabsortierung: Bilder auf Metadaten prüfen,
+      Texte mit bekannten Falschmeldungsdatenbanken abgleichen, Prioritäten setzen.
+      Aber automatisieren? Nein — und ich glaube, das wird so schnell auch nicht kommen.
+      Faktenchecking ist im Kern ein Akt der Kontextualisierung und Intentionsbeurteilung.
+      War eine Aussage zum Zeitpunkt der Äußerung wahr? Mit welcher Absicht wurde sie gemacht?
+      Welcher Kontext fehlt, der das Bild verändert? Das sind menschliche Urteilsleistungen.
+      KI kann Muster erkennen, aber nicht Bedeutung konstruieren.
+    </prosody>
+  </voice>
+
+  <break time="1s"/>
+
+  <voice name="de-DE-Wavenet-B">
+    <prosody rate="0.95">
+      Faktencheck ist kein nationales Phänomen mehr — macht internationale Zusammenarbeit Sinn?
+    </prosody>
+  </voice>
+
+  <break time="1s"/>
+
+  <voice name="de-DE-Wavenet-C">
+    <prosody rate="0.95">
+      Unbedingt. Wir sind Mitglied im International Fact-Checking Network, dem IFCN,
+      das rund hundert Organisationen in sechzig Ländern verbindet.
+      Wenn in Brasilien eine Falschmeldung über einen europäischen Politiker entsteht,
+      sind unsere Kolleginnen und Kollegen dort oft schneller dran als wir.
+      Über das Netzwerk können wir deren Erkenntnisse in Stunden übernehmen und adaptieren.
+      Das ist ein enormer Effizienzgewinn und hat schon mehrfach verhindert,
+      dass sich internationale Falschinformationskampagnen in Deutschland verankern konnten.
+    </prosody>
+  </voice>
+
+  <break time="1s"/>
+
+  <voice name="de-DE-Wavenet-B">
+    <prosody rate="0.95">
+      Gleichzeitig — erreichen Ihre Korrekturen wirklich die Menschen, die die Falschmeldung geglaubt haben?
+    </prosody>
+  </voice>
+
+  <break time="1s"/>
+
+  <voice name="de-DE-Wavenet-C">
+    <prosody rate="0.95">
+      Das ist ehrlich gesagt das größte strukturelle Problem unserer Branche.
+      Eine Falschmeldung, die viral geht, erreicht oft Millionen.
+      Die Korrektur dazu — selbst wenn sie gut gemacht ist — erreicht einen Bruchteil davon.
+      Studien zeigen: Menschen, die bereits an eine Falschaussage glauben,
+      suchen aktiv nach Bestätigung und meiden Widerspruch.
+      Wir kämpfen also nicht nur gegen die Falschaussage, sondern gegen psychologische Mechanismen.
+      Das frustriert, aber es macht die Arbeit nicht sinnlos — Korrekturen verlangsamen die Verbreitung
+      und verhindern, dass sich Falschinformation dauerhaft im kollektiven Gedächtnis festsetzt.
+    </prosody>
+  </voice>
+
+  <break time="1s"/>
+
+  <voice name="de-DE-Wavenet-B">
+    <prosody rate="0.95">
+      Wie finanziert sich Ihre Arbeit?
+    </prosody>
+  </voice>
+
+  <break time="1s"/>
+
+  <voice name="de-DE-Wavenet-C">
+    <prosody rate="0.95">
+      Wir haben ein bewusst diversifiziertes Finanzierungsmodell.
+      Stiftungsmittel machen den größten Teil aus — vor allem von deutschen und europäischen Pressefreiheitsstiftungen.
+      Dazu kommen Mitgliedsbeiträge unserer Leserinnen und Leser, Kooperationen mit Plattformen
+      für spezifische Fact-Check-Projekte, und gelegentlich öffentliche Förderung für Bildungsprojekte.
+      Keine staatliche Finanzierung im eigentlichen Sinne — das wäre auch problematisch
+      für unsere Unabhängigkeit, gerade wenn es um staatliche Akteure geht.
+    </prosody>
+  </voice>
+
+  <break time="1s"/>
+
+  <voice name="de-DE-Wavenet-B">
+    <prosody rate="0.95">
+      Werden Faktenchecker selbst angegriffen? Ich denke an Desinformationskampagnen gegen Ihre Organisation.
+    </prosody>
+  </voice>
+
+  <break time="1s"/>
+
+  <voice name="de-DE-Wavenet-C">
+    <prosody rate="0.95">
+      Ja, und das ist ein relativ neues Phänomen, das wir sehr ernst nehmen.
+      Akteure, die von unserer Arbeit betroffen sind, reagieren zunehmend damit,
+      koordinierte Kampagnen zu starten, die unsere Glaubwürdigkeit und Unabhängigkeit in Frage stellen.
+      Es werden falsche Screenshots verbreitet, Mitarbeiterinnen persönlich bedroht,
+      und Beschwerden an Aufsichtsbehörden eingereicht, um uns administrativ zu belasten.
+      Wir haben inzwischen eine interne Protokollgruppe dafür und arbeiten mit Anwälten zusammen.
+      Faktenchecker brauchen selbst Schutz — das haben viele lange unterschätzt.
+    </prosody>
+  </voice>
+
+  <break time="1s"/>
+
+  <voice name="de-DE-Wavenet-B">
+    <prosody rate="0.95">
+      Wie reagieren die großen Plattformen auf das Problem — reicht das, was sie tun?
+    </prosody>
+  </voice>
+
+  <break time="1s"/>
+
+  <voice name="de-DE-Wavenet-C">
+    <prosody rate="0.95">
+      Nein. Das ist meine klare Einschätzung, und ich glaube, das teilen die meisten in unserer Branche.
+      Plattformen haben in den letzten zwei Jahren Moderationsprogramme reduziert,
+      Verträge mit Faktencheckern nicht verlängert und auf Selbstregulierung verwiesen —
+      die bisher nicht funktioniert hat. Es geht am Ende um Geschäftsinteressen:
+      Kontroverse Inhalte erzeugen Engagement, Engagement erzeugt Werbeeinnahmen.
+      Desinformation ist leider oft sehr engagementstark. Ohne regulatorischen Druck — wie den DSA —
+      haben Plattformen zu wenig Anreiz, ernsthaft gegenzusteuern.
+    </prosody>
+  </voice>
+
+  <break time="1s"/>
+
+  <voice name="de-DE-Wavenet-B">
+    <prosody rate="0.95">
+      Letzte Frage: Was geben Sie Schulen mit, wenn es um Medienkompetenz geht?
+    </prosody>
+  </voice>
+
+  <break time="1s"/>
+
+  <voice name="de-DE-Wavenet-C">
+    <prosody rate="0.95">
+      Medienkompetenz ist keine Ergänzung zum Faktenchecking — sie ist seine notwendige Grundlage.
+      Wenn Schülerinnen und Schüler früh lernen, Quellen zu hinterfragen, Interessen hinter Aussagen zu erkennen
+      und mit Unsicherheit umzugehen, sind sie viel resistenter gegen Desinformation
+      als Menschen, die auf externe Korrekturen angewiesen bleiben.
+      Skandinavien macht es vor: Finnland hat Medienkompetenz seit Jahren ins Pflichtcurriculum integriert
+      und schneidet in internationalen Vergleichen bei Desinformationsresistenz sehr gut ab.
+      Das sollte uns als Modell dienen.
+    </prosody>
+  </voice>
+
+  <break time="1s"/>
+
+  <voice name="de-DE-Wavenet-B">
+    <prosody rate="0.95">
+      Werden politische Faktenchecks von Politikern akzeptiert — oder eher angezweifelt?
+    </prosody>
+  </voice>
+
+  <break time="1s"/>
+
+  <voice name="de-DE-Wavenet-C">
+    <prosody rate="0.95">
+      Leider ist Akzeptanz alles andere als selbstverständlich.
+      Mehrere prominente Fälle haben gezeigt, dass Politiker — quer durch das Parteienspektrum —
+      Faktenchecks als politisch motiviert, als Zensur oder als Meinungsmache abgetan haben.
+      Das ist strategisch klug aus Sicht derjenigen, die überführt wurden —
+      denn wenn die Glaubwürdigkeit des Faktencheckers in Frage steht,
+      kann man die eigentliche Falschaussage umlenken.
+      Für unsere Arbeit bedeutet das: Wir müssen methodisch nicht nur korrekt, sondern wasserdicht sein.
+      Jede Unklarheit in unserer Argumentation wird ausgenutzt. Das ist anspruchsvoll, aber es spornt an.
+    </prosody>
+  </voice>
+
+  <break time="1s"/>
+
+  <voice name="de-DE-Wavenet-B">
+    <prosody rate="0.95">
+      Und trotzdem: Wie blicken Sie in die Zukunft? Ist die Lage handhabbar?
+    </prosody>
+  </voice>
+
+  <break time="1s"/>
+
+  <voice name="de-DE-Wavenet-C">
+    <prosody rate="0.95">
+      Ich bin vorsichtig optimistisch. Nicht weil das Problem kleiner wird —
+      es wird größer, mit KI-generierten Deepfakes und synthetischen Stimmen.
+      Aber ich sehe, dass Gesellschaft, Institutionen und Zivilgesellschaft zunehmend zusammenwachsen.
+      Bildungseinrichtungen nehmen Medienkompetenz ernst, Regulatoren handeln, Netzwerke wachsen.
+      Kein einzelner Akteur kann das allein bewältigen. Aber wenn alle an einem Strang ziehen,
+      dann ist die Desinformationsproblematik handhabbar — nicht lösbar, aber handhabbar.
+      Das muss reichen für jetzt.
+    </prosody>
+  </voice>
+
+  <break time="2s"/>
+
+  <voice name="de-DE-Wavenet-F">
+    <prosody rate="0.95">
+      Das Interview ist jetzt beendet. Sie hören die Aufnahme nicht noch einmal.
+      Tragen Sie nun Ihre Antworten in das Antwortblatt ein.
+    </prosody>
+  </voice>
+</speak>

@@ -1,0 +1,153 @@
+<speak>
+  <!-- C1 mock_03 Hörverstehen Teil 3 -->
+  <!-- Vortrag: KI-Ethik in Redaktionen -->
+  <!-- Vortragende: de-DE-Wavenet-A (female, academic register) -->
+  <!-- CR-11 compliant: NO explicit "Tragen Sie in Lücke X ein" cues -->
+  <!-- Signposting only: Abschnitt 1, 2, 3, 4, 5 -->
+
+  <voice name="de-DE-Wavenet-F">
+    <prosody rate="0.95">
+      Sie hören jetzt einen Vortrag über KI-Ethik in Redaktionen.
+      Der Vortrag ist in fünf Abschnitte gegliedert.
+      Wählen Sie bei jeder Frage die richtige Antwort.
+      Sie haben dreißig Sekunden Zeit, die Fragen zu lesen.
+    </prosody>
+  </voice>
+
+  <break time="30s"/>
+
+  <voice name="de-DE-Wavenet-A">
+    <prosody rate="0.93">
+
+      Guten Abend. Ich freue mich, heute über ein Thema sprechen zu dürfen,
+      das viele von Ihnen täglich bewegt — auch wenn wir es nicht immer so nennen:
+      die ethischen Fragen, die entstehen, wenn Künstliche Intelligenz Einzug in Redaktionen hält.
+
+      <break time="2s"/>
+
+      Abschnitt eins: KI in Redaktionen — Status quo.
+
+      <break time="1s"/>
+
+      Lassen Sie mich mit einem Befund beginnen, der vielleicht überrascht:
+      KI ist in Nachrichtenredaktionen längst keine Zukunftsvision mehr.
+      Die Automatisierung von Nachrichtentexten — insbesondere für Börsennachrichten und Agenturmeldungen —
+      ist in zahlreichen deutschen und internationalen Medienhäusern bereits gelebte Praxis.
+      Agenturen wie AP und Reuters nutzen seit Jahren Systeme,
+      die Quartalsergebnisse von Unternehmen in Sekundenschnelle in Nachrichtentexte übersetzen.
+      Hinzu kommt ein zweites Anwendungsfeld: Personalisierungsalgorithmen,
+      die entscheiden, welche Artikel jede Nutzerin und jeder Nutzer in der App oder auf der Website sieht.
+      Und drittens: KI-gestützte Bildsuche und automatische Videotranskription,
+      die Redaktionsabläufe in Archiv und Produktion erheblich beschleunigen.
+      Wir sprechen also nicht über Science-Fiction. Wir sprechen über den Redaktionsalltag — heute.
+
+      <break time="3s"/>
+
+      Abschnitt zwei: Die ethischen Kernfragen.
+
+      <break time="1s"/>
+
+      Mit dieser technologischen Realität entstehen drei ethische Kernfragen, die ich Ihnen vorstellen möchte.
+
+      Die erste: Transparenz. Wer muss wissen, dass ein Text KI-generiert ist?
+      Reicht es, wenn die Redaktion es weiß — oder hat die Leserin, der Leser ein Recht darauf,
+      die Entstehungsweise der Information zu kennen, die ihr politisches Urteil mitformt?
+      Ich tendiere klar zur zweiten Position. Informierte Meinungsbildung setzt voraus,
+      dass ich die Quelle eines Textes beurteilen kann — dazu gehört auch sein Entstehungsweg.
+
+      Die zweite Frage: Verantwortung. Wer haftet, wenn ein KI-generierter Artikel
+      eine falsche Tatsachenbehauptung enthält — die Chefredaktion, der Verlag, der Entwickler des Systems?
+      Das juristische Terrain ist in Europa noch weitgehend unerschlossen.
+      Der AI Act der EU hat Haftungsrahmen skizziert, aber die praktische Anwendung auf den Journalismus
+      wird noch Gerichte beschäftigen.
+
+      Die dritte Frage: Autonomie. Wie viel redaktionelle Entscheidungsgewalt verbleibt beim Menschen,
+      wenn Algorithmen bestimmen, welche Themen priorisiert werden?
+      Diese Frage hat strukturelle Konsequenzen: Wenn Klickdaten die Themenwahl steuern,
+      verschieben sich Redaktionsprinzipien von Relevanz zu Reichweite. Das ist kein neutraler Vorgang.
+
+      <break time="3s"/>
+
+      Abschnitt drei: Bias und Fairness.
+
+      <break time="1s"/>
+
+      Ein Thema, das in der Branchendebatte noch zu wenig Aufmerksamkeit erhält, ist das der algorithmischen Voreingenommenheit.
+      Sprachmodelle werden auf menschlich erzeugten Textmengen trainiert —
+      und diese Texte spiegeln historisch gewachsene Ungleichgewichte wider.
+      Bestimmte Bevölkerungsgruppen sind in journalistischen Textkorpora unterrepräsentiert,
+      bestimmte Perspektiven fehlen systematisch, bestimmte Stereotypen werden sprachlich reproduziert.
+      Ein Nachrichtenalgorithmus, der auf solchen Daten trainiert wird,
+      reproduziert diese Schieflage — und tut dies in einem Ausmaß und mit einer Geschwindigkeit,
+      die menschliche Redaktionsarbeit weit übersteigt.
+      Fairness in KI-Systemen ist keine technische Nebenfrage.
+      Sie ist eine journalistische Kernfrage — und sie erfordert strukturierte Audits,
+      diverse Entwicklungsteams und regelmäßige externe Evaluation.
+
+      <break time="3s"/>
+
+      Abschnitt vier: Regulierungsansätze im Vergleich.
+
+      <break time="1s"/>
+
+      Wie gehen verschiedene Gesellschaften mit diesen Fragen um?
+      In Europa haben wir mit dem Digital Services Act und dem Artificial Intelligence Act
+      einen risikobasierten Regulierungsrahmen geschaffen.
+      KI-Systeme werden nach ihrem Risikopotenzial klassifiziert,
+      und besonders risikoreiche Anwendungen — etwa solche, die öffentliche Meinungsbildung beeinflussen —
+      unterliegen strengeren Anforderungen.
+      Das ist ein konzeptionell überzeugender Ansatz, dessen Wirkung in der Praxis
+      noch nachzuweisen ist.
+
+      In den USA dominiert weiterhin ein Selbstregulierungsparadigma.
+      Staatliche Eingriffe in Plattformarchitekturen werden verfassungsrechtlich sensibel diskutiert,
+      Redefreiheitsargumente begrenzen den Handlungsspielraum regulatorisch.
+      In der Praxis bedeutet das: weniger Verbindlichkeit, mehr Brancheninitiative —
+      mit entsprechend uneinheitlichen Ergebnissen.
+
+      Auf internationaler Ebene haben die UNESCO-Empfehlungen zur KI-Ethik von 2021
+      wichtige Prinzipien gesetzt: Transparenz, Inklusivität, Rechenschaftspflicht.
+      Sie sind nicht bindend, aber sie formulieren einen Werterahmen,
+      auf den sich zivilgesellschaftliche Akteure beziehen können.
+
+      <break time="3s"/>
+
+      Abschnitt fünf: Ausblick — menschliche Kernkompetenzen im KI-Zeitalter.
+
+      <break time="1s"/>
+
+      Ich möchte mit einer These schließen, die ich für zentral halte:
+      Die wichtigste Antwort auf die Herausforderungen, die ich beschrieben habe,
+      liegt nicht in besserer Technologie allein — sie liegt in der Stärkung menschlicher Kernkompetenzen.
+
+      Erstens: ethisches Urteilsvermögen und die Fähigkeit zur Kontextualisierung.
+      KI kann Muster erkennen, aber sie kann nicht urteilen, ob eine Geschichte veröffentlicht werden darf,
+      weil sie einer schutzwürdigen Quelle schaden würde.
+      Diese Entscheidung ist und bleibt menschlich.
+
+      Zweitens: Empathie in der Quellenarbeit.
+      Vertrauen zwischen Journalistinnen und Quellen entsteht durch menschliche Beziehung —
+      ein Sprachmodell kann diese Beziehung nicht ersetzen, sie nicht aufbauen, sie nicht aufrechterhalten.
+
+      Drittens: demokratische Rechenschaftspflicht als Berufsidentität.
+      Journalismus ist nicht nur Informationsdienstleistung — er ist demokratischer Wachhund.
+      Diese Rolle setzt ein professionelles Ethos voraus, das durch keine Automatisierung delegiert werden kann.
+
+      Wenn wir diese Kompetenzen in Ausbildung, Redaktionskultur und Berufsethik stärken,
+      dann kann KI das sein, was sie sein sollte: ein leistungsfähiges Werkzeug
+      im Dienst eines Journalismus, der seiner demokratischen Verantwortung gerecht wird.
+
+      Ich danke Ihnen für Ihre Aufmerksamkeit.
+
+    </prosody>
+  </voice>
+
+  <break time="2s"/>
+
+  <voice name="de-DE-Wavenet-F">
+    <prosody rate="0.95">
+      Der Vortrag ist jetzt beendet. Sie hören die Aufnahme nicht noch einmal.
+      Tragen Sie nun Ihre Antworten in das Antwortblatt ein.
+    </prosody>
+  </voice>
+</speak>
