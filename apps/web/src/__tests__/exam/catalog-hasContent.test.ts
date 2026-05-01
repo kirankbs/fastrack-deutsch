@@ -20,16 +20,32 @@ describe('catalog hasContent integrity', () => {
     }
   });
 
-  it('all 50 currently-shipped mocks have hasContent: true', () => {
-    const missing = MOCK_EXAM_CATALOG.filter((e) => !e.hasContent);
-    expect(missing, 'These catalog entries claim no JSON but should have content').toHaveLength(0);
+  it('all currently-shipped mocks have hasContent: true (B1 11–15 are planned stubs)', () => {
+    // B1 mocks 11–15 are catalog stubs for the WS-A wave 6–8 new mocks.
+    // They intentionally declare hasContent: false until their JSON is committed.
+    const unexpectedMissing = MOCK_EXAM_CATALOG.filter(
+      (e) => !e.hasContent && !e.id.match(/^B1_mock_(1[1-5])$/),
+    );
+    expect(
+      unexpectedMissing,
+      'These catalog entries claim no JSON but should have content',
+    ).toHaveLength(0);
   });
 
-  it('hasContent is true for all entries in every level', () => {
+  it('B1 mocks 11–15 are declared as planned (hasContent: false)', () => {
+    const plannedB1 = MOCK_EXAM_CATALOG.filter((e) => e.id.match(/^B1_mock_(1[1-5])$/));
+    expect(plannedB1).toHaveLength(5);
+    for (const entry of plannedB1) {
+      expect(entry.hasContent, `${entry.id} should be planned (hasContent: false)`).toBe(false);
+    }
+  });
+
+  it('hasContent is true for all shipped entries in every level', () => {
+    // B1 has 5 planned stubs (11–15) — skip those; all others must be true.
     for (const level of getAvailableLevels()) {
       const mocks = getMocksForLevel(level);
-      const noContent = mocks.filter((m) => !m.hasContent);
-      expect(noContent, `Level ${level} has entries with hasContent: false`).toHaveLength(0);
+      const noContent = mocks.filter((m) => !m.hasContent && !m.id.match(/^B1_mock_(1[1-5])$/));
+      expect(noContent, `Level ${level} has unexpected entries with hasContent: false`).toHaveLength(0);
     }
   });
 });

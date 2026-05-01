@@ -133,17 +133,25 @@ describe('ExamListPage — catalog-driven, no fs at request time', () => {
     expect(anchors.length).toBe(10);
   });
 
+  // B1 has 15 catalog entries (10 shipped + 5 planned stubs for WS-A waves 6–8).
+  // Other levels have 10 entries, all shipped.
+  const levelCardCounts: Record<string, number> = { B1: 15 };
+  const levelComingSoonCounts: Record<string, number> = { B1: 5 };
+
   for (const lvl of getAvailableLevels()) {
-    it(`?level=${lvl} renders 10 cards, all with content`, async () => {
+    const totalCards = levelCardCounts[lvl] ?? 10;
+    const comingSoonCount = levelComingSoonCounts[lvl] ?? 0;
+
+    it(`?level=${lvl} renders ${totalCards} cards (${totalCards - comingSoonCount} with content, ${comingSoonCount} coming-soon)`, async () => {
       await renderPage(lvl);
       const grid = screen.getByTestId('mock-card-grid');
       const cards = grid.querySelectorAll(`[data-testid^="mock-card-${lvl}_mock_"]`);
-      expect(cards.length).toBe(10);
-      // None should be coming-soon (which renders as div not a).
+      expect(cards.length).toBe(totalCards);
+      // coming-soon cards render as <div> not <a>
       const comingSoon = grid.querySelectorAll(
         `div[data-testid^="mock-card-${lvl}_mock_"]`,
       );
-      expect(comingSoon.length).toBe(0);
+      expect(comingSoon.length).toBe(comingSoonCount);
     });
   }
 
