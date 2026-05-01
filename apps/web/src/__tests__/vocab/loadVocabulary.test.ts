@@ -30,10 +30,34 @@ describe('loadVocabulary shim — no fs, static data only', () => {
     expect(words.length).toBeGreaterThan(0);
   });
 
-  it('C1 returns 2322 vocabulary words (Phase 1b: +193 Sprache+Geschichte #183)', async () => {
+  it('C1 returns 2722 vocabulary words (Phase 1b: +300 Recht #179, +300 Gesundheit #180, +400 Soziales #182, +193 Sprache+Geschichte #183)', async () => {
     const words = await loadVocabulary('C1');
     expect(Array.isArray(words)).toBe(true);
-    expect(words).toHaveLength(2322);
+    expect(words).toHaveLength(2722);
+  });
+
+  it('C1 bundle 4 — IDs 2430-2829 are present and sequential', async () => {
+    const words = await loadVocabulary('C1');
+    const b4 = words.filter((w) => w.id >= 2430 && w.id <= 2829);
+    expect(b4).toHaveLength(400);
+    const ids = b4.map((w) => w.id).sort((a, b) => a - b);
+    expect(ids[0]).toBe(2430);
+    expect(ids[ids.length - 1]).toBe(2829);
+  });
+
+  it('C1 bundle 4 — no entries in B3 reserved range (2130-2429)', async () => {
+    const words = await loadVocabulary('C1');
+    const b3Range = words.filter((w) => w.id >= 2130 && w.id <= 2429);
+    expect(b3Range).toHaveLength(0);
+  });
+
+  it('C1 bundle 4 — Soziales topic coverage', async () => {
+    const words = await loadVocabulary('C1');
+    const b4 = words.filter((w) => w.id >= 2430 && w.id <= 2829);
+    const topics = new Set(b4.map((w) => w.topic));
+    expect(topics.has('Gesellschaft')).toBe(true);
+    expect(topics.has('Politik und Internationale Beziehungen')).toBe(true);
+    expect(topics.has('Philosophie und Ethik')).toBe(true);
   });
 
   it('unknown level returns empty array', async () => {
