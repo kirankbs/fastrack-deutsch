@@ -61,12 +61,13 @@ describe('ListeningPage — static data, no fs at request time', () => {
     await expect(getMockExamOrNotFound('XX_mock_01')).rejects.toThrow('NEXT_NOT_FOUND');
   });
 
-  it('generateStaticParams returns 50 entries for listening (all 5 levels × 10 mocks)', () => {
-    // Mirrors the generateStaticParams function in the listening page
+  it('generateStaticParams returns 55 entries for listening (B1 now has 15 catalog entries)', () => {
+    // Mirrors the generateStaticParams function in the listening page.
+    // B1 has 15 entries (10 shipped + 5 planned stubs); total catalog = 55.
     const params = MOCK_EXAM_CATALOG.map((entry) => ({ mockId: entry.id }));
-    expect(params).toHaveLength(50);
+    expect(params).toHaveLength(55);
     expect(params[0]).toEqual({ mockId: 'A1_mock_01' });
-    expect(params[49]).toEqual({ mockId: 'C1_mock_10' });
+    expect(params[54]).toEqual({ mockId: 'C1_mock_10' });
   });
 
   it('parseMockId rejects lowercase mockId', () => {

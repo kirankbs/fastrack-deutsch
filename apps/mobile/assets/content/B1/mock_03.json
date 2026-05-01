@@ -2,7 +2,7 @@
   "id": "B1_mock_03",
   "level": "B1",
   "title": "B1 Übungstest 3: Bildung",
-  "version": 1,
+  "version": 2,
   "sections": {
     "listening": {
       "totalTimeMinutes": 30,
@@ -56,7 +56,7 @@
               "questionText": "Der Online-Kurs für Grammatik dauert insgesamt sechs Wochen.",
               "options": ["richtig", "falsch"],
               "correctAnswer": "richtig",
-              "explanation": "Die Werbeansage informiert: 'Unser Intensivkurs 'Deutsche Grammatik' läuft über sechs Wochen, zweimal pro Woche jeweils 90 Minuten.' Die Dauer von sechs Wochen stimmt.",
+              "explanation": "Die Werbeansage informiert: 'Unser Intensivkurs Deutsche Grammatik läuft über sechs Wochen, zweimal pro Woche jeweils 90 Minuten.' Die Dauer von sechs Wochen stimmt.",
               "audioTimestamp": 9
             }
           ]
@@ -74,7 +74,7 @@
               "questionText": "Die Sendung handelt von digitalem Lernen an deutschen Schulen.",
               "options": ["richtig", "falsch"],
               "correctAnswer": "richtig",
-              "explanation": "Die Moderatorin beginnt: 'Guten Abend und herzlich willkommen bei 'Bildung heute' – unser Thema: Wie verändert der Einsatz von Tablets und Online-Lernplattformen den Schulalltag in Deutschland?' Digitales Lernen ist damit klar das Thema.",
+              "explanation": "Die Moderatorin beginnt: 'Guten Abend und herzlich willkommen bei Bildung heute – unser Thema: Wie verändert der Einsatz von Tablets und Online-Lernplattformen den Schulalltag in Deutschland?' Digitales Lernen ist damit klar das Thema.",
               "audioTimestamp": 7
             },
             {
@@ -170,66 +170,66 @@
             {
               "id": "B1_m03_L3_q1",
               "type": "mcq",
-              "questionText": "Warum ruft der Student bei der Studienberatung an?",
+              "questionText": "Wieso glaubt der Student, dass er für den Intensivkurs gut geeignet ist?",
               "options": [
-                "a) Er möchte sein Fach wechseln.",
-                "b) Er hat Fragen zum Auslandssemester.",
-                "c) Er braucht eine Bescheinigung für das Amt."
+                "a) Er hat das Niveau bereits bei einem anderen Kurs erreicht.",
+                "b) Er hat schon ein Jahr Berufserfahrung mit dem Thema.",
+                "c) Er lernt nach eigener Einschätzung sehr schnell."
               ],
-              "correctAnswer": "b",
-              "explanation": "Der Student sagt: 'Ich überlege, im nächsten Wintersemester nach Spanien zu gehen, und habe ein paar Fragen zu Erasmus – wann muss ich mich bewerben, und welche Unterlagen brauche ich?' Es geht also klar um ein Auslandssemester. Fachwechsel und Amt werden nicht erwähnt.",
+              "correctAnswer": "c",
+              "explanation": "[Distractor type: SELF-REPORT vs. EVIDENCE] Der Student sagt: 'Ich lerne neues Material normalerweise sehr schnell – das war schon in der Schule so, deshalb glaube ich, dass das Tempo des Intensivkurses kein Problem für mich wäre.' Er nennt also seine eigene Einschätzung (Lerngeschwindigkeit), nicht einen bereits erreichten Level (a) oder Berufserfahrung (b), die im Gespräch nicht erwähnt werden.",
               "audioTimestamp": 16
             },
             {
               "id": "B1_m03_L3_q2",
               "type": "mcq",
-              "questionText": "Worauf einigen sich die beiden Freundinnen zum Thema Sprachkurs?",
+              "questionText": "Was schlägt die Berufsberaterin der Schülerin vor, bevor sie sich endgültig entscheidet?",
               "options": [
-                "a) Sie besuchen gemeinsam einen Abendkurs an der VHS.",
-                "b) Sie lernen zu zweit mit einer App.",
-                "c) Sie nehmen Privatunterricht bei einer Muttersprachlerin."
+                "a) zuerst Gespräche mit Berufstätigen aus dem Wunschfeld zu führen",
+                "b) sofort eine Bewerbung abzuschicken",
+                "c) ein Praktikum in einem anderen Bereich zu machen"
               ],
               "correctAnswer": "a",
-              "explanation": "Am Ende sagt Nina: 'Okay, dann melden wir uns beide für den VHS-Abendkurs an, das ist günstiger und wir motivieren uns gegenseitig.' Die Freundin stimmt zu. App und Privatunterricht werden diskutiert, aber verworfen.",
+              "explanation": "[Distractor type: CAUSAL REVERSAL] Die Beraterin sagt: 'Ich empfehle Ihnen, sich vor einer endgültigen Entscheidung mit Menschen zu unterhalten, die in diesem Bereich tatsächlich arbeiten – die können Ihnen Dinge erzählen, die in keinem Prospekt stehen.' Damit rät sie zu Gesprächen mit Praktikern (a). Eine Bewerbung abzuschicken (b) kommt erst danach; ein Praktikum in einem anderen Bereich (c) ist das Gegenteil ihres Vorschlags.",
               "audioTimestamp": 53
             },
             {
               "id": "B1_m03_L3_q3",
               "type": "mcq",
-              "questionText": "Was empfiehlt die Lehrerin dem Vater im Elterngespräch?",
+              "questionText": "Was ärgert den Auszubildenden am meisten an seiner Situation im Betrieb?",
               "options": [
-                "a) seinen Sohn auf eine andere Schule zu schicken",
-                "b) zusätzlich einen privaten Nachhilfelehrer zu engagieren",
-                "c) mit dem Sohn regelmäßige Lernzeiten zu Hause zu vereinbaren"
+                "a) Die Kollegen erklären ihm wichtige Abläufe nicht.",
+                "b) Er bekommt kaum eigenverantwortliche Aufgaben.",
+                "c) Der Ausbilder hat selten Zeit für Feedbackgespräche."
               ],
-              "correctAnswer": "c",
-              "explanation": "Die Lehrerin sagt: 'Was am meisten hilft, sind feste Lernzeiten zu Hause – zwanzig Minuten pro Fach am Abend reichen oft schon aus.' Sie empfiehlt also regelmäßige Lernzeiten. Schulwechsel und Nachhilfe werden zwar erwähnt, aber nicht empfohlen.",
+              "correctAnswer": "b",
+              "explanation": "[Distractor type: SUBJECT-SWAP] Der Auszubildende sagt: 'Was mich am meisten stört, ist, dass ich fast immer nur dabei stehe oder Kopierarbeiten mache – ich würde gerne selbst Verantwortung übernehmen und zeigen, was ich kann.' Das ist Option b. Zwar werden Kollegen und der Ausbilder im Gespräch erwähnt, aber der Kernärger betrifft die fehlenden eigenständigen Aufgaben, nicht fehlende Erklärungen (a) oder mangelnde Feedback-Zeit (c).",
               "audioTimestamp": 88
             },
             {
               "id": "B1_m03_L3_q4",
               "type": "mcq",
-              "questionText": "Warum möchte die Frau einen Computerkurs besuchen?",
+              "questionText": "Welcher Plan ist der Frau bei der Auswahl des Sprachkurses am wichtigsten?",
               "options": [
-                "a) Sie sucht eine neue Stelle und möchte aktuelle Programme beherrschen.",
-                "b) Ihre Enkel haben sie darum gebeten.",
-                "c) Sie möchte ihr altes Hobby Fotografie digital weiterführen."
+                "a) dass der Kurs möglichst wenig kostet",
+                "b) dass sie nach dem Kurs eine anerkannte Prüfung ablegen kann",
+                "c) dass die Kurszeiten zum Schichtdienst passen"
               ],
-              "correctAnswer": "a",
-              "explanation": "Die Frau erklärt: 'Ich bin 52 und suche nach fünfzehn Jahren Pause wieder eine Stelle im Büro. Ohne aktuelle Kenntnisse in Excel und Word habe ich dort leider keine Chance.' Berufliche Gründe stehen also im Vordergrund. Enkel und Fotografie werden nicht genannt.",
+              "correctAnswer": "c",
+              "explanation": "[Distractor type: GENERALISATION] Die Frau erklärt im Gespräch: 'Das Wichtigste ist für mich, dass ich die Kurszeiten mit meinem Schichtdienst vereinbaren kann – sonst nützt mir der günstigste Kurs nichts.' Kosten (a) nennt sie zwar, aber ausdrücklich als sekundär. Prüfungen (b) werden nicht erwähnt.",
               "audioTimestamp": 122
             },
             {
               "id": "B1_m03_L3_q5",
               "type": "mcq",
-              "questionText": "Was ist für die Auszubildende im Gespräch mit ihrer Ausbilderin das größte Problem?",
+              "questionText": "Was hat Herr Vogt letzte Woche gemacht, damit sein Sohn bessere Noten bekommt?",
               "options": [
-                "a) Das theoretische Wissen in der Berufsschule fällt ihr schwer.",
-                "b) Sie kommt mit einer Kollegin im Betrieb nicht gut zurecht.",
-                "c) Sie bekommt keine anspruchsvollen Aufgaben im Betrieb."
+                "a) Er hat ihm täglich zwei Stunden Nachhilfe gegeben.",
+                "b) Er hat mit der Lehrerin telefoniert.",
+                "c) Er hat gemeinsam mit dem Sohn einen Lernplan erstellt."
               ],
               "correctAnswer": "c",
-              "explanation": "Die Auszubildende sagt am Ende: 'Die Schule klappt eigentlich, und mit den Kolleginnen komme ich gut aus – nur im Betrieb darf ich bisher fast nur kopieren und Kaffee kochen. Ich würde gerne an richtigen Projekten mitarbeiten.' Das Hauptproblem ist also die Aufgabenzuteilung.",
+              "explanation": "[Distractor type: TIME-FRAME PRECISION] Herr Vogt sagt: 'Letzte Woche haben mein Sohn und ich uns am Küchentisch hingesetzt und zusammen aufgeschrieben, welche Fächer er wann und wie lange lernen soll – eine Art Wochenplan. Das hat ihm sofort geholfen.' Er hat also einen gemeinsamen Lernplan erstellt (c). Nachhilfe (a) und das Lehrertelefonat (b) werden für andere Zeitpunkte erwähnt, nicht für letzte Woche.",
               "audioTimestamp": 158
             }
           ]
@@ -250,7 +250,7 @@
             { "id": "B1_m03_R1_head_d", "type": "notice", "content": "d) Digitalkurs für Senioren – Schritt für Schritt zum eigenen Tablet" },
             { "id": "B1_m03_R1_head_e", "type": "notice", "content": "e) Tag der offenen Tür an der Städtischen Gesamtschule" },
             { "id": "B1_m03_R1_head_f", "type": "notice", "content": "f) Deutschkurs für berufstätige Eltern – mit Kinderbetreuung am Abend" },
-            { "id": "B1_m03_R1_head_g", "type": "notice", "content": "g) Abendgymnasium 'Zweiter Bildungsweg' – Fachabitur in drei Jahren nachholen" },
+            { "id": "B1_m03_R1_head_g", "type": "notice", "content": "g) Abendgymnasium Zweiter Bildungsweg – Fachabitur in drei Jahren nachholen" },
             { "id": "B1_m03_R1_head_h", "type": "notice", "content": "h) Erste-Hilfe-Kurs für Eltern von Kleinkindern – Samstagvormittag" }
           ],
           "questions": [
@@ -269,7 +269,7 @@
                 { "id": "B1_m03_R1_head_h", "label": "h" }
               ],
               "correctAnswer": "g",
-              "explanation": "Überschrift g) 'Abendgymnasium Zweiter Bildungsweg – Fachabitur in drei Jahren nachholen' passt exakt zu Frau Kloses Wunsch, neben dem Beruf einen Schulabschluss nachzuholen. Die anderen Angebote betreffen keine schulischen Zweitwege."
+              "explanation": "Überschrift g) 'Abendgymnasium Zweiter Bildungsweg – Fachabitur in drei Jahren nachholen' passt exakt zu Frau Kloses Wunsch, neben dem Beruf einen Schulabschluss nachzuholen."
             },
             {
               "id": "B1_m03_R1_q2",
@@ -286,7 +286,7 @@
                 { "id": "B1_m03_R1_head_h", "label": "h" }
               ],
               "correctAnswer": "b",
-              "explanation": "Überschrift b) 'Sommerakademie für Jugendliche – Naturwissenschaften hautnah an der Technischen Hochschule' passt genau zu Musas Interessen und zu seinem Wunsch, an einer Hochschule zu experimentieren."
+              "explanation": "Überschrift b) 'Sommerakademie für Jugendliche – Naturwissenschaften hautnah an der Technischen Hochschule' passt genau zu Musas Interessen und Wunsch, an einer Hochschule zu experimentieren."
             },
             {
               "id": "B1_m03_R1_q3",
@@ -303,7 +303,7 @@
                 { "id": "B1_m03_R1_head_h", "label": "h" }
               ],
               "correctAnswer": "d",
-              "explanation": "Überschrift d) 'Digitalkurs für Senioren – Schritt für Schritt zum eigenen Tablet' ist das ideale Angebot für Herrn Beck, der genau solche Grundlagen lernen möchte."
+              "explanation": "Überschrift d) 'Digitalkurs für Senioren – Schritt für Schritt zum eigenen Tablet' ist das ideale Angebot für Herrn Beck."
             },
             {
               "id": "B1_m03_R1_q4",
@@ -320,7 +320,7 @@
                 { "id": "B1_m03_R1_head_h", "label": "h" }
               ],
               "correctAnswer": "c",
-              "explanation": "Überschrift c) 'Stipendium für ein Auslandssemester – Bewerbungen bis zum 15. Mai' passt genau zu Faridas Situation und ihrem Bedarf an finanzieller Förderung für das Auslandssemester."
+              "explanation": "Überschrift c) 'Stipendium für ein Auslandssemester – Bewerbungen bis zum 15. Mai' passt genau zu Faridas Bedarf an finanzieller Förderung."
             },
             {
               "id": "B1_m03_R1_q5",
@@ -365,7 +365,7 @@
                 "c) Auszubildende arbeiten drei Jahre lang ausschließlich in einem Betrieb."
               ],
               "correctAnswer": "b",
-              "explanation": "Im Text steht wörtlich: 'Auszubildende lernen abwechselnd im Betrieb und in der Berufsschule, meistens über einen Zeitraum von drei Jahren.' Das ist genau Option b. Die anderen Optionen widersprechen dem Text."
+              "explanation": "[Distractor type: VOICE/MOOD SWAP — a) and c) each isolate one half of the dual-track, creating false single-channel readings] Im Text steht: 'Auszubildende lernen abwechselnd im Betrieb und in der Berufsschule, meistens über einen Zeitraum von drei Jahren.' Das ist genau Option b. Option a) nennt nur die Schule, c) nur den Betrieb."
             },
             {
               "id": "B1_m03_R2_q2",
@@ -378,7 +378,7 @@
                 "c) weil die Ausbildungsvergütungen in Deutschland besonders hoch sind"
               ],
               "correctAnswer": "a",
-              "explanation": "Der Text sagt: 'In Ländern ohne feste Verbindung zwischen Betrieben und Schulen liegt die Jugendarbeitslosigkeit oft zwei- bis dreimal höher als in Deutschland.' Das entspricht Option a. Automatische Anerkennung und Höhe der Vergütung werden nicht thematisiert."
+              "explanation": "[Distractor type: FALSE INFERENCE — b) plausibly follows from 'anerkannter Berufsabschluss' in the text but that phrase refers to domestic recognition, not international auto-recognition] Der Text sagt: 'In Ländern ohne feste Verbindung zwischen Betrieben und Schulen liegt die Jugendarbeitslosigkeit oft zwei- bis dreimal höher als in Deutschland.' Automatische Anerkennung (b) und Vergütungshöhe (c) sind im Text nicht erwähnt."
             },
             {
               "id": "B1_m03_R2_q3",
@@ -391,7 +391,7 @@
                 "c) Sie bekommen Fördergeld direkt vom Staat."
               ],
               "correctAnswer": "a",
-              "explanation": "Der Text schreibt: 'Sie bilden Fachkräfte nach den eigenen Anforderungen aus und binden sie früh an das Unternehmen.' Das ist Option a. Steuern und staatliches Fördergeld werden nicht erwähnt."
+              "explanation": "[Distractor type: LEXICAL FALSE FRIEND — 'Vorteile' in the text is general; b) and c) manufacture specific financial benefits not stated anywhere] Der Text schreibt: 'Sie bilden Fachkräfte nach den eigenen Anforderungen aus und binden sie früh an das Unternehmen.' Das ist Option a."
             },
             {
               "id": "B1_m03_R2_q4",
@@ -404,7 +404,7 @@
                 "c) Die Berufsschulen bieten zu wenig praktische Übungen."
               ],
               "correctAnswer": "b",
-              "explanation": "Im Text steht: 'In kleineren Firmen ist die Qualität der Ausbildung stark vom einzelnen Ausbilder abhängig.' Das ist Option b. Die Ausbildungsdauer und die Berufsschule werden im Artikel nicht kritisiert."
+              "explanation": "[Distractor type: NUMERICAL NEAR-MISS — a) recycles the three-year figure already in the reader's memory and frames it as a criticism, exploiting that number] Im Text steht: 'In kleineren Firmen ist die Qualität der Ausbildung stark vom einzelnen Ausbilder abhängig.' Die Ausbildungsdauer (a) wird nie als Problem bezeichnet."
             },
             {
               "id": "B1_m03_R2_q5",
@@ -417,7 +417,7 @@
                 "c) dass Studium und Ausbildung als gleichwertige Wege dargestellt werden"
               ],
               "correctAnswer": "c",
-              "explanation": "Dr. Hartl sagt: 'Die duale Ausbildung ist in Wahrheit kein Plan B, sondern für viele junge Menschen der bessere Weg – wir müssen aufhören, sie so zu präsentieren, als wäre sie zweite Wahl.' Sie wünscht also eine Darstellung auf Augenhöhe mit dem Studium – das entspricht Option c. Eine grundsätzliche Empfehlung (a) oder ein Zwangspraktikum (b) steht nicht im Text."
+              "explanation": "[Distractor type: GENERALISATION — a) over-extends Dr. Hartl's nuanced appeal for honesty into a blanket recommendation she never makes] Dr. Hartl sagt: 'Die duale Ausbildung ist in Wahrheit kein Plan B – wir müssen aufhören, sie so zu präsentieren, als wäre sie zweite Wahl.' Sie wünscht also eine Darstellung auf Augenhöhe mit dem Studium."
             }
           ]
         },
@@ -429,15 +429,15 @@
             { "id": "B1_m03_R3_ad_a", "type": "ad", "content": "a) NACHHILFE MATHEMATIK – erfahrene Lehramtsstudentin gibt Einzelunterricht für Klassen 5–10, 18 €/Stunde. Online oder zu Hause im Kölner Westen. kontakt@mathe-nachhilfe.de" },
             { "id": "B1_m03_R3_ad_b", "type": "ad", "content": "b) Deutsch-Intensivkurs (A2–B1) – 4 Wochen, Mo–Fr 9–13 Uhr. Kleine Gruppen, zertifizierte Lehrkräfte, Kursgebühr 480 €. Start jeden Monatsanfang. info@sprachfix.de" },
             { "id": "B1_m03_R3_ad_c", "type": "ad", "content": "c) Online-Studium Soziale Arbeit (B.A.) – 6 Semester flexibel neben dem Beruf. Bewerbung bis 31. Juli. Kostenlose Infoveranstaltung online am ersten Donnerstag im Monat. www.sozialstudium-online.de" },
-            { "id": "B1_m03_R3_ad_d", "type": "ad", "content": "d) Gitarrenunterricht für Anfänger – 45 Minuten/Woche, Kinder ab 7 Jahren willkommen. 28 €/Stunde. Gruppen- oder Einzelstunde möglich. Musikschule Klangzeit, Tel. 0221 998 33 21" },
-            { "id": "B1_m03_R3_ad_e", "type": "ad", "content": "e) Tauschbörse Sprachtandem – Deutsch gegen Italienisch. Treffen 1x pro Woche in einem Café, kostenlos. Bewerbung an tandem-koeln@mail.de" },
-            { "id": "B1_m03_R3_ad_f", "type": "ad", "content": "f) Elternabend 'Digitale Medien' – kostenlose Informationsveranstaltung für Eltern von Grundschulkindern. Dienstag, 18 Uhr, im Bürgerhaus. Anmeldung: eltern-medien@stadt.de" },
-            { "id": "B1_m03_R3_ad_g", "type": "ad", "content": "g) Studentenjob – Bibliothek der Universität sucht Hilfskraft für 10 Std./Woche, abends und samstags. Bewerbung per E-Mail an personal@unibib-koeln.de" },
-            { "id": "B1_m03_R3_ad_h", "type": "ad", "content": "h) Lehrbücher zu verkaufen – komplettes Set für Abitur (Deutsch, Englisch, Mathe, Biologie), wenig benutzt, Festpreis 65 €. Abholung Köln-Nippes. mail@schulbuecher-angebot.de" },
-            { "id": "B1_m03_R3_ad_i", "type": "ad", "content": "i) Schüleraustauschprogramm – 10 Monate in den USA, Kanada oder Australien. Nächste Infoveranstaltung am Samstag um 11 Uhr, Volkshochschule. www.austausch-kompakt.de" },
-            { "id": "B1_m03_R3_ad_j", "type": "ad", "content": "j) Babysitterkurs des Jugendrotkreuzes – Grundlagen Pflege und Erste Hilfe. 2 Wochenenden, 80 €. Ab 14 Jahren. www.drk-jugend-koeln.de" },
-            { "id": "B1_m03_R3_ad_k", "type": "ad", "content": "k) Umschulung zum/zur Erzieher/in – drei Jahre berufsbegleitend, staatlich anerkannt. Nächster Informationsabend online. Anmeldung: info@erziehen-jetzt.de" },
-            { "id": "B1_m03_R3_ad_l", "type": "ad", "content": "l) Gesangsunterricht bei Musikpädagogin – 60 Minuten Einzelstunde 45 €, Probestunde kostenlos. Chor-Erfahrung nicht nötig. studio@singstark.de" }
+            { "id": "B1_m03_R3_ad_d", "type": "ad", "content": "d) Volkshochschule Bonn – Kochkurs Mediterrane Küche: 6 Abende, dienstags 18–21 Uhr, 95 €. Anmeldung bis 5. September. vhs-bonn.de/kochkurs" },
+            { "id": "B1_m03_R3_ad_e", "type": "ad", "content": "e) Sprachtandem Deutsch–Arabisch: Muttersprachler sucht Lernpartner für wöchentliches Treffen. Kostenlos, flexibel, gern Videotelefonie. Kontakt: tandem-koeln@mail.de" },
+            { "id": "B1_m03_R3_ad_f", "type": "ad", "content": "f) Workshop Rhetorik und Präsentation – 2-tägiger Intensivkurs für Berufstätige. Kleingruppe max. 10 Personen, 220 €. Nächster Termin: 14./15. Juni. rhetorik-praxis.de" },
+            { "id": "B1_m03_R3_ad_g", "type": "ad", "content": "g) Berufsbegleitende Fortbildung: IT-Projektmanagement – 12 Samstage, Zertifikat anerkannt, 890 €. Für Berufstätige mit mind. 2 Jahren IT-Erfahrung. pm-fortbildung.de" },
+            { "id": "B1_m03_R3_ad_h", "type": "ad", "content": "h) Umschulung Erzieher/in (staatl. anerkannt) – 3 Jahre berufsbegleitend, Fördermöglichkeit verfügbar. Infoveranstaltung jeden zweiten Montag. erziehen-jetzt.de" },
+            { "id": "B1_m03_R3_ad_i", "type": "ad", "content": "i) Schüleraustausch USA / Kanada / Australien – 10 Monate, alles inklusive. Infoveranstaltung am Samstag 11 Uhr, Volkshochschule Köln. austausch-kompakt.de" },
+            { "id": "B1_m03_R3_ad_j", "type": "ad", "content": "j) Spanisch für Anfänger – Gruppenunterricht, 10 Einheiten à 90 Min., 130 €. Volkshochschule Düsseldorf, Kursbeginn Oktober. info@vhs-duesseldorf.de" },
+            { "id": "B1_m03_R3_ad_k", "type": "ad", "content": "k) Lerncoaching für Schüler und Studierende – Einzel- oder Kleingruppenangebot. Prüfungsangst, Lernorganisation, Motivation. Erstgespräch kostenlos. lerncoach-koeln.de" },
+            { "id": "B1_m03_R3_ad_l", "type": "ad", "content": "l) Abendgymnasium Düsseldorf – Abitur neben dem Beruf in 3,5 Jahren nachholen. Informationsabend am 12. September um 19 Uhr. abendgym-dus.de" }
           ],
           "questions": [
             {
@@ -458,7 +458,7 @@
             {
               "id": "B1_m03_R3_q2",
               "type": "matching",
-              "questionText": "2. Frau Aydin ist im letzten Monat nach Deutschland gekommen. Sie spricht schon ein wenig Deutsch auf A2-Niveau und möchte in möglichst kurzer Zeit B1 erreichen, weil sie schnell einen Job finden muss.",
+              "questionText": "2. Frau Aydin ist vor einem Monat nach Deutschland gekommen. Sie spricht schon ein wenig Deutsch auf A2-Niveau und möchte in möglichst kurzer Zeit B1 erreichen, weil sie schnell einen Job finden muss.",
               "matchingSources": [
                 { "id": "B1_m03_R3_ad_a", "label": "a" }, { "id": "B1_m03_R3_ad_b", "label": "b" },
                 { "id": "B1_m03_R3_ad_c", "label": "c" }, { "id": "B1_m03_R3_ad_d", "label": "d" },
@@ -473,7 +473,7 @@
             {
               "id": "B1_m03_R3_q3",
               "type": "matching",
-              "questionText": "3. Hans ist 34, arbeitet seit zehn Jahren in einer Bank und möchte beruflich etwas ganz anderes machen. Er interessiert sich für die Arbeit mit Kindern und überlegt, sich staatlich anerkannt umschulen zu lassen, ohne den Job sofort zu kündigen.",
+              "questionText": "3. Thomas ist 36, arbeitet in einer Versicherung und möchte beruflich etwas ganz anderes machen. Er interessiert sich für die Arbeit mit Kindern und überlegt, sich staatlich anerkannt umschulen zu lassen, ohne den Job sofort zu kündigen.",
               "matchingSources": [
                 { "id": "B1_m03_R3_ad_a", "label": "a" }, { "id": "B1_m03_R3_ad_b", "label": "b" },
                 { "id": "B1_m03_R3_ad_c", "label": "c" }, { "id": "B1_m03_R3_ad_d", "label": "d" },
@@ -482,13 +482,13 @@
                 { "id": "B1_m03_R3_ad_i", "label": "i" }, { "id": "B1_m03_R3_ad_j", "label": "j" },
                 { "id": "B1_m03_R3_ad_k", "label": "k" }, { "id": "B1_m03_R3_ad_l", "label": "l" }
               ],
-              "correctAnswer": "k",
-              "explanation": "Anzeige k) bietet eine berufsbegleitende Umschulung zum/zur Erzieher/in, staatlich anerkannt – genau die Kombination, die Hans sucht."
+              "correctAnswer": "h",
+              "explanation": "Anzeige h) bietet eine berufsbegleitende Umschulung zum/zur Erzieher/in, staatlich anerkannt – genau die Kombination, die Thomas sucht. Anzeige c) ist ein Studiengang, keine Umschulung."
             },
             {
               "id": "B1_m03_R3_q4",
               "type": "matching",
-              "questionText": "4. Sarah ist 15 und möchte in den Sommerferien etwas Sinnvolles lernen. Ihre Tante hat sie gefragt, ob sie auf ihre zwei kleinen Kinder aufpassen kann – aber Sarah fühlt sich unsicher und möchte sich vorher weiterbilden.",
+              "questionText": "4. Frau Müller arbeitet seit 12 Jahren im Büro und möchte sich in ihrer IT-Abteilung weiterentwickeln. Sie hat solide Computerkenntnisse und sucht eine anerkannte Fortbildung, die sie an Samstagen absolvieren kann.",
               "matchingSources": [
                 { "id": "B1_m03_R3_ad_a", "label": "a" }, { "id": "B1_m03_R3_ad_b", "label": "b" },
                 { "id": "B1_m03_R3_ad_c", "label": "c" }, { "id": "B1_m03_R3_ad_d", "label": "d" },
@@ -497,13 +497,13 @@
                 { "id": "B1_m03_R3_ad_i", "label": "i" }, { "id": "B1_m03_R3_ad_j", "label": "j" },
                 { "id": "B1_m03_R3_ad_k", "label": "k" }, { "id": "B1_m03_R3_ad_l", "label": "l" }
               ],
-              "correctAnswer": "j",
-              "explanation": "Anzeige j) 'Babysitterkurs des Jugendrotkreuzes' ab 14 Jahren vermittelt genau die Grundlagen, die Sarah für ihre Aufgabe bei der Tante brauchen könnte."
+              "correctAnswer": "g",
+              "explanation": "Anzeige g) 'IT-Projektmanagement' – 12 Samstage, anerkanntes Zertifikat, IT-Erfahrung vorausgesetzt – passt zu Frau Müllers Wunsch, sich in der IT-Abteilung weiterzuqualifizieren."
             },
             {
               "id": "B1_m03_R3_q5",
               "type": "matching",
-              "questionText": "5. Herr Pietsch ist Schulleiter einer Grundschule. Er möchte für die Eltern in seiner Schule eine Informationsveranstaltung zu Handys und Tablets organisieren und sucht ein passendes Angebot, das er den Eltern empfehlen kann.",
+              "questionText": "5. Herr Pietsch ist Schulleiter einer Grundschule. Er möchte für die Eltern seiner Schule eine Informationsveranstaltung zu Handys und Tablets organisieren und sucht ein passendes Angebot, das er ihnen empfehlen kann.",
               "matchingSources": [
                 { "id": "B1_m03_R3_ad_a", "label": "a" }, { "id": "B1_m03_R3_ad_b", "label": "b" },
                 { "id": "B1_m03_R3_ad_c", "label": "c" }, { "id": "B1_m03_R3_ad_d", "label": "d" },
@@ -512,8 +512,8 @@
                 { "id": "B1_m03_R3_ad_i", "label": "i" }, { "id": "B1_m03_R3_ad_j", "label": "j" },
                 { "id": "B1_m03_R3_ad_k", "label": "k" }, { "id": "B1_m03_R3_ad_l", "label": "l" }
               ],
-              "correctAnswer": "f",
-              "explanation": "Anzeige f) 'Elternabend Digitale Medien' richtet sich explizit an Eltern von Grundschulkindern – genau die Zielgruppe von Herrn Pietschs Schule."
+              "correctAnswer": "x",
+              "explanation": "Keine der zwölf Anzeigen richtet sich explizit an Eltern von Grundschulkindern zum Thema digitale Medien / Handys. Anzeige g) ist IT-Fortbildung für Berufstätige, nicht für Eltern. Lösung: x (keine passende Anzeige)."
             },
             {
               "id": "B1_m03_R3_q6",
@@ -528,27 +528,12 @@
                 { "id": "B1_m03_R3_ad_k", "label": "k" }, { "id": "B1_m03_R3_ad_l", "label": "l" }
               ],
               "correctAnswer": "i",
-              "explanation": "Anzeige i) 'Schüleraustauschprogramm' mit Infoveranstaltung passt genau zu Max' Situation: verschiedene Länder, persönliche Infos bei der VHS."
+              "explanation": "Anzeige i) 'Schüleraustausch USA/Kanada/Australien' mit Infoveranstaltung an der VHS passt genau zu Max' Situation: mehrere Länder zur Auswahl, persönliche Information möglich."
             },
             {
               "id": "B1_m03_R3_q7",
               "type": "matching",
-              "questionText": "7. Jana studiert Geschichte im fünften Semester und sucht einen Nebenjob, der zu ihrem Studium passt und abends sowie am Wochenende ausgeübt werden kann.",
-              "matchingSources": [
-                { "id": "B1_m03_R3_ad_a", "label": "a" }, { "id": "B1_m03_R3_ad_b", "label": "b" },
-                { "id": "B1_m03_R3_ad_c", "label": "c" }, { "id": "B1_m03_R3_ad_d", "label": "d" },
-                { "id": "B1_m03_R3_ad_e", "label": "e" }, { "id": "B1_m03_R3_ad_f", "label": "f" },
-                { "id": "B1_m03_R3_ad_g", "label": "g" }, { "id": "B1_m03_R3_ad_h", "label": "h" },
-                { "id": "B1_m03_R3_ad_i", "label": "i" }, { "id": "B1_m03_R3_ad_j", "label": "j" },
-                { "id": "B1_m03_R3_ad_k", "label": "k" }, { "id": "B1_m03_R3_ad_l", "label": "l" }
-              ],
-              "correctAnswer": "g",
-              "explanation": "Anzeige g) Uni-Bibliothek sucht eine Hilfskraft, abends und samstags, 10 Std./Woche – passt perfekt zu Janas Studium und Zeitplan."
-            },
-            {
-              "id": "B1_m03_R3_q8",
-              "type": "matching",
-              "questionText": "8. Herr Lessing arbeitet seit Jahren in einem Seniorenheim und möchte sich berufsbegleitend weiterqualifizieren. Ein Umzug kommt für ihn nicht in Frage – er sucht einen Studiengang, den er ortsunabhängig absolvieren kann.",
+              "questionText": "7. Klara hat nach dem Abitur eine Auszeit genommen und möchte jetzt doch noch einen akademischen Abschluss machen. Da sie nebenbei in einem Café arbeitet, braucht sie ein Studienformat, das zeitlich flexibel ist.",
               "matchingSources": [
                 { "id": "B1_m03_R3_ad_a", "label": "a" }, { "id": "B1_m03_R3_ad_b", "label": "b" },
                 { "id": "B1_m03_R3_ad_c", "label": "c" }, { "id": "B1_m03_R3_ad_d", "label": "d" },
@@ -558,12 +543,27 @@
                 { "id": "B1_m03_R3_ad_k", "label": "k" }, { "id": "B1_m03_R3_ad_l", "label": "l" }
               ],
               "correctAnswer": "c",
-              "explanation": "Anzeige c) 'Online-Studium Soziale Arbeit' berufsbegleitend, sechs Semester, flexibel – genau der ortsunabhängige Studiengang, den Herr Lessing sucht."
+              "explanation": "Anzeige c) 'Online-Studium Soziale Arbeit' – flexibel, berufsbegleitend, sechs Semester – passt zu Klaras Wunsch nach einem flexiblen Studienformat neben dem Job. Anzeige l) bietet nur Abitur nach, keinen Bachelorstudiengang."
+            },
+            {
+              "id": "B1_m03_R3_q8",
+              "type": "matching",
+              "questionText": "8. Ahmed möchte in drei Monaten eine wichtige Präsentation vor Kunden halten und hat Angst, zu nervös zu wirken. Er sucht einen Kurs, der ihm hilft, überzeugender und ruhiger zu sprechen.",
+              "matchingSources": [
+                { "id": "B1_m03_R3_ad_a", "label": "a" }, { "id": "B1_m03_R3_ad_b", "label": "b" },
+                { "id": "B1_m03_R3_ad_c", "label": "c" }, { "id": "B1_m03_R3_ad_d", "label": "d" },
+                { "id": "B1_m03_R3_ad_e", "label": "e" }, { "id": "B1_m03_R3_ad_f", "label": "f" },
+                { "id": "B1_m03_R3_ad_g", "label": "g" }, { "id": "B1_m03_R3_ad_h", "label": "h" },
+                { "id": "B1_m03_R3_ad_i", "label": "i" }, { "id": "B1_m03_R3_ad_j", "label": "j" },
+                { "id": "B1_m03_R3_ad_k", "label": "k" }, { "id": "B1_m03_R3_ad_l", "label": "l" }
+              ],
+              "correctAnswer": "f",
+              "explanation": "Anzeige f) 'Workshop Rhetorik und Präsentation' für Berufstätige passt zu Ahmeds Ziel, überzeugender zu sprechen. Anzeige k) hilft bei Lernorganisation / Prüfungsangst, nicht bei professionellen Kundenpräsentationen."
             },
             {
               "id": "B1_m03_R3_q9",
               "type": "matching",
-              "questionText": "9. Enzo ist aus Italien nach Deutschland gekommen, sein Deutsch ist schon ganz gut, aber er vermisst das Italienische. Er sucht jemanden, der Italienisch lernen möchte und mit dem er regelmäßig in beiden Sprachen sprechen kann – möglichst ohne Kursgebühr.",
+              "questionText": "9. Yasmina möchte für ihren nächsten Urlaub in Spanien ein bisschen die Sprache lernen. Ihr Budget ist begrenzt, und sie sucht einen Anfängerkurs an einer staatlichen Einrichtung.",
               "matchingSources": [
                 { "id": "B1_m03_R3_ad_a", "label": "a" }, { "id": "B1_m03_R3_ad_b", "label": "b" },
                 { "id": "B1_m03_R3_ad_c", "label": "c" }, { "id": "B1_m03_R3_ad_d", "label": "d" },
@@ -572,13 +572,13 @@
                 { "id": "B1_m03_R3_ad_i", "label": "i" }, { "id": "B1_m03_R3_ad_j", "label": "j" },
                 { "id": "B1_m03_R3_ad_k", "label": "k" }, { "id": "B1_m03_R3_ad_l", "label": "l" }
               ],
-              "correctAnswer": "e",
-              "explanation": "Anzeige e) 'Tauschbörse Sprachtandem – Deutsch gegen Italienisch, kostenlos' entspricht genau Enzos Situation – ohne Gebühr regelmäßig Sprachen tauschen."
+              "correctAnswer": "j",
+              "explanation": "Anzeige j) 'Spanisch für Anfänger' an der Volkshochschule Düsseldorf – günstig, staatliche Einrichtung, Anfänger – passt zu Yasminas Bedürfnissen. Anzeige e) ist ein Tandem für Arabisch, nicht Spanisch."
             },
             {
               "id": "B1_m03_R3_q10",
               "type": "matching",
-              "questionText": "10. Die siebenjährige Mia liebt Musik, seit ihre Oma ihr zum Geburtstag eine kleine Gitarre geschenkt hat. Die Eltern suchen einen passenden Unterricht für Kinder.",
+              "questionText": "10. Jonas ist 19, hat gerade das Abitur bestanden, aber seine Schulzeit war sehr stressig. Er merkt, dass er eigentlich nie gelernt hat, wie man gut lernt, und möchte sich darin verbessern, bevor er mit dem Studium anfängt.",
               "matchingSources": [
                 { "id": "B1_m03_R3_ad_a", "label": "a" }, { "id": "B1_m03_R3_ad_b", "label": "b" },
                 { "id": "B1_m03_R3_ad_c", "label": "c" }, { "id": "B1_m03_R3_ad_d", "label": "d" },
@@ -587,8 +587,8 @@
                 { "id": "B1_m03_R3_ad_i", "label": "i" }, { "id": "B1_m03_R3_ad_j", "label": "j" },
                 { "id": "B1_m03_R3_ad_k", "label": "k" }, { "id": "B1_m03_R3_ad_l", "label": "l" }
               ],
-              "correctAnswer": "d",
-              "explanation": "Anzeige d) 'Gitarrenunterricht für Anfänger, Kinder ab 7 Jahren willkommen' passt ideal zur siebenjährigen Mia und ihrem neuen Instrument. Anzeigen h) (Lehrbücher) und l) (Gesangsunterricht) bleiben als Distraktoren übrig."
+              "correctAnswer": "k",
+              "explanation": "Anzeige k) 'Lerncoaching – Lernorganisation, Motivation' für Schüler und Studierende passt genau zu Jonas' Wunsch, die eigene Lernmethode zu verbessern. Anzeigen d) (Kochkurs) und l) (Abendgymnasium) bleiben als Distraktoren übrig."
             }
           ]
         }
@@ -627,7 +627,7 @@
               "type": "mcq",
               "options": ["a) Obwohl", "b) Weil", "c) Deshalb"],
               "correctAnswer": "a",
-              "explanation": "Gegensatz zwischen 'viel Arbeit' und 'sehr motiviert' → konzessiv 'obwohl'. 'Weil' gäbe einen Grund an (unlogisch: Man ist nicht motiviert, weil es viel Arbeit ist). 'Deshalb' ist Adverb, verlangt Verbzweitstellung – hier steht das Verb am Ende, also muss es eine Subjunktion sein."
+              "explanation": "Gegensatz zwischen 'viel Arbeit' und 'sehr motiviert' – konzessiv 'obwohl'. 'Weil' gäbe einen Grund an (unlogisch: Man ist nicht motiviert, weil es viel Arbeit ist). 'Deshalb' ist Adverb, verlangt Verbzweitstellung – hier steht das Verb am Ende, also muss es eine Subjunktion sein."
             },
             {
               "blankNumber": 5,
@@ -648,145 +648,145 @@
               "type": "mcq",
               "options": ["a) zu", "b) in", "c) bei"],
               "correctAnswer": "a",
-              "explanation": "'zu einem Kurs gehen' ist die idiomatische Wendung für den regelmäßigen Besuch eines Kurses; 'zu' + Dativ passt zum Artikel 'einem'. 'in' würde bei Bewegung Akkusativ verlangen ('in einen Kurs gehen') und widerspräche der Dativform 'einem' im Text. 'bei' verwendet man bei Lehrpersonen ('bei Frau Meier lernen'), nicht bei Kursen selbst."
+              "explanation": "'zu einem Kurs gehen' ist die idiomatische Wendung für den regelmäßigen Besuch eines Kurses. 'in' würde bei Bewegung Akkusativ verlangen ('in einen Kurs gehen') und widerspräche der Dativform 'einem' im Text. 'bei' verwendet man bei Lehrpersonen, nicht bei Kursen selbst."
             },
             {
               "blankNumber": 8,
               "type": "mcq",
               "options": ["a) sind", "b) waren", "c) haben"],
               "correctAnswer": "c",
-              "explanation": "Perfekt von 'machen' mit Hilfsverb 'haben': 'Wir haben ... gemacht.' 'sind' wäre bei 'gehen/fahren/kommen' richtig, aber 'machen' verlangt 'haben'. 'waren' wäre Präteritum und passt nicht zum Partizip 'gemacht'."
+              "explanation": "Perfekt von 'machen' mit Hilfsverb 'haben': 'Wir haben ... gemacht.' 'sind' wäre bei Bewegungsverben richtig, aber 'machen' verlangt 'haben'. 'waren' wäre Präteritum und passt nicht zum Partizip 'gemacht'."
             },
             {
               "blankNumber": 9,
               "type": "mcq",
               "options": ["a) mich", "b) mir", "c) für mich"],
               "correctAnswer": "a",
-              "explanation": "Reflexives Verb 'sich freuen' mit Akkusativ: 'Ich freue mich.' 'mir' (Dativ) gehört zu anderen reflexiven Verben. 'für mich' ist kein Reflexivpronomen und ergibt hier keinen Sinn."
+              "explanation": "Reflexives Verb 'sich freuen' mit Akkusativreflexivpronomen: 'Ich freue mich.' 'mir' (Dativ) gehört zu anderen reflexiven Verben. 'für mich' ist kein Reflexivpronomen und ergibt hier keinen Sinn."
             },
             {
               "blankNumber": 10,
               "type": "mcq",
               "options": ["a) dem", "b) das", "c) den"],
               "correctAnswer": "a",
-              "explanation": "'sich widmen' ist ein reflexives Verb mit Dativ-Objekt: 'sich dem Abenteuer widmen'. Das Objekt steht im Dativ Neutrum → 'dem'. 'das' wäre Akkusativ, 'den' wäre Maskulinum. Das Substantiv 'Abenteuer' ist Neutrum, also 'dem'."
+              "explanation": "'sich widmen' ist ein reflexives Verb mit Dativ-Objekt: 'sich dem Abenteuer widmen'. Das Objekt steht im Dativ Neutrum – 'dem'. 'das' wäre Akkusativ, 'den' wäre Maskulinum. 'Abenteuer' ist Neutrum."
             }
           ]
         },
         {
           "partNumber": 2,
           "instructions": "Lesen Sie den folgenden Text. Welches Wort aus der Liste a–o passt in die Lücken? Jedes Wort passt nur einmal. Fünf Wörter bleiben übrig.",
-          "text": "Liebe Yara,\n\nvielen __(11)__ für deine Postkarte aus Hamburg – ich habe mich riesig gefreut. Wie du weißt, habe ich vor einem halben Jahr mit meinem dualen Studium angefangen. Die ersten Wochen waren wirklich anstrengend, aber __(12)__ habe ich mich gut eingelebt.\n\nMeine Ausbilderin ist sehr geduldig, nur die Fahrt zur Berufsschule ist lang. Wir haben oft darüber __(13)__ und schließlich eine gute Lösung gefunden: Ich fahre jetzt einmal in der Woche morgens früher und arbeite dafür an den anderen Tagen eine halbe Stunde weniger. Das __(14)__ erstaunlich gut.\n\nIn meinem Betrieb bin ich __(15)__ die Kundenanfragen per E-Mail zuständig. __(16)__ der letzten Woche durfte ich zum ersten Mal einen Kunden allein betreuen – das war spannend, aber auch anstrengend. Abends bin ich meistens ziemlich müde, und trotzdem versuche ich, ein bisschen zu lernen.\n\nEine Sache stört mich gerade: Der Fahrpreis für den Bus wurde zum März leider __(17)__. Ich hatte mich fest __(18)__ einen günstigen Sommer eingestellt, und jetzt kostet das Monatsticket 20 Euro mehr. Vielleicht finde ich bald einen kleinen Nebenjob am Wochenende, damit ich __(19)__ nicht so viel Geld pro Monat verliere. Das Semester ist fast rum, und in den Ferien __(20)__ fahre ich eine Woche ans Meer, um richtig abzuschalten.\n\nMelde dich bald, und sag mir, wie es dir geht!\n\nViele Grüße,\nFlorian",
+          "text": "Sehr geehrte Damen und Herren,\n\nIch schreibe __(11)__ bezüglich Ihrer aktuellen Stellenanzeige für den Abendkurs Englisch B2. Ich bin seit drei Jahren als Verwaltungsangestellte tätig und möchte meine Englischkenntnisse für berufliche Zwecke verbessern. Im Moment liege ich __(12)__ auf dem B1-Niveau, und ein Kurs bei Ihrer Einrichtung __(13)__ für mich ideal sein.\n\nDarf ich fragen, __(14)__ der Kurs genau beginnt und wie viele Einheiten pro Woche vorgesehen sind? Außerdem würde ich gerne wissen, __(15)__ am Kursende eine offizielle Prüfung abgelegt werden kann. Ich habe __(16)__ Ihren Prospekt gelesen, aber die genauen Prüfungsmodalitäten sind darin leider nicht __(17)__.\n\nDa ich auch den Freitagabend beruflich __(18)__ habe, bitte ich Sie, mir mitzuteilen, __(19)__ alternative Termine geplant sind. Für eine baldige __(20)__ danke ich Ihnen im Voraus.\n\nMit freundlichen Grüßen\nKarin Berger",
           "questions": [
             {
               "blankNumber": 11,
               "type": "word_bank",
               "options": [
-                "a) Dank", "b) mittlerweile", "c) gesprochen", "d) klappt", "e) für",
-                "f) In", "g) erhöht", "h) auf", "i) wenigstens", "j) hoffentlich",
-                "k) herzlichen", "l) überlegt", "m) reicht", "n) ohne", "o) damit"
+                "a) Ihnen", "b) ungefähr", "c) wäre", "d) wann", "e) ob",
+                "f) bereits", "g) belegt", "h) beschrieben", "i) Rückmeldung", "j) jedoch",
+                "k) an", "l) auf", "m) welche", "n) schriftlich", "o) ausführlich"
               ],
               "correctAnswer": "a",
-              "explanation": "Die feste Briefformel 'Vielen Dank für deine Postkarte' verlangt nach 'vielen' das Substantiv 'Dank'. Distraktor k) 'herzlichen' passt grammatisch ('herzlichen Dank'), aber der Text hat bereits 'vielen' vorgegeben."
+              "explanation": "Die feste formelle Wendung 'schreiben + Dativ-Adressat' verlangt 'Ihnen': 'Ich schreibe Ihnen bezüglich ...'. Das Dativpronomen ist bei Briefanfängen in förmlichem Register obligatorisch."
             },
             {
               "blankNumber": 12,
               "type": "word_bank",
               "options": [
-                "a) Dank", "b) mittlerweile", "c) gesprochen", "d) klappt", "e) für",
-                "f) In", "g) erhöht", "h) auf", "i) wenigstens", "j) hoffentlich",
-                "k) herzlichen", "l) überlegt", "m) reicht", "n) ohne", "o) damit"
+                "a) Ihnen", "b) ungefähr", "c) wäre", "d) wann", "e) ob",
+                "f) bereits", "g) belegt", "h) beschrieben", "i) Rückmeldung", "j) jedoch",
+                "k) an", "l) auf", "m) welche", "n) schriftlich", "o) ausführlich"
               ],
               "correctAnswer": "b",
-              "explanation": "'Die ersten Wochen waren anstrengend, aber mittlerweile habe ich mich gut eingelebt.' 'mittlerweile' bedeutet 'inzwischen' und drückt den zeitlichen Gegensatz aus. 'damit' (Zweck) oder 'hoffentlich' (Wunsch) passen nicht."
+              "explanation": "'Ich liege ungefähr auf B1-Niveau' – 'ungefähr' drückt eine Annäherung aus und passt zum Kontext einer Selbsteinschätzung. 'bereits' wäre zeitlich; 'ausführlich' beschreibt keine Sprachlevels."
             },
             {
               "blankNumber": 13,
               "type": "word_bank",
               "options": [
-                "a) Dank", "b) mittlerweile", "c) gesprochen", "d) klappt", "e) für",
-                "f) In", "g) erhöht", "h) auf", "i) wenigstens", "j) hoffentlich",
-                "k) herzlichen", "l) überlegt", "m) reicht", "n) ohne", "o) damit"
+                "a) Ihnen", "b) ungefähr", "c) wäre", "d) wann", "e) ob",
+                "f) bereits", "g) belegt", "h) beschrieben", "i) Rückmeldung", "j) jedoch",
+                "k) an", "l) auf", "m) welche", "n) schriftlich", "o) ausführlich"
               ],
               "correctAnswer": "c",
-              "explanation": "'Wir haben oft darüber gesprochen' – 'sprechen über' (Verb + Präposition). Partizip II von 'sprechen' ist 'gesprochen'. Distraktor l) 'überlegt' verlangt kein 'über' als Verbpräposition im gleichen Sinn und passt inhaltlich weniger."
+              "explanation": "Konjunktiv II 'wäre' für eine höfliche Einschätzung: 'ein Kurs wäre für mich ideal'. Im formellen Brief signalisiert 'wäre' (statt 'ist') höfliche Distanz und ist stilistisch korrekt."
             },
             {
               "blankNumber": 14,
               "type": "word_bank",
               "options": [
-                "a) Dank", "b) mittlerweile", "c) gesprochen", "d) klappt", "e) für",
-                "f) In", "g) erhöht", "h) auf", "i) wenigstens", "j) hoffentlich",
-                "k) herzlichen", "l) überlegt", "m) reicht", "n) ohne", "o) damit"
+                "a) Ihnen", "b) ungefähr", "c) wäre", "d) wann", "e) ob",
+                "f) bereits", "g) belegt", "h) beschrieben", "i) Rückmeldung", "j) jedoch",
+                "k) an", "l) auf", "m) welche", "n) schriftlich", "o) ausführlich"
               ],
               "correctAnswer": "d",
-              "explanation": "'Das klappt erstaunlich gut' – idiomatisch für 'es funktioniert'. Subjekt 'Das' + 3. Person Singular 'klappt'. Distraktor m) 'reicht' hat eine andere Bedeutung ('genug sein') und passt hier nicht."
+              "explanation": "Indirekte Frage mit Zeitangabe: 'Darf ich fragen, wann der Kurs genau beginnt'. Das Fragewort 'wann' leitet eine Frage nach dem Zeitpunkt ein. 'ob' leitet Ja/Nein-Fragen ein und passt grammatisch nicht zu dieser Teilfrage."
             },
             {
               "blankNumber": 15,
               "type": "word_bank",
               "options": [
-                "a) Dank", "b) mittlerweile", "c) gesprochen", "d) klappt", "e) für",
-                "f) In", "g) erhöht", "h) auf", "i) wenigstens", "j) hoffentlich",
-                "k) herzlichen", "l) überlegt", "m) reicht", "n) ohne", "o) damit"
+                "a) Ihnen", "b) ungefähr", "c) wäre", "d) wann", "e) ob",
+                "f) bereits", "g) belegt", "h) beschrieben", "i) Rückmeldung", "j) jedoch",
+                "k) an", "l) auf", "m) welche", "n) schriftlich", "o) ausführlich"
               ],
               "correctAnswer": "e",
-              "explanation": "Feste Wendung 'zuständig sein für + Akkusativ'. 'für' ist obligatorisch. 'auf' oder 'ohne' bilden mit 'zuständig' keine idiomatische Struktur."
+              "explanation": "Indirekte Ja/Nein-Frage: 'wissen, ob am Kursende eine offizielle Prüfung abgelegt werden kann'. 'ob' leitet diese ein. 'wann' wäre nur korrekt wenn nach einem Zeitpunkt gefragt wird, nicht nach der Möglichkeit einer Prüfung."
             },
             {
               "blankNumber": 16,
               "type": "word_bank",
               "options": [
-                "a) Dank", "b) mittlerweile", "c) gesprochen", "d) klappt", "e) für",
-                "f) In", "g) erhöht", "h) auf", "i) wenigstens", "j) hoffentlich",
-                "k) herzlichen", "l) überlegt", "m) reicht", "n) ohne", "o) damit"
+                "a) Ihnen", "b) ungefähr", "c) wäre", "d) wann", "e) ob",
+                "f) bereits", "g) belegt", "h) beschrieben", "i) Rückmeldung", "j) jedoch",
+                "k) an", "l) auf", "m) welche", "n) schriftlich", "o) ausführlich"
               ],
               "correctAnswer": "f",
-              "explanation": "Zeitangabe am Satzanfang: 'In der letzten Woche ...'. 'in' + Dativ für Zeitspannen. Die Großschreibung ('In') zeigt den Satzanfang."
+              "explanation": "'Ich habe bereits Ihren Prospekt gelesen' – 'bereits' = 'schon' im formellen Register. 'ausführlich' würde 'ausführlich lesen' bedeuten, was zwar möglich ist, aber den Kontrast mit 'leider nicht beschrieben' nicht sinnvoll vorbereitet."
             },
             {
               "blankNumber": 17,
               "type": "word_bank",
               "options": [
-                "a) Dank", "b) mittlerweile", "c) gesprochen", "d) klappt", "e) für",
-                "f) In", "g) erhöht", "h) auf", "i) wenigstens", "j) hoffentlich",
-                "k) herzlichen", "l) überlegt", "m) reicht", "n) ohne", "o) damit"
+                "a) Ihnen", "b) ungefähr", "c) wäre", "d) wann", "e) ob",
+                "f) bereits", "g) belegt", "h) beschrieben", "i) Rückmeldung", "j) jedoch",
+                "k) an", "l) auf", "m) welche", "n) schriftlich", "o) ausführlich"
               ],
-              "correctAnswer": "g",
-              "explanation": "'Fahrpreis erhöhen' ist die Standardkollokation (raise the fare). Passiv Perfekt: 'Der Fahrpreis wurde erhöht.' Distraktor l) 'überlegt' hätte keine parallele idiomatische Verwendung."
+              "correctAnswer": "h",
+              "explanation": "'die Prüfungsmodalitäten sind darin leider nicht beschrieben' – Partizip II von 'beschreiben' als Zustandspassiv. 'belegt' würde 'belegte Fakten' implizieren, passt aber nicht als Zustandspassiv-Adjektiv für fehlende Informationen."
             },
             {
               "blankNumber": 18,
               "type": "word_bank",
               "options": [
-                "a) Dank", "b) mittlerweile", "c) gesprochen", "d) klappt", "e) für",
-                "f) In", "g) erhöht", "h) auf", "i) wenigstens", "j) hoffentlich",
-                "k) herzlichen", "l) überlegt", "m) reicht", "n) ohne", "o) damit"
+                "a) Ihnen", "b) ungefähr", "c) wäre", "d) wann", "e) ob",
+                "f) bereits", "g) belegt", "h) beschrieben", "i) Rückmeldung", "j) jedoch",
+                "k) an", "l) auf", "m) welche", "n) schriftlich", "o) ausführlich"
               ],
-              "correctAnswer": "h",
-              "explanation": "'sich auf etwas einstellen' (Verb+Präposition, Akkusativ): 'ich hatte mich auf einen günstigen Sommer eingestellt'. 'für' passt zu anderen Verben, 'ohne' ergibt hier keinen Sinn."
+              "correctAnswer": "g",
+              "explanation": "'den Freitagabend beruflich belegt haben' – idiomatisch für 'ausgebucht / bereits verplant sein'. 'beschrieben' passt grammatisch, aber inhaltlich nicht ('den Abend beschrieben haben' ergibt keinen Sinn)."
             },
             {
               "blankNumber": 19,
               "type": "word_bank",
               "options": [
-                "a) Dank", "b) mittlerweile", "c) gesprochen", "d) klappt", "e) für",
-                "f) In", "g) erhöht", "h) auf", "i) wenigstens", "j) hoffentlich",
-                "k) herzlichen", "l) überlegt", "m) reicht", "n) ohne", "o) damit"
+                "a) Ihnen", "b) ungefähr", "c) wäre", "d) wann", "e) ob",
+                "f) bereits", "g) belegt", "h) beschrieben", "i) Rückmeldung", "j) jedoch",
+                "k) an", "l) auf", "m) welche", "n) schriftlich", "o) ausführlich"
               ],
-              "correctAnswer": "i",
-              "explanation": "'damit ich wenigstens nicht so viel Geld ... verliere' – 'wenigstens' bedeutet 'at least' und betont das minimal Erreichbare. 'hoffentlich' wäre semantisch ähnlich, aber 'wenigstens' passt besser in den Satzbau und zur Idee eines Ausgleichs für ein Problem."
+              "correctAnswer": "m",
+              "explanation": "'mir mitzuteilen, welche alternativen Termine geplant sind' – indirekter Fragesatz mit 'welche' für eine Auswahl aus Möglichkeiten. 'ob' würde eine Ja/Nein-Frage einleiten und den Informationsbedarf ungenau wiedergeben."
             },
             {
               "blankNumber": 20,
               "type": "word_bank",
               "options": [
-                "a) Dank", "b) mittlerweile", "c) gesprochen", "d) klappt", "e) für",
-                "f) In", "g) erhöht", "h) auf", "i) wenigstens", "j) hoffentlich",
-                "k) herzlichen", "l) überlegt", "m) reicht", "n) ohne", "o) damit"
+                "a) Ihnen", "b) ungefähr", "c) wäre", "d) wann", "e) ob",
+                "f) bereits", "g) belegt", "h) beschrieben", "i) Rückmeldung", "j) jedoch",
+                "k) an", "l) auf", "m) welche", "n) schriftlich", "o) ausführlich"
               ],
-              "correctAnswer": "j",
-              "explanation": "'In den Ferien fahre ich hoffentlich eine Woche ans Meer' – das Adverb 'hoffentlich' drückt den Wunsch aus. Übrig bleiben k), l), m), n), o) als Distraktoren."
+              "correctAnswer": "i",
+              "explanation": "'Für eine baldige Rückmeldung danke ich Ihnen im Voraus' – dies ist die Standard-Schlussformel formeller Anfragen. 'Rückmeldung' ist das einzige Substantiv in der Wortbank, das hier passt. Übrig bleiben j), k), l), n), o)."
             }
           ]
         }
@@ -798,34 +798,34 @@
         {
           "taskNumber": 1,
           "type": "letter",
-          "instructions": "Sie haben vor einigen Wochen einen Deutschkurs an der Volkshochschule (VHS) besucht und möchten dem Kursleiter, Herrn Weber, eine Rückmeldung geben. Schreiben Sie eine E-Mail an Herrn Weber. Gehen Sie auf alle vier Punkte unten ein. Achten Sie auf eine passende Anrede und einen passenden Gruß. Schreiben Sie ca. 150 Wörter.",
-          "instructionsTranslation": "A few weeks ago you attended a German course at the adult education center (VHS) and would like to give feedback to the course instructor, Mr. Weber. Write an email to Mr. Weber. Address all four points below. Pay attention to appropriate greeting and closing. Write approximately 150 words.",
-          "prompt": "Situation: Sie haben vor einigen Wochen den B1-Kurs an der VHS bei Herrn Weber beendet. Die VHS hat Sie per E-Mail um eine persönliche Rückmeldung gebeten, die an den Kursleiter weitergeleitet wird.\n\nSchreiben Sie eine E-Mail an Herrn Weber. Gehen Sie auf die folgenden vier Punkte ein:\n\n- Rückblick: Was hat Ihnen am Kurs besonders gut gefallen?\n- Kritikpunkt: Was hätte aus Ihrer Sicht besser organisiert werden können?\n- Nutzen: Wie setzen Sie das Gelernte jetzt im Alltag oder Beruf ein?\n- Weiterempfehlung: Würden Sie den Kurs anderen empfehlen, und wenn ja, wem?\n\nVergessen Sie nicht Anrede, Einleitung und Grußformel. Schreiben Sie ca. 150 Wörter.",
-          "promptTranslation": "Situation: A few weeks ago you completed the B1 course at the VHS with Mr. Weber. The VHS has asked you by email for personal feedback which will be forwarded to the course instructor.\n\nWrite an email to Mr. Weber. Address these four points:\n\n- Review: What did you particularly like about the course?\n- Criticism: What could have been better organized, in your view?\n- Use: How do you apply what you learned in daily life or at work?\n- Recommendation: Would you recommend the course to others, and if so, to whom?\n\nDon't forget greeting, introduction, and closing. Write approximately 150 words.",
+          "instructions": "Ihr Freund / Ihre Freundin aus dem Heimatland hat Ihnen geschrieben. Er/Sie überlegt, in seiner/ihrer Freizeit einem Verein oder einer Aktivitätsgruppe beizutreten, und bittet Sie um Rat. Schreiben Sie eine Antwort. Gehen Sie auf alle vier Punkte unten ein. Achten Sie auf eine passende Anrede und einen passenden Gruß. Schreiben Sie ca. 150 Wörter.",
+          "instructionsTranslation": "Your friend from your home country has written to you. He/She is thinking about joining a club or activity group in their spare time and asks for your advice. Write a reply. Address all four points below. Pay attention to appropriate greeting and closing. Write approximately 150 words.",
+          "prompt": "Sie haben von Ihrem Freund / Ihrer Freundin folgende Nachricht bekommen:\n\n'Ich langweile mich in meiner Freizeit ein bisschen und möchte endlich etwas Neues ausprobieren. Ich überlege, einem Verein oder einer Gruppe beizutreten, weiß aber noch nicht welchem/welcher. Was denkst du? Hast du selbst gute Erfahrungen mit einem Hobbyclub gemacht?'\n\nSchreiben Sie eine Antwort an Ihren Freund / Ihre Freundin. Gehen Sie auf die folgenden vier Punkte ein:\n\n- Empfehlung: Welchen Verein oder welche Aktivität empfehlen Sie, und warum genau?\n- Eigene Erfahrung: Sind Sie selbst in einem Verein oder einer Gruppe – was haben Sie dort erlebt?\n- Warnung: Worauf sollte man bei der Wahl eines Vereins achten?\n- Einladung: Schlagen Sie vor, etwas gemeinsam auszuprobieren.\n\nVergessen Sie nicht Anrede, Einleitung und Grußformel. Schreiben Sie ca. 150 Wörter.",
+          "promptTranslation": "You received this message from your friend:\n\n'I'm a bit bored in my free time and want to try something new. I'm thinking about joining a club or group but don't know which one yet. What do you think? Have you had good experiences with a hobby club yourself?'\n\nWrite a reply to your friend. Address these four points:\n\n- Recommendation: Which club or activity do you recommend, and exactly why?\n- Your own experience: Are you yourself in a club or group – what have you experienced there?\n- Warning: What should one pay attention to when choosing a club?\n- Invitation: Suggest trying something together.\n\nDon't forget greeting, introduction, and closing. Write approximately 150 words.",
           "requiredPoints": [
-            "Positives Feedback zum Kurs",
-            "Konstruktiver Kritikpunkt zur Organisation",
-            "Beispiel, wie Sie das Gelernte anwenden",
-            "Weiterempfehlung mit Zielgruppe"
+            "Konkreter Vereinsvorschlag mit Begründung",
+            "Persönliche Erfahrung im Verein",
+            "Warnung oder Hinweis bei der Vereinswahl",
+            "Gemeinsamer Vorschlag / Einladung"
           ],
           "wordCountMin": 130,
           "wordCountMax": 170,
-          "sampleAnswer": "Sehr geehrter Herr Weber,\n\nvielen Dank für die Möglichkeit, Ihnen nach Kursende noch ein persönliches Feedback zu geben. Gern beantworte ich die vier Fragen der VHS.\n\nAm meisten hat mir gefallen, dass wir im Unterricht viel frei gesprochen haben. Die kleinen Rollenspiele waren besonders hilfreich, weil ich dadurch meine Angst vor dem Sprechen verloren habe. Auch Ihre klaren Grammatikerklärungen waren sehr verständlich.\n\nEtwas mehr Struktur hätte ich mir beim Thema Hausaufgaben gewünscht. Die Übungen kamen manchmal spontan, und es war schwierig, sich rechtzeitig vorzubereiten. Vielleicht könnten Sie künftig einmal pro Woche einen festen Plan per E-Mail verschicken.\n\nIm Alltag profitiere ich sehr vom Kurs: Bei der Arbeit schreibe ich inzwischen selbst meine E-Mails auf Deutsch, und ich verstehe die Kollegen in Besprechungen deutlich besser.\n\nDen Kurs würde ich auf jeden Fall weiterempfehlen – besonders Kollegen, die neu in Deutschland sind und schnell sprechfähig werden möchten.\n\nMit freundlichen Grüßen\nAlex Müller",
+          "sampleAnswer": "Lieber Tobias,\n\nschön, dass du dich meldest! Ich freue mich, dass du endlich etwas Neues ausprobieren möchtest.\n\nIch würde dir auf jeden Fall einen Sportverein empfehlen – zum Beispiel einen Badminton- oder Tennisclub. Das macht nicht nur Spaß, sondern man trifft dabei viele nette Menschen. Ich selbst bin seit zwei Jahren in einem Volleyballverein, und das war eine der besten Entscheidungen meines Lebens. Wir trainieren zweimal pro Woche und fahren manchmal auch zu Turnieren.\n\nAllerdings solltest du gut auf die Mitgliedsbeiträge achten – manche Vereine sind leider ziemlich teuer. Frag am besten nach einem Probetraining, bevor du dich fest einschreibst.\n\nWenn du im Sommer zu Besuch kommst, können wir gerne zusammen zum Training gehen – ich bin sicher, mein Trainer freut sich über neue Leute.\n\nBis bald,\nSandra",
           "scoringCriteria": [
             {
               "criterion": "I. Inhaltliche Vollständigkeit",
               "maxPoints": 15,
-              "description": "Alle vier Leitpunkte (Lob, Kritik, Anwendung, Weiterempfehlung) sind klar behandelt. Wird einer dieser Punkte als nicht bearbeitet bewertet (D), erhält der gesamte Text 0 Punkte."
+              "description": "Alle vier Leitpunkte (Empfehlung mit Begründung, eigene Erfahrung, Warnung/Hinweis, gemeinsamer Vorschlag) sind klar behandelt. Wird einer als nicht bearbeitet bewertet, erhält der gesamte Text 0 Punkte."
             },
             {
               "criterion": "II. Kommunikative Gestaltung",
               "maxPoints": 15,
-              "description": "Angemessene formelle Anrede ('Sehr geehrter Herr Weber'), klare Einleitung, Verwendung passender Konnektoren (außerdem, allerdings, dadurch), formelle Grußformel, sinnvolle Absatzstruktur."
+              "description": "Passende informelle Anrede ('Lieber/Liebe ...'), freundliche Einleitung, Verwendung passender Konnektoren (außerdem, allerdings, deshalb, auf jeden Fall), informelle Grußformel, sinnvolle Absatzstruktur."
             },
             {
               "criterion": "III. Formale Richtigkeit",
               "maxPoints": 15,
-              "description": "Grammatik, Rechtschreibung und Wortwahl auf B1-Niveau. Verbformen (Perfekt, Konjunktiv II für höfliche Kritik), Satzstellung in Nebensätzen, Kasus nach Präpositionen. Schwerwiegende Grammatikfehler, die das Verständnis blockieren, führen zu D (und damit 0 Punkten für den gesamten Text)."
+              "description": "Grammatik, Rechtschreibung und Wortwahl auf B1-Niveau. Verbformen (Perfekt für Erlebnisse, Konjunktiv II für Empfehlungen 'würde'), Satzstellung in Nebensätzen, Kasus nach Präpositionen."
             }
           ]
         }
@@ -841,14 +841,13 @@
           "instructions": "Stellen Sie sich Ihrem Gesprächspartner/Ihrer Gesprächspartnerin vor. Sprechen Sie über sich: Name, Herkunft, Wohnort, Familie, Beruf oder Ausbildung, Hobbys und Sprachen. Stellen Sie anschließend Ihrem Partner/Ihrer Partnerin mindestens zwei Fragen.",
           "instructionsTranslation": "Introduce yourself to your conversation partner. Talk about: name, origin, place of residence, family, work or education, hobbies, and languages. Afterwards ask your partner at least two questions.",
           "prompt": "Bitte stellen Sie sich Ihrem Partner / Ihrer Partnerin vor. Sprechen Sie u.a. über:\n- Ihren Namen und Ihre Herkunft\n- Ihren aktuellen Wohnort und seit wann Sie dort leben\n- Ihre Familie\n- Ihren Beruf oder Ihr Studium\n- Ihre Hobbys und Interessen\n- Die Sprachen, die Sie sprechen\n\nStellen Sie danach Ihrem Partner / Ihrer Partnerin mindestens zwei Fragen, um mehr über sie/ihn zu erfahren. Vorbereitungszeit: 20 Minuten für die gesamte mündliche Prüfung.",
-          "sampleResponse": "Guten Tag, ich heiße Daniel Oliveira und komme aus Porto in Portugal. Seit zwei Jahren lebe ich in München, weil ich hier ein Masterstudium in Informatik begonnen habe. Meine Familie ist ziemlich klein: Meine Eltern, meine ältere Schwester und ich. Meine Schwester arbeitet als Architektin in Lissabon, und wir versuchen, uns mindestens zweimal im Jahr zu sehen. Im Moment bin ich Student im dritten Semester und arbeite parallel als Werkstudent bei einer kleinen Softwarefirma – das verbindet Studium und Praxis gut. In meiner Freizeit laufe ich viel, fast jeden zweiten Tag. Außerdem spiele ich Schach, sogar in einem kleinen Verein. Sprachlich: Portugiesisch ist meine Muttersprache, dazu Deutsch, Englisch und ein bisschen Französisch aus der Schulzeit. Und wie ist das bei dir? Woher kommst du eigentlich, und was studierst oder arbeitest du gerade?",
+          "sampleResponse": "Guten Tag, ich heiße Daniel Oliveira und komme aus Porto in Portugal. Seit zwei Jahren lebe ich in München, weil ich hier ein Masterstudium in Informatik begonnen habe. Meine Familie ist ziemlich klein: Meine Eltern, meine ältere Schwester und ich. Meine Schwester arbeitet als Architektin in Lissabon, und wir versuchen, uns mindestens zweimal im Jahr zu sehen. Im Moment bin ich Student im dritten Semester und arbeite parallel als Werkstudent bei einer kleinen Softwarefirma. In meiner Freizeit laufe ich viel, fast jeden zweiten Tag. Außerdem spiele ich Schach, sogar in einem kleinen Verein. Sprachlich: Portugiesisch ist meine Muttersprache, dazu Deutsch, Englisch und ein bisschen Französisch aus der Schulzeit. Und wie ist das bei dir? Woher kommst du eigentlich, und was studierst oder arbeitest du gerade?",
           "evaluationTips": [
             "Strukturieren Sie Ihre Vorstellung – beginnen Sie nicht mit Hobbys, sondern mit Name und Herkunft",
             "Verwenden Sie Nebensätze mit 'weil', 'wo', 'der/die' – das zeigt B1-Niveau",
             "Sprechen Sie in Absätzen: ein Gedanke pro Thema, nicht alles in einem langen Satz",
             "Stellen Sie echte Fragen – keine Ja/Nein-Fragen, sondern W-Fragen, die zu einem Gespräch einladen",
-            "Nennen Sie konkrete Details (Stadt, Jahre, Beruf), keine abstrakten Angaben",
-            "Reagieren Sie auf die Antworten Ihres Partners: 'Das finde ich interessant – erzähl mehr.'"
+            "Nennen Sie konkrete Details (Stadt, Jahre, Beruf), keine abstrakten Angaben"
           ],
           "keyPhrases": [
             "Ich heiße ... und komme aus ...",
@@ -866,20 +865,17 @@
           "instructions": "Sie erhalten einen kurzen Text zum Thema. Fassen Sie den Inhalt für Ihren Partner zusammen, beantworten Sie die drei Leitfragen, und tauschen Sie Ihre Meinung mit dem Partner aus.",
           "instructionsTranslation": "You receive a short text on the topic. Summarize the content for your partner, answer the three guiding questions, and exchange your opinions with your partner.",
           "prompt": "Thema: Lebenslanges Lernen\n\nLesen Sie den folgenden kurzen Text:\n\n'Viele Erwachsene in Deutschland lernen auch nach dem Abschluss ihrer Ausbildung weiter. Besonders beliebt sind Sprachkurse, Computerkurse und kreative Angebote wie Malen oder Fotografie. Die Volkshochschulen melden: Die Zahl der Teilnehmenden ist in den letzten fünf Jahren um 20 Prozent gestiegen. Experten meinen, dass lebenslanges Lernen in Zeiten schneller Veränderungen immer wichtiger wird – sowohl beruflich als auch persönlich.'\n\nLeitfragen:\n1. Fassen Sie kurz den Inhalt des Textes zusammen (in 2–3 Sätzen).\n2. Welche Kurse oder Weiterbildungen haben Sie als Erwachsener schon gemacht, und was haben Sie daraus mitgenommen?\n3. Finden Sie es eher wichtig, berufliche Kurse zu besuchen, oder eher Angebote, die einem persönlich Freude machen? Begründen Sie Ihre Meinung.\n\nSprechen Sie mit Ihrem Partner/Ihrer Partnerin über das Thema – fragen Sie auch nach seiner/ihrer Meinung.",
-          "sampleResponse": "Im Text steht, dass immer mehr Erwachsene in Deutschland weiterlernen – besonders Sprachen, Computer und kreative Angebote. Die Volkshochschulen haben zwanzig Prozent mehr Teilnehmende als vor fünf Jahren. Die Experten meinen, dass lebenslanges Lernen heute wichtiger denn je ist.\n\nIch habe selbst schon einiges gemacht. Vor zwei Jahren habe ich zum Beispiel einen Fotografie-Kurs an der VHS besucht. Das war vor allem ein Hobby, aber ich nutze die Bilder heute auch beruflich für unsere Firmen-Website. Außerdem mache ich regelmäßig Online-Kurse zu neuen Software-Tools – das ist für meine Arbeit unverzichtbar.\n\nMeiner Meinung nach sollte man beide Arten von Kursen mischen. Berufliche Weiterbildungen sind wichtig, weil sich Technik und Anforderungen schnell ändern. Aber ein Kurs, der einfach Freude macht, ist genauso wertvoll – man lernt dort andere Menschen kennen und kommt mal raus aus dem Arbeitsalltag. Einseitig nur beruflich zu lernen, finde ich auf Dauer ermüdend. Wie siehst du das – was hast du selbst schon für dich gemacht?",
+          "sampleResponse": "Im Text steht, dass immer mehr Erwachsene in Deutschland weiterlernen – besonders Sprachen, Computer und kreative Angebote. Die Volkshochschulen haben zwanzig Prozent mehr Teilnehmende als vor fünf Jahren. Die Experten meinen, dass lebenslanges Lernen heute wichtiger denn je ist.\n\nIch habe selbst schon einiges gemacht. Vor zwei Jahren habe ich zum Beispiel einen Fotografie-Kurs an der VHS besucht. Das war vor allem ein Hobby, aber ich nutze die Bilder heute auch beruflich. Außerdem mache ich regelmäßig Online-Kurse zu neuen Software-Tools.\n\nMeiner Meinung nach sollte man beide Arten von Kursen mischen. Berufliche Weiterbildungen sind wichtig, weil sich Technik schnell ändert. Aber ein Kurs, der einfach Freude macht, ist genauso wertvoll. Wie siehst du das – was hast du selbst schon für dich gemacht?",
           "evaluationTips": [
             "Beginnen Sie mit einer klaren Zusammenfassung, bevor Sie Ihre Meinung nennen",
-            "Nennen Sie konkrete Beispiele aus Ihrem eigenen Lernweg, keine allgemeinen Aussagen",
-            "Verwenden Sie Meinungsformulierungen: 'Meiner Meinung nach ...', 'Ich finde, dass ...', 'Aus meiner Sicht ...'",
-            "Gliedern Sie Vor- und Nachteile klar: 'Einerseits ..., andererseits ...'",
-            "Stellen Sie dem Partner mindestens eine inhaltliche Rückfrage",
-            "Benutzen Sie Konnektoren wie 'allerdings', 'außerdem', 'trotzdem', 'deshalb' – das wertet die Antwort auf"
+            "Nennen Sie konkrete Beispiele aus Ihrem eigenen Lernweg",
+            "Verwenden Sie Meinungsformulierungen: 'Meiner Meinung nach ...', 'Ich finde, dass ...'",
+            "Gliedern Sie Vor- und Nachteile: 'Einerseits ..., andererseits ...'",
+            "Stellen Sie dem Partner mindestens eine inhaltliche Rückfrage"
           ],
           "keyPhrases": [
             "Im Text geht es um ...",
-            "Der Text berichtet, dass ...",
             "Meiner Meinung nach ...",
-            "Ich finde es wichtig, dass ...",
             "Ein Vorteil/Nachteil ist, dass ...",
             "Einerseits ... andererseits ...",
             "Wie siehst du das?",
@@ -889,29 +885,25 @@
         {
           "partNumber": 3,
           "type": "planning",
-          "instructions": "Sie sollen mit Ihrem Partner gemeinsam etwas planen. Machen Sie Vorschläge, reagieren Sie auf die Ideen Ihres Partners und einigen Sie sich am Ende auf eine gemeinsame Lösung.",
-          "instructionsTranslation": "You are going to plan something together with your partner. Make suggestions, respond to your partner's ideas, and agree on a joint solution at the end.",
-          "prompt": "Ihre Klasse an der Sprachschule hat bald den B1-Abschluss bestanden. Sie möchten mit Ihrem Partner/Ihrer Partnerin gemeinsam eine kleine Abschlussfeier für die Klasse organisieren, zu der auch die Lehrerin eingeladen werden soll.\n\nBesprechen Sie bitte folgende Punkte und kommen Sie zu einer gemeinsamen Entscheidung:\n\n- Wann und wo soll die Feier stattfinden?\n- Wen laden Sie ein (nur die Klasse, Familien, die Lehrerin)?\n- Was soll es zu essen und zu trinken geben – und wer bringt was mit?\n- Welches kleine Geschenk überreichen Sie der Lehrerin?\n- Wer kümmert sich um Einladung, Musik und Dekoration?\n\nMachen Sie Vorschläge, gehen Sie auf die Vorschläge Ihres Partners ein und einigen Sie sich am Ende.",
-          "sampleResponse": "Also, ich würde vorschlagen, dass wir die Feier am letzten Kurstag direkt nach der Prüfung feiern – also am Freitag, den 20. Juni, ab 18 Uhr. Was hältst du davon, den Hinterhof der Sprachschule zu nutzen? Er ist groß, und wir brauchen nichts zu mieten.\n\nIch denke, wir sollten die ganze Klasse einladen, dazu unsere Lehrerin Frau Nowak, aber keine Familien – sonst wird es zu groß und unpersönlich. Wir sind also etwa sechzehn Personen.\n\nFür das Essen schlage ich ein internationales Buffet vor: Jede und jeder bringt ein kleines Gericht aus dem Heimatland mit. So wird es abwechslungsreich, und niemand muss viel kochen. Für Getränke teilen wir uns: Ich besorge Wasser, Saft und einen großen Krug selbstgemachte Limonade; du kaufst ein paar Flaschen Wein und Bier. Einverstanden?\n\nFür Frau Nowak würde ich ein gemeinsames Fotoalbum vorschlagen. Alle Kursteilnehmer schreiben einen kurzen Dankessatz, und ich klebe am Wochenende die Fotos ein. Zusätzlich sammeln wir für einen Blumenstrauß.\n\nLetzter Punkt: Ich übernehme die Einladungs-Mail an die Klasse, und du bringst deine Bluetooth-Box für die Musik mit. Die Dekoration können wir am Tag selbst eine Stunde vorher gemeinsam aufhängen. Passt das für dich?",
+          "instructions": "Sie sollen mit Ihrem Partner gemeinsam eine Party planen. Machen Sie Vorschläge, reagieren Sie auf die Ideen Ihres Partners und einigen Sie sich am Ende auf eine gemeinsame Lösung.",
+          "instructionsTranslation": "You are going to plan a party together with your partner. Make suggestions, respond to your partner's ideas, and agree on a joint solution at the end.",
+          "prompt": "Ihr gemeinsamer Freund Markus wird nächsten Monat 30 Jahre alt. Sie und Ihr Partner / Ihre Partnerin möchten ihm eine Überraschungsparty organisieren.\n\nBesprechen Sie bitte folgende Punkte und kommen Sie zu einer gemeinsamen Entscheidung:\n\n- Wann und wo soll die Party stattfinden?\n- Wen laden Sie ein?\n- Was soll es zu essen und zu trinken geben?\n- Was für Musik und Unterhaltung planen Sie?\n- Was schenkt die Gruppe Markus gemeinsam?\n\nMachen Sie Vorschläge, gehen Sie auf die Vorschläge Ihres Partners ein und einigen Sie sich am Ende.",
+          "sampleResponse": "Also, ich denke, wir sollten die Party an einem Samstag machen – am besten am 14. Juni, damit Markus rechtzeitig Bescheid weiß, dass er den Abend freihalten soll, ohne zu wissen warum. Was hältst du davon, die Party bei mir zu Hause zu feiern? Mein Wohnzimmer ist groß genug für zwanzig Leute.\n\nFür die Gästeliste würde ich vorschlagen: seine engsten Freunde, also etwa fünfzehn bis zwanzig Personen, und seine Geschwister. Die Eltern müssen natürlich eingeweiht werden, damit die Überraschung klappt.\n\nFürs Essen schlage ich ein Buffet vor – jeder bringt ein Gericht mit. Ich besorge Getränke und backe einen Geburtstagskuchen.\n\nFür Musik bringe ich meine Playlist mit Markus' Lieblingssongs. Wenn wir wollen, könnten wir auch eine kleine Fotowand aufbauen mit Bildern von früher – das fände ich sehr persönlich.\n\nAls Geschenk schlage ich vor, dass wir alle zusammenlegen und ihm einen Konzertgutschein schenken. Wäre das in Ordnung für dich?",
           "evaluationTips": [
-            "Sprechen Sie nicht nur, sondern hören Sie auch aktiv zu – reagieren Sie auf die Vorschläge Ihres Partners",
-            "Machen Sie Vorschläge mit Konjunktiv II ('Ich würde vorschlagen ...', 'Wir könnten ...') – das wirkt höflich",
-            "Begründen Sie Ihre Vorschläge kurz: 'weil', 'damit', 'denn'",
-            "Einigen Sie sich am Ende wirklich – ein 'Das machen wir so, einverstanden?' zeigt Abschluss",
-            "Vermeiden Sie Monologe – lassen Sie dem Partner Raum für eigene Ideen",
-            "Verwenden Sie Modalverben: 'sollten wir', 'können wir', 'müssen wir' – das zeigt Planungssprache",
-            "Fassen Sie am Ende die wichtigsten Entscheidungen kurz zusammen"
+            "Machen Sie konkrete Vorschläge mit Begründung: 'Ich schlage vor, weil ...'",
+            "Hören Sie aktiv zu und bauen Sie auf den Vorschlägen Ihres Partners auf",
+            "Verwenden Sie Konjunktiv II für höfliche Vorschläge: 'Ich würde vorschlagen ...', 'Wir könnten ...'",
+            "Einigen Sie sich klar am Ende – sagen Sie explizit, womit Sie einverstanden sind",
+            "Reagieren Sie auf Einwände: 'Das stimmt, aber ...', 'Dann könnten wir stattdessen ...'"
           ],
           "keyPhrases": [
-            "Ich würde vorschlagen, dass ...",
+            "Ich schlage vor, dass wir ...",
             "Was hältst du davon, wenn ...?",
-            "Wir könnten ... machen.",
-            "Das ist eine gute Idee, aber ...",
-            "Alternativ könnten wir auch ...",
-            "Wer übernimmt ...?",
-            "Ich kann ... / Du bringst ... mit, okay?",
-            "Einverstanden!",
-            "Dann halten wir fest: ..."
+            "Ich würde lieber ..., weil ...",
+            "Einverstanden / Das klingt gut.",
+            "Wir könnten auch ...",
+            "Dann wären wir uns einig, dass ...",
+            "Ich kümmere mich um ..., und du übernimmst ...?"
           ]
         }
       ]

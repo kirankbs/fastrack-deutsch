@@ -11,8 +11,10 @@ import { getMockExam, MOCK_EXAM_CATALOG, getAvailableLevels } from '@fastrack/co
 import type { Level } from '@fastrack/types';
 
 describe('getMockExam — static data, no fs at request time', () => {
-  it('returns a non-null MockExam for every catalog-listed mock', () => {
-    for (const entry of MOCK_EXAM_CATALOG) {
+  it('returns a non-null MockExam for every shipped catalog mock (hasContent: true)', () => {
+    // B1 mocks 11–15 are planned stubs (hasContent: false) — no JSON file yet.
+    const shippedEntries = MOCK_EXAM_CATALOG.filter((e) => e.hasContent);
+    for (const entry of shippedEntries) {
       const result = getMockExam(entry.level, entry.mockNumber);
       expect(result, `${entry.id} should be non-null`).not.toBeNull();
       expect(result?.id).toBe(entry.id);
@@ -20,9 +22,19 @@ describe('getMockExam — static data, no fs at request time', () => {
     }
   });
 
-  it('all 50 mocks resolve (5 levels × 10 each)', () => {
+  it('returns null for catalog stubs with hasContent: false (B1 mocks 11–15)', () => {
+    const plannedEntries = MOCK_EXAM_CATALOG.filter((e) => !e.hasContent);
+    expect(plannedEntries).toHaveLength(5);
+    for (const entry of plannedEntries) {
+      const result = getMockExam(entry.level, entry.mockNumber);
+      expect(result, `${entry.id} is a planned stub — should return null`).toBeNull();
+    }
+  });
+
+  it('all 50 shipped mocks resolve (A1×10 + A2×10 + B1×10 + B2×10 + C1×10)', () => {
     let count = 0;
     for (const level of getAvailableLevels()) {
+      // Only test the 10 shipped mocks per level; B1 11–15 are stubs
       for (let n = 1; n <= 10; n++) {
         const result = getMockExam(level, n);
         expect(result, `${level} mock ${n} should not be null`).not.toBeNull();
