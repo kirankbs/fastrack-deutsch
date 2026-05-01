@@ -1,0 +1,244 @@
+<speak>
+  <!-- C1 Mock 01 — Teil 2 (10 MCQ-3opt, Radiointerview, playCount=1) -->
+  <!-- Moderator: de-DE-Wavenet-E (male) — radio interviewer -->
+  <!-- Expert: de-DE-Wavenet-A (female) — Prof. Dr. Hagedorn, Hochschuldidaktik-Forscherin -->
+  <!-- Announcer: de-DE-Wavenet-C (female, neutral) -->
+  <!-- C1 spec: natural speed 1.0x, continuous interview register, played ONCE -->
+  <!-- Hedging, qualification, self-correction markers throughout -->
+  <!-- 10-second initial pause for candidates to read questions -->
+
+  <break time="3s"/>
+
+  <voice name="de-DE-Wavenet-C">
+    <prosody rate="1.0">
+      Hörverstehen, Teil 2. Sie hören ein Interview mit Professorin Dr. Hagedorn
+      zum Thema hybride Lehre an Hochschulen.
+      Lesen Sie zuerst die zehn Aufgaben in Ihrem Testheft.
+      Hören Sie dann das Interview. Was ist richtig?
+      Sie hören das Interview nur einmal.
+    </prosody>
+    <break time="10s"/>
+  </voice>
+
+  <!-- Sendungseinstieg -->
+  <voice name="de-DE-Wavenet-E">
+    <prosody rate="1.0">
+      Guten Tag, liebe Hörerinnen und Hörer. In unserer heutigen Sendung geht es um ein Thema,
+      das seit der Pandemie die Hochschulen nicht mehr loslässt: hybride Lehre. Meine Gästin ist
+      Professorin Dr. Elke Hagedorn vom Zentrum für Hochschuldidaktik der Universität Münster.
+      Frau Professorin Hagedorn, herzlich willkommen.
+    </prosody>
+  </voice>
+  <voice name="de-DE-Wavenet-A">
+    <prosody rate="1.0">
+      Vielen Dank — ich freue mich sehr, hier zu sein und über ein Thema sprechen zu können,
+      das mir wirklich am Herzen liegt.
+    </prosody>
+  </voice>
+  <break time="1s"/>
+
+  <!-- Frage 1: Was unter Druck gerät durch Digitalisierung -->
+  <voice name="de-DE-Wavenet-E">
+    <prosody rate="1.0">
+      Was ist eigentlich das Besondere an einer Universität — und was gerät durch Digitalisierung
+      am stärksten unter Druck?
+    </prosody>
+  </voice>
+  <voice name="de-DE-Wavenet-A">
+    <prosody rate="1.0">
+      Das ist eine Frage, die ich gerne stelle, wenn ich mit Hochschulleitungen arbeite.
+      Was unterscheidet eine Universität von einem guten Fernstudienportal? Im Kern ist es
+      der lebendige intellektuelle Austausch — das Seminar, in dem eine Frage die nächste
+      aufwirft, das Gespräch im Flur, das eine Forschungsidee plötzlich in eine neue Richtung
+      lenkt, das Ringen um Argumente in Echtzeit. Genau das gerät durch reine Onlinelehre
+      unter Druck. Nicht das Wissen, das man übertragen kann — das, was entsteht, wenn
+      Menschen gemeinsam denken.
+    </prosody>
+  </voice>
+  <break time="1s"/>
+
+  <!-- Frage 2: Lernergebnisse Online vs. Präsenz -->
+  <voice name="de-DE-Wavenet-E">
+    <prosody rate="1.0">
+      Aber sind Online-Lernumgebungen nicht längst auf Augenhöhe mit Präsenzformaten? Die Studien
+      dazu sind ja sehr unterschiedlich.
+    </prosody>
+  </voice>
+  <voice name="de-DE-Wavenet-A">
+    <prosody rate="1.0">
+      Da muss ich differenzieren — und das ist wichtig. Die Metaanalysen zeigen tatsächlich:
+      Wenn Online-Lehre gut konzipiert ist, mit klaren Lernzielen, aktivem Feedback und sozialer
+      Einbindung, sind die Lernergebnisse durchaus vergleichbar mit Präsenzformaten.
+      Das Stichwort ist 'gut konzipiert' — nicht einfach eine Vorlesung per Stream.
+      Pauschal zu sagen, Online sei schlechter oder besser, greift zu kurz und ignoriert
+      die enorme Bandbreite beider Formate.
+    </prosody>
+  </voice>
+  <break time="1s"/>
+
+  <!-- Frage 3: Hauptproblem hybrider Lehre -->
+  <voice name="de-DE-Wavenet-E">
+    <prosody rate="1.0">
+      Hybride Lehre gilt als der Mittelweg. Sehen Sie das auch so?
+    </prosody>
+  </voice>
+  <voice name="de-DE-Wavenet-A">
+    <prosody rate="1.0">
+      Jein. Der Ansatz ist richtig, die Umsetzung oft problematisch. Das Grundproblem ist,
+      dass hybride Lehre meist als Notlösung entstand — man schaltet eine Kamera dazu,
+      die zugeschalteten Studierenden sehen pixelige Folien, und hofft, dass das irgendwie reicht.
+      Aber hybrides Unterrichten ist eine eigene didaktische Disziplin, mit eigenen Regeln,
+      eigenen Werkzeugen, eigenen Tücken. Wer das nicht versteht, erhält das Schlechteste
+      aus zwei Welten: eine mittelmäßige Präsenzveranstaltung und eine schlechte Übertragung.
+    </prosody>
+  </voice>
+  <break time="1s"/>
+
+  <!-- Frage 4: Präsenzpflicht -->
+  <voice name="de-DE-Wavenet-E">
+    <prosody rate="1.0">
+      Was empfehlen Sie Hochschulen bei der Frage der Präsenzpflicht? Ein heißes Thema
+      nach der Pandemie.
+    </prosody>
+  </voice>
+  <voice name="de-DE-Wavenet-A">
+    <prosody rate="1.0">
+      Eine Vorlesung, die ich mir morgen als Aufzeichnung ansehen oder als Podcast hören könnte,
+      hat keine starke Begründung für Anwesenheitspflicht — es sei denn, es gibt interaktive
+      Elemente, die sich nicht konservieren lassen. Aber ein Seminar, das von lebhafter Diskussion
+      lebt, oder ein Laborpraktikum — da ist Anwesenheit nicht optional, das liegt in der Natur
+      der Sache. Die Frage ist also nicht pauschal: Pflicht oder keine Pflicht —
+      sondern: Welches Format erfordert Präsenz, und warum?
+    </prosody>
+  </voice>
+  <break time="1s"/>
+
+  <!-- Frage 5: Sozioökonomische Benachteiligung -->
+  <voice name="de-DE-Wavenet-E">
+    <prosody rate="1.0">
+      Hybride Lehre wird oft als demokratisierendes Format gelobt. Stimmt das?
+    </prosody>
+  </voice>
+  <voice name="de-DE-Wavenet-A">
+    <prosody rate="1.0">
+      Das ist eine der romantischeren Erzählungen, die ich gerne kritisch hinterfrage.
+      Wir dürfen nicht vergessen, dass nicht alle Studierenden zu Hause vergleichbare Bedingungen
+      haben — stabile Internetverbindung, ruhigen Arbeitsplatz, aktuellen Laptop.
+      Wenn ich hybride Lehre einführe, ohne das zu berücksichtigen, kann ich bestehende
+      sozioökonomische Ungleichheiten verschärfen, statt sie abzubauen. Studierende, die
+      gezwungen sind, von beengten Wohnverhältnissen aus zu lernen, sind gegenüber jenen
+      in ruhigen Elternhäusern strukturell benachteiligt. Das ist kein Randproblem.
+    </prosody>
+  </voice>
+  <break time="1s"/>
+
+  <!-- Frage 6: Bewertung von Lehrqualität -->
+  <voice name="de-DE-Wavenet-E">
+    <prosody rate="1.0">
+      Wie gut erfassen die deutschen Hochschulen eigentlich die Qualität von Lehre?
+    </prosody>
+  </voice>
+  <voice name="de-DE-Wavenet-A">
+    <prosody rate="1.0">
+      Ehrlich gesagt: nicht sehr gut. Die dominante Methode ist die studentische Evaluation
+      am Ende des Semesters — und die ist notorisch unzuverlässig. Sie misst oft eher
+      Zufriedenheit als tatsächlichen Lernerfolg. Ob Studierende nach einem Kurs wirklich
+      kompetenter in einem Fach sind, lässt sich damit kaum erfassen. Wir bräuchten
+      differenziertere Instrumente, die auch tatsächliche Kompetenzzuwächse messen —
+      Prä-Post-Tests, Portfolio-Ansätze, lernprozessbegleitende Rückmeldungen.
+      Das ist aufwendiger, aber aussagekräftiger.
+    </prosody>
+  </voice>
+  <break time="1s"/>
+
+  <!-- Frage 7: Peer Learning -->
+  <voice name="de-DE-Wavenet-E">
+    <prosody rate="1.0">
+      Was ist mit Peer Learning — also dem Lernen voneinander? Funktioniert das in hybriden
+      Formaten?
+    </prosody>
+  </voice>
+  <voice name="de-DE-Wavenet-A">
+    <prosody rate="1.0">
+      Überraschend gut, wenn man es bewusst gestaltet. Peer Learning — das voneinander Lernen
+      in kleinen Gruppen — funktioniert in Hybridformaten oft sogar intensiver als in manchen
+      Präsenzseminaren, weil digitale Kollaborationstools es ermöglichen, gleichzeitig an
+      Dokumenten zu arbeiten, Kommentare zu hinterlassen, Prozesse sichtbar zu machen.
+      Das Schlüsselwort ist 'bewusst gestaltet' — Peer Learning passiert nicht von selbst,
+      man muss es als didaktisches Element einplanen und moderieren.
+    </prosody>
+  </voice>
+  <break time="1s"/>
+
+  <!-- Frage 8: KI-Assistenten -->
+  <voice name="de-DE-Wavenet-E">
+    <prosody rate="1.0">
+      Ein letztes großes Thema: KI-Assistenten in der Hochschullehre. Verbot, Regulierung,
+      freie Nutzung — was empfehlen Sie?
+    </prosody>
+  </voice>
+  <voice name="de-DE-Wavenet-A">
+    <prosody rate="1.0">
+      Ich sehe KI als Werkzeug — wie jedes Werkzeug kann es sinnvoll oder unsinnig eingesetzt
+      werden. KI kann helfen beim Strukturieren von Gedanken, bei Recherchen, beim sprachlichen
+      Schleifen eines Textes. Aber wenn KI immer stärker das Denken übernimmt, das Studierende
+      eigentlich selbst leisten sollten — Hypothesen entwickeln, Argumente abwägen, Schlüsse ziehen —
+      dann verlieren wir einen wesentlichen Teil des Lernprozesses. Es geht nicht um Verbot,
+      sondern um bewussten Einsatz mit klaren Lernzielen. Und Lehrende müssen selbst verstehen,
+      was KI kann und was nicht.
+    </prosody>
+  </voice>
+  <break time="1s"/>
+
+  <!-- Frage 9: Internationaler Vergleich -->
+  <voice name="de-DE-Wavenet-E">
+    <prosody rate="1.0">
+      Wie steht Deutschland im internationalen Vergleich bei der digitalen Hochschullehre?
+    </prosody>
+  </voice>
+  <voice name="de-DE-Wavenet-A">
+    <prosody rate="1.0">
+      Da muss ich ehrlich sein: Wenn ich mir anschaue, was Hochschulen in Kanada, den Niederlanden
+      oder Australien in den letzten zehn Jahren an durchdachten digitalen Lehrkonzepten entwickelt
+      haben — eigene Zentren für Hochschuldidaktik, systematische Dozierendenfortbildung,
+      forschungsbasierte Evaluationskultur — dann müssen wir in Deutschland eingestehen:
+      Wir haben dort erheblichen Nachholbedarf. Das liegt nicht an den Lehrenden, sondern
+      an fehlenden strukturellen Rahmenbedingungen und Ressourcen.
+    </prosody>
+  </voice>
+  <break time="1s"/>
+
+  <!-- Frage 10: Abschlussforderung -->
+  <voice name="de-DE-Wavenet-E">
+    <prosody rate="1.0">
+      Was wäre Ihre wichtigste Forderung an die Hochschulpolitik?
+    </prosody>
+  </voice>
+  <voice name="de-DE-Wavenet-A">
+    <prosody rate="1.0">
+      Meine wichtigste Forderung ist eigentlich eine Haltungsveränderung: Hybride Lehre muss
+      aufhören, als Notlösung oder Übergangsformat betrachtet zu werden. Sie ist ein eigenständiges,
+      hochwertiges Lehrformat — mit großem Potenzial, wenn man es ernsthaft entwickelt.
+      Das erfordert Investitionen: in Dozierendenfortbildung, in didaktische Begleitung,
+      in technische Infrastruktur. Wer heute in gute hybride Lehre investiert, investiert
+      in die Bildungsqualität von morgen. Das sollte keine Option sein — das sollte Priorität haben.
+    </prosody>
+  </voice>
+  <break time="1s"/>
+
+  <voice name="de-DE-Wavenet-E">
+    <prosody rate="1.0">
+      Frau Professorin Hagedorn, herzlichen Dank für dieses Gespräch.
+    </prosody>
+  </voice>
+  <voice name="de-DE-Wavenet-A">
+    <prosody rate="1.0">
+      Ich danke Ihnen — und freue mich, wenn die eine oder andere Hochschule darüber nachdenkt.
+    </prosody>
+  </voice>
+  <break time="3s"/>
+
+  <voice name="de-DE-Wavenet-C">
+    <prosody rate="1.0">Das ist das Ende von Teil 2.</prosody>
+  </voice>
+</speak>
