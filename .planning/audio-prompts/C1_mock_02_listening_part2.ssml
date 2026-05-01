@@ -1,0 +1,226 @@
+<speak>
+  <!-- C1 Mock 02 — Teil 2 (10-Fragen MCQ Interview, playCount=1) -->
+  <!-- Theme: Bildung und Hochschule — Interview mit Prof. Dr. Hartmann, Bildungswissenschaftlerin -->
+  <!-- Interviewer: de-DE-Wavenet-C (female, neutral) -->
+  <!-- Interviewee: de-DE-Wavenet-B (male, academic register) -->
+  <!-- Announcer: de-DE-Wavenet-C -->
+  <!-- C1 spec: natural speed 1.0x, played ONCE -->
+  <!-- 10-second initial pause for candidates to read questions before audio begins -->
+  <!-- Interview answers embed all 10 question-answers naturally in dialogue flow -->
+  <!-- Correct answers (in order): b, c, b, b, b, b, b, b, a, b -->
+
+  <break time="3s"/>
+
+  <voice name="de-DE-Wavenet-C">
+    <prosody rate="1.0">
+      Hörverstehen, Teil 2. Sie hören ein Interview mit Professor Doktor Hartmann
+      zum Thema Bologna-Reform und Hochschulpolitik.
+      Lesen Sie zuerst die zehn Aufgaben in Ihrem Testheft.
+      Hören Sie dann das Interview. Was ist richtig?
+      Kreuzen Sie an: a, b oder c.
+      Sie hören das Interview nur einmal.
+    </prosody>
+    <break time="10s"/>
+  </voice>
+
+  <!-- INTERVIEW BEGINNT -->
+
+  <voice name="de-DE-Wavenet-C">
+    <prosody rate="1.0">
+      Frau Professor Hartmann, Sie forschen seit über zwanzig Jahren zu Hochschulpolitik.
+      Wenn Sie die Bologna-Reform bilanzieren — wie bewerten Sie den gegenwärtigen Diskurs?
+    </prosody>
+  </voice>
+  <break time="1s"/>
+
+  <voice name="de-DE-Wavenet-B">
+    <prosody rate="1.0">
+      Das Grundproblem ist, dass die meisten Bologna-Debatten, die ich höre,
+      von Nostalgie geprägt werden statt von empirischen Daten.
+      Es gibt ein idealisiertes Bild des alten Diplomstudiums, das so nie existiert hat —
+      das war auch ein System voller Probleme: überlange Studiendauern,
+      fehlende Transparenz, kaum internationale Anschlussfähigkeit.
+      Wer die Reform fair beurteilen will, braucht Daten, nicht Erinnerungen.
+    </prosody>
+  </voice>
+  <break time="1s"/>
+
+  <voice name="de-DE-Wavenet-C">
+    <prosody rate="1.0">
+      Aber ist der Vorwurf, Modularisierung habe Lerntiefe beschädigt, wirklich unbegründet?
+    </prosody>
+  </voice>
+  <break time="1s"/>
+
+  <voice name="de-DE-Wavenet-B">
+    <prosody rate="1.0">
+      Modularisierung ist ein Werkzeug. Wie jedes Werkzeug kann man es klug oder stumpfsinnig einsetzen.
+      Wenn Modulziele tiefes Verständnis erfordern und nicht bloßes Abhaken,
+      entsteht kein struktureller Widerspruch zur Lerntiefe.
+      Das Problem ist nicht das Instrument, sondern wie Hochschulen es implementiert haben —
+      oft unter erheblichem Zeitdruck und ohne ausreichende didaktische Begleitung.
+    </prosody>
+  </voice>
+  <break time="1s"/>
+
+  <voice name="de-DE-Wavenet-C">
+    <prosody rate="1.0">
+      Was hat die Reform aus Ihrer Sicht messbar verbessert?
+    </prosody>
+  </voice>
+  <break time="1s"/>
+
+  <voice name="de-DE-Wavenet-B">
+    <prosody rate="1.0">
+      Was messbar besser geworden ist, ist die europäische Studierendenmobilität.
+      Erasmus-Zahlen sind gestiegen, Anerkennungsverfahren vereinfacht.
+      Das ist kein symbolischer Fortschritt — das verändert Lebensläufe.
+      Wer heute in Utrecht ein Semester studiert, kann die Leistungen an seiner Heimatuniversität
+      weitgehend unkompliziert einbringen. Das war vor Bologna erheblich schwieriger.
+    </prosody>
+  </voice>
+  <break time="1s"/>
+
+  <voice name="de-DE-Wavenet-C">
+    <prosody rate="1.0">
+      Wie beurteilen Sie Studiengebühren aus bildungsökonomischer Sicht?
+    </prosody>
+  </voice>
+  <break time="1s"/>
+
+  <voice name="de-DE-Wavenet-B">
+    <prosody rate="1.0">
+      Die Forschung zeigt: Gebühren allein sagen wenig.
+      Entscheidend ist, ob es funktionierende Stipendiensysteme gibt,
+      ob Darlehen sozial verträglich gestaltet sind — also etwa einkommensabhängige Rückzahlung —
+      und ob Hochschulen die Einnahmen tatsächlich in Lehre reinvestieren.
+      Ohne diese Rahmenbedingungen sind Gebühren regressiv.
+      Mit ihnen können sie ein durchaus vertretbares Finanzierungselement sein.
+      Die Frage ist also nicht ob, sondern wie — und das ist eine politische Entscheidung.
+    </prosody>
+  </voice>
+  <break time="1s"/>
+
+  <voice name="de-DE-Wavenet-C">
+    <prosody rate="1.0">
+      Sie haben in Ihrer Forschung den Zusammenhang zwischen Beschäftigungsverhältnissen
+      und akademischer Freiheit untersucht. Was ist Ihr Befund?
+    </prosody>
+  </voice>
+  <break time="1s"/>
+
+  <voice name="de-DE-Wavenet-B">
+    <prosody rate="1.0">
+      Ein Wissenschaftssystem, das über zwei Drittel seines akademischen Mittelbaus
+      auf befristeten Stellen hält, hat ein strukturelles Freiheitsproblem —
+      unabhängig davon, was im Grundgesetz steht.
+      Wer alle drei Jahre um Verlängerung bangen muss, denkt zweimal nach,
+      bevor er die herrschende Meinung in seinem Fach öffentlich hinterfragt.
+      Das ist keine individuelle Schwäche — das ist eine rationale Reaktion
+      auf falsche strukturelle Anreize. Akademische Freiheit ohne sichere Beschäftigung
+      ist für weite Teile des Mittelbaus eine schöne Idee, keine gelebte Realität.
+    </prosody>
+  </voice>
+  <break time="1s"/>
+
+  <voice name="de-DE-Wavenet-C">
+    <prosody rate="1.0">
+      Was kritisieren Sie an internationalen Hochschulrankings?
+    </prosody>
+  </voice>
+  <break time="1s"/>
+
+  <voice name="de-DE-Wavenet-B">
+    <prosody rate="1.0">
+      Kein einziges der großen Rankings misst, ob Studierende aus einkommensschwachen Familien
+      der Aufstieg gelingt, oder ob Lehrende tatsächlich gute Lehrende sind.
+      Das sind Blindstellen, die für bildungspolitische Entscheidungen gefährlich sind.
+      Eine Universität, die gezielt zitationsstarke Professoren einstellt
+      und abiturstarke Studierende bevorzugt, verbessert ihr Ranking —
+      ohne dass Lehrqualität oder soziale Durchlässigkeit gestiegen sein müssen.
+      Das ist systematische Fehlinformation — schön verpackt in Zahlen.
+    </prosody>
+  </voice>
+  <break time="1s"/>
+
+  <voice name="de-DE-Wavenet-C">
+    <prosody rate="1.0">
+      Wie positionieren Sie sich zur Debatte über Cancel Culture an Universitäten?
+    </prosody>
+  </voice>
+  <break time="1s"/>
+
+  <voice name="de-DE-Wavenet-B">
+    <prosody rate="1.0">
+      Den chilling effect halte ich für empirisch belegbar — das ist kein akademisches Phantom.
+      Aber der Begriff Cancel Culture wird auch instrumentalisiert,
+      um legitime Kritik an problematischen Positionen zu delegitimieren.
+      Wer sagt, er werde gecancelt, weil seine Thesen öffentlich widersprochen werden,
+      verwechselt Diskurs mit Zensur. Beides muss man auseinanderhalten —
+      sonst schützt man unter dem Banner der Freiheit Positionen,
+      die akademisch schlicht nicht haltbar sind.
+    </prosody>
+  </voice>
+  <break time="1s"/>
+
+  <voice name="de-DE-Wavenet-C">
+    <prosody rate="1.0">
+      Wie beurteilen Sie den Stand der Wissenschaftsethik in der deutschen Hochschullehre?
+    </prosody>
+  </voice>
+  <break time="1s"/>
+
+  <voice name="de-DE-Wavenet-B">
+    <prosody rate="1.0">
+      Alle sind sich einig, dass Wissenschaftsethik wichtig ist.
+      Aber wenn ich mir anschaue, wie viele Studienprogramme tatsächlich verpflichtende Ethikmodule haben,
+      ist die Diskrepanz zwischen Bekenntnissen und Praxis erschreckend.
+      In der Medizin und Biologie hat sich etwas getan. In den Ingenieurwissenschaften,
+      in der Informatik — auch. Aber in der Mehrzahl der Fächer bleibt Ethik
+      ein Randthema, das in einem Seminar am Rande auftaucht und wieder verschwindet.
+      Das halte ich für nicht akzeptabel.
+    </prosody>
+  </voice>
+  <break time="1s"/>
+
+  <voice name="de-DE-Wavenet-C">
+    <prosody rate="1.0">
+      Sehen Sie die öffentliche Hochschulfinanzierung als nachhaltig?
+    </prosody>
+  </voice>
+  <break time="1s"/>
+
+  <voice name="de-DE-Wavenet-B">
+    <prosody rate="1.0">
+      Wenn wir ehrlich sind: Die öffentliche Finanzierung der Hochschulen ist seit Jahrzehnten
+      strukturell unzureichend. Hochschulen kompensieren das über Drittmittel,
+      über Stiftungsgelder, über die Überlastung ihres Personals.
+      Ohne alternative Finanzierungsquellen ist dieses Modell nicht dauerhaft tragfähig.
+      Ob das Studiengebühren bedeuten muss, ist eine politische Abwägung —
+      aber die Alternative, so zu tun, als sei alles in Ordnung, ist keine Antwort.
+    </prosody>
+  </voice>
+  <break time="1s"/>
+
+  <voice name="de-DE-Wavenet-C">
+    <prosody rate="1.0">
+      Was ist Ihr abschließendes Fazit zur Bologna-Reform?
+    </prosody>
+  </voice>
+  <break time="1s"/>
+
+  <voice name="de-DE-Wavenet-B">
+    <prosody rate="1.0">
+      Wir brauchen nicht weniger Bologna, sondern mehr — mehr von dem,
+      was 1999 eigentlich versprochen wurde: echte Durchlässigkeit,
+      soziale Gerechtigkeit, wirkliche Mobilität.
+      Das erste Jahrzehnt hat die Strukturen geschaffen.
+      Das zweite hat diese Strukturen stabilisiert, aber die sozialen Versprechen
+      nicht eingelöst. Was wir brauchen, ist eine zweite Phase,
+      die soziale Ziele mit derselben Konsequenz verfolgt
+      wie einst die Strukturreform. Das ist keine Nostalgie — das ist eine unerledigte Aufgabe.
+    </prosody>
+  </voice>
+  <break time="3s"/>
+
+</speak>

@@ -1,0 +1,117 @@
+<speak>
+  <!-- C1 Mock 02 — Teil 3 (10 gap-fill, academic Vortrag, playCount=1) -->
+  <!-- Theme: Hochschulbildung im Wandel — Strukturen, Reformen, Herausforderungen -->
+  <!-- Speaker: de-DE-Wavenet-A (female) — academic lecturer, wissenschaftlich-populär register -->
+  <!-- Announcer: de-DE-Wavenet-C (female) -->
+  <!-- C1 spec: natural speed 1.0x, NO internal pauses between gaps (continuous lecture), played ONCE -->
+  <!-- CR-11: NO HV3 gap cues — answers embedded naturally, no "tragen Sie ein" meta-prompts -->
+  <!-- CR-12: type=mcq (confirmed in JSON) -->
+  <!-- 10-second initial pause for candidates to survey slides before audio begins -->
+  <!-- Gap answers (in lecture order): -->
+  <!--   Gap 1: über zwei Drittel         |  Gap 2: Employability -->
+  <!--   Gap 3: Erasmus                   |  Gap 4: fächerübergreifendes Denken -->
+  <!--   Gap 5: Effizienzanreiz zum schnelleren Abschluss  |  Gap 6: Schuldenaversion -->
+  <!--   Gap 7: chilling effect           |  Gap 8: aktive Moderation -->
+  <!--   Gap 9: Medizin, Biologie und Informatik           |  Gap 10: fächerübergreifendes Pflichtmodul Wissenschaftsethik -->
+
+  <break time="3s"/>
+
+  <voice name="de-DE-Wavenet-C">
+    <prosody rate="1.0">
+      Hörverstehen, Teil 3. Sie hören einen akademischen Vortrag
+      zum Thema Hochschulbildung im Wandel.
+      In Ihrem Testheft finden Sie fünf Folien mit je zwei Lücken.
+      Füllen Sie die Lücken während des Vortrags aus.
+      Sie hören den Vortrag nur einmal.
+    </prosody>
+    <break time="10s"/>
+  </voice>
+
+  <!-- VORTRAG BEGINNT — KEINE INTERNEN PAUSEN ZWISCHEN DEN LÜCKEN -->
+  <voice name="de-DE-Wavenet-A">
+    <prosody rate="1.0">
+      Meine Damen und Herren, ich möchte heute über ein Thema sprechen,
+      das uns alle direkt betrifft — die Transformation der deutschen und europäischen Hochschullandschaft
+      in den letzten Jahrzehnten. Ich werde dabei vier Brennpunkte beleuchten:
+      die strukturellen Veränderungen durch die Bologna-Reform,
+      die Frage der Studiengebühren, die Debatte um akademische Freiheit
+      und schließlich den Stand der Wissenschaftsethik in der Hochschullehre.
+
+      Beginnen wir mit einem Befund, der für viele überraschend ist.
+      Das deutsche Wissenschaftssystem rühmt sich seiner akademischen Freiheit —
+      und doch ist die Beschäftigungssituation des wissenschaftlichen Mittelbaus
+      eine der prekärsten innerhalb der OECD-Staaten.
+      Über zwei Drittel des akademischen Mittelbaus an deutschen Hochschulen
+      sind auf befristeten Stellen beschäftigt.
+      Das ist kein Randphänomen — es ist das Strukturprinzip.
+      Dieser Befund ist unmittelbar relevant für Folie eins, wo Sie die Beschäftigungsquote notieren.
+      Dem Humboldtschen Ideal der Einheit von Forschung und Lehre steht heute ein anderes Paradigma gegenüber:
+      das Konzept der Employability — der Beschäftigungsfähigkeit als primäres Bildungsziel.
+      Diese Spannung zwischen Humboldts Bildungsideal und dem modernen Konzept der Employability
+      prägt die gesamte Reformdebatte.
+
+      Kommen wir zu Folie zwei und zur Bilanz der Bologna-Reform.
+      Die Reform hat zweifellos Gewinne erbracht.
+      Der bedeutendste ist die gestiegene europäische Studierendenmobilität.
+      Das Erasmus-Programm — das konkrete EU-Programm, das Sie für Folie zwei notieren —
+      profitierte erheblich von der Vergleichbarkeit der Studienstrukturen.
+      Wer heute in einem europäischen Land ein Semester studiert,
+      kann die Leistungen an der Heimatuniversität weitgehend problemlos einbringen.
+      Das war vor Bologna bürokratisch kaum realisierbar.
+      Auf der Verlustseite steht, was Bildungswissenschaftler als strukturelle Verengung bezeichnen:
+      Die Modularisierung hat das Curriculum verdichtet und beschleunigt.
+      Was dabei auf der Strecke bleibt, ist fächerübergreifendes Denken —
+      die Fähigkeit, über disziplinäre Grenzen hinaus Zusammenhänge herzustellen.
+      Wer in einem Semester sechs Module jongliert, denkt horizontal,
+      aber tiefes, fächerverbindendes Denken braucht Räume, die das System kaum mehr bietet.
+
+      Folie drei widmet sich der Frage der Studiengebühren — in Deutschland
+      nach wie vor ein hochpolitisches Thema.
+      Betrachten wir zunächst die Argumente für Gebühren.
+      Das erste ist das Finanzierungsargument: Hochschulen sind strukturell unterfinanziert.
+      Das zweite Argument ist ein Effizienzargument:
+      Wenn Studierende für ihr Studium zahlen, haben sie einen stärkeren Anreiz,
+      es in der Regelstudienzeit abzuschließen —
+      einen Effizienzanreiz zum schnelleren Abschluss, wie Bildungsökonomen es nennen.
+      Das stärkste Gegenargument ist psychologischer Natur:
+      die sogenannte Schuldenaversion.
+      Auch wenn Darlehen theoretisch zugänglich sind,
+      schreckt die Vorstellung, mit Schulden ins Berufsleben zu starten,
+      besonders Studieninteressierte aus bildungsfernen Milieus ab.
+      Diese psychologische Barriere ist in empirischen Studien gut belegt.
+
+      Folie vier bringt uns zur Frage der akademischen Freiheit und zum Phänomen,
+      das im anglophonen Raum als Cancel Culture debattiert wird.
+      Der rechtliche Rahmen ist klar: Artikel 5 Absatz 3 des Grundgesetzes
+      garantiert Wissenschaftsfreiheit ohne Einschränkung durch den Staat.
+      Das strukturelle Problem liegt anderswo.
+      Wenn Lehrende Themen zu meiden beginnen, noch bevor formaler Druck ausgeübt wird,
+      weil sie die antizipierte Reaktion in sozialen Netzwerken fürchten,
+      dann wirkt der sogenannte chilling effect —
+      der Mechanismus, der Selbstzensur erzeugt.
+      Hochschulen, die auf diesen Druck mit Rückzug reagieren, verschärfen das Problem.
+      Die konstruktivere Alternative ist aktive Moderation:
+      Kontroverse Fragen werden in den akademischen Raum geholt,
+      mit transparenten Diskursregeln, ohne inhaltliche Vorgaben.
+      Das ist die empfohlene Reaktion auf Kontroversen — nicht Vermeidung, sondern Moderation.
+
+      Folie fünf schließlich widmet sich der Wissenschaftsethik —
+      dem Thema, das meiner Einschätzung nach am stärksten unterschätzt wird.
+      Der Ist-Stand ist ernüchternd.
+      In einigen Fachbereichen ist Ethik bereits curricular verankert:
+      in der Medizin, der Biologie und zunehmend der Informatik —
+      das sind die drei Bereiche, die Sie für Folie fünf notieren.
+      In der großen Mehrheit der Fächer bleibt Wissenschaftsethik jedoch ein Randthema.
+      Mein Reformvorschlag ist eindeutig:
+      ein fächerübergreifendes Pflichtmodul Wissenschaftsethik im Bachelorstudium,
+      für alle Studiengänge, ohne Ausnahme.
+      Nicht als Wahlpflicht, nicht als optionales Angebot —
+      sondern als konstitutiver Bestandteil einer Hochschulbildung,
+      die ihren Bildungsauftrag ernst nimmt.
+
+      Ich danke für Ihre Aufmerksamkeit.
+    </prosody>
+  </voice>
+  <break time="3s"/>
+
+</speak>

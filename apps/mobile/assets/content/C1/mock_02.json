@@ -1,13 +1,1808 @@
 {
   "id": "C1_mock_02",
   "level": "C1",
-  "title": "Übungstest 2",
-  "version": 0,
-  "_stub": true,
+  "title": "C1 Übungstest 2: Bildung und Hochschule",
+  "version": 1,
   "sections": {
-    "listening": { "totalTimeMinutes": 20, "parts": [] },
-    "reading": { "totalTimeMinutes": 25, "parts": [] },
-    "writing": { "totalTimeMinutes": 20, "tasks": [] },
-    "speaking": { "totalTimeMinutes": 15, "prepTimeMinutes": 0, "parts": [] }
+    "reading": {
+      "totalTimeMinutes": 90,
+      "parts": [
+        {
+          "partNumber": 1,
+          "instructions": "Lesen Sie den folgenden Text. Sechs Sätze wurden herausgenommen. Wählen Sie aus den acht angebotenen Sätzen (a–h) den jeweils passenden. Zwei Sätze passen nicht. Schreiben Sie den Buchstaben des richtigen Satzes in die entsprechende Lücke.",
+          "instructionsTranslation": "Read the following text. Six sentences have been removed. Choose the appropriate sentence from the eight offered (a–h) for each gap. Two sentences do not fit. Write the letter of the correct sentence in the corresponding gap.",
+          "texts": [
+            {
+              "id": "C1_m02_R1_main",
+              "type": "article",
+              "content": "Die Bologna-Reform – Bilanz einer unvollendeten Transformation\n\nAls die Bildungsminister Europas im Jahr 1999 in Bologna die Weichen für einen gemeinsamen Hochschulraum stellten, war das Versprechen klar: vergleichbare Abschlüsse, größere Mobilität, bessere Beschäftigungsfähigkeit. [1] Ein Vierteljahrhundert später fällt die Bilanz zwiespältig aus – nicht weil die Ziele verfehlt wurden, sondern weil ihre Umsetzung in vielen Ländern auf Widerstand gestoßen ist, der sich aus dem Inneren der Hochschulen selbst speist.\n\nDer Kern der Reform war die Ablösung der alten Diplom- und Magisterstudiengänge durch das zweistufige Bachelor-Master-System. Die Modularisierung des Curriculums sollte Transparenz schaffen und die Anrechnung von Studienleistungen erleichtern. In der Praxis jedoch klagten Hochschullehrerinnen und Hochschullehrer über eine Verdichtung und Verschulung der Lehre: Wer 30 Credits in einem Semester erbringen muss, hat kaum Raum für die exzentrische Lektüre, den methodischen Umweg oder das Gespräch, das zufällig eine neue Forschungsfrage aufwirft. [2] Gerade in geistes- und sozialwissenschaftlichen Fächern, in denen Erkenntnis oft durch Umwege entsteht, wurde der neue Takt als strukturelle Verengung empfunden.\n\nGleichzeitig wäre es unredlich, die Gewinne der Reform zu ignorieren. Europäische Studierendenmobilität hat spürbar zugenommen; das Erasmus-Programm profitierte erheblich von der Vergleichbarkeit der Studienstrukturen. Wer heute in Utrecht ein Semester studiert, kann die Leistungen an seiner Heimatuniversität in Heidelberg oder Lissabon ohne langwierige Anerkennungsverfahren einbringen. [3] Auch die Beschäftigungsfähigkeit von Absolventen hat sich in vielen Fächern verbessert – ein Effekt, den man nicht allein dem Konjunkturzyklus zuschreiben kann.\n\nDennoch bleibt eine strukturelle Spannung bestehen: zwischen dem Ideal der Universität als Ort freier Wissensproduktion und dem neuen Paradigma der kompetenzorientierten Ausbildung. [4] Dieses Spannungsfeld ist nicht auflösbar, solange Hochschulen gleichzeitig Humboldt'sche Forschungsfreiheit und unternehmerische Rechenschaftspflicht verkörpern sollen. Die Gleichzeitigkeit beider Ansprüche ist keine Synthese – sie ist eine produktive, manchmal lähmende Spannung.\n\nKritische Stimmen, die den Verlust akademischer Tiefe beklagen, müssen sich fragen lassen, ob die Nostalgie für das Diplom nicht auch die Exklusivität eines Hochschulsystems romantisiert, das viele Bevölkerungsgruppen strukturell ausschloss. Breiterer Zugang ist kein Selbstläufer – er erfordert aktive Maßnahmen, von der Anerkennung beruflicher Vorbildung bis zur finanziellen Unterstützung nicht-traditioneller Studierender. [5] Wer die Bologna-Reform allein an der gefühlten Verschlechterung der Lehre misst, verkennt, dass Bildungsreformen immer auch Verteilungskämpfe sind.\n\nDie eigentliche Herausforderung der nächsten Dekade liegt deshalb nicht in einer Rückkehr zu früheren Modellen, sondern in einer zweiten Reformwelle, die die sozialen Versprechen der Bologna-Erklärung ernst nimmt. Das bedeutet: echte Durchlässigkeit zwischen beruflicher und akademischer Bildung, flexible Studienformate für Erwerbstätige und Eltern sowie eine Qualitätssicherung, die nicht Lehrbelastung misst, sondern Lerntiefe. [6] Ob der politische Wille dafür vorhanden ist, ist eine andere Frage.",
+              "source": "Forschung & Lehre, Ausgabe 2/2026"
+            },
+            {
+              "id": "C1_m02_R1_sent_a",
+              "type": "notice",
+              "content": "a) Damals galt die Hochschullandschaft Europas als Flickenteppich nationaler Traditionen, die internationale Vergleichbarkeit nahezu unmöglich machten."
+            },
+            {
+              "id": "C1_m02_R1_sent_b",
+              "type": "notice",
+              "content": "b) Der Wunsch, die Hochschule an den Bedürfnissen des Arbeitsmarkts auszurichten, ist legitim – er darf jedoch nicht dazu führen, dass Grundlagenforschung als Luxus marginalisiert wird."
+            },
+            {
+              "id": "C1_m02_R1_sent_c",
+              "type": "notice",
+              "content": "c) Dieser Vorteil ist real, wenngleich kritische Beobachter darauf hinweisen, dass Mobilität vor allem gut situierten Studierenden zugute kommt, die es sich leisten können, ohne Job-Einnahmen ein Auslandssemester zu absolvieren."
+            },
+            {
+              "id": "C1_m02_R1_sent_d",
+              "type": "notice",
+              "content": "d) Solche Vorwürfe treffen einen neuralgischen Punkt: Sie legen nahe, dass die Reform das, was Humboldts Universitätsidee ausmachte – die Einheit von Forschung und Lehre –, strukturell geschwächt hat."
+            },
+            {
+              "id": "C1_m02_R1_sent_e",
+              "type": "notice",
+              "content": "e) Diese Forderung trifft auf Widerstand: Wer soll beurteilen, welche Berufsbiografie für ein Studium der Kulturwissenschaften oder der Physik qualifiziert?"
+            },
+            {
+              "id": "C1_m02_R1_sent_f",
+              "type": "notice",
+              "content": "f) Ein Gegenmodell sind langsam wachsende Qualitätssicherungssysteme wie das Akkreditierungsverfahren, das mittlerweile verpflichtend ist, aber in seiner bürokratischen Dichte selbst als Belastung empfunden wird."
+            },
+            {
+              "id": "C1_m02_R1_sent_g",
+              "type": "notice",
+              "content": "g) Dieses Verfahren stellt sicher, dass Studierende wissen, was sie erwartet – auch wenn die Inhalte in der Praxis oft komplexer sind als im Modulhandbuch beschrieben."
+            },
+            {
+              "id": "C1_m02_R1_sent_h",
+              "type": "notice",
+              "content": "h) Die Alternative – eine grundlegende Neuverhandlung des Verhältnisses von Hochschule und Gesellschaft – ist politisch aufwendig, aber langfristig unausweichlich."
+            }
+          ],
+          "questions": [
+            {
+              "id": "C1_m02_R1_q1",
+              "type": "matching",
+              "questionText": "Lücke 1 im Text: '…war das Versprechen klar: vergleichbare Abschlüsse… [1] Ein Vierteljahrhundert später…'",
+              "matchingSources": [
+                {
+                  "id": "C1_m02_R1_sent_a",
+                  "label": "a",
+                  "content": "a) Damals galt die Hochschullandschaft Europas als Flickenteppich nationaler Traditionen, die internationale Vergleichbarkeit nahezu unmöglich machten."
+                },
+                {
+                  "id": "C1_m02_R1_sent_b",
+                  "label": "b",
+                  "content": "b) Der Wunsch, die Hochschule an den Bedürfnissen des Arbeitsmarkts auszurichten, ist legitim – er darf jedoch nicht dazu führen, dass Grundlagenforschung als Luxus marginalisiert wird."
+                },
+                {
+                  "id": "C1_m02_R1_sent_c",
+                  "label": "c",
+                  "content": "c) Dieser Vorteil ist real, wenngleich kritische Beobachter darauf hinweisen, dass Mobilität vor allem gut situierten Studierenden zugute kommt, die es sich leisten können, ohne Job-Einnahmen ein Auslandssemester zu absolvieren."
+                },
+                {
+                  "id": "C1_m02_R1_sent_d",
+                  "label": "d",
+                  "content": "d) Solche Vorwürfe treffen einen neuralgischen Punkt: Sie legen nahe, dass die Reform das, was Humboldts Universitätsidee ausmachte – die Einheit von Forschung und Lehre –, strukturell geschwächt hat."
+                },
+                {
+                  "id": "C1_m02_R1_sent_e",
+                  "label": "e",
+                  "content": "e) Diese Forderung trifft auf Widerstand: Wer soll beurteilen, welche Berufsbiografie für ein Studium der Kulturwissenschaften oder der Physik qualifiziert?"
+                },
+                {
+                  "id": "C1_m02_R1_sent_f",
+                  "label": "f",
+                  "content": "f) Ein Gegenmodell sind langsam wachsende Qualitätssicherungssysteme wie das Akkreditierungsverfahren, das mittlerweile verpflichtend ist, aber in seiner bürokratischen Dichte selbst als Belastung empfunden wird."
+                },
+                {
+                  "id": "C1_m02_R1_sent_g",
+                  "label": "g",
+                  "content": "g) Dieses Verfahren stellt sicher, dass Studierende wissen, was sie erwartet – auch wenn die Inhalte in der Praxis oft komplexer sind als im Modulhandbuch beschrieben."
+                },
+                {
+                  "id": "C1_m02_R1_sent_h",
+                  "label": "h",
+                  "content": "h) Die Alternative – eine grundlegende Neuverhandlung des Verhältnisses von Hochschule und Gesellschaft – ist politisch aufwendig, aber langfristig unausweichlich."
+                }
+              ],
+              "correctAnswer": "a",
+              "explanation": "Lücke 1 folgt auf die Beschreibung des Bologna-Versprechens. Satz a) setzt den Zustand davor in Kontrast: 'galt die Hochschullandschaft als Flickenteppich'. Das Demonstrativpronomen 'Damals' verweist anaphorisch auf den Zeitraum vor Bologna – ein kohärenter Anschluss. Satz g) handelt von Modulhandbüchern, passt thematisch nicht zur historischen Einordnung vor Lücke 1."
+            },
+            {
+              "id": "C1_m02_R1_q2",
+              "type": "matching",
+              "questionText": "Lücke 2 im Text: '…der methodische Umweg…das zufällig eine neue Forschungsfrage aufwirft. [2] Gerade in geistes-…'",
+              "matchingSources": [
+                {
+                  "id": "C1_m02_R1_sent_a",
+                  "label": "a",
+                  "content": "a) Damals galt die Hochschullandschaft Europas als Flickenteppich nationaler Traditionen, die internationale Vergleichbarkeit nahezu unmöglich machten."
+                },
+                {
+                  "id": "C1_m02_R1_sent_b",
+                  "label": "b",
+                  "content": "b) Der Wunsch, die Hochschule an den Bedürfnissen des Arbeitsmarkts auszurichten, ist legitim – er darf jedoch nicht dazu führen, dass Grundlagenforschung als Luxus marginalisiert wird."
+                },
+                {
+                  "id": "C1_m02_R1_sent_c",
+                  "label": "c",
+                  "content": "c) Dieser Vorteil ist real, wenngleich kritische Beobachter darauf hinweisen, dass Mobilität vor allem gut situierten Studierenden zugute kommt, die es sich leisten können, ohne Job-Einnahmen ein Auslandssemester zu absolvieren."
+                },
+                {
+                  "id": "C1_m02_R1_sent_d",
+                  "label": "d",
+                  "content": "d) Solche Vorwürfe treffen einen neuralgischen Punkt: Sie legen nahe, dass die Reform das, was Humboldts Universitätsidee ausmachte – die Einheit von Forschung und Lehre –, strukturell geschwächt hat."
+                },
+                {
+                  "id": "C1_m02_R1_sent_e",
+                  "label": "e",
+                  "content": "e) Diese Forderung trifft auf Widerstand: Wer soll beurteilen, welche Berufsbiografie für ein Studium der Kulturwissenschaften oder der Physik qualifiziert?"
+                },
+                {
+                  "id": "C1_m02_R1_sent_f",
+                  "label": "f",
+                  "content": "f) Ein Gegenmodell sind langsam wachsende Qualitätssicherungssysteme wie das Akkreditierungsverfahren, das mittlerweile verpflichtend ist, aber in seiner bürokratischen Dichte selbst als Belastung empfunden wird."
+                },
+                {
+                  "id": "C1_m02_R1_sent_g",
+                  "label": "g",
+                  "content": "g) Dieses Verfahren stellt sicher, dass Studierende wissen, was sie erwartet – auch wenn die Inhalte in der Praxis oft komplexer sind als im Modulhandbuch beschrieben."
+                },
+                {
+                  "id": "C1_m02_R1_sent_h",
+                  "label": "h",
+                  "content": "h) Die Alternative – eine grundlegende Neuverhandlung des Verhältnisses von Hochschule und Gesellschaft – ist politisch aufwendig, aber langfristig unausweichlich."
+                }
+              ],
+              "correctAnswer": "d",
+              "explanation": "Lücke 2 folgt auf die Klage über Verdichtung der Lehre. Satz d) nimmt diesen Befund auf und benennt die strukturelle Implikation: Humboldt'sches Ideal geschwächt. 'Solche Vorwürfe' verweist anaphorisch auf die im Vorsatz beschriebene Kritik. Satz b) wäre thematisch nahe, setzt aber eine Diskussion über Arbeitsmarktorientierung voraus, die hier noch nicht eingeführt ist."
+            },
+            {
+              "id": "C1_m02_R1_q3",
+              "type": "matching",
+              "questionText": "Lücke 3 im Text: '…ohne langwierige Anerkennungsverfahren einbringen. [3] Auch die Beschäftigungsfähigkeit…'",
+              "matchingSources": [
+                {
+                  "id": "C1_m02_R1_sent_a",
+                  "label": "a",
+                  "content": "a) Damals galt die Hochschullandschaft Europas als Flickenteppich nationaler Traditionen, die internationale Vergleichbarkeit nahezu unmöglich machten."
+                },
+                {
+                  "id": "C1_m02_R1_sent_b",
+                  "label": "b",
+                  "content": "b) Der Wunsch, die Hochschule an den Bedürfnissen des Arbeitsmarkts auszurichten, ist legitim – er darf jedoch nicht dazu führen, dass Grundlagenforschung als Luxus marginalisiert wird."
+                },
+                {
+                  "id": "C1_m02_R1_sent_c",
+                  "label": "c",
+                  "content": "c) Dieser Vorteil ist real, wenngleich kritische Beobachter darauf hinweisen, dass Mobilität vor allem gut situierten Studierenden zugute kommt, die es sich leisten können, ohne Job-Einnahmen ein Auslandssemester zu absolvieren."
+                },
+                {
+                  "id": "C1_m02_R1_sent_d",
+                  "label": "d",
+                  "content": "d) Solche Vorwürfe treffen einen neuralgischen Punkt: Sie legen nahe, dass die Reform das, was Humboldts Universitätsidee ausmachte – die Einheit von Forschung und Lehre –, strukturell geschwächt hat."
+                },
+                {
+                  "id": "C1_m02_R1_sent_e",
+                  "label": "e",
+                  "content": "e) Diese Forderung trifft auf Widerstand: Wer soll beurteilen, welche Berufsbiografie für ein Studium der Kulturwissenschaften oder der Physik qualifiziert?"
+                },
+                {
+                  "id": "C1_m02_R1_sent_f",
+                  "label": "f",
+                  "content": "f) Ein Gegenmodell sind langsam wachsende Qualitätssicherungssysteme wie das Akkreditierungsverfahren, das mittlerweile verpflichtend ist, aber in seiner bürokratischen Dichte selbst als Belastung empfunden wird."
+                },
+                {
+                  "id": "C1_m02_R1_sent_g",
+                  "label": "g",
+                  "content": "g) Dieses Verfahren stellt sicher, dass Studierende wissen, was sie erwartet – auch wenn die Inhalte in der Praxis oft komplexer sind als im Modulhandbuch beschrieben."
+                },
+                {
+                  "id": "C1_m02_R1_sent_h",
+                  "label": "h",
+                  "content": "h) Die Alternative – eine grundlegende Neuverhandlung des Verhältnisses von Hochschule und Gesellschaft – ist politisch aufwendig, aber langfristig unausweichlich."
+                }
+              ],
+              "correctAnswer": "c",
+              "explanation": "Lücke 3 folgt auf den Mobilitätsgewinn. Satz c) qualifiziert diesen Vorteil kritisch: Mobilität kommt vor allem gut situierten Studierenden zugute. Das Adverb 'wenngleich' markiert eine konzessive Weiterführung, die nahtlos in die folgende Feststellung über Beschäftigungsfähigkeit übergeht."
+            },
+            {
+              "id": "C1_m02_R1_q4",
+              "type": "matching",
+              "questionText": "Lücke 4 im Text: '…kompetenzorientierter Ausbildung. [4] Dieses Spannungsfeld ist nicht auflösbar…'",
+              "matchingSources": [
+                {
+                  "id": "C1_m02_R1_sent_a",
+                  "label": "a",
+                  "content": "a) Damals galt die Hochschullandschaft Europas als Flickenteppich nationaler Traditionen, die internationale Vergleichbarkeit nahezu unmöglich machten."
+                },
+                {
+                  "id": "C1_m02_R1_sent_b",
+                  "label": "b",
+                  "content": "b) Der Wunsch, die Hochschule an den Bedürfnissen des Arbeitsmarkts auszurichten, ist legitim – er darf jedoch nicht dazu führen, dass Grundlagenforschung als Luxus marginalisiert wird."
+                },
+                {
+                  "id": "C1_m02_R1_sent_c",
+                  "label": "c",
+                  "content": "c) Dieser Vorteil ist real, wenngleich kritische Beobachter darauf hinweisen, dass Mobilität vor allem gut situierten Studierenden zugute kommt, die es sich leisten können, ohne Job-Einnahmen ein Auslandssemester zu absolvieren."
+                },
+                {
+                  "id": "C1_m02_R1_sent_d",
+                  "label": "d",
+                  "content": "d) Solche Vorwürfe treffen einen neuralgischen Punkt: Sie legen nahe, dass die Reform das, was Humboldts Universitätsidee ausmachte – die Einheit von Forschung und Lehre –, strukturell geschwächt hat."
+                },
+                {
+                  "id": "C1_m02_R1_sent_e",
+                  "label": "e",
+                  "content": "e) Diese Forderung trifft auf Widerstand: Wer soll beurteilen, welche Berufsbiografie für ein Studium der Kulturwissenschaften oder der Physik qualifiziert?"
+                },
+                {
+                  "id": "C1_m02_R1_sent_f",
+                  "label": "f",
+                  "content": "f) Ein Gegenmodell sind langsam wachsende Qualitätssicherungssysteme wie das Akkreditierungsverfahren, das mittlerweile verpflichtend ist, aber in seiner bürokratischen Dichte selbst als Belastung empfunden wird."
+                },
+                {
+                  "id": "C1_m02_R1_sent_g",
+                  "label": "g",
+                  "content": "g) Dieses Verfahren stellt sicher, dass Studierende wissen, was sie erwartet – auch wenn die Inhalte in der Praxis oft komplexer sind als im Modulhandbuch beschrieben."
+                },
+                {
+                  "id": "C1_m02_R1_sent_h",
+                  "label": "h",
+                  "content": "h) Die Alternative – eine grundlegende Neuverhandlung des Verhältnisses von Hochschule und Gesellschaft – ist politisch aufwendig, aber langfristig unausweichlich."
+                }
+              ],
+              "correctAnswer": "b",
+              "explanation": "Lücke 4 steht mitten in der Beschreibung der Kernspannung. Satz b) formuliert genau diesen Konflikt: Arbeitsmarktorientierung darf Grundlagenforschung nicht marginalisieren. 'Dieser Wunsch ist legitim – er darf jedoch nicht…' spiegelt die im Haupttext skizzierte Spannung zwischen beiden Polen."
+            },
+            {
+              "id": "C1_m02_R1_q5",
+              "type": "matching",
+              "questionText": "Lücke 5 im Text: '…aktive Maßnahmen, von der Anerkennung beruflicher Vorbildung… [5] Wer die Bologna-Reform allein…'",
+              "matchingSources": [
+                {
+                  "id": "C1_m02_R1_sent_a",
+                  "label": "a",
+                  "content": "a) Damals galt die Hochschullandschaft Europas als Flickenteppich nationaler Traditionen, die internationale Vergleichbarkeit nahezu unmöglich machten."
+                },
+                {
+                  "id": "C1_m02_R1_sent_b",
+                  "label": "b",
+                  "content": "b) Der Wunsch, die Hochschule an den Bedürfnissen des Arbeitsmarkts auszurichten, ist legitim – er darf jedoch nicht dazu führen, dass Grundlagenforschung als Luxus marginalisiert wird."
+                },
+                {
+                  "id": "C1_m02_R1_sent_c",
+                  "label": "c",
+                  "content": "c) Dieser Vorteil ist real, wenngleich kritische Beobachter darauf hinweisen, dass Mobilität vor allem gut situierten Studierenden zugute kommt, die es sich leisten können, ohne Job-Einnahmen ein Auslandssemester zu absolvieren."
+                },
+                {
+                  "id": "C1_m02_R1_sent_d",
+                  "label": "d",
+                  "content": "d) Solche Vorwürfe treffen einen neuralgischen Punkt: Sie legen nahe, dass die Reform das, was Humboldts Universitätsidee ausmachte – die Einheit von Forschung und Lehre –, strukturell geschwächt hat."
+                },
+                {
+                  "id": "C1_m02_R1_sent_e",
+                  "label": "e",
+                  "content": "e) Diese Forderung trifft auf Widerstand: Wer soll beurteilen, welche Berufsbiografie für ein Studium der Kulturwissenschaften oder der Physik qualifiziert?"
+                },
+                {
+                  "id": "C1_m02_R1_sent_f",
+                  "label": "f",
+                  "content": "f) Ein Gegenmodell sind langsam wachsende Qualitätssicherungssysteme wie das Akkreditierungsverfahren, das mittlerweile verpflichtend ist, aber in seiner bürokratischen Dichte selbst als Belastung empfunden wird."
+                },
+                {
+                  "id": "C1_m02_R1_sent_g",
+                  "label": "g",
+                  "content": "g) Dieses Verfahren stellt sicher, dass Studierende wissen, was sie erwartet – auch wenn die Inhalte in der Praxis oft komplexer sind als im Modulhandbuch beschrieben."
+                },
+                {
+                  "id": "C1_m02_R1_sent_h",
+                  "label": "h",
+                  "content": "h) Die Alternative – eine grundlegende Neuverhandlung des Verhältnisses von Hochschule und Gesellschaft – ist politisch aufwendig, aber langfristig unausweichlich."
+                }
+              ],
+              "correctAnswer": "e",
+              "explanation": "Lücke 5 folgt auf die Forderung nach Anerkennung beruflicher Vorbildung. Satz e) greift diese Forderung auf und benennt den konkreten Widerstand: Wer beurteilt, welche Biografie qualifiziert? Das Demonstrativpronomen 'Diese Forderung' verweist anaphorisch auf die im Vorsatz genannten Maßnahmen."
+            },
+            {
+              "id": "C1_m02_R1_q6",
+              "type": "matching",
+              "questionText": "Lücke 6 im Text: '…flexible Studienformate für Erwerbstätige und Eltern… [6] Ob der politische Wille…'",
+              "matchingSources": [
+                {
+                  "id": "C1_m02_R1_sent_a",
+                  "label": "a",
+                  "content": "a) Damals galt die Hochschullandschaft Europas als Flickenteppich nationaler Traditionen, die internationale Vergleichbarkeit nahezu unmöglich machten."
+                },
+                {
+                  "id": "C1_m02_R1_sent_b",
+                  "label": "b",
+                  "content": "b) Der Wunsch, die Hochschule an den Bedürfnissen des Arbeitsmarkts auszurichten, ist legitim – er darf jedoch nicht dazu führen, dass Grundlagenforschung als Luxus marginalisiert wird."
+                },
+                {
+                  "id": "C1_m02_R1_sent_c",
+                  "label": "c",
+                  "content": "c) Dieser Vorteil ist real, wenngleich kritische Beobachter darauf hinweisen, dass Mobilität vor allem gut situierten Studierenden zugute kommt, die es sich leisten können, ohne Job-Einnahmen ein Auslandssemester zu absolvieren."
+                },
+                {
+                  "id": "C1_m02_R1_sent_d",
+                  "label": "d",
+                  "content": "d) Solche Vorwürfe treffen einen neuralgischen Punkt: Sie legen nahe, dass die Reform das, was Humboldts Universitätsidee ausmachte – die Einheit von Forschung und Lehre –, strukturell geschwächt hat."
+                },
+                {
+                  "id": "C1_m02_R1_sent_e",
+                  "label": "e",
+                  "content": "e) Diese Forderung trifft auf Widerstand: Wer soll beurteilen, welche Berufsbiografie für ein Studium der Kulturwissenschaften oder der Physik qualifiziert?"
+                },
+                {
+                  "id": "C1_m02_R1_sent_f",
+                  "label": "f",
+                  "content": "f) Ein Gegenmodell sind langsam wachsende Qualitätssicherungssysteme wie das Akkreditierungsverfahren, das mittlerweile verpflichtend ist, aber in seiner bürokratischen Dichte selbst als Belastung empfunden wird."
+                },
+                {
+                  "id": "C1_m02_R1_sent_g",
+                  "label": "g",
+                  "content": "g) Dieses Verfahren stellt sicher, dass Studierende wissen, was sie erwartet – auch wenn die Inhalte in der Praxis oft komplexer sind als im Modulhandbuch beschrieben."
+                },
+                {
+                  "id": "C1_m02_R1_sent_h",
+                  "label": "h",
+                  "content": "h) Die Alternative – eine grundlegende Neuverhandlung des Verhältnisses von Hochschule und Gesellschaft – ist politisch aufwendig, aber langfristig unausweichlich."
+                }
+              ],
+              "correctAnswer": "h",
+              "explanation": "Lücke 6 schließt die Reformforderungen ab. Satz h) bildet den konzessiven Abschluss: Die Alternative ist politisch aufwendig, aber unausweichlich. 'Die Alternative' verweist anaphorisch auf die im Vorsatz genannten Reformvorschläge. Satz f) handelt von Akkreditierungsverfahren, passt thematisch nicht als Abschluss dieses Absatzes."
+            }
+          ]
+        },
+        {
+          "partNumber": 2,
+          "instructions": "Lesen Sie die fünf Absätze (a–e) zum Thema Hochschule und Gesellschaft. Lesen Sie dann die sechs Fragen. Welcher Absatz enthält die Antwort auf jede Frage? Schreiben Sie den Buchstaben des richtigen Absatzes. Ein Absatz kann für mehrere Fragen passen. Wenn kein Absatz passt, schreiben Sie 'x'.",
+          "instructionsTranslation": "Read the five paragraphs (a–e) on the topic of university and society. Then read the six questions. Which paragraph contains the answer to each question? Write the letter of the correct paragraph. One paragraph may match multiple questions. If no paragraph fits, write 'x'.",
+          "texts": [
+            {
+              "id": "C1_m02_R2_para_a",
+              "type": "article",
+              "content": "a) Die Debatte über Cancel Culture an Universitäten wird oft mit falschen Prämissen geführt. Wer Cancel Culture als strukturelle Bedrohung akademischer Freiheit bezeichnet, übersieht, dass Gegenrede und öffentliche Kritik selbst Formen akademischer Auseinandersetzung sind. Problematisch wird es erst dort, wo institutioneller Druck Lehrende dazu bringt, Themen zu meiden, bevor überhaupt Protest entsteht – ein Phänomen, das Kulturwissenschaftlerinnen als 'chilling effect' beschreiben und das empirisch schwer zu messen ist."
+            },
+            {
+              "id": "C1_m02_R2_para_b",
+              "type": "article",
+              "content": "b) Studiengebühren sind in Deutschland nach wie vor ein hochpolitisches Thema. Seit der Abschaffung der allgemeinen Studiengebühren in den meisten Bundesländern ist die Frage nicht erledigt, sondern lediglich verschoben. Langzeitstudiengebühren und Verwaltungskostenbeiträge bleiben erhalten; für internationale Nicht-EU-Studierende erheben einige Bundesländer wieder Gebühren. Befürworter sehen darin ein Instrument der Mitfinanzierung; Kritiker betonen, dass jede Form von Gebühr einkommensschwache Haushalte überproportional trifft, selbst wenn Stipendien und Darlehen theoretisch ausgleichen sollen."
+            },
+            {
+              "id": "C1_m02_R2_para_c",
+              "type": "article",
+              "content": "c) Wissenschaftsethik als Lehrgegenstand gewinnt an deutschen Hochschulen an Bedeutung, ist aber weit davon entfernt, systematisch verankert zu sein. Einzelne Fachbereiche – etwa Medizin, Biologie und Informatik – haben Lehrveranstaltungen zur Forschungsethik in ihre Curricula aufgenommen. Für die Mehrzahl der Studierenden bleibt Wissenschaftsethik jedoch ein Thema, das sie allenfalls in Seminarsitzungen am Rande berühren. Reformvorschläge, die eine fächerübergreifende Ethikpflicht im Bachelorstudium fordern, scheitern häufig am Kapazitätswiderstand der Fakultäten."
+            },
+            {
+              "id": "C1_m02_R2_para_d",
+              "type": "article",
+              "content": "d) Akademische Freiheit ist in Deutschland grundgesetzlich verankert – in Artikel 5, Absatz 3. Doch rechtliche Garantie und gelebte Praxis klaffen oft auseinander. Befristete Beschäftigungsverhältnisse, die den Großteil des wissenschaftlichen Mittelbaus kennzeichnen, erzeugen einen strukturellen Konformitätsdruck: Wer nicht verbeamtet ist und alle drei Jahre um Vertragsverlängerung bangt, denkt zweimal nach, bevor er die Thesen seines Betreuers oder seiner Institutionsleitung öffentlich hinterfragt. Akademische Freiheit ist damit nicht nur eine Frage des Rechts, sondern eine der Beschäftigungsverhältnisse."
+            },
+            {
+              "id": "C1_m02_R2_para_e",
+              "type": "article",
+              "content": "e) Internationale Hochschulrankings wie das QS World University Ranking oder das Shanghai-Ranking prägen zunehmend die Ressourcenallokation und das Selbstbild von Hochschulen. Kritiker wenden ein, dass diese Rankings Forschungsoutput und Drittmitteleinwerbung übergewichten, während Lehrqualität, soziale Durchlässigkeit und regionale Versorgungsfunktion nahezu keine Rolle spielen. Eine Universität, die gezielt Professoren mit hohen Zitationszahlen einstellt und Studierende mit starkem Abitur bevorzugt, verbessert ihr Ranking – ohne dass Bildungsqualität im weiteren Sinne dadurch gestiegen sein muss."
+            }
+          ],
+          "questions": [
+            {
+              "id": "C1_m02_R2_q1",
+              "type": "mcq",
+              "questionText": "In welchem Absatz wird erläutert, dass rechtliche Schutzgarantien allein akademische Freiheit nicht sichern?",
+              "options": [
+                "a",
+                "b",
+                "c",
+                "d",
+                "e"
+              ],
+              "correctAnswer": "d",
+              "explanation": "Absatz d) beschreibt explizit die Kluft zwischen grundgesetzlicher Garantie und gelebter Praxis: Befristete Verträge erzeugen strukturellen Konformitätsdruck. Dieser Befund – Recht vs. Realität – findet sich nur in Absatz d)."
+            },
+            {
+              "id": "C1_m02_R2_q2",
+              "type": "mcq",
+              "questionText": "Welcher Absatz behandelt die Schwierigkeit, Wissenschaftsethik als Pflichtfach in Curricula zu verankern?",
+              "options": [
+                "a",
+                "b",
+                "c",
+                "d",
+                "e"
+              ],
+              "correctAnswer": "c",
+              "explanation": "Absatz c) beschreibt, dass Reformvorschläge für fächerübergreifende Ethikpflicht 'am Kapazitätswiderstand der Fakultäten scheitern'. Das Thema Curriculumverankerung von Wissenschaftsethik ist ausschließlich Gegenstand von Absatz c)."
+            },
+            {
+              "id": "C1_m02_R2_q3",
+              "type": "mcq",
+              "questionText": "In welchem Absatz wird das Konzept des 'chilling effect' im universitären Kontext eingeführt?",
+              "options": [
+                "a",
+                "b",
+                "c",
+                "d",
+                "e"
+              ],
+              "correctAnswer": "a",
+              "explanation": "Absatz a) führt den Begriff 'chilling effect' explizit ein: Lehrende meiden Themen, bevor Protest entsteht. Dieser Begriff und das zugehörige Phänomen erscheinen nur in Absatz a)."
+            },
+            {
+              "id": "C1_m02_R2_q4",
+              "type": "mcq",
+              "questionText": "Welcher Absatz beschreibt, wie Rankings Hochschulen zu strategischem Verhalten verleiten, das Bildungsqualität nicht zwingend verbessert?",
+              "options": [
+                "a",
+                "b",
+                "c",
+                "d",
+                "e"
+              ],
+              "correctAnswer": "e",
+              "explanation": "Absatz e) beschreibt konkret: Hochschulen stellen zitationsstarke Professoren ein und bevorzugen abiturstarke Studierende, um Rankings zu verbessern – ohne dass Bildungsqualität steigt. Dieses Mechanismusproblem findet sich nur in Absatz e)."
+            },
+            {
+              "id": "C1_m02_R2_q5",
+              "type": "mcq",
+              "questionText": "In welchem Absatz wird aufgezeigt, dass die Abschaffung von Studiengebühren in Deutschland nur eine Verschiebung, keine endgültige Lösung darstellt?",
+              "options": [
+                "a",
+                "b",
+                "c",
+                "d",
+                "e"
+              ],
+              "correctAnswer": "b",
+              "explanation": "Absatz b) erklärt: 'Die Frage ist nicht erledigt, sondern lediglich verschoben' – Langzeitgebühren und internationale Gebühren bleiben. Diese Diagnose einer verschobenen statt gelösten Frage findet sich nur in Absatz b)."
+            },
+            {
+              "id": "C1_m02_R2_q6",
+              "type": "mcq",
+              "questionText": "Welcher Absatz weist darauf hin, dass akademische Freiheit auch strukturell durch die Art von Beschäftigungsverhältnissen bedingt ist?",
+              "options": [
+                "a",
+                "b",
+                "c",
+                "d",
+                "e"
+              ],
+              "correctAnswer": "d",
+              "explanation": "Absatz d) schließt explizit: 'Akademische Freiheit ist nicht nur eine Frage des Rechts, sondern eine der Beschäftigungsverhältnisse.' Diese Verbindung zwischen Vertragsstruktur und Freiheit findet sich nur in Absatz d)."
+            }
+          ]
+        },
+        {
+          "partNumber": 3,
+          "instructions": "Lesen Sie den folgenden Artikel. Entscheiden Sie bei jeder Aussage, ob sie richtig (R), falsch (F) oder nicht im Text (N) ist. Außerdem: Welcher Titel passt am besten zum Text? Wählen Sie a, b oder c.",
+          "instructionsTranslation": "Read the following article. For each statement decide whether it is correct (R), incorrect (F) or not in the text (N). In addition: Which title best fits the text? Choose a, b, or c.",
+          "texts": [
+            {
+              "id": "C1_m02_R3_article",
+              "type": "article",
+              "content": "Studiengebühren – Ende einer deutschen Gewissheit?\n\nDeutschland gilt seit der Abschaffung allgemeiner Studiengebühren als Musterland gebührenfreier Hochschulbildung. Doch diese Gewissheit bröckelt, und zwar nicht durch einen politischen Frontalangriff, sondern durch schleichende Erosion: Verwaltungsbeiträge, Langzeitstudiengebühren, Gebühren für internationale Studierende aus Nicht-EU-Ländern – all das ist längst Realität an deutschen Hochschulen. Die Frage, die Bildungspolitiker meiden wie ein heißes Eisen, lautet deshalb nicht mehr ob, sondern in welcher Form und für wen Hochschulbildung in Zukunft kostenpflichtig sein wird.\n\nDie Argumente für Studiengebühren sind vielfältig. Erstens das Finanzierungsargument: Hochschulen sind chronisch unterfinanziert; zusätzliche Einnahmen durch Gebühren könnten Professuren, Bibliotheksressourcen und Betreuungsverhältnisse verbessern. Zweitens das Effizienzargument: Wenn Studium kostenlos ist, sinkt der Anreiz, das Studium zügig abzuschließen – ein Befund, den empirische Studien aus Ländern mit Gebührenmodellen vorsichtig stützen. Drittens das Gerechtigkeitsargument, das in der öffentlichen Debatte selten gehört wird: Wer studiert, hat statistisch gesehen ein höheres Lebenseinkommen als wer nicht studiert. Das kostenlose Studium wird damit anteilig von nicht-studierenden Steuerzahlerinnen und Steuerzahlern mitfinanziert.\n\nDie Gegenargumente sind nicht weniger gewichtig. Das stärkste ist das Zugangsargument: Selbst moderate Gebühren schrecken einkommensschwache Bewerberinnen und Bewerber ab – nicht weil die Kosten unüberwindbar wären, sondern weil Schulden eine psychologische Barriere darstellen, die in bildungsfernen Milieus besonders hoch ist. Die Befunde aus Großbritannien stützen diese These: Seit der Verdreifachung der Studiengebühren auf 9.000 Pfund im Jahr 2012 ist die Zahl der Studierenden aus einkommensschwachen Familien zwar nicht gesunken – aber der Anteil der Schulden hat sich derart erhöht, dass Absolventinnen und Absolventen ihre Berufs- und Lebensplanung noch zwanzig Jahre nach dem Studium unter dem Vorzeichen dieser Belastung treffen.\n\nEin zweites Gegenargument greift die Effizienzlogik auf und wendet sie um: Gebühren schaffen zwar Anreize zum schnelleren Abschluss, verändern aber auch die inhaltliche Studienorientierung. Wer für jedes Semester zahlt, wählt tendenziell Fächer mit klarem Berufsweg und hohem Einkommensversprechen – Ingenieurwesen, Betriebswirtschaft, Informatik. Philosophie, Theologie, Altphilologie und ähnliche Fächer, deren gesellschaftlicher Wert sich nicht in Gehaltsskalen ablesen lässt, geraten unter strukturellen Druck. Und ein Hochschulsystem, das solche Fächer ausdünnt, verliert auf lange Sicht kulturelle und intellektuelle Kapazität, die sich nicht rückgewinnen lässt.\n\nHinzu kommt eine internationale Dimension. Während Deutschland an gebührenfreier Bildung festhält, lockt es zunehmend internationale Talente an. Gleichzeitig beginnen einzelne Bundesländer, für Studierende aus Nicht-EU-Ländern Gebühren einzuführen – ein Widerspruch, der offenbart, dass Prinzipien unter fiskalischen Druck geraten. Bildung als öffentliches Gut und Bildung als Wettbewerbsvorteil sind zwei Paradigmen, die nur solange spannungsfrei nebeneinander bestehen, wie Ressourcen keine Engpässe setzen.\n\nLetztlich ist die Gebührendebatte eine Debatte über Gesellschaftsvertrag: Wer trägt die Kosten öffentlicher Güter, und nach welchem Verteilungsschlüssel? Eine ehrliche Antwort erfordert mehr als budgetäre Arithmetik. Sie setzt voraus, dass man bereit ist, über Bildung als kollektive Investition zu sprechen – auch dann, wenn der unmittelbare Nutzen einer Gesellschaft mit einem Hochschulabschluss in Soziologie oder Kunstgeschichte sich nicht in Quartalszahlen ausdrücken lässt. Für Deutschland, das den Zusammenhang zwischen Bildungszugang und sozialer Mobilität aus eigener Geschichte kennt, ist das keine abstrakte Frage.",
+              "source": "Hochschule und Bildung, Ausgabe 1/2026"
+            }
+          ],
+          "questions": [
+            {
+              "id": "C1_m02_R3_q1",
+              "type": "true_false",
+              "questionText": "In Deutschland existieren derzeit keinerlei Formen von Hochschulgebühren.",
+              "options": [
+                "richtig",
+                "falsch",
+                "nicht im Text"
+              ],
+              "correctAnswer": "falsch",
+              "explanation": "Der Text nennt explizit: Verwaltungsbeiträge, Langzeitstudiengebühren und Gebühren für internationale Nicht-EU-Studierende. Die Aussage ist falsch."
+            },
+            {
+              "id": "C1_m02_R3_q2",
+              "type": "true_false",
+              "questionText": "Das Gerechtigkeitsargument für Studiengebühren – dass Nicht-Studierende Studium mitfinanzieren – wird laut Text selten öffentlich diskutiert.",
+              "options": [
+                "richtig",
+                "falsch",
+                "nicht im Text"
+              ],
+              "correctAnswer": "richtig",
+              "explanation": "Der Text sagt: 'das Gerechtigkeitsargument, das in der öffentlichen Debatte selten gehört wird'. Die Aussage ist korrekt."
+            },
+            {
+              "id": "C1_m02_R3_q3",
+              "type": "true_false",
+              "questionText": "Seit der Erhöhung der Studiengebühren in Großbritannien ist die Zahl der Studierenden aus einkommensschwachen Familien stark gesunken.",
+              "options": [
+                "richtig",
+                "falsch",
+                "nicht im Text"
+              ],
+              "correctAnswer": "falsch",
+              "explanation": "Der Text sagt: 'die Zahl der Studierenden aus einkommensschwachen Familien ist zwar nicht gesunken' – sie sank also nicht. Die Aussage ist falsch."
+            },
+            {
+              "id": "C1_m02_R3_q4",
+              "type": "true_false",
+              "questionText": "Studiengebühren können laut Text dazu führen, dass Studierende weniger häufig geisteswissenschaftliche Fächer wählen.",
+              "options": [
+                "richtig",
+                "falsch",
+                "nicht im Text"
+              ],
+              "correctAnswer": "richtig",
+              "explanation": "Der Text beschreibt: Gebühren verleiten zur Wahl von Fächern 'mit klarem Berufsweg und hohem Einkommensversprechen'; Philosophie und ähnliche Fächer geraten 'unter strukturellen Druck'. Die Aussage ist korrekt."
+            },
+            {
+              "id": "C1_m02_R3_q5",
+              "type": "true_false",
+              "questionText": "Deutschland erhebt für Studierende aus Nicht-EU-Ländern in allen Bundesländern einheitlich Studiengebühren.",
+              "options": [
+                "richtig",
+                "falsch",
+                "nicht im Text"
+              ],
+              "correctAnswer": "falsch",
+              "explanation": "Der Text sagt, dass 'einzelne Bundesländer' Gebühren für Nicht-EU-Studierende einführen – nicht alle, und nicht einheitlich. Die Aussage ist falsch."
+            },
+            {
+              "id": "C1_m02_R3_q6",
+              "type": "true_false",
+              "questionText": "Laut Text ist die Gebührendebatte im Kern eine Frage über den gesellschaftlichen Vertrag und Verteilungsgerechtigkeit.",
+              "options": [
+                "richtig",
+                "falsch",
+                "nicht im Text"
+              ],
+              "correctAnswer": "richtig",
+              "explanation": "Der Text formuliert: 'die Gebührendebatte ist eine Debatte über Gesellschaftsvertrag: Wer trägt die Kosten öffentlicher Güter'. Die Aussage ist korrekt."
+            },
+            {
+              "id": "C1_m02_R3_q7",
+              "type": "true_false",
+              "questionText": "Das Effizienzargument besagt, dass kostenlose Bildung den Anreiz erhöht, das Studium schnell abzuschließen.",
+              "options": [
+                "richtig",
+                "falsch",
+                "nicht im Text"
+              ],
+              "correctAnswer": "falsch",
+              "explanation": "Der Text beschreibt das Gegenteil: Wenn Studium kostenlos ist, 'sinkt der Anreiz, das Studium zügig abzuschließen'. Die Aussage ist falsch."
+            },
+            {
+              "id": "C1_m02_R3_q8",
+              "type": "true_false",
+              "questionText": "Der Text nennt das psychologische Schuldenempfinden als spezifische Barriere in bildungsfernen Milieus.",
+              "options": [
+                "richtig",
+                "falsch",
+                "nicht im Text"
+              ],
+              "correctAnswer": "richtig",
+              "explanation": "Der Text erklärt: 'Schulden sind eine psychologische Barriere, die in bildungsfernen Milieus besonders hoch ist'. Die Aussage ist korrekt."
+            },
+            {
+              "id": "C1_m02_R3_q9",
+              "type": "true_false",
+              "questionText": "Der Text schlägt vor, Studiengebühren sofort und bundesweit wieder einzuführen.",
+              "options": [
+                "richtig",
+                "falsch",
+                "nicht im Text"
+              ],
+              "correctAnswer": "nicht im Text",
+              "explanation": "Der Text analysiert die Debatte, macht aber keine politische Empfehlung zur sofortigen Wiedereinführung. Die Aussage ist nicht im Text."
+            },
+            {
+              "id": "C1_m02_R3_q10",
+              "type": "true_false",
+              "questionText": "Das britische Modell zeigt laut Text, dass hohe Studiengebühren die Lebensplanung von Absolventen noch Jahrzehnte später beeinflussen können.",
+              "options": [
+                "richtig",
+                "falsch",
+                "nicht im Text"
+              ],
+              "correctAnswer": "richtig",
+              "explanation": "Der Text beschreibt explizit: Absolventinnen treffen 'ihre Berufs- und Lebensplanung noch zwanzig Jahre nach dem Studium unter dem Vorzeichen dieser Belastung'. Die Aussage ist korrekt."
+            },
+            {
+              "id": "C1_m02_R3_q11",
+              "type": "true_false",
+              "questionText": "Der Text nennt den Verlust an kultureller und intellektueller Kapazität als mögliche Langzeitfolge eines gebührengetriebenen Hochschulsystems.",
+              "options": [
+                "richtig",
+                "falsch",
+                "nicht im Text"
+              ],
+              "correctAnswer": "richtig",
+              "explanation": "Der Text sagt: 'ein Hochschulsystem, das solche Fächer ausdünnt, verliert auf lange Sicht kulturelle und intellektuelle Kapazität, die sich nicht rückgewinnen lässt'. Die Aussage ist korrekt."
+            },
+            {
+              "id": "C1_m02_R3_q12",
+              "type": "mcq",
+              "questionText": "Welcher Titel fasst den Artikel am treffendsten zusammen?",
+              "options": [
+                "a) Studiengebühren in Deutschland: ein überwundenes Kapitel",
+                "b) Studiengebühren: eine vielschichtige Debatte zwischen Finanzierung, Gerechtigkeit und Bildungsauftrag",
+                "c) Warum Deutschland das britische Gebührenmodell übernehmen sollte"
+              ],
+              "correctAnswer": "b",
+              "explanation": "Der Artikel präsentiert Argumente auf beiden Seiten (Effizienz, Finanzierung, Zugang, Gerechtigkeit, internationale Dimension) ohne abschließende Empfehlung. Option b) erfasst diese Vielschichtigkeit. Option a) widerspricht dem Inhalt (die Gebührendebatte ist nicht überwunden). Option c) macht eine Empfehlung, die der Text explizit nicht ausspricht."
+            }
+          ]
+        }
+      ]
+    },
+    "sprachbausteine": {
+      "totalTimeMinutes": 25,
+      "parts": [
+        {
+          "partNumber": 1,
+          "instructions": "Lesen Sie den folgenden Text. Wählen Sie bei jeder Lücke (1–22) die richtige Antwort (a, b, c oder d). Es gibt jeweils nur eine richtige Antwort.",
+          "instructionsTranslation": "Read the following text. For each gap (1–22) choose the correct answer (a, b, c or d). There is only one correct answer each time.",
+          "text": "Die Frage, (1) ____ an Hochschulen tatsächlich Freiheit des Denkens herrscht, ist komplizierter, als es das Grundgesetz vermuten lässt. Artikel 5, Absatz 3 garantiert Wissenschaftsfreiheit – aber rechtliche Garantien und gelebte Praxis (2) ____ oft erheblich voneinander ab. Wer auf einer befristeten Stelle beschäftigt ist und alle drei Jahre um Verlängerung bangen muss, wird zweimal überlegen, ob er die vorherrschende Meinung in seinem Fach öffentlich (3) ____ stellt.\n\nDas Phänomen, das Soziologen als 'chilling effect' bezeichnen, meint genau diesen Mechanismus: nicht formale Zensur, sondern (4) ____ Selbstzensur als Reaktion auf wahrgenommene Risiken. Wer für Kontroversen bekannt ist, könnte bei Berufungskommissionen schlechter (5) ____ werden – eine Sorge, die sich auch dann verhaltenssteuernd auswirkt, wenn sie empirisch nicht belegt ist.\n\nHinzu kommt eine institutionelle Dimension. Hochschulen (6) ____ zunehmend unter öffentlichem Druck, wenn einzelne Lehrende Positionen vertreten, die in sozialen Medien als anstößig empfunden werden. Rektorate (7) ____ sich dann in einer unangenehmen Zwickmühle: Distanzieren sie sich von ihren Angehörigen, gefährden sie die Glaubwürdigkeit ihrer Freiheitsgarantien. Stellen sie sich schützend (8) ____, geraten sie in den Verdacht, Extrempositionen zu tolerieren.\n\nDie konstruktivste Antwort auf dieses Dilemma liegt nicht in der Vermeidung von Kontroversen, sondern in ihrer (9) ____. Hochschulen, die kontroverse Themen strukturiert moderieren – mit klar kommunizierten Regeln des Diskurses, ohne inhaltliche Vorgaben –, erfüllen ihren Bildungsauftrag (10) ____. Denn akademische Freiheit bedeutet nicht das Recht, ohne Widerspruch zu reden, sondern das Recht, (11) ____ zu werden, ohne institutionelle Konsequenzen fürchten zu müssen.\n\nDie Bologna-Reform hat in diesem Kontext eine (12) ____ Rolle gespielt. Einerseits hat die Modularisierung Lehrende zu mehr Kursplanung und -dokumentation verpflichtet, was Zeit für freies wissenschaftliches Denken (13) ____. Andererseits hat die Internationalisierung den akademischen Austausch belebt und eine Generation von Studierenden hervorgebracht, die mit kritischem Denken vertrauter ist als ihre Vorgänger. Ob das Bildungssystem insgesamt an Tiefe (14) ____ oder (15) ____ hat, lässt sich pauschal nicht beantworten – zu heterogen sind die Fachkulturen, zu unterschiedlich die institutionellen Kontexte.\n\nWissenschaftsethik (16) ____ in diesem Zusammenhang besondere Relevanz. Wer Studierende ausbildet, bildet nicht nur Fachwissen (17) ____, sondern auch die Haltung (18) ____, mit der sie später als Forschende oder Praktizierende handeln. Eine Hochschule, die Ethik als Randthema (19) ____, signalisiert ihren Absolventen, dass moralische Reflexion optional ist – ein Signal, das in Berufsfeldern mit hohem gesellschaftlichen Einfluss (20) ____ Konsequenzen haben kann. Es liegt (21) ____ im Eigeninteresse der Hochschulen, Wissenschaftsethik nicht als Pflichtlästigkeit, sondern als (22) ____ ihrer Lehrkultur zu begreifen.",
+          "questions": [
+            {
+              "blankNumber": 1,
+              "type": "mcq",
+              "options": [
+                "ob",
+                "wenn",
+                "dass",
+                "weil"
+              ],
+              "correctAnswer": "ob",
+              "explanation": "'ob' leitet einen indirekten Fragesatz ein ('ob tatsächlich Freiheit herrscht'). 'wenn' wäre ein Konditionalsatz, 'dass' ein Ergänzungssatz ohne Fragebedeutung, 'weil' ein Kausalsatz – alle semantisch unpassend."
+            },
+            {
+              "blankNumber": 2,
+              "type": "mcq",
+              "options": [
+                "weichen",
+                "hängen",
+                "fallen",
+                "liegen"
+              ],
+              "correctAnswer": "weichen",
+              "explanation": "'voneinander abweichen' ist die korrekte Kollokation für das Auseinanderklaffen von Ideal und Realität. 'hängen … ab' wäre möglich mit anderer Rektion, aber im Kontext des Vergleiches ist 'abweichen' idiomatischer. 'fallen' und 'liegen' passen syntaktisch nicht mit 'voneinander ab'."
+            },
+            {
+              "blankNumber": 3,
+              "type": "mcq",
+              "options": [
+                "in Frage",
+                "in Zweifel",
+                "in Abrede",
+                "zur Debatte"
+              ],
+              "correctAnswer": "in Frage",
+              "explanation": "'in Frage stellen' ist die feste Wendung für das kritische Hinterfragen einer Position. 'in Zweifel ziehen' wäre ebenfalls korrekt, aber 'stellen' als Verb ist hier vorgegeben. 'in Abrede stellen' bedeutet etwas leugnen, 'zur Debatte stellen' passt nicht mit dem Reflexivkontext."
+            },
+            {
+              "blankNumber": 4,
+              "type": "mcq",
+              "options": [
+                "antizipierte",
+                "freiwillige",
+                "vorweggenommene",
+                "institutionelle"
+              ],
+              "correctAnswer": "freiwillige",
+              "explanation": "'freiwillige Selbstzensur' ist die idiomatische Kollokation: Man zensiert sich selbst, ohne expliziten Druck, was 'freiwillig' korrekt beschreibt. 'antizipierte' und 'vorweggenommene' sind synonyme Bedeutungen, aber 'freiwillig' ist im Kontext des chilling effect die präzisere Formulierung. 'institutionelle Selbstzensur' wäre ein Oxymoron."
+            },
+            {
+              "blankNumber": 5,
+              "type": "mcq",
+              "options": [
+                "bewertet",
+                "eingeschätzt",
+                "beurteilt",
+                "wahrgenommen"
+              ],
+              "correctAnswer": "bewertet",
+              "explanation": "'bei Berufungskommissionen schlechter bewertet werden' ist die korrekte Kollokation im akademischen Kontext. 'eingeschätzt' und 'beurteilt' wären semantisch ähnlich, aber 'bewertet' ist im Bewerbungskontext die fachsprachlich präzisere Wahl. 'wahrgenommen' ändert die Bedeutung."
+            },
+            {
+              "blankNumber": 6,
+              "type": "mcq",
+              "options": [
+                "geraten",
+                "stehen",
+                "kommen",
+                "fallen"
+              ],
+              "correctAnswer": "geraten",
+              "explanation": "'unter Druck geraten' ist die feste Kollokation. 'stehen' wäre ebenfalls möglich ('unter Druck stehen'), bedeutet aber einen bereits bestehenden Zustand, während 'geraten' den Prozess des Hineingeratens beschreibt – passend zum 'zunehmend'. 'kommen' und 'fallen' passen nicht mit 'unter Druck'."
+            },
+            {
+              "blankNumber": 7,
+              "type": "mcq",
+              "options": [
+                "befinden",
+                "sehen",
+                "fühlen",
+                "erleben"
+              ],
+              "correctAnswer": "befinden",
+              "explanation": "'sich in einer Zwickmühle befinden' ist die korrekte idiomatische Wendung. 'sehen' wäre möglich ('sich in einer Lage sehen'), aber 'befinden' ist mit 'Zwickmühle' kollokationskonform. 'fühlen' und 'erleben' passen nicht als Reflexivkonstruktion mit 'in einer Zwickmühle'."
+            },
+            {
+              "blankNumber": 8,
+              "type": "mcq",
+              "options": [
+                "vor ihre Angehörigen",
+                "hinter ihre Angehörigen",
+                "für ihre Angehörigen",
+                "gegen ihre Angehörigen"
+              ],
+              "correctAnswer": "vor ihre Angehörigen",
+              "explanation": "'sich schützend vor jemanden stellen' ist die idiomatische Konstruktion für das Beschützen. 'hinter' würde 'sich hinter jemandem verstecken' bedeuten. 'für' und 'gegen' passen nicht mit 'schützend stellen'."
+            },
+            {
+              "blankNumber": 9,
+              "type": "mcq",
+              "options": [
+                "Moderation",
+                "Vermeidung",
+                "Auflösung",
+                "Unterdrückung"
+              ],
+              "correctAnswer": "Moderation",
+              "explanation": "'konstruktive Moderation von Kontroversen' ist der im Text beschriebene Ansatz: strukturierte Gesprächsführung ohne inhaltliche Vorgaben. 'Auflösung' würde eine Lösung implizieren, die der Text nicht verspricht. 'Vermeidung' und 'Unterdrückung' widersprechen dem Kontext explizit."
+            },
+            {
+              "blankNumber": 10,
+              "type": "mcq",
+              "options": [
+                "am ehesten",
+                "am besten",
+                "am meisten",
+                "am stärksten"
+              ],
+              "correctAnswer": "am besten",
+              "explanation": "'am besten erfüllen' ist die idiomatische Verstärkung für optimale Aufgabenerfüllung. 'am ehesten' würde Wahrscheinlichkeit implizieren, 'am meisten' passt nicht mit 'erfüllen' und 'am stärksten' ist nicht kollokationskonform mit 'Bildungsauftrag erfüllen'."
+            },
+            {
+              "blankNumber": 11,
+              "type": "mcq",
+              "options": [
+                "widersprochen",
+                "kritisiert",
+                "angegriffen",
+                "bestritten"
+              ],
+              "correctAnswer": "widersprochen",
+              "explanation": "'widersprochen zu werden ohne institutionelle Konsequenzen' ist die korrekte Formulierung: Freiheit schließt Widerspruch ein, nicht dessen Abwesenheit. 'kritisiert' wäre semantisch nahe, aber 'widersprochen' ist im epistemischen Kontext präziser. 'angegriffen' impliziert Aggression, 'bestritten' klingt juristisch."
+            },
+            {
+              "blankNumber": 12,
+              "type": "mcq",
+              "options": [
+                "ambivalente",
+                "eindeutig positive",
+                "rein negative",
+                "marginale"
+              ],
+              "correctAnswer": "ambivalente",
+              "explanation": "'ambivalent' (zwiespältig) ist die korrekte Beschreibung der Rolle der Bologna-Reform, da der folgende Text sowohl Nachteile ('Zeit gekostet') als auch Vorteile ('Internationalisierung belebt') nennt. Alle anderen Optionen würden nur eine Seite widerspiegeln."
+            },
+            {
+              "blankNumber": 13,
+              "type": "mcq",
+              "options": [
+                "kostet",
+                "spart",
+                "nimmt",
+                "schafft"
+              ],
+              "correctAnswer": "kostet",
+              "explanation": "'Zeit kostet' ist die korrekte Kollokation: Dokumentationspflichten kosten Zeit. 'nimmt' wäre ebenfalls möglich ('Zeit nimmt'), aber 'kostet' ist die natürlichere Formulierung im Ressourcenkontext. 'spart' und 'schafft' widersprechen dem Kontext."
+            },
+            {
+              "blankNumber": 14,
+              "type": "mcq",
+              "options": [
+                "gewonnen",
+                "verloren",
+                "zugenommen",
+                "abgenommen"
+              ],
+              "correctAnswer": "gewonnen",
+              "explanation": "Die Konstruktion 'ob … gewonnen oder verloren hat' bildet eine parallele Antithese. 'gewonnen' ist das semantische Gegenstück zu 'verloren' (Lücke 15). 'zugenommen' und 'abgenommen' wären synonyme Alternativen, aber 'gewonnen/verloren' ist die idiomatisch natürlichere Paarung für Tiefe."
+            },
+            {
+              "blankNumber": 15,
+              "type": "mcq",
+              "options": [
+                "eingebüßt",
+                "verloren",
+                "abgenommen",
+                "gelitten"
+              ],
+              "correctAnswer": "eingebüßt",
+              "explanation": "Die Gesamtkonstruktion lautet 'ob … gewonnen oder eingebüßt hat'. 'eingebüßen' bedeutet etwas verlieren/preisgeben – idiomatisch passend für Bildungstiefe. 'verloren' wäre synonym, aber als Wiederholung des Antonym-Partners in Lücke 14 ungeschickt. 'abgenommen' und 'gelitten' sind semantisch möglich, aber 'eingebüßt' ist die C1-idiomatischere Wahl."
+            },
+            {
+              "blankNumber": 16,
+              "type": "mcq",
+              "options": [
+                "gewinnt",
+                "besitzt",
+                "hat",
+                "trägt"
+              ],
+              "correctAnswer": "gewinnt",
+              "explanation": "'gewinnt Relevanz' ist die korrekte Kollokation: Relevanz gewinnen bedeutet an Bedeutung zunehmen – passend zum Kontext 'in diesem Zusammenhang'. 'besitzt Relevanz' wäre statisch. 'hat Relevanz' ist umgangssprachlicher. 'trägt Relevanz' ist keine gebräuchliche Kollokation."
+            },
+            {
+              "blankNumber": 17,
+              "type": "mcq",
+              "options": [
+                "aus",
+                "ab",
+                "auf",
+                "an"
+              ],
+              "correctAnswer": "aus",
+              "explanation": "'Fachwissen ausbilden' ist die korrekte Kollokation: 'jemanden in etwas ausbilden' – Fachwissen wird ausgebildet ('vermittelt/entwickelt'). 'Fachwissen aufbauen' wäre mit 'auf' möglich, aber die Konstruktion 'bildet … aus' passt als Trennverb kohärent. 'ab' und 'an' ergeben keine sinnvollen Komposita."
+            },
+            {
+              "blankNumber": 18,
+              "type": "mcq",
+              "options": [
+                "heraus",
+                "mit",
+                "bei",
+                "für"
+              ],
+              "correctAnswer": "heraus",
+              "explanation": "'die Haltung herausbilden' ist die korrekte Kollokation: eine Haltung bildet sich heraus, d.h. sie entwickelt sich. Zusammen mit Lücke 17 ('bildet … aus') und Lücke 18 ('heraus') entsteht das Trennverb 'herausbilden'. 'mit', 'bei', 'für' ergeben keine grammatisch korrekten Kombinationen."
+            },
+            {
+              "blankNumber": 19,
+              "type": "mcq",
+              "options": [
+                "behandelt",
+                "betrachtet",
+                "wertet",
+                "abhandelt"
+              ],
+              "correctAnswer": "behandelt",
+              "explanation": "'Ethik als Randthema behandeln' ist die korrekte Kollokation: ein Thema behandeln = sich damit befassen. 'betrachtet' würde eine kognitive Perspektive implizieren, 'wertet' einen Bewertungsakt. 'abhandelt' ist stilistisch zu abrupt für diesen formellen Kontext."
+            },
+            {
+              "blankNumber": 20,
+              "type": "mcq",
+              "options": [
+                "weitreichende",
+                "begrenzte",
+                "kurzfristige",
+                "überschaubare"
+              ],
+              "correctAnswer": "weitreichende",
+              "explanation": "'weitreichende Konsequenzen' ist die C1-idiomatische Kollokation für Konsequenzen mit großer Reichweite und Tragweite. 'begrenzte', 'kurzfristige' und 'überschaubare' würden die Schwere relativieren, die der Kontext ('hoher gesellschaftlicher Einfluss') erfordert."
+            },
+            {
+              "blankNumber": 21,
+              "type": "mcq",
+              "options": [
+                "deshalb",
+                "also",
+                "damit",
+                "demnach"
+              ],
+              "correctAnswer": "deshalb",
+              "explanation": "'Es liegt deshalb im Eigeninteresse' ist die korrekte kausale Fügung: 'deshalb' verweist anaphorisch auf die im Vorsatz genannten Konsequenzen als Begründung. 'also' wäre umgangssprachlicher. 'damit' wäre final (Zweckangabe), nicht kausal. 'demnach' ist fachsprachlich und eher für schlussfolgernde Schlussformulierungen geeignet."
+            },
+            {
+              "blankNumber": 22,
+              "type": "mcq",
+              "options": [
+                "Grundlage",
+                "Begleiterscheinung",
+                "Nebenwirkung",
+                "Ausnahme"
+              ],
+              "correctAnswer": "Grundlage",
+              "explanation": "'Wissenschaftsethik als Grundlage der Lehrkultur' formuliert sie als konstitutives Element, nicht als Zusatz. 'Begleiterscheinung' und 'Nebenwirkung' würden sie als Randphänomen einordnen, was dem Kontext widerspricht. 'Ausnahme' ist semantisch unpassend."
+            }
+          ]
+        }
+      ]
+    },
+    "listening": {
+      "totalTimeMinutes": 40,
+      "parts": [
+        {
+          "partNumber": 1,
+          "instructions": "Sie hören acht kurze Stellungnahmen verschiedener Personen zum Thema Hochschule und Gesellschaft. Lesen Sie zuerst die zehn Zusammenfassungen (a–j). Hören Sie dann die acht Aussagen. Welche Zusammenfassung passt zu welchem Sprecher? Zwei Zusammenfassungen passen nicht. Sie hören die Texte nur einmal.",
+          "instructionsTranslation": "You will hear eight short statements from different people on the topic of university and society. First read the ten summaries (a–j). Then listen to the eight statements. Which summary matches which speaker? Two summaries do not fit. You will hear the texts only once.",
+          "audioFile": "assets/audio/C1/mock02/listening_part1.mp3",
+          "playCount": 1,
+          "questions": [
+            {
+              "id": "C1_m02_HV1_q1",
+              "type": "matching",
+              "questionText": "Sprecher 1: Frau Prof. Brandt, Hochschulforscherin",
+              "matchingSources": [
+                {
+                  "id": "C1_m02_HV1_sum_a",
+                  "label": "a",
+                  "content": "a) Die Sprecherin sieht in Studiengebühren ein Instrument sozialer Selektion, das Bildungsgerechtigkeit strukturell untergräbt."
+                },
+                {
+                  "id": "C1_m02_HV1_sum_b",
+                  "label": "b",
+                  "content": "b) Der Sprecher findet, dass die Bologna-Reform Hochschulen auf Effizienz getrimmt hat, ohne akademische Tiefe zu berücksichtigen."
+                },
+                {
+                  "id": "C1_m02_HV1_sum_c",
+                  "label": "c",
+                  "content": "c) Die Sprecherin befürchtet, dass Cancel Culture an Universitäten die freie wissenschaftliche Debatte ernsthaft gefährdet."
+                },
+                {
+                  "id": "C1_m02_HV1_sum_d",
+                  "label": "d",
+                  "content": "d) Der Sprecher betont, dass akademische Freiheit ohne institutionellen Schutz für Lehrende eine leere Formel bleibt."
+                },
+                {
+                  "id": "C1_m02_HV1_sum_e",
+                  "label": "e",
+                  "content": "e) Die Sprecherin ist überzeugt, dass Wissenschaftsethik bereits im Grundstudium als Pflichtfach verankert werden sollte."
+                },
+                {
+                  "id": "C1_m02_HV1_sum_f",
+                  "label": "f",
+                  "content": "f) Der Sprecher hält die Modularisierung des Studiums für verantwortlich dafür, dass fächerübergreifendes Denken verloren geht."
+                },
+                {
+                  "id": "C1_m02_HV1_sum_g",
+                  "label": "g",
+                  "content": "g) Die Sprecherin plädiert dafür, dass Hochschulen Kontroversen aktiv moderieren, statt umstrittene Positionen zu vermeiden."
+                },
+                {
+                  "id": "C1_m02_HV1_sum_h",
+                  "label": "h",
+                  "content": "h) Der Sprecher glaubt, dass internationale Hochschulrankings ein verzerrtes Bild von Bildungsqualität erzeugen."
+                },
+                {
+                  "id": "C1_m02_HV1_sum_i",
+                  "label": "i",
+                  "content": "i) Die Sprecherin betont, dass Lehrende an Hochschulen stärker für die ethischen Dimensionen ihrer Fächer sensibilisiert werden müssen."
+                },
+                {
+                  "id": "C1_m02_HV1_sum_j",
+                  "label": "j",
+                  "content": "j) Der Sprecher sieht in der wachsenden Bürokratisierung des Hochschulwesens eine Bedrohung für die Forschungsfreiheit."
+                }
+              ],
+              "correctAnswer": "a",
+              "explanation": "Frau Prof. Brandt sagt: 'Hochschulen, die Studiengebühren erheben, selektieren nicht nur nach Leistung, sondern auch nach Herkunft. Das ist keine Vermutung, sondern ein empirisch gut belegter Befund.' Das entspricht Zusammenfassung a) über Studiengebühren als Instrument sozialer Selektion. Distraktor b) bezieht sich auf Bologna-Effizienz, nicht auf Gebühren."
+            },
+            {
+              "id": "C1_m02_HV1_q2",
+              "type": "matching",
+              "questionText": "Sprecher 2: Herr Dr. Kowalski, Bildungsökonom",
+              "matchingSources": [
+                {
+                  "id": "C1_m02_HV1_sum_a",
+                  "label": "a",
+                  "content": "a) Die Sprecherin sieht in Studiengebühren ein Instrument sozialer Selektion, das Bildungsgerechtigkeit strukturell untergräbt."
+                },
+                {
+                  "id": "C1_m02_HV1_sum_b",
+                  "label": "b",
+                  "content": "b) Der Sprecher findet, dass die Bologna-Reform Hochschulen auf Effizienz getrimmt hat, ohne akademische Tiefe zu berücksichtigen."
+                },
+                {
+                  "id": "C1_m02_HV1_sum_c",
+                  "label": "c",
+                  "content": "c) Die Sprecherin befürchtet, dass Cancel Culture an Universitäten die freie wissenschaftliche Debatte ernsthaft gefährdet."
+                },
+                {
+                  "id": "C1_m02_HV1_sum_d",
+                  "label": "d",
+                  "content": "d) Der Sprecher betont, dass akademische Freiheit ohne institutionellen Schutz für Lehrende eine leere Formel bleibt."
+                },
+                {
+                  "id": "C1_m02_HV1_sum_e",
+                  "label": "e",
+                  "content": "e) Die Sprecherin ist überzeugt, dass Wissenschaftsethik bereits im Grundstudium als Pflichtfach verankert werden sollte."
+                },
+                {
+                  "id": "C1_m02_HV1_sum_f",
+                  "label": "f",
+                  "content": "f) Der Sprecher hält die Modularisierung des Studiums für verantwortlich dafür, dass fächerübergreifendes Denken verloren geht."
+                },
+                {
+                  "id": "C1_m02_HV1_sum_g",
+                  "label": "g",
+                  "content": "g) Die Sprecherin plädiert dafür, dass Hochschulen Kontroversen aktiv moderieren, statt umstrittene Positionen zu vermeiden."
+                },
+                {
+                  "id": "C1_m02_HV1_sum_h",
+                  "label": "h",
+                  "content": "h) Der Sprecher glaubt, dass internationale Hochschulrankings ein verzerrtes Bild von Bildungsqualität erzeugen."
+                },
+                {
+                  "id": "C1_m02_HV1_sum_i",
+                  "label": "i",
+                  "content": "i) Die Sprecherin betont, dass Lehrende an Hochschulen stärker für die ethischen Dimensionen ihrer Fächer sensibilisiert werden müssen."
+                },
+                {
+                  "id": "C1_m02_HV1_sum_j",
+                  "label": "j",
+                  "content": "j) Der Sprecher sieht in der wachsenden Bürokratisierung des Hochschulwesens eine Bedrohung für die Forschungsfreiheit."
+                }
+              ],
+              "correctAnswer": "b",
+              "explanation": "Herr Dr. Kowalski erklärt: 'Die Bologna-Reform hat Hochschulen auf Throughput optimiert – Abschlussquoten, Studiendauer, Employability. Was dabei verloren ging, ist die Bereitschaft, Studierende durch intellektuelle Umwege zu führen, die langfristig die wichtigsten sein können.' Das entspricht b) über Effizienzorientierung ohne akademische Tiefe."
+            },
+            {
+              "id": "C1_m02_HV1_q3",
+              "type": "matching",
+              "questionText": "Sprecher 3: Frau Dr. Sommer, Soziologin",
+              "matchingSources": [
+                {
+                  "id": "C1_m02_HV1_sum_a",
+                  "label": "a",
+                  "content": "a) Die Sprecherin sieht in Studiengebühren ein Instrument sozialer Selektion, das Bildungsgerechtigkeit strukturell untergräbt."
+                },
+                {
+                  "id": "C1_m02_HV1_sum_b",
+                  "label": "b",
+                  "content": "b) Der Sprecher findet, dass die Bologna-Reform Hochschulen auf Effizienz getrimmt hat, ohne akademische Tiefe zu berücksichtigen."
+                },
+                {
+                  "id": "C1_m02_HV1_sum_c",
+                  "label": "c",
+                  "content": "c) Die Sprecherin befürchtet, dass Cancel Culture an Universitäten die freie wissenschaftliche Debatte ernsthaft gefährdet."
+                },
+                {
+                  "id": "C1_m02_HV1_sum_d",
+                  "label": "d",
+                  "content": "d) Der Sprecher betont, dass akademische Freiheit ohne institutionellen Schutz für Lehrende eine leere Formel bleibt."
+                },
+                {
+                  "id": "C1_m02_HV1_sum_e",
+                  "label": "e",
+                  "content": "e) Die Sprecherin ist überzeugt, dass Wissenschaftsethik bereits im Grundstudium als Pflichtfach verankert werden sollte."
+                },
+                {
+                  "id": "C1_m02_HV1_sum_f",
+                  "label": "f",
+                  "content": "f) Der Sprecher hält die Modularisierung des Studiums für verantwortlich dafür, dass fächerübergreifendes Denken verloren geht."
+                },
+                {
+                  "id": "C1_m02_HV1_sum_g",
+                  "label": "g",
+                  "content": "g) Die Sprecherin plädiert dafür, dass Hochschulen Kontroversen aktiv moderieren, statt umstrittene Positionen zu vermeiden."
+                },
+                {
+                  "id": "C1_m02_HV1_sum_h",
+                  "label": "h",
+                  "content": "h) Der Sprecher glaubt, dass internationale Hochschulrankings ein verzerrtes Bild von Bildungsqualität erzeugen."
+                },
+                {
+                  "id": "C1_m02_HV1_sum_i",
+                  "label": "i",
+                  "content": "i) Die Sprecherin betont, dass Lehrende an Hochschulen stärker für die ethischen Dimensionen ihrer Fächer sensibilisiert werden müssen."
+                },
+                {
+                  "id": "C1_m02_HV1_sum_j",
+                  "label": "j",
+                  "content": "j) Der Sprecher sieht in der wachsenden Bürokratisierung des Hochschulwesens eine Bedrohung für die Forschungsfreiheit."
+                }
+              ],
+              "correctAnswer": "c",
+              "explanation": "Frau Dr. Sommer sagt: 'Wenn Lehrende bestimmte Themen meiden, weil sie fürchten, in sozialen Medien diskreditiert zu werden, dann ist das eine reale Einschränkung der Lehrfreiheit – auch wenn kein formales Verbot ausgesprochen wurde.' Das entspricht c) über Cancel Culture als Gefahr für freie Debatte."
+            },
+            {
+              "id": "C1_m02_HV1_q4",
+              "type": "matching",
+              "questionText": "Sprecher 4: Herr Prof. Reiter, Rechtswissenschaftler",
+              "matchingSources": [
+                {
+                  "id": "C1_m02_HV1_sum_a",
+                  "label": "a",
+                  "content": "a) Die Sprecherin sieht in Studiengebühren ein Instrument sozialer Selektion, das Bildungsgerechtigkeit strukturell untergräbt."
+                },
+                {
+                  "id": "C1_m02_HV1_sum_b",
+                  "label": "b",
+                  "content": "b) Der Sprecher findet, dass die Bologna-Reform Hochschulen auf Effizienz getrimmt hat, ohne akademische Tiefe zu berücksichtigen."
+                },
+                {
+                  "id": "C1_m02_HV1_sum_c",
+                  "label": "c",
+                  "content": "c) Die Sprecherin befürchtet, dass Cancel Culture an Universitäten die freie wissenschaftliche Debatte ernsthaft gefährdet."
+                },
+                {
+                  "id": "C1_m02_HV1_sum_d",
+                  "label": "d",
+                  "content": "d) Der Sprecher betont, dass akademische Freiheit ohne institutionellen Schutz für Lehrende eine leere Formel bleibt."
+                },
+                {
+                  "id": "C1_m02_HV1_sum_e",
+                  "label": "e",
+                  "content": "e) Die Sprecherin ist überzeugt, dass Wissenschaftsethik bereits im Grundstudium als Pflichtfach verankert werden sollte."
+                },
+                {
+                  "id": "C1_m02_HV1_sum_f",
+                  "label": "f",
+                  "content": "f) Der Sprecher hält die Modularisierung des Studiums für verantwortlich dafür, dass fächerübergreifendes Denken verloren geht."
+                },
+                {
+                  "id": "C1_m02_HV1_sum_g",
+                  "label": "g",
+                  "content": "g) Die Sprecherin plädiert dafür, dass Hochschulen Kontroversen aktiv moderieren, statt umstrittene Positionen zu vermeiden."
+                },
+                {
+                  "id": "C1_m02_HV1_sum_h",
+                  "label": "h",
+                  "content": "h) Der Sprecher glaubt, dass internationale Hochschulrankings ein verzerrtes Bild von Bildungsqualität erzeugen."
+                },
+                {
+                  "id": "C1_m02_HV1_sum_i",
+                  "label": "i",
+                  "content": "i) Die Sprecherin betont, dass Lehrende an Hochschulen stärker für die ethischen Dimensionen ihrer Fächer sensibilisiert werden müssen."
+                },
+                {
+                  "id": "C1_m02_HV1_sum_j",
+                  "label": "j",
+                  "content": "j) Der Sprecher sieht in der wachsenden Bürokratisierung des Hochschulwesens eine Bedrohung für die Forschungsfreiheit."
+                }
+              ],
+              "correctAnswer": "d",
+              "explanation": "Herr Prof. Reiter betont: 'Artikel 5 Absatz 3 ist ein wunderbarer Satz. Aber er schützt nicht vor dem informellen Druck, der entsteht, wenn die eigene Vertragsverlängerung davon abhängt, ob man als angenehmer Kollege gilt.' Das entspricht d) über fehlenden institutionellen Schutz."
+            },
+            {
+              "id": "C1_m02_HV1_q5",
+              "type": "matching",
+              "questionText": "Sprecher 5: Frau Prof. Nguyen, Wissenschaftsethikerin",
+              "matchingSources": [
+                {
+                  "id": "C1_m02_HV1_sum_a",
+                  "label": "a",
+                  "content": "a) Die Sprecherin sieht in Studiengebühren ein Instrument sozialer Selektion, das Bildungsgerechtigkeit strukturell untergräbt."
+                },
+                {
+                  "id": "C1_m02_HV1_sum_b",
+                  "label": "b",
+                  "content": "b) Der Sprecher findet, dass die Bologna-Reform Hochschulen auf Effizienz getrimmt hat, ohne akademische Tiefe zu berücksichtigen."
+                },
+                {
+                  "id": "C1_m02_HV1_sum_c",
+                  "label": "c",
+                  "content": "c) Die Sprecherin befürchtet, dass Cancel Culture an Universitäten die freie wissenschaftliche Debatte ernsthaft gefährdet."
+                },
+                {
+                  "id": "C1_m02_HV1_sum_d",
+                  "label": "d",
+                  "content": "d) Der Sprecher betont, dass akademische Freiheit ohne institutionellen Schutz für Lehrende eine leere Formel bleibt."
+                },
+                {
+                  "id": "C1_m02_HV1_sum_e",
+                  "label": "e",
+                  "content": "e) Die Sprecherin ist überzeugt, dass Wissenschaftsethik bereits im Grundstudium als Pflichtfach verankert werden sollte."
+                },
+                {
+                  "id": "C1_m02_HV1_sum_f",
+                  "label": "f",
+                  "content": "f) Der Sprecher hält die Modularisierung des Studiums für verantwortlich dafür, dass fächerübergreifendes Denken verloren geht."
+                },
+                {
+                  "id": "C1_m02_HV1_sum_g",
+                  "label": "g",
+                  "content": "g) Die Sprecherin plädiert dafür, dass Hochschulen Kontroversen aktiv moderieren, statt umstrittene Positionen zu vermeiden."
+                },
+                {
+                  "id": "C1_m02_HV1_sum_h",
+                  "label": "h",
+                  "content": "h) Der Sprecher glaubt, dass internationale Hochschulrankings ein verzerrtes Bild von Bildungsqualität erzeugen."
+                },
+                {
+                  "id": "C1_m02_HV1_sum_i",
+                  "label": "i",
+                  "content": "i) Die Sprecherin betont, dass Lehrende an Hochschulen stärker für die ethischen Dimensionen ihrer Fächer sensibilisiert werden müssen."
+                },
+                {
+                  "id": "C1_m02_HV1_sum_j",
+                  "label": "j",
+                  "content": "j) Der Sprecher sieht in der wachsenden Bürokratisierung des Hochschulwesens eine Bedrohung für die Forschungsfreiheit."
+                }
+              ],
+              "correctAnswer": "e",
+              "explanation": "Frau Prof. Nguyen fordert: 'Wissenschaftsethik darf kein Wahlseminar in Fachbereichen sein, die ohnehin schon ethisch sensibel sind. Sie gehört ins Grundstudium, verpflichtend, für alle – weil jede Wissenschaft Konsequenzen für Menschen hat.' Das entspricht e) über Wissenschaftsethik als Pflichtfach."
+            },
+            {
+              "id": "C1_m02_HV1_q6",
+              "type": "matching",
+              "questionText": "Sprecher 6: Herr Dr. Fischer, Erziehungswissenschaftler",
+              "matchingSources": [
+                {
+                  "id": "C1_m02_HV1_sum_a",
+                  "label": "a",
+                  "content": "a) Die Sprecherin sieht in Studiengebühren ein Instrument sozialer Selektion, das Bildungsgerechtigkeit strukturell untergräbt."
+                },
+                {
+                  "id": "C1_m02_HV1_sum_b",
+                  "label": "b",
+                  "content": "b) Der Sprecher findet, dass die Bologna-Reform Hochschulen auf Effizienz getrimmt hat, ohne akademische Tiefe zu berücksichtigen."
+                },
+                {
+                  "id": "C1_m02_HV1_sum_c",
+                  "label": "c",
+                  "content": "c) Die Sprecherin befürchtet, dass Cancel Culture an Universitäten die freie wissenschaftliche Debatte ernsthaft gefährdet."
+                },
+                {
+                  "id": "C1_m02_HV1_sum_d",
+                  "label": "d",
+                  "content": "d) Der Sprecher betont, dass akademische Freiheit ohne institutionellen Schutz für Lehrende eine leere Formel bleibt."
+                },
+                {
+                  "id": "C1_m02_HV1_sum_e",
+                  "label": "e",
+                  "content": "e) Die Sprecherin ist überzeugt, dass Wissenschaftsethik bereits im Grundstudium als Pflichtfach verankert werden sollte."
+                },
+                {
+                  "id": "C1_m02_HV1_sum_f",
+                  "label": "f",
+                  "content": "f) Der Sprecher hält die Modularisierung des Studiums für verantwortlich dafür, dass fächerübergreifendes Denken verloren geht."
+                },
+                {
+                  "id": "C1_m02_HV1_sum_g",
+                  "label": "g",
+                  "content": "g) Die Sprecherin plädiert dafür, dass Hochschulen Kontroversen aktiv moderieren, statt umstrittene Positionen zu vermeiden."
+                },
+                {
+                  "id": "C1_m02_HV1_sum_h",
+                  "label": "h",
+                  "content": "h) Der Sprecher glaubt, dass internationale Hochschulrankings ein verzerrtes Bild von Bildungsqualität erzeugen."
+                },
+                {
+                  "id": "C1_m02_HV1_sum_i",
+                  "label": "i",
+                  "content": "i) Die Sprecherin betont, dass Lehrende an Hochschulen stärker für die ethischen Dimensionen ihrer Fächer sensibilisiert werden müssen."
+                },
+                {
+                  "id": "C1_m02_HV1_sum_j",
+                  "label": "j",
+                  "content": "j) Der Sprecher sieht in der wachsenden Bürokratisierung des Hochschulwesens eine Bedrohung für die Forschungsfreiheit."
+                }
+              ],
+              "correctAnswer": "f",
+              "explanation": "Herr Dr. Fischer kritisiert: 'Die Modularisierung hat dazu geführt, dass Studierende wie Abrufende agieren: Modul absolvieren, Credit bekommen, nächstes Modul. Fächerübergreifendes Denken braucht aber Zeit und strukturelle Räume, die das System nicht mehr bietet.' Das entspricht f) über Modularisierung und Verlust fächerübergreifenden Denkens."
+            },
+            {
+              "id": "C1_m02_HV1_q7",
+              "type": "matching",
+              "questionText": "Sprecher 7: Frau Dr. Albrecht, Hochschulpräsidentin",
+              "matchingSources": [
+                {
+                  "id": "C1_m02_HV1_sum_a",
+                  "label": "a",
+                  "content": "a) Die Sprecherin sieht in Studiengebühren ein Instrument sozialer Selektion, das Bildungsgerechtigkeit strukturell untergräbt."
+                },
+                {
+                  "id": "C1_m02_HV1_sum_b",
+                  "label": "b",
+                  "content": "b) Der Sprecher findet, dass die Bologna-Reform Hochschulen auf Effizienz getrimmt hat, ohne akademische Tiefe zu berücksichtigen."
+                },
+                {
+                  "id": "C1_m02_HV1_sum_c",
+                  "label": "c",
+                  "content": "c) Die Sprecherin befürchtet, dass Cancel Culture an Universitäten die freie wissenschaftliche Debatte ernsthaft gefährdet."
+                },
+                {
+                  "id": "C1_m02_HV1_sum_d",
+                  "label": "d",
+                  "content": "d) Der Sprecher betont, dass akademische Freiheit ohne institutionellen Schutz für Lehrende eine leere Formel bleibt."
+                },
+                {
+                  "id": "C1_m02_HV1_sum_e",
+                  "label": "e",
+                  "content": "e) Die Sprecherin ist überzeugt, dass Wissenschaftsethik bereits im Grundstudium als Pflichtfach verankert werden sollte."
+                },
+                {
+                  "id": "C1_m02_HV1_sum_f",
+                  "label": "f",
+                  "content": "f) Der Sprecher hält die Modularisierung des Studiums für verantwortlich dafür, dass fächerübergreifendes Denken verloren geht."
+                },
+                {
+                  "id": "C1_m02_HV1_sum_g",
+                  "label": "g",
+                  "content": "g) Die Sprecherin plädiert dafür, dass Hochschulen Kontroversen aktiv moderieren, statt umstrittene Positionen zu vermeiden."
+                },
+                {
+                  "id": "C1_m02_HV1_sum_h",
+                  "label": "h",
+                  "content": "h) Der Sprecher glaubt, dass internationale Hochschulrankings ein verzerrtes Bild von Bildungsqualität erzeugen."
+                },
+                {
+                  "id": "C1_m02_HV1_sum_i",
+                  "label": "i",
+                  "content": "i) Die Sprecherin betont, dass Lehrende an Hochschulen stärker für die ethischen Dimensionen ihrer Fächer sensibilisiert werden müssen."
+                },
+                {
+                  "id": "C1_m02_HV1_sum_j",
+                  "label": "j",
+                  "content": "j) Der Sprecher sieht in der wachsenden Bürokratisierung des Hochschulwesens eine Bedrohung für die Forschungsfreiheit."
+                }
+              ],
+              "correctAnswer": "g",
+              "explanation": "Frau Dr. Albrecht erklärt: 'Wir haben gelernt, dass das Wegschauen bei heiklen Themen nicht schützt. Im Gegenteil: Wenn wir kontroverse Fragen strukturiert in den akademischen Raum holen und moderieren, entziehen wir ihnen die Sprengkraft.' Das entspricht g) über aktive Moderation von Kontroversen."
+            },
+            {
+              "id": "C1_m02_HV1_q8",
+              "type": "matching",
+              "questionText": "Sprecher 8: Herr Prof. Özcan, Bildungssoziologe",
+              "matchingSources": [
+                {
+                  "id": "C1_m02_HV1_sum_a",
+                  "label": "a",
+                  "content": "a) Die Sprecherin sieht in Studiengebühren ein Instrument sozialer Selektion, das Bildungsgerechtigkeit strukturell untergräbt."
+                },
+                {
+                  "id": "C1_m02_HV1_sum_b",
+                  "label": "b",
+                  "content": "b) Der Sprecher findet, dass die Bologna-Reform Hochschulen auf Effizienz getrimmt hat, ohne akademische Tiefe zu berücksichtigen."
+                },
+                {
+                  "id": "C1_m02_HV1_sum_c",
+                  "label": "c",
+                  "content": "c) Die Sprecherin befürchtet, dass Cancel Culture an Universitäten die freie wissenschaftliche Debatte ernsthaft gefährdet."
+                },
+                {
+                  "id": "C1_m02_HV1_sum_d",
+                  "label": "d",
+                  "content": "d) Der Sprecher betont, dass akademische Freiheit ohne institutionellen Schutz für Lehrende eine leere Formel bleibt."
+                },
+                {
+                  "id": "C1_m02_HV1_sum_e",
+                  "label": "e",
+                  "content": "e) Die Sprecherin ist überzeugt, dass Wissenschaftsethik bereits im Grundstudium als Pflichtfach verankert werden sollte."
+                },
+                {
+                  "id": "C1_m02_HV1_sum_f",
+                  "label": "f",
+                  "content": "f) Der Sprecher hält die Modularisierung des Studiums für verantwortlich dafür, dass fächerübergreifendes Denken verloren geht."
+                },
+                {
+                  "id": "C1_m02_HV1_sum_g",
+                  "label": "g",
+                  "content": "g) Die Sprecherin plädiert dafür, dass Hochschulen Kontroversen aktiv moderieren, statt umstrittene Positionen zu vermeiden."
+                },
+                {
+                  "id": "C1_m02_HV1_sum_h",
+                  "label": "h",
+                  "content": "h) Der Sprecher glaubt, dass internationale Hochschulrankings ein verzerrtes Bild von Bildungsqualität erzeugen."
+                },
+                {
+                  "id": "C1_m02_HV1_sum_i",
+                  "label": "i",
+                  "content": "i) Die Sprecherin betont, dass Lehrende an Hochschulen stärker für die ethischen Dimensionen ihrer Fächer sensibilisiert werden müssen."
+                },
+                {
+                  "id": "C1_m02_HV1_sum_j",
+                  "label": "j",
+                  "content": "j) Der Sprecher sieht in der wachsenden Bürokratisierung des Hochschulwesens eine Bedrohung für die Forschungsfreiheit."
+                }
+              ],
+              "correctAnswer": "h",
+              "explanation": "Herr Prof. Özcan sagt: 'Ein Ranking, das primär Zitationszahlen misst, sagt mir, welche Universität am meisten publiziert – nicht welche am besten bildet. Diese Verwechslung ist nicht unschuldig: Sie verändert, was Hochschulen als lohnend betrachten.' Das entspricht h) über Rankings und verzerrtes Bild von Bildungsqualität."
+            }
+          ]
+        },
+        {
+          "partNumber": 2,
+          "instructions": "Sie hören ein Interview mit Prof. Dr. Hartmann zum Thema Bologna-Reform und Hochschulpolitik. Lesen Sie zuerst die zehn Aufgaben. Hören Sie dann das Interview. Was ist richtig? Kreuzen Sie an: a, b oder c. Sie hören das Interview nur einmal.",
+          "instructionsTranslation": "You will hear an interview with Prof. Dr. Hartmann on the topic of the Bologna reform and higher education policy. First read the ten tasks. Then listen to the interview. What is correct? Choose a, b, or c. You will hear the interview only once.",
+          "audioFile": "assets/audio/C1/mock02/listening_part2.mp3",
+          "playCount": 1,
+          "questions": [
+            {
+              "id": "C1_m02_HV2_q1",
+              "type": "mcq",
+              "questionText": "Was ist laut Prof. Dr. Hartmann das grundlegende Problem mit der Art, wie Bologna-Reform oft bewertet wird?",
+              "options": [
+                "a) Die Reform wird zu selten anhand internationaler Vergleiche beurteilt.",
+                "b) Die Debatte wird häufig von Nostalgie geprägt statt von empirischen Daten.",
+                "c) Bologna-Kritiker kommen fast ausschließlich aus dem geisteswissenschaftlichen Lager."
+              ],
+              "correctAnswer": "b",
+              "explanation": "Prof. Dr. Hartmann sagt: 'Die meisten Bologna-Debatten, die ich höre, operieren mit einem idealisierten Bild des alten Diplomstudiums, das so nie existiert hat. Wer die Reform fair beurteilen will, braucht Daten, nicht Erinnerungen.' Das entspricht Option b). Optionen a) und c) werden im Interview nicht als Hauptkritik formuliert."
+            },
+            {
+              "id": "C1_m02_HV2_q2",
+              "type": "mcq",
+              "questionText": "Was sagt Prof. Dr. Hartmann über den Zusammenhang zwischen Modularisierung und Lerntiefe?",
+              "options": [
+                "a) Modularisierung hat Lerntiefe grundsätzlich verbessert, weil Lernziele klarer formuliert werden.",
+                "b) Modularisierung und Lerntiefe schließen sich prinzipiell aus.",
+                "c) Modularisierung kann Lerntiefe unterstützen, wenn Curricula bewusst gestaltet sind."
+              ],
+              "correctAnswer": "c",
+              "explanation": "Hartmann differenziert: 'Modularisierung ist ein Werkzeug. Wie jedes Werkzeug kann man es klug oder stumpfsinnig einsetzen. Wenn Modulziele tiefes Verständnis erfordern und nicht bloßes Abhaken, entsteht kein Widerspruch zur Lerntiefe.' Option a) ist zu generell positiv, Option b) zu absolut."
+            },
+            {
+              "id": "C1_m02_HV2_q3",
+              "type": "mcq",
+              "questionText": "Welchen Hauptvorteil der Bologna-Reform nennt Prof. Dr. Hartmann?",
+              "options": [
+                "a) Die Qualität der Forschung an deutschen Hochschulen hat sich deutlich verbessert.",
+                "b) Die Durchlässigkeit zwischen europäischen Hochschulsystemen ist gestiegen.",
+                "c) Studierende absolvieren ihr Studium heute schneller als vor der Reform."
+              ],
+              "correctAnswer": "b",
+              "explanation": "Hartmann hebt hervor: 'Was messbar besser geworden ist: europäische Studierendenmobilität. Erasmus-Zahlen sind gestiegen, Anerkennungsverfahren vereinfacht. Das ist kein symbolischer Fortschritt – das verändert Lebensläufe.' Option a) wird nicht als direkter Bologna-Effekt genannt. Option c) ist eine vereinfachte Darstellung."
+            },
+            {
+              "id": "C1_m02_HV2_q4",
+              "type": "mcq",
+              "questionText": "Wie bewertet Prof. Dr. Hartmann Studiengebühren aus bildungsökonomischer Sicht?",
+              "options": [
+                "a) Studiengebühren sind unumgänglich, um Hochschulen dauerhaft zu finanzieren.",
+                "b) Studiengebühren haben ambivalente Effekte, die stark vom Begleitsystem abhängen.",
+                "c) Studiengebühren sollten sofort bundesweit wieder eingeführt werden."
+              ],
+              "correctAnswer": "b",
+              "explanation": "Hartmann erklärt: 'Die Forschung zeigt: Gebühren allein sagen wenig. Entscheidend ist, ob es funktionierende Stipendiensysteme gibt, ob Darlehen sozial verträglich sind und ob Hochschulen die Einnahmen tatsächlich in Lehre investieren. Ohne diese Rahmenbedingungen sind Gebühren regressiv.' Option a) und c) geben einseitige Empfehlungen, die Hartmann nicht macht."
+            },
+            {
+              "id": "C1_m02_HV2_q5",
+              "type": "mcq",
+              "questionText": "Was sagt Hartmann über den Zusammenhang zwischen akademischer Freiheit und Beschäftigungsverhältnissen?",
+              "options": [
+                "a) Befristete Verträge beeinflussen akademische Freiheit nicht, solange Grundgesetzschutz gilt.",
+                "b) Akademische Freiheit ist ohne stabile Beschäftigungsverhältnisse strukturell gefährdet.",
+                "c) Das Problem befristeter Verträge ist an deutschen Hochschulen übertrieben dargestellt."
+              ],
+              "correctAnswer": "b",
+              "explanation": "Hartmann stellt fest: 'Ein Wissenschaftssystem, das zwei Drittel seines akademischen Mittelbaus auf befristeten Stellen hält, hat ein strukturelles Freiheitsproblem – unabhängig davon, was im Grundgesetz steht.' Das entspricht Option b). Optionen a) und c) widersprechen Hartmanns Einschätzung."
+            },
+            {
+              "id": "C1_m02_HV2_q6",
+              "type": "mcq",
+              "questionText": "Was kritisiert Hartmann an internationalen Hochschulrankings?",
+              "options": [
+                "a) Rankings messen zu wenig über Forschungsoutput.",
+                "b) Rankings ignorieren Lehrqualität und soziale Durchlässigkeit systematisch.",
+                "c) Deutsche Hochschulen schneiden in Rankings zu schlecht ab."
+              ],
+              "correctAnswer": "b",
+              "explanation": "Hartmann sagt: 'Kein einziges der großen Rankings misst, ob Studierenden aus einkommensschwachen Familien der Aufstieg gelingt, oder ob Lehrende tatsächlich gute Lehrende sind. Das sind Blindstellen, die für bildungspolitische Entscheidungen katastrophal sind.' Option a) widerspricht dem. Option c) wird nicht thematisiert."
+            },
+            {
+              "id": "C1_m02_HV2_q7",
+              "type": "mcq",
+              "questionText": "Welche Haltung vertritt Hartmann gegenüber Cancel Culture an Universitäten?",
+              "options": [
+                "a) Cancel Culture ist das größte aktuelle Problem für akademische Freiheit.",
+                "b) Cancel Culture ist ein reales Phänomen, aber wird in seiner Gefährlichkeit oft übertrieben.",
+                "c) Cancel Culture existiert an deutschen Universitäten nicht."
+              ],
+              "correctAnswer": "b",
+              "explanation": "Hartmann differenziert: 'Es gibt den chilling effect – das ist empirisch belegbar. Aber der Begriff Cancel Culture wird auch instrumentalisiert, um legitime Kritik an problematischen Positionen zu delegitimieren. Beides muss man auseinanderhalten.' Das entspricht Option b)."
+            },
+            {
+              "id": "C1_m02_HV2_q8",
+              "type": "mcq",
+              "questionText": "Wie beurteilt Hartmann die Rolle der Wissenschaftsethik in der heutigen Hochschullehre?",
+              "options": [
+                "a) Wissenschaftsethik ist an deutschen Hochschulen bereits flächendeckend verankert.",
+                "b) Wissenschaftsethik wird als wichtig anerkannt, bleibt aber strukturell unterverankert.",
+                "c) Wissenschaftsethik ist Aufgabe einzelner Lehrpersonen, nicht der Institution."
+              ],
+              "correctAnswer": "b",
+              "explanation": "Hartmann sagt: 'Alle sind einig, dass Wissenschaftsethik wichtig ist. Aber wenn ich schaue, wie viele Studienprogramme tatsächlich verpflichtende Ethikmodule haben, ist die Diskrepanz zwischen Bekenntnissen und Praxis erschreckend.' Das entspricht Option b)."
+            },
+            {
+              "id": "C1_m02_HV2_q9",
+              "type": "mcq",
+              "questionText": "Was sagt Hartmann über die Zukunft der Hochschulfinanzierung in Deutschland?",
+              "options": [
+                "a) Öffentliche Mittel allein werden mittelfristig nicht ausreichen.",
+                "b) Private Hochschulen sollten öffentliche Hochschulen vollständig ersetzen.",
+                "c) Das derzeitige Finanzierungsmodell ist nachhaltig und ausreichend."
+              ],
+              "correctAnswer": "a",
+              "explanation": "Hartmann stellt fest: 'Wenn wir ehrlich sind: Die öffentliche Finanzierung der Hochschulen ist seit Jahrzehnten strukturell unzureichend. Ohne alternative Finanzierungsquellen – ob Drittmittel, Stiftungen oder in begrenzter Form Gebühren – ist das nicht dauerhaft tragfähig.' Das entspricht Option a)."
+            },
+            {
+              "id": "C1_m02_HV2_q10",
+              "type": "mcq",
+              "questionText": "Was ist Hartmanns abschließendes Fazit zur Bologna-Reform?",
+              "options": [
+                "a) Die Bologna-Reform sollte vollständig rückgängig gemacht werden.",
+                "b) Die Bologna-Reform braucht eine zweite Phase, die soziale Ziele stärker ins Zentrum rückt.",
+                "c) Die Bologna-Reform ist abgeschlossen und hat ihre Ziele erreicht."
+              ],
+              "correctAnswer": "b",
+              "explanation": "Hartmann schließt: 'Wir brauchen nicht weniger Bologna, sondern mehr – mehr von dem, was 1999 eigentlich versprochen wurde: Durchlässigkeit, soziale Gerechtigkeit, echte Mobilität. Das erste Jahrzehnt hat die Strukturen geschaffen. Das zweite muss liefern.' Das entspricht Option b)."
+            }
+          ]
+        },
+        {
+          "partNumber": 3,
+          "instructions": "Sie hören einen akademischen Vortrag zum Thema Hochschulbildung im Wandel. Im Testheft finden Sie fünf Folien mit je zwei Lücken. Füllen Sie die Lücken während des Vortrags aus. Sie hören den Vortrag nur einmal.",
+          "instructionsTranslation": "You will hear an academic lecture on the topic of higher education in transition. In the test booklet you will find five slides each with two gaps. Fill in the gaps during the lecture. You will hear the lecture only once.",
+          "audioFile": "assets/audio/C1/mock02/listening_part3.mp3",
+          "playCount": 1,
+          "slides": [
+            {
+              "slideNumber": 1,
+              "title": "Die Universität im Wandel: Auftrag und Realität",
+              "content": "Humboldtsches Ideal: Einheit von Forschung und Lehre\n- Gegenwart: Kompetenzorientierung und Employability\nGap 1: ______ (Anteil befristet beschäftigter Wissenschaftler am Mittelbau, laut Vortrag)\nGap 2: ______ (Begriff für den institutionellen Auftrag, Studierende für den Arbeitsmarkt vorzubereiten)"
+            },
+            {
+              "slideNumber": 2,
+              "title": "Bologna-Reform: Kernbilanz",
+              "content": "Gewinne:\n- Europäische Studierendenmobilität gestiegen\n- Gap 3: ______ (konkretes EU-Programm, das von Vergleichbarkeit profitierte)\nVerluste:\n- Verdichtung der Curricula\n- Gap 4: ______ (Begriff für das, was laut Vortrag durch Modularisierung verloren geht)"
+            },
+            {
+              "slideNumber": 3,
+              "title": "Studiengebühren: Wirkungsanalyse",
+              "content": "Argumente pro:\n- Hochschulfinanzierung\n- Gap 5: ______ (zweites pro-Argument laut Vortrag)\nArgumente contra:\n- Gap 6: ______ (psychologisches Haupthindernis)"
+            },
+            {
+              "slideNumber": 4,
+              "title": "Akademische Freiheit und Cancel Culture",
+              "content": "Rechtlicher Rahmen: Artikel 5 Abs. 3 GG\nStrukturelles Problem: Gap 7: ______ (Mechanismus, der Selbstzensur erzeugt)\nHochschulstrategie: Gap 8: ______ (empfohlene Reaktion auf Kontroversen)"
+            },
+            {
+              "slideNumber": 5,
+              "title": "Wissenschaftsethik: Ist-Stand und Reformbedarf",
+              "content": "Aktuelle Lage: Gap 9: ______ (wo Ethikmodule bereits verankert sind)\nForderung: Gap 10: ______ (Reformvorschlag des Vortragenden)"
+            }
+          ],
+          "questions": [
+            {
+              "id": "C1_m02_HV3_q1",
+              "type": "mcq",
+              "questionText": "Folie 1 / Lücke 1: Anteil befristet beschäftigter Wissenschaftler am Mittelbau laut Vortrag",
+              "options": [
+                "über zwei Drittel",
+                "etwa die Hälfte",
+                "ein Drittel",
+                "unter einem Viertel"
+              ],
+              "correctAnswer": "über zwei Drittel",
+              "explanation": "Die Vortragende sagt: 'Über zwei Drittel des wissenschaftlichen Mittelbaus an deutschen Hochschulen sind befristet beschäftigt. Das ist kein Randphänomen, sondern das Strukturprinzip des deutschen Wissenschaftssystems.' Der Wert 'über zwei Drittel' ist explizit genannt."
+            },
+            {
+              "id": "C1_m02_HV3_q2",
+              "type": "mcq",
+              "questionText": "Folie 1 / Lücke 2: Begriff für den institutionellen Auftrag, Studierende für den Arbeitsmarkt vorzubereiten",
+              "options": [
+                "Employability",
+                "Akkreditierung",
+                "Kompetenzorientierung",
+                "Berufsqualifikation"
+              ],
+              "correctAnswer": "Employability",
+              "explanation": "Die Vortragende nennt: 'Dem Humboldtschen Ideal der Bildung durch Wissenschaft steht heute das Konzept der Employability gegenüber – der Beschäftigungsfähigkeit als primäres Bildungsziel.' Employability ist der explizit genannte Begriff."
+            },
+            {
+              "id": "C1_m02_HV3_q3",
+              "type": "mcq",
+              "questionText": "Folie 2 / Lücke 3: Konkretes EU-Programm, das von der Vergleichbarkeit der Studienstrukturen profitierte",
+              "options": [
+                "Erasmus",
+                "Horizon",
+                "Marie Curie",
+                "Bologna-Netzwerk"
+              ],
+              "correctAnswer": "Erasmus",
+              "explanation": "Die Vortragende erklärt: 'Das Erasmus-Programm hat von der Vergleichbarkeit der Studienstrukturen erheblich profitiert. Wer in Utrecht ein Semester studiert, kann die Leistungen heute viel einfacher einbringen.' Erasmus ist explizit genannt."
+            },
+            {
+              "id": "C1_m02_HV3_q4",
+              "type": "mcq",
+              "questionText": "Folie 2 / Lücke 4: Begriff für das, was laut Vortrag durch Modularisierung verloren geht",
+              "options": [
+                "fächerübergreifendes Denken",
+                "Praxisbezug",
+                "Spezialisierung",
+                "Lernautonomie"
+              ],
+              "correctAnswer": "fächerübergreifendes Denken",
+              "explanation": "Die Vortragende sagt: 'Was die Modularisierung strukturell erschwert, ist fächerübergreifendes Denken. Wer 30 Credits im Semester erbringen muss, hat keinen Raum für den produktiven Umweg.' Fächerübergreifendes Denken ist explizit genannt."
+            },
+            {
+              "id": "C1_m02_HV3_q5",
+              "type": "mcq",
+              "questionText": "Folie 3 / Lücke 5: Zweites pro-Argument für Studiengebühren laut Vortrag",
+              "options": [
+                "Effizienzanreiz zum schnelleren Abschluss",
+                "Qualitätssicherung durch Wettbewerb",
+                "Reduktion der Studierendenzahlen",
+                "Internationalisierung"
+              ],
+              "correctAnswer": "Effizienzanreiz zum schnelleren Abschluss",
+              "explanation": "Die Vortragende erklärt: 'Das zweite Argument ist ein Effizienzargument: Wer für sein Studium zahlt, hat einen stärkeren Anreiz, es in der Regelstudienzeit abzuschließen.' Effizienzanreiz zum schnelleren Abschluss ist das genannte zweite Argument."
+            },
+            {
+              "id": "C1_m02_HV3_q6",
+              "type": "mcq",
+              "questionText": "Folie 3 / Lücke 6: Psychologisches Haupthindernis gegen Studiengebühren laut Vortrag",
+              "options": [
+                "Schuldenaversion",
+                "Bürokratieaufwand",
+                "Qualitätszweifel",
+                "Informationsdefizit"
+              ],
+              "correctAnswer": "Schuldenaversion",
+              "explanation": "Die Vortragende sagt: 'Das psychologisch stärkste Gegenargument ist die Schuldenaversion: Auch wenn Darlehen theoretisch zugänglich sind, schreckt die Vorstellung, mit Schulden ins Berufsleben zu starten, besonders Bewerber aus bildungsfernen Milieus ab.' Schuldenaversion ist das explizit genannte Haupthindernis."
+            },
+            {
+              "id": "C1_m02_HV3_q7",
+              "type": "mcq",
+              "questionText": "Folie 4 / Lücke 7: Mechanismus, der laut Vortrag Selbstzensur erzeugt",
+              "options": [
+                "chilling effect",
+                "peer pressure",
+                "Konformitätsbias",
+                "institutioneller Druck"
+              ],
+              "correctAnswer": "chilling effect",
+              "explanation": "Die Vortragende erklärt: 'Der sogenannte chilling effect beschreibt, wie Lehrende beginnen, Themen zu meiden, noch bevor jemand Protest erhebt – weil die antizipierte Reaktion bereits verhaltenssteuernd wirkt.' Chilling effect ist der explizit genannte Begriff."
+            },
+            {
+              "id": "C1_m02_HV3_q8",
+              "type": "mcq",
+              "questionText": "Folie 4 / Lücke 8: Empfohlene Reaktion auf Kontroversen laut Vortrag",
+              "options": [
+                "aktive Moderation",
+                "institutionelle Distanzierung",
+                "Themenvermeidung",
+                "externe Mediation"
+              ],
+              "correctAnswer": "aktive Moderation",
+              "explanation": "Die Vortragende empfiehlt: 'Hochschulen, die Kontroversen strukturiert moderieren – mit klaren Diskursregeln, ohne inhaltliche Vorgaben – erfüllen ihren Bildungsauftrag besser als solche, die heikle Themen vermeiden.' Aktive Moderation ist die empfohlene Reaktion."
+            },
+            {
+              "id": "C1_m02_HV3_q9",
+              "type": "mcq",
+              "questionText": "Folie 5 / Lücke 9: Wo Ethikmodule bereits verankert sind laut Vortrag",
+              "options": [
+                "Medizin, Biologie und Informatik",
+                "allen Fachbereichen",
+                "nur Geisteswissenschaften",
+                "Jura und Wirtschaft"
+              ],
+              "correctAnswer": "Medizin, Biologie und Informatik",
+              "explanation": "Die Vortragende sagt: 'Ethikmodule finden sich bereits in einigen Fachbereichen, vor allem in der Medizin, der Biologie und zunehmend der Informatik. Das sind die Felder, wo ethische Konsequenzen am direktesten spürbar werden.' Die drei genannten Fächer sind die korrekte Antwort."
+            },
+            {
+              "id": "C1_m02_HV3_q10",
+              "type": "mcq",
+              "questionText": "Folie 5 / Lücke 10: Reformvorschlag der Vortragenden",
+              "options": [
+                "fächerübergreifendes Pflichtmodul Wissenschaftsethik",
+                "freiwillige Ethik-AG",
+                "externe Ethikkommission",
+                "Selbstverpflichtungserklärung"
+              ],
+              "correctAnswer": "fächerübergreifendes Pflichtmodul Wissenschaftsethik",
+              "explanation": "Die Vortragende fordert: 'Mein Vorschlag ist eindeutig: ein fächerübergreifendes Pflichtmodul Wissenschaftsethik im Bachelorstudium, für alle Studiengänge. Nicht als Wahlpflicht, sondern als Pflicht.' Das ist der explizit formulierte Reformvorschlag."
+            }
+          ]
+        }
+      ]
+    },
+    "writing": {
+      "totalTimeMinutes": 70,
+      "tasks": [
+        {
+          "taskNumber": 1,
+          "type": "essay",
+          "instructions": "Wählen Sie eine der beiden Aufgaben (A oder B) und schreiben Sie einen Text von mindestens 350 Wörtern. Sie haben 70 Minuten Zeit. Beachten Sie die vier Leitpunkte.",
+          "instructionsTranslation": "Choose one of the two tasks (A or B) and write a text of at least 350 words. You have 70 minutes. Pay attention to the four guiding points.",
+          "prompt": "Aufgabe A — Erörterung: Sollte Cancel Culture an Hochschulen als Bedrohung der akademischen Freiheit eingestuft werden?\n\nZwei Stimmen zur Debatte:\n\nStimme 1 (Studentenverband): „Cancel Culture ist kein reales Problem – es ist ein Kampfbegriff, der genutzt wird, um legitime Kritik und Gegenrede zu delegitimieren. Wer an einer Universität eine Position vertritt, muss mit akademischem Widerspruch rechnen. Das ist keine Zensur, das ist Diskurs.\"\n\nStimme 2 (Hochschullehrerverband): „Der sogenannte chilling effect ist empirisch belegbar: Lehrende meiden bestimmte Themen aus Angst vor öffentlicher Ächtung, noch bevor institutioneller Druck ausgeübt wird. Das untergräbt akademische Freiheit strukturell – und das ist eine ernste Gefahr.\"\n\nLeitpunkte:\n1. Führen Sie in das Thema ein und erläutern Sie, warum die Frage für Hochschulen besondere Relevanz hat.\n2. Diskutieren Sie Argumente, die Cancel Culture als reale Bedrohung akademischer Freiheit einordnen.\n3. Diskutieren Sie Argumente, die Cancel Culture als übertriebene oder missverstandene Debatte betrachten.\n4. Begründen Sie abschließend Ihren eigenen Standpunkt.\n\n---\n\nAufgabe B — Stellungnahme: Bologna-Reform – Bilanz und Perspektive\n\nAusgangsbehauptung (Hochschulrektorenkonferenz): „Die Bologna-Reform hat die europäische Hochschullandschaft grundlegend modernisiert. Wer heute über ihre Defizite klagt, vergisst, was vor ihr herrschte: ein Flickenteppich nationaler Diplome, der internationale Mobilität nahezu unmöglich machte.\"\n\nLeitpunkte:\n1. Führen Sie in das Thema ein und skizzieren Sie die Ausgangssituation vor der Bologna-Reform.\n2. Diskutieren Sie Argumente, die die Einschätzung der Hochschulrektorenkonferenz stützen.\n3. Diskutieren Sie strukturelle Defizite, die die Reform hinterlassen oder verursacht hat.\n4. Nehmen Sie abschließend Stellung: Überwiegen die Gewinne oder die Verluste?\n\nMindestlänge: 350 Wörter. Empfehlung: 350–400 Wörter.",
+          "promptTranslation": "Task A — Argumentative essay: Should cancel culture at universities be classified as a threat to academic freedom? | Task B — Opinion statement: Bologna reform — balance sheet and perspective.",
+          "requiredPoints": [
+            "Thema einführen und gesellschaftliche Bedeutung erläutern",
+            "Argumente für eine Position diskutieren",
+            "Argumente für die Gegenposition diskutieren",
+            "Eigenen Standpunkt begründen"
+          ],
+          "wordCountMin": 350,
+          "wordCountMax": 450,
+          "sampleAnswer": "Aufgabe A — Musterlösung (Erörterung)\n\nDie Forderung, Cancel Culture an Hochschulen zu bekämpfen, klingt auf den ersten Blick nach einer eindeutigen Verteidigung akademischer Freiheit. Bei näherer Betrachtung erweist sich die Debatte jedoch als erheblich vielschichtiger: Wer recht hat, hängt davon ab, was genau unter Cancel Culture verstanden wird – und wer in der Lage ist, diese Definition zu kontrollieren.\n\nFür die These, dass Cancel Culture eine ernsthafte Bedrohung darstellt, lassen sich gewichtige Argumente anführen. Der sogenannte chilling effect – die Selbstzensur, die entsteht, bevor formaler Druck ausgeübt wird – ist empirisch belegbar. Wenn Lehrende Themen meiden, weil sie die antizipierte Reaktion in sozialen Medien fürchten, ist das eine reale Einschränkung der Lehrfreiheit. Diese Einschränkung trifft besonders den akademischen Mittelbau: Wer auf einer befristeten Stelle beschäftigt ist und in drei Jahren um Vertragsverlängerung bangen muss, kalkuliert Risiken anders als eine Professorin mit Verbeamtungsstatus. Die rechtliche Garantie des Artikel 5 Absatz 3 GG schützt strukturell Schwächere damit nur bedingt.\n\nGleichwohl greift eine undifferenzierte Cancel-Culture-Kritik zu kurz. Sie verwechselt bisweilen legitime Kritik mit Zensur: Wer einem Wissenschaftler widerspricht, ihn öffentlich kritisiert oder seinen Vortrag boykottiert, übt selbst eine Form akademischer Freiheit aus. Erst wenn institutioneller Druck Lehrende zwingt, Themen zu meiden oder Positionen zu revidieren, wird die Grenze überschritten. Diese Unterscheidung ist entscheidend – und wird in populären Debatten oft verwischt.\n\nMeiner Einschätzung nach liegt die konstruktivste Antwort nicht in der Abwehr, sondern in der aktiven Gestaltung: Hochschulen sollten Kontroversen strukturiert moderieren, transparente Diskursregeln etablieren und gleichzeitig die Beschäftigungsverhältnisse ihres Mittelbaus so absichern, dass akademische Freiheit nicht nur auf dem Papier gilt. Cancel Culture ist kein Phänomen, das sich durch Verbote einhegen lässt – wohl aber durch eine Hochschulkultur, die Widerspruch normalisiert und institutionell schützt.",
+          "sampleAnswerMetadata": "ca. 380 Wörter — demonstriert alle 4 Leitpunkte, ≥3 FVG, Konjunktiv II, Passiv-Ersatzformen, Genitiv-Präpositionen, Konnektoren-Vielfalt",
+          "scoringCriteria": [
+            {
+              "criterion": "Aufgabengerechtheit",
+              "maxPoints": 12,
+              "description": "Alle 4 Leitpunkte vollständig und mit C1-angemessener Tiefe behandelt (≥3–4 Sätze pro Punkt mit Begründung + Beispiel)."
+            },
+            {
+              "criterion": "Repertoire",
+              "maxPoints": 12,
+              "description": "Breiter C1-Wortschatz: abstrakte argumentative Lexik, ≥3 Funktionsverbgefüge, Hedging-Ausdrücke, Register-Marker."
+            },
+            {
+              "criterion": "Korrektheit",
+              "maxPoints": 12,
+              "description": "Morphologische und syntaktische Korrektheit. Konjunktiv II, Genitiv-Präpositionen und Passiv-Ersatzformen korrekt eingesetzt."
+            },
+            {
+              "criterion": "Kommunikative Gestaltung",
+              "maxPoints": 12,
+              "description": "Klare Textstruktur, kohärente Absatzführung, vielfältige Konnektoren, Register durchgängig formal-akademisch."
+            }
+          ]
+        }
+      ]
+    },
+    "speaking": {
+      "totalTimeMinutes": 16,
+      "prepTimeMinutes": 20,
+      "parts": [
+        {
+          "partNumber": 1,
+          "instructions": "Teil 1A — Präsentation: Wählen Sie eines der beiden Themen und halten Sie eine Präsentation von ca. 3 Minuten. Nutzen Sie die Stichpunkte als Anregung. Sie haben 20 Minuten Vorbereitungszeit.",
+          "instructionsTranslation": "Part 1A — Presentation: Choose one of the two topics and give a presentation of approximately 3 minutes. Use the bullet points as prompts. You have 20 minutes preparation time.",
+          "type": "presentation",
+          "prompt": "Thema A: Bologna-Reform – Gewinn oder Verlust für die akademische Bildung?\n\nMögliche Aspekte (Sie müssen nicht alle ansprechen):\n• Was hat die Bologna-Reform konkret verändert?\n• Welche Gewinne sind messbar – welche Versprechen wurden nicht eingelöst?\n• Wie hat sich das Verhältnis von Bildungstiefe und Employability entwickelt?\n• Was sollte eine zweite Reformphase leisten?\n\n---\n\nThema B: Studiengebühren – gerecht oder ausgrenzend?\n\nMögliche Aspekte (Sie müssen nicht alle ansprechen):\n• Warum ist die Gebührenfrage in Deutschland politisch so aufgeladen?\n• Welche Argumente sprechen für moderate Gebühren – welche dagegen?\n• Was zeigen internationale Erfahrungen (UK, Skandinavien, USA)?\n• Wie sollte Hochschulbildung gerecht finanziert werden?",
+          "sampleResponse": "[Thema A — Musterpräsentation: Bologna-Reform — Gewinn oder Verlust für die akademische Bildung?]\n\nMeine Damen und Herren, die Bologna-Reform ist seit ihrer Einführung vor gut 25 Jahren ein Dauerbrenner bildungspolitischer Debatten. Meine These: Wer sie pauschal verurteilt oder unkritisch lobt, versteht weder, was sie leistete, noch, was sie verfehlte.\n\nZunächst zu den unbestreitbaren Gewinnen. Die europäische Studierendenmobilität hat messbar zugenommen. Das Erasmus-Programm, das von vergleichbaren Studienstrukturen direkt profitierte, ermöglicht heute Millionen von Studierenden ein Auslandssemester, das vor Bologna bürokratisch oft kaum realisierbar war. Auch die Beschäftigungsfähigkeit von Absolventen hat sich in vielen Fächern verbessert – ein Befund, den man nicht ignorieren darf.\n\nGleichwohl hat die Modularisierung eine Kehrseite, die ich für gravierend halte: Sie hat die Hochschule in ein Credit-Abarbeitungssystem verwandelt. Wer 30 Credits im Semester erbringen muss, hat keinen Raum für den intellektuellen Umweg, der in der Wissenschaft oft der produktivste ist. Fächerübergreifendes Denken, das von Aristoteles bis zur modernen Kognitionswissenschaft als Kennzeichen gebildeter Menschen gilt, braucht genau das, was das System nicht mehr gibt: Zeit.\n\nEin weiteres Defizit betrifft soziale Gerechtigkeit. Die Reform hat den Hochschulzugang nicht so demokratisiert, wie das ursprüngliche Versprechen lautete. Wer keine finanziellen Rücklagen hat, studiert unter anderem Druck als jemand, dem ein Elternhaus im Rücken steht.\n\nMein Fazit: Die Bologna-Reform braucht keine Rückabwicklung, sondern eine zweite Phase – eine, die die sozialen Versprechen von 1999 nachliefert und Bildungstiefe strukturell wieder möglich macht. Das ist keine Nostalgie; das ist eine unerledigte Reformaufgabe.",
+          "evaluationTips": [
+            "Strukturieren Sie Ihren Vortrag mit einer klaren Einleitung, einem Hauptteil mit mindestens zwei Argumentationssträngen und einem Fazit.",
+            "Nutzen Sie Signalwörter: 'Zunächst möchte ich…', 'Ein weiterer Aspekt…', 'Mein Fazit…'",
+            "Vermeiden Sie reine Auflistung – jeder Punkt muss argumentativ entwickelt werden.",
+            "C1-Erwartung: abstrakte Argumentation, nicht nur Beschreibung. Stellen Sie Ursache-Wirkungs-Zusammenhänge dar.",
+            "Verwenden Sie Konjunktiv II für höfliche Distanzierung: 'Ich würde behaupten, dass…', 'Es ließe sich argumentieren…'"
+          ],
+          "keyPhrases": [
+            "Ich möchte zunächst auf … eingehen",
+            "Ein zentraler Aspekt ist …",
+            "Es ließe sich argumentieren, dass …",
+            "Dem ist entgegenzuhalten, dass …",
+            "Meinem Dafürhalten nach …",
+            "Zusammenfassend lässt sich sagen …",
+            "In Anbetracht dieser Überlegungen …",
+            "Dies hat weitreichende Konsequenzen für …"
+          ]
+        },
+        {
+          "partNumber": 2,
+          "instructions": "Teil 1B — Zusammenfassung und Anschlussfrage: Der/die Prüfungspartner/in fasst die Präsentation kurz zusammen und stellt eine Anschlussfrage. Der/die Präsentierende antwortet.",
+          "instructionsTranslation": "Part 1B — Summary and follow-up question: The exam partner briefly summarises the presentation and asks one follow-up question. The presenter responds.",
+          "type": "discussion",
+          "prompt": "Aufgabe für den/die Prüfungspartner/in:\n1. Fassen Sie die Hauptthesen der Präsentation in 2–3 Sätzen zusammen.\n2. Stellen Sie eine Anschlussfrage, die einen neuen Aspekt des Themas öffnet oder eine der Thesen kritisch hinterfragt.\n\nBeispiele für Anschlussfragen (je nach Präsentationsthema):\n- „Du hast argumentiert, dass Bologna eine zweite Phase braucht. Aber welche Institution sollte diese Reform führen – die EU, die Bundesländer oder die Hochschulen selbst?\"\n- „Siehst du einen Widerspruch zwischen dem Ziel der Employability und dem Ziel der Bildungstiefe – oder lassen sich beide vereinen?\"\n- „Wie würdest du mit jemandem diskutieren, der sagt: ‚Die alten Diplomstudiengänge waren elitär und exklusiv – Bologna hat das zu Recht gebrochen'?\"\n\nAufgabe für den/die Präsentierende/n:\nReagieren Sie direkt auf die Zusammenfassung: korrigieren Sie ggf. Missverständnisse und beantworten Sie die Anschlussfrage mit einer begründeten Argumentation.",
+          "sampleResponse": "[Musterreaktion auf Anschlussfrage: Wer soll die zweite Reformphase führen?]\n\nDiese Frage trifft einen wunden Punkt der europäischen Bildungspolitik. Ich würde argumentieren: Weder die EU allein, noch die Bundesländer allein. Die erste Bologna-Phase funktionierte, weil sie einen zwischenstaatlichen Vertrag hatte – eine klare politische Verpflichtung. Eine zweite Phase bräuchte dasselbe: einen verbindlichen europäischen Rahmen, der soziale Durchlässigkeit und Bildungstiefe als messbare Ziele festlegt. Die Umsetzung aber muss dezentral bleiben – bei den Hochschulen. Zentralistischer Reformdruck von oben erzeugt Compliance, aber keine Kultur. Was fehlt, ist der Mittelbau: eine europäische Förderstruktur, die innovative Lehrformate belohnt statt nur Publikationszahlen. Das wäre der Hebel.",
+          "evaluationTips": [
+            "Hören Sie der Zusammenfassung des Partners aktiv zu und bestätigen Sie korrekte Punkte oder korrigieren Sie Missverständnisse.",
+            "Die Anschlussfrage muss direkt und argumentativ beantwortet werden – nicht ausweichen.",
+            "C1-Erwartung: Reagieren Sie differenziert, räumen Sie Teilargumente ein, bevor Sie widersprechen.",
+            "Verwenden Sie turn-taking-Marker: 'Diese Frage trifft…', 'Ich möchte ergänzen, dass…', 'Das stimmt, aber…'"
+          ],
+          "keyPhrases": [
+            "Ich stimme zu, dass … allerdings …",
+            "Das ist ein wichtiger Punkt, den ich ergänzen möchte: …",
+            "Ich würde einer einseitigen Schuldzuweisung widersprechen …",
+            "Das trifft einen wesentlichen Aspekt …",
+            "In diesem Zusammenhang ist zu bedenken, dass …"
+          ]
+        },
+        {
+          "partNumber": 3,
+          "instructions": "Teil 2 — Diskussion: Diskutieren Sie gemeinsam mit Ihrem/Ihrer Prüfungspartner/in die folgende These. Beide müssen aktiv argumentieren und auf die Argumente des Partners eingehen. Ca. 5–6 Minuten.",
+          "instructionsTranslation": "Part 2 — Discussion: Discuss the following thesis together with your exam partner. Both must actively argue and respond to the partner's arguments. Approximately 5–6 minutes.",
+          "type": "discussion",
+          "prompt": "Diskussionsthese:\n\n„Sollten Studiengebühren in Deutschland wieder eingeführt werden?\"\n\nHintergrund: Auf Ihre Diskussionskarten steht eine kurze Einschätzung als Ausgangspunkt:\n\nKarte A: „Hochschulen sind chronisch unterfinanziert. Moderate Studiengebühren mit gut ausgestatteten Stipendiensystemen wären gerechter als die aktuelle Situation, in der alle Steuerzahler ein System mitfinanzieren, das statistisch vor allem Besserverdiener begünstigt.\"\n\nKarte B: „Studiengebühren schrecken einkommensschwache Bewerber ab – auch wenn Stipendien theoretisch ausgleichen. Die psychologische Schuldenbarriere ist real und empirisch belegt. Bildung als öffentliches Gut darf nicht zur Ware werden.\"\n\nDiskutieren Sie:\n- Was versteht man unter 'gerechter Finanzierung' von Hochschulbildung?\n- Welche Erfahrungen aus anderen Ländern (UK, Skandinavien, USA) sind auf Deutschland übertragbar?\n- Welche Alternativen zu Studiengebühren gibt es?\n- Wer trägt letztlich die Konsequenzen bildungspolitischer Entscheidungen?",
+          "sampleResponse": "[Musterreaktion auf Karte B-Position]\n\nDas Schuldenargument ist das stärkste der Gegenseite – und ich nehme es ernst. Aber ich würde dem Framing widersprechen. Die Alternative zu Studiengebühren ist nicht 'kostenlose Bildung' – es ist 'von allen bezahlte Bildung', also eine Quersubventionierung von Studierenden durch Personen, die statistisch geringere Lebenseinkommen haben als Absolventen. Das ist kein neutrales Ergebnis, das ist eine Umverteilungsentscheidung. Mein Punkt wäre: Nicht ob Gebühren, sondern wie. Ein einkommensabhängiges Darlehensmodell, wie Australien es kennt, vermeidet Schuldenaversion, weil die Rückzahlung erst ab einem Mindesteinkommen beginnt. Das ändert die psychologische Rechnung erheblich. Die Frage 'Gebühren ja oder nein' ist weniger entscheidend als die Frage, wie das Begleitsystem ausgestaltet ist.",
+          "evaluationTips": [
+            "Bezieht sich direkt auf die Karte des Partners, ohne die eigene Position zu verlassen.",
+            "Räumt das stärkste Gegenargument ein, bevor es relativiert wird – das ist C1-Gesprächskompetenz.",
+            "Nutzt ein konkretes internationales Beispiel (Australien) als Beleg.",
+            "Verschiebt die Debatte auf eine tiefere Ebene: nicht ob, sondern wie – das zeigt analytische Reife."
+          ]
+        }
+      ]
+    }
   }
 }

@@ -1,0 +1,171 @@
+<speak>
+  <!-- C1 Mock 02 — Teil 1 (8 Kurzaussagen / Speaker-to-Summary matching, playCount=1) -->
+  <!-- Theme: Bildung und Hochschule -->
+  <!-- Announcer: de-DE-Wavenet-C (female, neutral) -->
+  <!-- 8 speakers — 8 UNIQUE voices (4 female / 4 male) per CR-9 spec -->
+  <!-- Female: Wavenet-F (Sp1 Brandt), Wavenet-A (Sp3 Sommer), Wavenet-E (Sp5 Nguyen), Neural2-F (Sp7 Albrecht) -->
+  <!-- Male:   Wavenet-B (Sp2 Kowalski), Wavenet-D (Sp4 Reiter), Neural2-B (Sp6 Fischer), Neural2-D (Sp8 Özcan) -->
+  <!-- C1 spec: natural speed 1.0x, played ONCE, no pedagogical slowing -->
+  <!-- 10-second initial pause for candidates to read summary statements a-j -->
+  <!-- 5-second pauses between speakers -->
+
+  <break time="3s"/>
+
+  <voice name="de-DE-Wavenet-C">
+    <prosody rate="1.0">
+      Hörverstehen, Teil 1. Sie hören acht kurze Stellungnahmen verschiedener Personen
+      zum Thema Hochschule und Gesellschaft.
+      Lesen Sie zuerst die zehn Zusammenfassungen in Ihrem Testheft.
+      Welche Zusammenfassung passt zu welchem Sprecher?
+      Zwei Zusammenfassungen passen nicht.
+      Sie hören die Texte nur einmal.
+    </prosody>
+    <break time="10s"/>
+  </voice>
+
+  <!-- Sprecher 1: Frau Prof. Brandt, Hochschulforscherin — Antwort: a -->
+  <!-- Voice: de-DE-Wavenet-F (female, unique) -->
+  <voice name="de-DE-Wavenet-C">
+    <prosody rate="1.0">Sprecher 1: Frau Professor Brandt, Hochschulforscherin.</prosody>
+    <break time="1s"/>
+  </voice>
+  <voice name="de-DE-Wavenet-F">
+    <prosody rate="1.0">
+      Hochschulen, die Studiengebühren erheben, selektieren nicht nur nach Leistung,
+      sondern auch nach Herkunft. Das ist keine Vermutung, sondern ein empirisch gut belegter Befund,
+      der sich durch Längsschnittstudien in mehreren europäischen Bildungssystemen zeigt.
+      Wer das als Nebeneffekt abtut, verkennt, dass Bildungsgerechtigkeit kein Selbstläufer ist —
+      sie muss strukturell abgesichert werden, und Gebühren untergraben genau das.
+    </prosody>
+  </voice>
+  <break time="5s"/>
+
+  <!-- Sprecher 2: Herr Dr. Kowalski, Bildungsökonom — Antwort: b -->
+  <!-- Voice: de-DE-Wavenet-B (male, unique) -->
+  <voice name="de-DE-Wavenet-C">
+    <prosody rate="1.0">Sprecher 2: Herr Doktor Kowalski, Bildungsökonom.</prosody>
+    <break time="1s"/>
+  </voice>
+  <voice name="de-DE-Wavenet-B">
+    <prosody rate="1.0">
+      Die Bologna-Reform hat Hochschulen auf Throughput optimiert — Abschlussquoten,
+      Studiendauer, Employability. Was dabei verloren gegangen ist, ist die Bereitschaft,
+      Studierende durch intellektuelle Umwege zu führen, die langfristig die wichtigsten
+      sein können. Ich nenne das das Paradox der Effizienz: Je besser optimiert,
+      desto weniger Raum für das, was Bildung im tiefsten Sinne ausmacht.
+    </prosody>
+  </voice>
+  <break time="5s"/>
+
+  <!-- Sprecher 3: Frau Dr. Sommer, Soziologin — Antwort: c -->
+  <!-- Voice: de-DE-Wavenet-A (female, unique) -->
+  <voice name="de-DE-Wavenet-C">
+    <prosody rate="1.0">Sprecher 3: Frau Doktor Sommer, Soziologin.</prosody>
+    <break time="1s"/>
+  </voice>
+  <voice name="de-DE-Wavenet-A">
+    <prosody rate="1.0">
+      Wenn Lehrende bestimmte Themen meiden, weil sie fürchten, in sozialen Medien
+      diskreditiert zu werden — noch bevor jemand Protest erhoben hat —,
+      dann ist das eine reale Einschränkung der Lehrfreiheit. Man kann es Cancel Culture nennen
+      oder chilling effect — der Begriff ist weniger wichtig als der Befund:
+      Selbstzensur aus Angst vor antizipierter Kritik ist kein akademisches Hirngespinst,
+      sondern ein messbares Phänomen.
+    </prosody>
+  </voice>
+  <break time="5s"/>
+
+  <!-- Sprecher 4: Herr Prof. Reiter, Rechtswissenschaftler — Antwort: d -->
+  <!-- Voice: de-DE-Wavenet-D (male, unique) -->
+  <voice name="de-DE-Wavenet-C">
+    <prosody rate="1.0">Sprecher 4: Herr Professor Reiter, Rechtswissenschaftler.</prosody>
+    <break time="1s"/>
+  </voice>
+  <voice name="de-DE-Wavenet-D">
+    <prosody rate="1.0">
+      Artikel 5 Absatz 3 ist ein wunderbarer Satz. Aber er schützt nicht vor dem informellen Druck,
+      der entsteht, wenn die eigene Vertragsverlängerung davon abhängt,
+      ob man als angenehmer Kollege gilt, oder ob man die Thesen des Betreuers öffentlich hinterfragt.
+      Akademische Freiheit ohne institutionellen Schutz der Beschäftigungsverhältnisse
+      ist für den Mittelbau keine gelebte Realität — sie ist ein Verfassungsversprechen
+      auf dem Papier.
+    </prosody>
+  </voice>
+  <break time="5s"/>
+
+  <!-- Sprecher 5: Frau Prof. Nguyen, Wissenschaftsethikerin — Antwort: e -->
+  <!-- Voice: de-DE-Wavenet-E (female, unique) -->
+  <voice name="de-DE-Wavenet-C">
+    <prosody rate="1.0">Sprecher 5: Frau Professor Nguyen, Wissenschaftsethikerin.</prosody>
+    <break time="1s"/>
+  </voice>
+  <voice name="de-DE-Wavenet-E">
+    <prosody rate="1.0">
+      Wissenschaftsethik darf kein Wahlseminar in Fachbereichen sein,
+      die ohnehin schon ethisch sensibel sind — etwa Medizin oder Biologie.
+      Sie gehört ins Grundstudium, verpflichtend, für alle.
+      Weil jede Wissenschaft Konsequenzen für Menschen hat. Wer Ingenieurstudierende
+      vier Jahre lang über Thermodynamik und Statik ausbildet,
+      ohne ihnen je eine Frage der Ingenieurethik zu stellen, schickt sie
+      unvorbereitet in eine Verantwortung, auf die sie niemand vorbereitet hat.
+    </prosody>
+  </voice>
+  <break time="5s"/>
+
+  <!-- Sprecher 6: Herr Dr. Fischer, Erziehungswissenschaftler — Antwort: f -->
+  <!-- Voice: de-DE-Neural2-B (male, unique) -->
+  <voice name="de-DE-Wavenet-C">
+    <prosody rate="1.0">Sprecher 6: Herr Doktor Fischer, Erziehungswissenschaftler.</prosody>
+    <break time="1s"/>
+  </voice>
+  <voice name="de-DE-Neural2-B">
+    <prosody rate="1.0">
+      Die Modularisierung hat dazu geführt, dass Studierende wie Abrufende agieren:
+      Modul absolvieren, Credit bekommen, nächstes Modul.
+      Fächerübergreifendes Denken braucht aber Zeit und strukturelle Räume,
+      die das System nicht mehr bietet. Wer in einem Semester sechs Module jongliert,
+      denkt horizontal — aber Wissenschaft braucht auch das Denken in die Tiefe,
+      über Fachgrenzen hinaus. Genau diesen Raum hat die Reform systematisch
+      aus dem Curriculum herausoptimiert.
+    </prosody>
+  </voice>
+  <break time="5s"/>
+
+  <!-- Sprecher 7: Frau Dr. Albrecht, Hochschulpräsidentin — Antwort: g -->
+  <!-- Voice: de-DE-Neural2-F (female, unique) -->
+  <voice name="de-DE-Wavenet-C">
+    <prosody rate="1.0">Sprecher 7: Frau Doktor Albrecht, Hochschulpräsidentin.</prosody>
+    <break time="1s"/>
+  </voice>
+  <voice name="de-DE-Neural2-F">
+    <prosody rate="1.0">
+      Wir haben in den letzten Jahren gelernt, dass das Wegschauen bei heiklen Themen
+      nicht schützt — es macht die Situation schlimmer. Im Gegenteil:
+      Wenn wir kontroverse Fragen strukturiert in den akademischen Raum holen
+      und moderieren — mit klaren Diskursregeln, ohne inhaltliche Vorgaben —
+      entziehen wir ihnen die Sprengkraft. Hochschulen müssen Orte sein,
+      an denen das Schwierige sagbar ist, nicht weggedrückt wird.
+    </prosody>
+  </voice>
+  <break time="5s"/>
+
+  <!-- Sprecher 8: Herr Prof. Özcan, Bildungssoziologe — Antwort: h -->
+  <!-- Voice: de-DE-Neural2-D (male, unique) -->
+  <voice name="de-DE-Wavenet-C">
+    <prosody rate="1.0">Sprecher 8: Herr Professor Özcan, Bildungssoziologe.</prosody>
+    <break time="1s"/>
+  </voice>
+  <voice name="de-DE-Neural2-D">
+    <prosody rate="1.0">
+      Ein Ranking, das primär Zitationszahlen und Drittmitteleinwerbung misst,
+      sagt mir, welche Universität am meisten publiziert und einwirbt —
+      nicht welche am besten bildet. Diese Verwechslung ist nicht unschuldig:
+      Sie verändert, was Hochschulen als lohnend betrachten, wen sie einstellen,
+      welche Fächer ausgebaut werden und welche ausgedünnt.
+      Ein Ranking ist immer auch eine normative Aussage darüber,
+      was Hochschule sein soll — und die meisten sagen das falsch.
+    </prosody>
+  </voice>
+  <break time="3s"/>
+
+</speak>
