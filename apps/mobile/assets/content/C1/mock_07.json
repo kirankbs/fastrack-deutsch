@@ -1,13 +1,1741 @@
 {
   "id": "C1_mock_07",
   "level": "C1",
-  "title": "Übungstest 7",
-  "version": 0,
-  "_stub": true,
+  "title": "C1 Übungstest 7: Kultur und Kunst",
+  "version": 1,
   "sections": {
-    "listening": { "totalTimeMinutes": 20, "parts": [] },
-    "reading": { "totalTimeMinutes": 25, "parts": [] },
-    "writing": { "totalTimeMinutes": 20, "tasks": [] },
-    "speaking": { "totalTimeMinutes": 15, "prepTimeMinutes": 0, "parts": [] }
+    "reading": {
+      "totalTimeMinutes": 90,
+      "parts": [
+        {
+          "partNumber": 1,
+          "instructions": "Lesen Sie den folgenden Text. Sechs Sätze wurden herausgenommen. Wählen Sie aus den acht angebotenen Sätzen (a–h) den jeweils passenden. Zwei Sätze passen nicht. Schreiben Sie den Buchstaben des richtigen Satzes in die entsprechende Lücke.",
+          "instructionsTranslation": "Read the following text. Six sentences have been removed. Choose the appropriate sentence from the eight offered (a–h) for each gap. Two sentences do not fit. Write the letter of the correct sentence in the corresponding gap.",
+          "texts": [
+            {
+              "id": "C1_m07_R1_main",
+              "type": "article",
+              "content": "Raubkunst oder Kulturerbe? Die Restitutionsdebatte im Umbruch\n\nIn keinem anderen Bereich der Kulturpolitik prallen Rechtsgrundsätze, Geschichtsmoral und diplomatisches Kalkül so hart aufeinander wie bei der Frage der Rückgabe kolonialer Kulturgüter. [1] Lange galt das Schweigen darüber als der praktisch bequemste Zustand: Museen öffneten ihre Depots nicht, Regierungen vermieden politisch belastete Debatten, und die öffentliche Aufmerksamkeit blieb gering. Erst eine neue Generation kuratorischer Stimmen aus Afrika, Ozeanien und Lateinamerika hat die Diskussion auf eine Ebene gehoben, auf der sie nicht mehr ignoriert werden kann. Hinzu kommt, dass postkoloniale Studien an Universitäten weltweit an Einfluss gewonnen haben und akademische Argumente in kulturpolitische Forderungen übersetzen, die nun von Regierungen nicht mehr als randständig abgetan werden können.\n\nDer Begriff der Provenienzforschung bezeichnet die systematische Rekonstruktion der Besitz- und Erwerbsgeschichte von Kunstwerken. Im Kontext kolonialer Sammlungen bedeutet das: War der Erwerb einvernehmlich? Gab es eine erkennbare Machtasymmetrie? [2] Wurde Zwang ausgeübt — militärisch, wirtschaftlich oder symbolisch — gilt das Objekt nach modernem Rechtsverständnis als unrechtmäßig erworben, auch wenn es seinerzeit formal legal war. Diese Rückdatierung ethischer Maßstäbe ist umstritten, aber für die Restitutionsbewegung konstitutiv. Sie spiegelt eine grundlegende epistemische Verschiebung: Nicht die formale Legalität des historischen Erwerbs entscheidet, sondern die strukturelle Machtposition, unter der er zustande kam.\n\nDas Humboldt Forum in Berlin steht exemplarisch für die Spannung zwischen Anspruch und Wirklichkeit. Auf dem Papier bekennt es sich zu Transparenz und Dialog. [3] Vertreter benachteiligter Herkunftsgesellschaften kritisieren, dass kuratorische Entscheidungen nach wie vor im Berliner Innenstadtbüro getroffen werden — nicht in Abuja, Lagos oder Douala. Der Vorwurf lautet, dass das Museum den Diskurs verwaltet, statt ihn zu führen. Dieser Vorwurf ist nicht pauschal: Das Humboldt Forum hat einzelne Rückgaben vollzogen und Kooperationsabkommen geschlossen. Doch die strukturelle Frage — wer die kuratorische Deutungshoheit innehat — bleibt unbeantwortet.\n\nFrankreich hat mit dem Sarr-Savoy-Bericht von 2018 international Maßstäbe gesetzt. Der Bericht empfahl die Rückgabe von bis zu 90 000 Objekten aus subsaharischen Ländern innerhalb weniger Jahre. [4] Andere europäische Länder — darunter Deutschland, die Niederlande und Belgien — haben seitdem eigene Restitutionspolicies entwickelt, die sich in Tempo und Umfang erheblich unterscheiden. Kritiker sehen darin eine neue Form symbolischer Politik, die reale Rückgaben hinauszögert, während Einzelfallentscheidungen als Beweis politischen Willens inszeniert werden. Die Messlatte ist dabei nicht die Zahl der zurückgegebenen Objekte, sondern die Frage, ob eine systematische Erfassung und Prüfung des gesamten Bestandes eingeleitet wurde.\n\nDie Frage der sogenannten universellen Museen ist dabei von zentraler Bedeutung. Institutionen wie das British Museum oder der Louvre argumentieren, sie bewahrten Kulturgüter für die gesamte Menschheit, ungeachtet ihrer Herkunft. [5] Diese Position ist nicht einfach zynisch: Hinter ihr steht eine genuine aufklärerische Tradition, nach der das Wissen über fremde Kulturen nicht nationalistisch eingehegt werden sollte. Doch diese Tradition ist ihrerseits eine europäische — und wird von den Herkunftsgesellschaften entsprechend misstrauisch betrachtet. Die Idee, dass ein Londoner oder Pariser Museum besser geeignet sei, nigerianische oder ägyptische Kulturgüter zu bewahren als die Institutionen der betreffenden Länder selbst, ist von einem Überlegenheitsanspruch durchzogen, der kaum mehr offen verteidigt werden kann.\n\nWas wäre ein fairer Ausweg? [6] Gemeinsame Ausstellungen, Kooperationsabkommen, Leihgaben und Kapazitätsaufbau in Herkunftsländern werden zunehmend als pragmatische Zwischenlösungen diskutiert. Sie setzen jedoch voraus, dass beide Seiten diese Vereinbarungen als gleichwertig betrachten — und nicht als Substitut für die Rückgabe, die die eine Seite fordert und die andere vermeidet. Wer Kooperation statt Restitution anbietet, muss sich fragen lassen, ob er eine Lösung sucht oder eine Verzögerung institutionalisiert. Die Restitutionsdebatte wird sich letztlich daran messen lassen, ob sie zu einer echten Revision der Eigentumsstrukturen führt — oder ob sie, wie so viele kulturpolitische Debatten zuvor, im Symbolischen steckenbleibt. Außerdem haben Rückgaben einiger europäischer Länder — insbesondere der Niederlande und Frankreichs — politischen Druck erzeugt, dem sich andere Staaten nicht mehr entziehen können, ohne öffentlich rechtfertigen zu müssen, warum sie untätig bleiben. Die Frage ist damit nicht mehr, ob die Debatte geführt wird, sondern unter welchen rechtlichen, moralischen und institutionellen Bedingungen sie mit langfristiger Wirkung geführt werden soll.",
+              "source": "Aus Politik und Zeitgeschichte, Bundeszentrale für politische Bildung, Ausgabe 6/2026"
+            },
+            {
+              "id": "C1_m07_R1_sent_a",
+              "type": "notice",
+              "content": "a) Dabei gerät insbesondere das Konzept der Einwilligung ins Zentrum der Debatte: Welche Handlungen galten unter Kolonialbedingungen überhaupt als freiwillig?"
+            },
+            {
+              "id": "C1_m07_R1_sent_b",
+              "type": "notice",
+              "content": "b) In der Praxis blieb die politische Umsetzung jedoch weit hinter dem Anspruch zurück: Einzelne Rückgaben wurden vollzogen, eine systematische Lösung fehlt bis heute."
+            },
+            {
+              "id": "C1_m07_R1_sent_c",
+              "type": "notice",
+              "content": "c) Denn genau in dieser Spannung liegt das politische und moralische Dilemma, das die Restitutionsdebatte so hartnäckig macht."
+            },
+            {
+              "id": "C1_m07_R1_sent_d",
+              "type": "notice",
+              "content": "d) In der Praxis bedeutet das allerdings, dass die Entscheidung über Besitz und Zugang weiterhin bei den besitzenden Institutionen liegt — also bei jenen, die historisch profitiert haben."
+            },
+            {
+              "id": "C1_m07_R1_sent_e",
+              "type": "notice",
+              "content": "e) In der Praxis hat das Humboldt Forum dieses Versprechen nur partiell eingelöst: Rückgaben wurden vollzogen, doch die Geschwindigkeit und Transparenz der Prozesse stoßen auf anhaltende Kritik."
+            },
+            {
+              "id": "C1_m07_R1_sent_f",
+              "type": "notice",
+              "content": "f) Die Antworten auf diese Frage sind nicht nur juristisch, sondern auch grundlegend politisch — sie berühren das Selbstverständnis von Staaten, die sich als Rechtsnachfolger von Kolonialreichen verstehen."
+            },
+            {
+              "id": "C1_m07_R1_sent_g",
+              "type": "notice",
+              "content": "g) Ein Vorschlag, der zunehmend Zustimmung findet, ist der eines gemeinsam verwalteten Kulturerbes, bei dem physischer Verbleib und kuratorische Kontrolle entkoppelt werden."
+            },
+            {
+              "id": "C1_m07_R1_sent_h",
+              "type": "notice",
+              "content": "h) Digitalisierung allein kann diesen Anspruch nicht erfüllen: Eine hochauflösende Reproduktion ist kein Ersatz für die physische, symbolische und gemeinschaftliche Dimension des Objekts selbst."
+            }
+          ],
+          "questions": [
+            {
+              "id": "C1_m07_R1_q1",
+              "type": "matching",
+              "questionText": "Lücke 1 im Text: '…Kalkül so hart aufeinander wie bei der Frage der Rückgabe kolonialer Kulturgüter. [1] Lange galt das Schweigen darüber als der praktisch bequemste…'",
+              "matchingSources": [
+                {
+                  "id": "C1_m07_R1_sent_a",
+                  "label": "a"
+                },
+                {
+                  "id": "C1_m07_R1_sent_b",
+                  "label": "b"
+                },
+                {
+                  "id": "C1_m07_R1_sent_c",
+                  "label": "c"
+                },
+                {
+                  "id": "C1_m07_R1_sent_d",
+                  "label": "d"
+                },
+                {
+                  "id": "C1_m07_R1_sent_e",
+                  "label": "e"
+                },
+                {
+                  "id": "C1_m07_R1_sent_f",
+                  "label": "f"
+                },
+                {
+                  "id": "C1_m07_R1_sent_g",
+                  "label": "g"
+                },
+                {
+                  "id": "C1_m07_R1_sent_h",
+                  "label": "h"
+                }
+              ],
+              "correctAnswer": "c",
+              "explanation": "Lücke 1 folgt auf die Beschreibung der Kollision von Rechtsgrundsätzen, Geschichtsmoral und Kalkül. Satz c) benennt diese Spannung als das eigentliche Dilemma der Restitutionsdebatte — und liefert damit die übergreifende Rahmung, die der nachfolgende Satz ('Lange galt das Schweigen…') als praktische Reaktion auf genau dieses Dilemma zeigt. Satz f) wäre thematisch verwandt, richtet sich aber auf die Frage der Rechtsnachfolge, die erst im späteren Kontext relevant wird."
+            },
+            {
+              "id": "C1_m07_R1_q2",
+              "type": "matching",
+              "questionText": "Lücke 2 im Text: '…War der Erwerb einvernehmlich? Gab es eine erkennbare Machtasymmetrie? [2] Wurde Zwang ausgeübt…'",
+              "matchingSources": [
+                {
+                  "id": "C1_m07_R1_sent_a",
+                  "label": "a"
+                },
+                {
+                  "id": "C1_m07_R1_sent_b",
+                  "label": "b"
+                },
+                {
+                  "id": "C1_m07_R1_sent_c",
+                  "label": "c"
+                },
+                {
+                  "id": "C1_m07_R1_sent_d",
+                  "label": "d"
+                },
+                {
+                  "id": "C1_m07_R1_sent_e",
+                  "label": "e"
+                },
+                {
+                  "id": "C1_m07_R1_sent_f",
+                  "label": "f"
+                },
+                {
+                  "id": "C1_m07_R1_sent_g",
+                  "label": "g"
+                },
+                {
+                  "id": "C1_m07_R1_sent_h",
+                  "label": "h"
+                }
+              ],
+              "correctAnswer": "a",
+              "explanation": "Lücke 2 steht zwischen den Fragen nach Einvernehmlichkeit und dem Kriterium des Zwangs. Satz a) vertieft genau diese Frage nach Einwilligung unter Kolonialbedingungen — als begriffliche Zwischenstufe zwischen der abstrakten Machtasymmetrie und dem konkreten Zwang. Das Pronomen 'Dabei' verweist anaphorisch auf den vorangegangenen Absatz. Satz f) würde die juristische Frage vorwegnehmen, die erst nach der Klärung von Einwilligung relevant ist."
+            },
+            {
+              "id": "C1_m07_R1_q3",
+              "type": "matching",
+              "questionText": "Lücke 3 im Text: '…bekennt es sich zu Transparenz und Dialog. [3] Vertreter benachteiligter Herkunftsgesellschaften…'",
+              "matchingSources": [
+                {
+                  "id": "C1_m07_R1_sent_a",
+                  "label": "a"
+                },
+                {
+                  "id": "C1_m07_R1_sent_b",
+                  "label": "b"
+                },
+                {
+                  "id": "C1_m07_R1_sent_c",
+                  "label": "c"
+                },
+                {
+                  "id": "C1_m07_R1_sent_d",
+                  "label": "d"
+                },
+                {
+                  "id": "C1_m07_R1_sent_e",
+                  "label": "e"
+                },
+                {
+                  "id": "C1_m07_R1_sent_f",
+                  "label": "f"
+                },
+                {
+                  "id": "C1_m07_R1_sent_g",
+                  "label": "g"
+                },
+                {
+                  "id": "C1_m07_R1_sent_h",
+                  "label": "h"
+                }
+              ],
+              "correctAnswer": "e",
+              "explanation": "Lücke 3 steht zwischen dem Transparenzbekenntnis des Humboldt Forums und der darauf folgenden Kritik von Herkunftsgesellschaften. Satz e) beschreibt, wie das Forum dieses Versprechen nur partiell eingelöst hat — als notwendiges Bindeglied, das das 'Auf dem Papier' und die 'anhaltende Kritik' verbindet. Satz b) wäre strukturell ähnlich, bezieht sich aber auf den Sarr-Savoy-Bericht (Absatz 4), nicht auf das Humboldt Forum."
+            },
+            {
+              "id": "C1_m07_R1_q4",
+              "type": "matching",
+              "questionText": "Lücke 4 im Text: '…innerhalb weniger Jahre. [4] Andere europäische Länder…'",
+              "matchingSources": [
+                {
+                  "id": "C1_m07_R1_sent_a",
+                  "label": "a"
+                },
+                {
+                  "id": "C1_m07_R1_sent_b",
+                  "label": "b"
+                },
+                {
+                  "id": "C1_m07_R1_sent_c",
+                  "label": "c"
+                },
+                {
+                  "id": "C1_m07_R1_sent_d",
+                  "label": "d"
+                },
+                {
+                  "id": "C1_m07_R1_sent_e",
+                  "label": "e"
+                },
+                {
+                  "id": "C1_m07_R1_sent_f",
+                  "label": "f"
+                },
+                {
+                  "id": "C1_m07_R1_sent_g",
+                  "label": "g"
+                },
+                {
+                  "id": "C1_m07_R1_sent_h",
+                  "label": "h"
+                }
+              ],
+              "correctAnswer": "b",
+              "explanation": "Lücke 4 folgt auf die weitreichende Empfehlung des Sarr-Savoy-Berichts. Satz b) beschreibt, wie die politische Umsetzung hinter dem Anspruch zurückblieb. Dies ist das notwendige Bindeglied zu dem anschließenden Satz, der andere europäische Länder vorstellt, die eigene (und unterschiedlich ambitionierte) Policies entwickelt haben. Satz d) bezieht sich auf universelle Museen und ist für diesen Absatz zu früh."
+            },
+            {
+              "id": "C1_m07_R1_q5",
+              "type": "matching",
+              "questionText": "Lücke 5 im Text: '…bewahrten Kulturgüter für die gesamte Menschheit. [5] Diese Position ist nicht einfach zynisch…'",
+              "matchingSources": [
+                {
+                  "id": "C1_m07_R1_sent_a",
+                  "label": "a"
+                },
+                {
+                  "id": "C1_m07_R1_sent_b",
+                  "label": "b"
+                },
+                {
+                  "id": "C1_m07_R1_sent_c",
+                  "label": "c"
+                },
+                {
+                  "id": "C1_m07_R1_sent_d",
+                  "label": "d"
+                },
+                {
+                  "id": "C1_m07_R1_sent_e",
+                  "label": "e"
+                },
+                {
+                  "id": "C1_m07_R1_sent_f",
+                  "label": "f"
+                },
+                {
+                  "id": "C1_m07_R1_sent_g",
+                  "label": "g"
+                },
+                {
+                  "id": "C1_m07_R1_sent_h",
+                  "label": "h"
+                }
+              ],
+              "correctAnswer": "d",
+              "explanation": "Lücke 5 steht zwischen dem universellen Museumsanspruch und dessen kritischer Beleuchtung. Satz d) zieht die logische Konsequenz: Wenn Museen den universellen Zugang kontrollieren, bedeutet das, dass die Entscheidungshoheit bei jenen bleibt, die historisch profitiert haben. Das Demonstrativpronomen 'das' in 'Das bedeutet' verweist direkt auf die im Vorsatz beschriebene Praxis. Satz h) wäre thematisch verwandt, bezieht sich aber auf Digitalisierung — ein Thema, das erst implizit im Schlussabsatz auftaucht."
+            },
+            {
+              "id": "C1_m07_R1_q6",
+              "type": "matching",
+              "questionText": "Lücke 6 im Text: '…Was wäre ein fairer Ausweg? [6] Gemeinsame Ausstellungen, Kooperationsabkommen…'",
+              "matchingSources": [
+                {
+                  "id": "C1_m07_R1_sent_a",
+                  "label": "a"
+                },
+                {
+                  "id": "C1_m07_R1_sent_b",
+                  "label": "b"
+                },
+                {
+                  "id": "C1_m07_R1_sent_c",
+                  "label": "c"
+                },
+                {
+                  "id": "C1_m07_R1_sent_d",
+                  "label": "d"
+                },
+                {
+                  "id": "C1_m07_R1_sent_e",
+                  "label": "e"
+                },
+                {
+                  "id": "C1_m07_R1_sent_f",
+                  "label": "f"
+                },
+                {
+                  "id": "C1_m07_R1_sent_g",
+                  "label": "g"
+                },
+                {
+                  "id": "C1_m07_R1_sent_h",
+                  "label": "h"
+                }
+              ],
+              "correctAnswer": "g",
+              "explanation": "Lücke 6 folgt auf die offene Frage nach einem Ausweg. Satz g) stellt das Konzept eines gemeinsam verwalteten Kulturerbes vor — eine konstruktive Antwort, die den nachfolgenden Satz über pragmatische Zwischenlösungen (Ausstellungen, Leihgaben) inhaltlich einbettet. Satz h) (Digitalisierung) wäre als Antwort zu eng und würde die Breite der nachfolgenden Lösungsaufzählung nicht motivieren."
+            }
+          ]
+        },
+        {
+          "partNumber": 2,
+          "instructions": "Lesen Sie die fünf Absätze (a–e) zum Thema Museumspolitik und Kulturerbe. Lesen Sie dann die sechs Fragen. Welcher Absatz enthält die Antwort auf jede Frage? Schreiben Sie den Buchstaben des richtigen Absatzes. Ein Absatz kann für mehrere Fragen passen. Wenn kein Absatz passt, schreiben Sie 'x'.",
+          "instructionsTranslation": "Read the five paragraphs (a–e) on the topic of museum policy and cultural heritage. Then read the six questions. Which paragraph contains the answer to each question? Write the letter of the correct paragraph. One paragraph may match multiple questions. If no paragraph fits, write 'x'.",
+          "texts": [
+            {
+              "id": "C1_m07_R2_para_a",
+              "type": "article",
+              "content": "a) Die Benin-Bronzen gelten als das bekannteste Fallbeispiel kolonialer Raubkunst in Deutschland. Rund 1100 Objekte aus dem heutigen Nigeria befanden sich in deutschen Museen, nachdem britische Truppen 1897 das Königreich Benin geplündert hatten. Nach jahrelangen Verhandlungen leiteten deutsche Museen ab 2022 die Rückgabe ein — ein historischer Schritt, der jedoch nicht ohne Kontroverse verlief: Innerhalb Nigerias war umstritten, ob die Objekte dem nigerianischen Staat oder dem Königshaus von Benin City zustehen sollten."
+            },
+            {
+              "id": "C1_m07_R2_para_b",
+              "type": "article",
+              "content": "b) Digitale Restitution — also die vollständige Digitalisierung und freie Online-Zugänglichkeit von Kulturschätzen — wird von manchen Institutionen als Alternative zur physischen Rückgabe ins Gespräch gebracht. Befürworter verweisen auf Kosteneffizienz und globale Erreichbarkeit: Ein hochauflösendes 3D-Modell einer Maske kann weltweit abgerufen werden, ohne Transportkosten oder Konservierungsrisiken zu verursachen. Kritikerinnen und Kritiker halten dem entgegen, dass eine digitale Kopie weder die physische Präsenz noch die gemeinschaftliche und rituelle Bedeutung des Originals ersetzen kann — und dass digitale Restitution ohne physische Rückgabe de facto ein Verzicht auf Restitution ist."
+            },
+            {
+              "id": "C1_m07_R2_para_c",
+              "type": "article",
+              "content": "c) Die Forderung nach Rückgabe betrifft nicht nur Objekte aus der Kolonialzeit. Auch Kulturgüter, die während der NS-Zeit widerrechtlich entzogen wurden, sind Teil einer umfangreichen Restitutionsagenda. Die Washingtoner Prinzipien von 1998 verpflichteten die Unterzeichnerstaaten, Kunstwerke mit problematischer Provenienz zu identifizieren und Lösungen 'im Geiste der Gerechtigkeit' zu finden. Deutschland hat seither mehrere tausend Werke zurückgegeben. Die Umsetzung bleibt jedoch lückenhaft: Unterschiedliche Bundesländer wenden die Prinzipien unterschiedlich streng an, und nicht alle Institutionen verfügen über ausreichende personelle Ressourcen für systematische Provenienzforschung."
+            },
+            {
+              "id": "C1_m07_R2_para_d",
+              "type": "article",
+              "content": "d) Cancel Culture im Kunstbetrieb ist ein Phänomen, das in den letzten Jahren erhebliche öffentliche Aufmerksamkeit erhalten hat. Dabei wird kontrovers diskutiert, ob das Entfernen von Kunstwerken aus öffentlichen Räumen, das Absagen von Ausstellungen oder die Distanzierung von Künstlerinnen und Künstlern wegen ihrer Biografie oder Haltung legitime Form gesellschaftlicher Kritik ist oder ob es in die Kunstfreiheit eingreift. Kunstkritiker verweisen darauf, dass Institutionen die Auseinandersetzung mit schwierigen Werken allzu schnell durch Streichung ersetzen, statt sie kuratorisch zu rahmen und zu kontextualisieren."
+            },
+            {
+              "id": "C1_m07_R2_para_e",
+              "type": "article",
+              "content": "e) In der Diskussion um kulturelle Aneignung rückt zunehmend die Frage in den Vordergrund, wer das Recht hat, Symbole, Motive oder Praktiken einer Kultur in einem anderen kulturellen Kontext zu verwenden. Während liberale Kunsttheoretikerinnen auf die universelle Verfügbarkeit kultureller Ausdrucksformen pochen und Verbote als kreativen Rückschritt ablehnen, betonen postkoloniale Kritiker, dass Aneignung ohne Zustimmung häufig Teil eines Machtgefälles ist, in dem marginalisierte Kulturen ihre Symbole nicht kontrollieren können, obwohl sie für sie von zentraler Identitätsbedeutung sind."
+            }
+          ],
+          "questions": [
+            {
+              "id": "C1_m07_R2_q1",
+              "type": "mcq",
+              "questionText": "In welchem Absatz wird kritisiert, dass Kunstinstitutionen bei kontroversen Werken Streichung dem Diskurs vorziehen?",
+              "options": [
+                "a",
+                "b",
+                "c",
+                "d",
+                "e",
+                "x"
+              ],
+              "correctAnswer": "d",
+              "explanation": "Absatz d) beschreibt, dass Institutionen Werke lieber entfernen, statt sie 'kuratorisch zu rahmen und zu kontextualisieren'. Diese Kritik am Rückzug vor dem Diskurs findet sich ausschließlich in Absatz d)."
+            },
+            {
+              "id": "C1_m07_R2_q2",
+              "type": "mcq",
+              "questionText": "Welcher Absatz behandelt einen Fall, bei dem auch nach der Entscheidung zur Rückgabe ein interner Eigentumskonflikt entstand?",
+              "options": [
+                "a",
+                "b",
+                "c",
+                "d",
+                "e",
+                "x"
+              ],
+              "correctAnswer": "a",
+              "explanation": "Absatz a) schildert, dass nach der deutschen Rückgabezusage in Nigeria strittig war, ob die Benin-Bronzen dem Staat oder dem Königshaus gehören. Dieser interne Konflikt als Folge der Rückgabeentscheidung ist nur in Absatz a) thematisiert."
+            },
+            {
+              "id": "C1_m07_R2_q3",
+              "type": "mcq",
+              "questionText": "In welchem Absatz wird die Unvollständigkeit der deutschen Restitutionspolitik mit strukturellen Ressourcenproblemen erklärt?",
+              "options": [
+                "a",
+                "b",
+                "c",
+                "d",
+                "e",
+                "x"
+              ],
+              "correctAnswer": "c",
+              "explanation": "Absatz c) nennt als Ursache lückenhafter Umsetzung, dass nicht alle Institutionen 'ausreichende personelle Ressourcen für systematische Provenienzforschung' haben. Dieses strukturelle Argument findet sich nur in Absatz c)."
+            },
+            {
+              "id": "C1_m07_R2_q4",
+              "type": "mcq",
+              "questionText": "Welcher Absatz beschreibt ein Argument für digitale Formen der Restitution und die dagegen gerichtete Kritik?",
+              "options": [
+                "a",
+                "b",
+                "c",
+                "d",
+                "e",
+                "x"
+              ],
+              "correctAnswer": "b",
+              "explanation": "Absatz b) stellt Pro-Argumente (Kosteneffizienz, Erreichbarkeit) und die Gegenargumentation (digitale Kopie ersetzt nicht das Original) gleichgewichtig dar. Ausschließlich Absatz b) enthält diese explizite Pro/Contra-Struktur zur digitalen Restitution."
+            },
+            {
+              "id": "C1_m07_R2_q5",
+              "type": "mcq",
+              "questionText": "Welcher Absatz diskutiert das Spannungsfeld zwischen kreativer Freiheit und dem Schutzbedürfnis marginalisierter Kulturen?",
+              "options": [
+                "a",
+                "b",
+                "c",
+                "d",
+                "e",
+                "x"
+              ],
+              "correctAnswer": "e",
+              "explanation": "Absatz e) stellt die liberale Position (universelle Verfügbarkeit) der postkolonialen Position (Aneignung als Teil eines Machtgefälles) gegenüber. Dieses Spannungsfeld zwischen kreativer Freiheit und kulturellem Schutzrecht wird nur in Absatz e) ausgeführt."
+            },
+            {
+              "id": "C1_m07_R2_q6",
+              "type": "mcq",
+              "questionText": "In welchem Absatz wird beschrieben, dass ein internationales Abkommen zur Restitution uneinheitlich umgesetzt wird?",
+              "options": [
+                "a",
+                "b",
+                "c",
+                "d",
+                "e",
+                "x"
+              ],
+              "correctAnswer": "c",
+              "explanation": "Absatz c) erläutert, dass die Washingtoner Prinzipien von den Bundesländern 'unterschiedlich streng' angewendet werden. Diese uneinheitliche Umsetzung eines internationalen Abkommens ist Gegenstand von Absatz c). In Absatz a) geht es um eine abgeschlossene bilaterale Rückgabe, nicht um ein Abkommen mit variierender Umsetzung."
+            }
+          ]
+        },
+        {
+          "partNumber": 3,
+          "instructions": "Lesen Sie den folgenden Artikel. Entscheiden Sie bei jeder Aussage, ob sie richtig (R), falsch (F) oder nicht im Text (N) ist. Außerdem: Welcher Titel passt am besten zum Text? Wählen Sie a, b oder c.",
+          "instructionsTranslation": "Read the following article. For each statement decide whether it is correct (R), incorrect (F) or not in the text (N). In addition: Which title best fits the text? Choose a, b, or c.",
+          "texts": [
+            {
+              "id": "C1_m07_R3_article",
+              "type": "article",
+              "content": "Cancel Culture und Kunstfreiheit: Zwischen kuratorischer Verantwortung und gesellschaftlichem Druck\n\nDie Debatte um Cancel Culture im Kunstbetrieb hat sich in den vergangenen Jahren von einem randständigen netzpolitischen Diskurs zu einem zentralen kulturpolitischen Kampfbegriff entwickelt. Dabei ist bemerkenswert, wie ungenau der Begriff selbst verwendet wird: Er umschreibt Phänomene so unterschiedlicher Natur wie das öffentliche Boykottieren einer Ausstellung, das Entfernen eines Kunstwerks nach politischem Druck, das Absagen einer Aufführung nach Beschwerden oder die institutionelle Distanzierung von einem Künstler aufgrund von Äußerungen außerhalb seines Werks. Dass all diese Vorgänge unter denselben Begriff subsumiert werden, erschwert eine differenzierte Analyse erheblich. Der Begriff ist zudem normativ aufgeladen: Wer von Cancel Culture spricht, signalisiert in der Regel bereits eine Wertung — nämlich, dass der beschriebene Vorgang illegitim sei. Das macht sachliche Diskussion schwerer.\n\nKunstfreiheit ist in Deutschland durch Artikel 5 Absatz 3 des Grundgesetzes vorbehaltlos garantiert. Das bedeutet: Sie kennt — anders als die Meinungsfreiheit — keine gesetzlichen Schranken und darf weder durch einfaches Gesetz noch durch Verwaltungsakt eingeschränkt werden. Gleichwohl ist Kunstfreiheit kein Freifahrtschein: Sie kollidiert im Einzelfall mit anderen Verfassungswerten — der Menschenwürde, dem allgemeinen Persönlichkeitsrecht, dem Schutz Minderjähriger. Die Rechtsprechung des Bundesverfassungsgerichts löst diese Konflikte durch Abwägung im Einzelfall, nicht durch generelle Hierarchisierung der Rechte. Entscheidend ist dabei, dass die Grenze nicht abstrakt gezogen wird, sondern aus dem konkreten Kontext des jeweiligen Werkes, seiner Präsentation und seiner gesellschaftlichen Wirkung heraus bestimmt werden muss.\n\nWas als Cancel Culture beschrieben wird, ist in vielen Fällen kein staatlicher Eingriff in die Kunstfreiheit, sondern das Ergebnis privater Entscheidungen: Ein Museum entfernt ein Werk, weil sein Träger öffentlichen Druck nicht standhalten möchte. Eine Bühne sagt eine Produktion ab, weil Sponsoren signalisieren, ihre Förderung zurückzuziehen. Ein Verlag trennt sich von einem Autor, weil der Markenschaden die kommerziellen Risiken übersteigt. Keiner dieser Vorgänge verletzt Grundrechte im technischen Sinne — es ist das Recht privater Institutionen, kuratorische und geschäftliche Entscheidungen zu treffen. Gleichwohl entfaltet diese Kumulation institutioneller Selbstzensur eine kulturelle Wirkung, die der staatlichen Beschränkung in ihrer tatsächlichen Auswirkung nicht unähnlich ist. Wenn eine bestimmte Klasse von Werken systematisch aus dem öffentlichen Raum verschwindet — nicht durch Gesetz, sondern durch koordinierten institutionellen Rückzug —, ist das Ergebnis strukturell vergleichbar.\n\nEine besonders kontroverse Frage ist, ob Cancel Culture primär ein Phänomen der politischen Linken oder ein Werkzeug des politischen Mainstream ist. Die öffentliche Wahrnehmung ist eindeutig: Cancel Culture wird häufig als linke Überempfindlichkeit karikiert. Doch bei näherer Betrachtung zeigt sich, dass auch konservative und rechte Akteure Cancel-Mechanismen einsetzen — etwa wenn politisch missliebige Aufführungen in öffentlichen Theatern durch Finanzierungsentzug unterbunden werden oder wenn Kultureinrichtungen mit zu progressivem Profil unter Druck geraten, ihr Programm zu moderieren. Die Selektivität der öffentlichen Empörung über Cancel Culture ist deshalb selbst ein kulturpolitisches Symptom: Sie zeigt, wessen Sensibilitäten als schützenswert gelten und wessen nicht.\n\nMuseen sehen sich in dieser Debatte einer besonderen Verantwortung ausgesetzt, die über die bloße Antwort auf Öffentlichkeitsdruck hinausgeht. Ihr gesellschaftlicher Auftrag ist es, komplexe, widersprüchliche und schwierige Kunstwerke zugänglich zu machen — und zwar nicht trotz ihrer Problematik, sondern indem sie diese kontextualisieren. Eine Streichung aus dem Programm verfehlt diesen Auftrag ebenso wie eine kontextlose Ausstellung. Die kuratorische Verantwortung besteht genau darin, zwischen diesen Polen zu navigieren: Werke zu zeigen und dabei die Rahmung zu leisten, die das Museum in eine reflexive Beziehung zu seinen Beständen setzt. Das erfordert nicht nur Mut, sondern auch die institutionellen Ressourcen und die kuratorische Expertise, die für eine solche Arbeit notwendig sind — Voraussetzungen, die nicht alle Häuser in gleichem Maße erfüllen.\n\nInternationale Erfahrungen zeigen, dass Museen, die auf Cancel-Druck mit kuratorischer Vertiefung statt mit Streichung reagiert haben, langfristig an institutioneller Glaubwürdigkeit gewonnen haben. Das Rijksmuseum in Amsterdam hat in seiner Ausstellung 'Sklaverei' bewusst koloniale Sammlungsbestände in ihren Entstehungskontext gestellt — mit ausdrücklicher Anerkennung institutioneller Mitverantwortung. Die Ausstellung war zugleich die am häufigsten besuchte in der Museumsgeschichte des Hauses. Das zeigt: Reflexionsfähigkeit und öffentliche Resonanz schließen sich nicht aus. Das Modell der kuratorischen Einbettung ist kein Nischenansatz für mutige Ausnahmen, sondern ein replizierbares Konzept für institutionelle Integrität.\n\nDie Forderung nach Kontextualisierung ist freilich keine universelle Lösung. Nicht alle Werke lassen sich durch kuratorischen Rahmen 'reparieren': Wenn ein Kunstwerk primär auf die Entwürdigung einer bestimmten Gruppe abzielt, ist die Frage berechtigt, ob seine Ausstellung — auch kontextualisiert — den Betroffenen zugemutet werden kann. Hier hat die Gesellschaft das Recht, eine eigene Grenze zu ziehen — allerdings nicht durch staatlichen Zwang, sondern durch demokratischen Diskurs und institutionelle Verantwortungsübernahme. Die Grenze zwischen legitimer gesellschaftlicher Kritik und einschüchterndem Konformitätsdruck bleibt eine der schwierigsten Navigationsaufgaben einer pluralen Kulturgesellschaft. Sie erfordert genau das, was Cancel Culture oft verhindert: das Aushalten von Ambivalenz, das Gespräch über das Unbequeme und die Bereitschaft, sich dieser Spannung dauerhaft zu stellen statt sie administrativ aufzulösen.\n\nEine abschließende Perspektive ist dabei unverzichtbar: Die Auseinandersetzung mit Cancel Culture darf nicht dazu führen, dass berechtigte Kritik an strukturellem Rassismus, patriarchaler Kunstgeschichtsschreibung oder der Verharmlosung historischer Gewalt pauschal als Überempfindlichkeit abgetan wird. Es gibt einen wesentlichen Unterschied zwischen dem Schweigen gegenüber Unbequemen und dem reflexiven Umgang mit dem Erbe von Institutionen, die sich selbst lange als neutral und universal verstanden haben, es aber nie waren. Gerade diese Reflexion — schmerzhaft und konfliktreich, wie sie sein mag — ist das, was aus einem Museum eine wirklich öffentliche und demokratische Institution macht, die ihrer Zeit und ihrer Gesellschaft gerecht wird. Was bleibt, ist die grundlegende institutionelle Herausforderung: Museen, die gesellschaftlich relevant bleiben wollen, müssen lernen, Kontroverse nicht als Bedrohung, sondern als Aufgabe zu begreifen — und dafür die personellen, kuratorischen und finanziellen Voraussetzungen schaffen, die eine ernsthafte Auseinandersetzung mit schwierigen Beständen und gesellschaftlichem Druck erfordert.",
+              "source": "Zeitschrift für Kulturpolitik, Jg. 12, Heft 1, 2026"
+            }
+          ],
+          "questions": [
+            {
+              "id": "C1_m07_R3_q1",
+              "type": "true_false",
+              "questionText": "Laut Text wird Cancel Culture als Kampfbegriff gelegentlich auch von konservativen Akteuren eingesetzt.",
+              "options": [
+                "richtig",
+                "falsch",
+                "nicht im Text"
+              ],
+              "correctAnswer": "richtig",
+              "explanation": "Der Text beschreibt ausdrücklich, dass auch 'konservative und rechte Akteure Cancel-Mechanismen einsetzen — etwa wenn politisch missliebige Aufführungen durch Finanzierungsentzug unterbunden werden'. Die Aussage ist korrekt."
+            },
+            {
+              "id": "C1_m07_R3_q2",
+              "type": "true_false",
+              "questionText": "Kunstfreiheit kann in Deutschland durch einfaches Gesetz eingeschränkt werden, wenn sie mit anderen Grundrechten kollidiert.",
+              "options": [
+                "richtig",
+                "falsch",
+                "nicht im Text"
+              ],
+              "correctAnswer": "falsch",
+              "explanation": "Der Text erklärt explizit, dass Kunstfreiheit 'weder durch einfaches Gesetz noch durch Verwaltungsakt eingeschränkt werden' darf. Die Aussage ist falsch."
+            },
+            {
+              "id": "C1_m07_R3_q3",
+              "type": "true_false",
+              "questionText": "Das Rijksmuseum Amsterdam hat eine Ausstellung zum Thema Sklaverei präsentiert, die gleichzeitig die bislang meistbesuchte in der Geschichte des Hauses wurde.",
+              "options": [
+                "richtig",
+                "falsch",
+                "nicht im Text"
+              ],
+              "correctAnswer": "richtig",
+              "explanation": "Der Text beschreibt: 'Die Ausstellung war zugleich die am häufigsten besuchte in der Museumsgeschichte des Hauses.' Die Aussage ist korrekt."
+            },
+            {
+              "id": "C1_m07_R3_q4",
+              "type": "true_false",
+              "questionText": "Der Text nennt das British Museum als positives Beispiel für den Umgang mit Cancel Culture.",
+              "options": [
+                "richtig",
+                "falsch",
+                "nicht im Text"
+              ],
+              "correctAnswer": "nicht im Text",
+              "explanation": "Das British Museum wird im Text nicht erwähnt. Die Aussage ist nicht im Text."
+            },
+            {
+              "id": "C1_m07_R3_q5",
+              "type": "true_false",
+              "questionText": "Laut Text verletzt die institutionelle Selbstzensur von Museen und Theatern im technischen Sinne keine Grundrechte.",
+              "options": [
+                "richtig",
+                "falsch",
+                "nicht im Text"
+              ],
+              "correctAnswer": "richtig",
+              "explanation": "Der Text stellt klar: 'Keiner dieser Vorgänge verletzt Grundrechte im technischen Sinne — es ist das Recht privater Institutionen, kuratorische und geschäftliche Entscheidungen zu treffen.' Die Aussage ist korrekt."
+            },
+            {
+              "id": "C1_m07_R3_q6",
+              "type": "true_false",
+              "questionText": "Der Autor des Textes ist der Meinung, dass jedes Kunstwerk durch geeignete kuratorische Rahmung gezeigt werden kann.",
+              "options": [
+                "richtig",
+                "falsch",
+                "nicht im Text"
+              ],
+              "correctAnswer": "falsch",
+              "explanation": "Der Text sagt ausdrücklich, dass Kontextualisierung 'keine universelle Lösung' ist: 'Nicht alle Werke lassen sich durch kuratorischen Rahmen reparieren'. Die Aussage ist falsch."
+            },
+            {
+              "id": "C1_m07_R3_q7",
+              "type": "true_false",
+              "questionText": "Laut Text liegen Cancel-Culture-Eingriffe in der Regel bei staatlichen Behörden, nicht bei privaten Institutionen.",
+              "options": [
+                "richtig",
+                "falsch",
+                "nicht im Text"
+              ],
+              "correctAnswer": "falsch",
+              "explanation": "Der Text beschreibt Cancel Culture explizit als Ergebnis 'privater Entscheidungen' (Museen, Bühnen, Verlage) — nicht staatlicher Eingriffe. Die Aussage ist falsch."
+            },
+            {
+              "id": "C1_m07_R3_q8",
+              "type": "true_false",
+              "questionText": "Das Grundgesetz regelt Konflikte zwischen Kunstfreiheit und anderen Verfassungswerten durch eine feste Rangordnung der Rechte.",
+              "options": [
+                "richtig",
+                "falsch",
+                "nicht im Text"
+              ],
+              "correctAnswer": "falsch",
+              "explanation": "Der Text erklärt, dass das Bundesverfassungsgericht Konflikte 'durch Abwägung im Einzelfall, nicht durch generelle Hierarchisierung der Rechte' löst. Eine feste Rangordnung existiert also nicht. Die Aussage ist falsch."
+            },
+            {
+              "id": "C1_m07_R3_q9",
+              "type": "true_false",
+              "questionText": "Der Text zufolge hat die Verbindung aus wirtschaftlichem Druck durch Sponsoren und öffentlicher Kritik bei einigen institutionellen Cancel-Entscheidungen eine Rolle gespielt.",
+              "options": [
+                "richtig",
+                "falsch",
+                "nicht im Text"
+              ],
+              "correctAnswer": "richtig",
+              "explanation": "Der Text nennt als Beispiel: 'Eine Bühne sagt eine Produktion ab, weil Sponsoren signalisieren, ihre Förderung zurückzuziehen.' Wirtschaftlicher und öffentlicher Druck werden als Faktoren beschrieben. Die Aussage ist korrekt."
+            },
+            {
+              "id": "C1_m07_R3_q10",
+              "type": "true_false",
+              "questionText": "Der Text erwähnt, dass eine Volksabstimmung über Cancel Culture in Deutschland durchgeführt wurde.",
+              "options": [
+                "richtig",
+                "falsch",
+                "nicht im Text"
+              ],
+              "correctAnswer": "nicht im Text",
+              "explanation": "Eine Volksabstimmung zu Cancel Culture wird im Text an keiner Stelle erwähnt. Die Aussage ist nicht im Text."
+            },
+            {
+              "id": "C1_m07_R3_q11",
+              "type": "true_false",
+              "questionText": "Laut Text ist die gesellschaftliche Grenzziehung bei problematischen Kunstwerken ausschließlich durch demokratischen Diskurs und institutionelle Verantwortung möglich, nicht durch staatlichen Zwang.",
+              "options": [
+                "richtig",
+                "falsch",
+                "nicht im Text"
+              ],
+              "correctAnswer": "richtig",
+              "explanation": "Der Text formuliert: 'nicht durch staatlichen Zwang, sondern durch demokratischen Diskurs und institutionelle Verantwortungsübernahme'. Die Aussage ist korrekt."
+            },
+            {
+              "id": "C1_m07_R3_q12",
+              "type": "mcq",
+              "questionText": "Welcher Titel fasst den Artikel am treffendsten zusammen?",
+              "options": [
+                "a) Cancel Culture als staatliche Zensur: Rechtliche Grenzen im deutschen Grundgesetz",
+                "b) Kunstfreiheit, Cancel Culture und kuratorische Verantwortung: Ein differenzierter Blick auf ein polarisiertes Debattenfeld",
+                "c) Das Rijksmuseum als Vorbild: Wie Museen Cancel Culture besiegen"
+              ],
+              "correctAnswer": "b",
+              "explanation": "Der Artikel differenziert mehrere Phänomene unter dem Begriff Cancel Culture, beleuchtet die Rechtslage zur Kunstfreiheit, analysiert private vs. staatliche Eingriffe und diskutiert kuratorische Verantwortung. Option b) erfasst diese Breite. a) ist zu eng (der Text erklärt gerade, dass Cancel Culture meist kein staatlicher Eingriff ist). c) reduziert den Artikel auf ein Beispiel, das als Illustration dient, nicht als Hauptthese."
+            }
+          ]
+        }
+      ]
+    },
+    "sprachbausteine": {
+      "totalTimeMinutes": 25,
+      "parts": [
+        {
+          "partNumber": 1,
+          "instructions": "Lesen Sie den folgenden Text. Wählen Sie bei jeder Lücke (1–22) die richtige Antwort (a, b, c oder d). Es gibt jeweils nur eine richtige Antwort.",
+          "instructionsTranslation": "Read the following text. For each gap (1–22) choose the correct answer (a, b, c or d). There is only one correct answer each time.",
+          "text": "Die Frage, (1) ____ Kunstwerke kolonialer Herkunft in europäischen Museen verbleiben dürfen, ist keine rein juristische — sie ist (2) ____ eine moralische und politische. Provenienzforschende müssen zunächst klären, (3) ____ die Umstände des Erwerbs waren: einvernehmlich, erzwungen oder in einer Grauzone, die koloniale Machtasymmetrien (4) ____.\n\nBesonders (5) ____ ist der Fall von Objekten, die aus aktiven Kriegssituationen stammen. Wenn britische Truppen 1897 das Königreich Benin plünderten, (6) ____ die rechtliche Lage heute eindeutig: Solche Gegenstände galten bereits nach dem damals geltenden Kriegsvölkerrecht (7) ____ unrechtmäßige Beute. (8) ____ bestimmte Museen sich lange hinter formalen Eigentumsansprüchen versteckten, wächst der öffentliche Druck zur Rückgabe.\n\nDas Konzept des sogenannten 'universellen Museums' (9) ____ in letzter Zeit erheblich unter Beschuss. Vertreterinnen und Vertreter dieses Modells (10) ____, dass Objekte der gesamten Menschheit zugutekommen, wenn sie in großen zugänglichen Institutionen verbleiben. Kritikerinnen halten (11) ____, dass dieser Universalismus eurozentristisch ist: Er entscheide für andere, was gut für sie sei, ohne sie (12) ____.\n\n(13) ____ das Ziel einer Einigung ist, variieren die Wege erheblich. Manche Institutionen (14) ____ Kooperationsmodelle, bei denen Objekte formell zurückgegeben, dann aber für einen vereinbarten Zeitraum als Leihgabe zurückbleiben. Andere (15) ____ vollständige physische Rückgabe ohne Bedingungen. Beide Modelle haben (16) ____ — und beide haben ihre Schwächen.\n\nWas in der Debatte oft (17) ____, ist die Frage der institutionellen Kapazitäten in Herkunftsländern. Nicht jede Nation, die Objekte (18) ____, verfügt über ein Museum, das Konservierungsstandards erfüllt. Das darf (19) ____ kein Argument gegen Rückgabe sein — (20) ____ ist es oft ein Argument für europäisch finanzierte Kapazitätshilfen. Restitution, (21) ____ nachhaltig gemeint ist, muss Infrastrukturaufbau einschließen.\n\nAm Ende (22) ____ es um mehr als um einzelne Objekte: Es geht um die symbolische Revision des kolonialen Erbes — und um die Frage, ob Europa bereit ist, diesen Schritt ernsthaft zu gehen.",
+          "questions": [
+            {
+              "blankNumber": 1,
+              "type": "mcq",
+              "options": [
+                "ob",
+                "ob dass",
+                "dass",
+                "wie"
+              ],
+              "correctAnswer": "ob",
+              "explanation": "'ob' leitet einen indirekten Fragesatz ein: 'die Frage, ob Kunstwerke … dürfen'. 'Dass' würde eine Aussage, keine Frage einleiten. 'Wie' und 'ob dass' sind grammatisch oder semantisch unpassend."
+            },
+            {
+              "blankNumber": 2,
+              "type": "mcq",
+              "options": [
+                "zugleich",
+                "dennoch",
+                "hingegen",
+                "gleichwohl"
+              ],
+              "correctAnswer": "zugleich",
+              "explanation": "'zugleich' verbindet additiv-konzessiv: Die Frage ist nicht nur juristisch, sondern zugleich (= gleichzeitig auch) moralisch und politisch. 'Dennoch' und 'gleichwohl' sind adversativ, 'hingegen' setzt einen Kontrast, der hier nicht gemeint ist."
+            },
+            {
+              "blankNumber": 3,
+              "type": "mcq",
+              "options": [
+                "welche",
+                "was",
+                "wie",
+                "ob"
+              ],
+              "correctAnswer": "wie",
+              "explanation": "'klären, wie die Umstände waren' — 'wie' leitet einen indirekten Fragesatz ein, der die Beschaffenheit erfragt. 'Welche' würde 'Umstände' als direktes Objekt erfordern; 'was' und 'ob' passen semantisch nicht."
+            },
+            {
+              "blankNumber": 4,
+              "type": "mcq",
+              "options": [
+                "widerspiegeln",
+                "vorspiegeln",
+                "verbergen",
+                "verstärken"
+              ],
+              "correctAnswer": "widerspiegeln",
+              "explanation": "'koloniale Machtasymmetrien widerspiegeln' — 'widerspiegeln' bedeutet sichtbar machen, was strukturell vorhanden ist. 'Vorspiegeln' hätte täuschende Konnotation; 'verbergen' und 'verstärken' verändern den Sinn."
+            },
+            {
+              "blankNumber": 5,
+              "type": "mcq",
+              "options": [
+                "komplex",
+                "heikel",
+                "eindeutig",
+                "simpel"
+              ],
+              "correctAnswer": "heikel",
+              "explanation": "'besonders heikel ist der Fall' — 'heikel' bezeichnet eine rechtlich-moralisch delikate Situation im akademisch-politischen Register. 'Komplex' wäre korrekt, aber 'heikel' trifft die diplomatisch-moralische Dimension präziser. 'Eindeutig' und 'simpel' widersprechen dem Textsinn."
+            },
+            {
+              "blankNumber": 6,
+              "type": "mcq",
+              "options": [
+                "ist",
+                "wäre",
+                "sei",
+                "war"
+              ],
+              "correctAnswer": "ist",
+              "explanation": "'ist die rechtliche Lage heute eindeutig' — Die Gegenwartsperspektive ('heute') verlangt das Präsens Indikativ. 'Wäre' wäre Konjunktiv II (hypothetisch), 'sei' Konjunktiv I (indirekte Rede), 'war' Vergangenheit — keines passt zur Aussage über den heutigen Rechtsstatus."
+            },
+            {
+              "blankNumber": 7,
+              "type": "mcq",
+              "options": [
+                "als",
+                "für",
+                "wie",
+                "zu"
+              ],
+              "correctAnswer": "als",
+              "explanation": "'galten … als unrechtmäßige Beute' — das Verb 'gelten als' verlangt die Präposition 'als'. 'Für', 'wie' und 'zu' sind mit 'gelten' in dieser Bedeutung nicht idiomatisch."
+            },
+            {
+              "blankNumber": 8,
+              "type": "mcq",
+              "options": [
+                "Obwohl",
+                "Da",
+                "Obgleich",
+                "Während"
+              ],
+              "correctAnswer": "Obwohl",
+              "explanation": "'Obwohl bestimmte Museen sich hinter formalen Ansprüchen versteckten, wächst der Druck' — 'obwohl' drückt die Konzessivität aus (trotz des Verhaltens wächst der Druck). 'Da' wäre kausal; 'während' temporal; 'obgleich' ist zwar synonym, aber im modernen Schriftdeutschen seltener und stilistisch anders verankert."
+            },
+            {
+              "blankNumber": 9,
+              "type": "mcq",
+              "options": [
+                "gerät",
+                "kommt",
+                "gelangt",
+                "trifft"
+              ],
+              "correctAnswer": "gerät",
+              "explanation": "'gerät unter Beschuss' — 'unter Beschuss geraten' ist die feste Kollokation für 'heftiger Kritik ausgesetzt sein'. 'Kommen unter Beschuss' ist umgangssprachlich, 'gelangen' und 'treffen' passen konstruktionell nicht."
+            },
+            {
+              "blankNumber": 10,
+              "type": "mcq",
+              "options": [
+                "behaupten",
+                "argumentieren",
+                "vertreten",
+                "bestreiten"
+              ],
+              "correctAnswer": "argumentieren",
+              "explanation": "'argumentieren, dass …' ist die akademisch korrekte Kollokation für die Darlegung eines begründeten Standpunkts. 'Behaupten' klingt abwertend; 'vertreten' würde 'die Position vertreten, dass' erfordern; 'bestreiten' ist semantisch gegenteilig."
+            },
+            {
+              "blankNumber": 11,
+              "type": "mcq",
+              "options": [
+                "dagegen",
+                "dafür",
+                "dabei",
+                "dazu"
+              ],
+              "correctAnswer": "dagegen",
+              "explanation": "'halten dagegen' = 'entgegnen, widersprechen' — feste Kollokation für die Gegenargumentation. 'Dafür halten' bedeutet 'schätzen/für richtig halten'; 'dabei halten' und 'dazu halten' sind konstruktionell unpassend."
+            },
+            {
+              "blankNumber": 12,
+              "type": "mcq",
+              "options": [
+                "zu befragen",
+                "befragen zu lassen",
+                "zu fragen",
+                "gefragt zu haben"
+              ],
+              "correctAnswer": "zu befragen",
+              "explanation": "'ohne sie zu befragen' — Infinitivkonstruktion mit 'ohne … zu'. 'Befragen' (jmd. um Meinung/Zustimmung befragen) ist lexikalisch präziser als 'fragen'. 'Befragen zu lassen' wäre Kausativ, 'gefragt zu haben' Perfekt-Infinitiv — beide passen semantisch nicht."
+            },
+            {
+              "blankNumber": 13,
+              "type": "mcq",
+              "options": [
+                "Obwohl",
+                "Auch wenn",
+                "Wie auch immer",
+                "Sofern"
+              ],
+              "correctAnswer": "Wie auch immer",
+              "explanation": "'Wie auch immer das Ziel einer Einigung ist, variieren die Wege' — 'wie auch immer' leitet eine konzessive Bedingung ein, die ausdrückt: ungeachtet der Zielsetzung sind die Wege verschieden. 'Obwohl' und 'auch wenn' erfordern eine konzessive Relation, nicht eine adversative Offenheit. 'Sofern' wäre konditionierend."
+            },
+            {
+              "blankNumber": 14,
+              "type": "mcq",
+              "options": [
+                "bevorzugen",
+                "begünstigen",
+                "empfehlen",
+                "favorisieren"
+              ],
+              "correctAnswer": "bevorzugen",
+              "explanation": "'Manche Institutionen bevorzugen Kooperationsmodelle' — 'bevorzugen' beschreibt institutionelle Präferenz im sachlich-neutralen Sinn. 'Favorisieren' ist im Deutschen stilistisch gehoben, aber sachlich äquivalent — beides wäre korrekt; da aber 'bevorzugen' im akademisch-politischen Diskurs häufiger ist, ist es die bessere Wahl. 'Begünstigen' und 'empfehlen' verändern die Akteur-Objekt-Relation."
+            },
+            {
+              "blankNumber": 15,
+              "type": "mcq",
+              "options": [
+                "fordern",
+                "verlangen",
+                "bestehen auf",
+                "insistieren"
+              ],
+              "correctAnswer": "fordern",
+              "explanation": "'Andere fordern vollständige physische Rückgabe' — 'fordern' ist die neutrale politische Handlungsangabe. 'Verlangen' ist stilistisch schärfer; 'bestehen auf' erfordert den Dativ ('auf vollständiger Rückgabe'); 'insistieren' klingt umgangssprachlicher."
+            },
+            {
+              "blankNumber": 16,
+              "type": "mcq",
+              "options": [
+                "ihre Vorzüge",
+                "ihre Vorteile",
+                "ihre Stärken",
+                "Berechtigung"
+              ],
+              "correctAnswer": "ihre Vorzüge",
+              "explanation": "'Beide Modelle haben ihre Vorzüge — und beide haben ihre Schwächen' — 'Vorzüge' ist die parallelste und eleganteste Antithese zu 'Schwächen'. 'Vorteile' und 'Stärken' sind sachlich äquivalent, aber 'Vorzüge' korrespondiert mit dem akademischen Register des Textes. 'Berechtigung' verändert den Sinn."
+            },
+            {
+              "blankNumber": 17,
+              "type": "mcq",
+              "options": [
+                "vernachlässigt wird",
+                "vergessen wird",
+                "unterschätzt wird",
+                "übergangen wird"
+              ],
+              "correctAnswer": "vernachlässigt wird",
+              "explanation": "'was in der Debatte oft vernachlässigt wird' — 'vernachlässigen' bezeichnet das strukturelle Ausblenden eines Arguments, das bedeutsam wäre. 'Vergessen' ist zu zufällig; 'unterschätzen' würde eine Wertung implizieren, die hier noch nicht gemacht wird; 'übergehen' wäre korrekt, aber weniger idiomatisch in diesem Kontext."
+            },
+            {
+              "blankNumber": 18,
+              "type": "mcq",
+              "options": [
+                "zurückfordert",
+                "zurückverlangt",
+                "beansprucht",
+                "einfordert"
+              ],
+              "correctAnswer": "zurückfordert",
+              "explanation": "'Objekte zurückfordern' ist die etablierte Kollokation im Restitutionsdiskurs. 'Zurückverlangen' ist nähersprachlich; 'beanspruchen' bezeichnet den Anspruch, nicht die aktive Forderung; 'einfordern' hat einen anderen Valenzrahmen."
+            },
+            {
+              "blankNumber": 19,
+              "type": "mcq",
+              "options": [
+                "jedoch",
+                "dennoch",
+                "allerdings",
+                "freilich"
+              ],
+              "correctAnswer": "jedoch",
+              "explanation": "'Das darf jedoch kein Argument gegen Rückgabe sein' — 'jedoch' drückt den konzessiven Widerspruch aus, der nach der Einschränkung im Vorsatz notwendig ist. 'Dennoch' und 'allerdings' wären strukturell möglich, aber 'jedoch' steht idiomatischer in satzinterner Position nach 'Das darf'."
+            },
+            {
+              "blankNumber": 20,
+              "type": "mcq",
+              "options": [
+                "vielmehr",
+                "eher",
+                "stattdessen",
+                "im Gegenteil"
+              ],
+              "correctAnswer": "vielmehr",
+              "explanation": "'vielmehr ist es oft ein Argument für …' — 'vielmehr' drückt die Umdeutung aus: nicht ein Argument gegen, sondern ein Argument für etwas anderes. 'Eher' wäre graduierend; 'stattdessen' ersetzend; 'im Gegenteil' wäre zu markiert und klingt umgangssprachlich."
+            },
+            {
+              "blankNumber": 21,
+              "type": "mcq",
+              "options": [
+                "wenn sie",
+                "falls sie",
+                "sofern sie",
+                "soweit sie"
+              ],
+              "correctAnswer": "sofern sie",
+              "explanation": "'Restitution, sofern sie nachhaltig gemeint ist' — 'sofern' leitet eine einschränkende Bedingung ein, die eine Voraussetzung nennt. 'Wenn' und 'falls' sind konditionaler, aber weniger präzise für den Charakter einer Prüfbedingung. 'Soweit sie' würde 'im Rahmen dessen, dass' bedeuten — semantisch abweichend."
+            },
+            {
+              "blankNumber": 22,
+              "type": "mcq",
+              "options": [
+                "geht",
+                "dreht",
+                "handelt",
+                "kommt"
+              ],
+              "correctAnswer": "geht",
+              "explanation": "'Am Ende geht es um mehr' — 'es geht um' ist die feste Kollokation für 'es handelt sich um / der Kern ist'. 'Dreht es sich um' wäre eine korrekte Alternative, aber die Formulierung mit 'geht' ist prägnanter. 'Handelt es sich' erfordert 'bei … um'; 'kommt es auf' hat eine andere Valenzkonstruktion."
+            }
+          ]
+        }
+      ]
+    },
+    "listening": {
+      "totalTimeMinutes": 40,
+      "parts": [
+        {
+          "partNumber": 1,
+          "instructions": "Sie hören acht kurze Stellungnahmen verschiedener Personen zum Thema Restitution kolonialer Kulturgüter und Kulturerbe. Lesen Sie zuerst die zehn Zusammenfassungen (a–j). Hören Sie dann die acht Aussagen. Welche Zusammenfassung passt zu welchem Sprecher? Zwei Zusammenfassungen passen nicht. Sie hören die Texte nur einmal.",
+          "instructionsTranslation": "You will hear eight short statements from different people on the topic of restitution of colonial cultural goods and cultural heritage. First read the ten summaries (a–j). Then listen to the eight statements. Which summary matches which speaker? Two summaries do not fit. You will hear the texts only once.",
+          "audioFile": "assets/audio/C1/mock07/listening_part1.mp3",
+          "playCount": 1,
+          "questions": [
+            {
+              "id": "C1_m07_HV1_q1",
+              "type": "matching",
+              "questionText": "Sprecher 1: Frau Prof. Dr. Asante, Kunsthistorikerin aus Accra",
+              "matchingSources": [
+                {
+                  "id": "sum_a",
+                  "label": "a",
+                  "content": "a) Die Sprecherin vertritt die Position, dass Museen koloniale Objekte ohne langwierige Verhandlungen proaktiv zurückgeben sollten, sobald die Herkunft nachgewiesen ist."
+                },
+                {
+                  "id": "sum_b",
+                  "label": "b",
+                  "content": "b) Der Sprecher warnt, dass eine pauschale Rückgabepflicht das Prinzip universeller Museen und damit den globalen Wissensaustausch gefährdet."
+                },
+                {
+                  "id": "sum_c",
+                  "label": "c",
+                  "content": "c) Die Sprecherin sieht in der Digitalisierung von Kulturgütern eine sinnvolle Ergänzung zur physischen Restitution, aber keinen vollwertigen Ersatz."
+                },
+                {
+                  "id": "sum_d",
+                  "label": "d",
+                  "content": "d) Der Sprecher betont, dass Provenienzforschung ohne konsequente Finanzierung durch die Bundesregierung strukturell scheitern muss."
+                },
+                {
+                  "id": "sum_e",
+                  "label": "e",
+                  "content": "e) Die Sprecherin sieht in Cancel Culture ein Symptom fehlender institutioneller Reflexionsbereitschaft, nicht ein Problem der Kunstfreiheit selbst."
+                },
+                {
+                  "id": "sum_f",
+                  "label": "f",
+                  "content": "f) Der Sprecher hält die Forderung nach Rückgabe für kulturell berechtigt, mahnt aber zu einer bilateral verhandelten Lösung statt einseitiger Entscheidungen."
+                },
+                {
+                  "id": "sum_g",
+                  "label": "g",
+                  "content": "g) Die Sprecherin kritisiert, dass Kunstinstitutionen Cancel Culture instrumentalisieren, um berechtigte Kritik an strukturellem Rassismus abzuwehren."
+                },
+                {
+                  "id": "sum_h",
+                  "label": "h",
+                  "content": "h) Der Sprecher argumentiert, dass Kulturerbe nicht nur einer Nation gehört, sondern zur kollektiven Menschheitsgeschichte zählt und deshalb zugänglich bleiben muss."
+                },
+                {
+                  "id": "sum_i",
+                  "label": "i",
+                  "content": "i) Die Sprecherin fordert, dass Herkunftsstaaten aktiv in die kuratorische Gestaltung von Ausstellungen einbezogen werden, nicht nur in Rückgabeentscheidungen."
+                },
+                {
+                  "id": "sum_j",
+                  "label": "j",
+                  "content": "j) Der Sprecher sieht in der Debatte um Raubkunst eine Gelegenheit, das Verhältnis zwischen globalen Norden und Süden grundlegend neu zu gestalten."
+                }
+              ],
+              "correctAnswer": "a",
+              "explanation": "Frau Prof. Asante erklärt: 'Wenn die Herkunft eines Objekts nachgewiesen ist, braucht es keine weiteren Verhandlungen. Die moralische Pflicht zur Rückgabe ist eindeutig — und jede Verzögerung ist eine Entscheidung für den Status quo der Ungleichheit.' Das entspricht Zusammenfassung a). Distraktor i) klingt ähnlich, fokussiert aber auf kuratorische Mitbestimmung, nicht auf die Rückgabe als solche."
+            },
+            {
+              "id": "C1_m07_HV1_q2",
+              "type": "matching",
+              "questionText": "Sprecher 2: Herr Dr. Brenner, Direktor eines Kunstmuseums in Wien",
+              "matchingSources": [
+                {
+                  "id": "sum_a",
+                  "label": "a",
+                  "content": "a) Die Sprecherin vertritt die Position, dass Museen koloniale Objekte ohne langwierige Verhandlungen proaktiv zurückgeben sollten, sobald die Herkunft nachgewiesen ist."
+                },
+                {
+                  "id": "sum_b",
+                  "label": "b",
+                  "content": "b) Der Sprecher warnt, dass eine pauschale Rückgabepflicht das Prinzip universeller Museen und damit den globalen Wissensaustausch gefährdet."
+                },
+                {
+                  "id": "sum_c",
+                  "label": "c",
+                  "content": "c) Die Sprecherin sieht in der Digitalisierung von Kulturgütern eine sinnvolle Ergänzung zur physischen Restitution, aber keinen vollwertigen Ersatz."
+                },
+                {
+                  "id": "sum_d",
+                  "label": "d",
+                  "content": "d) Der Sprecher betont, dass Provenienzforschung ohne konsequente Finanzierung durch die Bundesregierung strukturell scheitern muss."
+                },
+                {
+                  "id": "sum_e",
+                  "label": "e",
+                  "content": "e) Die Sprecherin sieht in Cancel Culture ein Symptom fehlender institutioneller Reflexionsbereitschaft, nicht ein Problem der Kunstfreiheit selbst."
+                },
+                {
+                  "id": "sum_f",
+                  "label": "f",
+                  "content": "f) Der Sprecher hält die Forderung nach Rückgabe für kulturell berechtigt, mahnt aber zu einer bilateral verhandelten Lösung statt einseitiger Entscheidungen."
+                },
+                {
+                  "id": "sum_g",
+                  "label": "g",
+                  "content": "g) Die Sprecherin kritisiert, dass Kunstinstitutionen Cancel Culture instrumentalisieren, um berechtigte Kritik an strukturellem Rassismus abzuwehren."
+                },
+                {
+                  "id": "sum_h",
+                  "label": "h",
+                  "content": "h) Der Sprecher argumentiert, dass Kulturerbe nicht nur einer Nation gehört, sondern zur kollektiven Menschheitsgeschichte zählt und deshalb zugänglich bleiben muss."
+                },
+                {
+                  "id": "sum_i",
+                  "label": "i",
+                  "content": "i) Die Sprecherin fordert, dass Herkunftsstaaten aktiv in die kuratorische Gestaltung von Ausstellungen einbezogen werden, nicht nur in Rückgabeentscheidungen."
+                },
+                {
+                  "id": "sum_j",
+                  "label": "j",
+                  "content": "j) Der Sprecher sieht in der Debatte um Raubkunst eine Gelegenheit, das Verhältnis zwischen globalen Norden und Süden grundlegend neu zu gestalten."
+                }
+              ],
+              "correctAnswer": "b",
+              "explanation": "Dr. Brenner betont: 'Museen wie meines sind entstanden aus der Idee, dass Wissen keine Grenzen kennt. Wenn wir anfangen, Sammlungen nach nationaler Herkunft zu sortieren, verlieren wir das, was die Idee des universellen Museums ausmacht.' Das entspricht Zusammenfassung b). Distraktor h) ist nahe, argumentiert aber für kollektives Erbe statt gegen Rückgabe aus institutioneller Logik."
+            },
+            {
+              "id": "C1_m07_HV1_q3",
+              "type": "matching",
+              "questionText": "Sprecher 3: Frau Mbeki, Digitalisierungsexpertin",
+              "matchingSources": [
+                {
+                  "id": "sum_a",
+                  "label": "a",
+                  "content": "a) Die Sprecherin vertritt die Position, dass Museen koloniale Objekte ohne langwierige Verhandlungen proaktiv zurückgeben sollten, sobald die Herkunft nachgewiesen ist."
+                },
+                {
+                  "id": "sum_b",
+                  "label": "b",
+                  "content": "b) Der Sprecher warnt, dass eine pauschale Rückgabepflicht das Prinzip universeller Museen und damit den globalen Wissensaustausch gefährdet."
+                },
+                {
+                  "id": "sum_c",
+                  "label": "c",
+                  "content": "c) Die Sprecherin sieht in der Digitalisierung von Kulturgütern eine sinnvolle Ergänzung zur physischen Restitution, aber keinen vollwertigen Ersatz."
+                },
+                {
+                  "id": "sum_d",
+                  "label": "d",
+                  "content": "d) Der Sprecher betont, dass Provenienzforschung ohne konsequente Finanzierung durch die Bundesregierung strukturell scheitern muss."
+                },
+                {
+                  "id": "sum_e",
+                  "label": "e",
+                  "content": "e) Die Sprecherin sieht in Cancel Culture ein Symptom fehlender institutioneller Reflexionsbereitschaft, nicht ein Problem der Kunstfreiheit selbst."
+                },
+                {
+                  "id": "sum_f",
+                  "label": "f",
+                  "content": "f) Der Sprecher hält die Forderung nach Rückgabe für kulturell berechtigt, mahnt aber zu einer bilateral verhandelten Lösung statt einseitiger Entscheidungen."
+                },
+                {
+                  "id": "sum_g",
+                  "label": "g",
+                  "content": "g) Die Sprecherin kritisiert, dass Kunstinstitutionen Cancel Culture instrumentalisieren, um berechtigte Kritik an strukturellem Rassismus abzuwehren."
+                },
+                {
+                  "id": "sum_h",
+                  "label": "h",
+                  "content": "h) Der Sprecher argumentiert, dass Kulturerbe nicht nur einer Nation gehört, sondern zur kollektiven Menschheitsgeschichte zählt und deshalb zugänglich bleiben muss."
+                },
+                {
+                  "id": "sum_i",
+                  "label": "i",
+                  "content": "i) Die Sprecherin fordert, dass Herkunftsstaaten aktiv in die kuratorische Gestaltung von Ausstellungen einbezogen werden, nicht nur in Rückgabeentscheidungen."
+                },
+                {
+                  "id": "sum_j",
+                  "label": "j",
+                  "content": "j) Der Sprecher sieht in der Debatte um Raubkunst eine Gelegenheit, das Verhältnis zwischen globalen Norden und Süden grundlegend neu zu gestalten."
+                }
+              ],
+              "correctAnswer": "c",
+              "explanation": "Frau Mbeki erklärt: 'Ich begrüße jeden Digitalisierungsschritt. Aber ich sage meinen Studierenden: Ein 3D-Scan ist kein Kulturgut — er ist eine Information über ein Kulturgut. Das Original ist mehr als seine Bilddaten, und das darf man in der Euphorie über neue Technologien nicht vergessen.' Das entspricht Zusammenfassung c). Distraktor b) berührt Digitalisierung, ist aber die universelle Museumsposition."
+            },
+            {
+              "id": "C1_m07_HV1_q4",
+              "type": "matching",
+              "questionText": "Sprecher 4: Herr Mühlbauer, Leiter einer Provenienzforschungsstelle",
+              "matchingSources": [
+                {
+                  "id": "sum_a",
+                  "label": "a",
+                  "content": "a) Die Sprecherin vertritt die Position, dass Museen koloniale Objekte ohne langwierige Verhandlungen proaktiv zurückgeben sollten, sobald die Herkunft nachgewiesen ist."
+                },
+                {
+                  "id": "sum_b",
+                  "label": "b",
+                  "content": "b) Der Sprecher warnt, dass eine pauschale Rückgabepflicht das Prinzip universeller Museen und damit den globalen Wissensaustausch gefährdet."
+                },
+                {
+                  "id": "sum_c",
+                  "label": "c",
+                  "content": "c) Die Sprecherin sieht in der Digitalisierung von Kulturgütern eine sinnvolle Ergänzung zur physischen Restitution, aber keinen vollwertigen Ersatz."
+                },
+                {
+                  "id": "sum_d",
+                  "label": "d",
+                  "content": "d) Der Sprecher betont, dass Provenienzforschung ohne konsequente Finanzierung durch die Bundesregierung strukturell scheitern muss."
+                },
+                {
+                  "id": "sum_e",
+                  "label": "e",
+                  "content": "e) Die Sprecherin sieht in Cancel Culture ein Symptom fehlender institutioneller Reflexionsbereitschaft, nicht ein Problem der Kunstfreiheit selbst."
+                },
+                {
+                  "id": "sum_f",
+                  "label": "f",
+                  "content": "f) Der Sprecher hält die Forderung nach Rückgabe für kulturell berechtigt, mahnt aber zu einer bilateral verhandelten Lösung statt einseitiger Entscheidungen."
+                },
+                {
+                  "id": "sum_g",
+                  "label": "g",
+                  "content": "g) Die Sprecherin kritisiert, dass Kunstinstitutionen Cancel Culture instrumentalisieren, um berechtigte Kritik an strukturellem Rassismus abzuwehren."
+                },
+                {
+                  "id": "sum_h",
+                  "label": "h",
+                  "content": "h) Der Sprecher argumentiert, dass Kulturerbe nicht nur einer Nation gehört, sondern zur kollektiven Menschheitsgeschichte zählt und deshalb zugänglich bleiben muss."
+                },
+                {
+                  "id": "sum_i",
+                  "label": "i",
+                  "content": "i) Die Sprecherin fordert, dass Herkunftsstaaten aktiv in die kuratorische Gestaltung von Ausstellungen einbezogen werden, nicht nur in Rückgabeentscheidungen."
+                },
+                {
+                  "id": "sum_j",
+                  "label": "j",
+                  "content": "j) Der Sprecher sieht in der Debatte um Raubkunst eine Gelegenheit, das Verhältnis zwischen globalen Norden und Süden grundlegend neu zu gestalten."
+                }
+              ],
+              "correctAnswer": "d",
+              "explanation": "Herr Mühlbauer betont: 'Wir haben derzeit fünf Stellen für Provenienzforschung in Deutschland. Das ist lächerlich — mit fünf Stellen können wir Hunderttausende von Objekten in Jahrzehnten nicht systematisch erfassen. Ohne Bundesfinanzierung auf einem anderen Niveau bleibt das ein PR-Projekt.' Das entspricht Zusammenfassung d)."
+            },
+            {
+              "id": "C1_m07_HV1_q5",
+              "type": "matching",
+              "questionText": "Sprecher 5: Frau Dr. Tanaka, Kultursoziologin",
+              "matchingSources": [
+                {
+                  "id": "sum_a",
+                  "label": "a",
+                  "content": "a) Die Sprecherin vertritt die Position, dass Museen koloniale Objekte ohne langwierige Verhandlungen proaktiv zurückgeben sollten, sobald die Herkunft nachgewiesen ist."
+                },
+                {
+                  "id": "sum_b",
+                  "label": "b",
+                  "content": "b) Der Sprecher warnt, dass eine pauschale Rückgabepflicht das Prinzip universeller Museen und damit den globalen Wissensaustausch gefährdet."
+                },
+                {
+                  "id": "sum_c",
+                  "label": "c",
+                  "content": "c) Die Sprecherin sieht in der Digitalisierung von Kulturgütern eine sinnvolle Ergänzung zur physischen Restitution, aber keinen vollwertigen Ersatz."
+                },
+                {
+                  "id": "sum_d",
+                  "label": "d",
+                  "content": "d) Der Sprecher betont, dass Provenienzforschung ohne konsequente Finanzierung durch die Bundesregierung strukturell scheitern muss."
+                },
+                {
+                  "id": "sum_e",
+                  "label": "e",
+                  "content": "e) Die Sprecherin sieht in Cancel Culture ein Symptom fehlender institutioneller Reflexionsbereitschaft, nicht ein Problem der Kunstfreiheit selbst."
+                },
+                {
+                  "id": "sum_f",
+                  "label": "f",
+                  "content": "f) Der Sprecher hält die Forderung nach Rückgabe für kulturell berechtigt, mahnt aber zu einer bilateral verhandelten Lösung statt einseitiger Entscheidungen."
+                },
+                {
+                  "id": "sum_g",
+                  "label": "g",
+                  "content": "g) Die Sprecherin kritisiert, dass Kunstinstitutionen Cancel Culture instrumentalisieren, um berechtigte Kritik an strukturellem Rassismus abzuwehren."
+                },
+                {
+                  "id": "sum_h",
+                  "label": "h",
+                  "content": "h) Der Sprecher argumentiert, dass Kulturerbe nicht nur einer Nation gehört, sondern zur kollektiven Menschheitsgeschichte zählt und deshalb zugänglich bleiben muss."
+                },
+                {
+                  "id": "sum_i",
+                  "label": "i",
+                  "content": "i) Die Sprecherin fordert, dass Herkunftsstaaten aktiv in die kuratorische Gestaltung von Ausstellungen einbezogen werden, nicht nur in Rückgabeentscheidungen."
+                },
+                {
+                  "id": "sum_j",
+                  "label": "j",
+                  "content": "j) Der Sprecher sieht in der Debatte um Raubkunst eine Gelegenheit, das Verhältnis zwischen globalen Norden und Süden grundlegend neu zu gestalten."
+                }
+              ],
+              "correctAnswer": "e",
+              "explanation": "Dr. Tanaka sagt: 'Cancel Culture in Museen ist nicht das Gegenteil von Kunstfreiheit — es ist ein Spiegel dafür, dass Institutionen seit Jahrzehnten nicht bereit waren, sich selbst zu hinterfragen. Wenn jetzt gesellschaftlicher Druck entsteht, liegt das nicht an der Gesellschaft, sondern daran, dass die Institutionen zu lange geschwiegen haben.' Das entspricht Zusammenfassung e)."
+            },
+            {
+              "id": "C1_m07_HV1_q6",
+              "type": "matching",
+              "questionText": "Sprecher 6: Herr Prof. Kowalski, Völkerrechtler",
+              "matchingSources": [
+                {
+                  "id": "sum_a",
+                  "label": "a",
+                  "content": "a) Die Sprecherin vertritt die Position, dass Museen koloniale Objekte ohne langwierige Verhandlungen proaktiv zurückgeben sollten, sobald die Herkunft nachgewiesen ist."
+                },
+                {
+                  "id": "sum_b",
+                  "label": "b",
+                  "content": "b) Der Sprecher warnt, dass eine pauschale Rückgabepflicht das Prinzip universeller Museen und damit den globalen Wissensaustausch gefährdet."
+                },
+                {
+                  "id": "sum_c",
+                  "label": "c",
+                  "content": "c) Die Sprecherin sieht in der Digitalisierung von Kulturgütern eine sinnvolle Ergänzung zur physischen Restitution, aber keinen vollwertigen Ersatz."
+                },
+                {
+                  "id": "sum_d",
+                  "label": "d",
+                  "content": "d) Der Sprecher betont, dass Provenienzforschung ohne konsequente Finanzierung durch die Bundesregierung strukturell scheitern muss."
+                },
+                {
+                  "id": "sum_e",
+                  "label": "e",
+                  "content": "e) Die Sprecherin sieht in Cancel Culture ein Symptom fehlender institutioneller Reflexionsbereitschaft, nicht ein Problem der Kunstfreiheit selbst."
+                },
+                {
+                  "id": "sum_f",
+                  "label": "f",
+                  "content": "f) Der Sprecher hält die Forderung nach Rückgabe für kulturell berechtigt, mahnt aber zu einer bilateral verhandelten Lösung statt einseitiger Entscheidungen."
+                },
+                {
+                  "id": "sum_g",
+                  "label": "g",
+                  "content": "g) Die Sprecherin kritisiert, dass Kunstinstitutionen Cancel Culture instrumentalisieren, um berechtigte Kritik an strukturellem Rassismus abzuwehren."
+                },
+                {
+                  "id": "sum_h",
+                  "label": "h",
+                  "content": "h) Der Sprecher argumentiert, dass Kulturerbe nicht nur einer Nation gehört, sondern zur kollektiven Menschheitsgeschichte zählt und deshalb zugänglich bleiben muss."
+                },
+                {
+                  "id": "sum_i",
+                  "label": "i",
+                  "content": "i) Die Sprecherin fordert, dass Herkunftsstaaten aktiv in die kuratorische Gestaltung von Ausstellungen einbezogen werden, nicht nur in Rückgabeentscheidungen."
+                },
+                {
+                  "id": "sum_j",
+                  "label": "j",
+                  "content": "j) Der Sprecher sieht in der Debatte um Raubkunst eine Gelegenheit, das Verhältnis zwischen globalen Norden und Süden grundlegend neu zu gestalten."
+                }
+              ],
+              "correctAnswer": "f",
+              "explanation": "Prof. Kowalski erklärt: 'Ich teile die moralische Forderung vollständig. Aber im Völkerrecht gilt: Einseitige Entscheidungen schaffen gefährliche Präzedenzfälle. Bilateral verhandelte Lösungen sind langsamer — aber nachhaltiger und rechtsstaatlich sicherer.' Das entspricht Zusammenfassung f). Distraktor a) ist nahe, fordert aber proaktive Rückgabe ohne Verhandlung."
+            },
+            {
+              "id": "C1_m07_HV1_q7",
+              "type": "matching",
+              "questionText": "Sprecher 7: Frau Adjei, Kuratorin aus Kumasi",
+              "matchingSources": [
+                {
+                  "id": "sum_a",
+                  "label": "a",
+                  "content": "a) Die Sprecherin vertritt die Position, dass Museen koloniale Objekte ohne langwierige Verhandlungen proaktiv zurückgeben sollten, sobald die Herkunft nachgewiesen ist."
+                },
+                {
+                  "id": "sum_b",
+                  "label": "b",
+                  "content": "b) Der Sprecher warnt, dass eine pauschale Rückgabepflicht das Prinzip universeller Museen und damit den globalen Wissensaustausch gefährdet."
+                },
+                {
+                  "id": "sum_c",
+                  "label": "c",
+                  "content": "c) Die Sprecherin sieht in der Digitalisierung von Kulturgütern eine sinnvolle Ergänzung zur physischen Restitution, aber keinen vollwertigen Ersatz."
+                },
+                {
+                  "id": "sum_d",
+                  "label": "d",
+                  "content": "d) Der Sprecher betont, dass Provenienzforschung ohne konsequente Finanzierung durch die Bundesregierung strukturell scheitern muss."
+                },
+                {
+                  "id": "sum_e",
+                  "label": "e",
+                  "content": "e) Die Sprecherin sieht in Cancel Culture ein Symptom fehlender institutioneller Reflexionsbereitschaft, nicht ein Problem der Kunstfreiheit selbst."
+                },
+                {
+                  "id": "sum_f",
+                  "label": "f",
+                  "content": "f) Der Sprecher hält die Forderung nach Rückgabe für kulturell berechtigt, mahnt aber zu einer bilateral verhandelten Lösung statt einseitiger Entscheidungen."
+                },
+                {
+                  "id": "sum_g",
+                  "label": "g",
+                  "content": "g) Die Sprecherin kritisiert, dass Kunstinstitutionen Cancel Culture instrumentalisieren, um berechtigte Kritik an strukturellem Rassismus abzuwehren."
+                },
+                {
+                  "id": "sum_h",
+                  "label": "h",
+                  "content": "h) Der Sprecher argumentiert, dass Kulturerbe nicht nur einer Nation gehört, sondern zur kollektiven Menschheitsgeschichte zählt und deshalb zugänglich bleiben muss."
+                },
+                {
+                  "id": "sum_i",
+                  "label": "i",
+                  "content": "i) Die Sprecherin fordert, dass Herkunftsstaaten aktiv in die kuratorische Gestaltung von Ausstellungen einbezogen werden, nicht nur in Rückgabeentscheidungen."
+                },
+                {
+                  "id": "sum_j",
+                  "label": "j",
+                  "content": "j) Der Sprecher sieht in der Debatte um Raubkunst eine Gelegenheit, das Verhältnis zwischen globalen Norden und Süden grundlegend neu zu gestalten."
+                }
+              ],
+              "correctAnswer": "g",
+              "explanation": "Frau Adjei erklärt: 'Was mich wirklich irritiert: Wenn Aktivistinnen berechtigte Fragen zu strukturellem Rassismus stellen, sagen viele Museen: Cancel Culture. Das ist eine rhetorische Schutzstrategie — man nennt den Kritiker das Problem, damit man sich nicht mit dem Inhalt der Kritik befassen muss.' Das entspricht Zusammenfassung g)."
+            },
+            {
+              "id": "C1_m07_HV1_q8",
+              "type": "matching",
+              "questionText": "Sprecher 8: Herr Dr. Nakamura, Kulturphilosoph",
+              "matchingSources": [
+                {
+                  "id": "sum_a",
+                  "label": "a",
+                  "content": "a) Die Sprecherin vertritt die Position, dass Museen koloniale Objekte ohne langwierige Verhandlungen proaktiv zurückgeben sollten, sobald die Herkunft nachgewiesen ist."
+                },
+                {
+                  "id": "sum_b",
+                  "label": "b",
+                  "content": "b) Der Sprecher warnt, dass eine pauschale Rückgabepflicht das Prinzip universeller Museen und damit den globalen Wissensaustausch gefährdet."
+                },
+                {
+                  "id": "sum_c",
+                  "label": "c",
+                  "content": "c) Die Sprecherin sieht in der Digitalisierung von Kulturgütern eine sinnvolle Ergänzung zur physischen Restitution, aber keinen vollwertigen Ersatz."
+                },
+                {
+                  "id": "sum_d",
+                  "label": "d",
+                  "content": "d) Der Sprecher betont, dass Provenienzforschung ohne konsequente Finanzierung durch die Bundesregierung strukturell scheitern muss."
+                },
+                {
+                  "id": "sum_e",
+                  "label": "e",
+                  "content": "e) Die Sprecherin sieht in Cancel Culture ein Symptom fehlender institutioneller Reflexionsbereitschaft, nicht ein Problem der Kunstfreiheit selbst."
+                },
+                {
+                  "id": "sum_f",
+                  "label": "f",
+                  "content": "f) Der Sprecher hält die Forderung nach Rückgabe für kulturell berechtigt, mahnt aber zu einer bilateral verhandelten Lösung statt einseitiger Entscheidungen."
+                },
+                {
+                  "id": "sum_g",
+                  "label": "g",
+                  "content": "g) Die Sprecherin kritisiert, dass Kunstinstitutionen Cancel Culture instrumentalisieren, um berechtigte Kritik an strukturellem Rassismus abzuwehren."
+                },
+                {
+                  "id": "sum_h",
+                  "label": "h",
+                  "content": "h) Der Sprecher argumentiert, dass Kulturerbe nicht nur einer Nation gehört, sondern zur kollektiven Menschheitsgeschichte zählt und deshalb zugänglich bleiben muss."
+                },
+                {
+                  "id": "sum_i",
+                  "label": "i",
+                  "content": "i) Die Sprecherin fordert, dass Herkunftsstaaten aktiv in die kuratorische Gestaltung von Ausstellungen einbezogen werden, nicht nur in Rückgabeentscheidungen."
+                },
+                {
+                  "id": "sum_j",
+                  "label": "j",
+                  "content": "j) Der Sprecher sieht in der Debatte um Raubkunst eine Gelegenheit, das Verhältnis zwischen globalen Norden und Süden grundlegend neu zu gestalten."
+                }
+              ],
+              "correctAnswer": "j",
+              "explanation": "Dr. Nakamura betont: 'Diese Debatte ist nicht nur eine über Objekte. Sie ist eine über das Verhältnis zwischen zwei Welten, die noch immer das Erbe der Kolonialisierung mit sich tragen. Restitution könnte der Anfang einer echten Neugestaltung dieser Beziehung sein — wenn der Wille dazu vorhanden ist.' Das entspricht Zusammenfassung j). Distraktor h) (kollektives Menschheitserbe) ist das Gegenmodell zu dieser Position."
+            }
+          ]
+        },
+        {
+          "partNumber": 2,
+          "instructions": "Sie hören ein Interview mit Dr. Sophie Lorenz zum Thema Restitution und Museumspolitik. Lesen Sie zuerst die zehn Aufgaben. Was ist richtig? Kreuzen Sie an: a, b oder c. Sie hören das Interview nur einmal.",
+          "instructionsTranslation": "You will hear an interview with Dr. Sophie Lorenz on the topic of restitution and museum policy. First read the ten tasks. What is correct? Mark a, b, or c. You will hear the interview only once.",
+          "audioFile": "assets/audio/C1/mock07/listening_part2.mp3",
+          "playCount": 1,
+          "audioTranscript": "Moderator: Willkommen, Dr. Lorenz. Sie sind Leiterin einer unabhängigen Provenienzforschungsstelle. Was ist das Schwierigste an Ihrer Arbeit?\n\nDr. Lorenz: Das Schwierigste ist nicht die Archivarbeit selbst — die ist aufwendig, aber methodisch klar. Das Schwierigste ist das Navigieren zwischen institutionellen Interessen und wissenschaftlicher Integrität. Museen wollen Transparenz, aber nicht jede Transparenz. Wenn ich Ergebnisse vorlege, die die Sammlungsgeschichte eines Hauses belasten, gibt es internen Widerstand — nicht immer explizit, aber spürbar.\n\nModerator: Wie gehen Sie mit solchem Widerstand um?\n\nDr. Lorenz: Indem ich das Mandat der Stelle sehr klar definiere und von Anfang an öffentlich mache. Wenn das Museum bei der Gründung zustimmt, dass Ergebnisse veröffentlicht werden, unabhängig vom Inhalt, ist der Widerstand später schwerer zu rechtfertigen. Das ist kein Allheilmittel, aber eine strukturelle Absicherung.\n\nModerator: Wie bewerten Sie den Stand der deutschen Restitutionspolitik?\n\nDr. Lorenz: Deutschland hat in den letzten Jahren erhebliche Fortschritte gemacht — die Rückgabe der Benin-Bronzen war ein wichtiger Schritt. Aber wir dürfen uns nicht auf Einzelerfolgen ausruhen. Die systematische Erfassung von Objekten kolonialer Herkunft in allen deutschen Museen ist noch nicht abgeschlossen, und das Tempo ist zu langsam für den Umfang der Aufgabe.\n\nModerator: Es gibt Kritiker, die sagen, Restitution gefährdet das Prinzip des universellen Museums. Was entgegnen Sie?\n\nDr. Lorenz: Ich respektiere die Idee des universellen Museums, aber ich frage: Universal für wen? Wenn ein Museum in Berlin für Besucher aus aller Welt zugänglich ist, aber für Menschen aus Nigeria praktisch unzugänglich bleibt — wegen Visumskosten, Reisekosten, fehlender Infrastruktur —, dann ist der Universalitätsanspruch eine theoretische Konstruktion, keine gelebte Realität.\n\nModerator: Was halten Sie von Digitalisierung als Alternative zur physischen Rückgabe?\n\nDr. Lorenz: Digitalisierung ist wertvoll — für Forschung, für Bildung, für den globalen Austausch. Aber als Ersatz für physische Rückgabe ist sie unzureichend. Das Original hat eine physische, rituelle, gemeinschaftliche Dimension, die keine digitale Kopie erfassen kann. Wer Digitalisierung als Restitutionsersatz anbietet, signalisiert letztlich, dass er die eigentliche Forderung nicht ernst nimmt.\n\nModerator: Welche rechtlichen Instrumente sind aus Ihrer Sicht am dringendsten notwendig?\n\nDr. Lorenz: Wir brauchen zunächst eine gesetzliche Verpflichtung zur Provenienzforschung für alle öffentlichen Museen — nicht als freiwillige Selbstverpflichtung, sondern als Rechtspflicht mit Frist und Berichtspflicht. Daneben wäre eine bundesweit einheitliche Bewertungsmatrix hilfreich, damit nicht jedes Museum nach eigenen Maßstäben entscheidet, was 'unrechtmäßig erworben' bedeutet.\n\nModerator: Was würden Sie Museen raten, die mit Rückgabeforderungen konfrontiert sind?\n\nDr. Lorenz: Zuhören, bevor man antwortet. Zu oft wird eine Forderung als Angriff wahrgenommen, und die erste Reaktion ist Defensive. Dabei ist eine Rückgabeforderung zuerst eine historische und moralische Aussage — und verdient eine historische und moralische Auseinandersetzung, keine Pressemitteilung.\n\nModerator: Haben Sie ein konkretes Vorbild, das Sie besonders inspiriert?\n\nDr. Lorenz: Das Rijksmuseum in Amsterdam mit seiner Ausstellung zu Sklaverei und kolonialer Geschichte. Die kuratorische Entscheidung, die eigene institutionelle Mitverantwortung explizit anzuerkennen und nicht zu euphemisieren, fand ich mutig und vorbildlich. Und das Publikum hat das honoriert — die Ausstellung war die meistbesuchte in der Geschichte des Hauses.\n\nModerator: Was ist Ihre persönliche Motivation für diese Arbeit?\n\nDr. Lorenz: Ich glaube, dass historische Gerechtigkeit möglich ist — nicht im Sinne einer vollständigen Wiedergutmachung, das ist eine Illusion. Aber im Sinne einer ehrlichen Auseinandersetzung, die anerkennt, was passiert ist, und die versucht, strukturell etwas zu verändern. Das ist eine bescheidene, aber dauerhafte Form von Gerechtigkeit.",
+          "questions": [
+            {
+              "id": "C1_m07_HV2_q1",
+              "type": "mcq",
+              "questionText": "Was nennt Dr. Lorenz als die größte Herausforderung ihrer Arbeit?",
+              "options": [
+                "a) Die methodische Komplexität der Archivrecherche.",
+                "b) Das Navigieren zwischen institutionellen Interessen und wissenschaftlicher Integrität.",
+                "c) Der Mangel an internationalen Kooperationspartnern."
+              ],
+              "correctAnswer": "b",
+              "explanation": "Dr. Lorenz erklärt explizit: 'Das Schwierigste ist das Navigieren zwischen institutionellen Interessen und wissenschaftlicher Integrität.' a) und c) werden nicht als Hauptproblem genannt."
+            },
+            {
+              "id": "C1_m07_HV2_q2",
+              "type": "mcq",
+              "questionText": "Wie sichert Dr. Lorenz die Unabhängigkeit ihrer Stelle ab?",
+              "options": [
+                "a) Sie veröffentlicht alle Ergebnisse über externe Fachzeitschriften.",
+                "b) Sie lässt das Mandat zur Veröffentlichung aller Ergebnisse von Anfang an vertraglich festlegen.",
+                "c) Sie lehnt Aufträge ab, bei denen Museen Ergebnisse intern behalten möchten."
+              ],
+              "correctAnswer": "b",
+              "explanation": "Dr. Lorenz beschreibt: 'das Museum stimmt bei der Gründung zu, dass Ergebnisse veröffentlicht werden, unabhängig vom Inhalt.' Das entspricht b). a) und c) werden nicht beschrieben."
+            },
+            {
+              "id": "C1_m07_HV2_q3",
+              "type": "mcq",
+              "questionText": "Wie bewertet Dr. Lorenz den aktuellen Stand der deutschen Restitutionspolitik?",
+              "options": [
+                "a) Deutschland ist führend in Europa und hat alle wichtigen Fälle gelöst.",
+                "b) Deutschland hat Fortschritte gemacht, aber die systematische Erfassung ist noch nicht abgeschlossen.",
+                "c) Deutschland hinkt anderen europäischen Ländern weit hinterher."
+              ],
+              "correctAnswer": "b",
+              "explanation": "Dr. Lorenz würdigt 'erhebliche Fortschritte', kritisiert aber, dass die systematische Erfassung 'noch nicht abgeschlossen' und das Tempo 'zu langsam' ist. Das entspricht b)."
+            },
+            {
+              "id": "C1_m07_HV2_q4",
+              "type": "mcq",
+              "questionText": "Welche Kritik übt Dr. Lorenz am Konzept des universellen Museums?",
+              "options": [
+                "a) Universelle Museen verdienen keine staatliche Förderung.",
+                "b) Der Universalitätsanspruch ist für Menschen aus Herkunftsländern wegen praktischer Zugangshürden keine gelebte Realität.",
+                "c) Universelle Museen verstoßen gegen das Völkerrecht."
+              ],
+              "correctAnswer": "b",
+              "explanation": "Dr. Lorenz fragt: 'Universal für wen?' und nennt Visums- und Reisekosten als Barrieren für Menschen aus Nigeria. Das entspricht b)."
+            },
+            {
+              "id": "C1_m07_HV2_q5",
+              "type": "mcq",
+              "questionText": "Welche Aussage gibt Dr. Lorenz' Position zur Digitalisierung korrekt wieder?",
+              "options": [
+                "a) Digitalisierung ist ein vollwertiger Ersatz für physische Rückgabe.",
+                "b) Digitalisierung ist wertvoll, aber als Ersatz für Restitution unzureichend.",
+                "c) Digitalisierung ist zu teuer, um als Restitutionsoption ernsthaft erwogen zu werden."
+              ],
+              "correctAnswer": "b",
+              "explanation": "Dr. Lorenz nennt Digitalisierung 'wertvoll', aber 'als Ersatz für physische Rückgabe unzureichend'. Das entspricht b)."
+            },
+            {
+              "id": "C1_m07_HV2_q6",
+              "type": "mcq",
+              "questionText": "Welche zwei rechtlichen Maßnahmen hält Dr. Lorenz für dringend notwendig?",
+              "options": [
+                "a) Eine gesetzliche Provenienzforschungspflicht und eine einheitliche Bewertungsmatrix.",
+                "b) Ein internationales Restitutionsgericht und vereinheitlichte Museumsgesetze.",
+                "c) Eine Bundesbehörde für Kulturgutrückgabe und Steuervergünstigungen für rückgebende Museen."
+              ],
+              "correctAnswer": "a",
+              "explanation": "Dr. Lorenz fordert erstens 'eine gesetzliche Verpflichtung zur Provenienzforschung' und zweitens 'eine bundesweit einheitliche Bewertungsmatrix'. Das entspricht a)."
+            },
+            {
+              "id": "C1_m07_HV2_q7",
+              "type": "mcq",
+              "questionText": "Was empfiehlt Dr. Lorenz Museen, die mit Rückgabeforderungen konfrontiert sind?",
+              "options": [
+                "a) Zuhören, bevor man antwortet, und die Forderung als historische und moralische Aussage ernst nehmen.",
+                "b) Sofort eine Pressemitteilung herausgeben, um die eigene Position zu klären.",
+                "c) Eine externe Rechtsprüfung in Auftrag geben, bevor man reagiert."
+              ],
+              "correctAnswer": "a",
+              "explanation": "Dr. Lorenz sagt wörtlich: 'Zuhören, bevor man antwortet.' und kritisiert die Defensive und Pressemitteilungen als Erstreaktion. Das entspricht a)."
+            },
+            {
+              "id": "C1_m07_HV2_q8",
+              "type": "mcq",
+              "questionText": "Warum nennt Dr. Lorenz das Rijksmuseum als Vorbild?",
+              "options": [
+                "a) Weil es als erstes europäisches Museum vollständige physische Restitutionen abgeschlossen hat.",
+                "b) Weil es seine eigene institutionelle Mitverantwortung explizit anerkannt hat und damit das meistbesuchte Ausstellungsprojekt seiner Geschichte realisierte.",
+                "c) Weil es als einziges Museum eine kolonialgeschichtliche Abteilung eingerichtet hat."
+              ],
+              "correctAnswer": "b",
+              "explanation": "Dr. Lorenz hebt die explizite Anerkennung institutioneller Mitverantwortung hervor und erwähnt, dass die Ausstellung die meistbesuchte in der Geschichte des Hauses war. Das entspricht b)."
+            },
+            {
+              "id": "C1_m07_HV2_q9",
+              "type": "mcq",
+              "questionText": "Was ist laut Dr. Lorenz eine realistische Form historischer Gerechtigkeit?",
+              "options": [
+                "a) Die vollständige Wiedergutmachung aller Schäden durch Rückgabe sämtlicher Objekte.",
+                "b) Eine ehrliche Auseinandersetzung mit der Geschichte, die anerkennt was passiert ist und strukturell etwas zu verändern versucht.",
+                "c) Eine internationale Entschädigungszahlung an betroffene Herkunftsländer."
+              ],
+              "correctAnswer": "b",
+              "explanation": "Dr. Lorenz beschreibt historische Gerechtigkeit als 'ehrliche Auseinandersetzung, die anerkennt, was passiert ist, und die versucht, strukturell etwas zu verändern'. Das entspricht b)."
+            },
+            {
+              "id": "C1_m07_HV2_q10",
+              "type": "mcq",
+              "questionText": "Was impliziert Dr. Lorenz über Museen, die Digitalisierung als Restitutionsersatz anbieten?",
+              "options": [
+                "a) Diese Museen sind technisch innovativ und modernisieren die Debatte.",
+                "b) Diese Museen sind finanziell besser aufgestellt als solche, die physisch zurückgeben.",
+                "c) Diese Museen nehmen die eigentliche Rückgabeforderung nicht ernst."
+              ],
+              "correctAnswer": "c",
+              "explanation": "Dr. Lorenz sagt: 'Wer Digitalisierung als Restitutionsersatz anbietet, signalisiert letztlich, dass er die eigentliche Forderung nicht ernst nimmt.' Das entspricht c)."
+            }
+          ]
+        },
+        {
+          "partNumber": 3,
+          "instructions": "Sie hören einen akademischen Vortrag zum Thema Provenienzforschung und internationale Restitutionspolitik. Beantworten Sie die zehn Fragen. Was ist richtig? Kreuzen Sie an: a, b oder c. Sie hören den Vortrag zweimal.",
+          "instructionsTranslation": "You will hear an academic lecture on the topic of provenance research and international restitution policy. Answer the ten questions. What is correct? Mark a, b, or c. You will hear the lecture twice.",
+          "audioFile": "assets/audio/C1/mock07/listening_part3.mp3",
+          "playCount": 2,
+          "questions": [
+            {
+              "id": "C1_m07_HV3_q1",
+              "type": "mcq",
+              "questionText": "Was nennt der Vortragende als methodische Grundvoraussetzung jeder seriösen Provenienzforschung?",
+              "options": [
+                "a) Die Zusammenarbeit mit Regierungen der Herkunftsländer.",
+                "b) Der Zugang zu internen Museumsarchiven und kolonialen Verwaltungsakten.",
+                "c) Eine gesetzliche Freistellungspflicht für Forschende."
+              ],
+              "correctAnswer": "b",
+              "explanation": "Der Vortragende betont, dass Provenienzforschung ohne Zugang zu Museumsarchiven und kolonialen Verwaltungsakten methodisch blind ist — das ist die Grundvoraussetzung."
+            },
+            {
+              "id": "C1_m07_HV3_q2",
+              "type": "mcq",
+              "questionText": "Welche Schwäche der Washingtoner Prinzipien beschreibt der Vortragende?",
+              "options": [
+                "a) Sie gelten nur für Objekte aus dem Zweiten Weltkrieg, nicht für koloniale Raubkunst.",
+                "b) Sie sind rechtlich nicht verbindlich und überlassen die Umsetzung den einzelnen Institutionen.",
+                "c) Sie wurden von afrikanischen Staaten nicht unterzeichnet."
+              ],
+              "correctAnswer": "b",
+              "explanation": "Der Vortragende erklärt, dass die Washingtoner Prinzipien politische Selbstverpflichtungen sind, die rechtlich nicht bindend sind und damit Interpretation und Umsetzung den Institutionen überlassen."
+            },
+            {
+              "id": "C1_m07_HV3_q3",
+              "type": "mcq",
+              "questionText": "Was beschreibt der Vortragende als Hauptunterschied zwischen NS-Raubkunst und kolonialem Kulturgut in der rechtlichen Behandlung?",
+              "options": [
+                "a) NS-Raubkunst ist besser dokumentiert und hat klare gesetzliche Rückgabepflichten; koloniales Kulturgut unterliegt keinem vergleichbaren Rechtsrahmen.",
+                "b) Koloniales Kulturgut wird stärker von der Europäischen Union reguliert.",
+                "c) NS-Raubkunst betrifft nur private Sammlungen; koloniales Kulturgut nur öffentliche Museen."
+              ],
+              "correctAnswer": "a",
+              "explanation": "Der Vortragende erklärt, dass NS-Raubkunst durch die Washingtoner Prinzipien und nationale Gesetze besser abgesichert ist, während koloniales Kulturgut keinem vergleichbaren Rechtsrahmen unterliegt."
+            },
+            {
+              "id": "C1_m07_HV3_q4",
+              "type": "mcq",
+              "questionText": "Welche Rolle spricht der Vortragende dem 'Kulturgutrückgabegesetz' zu, das in Deutschland diskutiert wird?",
+              "options": [
+                "a) Es würde Restitution automatisieren und menschliche Ermessensentscheidungen ersetzen.",
+                "b) Es könnte eine gesetzliche Pflicht zur Provenienzforschung und klare Kriterien für Rückgabeentscheidungen schaffen.",
+                "c) Es würde ausschließlich für Bundesmuseen, nicht für Landesmuseen gelten."
+              ],
+              "correctAnswer": "b",
+              "explanation": "Der Vortragende beschreibt ein mögliches Gesetz, das Provenienzforschungspflicht und Entscheidungskriterien für Rückgaben kodifizieren würde — kein automatisiertes Verfahren, kein ausschließlicher Bundesbezug."
+            },
+            {
+              "id": "C1_m07_HV3_q5",
+              "type": "mcq",
+              "questionText": "Was erläutert der Vortragende zum Konzept der 'geteilten Autorschaft' (shared custodianship)?",
+              "options": [
+                "a) Herkunftsländer und Museen teilen sich die Eigentumsrechte zu je 50 Prozent.",
+                "b) Physischer Verbleib und kuratorische Kontrolle werden entkoppelt — Objekte können in Europa bleiben, aber Herkunftsgesellschaften entscheiden über ihre Präsentation.",
+                "c) Shared custodianship ersetzt physische Rückgabe vollständig."
+              ],
+              "correctAnswer": "b",
+              "explanation": "Der Vortragende erklärt shared custodianship als Entkopplung von Besitz und kuratorischer Kontrolle. Herkunftsgesellschaften würden kuratorische Entscheidungen treffen, ohne dass das Objekt physisch zurückgehen muss."
+            },
+            {
+              "id": "C1_m07_HV3_q6",
+              "type": "mcq",
+              "questionText": "Welche empirische Beobachtung macht der Vortragende zur öffentlichen Resonanz von Restitutionsausstellungen?",
+              "options": [
+                "a) Ausstellungen, die Restitutionsthemen behandeln, haben in der Regel geringere Besucherzahlen.",
+                "b) Museen, die ihre koloniale Geschichte kritisch zeigen, haben überdurchschnittliche Besucherzahlen verzeichnet.",
+                "c) Das Publikumsinteresse ist regional begrenzt und auf spezialisierte Fachbesucher konzentriert."
+              ],
+              "correctAnswer": "b",
+              "explanation": "Der Vortragende nennt das Rijksmuseum als Beispiel: Die Ausstellung zur Sklaverei war die meistbesuchte in der Geschichte des Hauses. Reflexionsfähigkeit und Resonanz schließen sich nicht aus."
+            },
+            {
+              "id": "C1_m07_HV3_q7",
+              "type": "mcq",
+              "questionText": "Was sagt der Vortragende zum sogenannten 'capacity-building'-Argument gegen Restitution?",
+              "options": [
+                "a) Es ist ein legitimes Hindernis, solange Herkunftsländer keine ausreichende Museumsinfrastruktur haben.",
+                "b) Es ist kein Argument gegen Rückgabe, sondern ein Argument für europäisch finanzierte Infrastrukturhilfen.",
+                "c) Es betrifft nur Herkunftsländer in Subsahara-Afrika, nicht andere Regionen."
+              ],
+              "correctAnswer": "b",
+              "explanation": "Der Vortragende argumentiert, dass fehlende Infrastruktur nicht die Rückgabe verhindern sollte, sondern als Anlass für Kapazitätshilfen der rückgebenden Länder dienen muss."
+            },
+            {
+              "id": "C1_m07_HV3_q8",
+              "type": "mcq",
+              "questionText": "Welche Kritik übt der Vortragende am Begriff 'Raubkunst'?",
+              "options": [
+                "a) Der Begriff ist zu emotional besetzt und sollte durch 'koloniales Kulturgut' ersetzt werden.",
+                "b) Der Begriff ist rechtlich präzise und sollte konsequent verwendet werden.",
+                "c) Der Begriff verkennt, dass viele Objekte nicht geraubt, sondern käuflich erworben wurden."
+              ],
+              "correctAnswer": "a",
+              "explanation": "Der Vortragende weist darauf hin, dass 'Raubkunst' zwar prägnant, aber pauschal ist — er empfiehlt den präziseren Begriff 'Kulturgut kolonialzeitlicher Herkunft', da nicht alle Objekte durch offene Gewalt erworben wurden."
+            },
+            {
+              "id": "C1_m07_HV3_q9",
+              "type": "mcq",
+              "questionText": "Was identifiziert der Vortragende als strukturellen Interessenkonflikt in der Provenienzforschung?",
+              "options": [
+                "a) Forschende werden von Herkunftsländern bezahlt und sind daher parteiisch.",
+                "b) Museen beauftragen und finanzieren Forschung über ihre eigenen Sammlungen — und haben ein institutionelles Interesse am Ergebnis.",
+                "c) Internationale Organisationen beeinflussen Forschungsergebnisse politisch."
+              ],
+              "correctAnswer": "b",
+              "explanation": "Der Vortragende beschreibt, dass Museen Forschung über ihre eigene Sammlungsgeschichte in Auftrag geben und finanzieren — was einen strukturellen Interessenkonflikt schafft, den unabhängige Stellen abmildern können."
+            },
+            {
+              "id": "C1_m07_HV3_q10",
+              "type": "mcq",
+              "questionText": "Was ist die abschließende These des Vortragenden?",
+              "options": [
+                "a) Restitution sollte ausschließlich durch internationale Gerichtsentscheidungen geregelt werden.",
+                "b) Die Restitutionsdebatte ist letztlich eine Frage symbolischer Gerechtigkeit ohne praktischen Effekt.",
+                "c) Nachhaltige Restitution erfordert nicht nur physische Rückgabe, sondern die Bereitschaft zur strukturellen Revision kolonialer Geschichtsnarrative."
+              ],
+              "correctAnswer": "c",
+              "explanation": "Der Vortragende schließt mit der These, dass physische Rückgabe nur der sichtbare Teil eines tieferen Prozesses ist: der Bereitschaft, das koloniale Erbe strukturell und narrativ zu revidieren. Das entspricht c)."
+            }
+          ]
+        }
+      ]
+    },
+    "writing": {
+      "totalTimeMinutes": 70,
+      "tasks": [
+        {
+          "taskNumber": 1,
+          "type": "essay",
+          "instructions": "Wählen Sie eine der beiden Aufgaben (A oder B) und schreiben Sie einen Text von mindestens 350 Wörtern. Sie haben 70 Minuten Zeit. Beachten Sie die vier Leitpunkte.",
+          "instructionsTranslation": "Choose one of the two tasks (A or B) and write a text of at least 350 words. You have 70 minutes. Pay attention to the four guiding points.",
+          "prompt": "Aufgabe A — Erörterung: Sollten europäische Museen verpflichtet sein, koloniale Kulturgüter zurückzugeben?\n\nZwei Stimmen zur Debatte:\n\nStimme 1 (Kuratorin, Nairobi): „Kein Gespräch über Universalkultur kann auf Augenhöhe stattfinden, solange die eine Seite die Objekte besitzt und die andere nur die Erinnerung daran. Rückgabe ist keine Großzügigkeit — sie ist eine Selbstverständlichkeit.\"\n\nStimme 2 (Museumsdirektor, Amsterdam): „Das universelle Museum ist eine der wenigen Institutionen, in der Menschen aller Kulturen Zugang zu Menschheitsgeschichte finden. Wer dieses Konzept für nationale Rückgabelogiken opfert, verliert mehr als er gewinnt.\"\n\nLeitpunkte:\n1. Führen Sie in das Thema ein und erläutern Sie die historische Dimension des Problems.\n2. Diskutieren Sie Argumente für eine gesetzliche Rückgabepflicht.\n3. Diskutieren Sie Argumente gegen eine pauschale Rückgabepflicht oder für Alternativmodelle.\n4. Begründen Sie Ihren eigenen Standpunkt: Welcher Ansatz erscheint Ihnen angemessen und warum?\n\n---\n\nAufgabe B — Stellungnahme: Cancel Culture im Kunstbetrieb — Gefahr für die Kunstfreiheit oder notwendige gesellschaftliche Korrektur?\n\nAusgangsbehauptung (Kulturkritikerin, 2025): „Cancel Culture ist kein Phänomen der Überempfindlichkeit — es ist ein Symptom dafür, dass Kunstinstitutionen es versäumt haben, sich selbst und ihre Sammlungen kritisch zu reflektieren. Der gesellschaftliche Druck ist die überfällige Rechnung.\"\n\nLeitpunkte:\n1. Erläutern Sie das Phänomen Cancel Culture im Kontext des Kunstbetriebs.\n2. Diskutieren Sie, inwiefern gesellschaftlicher Druck auf Kunstinstitutionen legitim sein kann.\n3. Diskutieren Sie Risiken für die Kunstfreiheit und kuratorische Integrität.\n4. Nehmen Sie abschließend Stellung: Wie sollten Kunstinstitutionen mit gesellschaftlichem Druck umgehen?\n\nMindestlänge: 350 Wörter. Empfehlung: 350–400 Wörter.",
+          "promptTranslation": "Task A — Argumentative essay: Should European museums be required to return colonial cultural objects? | Task B — Opinion statement: Cancel culture in the art world — threat to artistic freedom or necessary societal correction?",
+          "requiredPoints": [
+            "Thema einführen und historische Dimension erläutern",
+            "Argumente für eine Position diskutieren",
+            "Argumente für die Gegenposition oder Alternativmodelle diskutieren",
+            "Eigenen Standpunkt begründen"
+          ],
+          "wordCountMin": 350,
+          "wordCountMax": 450,
+          "sampleAnswer": "Aufgabe A — Musterlösung (Erörterung)\n\nDie Debatte um die Rückgabe kolonialer Kulturgüter ist keine ästhetische — sie ist eine über die Bedingungen, unter denen Gemeinschaften über ihr eigenes Erbe verfügen dürfen. Dass europäische Museen Objekte besitzen, die unter den Bedingungen kolonialer Gewalt erworben wurden, ist historisch unbestreitbar. Die Frage, was daraus folgt, trennt die Positionen.\n\nFür eine gesetzliche Rückgabepflicht spricht zunächst das Argument der Quellenlegitimität: Wer die Herkunft eines Objekts nicht belegen kann, hat keinen ethisch vertretbaren Eigentumsanspruch. Eine gesetzliche Pflicht würde Provenienzforschung systematisieren und den Ermessensspielraum einzelner Museumsleitungen reduzieren. Befürworterinnen betonen zudem, dass freiwillige Selbstverpflichtungen — wie die Washingtoner Prinzipien — strukturell unverbindlich seien und die Umsetzung in die Hände jener legten, die ein Interesse am Status quo hätten.\n\nGleichwohl sind die Einwände gewichtig. Kritiker des universellen Museums halten dagegen, dass eine pauschale Rückgabepflicht kuratorische Komplexität ignoriere: Nicht jedes Objekt lasse sich eindeutig einer Nation zuordnen, und die kuratorische Einbettung in globale Vergleichskontexte habe einen eigenständigen Bildungswert. Zudem fehle in manchen Herkunftsländern die institutionelle Infrastruktur, um Objekte konservatorisch zu sichern — ein Argument allerdings, das viele als Vorwand betrachten.\n\nIch vertrete die Position, dass eine gesetzlich verankerte Pflicht zur systematischen Provenienzprüfung unabdingbar ist — gepaart mit einer politisch verbindlichen Rückgabepflicht für eindeutige Fälle. Für komplexere Konstellationen sollten Modelle geteilter kuratorischer Verantwortung entwickelt werden, bei denen Herkunftsgesellschaften aktiv an der Rahmung beteiligt werden. Restitution und Universalität schließen sich nicht aus — aber das Konzept des universellen Museums muss auf Augenhöhe neu verhandelt werden, nicht einseitig von den besitzenden Institutionen definiert.",
+          "sampleAnswerMetadata": "ca. 360 Wörter — demonstriert alle 4 Leitpunkte, CR-15: K1 in indirekter Rede (seien, legten, habe, lasse, fehle) — Konjunktiv I durchgehend für Wiedergabe fremder Positionen, NICHT K2; ≥3 FVG (zur Verfügung stehen, in Frage stellen, in die Hände legen); Konnektoren-Vielfalt (gleichwohl, zudem, allerdings, gepaart mit); C1-Lexik (Quellenlegitimität, kuratorische Einbettung, konservatorisch, Konstellation)",
+          "scoringCriteria": [
+            {
+              "criterion": "Aufgabengerechtheit",
+              "maxPoints": 12,
+              "description": "Alle 4 Leitpunkte vollständig behandelt — Einführung mit historischer Einordnung, beide Seiten der Debatte mit je ≥2 Argumenten, begründeter Standpunkt. Kein Leitpunkt ausgelassen."
+            },
+            {
+              "criterion": "Repertoire",
+              "maxPoints": 12,
+              "description": "C1-Wortschatz: kulturpolitische Lexik (Provenienz, kuratorisch, konservatorisch, Quellenlegitimität), ≥3 Funktionsverbgefüge, Konjunktiv I in indirekter Rede, variiertes Konnektor-Repertoire."
+            },
+            {
+              "criterion": "Korrektheit",
+              "maxPoints": 12,
+              "description": "Morphologische und syntaktische Korrektheit auf C1-Niveau. Konjunktiv I (nicht K2) für indirekte Rede, Genitiv-Präpositionen, Passiv-Ersatzformen und Infinitivkonstruktionen korrekt eingesetzt."
+            },
+            {
+              "criterion": "Kommunikative Gestaltung",
+              "maxPoints": 12,
+              "description": "Klare Textstruktur (Einleitung/Hauptteil/Schluss), kohärente Absatzführung, variierte Konnektoren, durchgängig formal-akademisches Register."
+            }
+          ]
+        }
+      ]
+    },
+    "speaking": {
+      "totalTimeMinutes": 16,
+      "prepTimeMinutes": 0,
+      "parts": [
+        {
+          "partNumber": 1,
+          "instructions": "Teil 1A — Präsentation: Wählen Sie eines der beiden Themen und halten Sie eine Präsentation von ca. 3 Minuten. Nutzen Sie die Stichpunkte als Anregung. Sie haben keine gesonderte Vorbereitungszeit.",
+          "instructionsTranslation": "Part 1A — Presentation: Choose one of the two topics and give a presentation of approximately 3 minutes. Use the bullet points as prompts. You have no additional preparation time.",
+          "type": "presentation",
+          "prompt": "Thema A: Restitution kolonialer Kulturgüter — Moralische Pflicht oder politisches Instrument?\n\nMögliche Aspekte (Sie müssen nicht alle ansprechen):\n• Was unterscheidet 'moralische Pflicht' von 'politischem Instrument' in der Restitutionsdebatte?\n• Welche Argumente sprechen für eine rechtlich bindende Rückgabepflicht?\n• Welche Risiken birgt eine rein politisch motivierte Restitutionspolitik?\n• Welche Bedingungen müssen erfüllt sein, damit Restitution nachhaltig wirkt?\n\n---\n\nThema B: Cancel Culture im Kunstbetrieb — Kuratorische Verantwortung neu definieren?\n\nMögliche Aspekte (Sie müssen nicht alle ansprechen):\n• Wie unterscheidet sich Cancel Culture von legitimer gesellschaftlicher Kritik?\n• Welche Alternativen zum Entfernen von Werken hat eine kuratorische Praxis?\n• Welche Rolle spielen Sponsoren und wirtschaftliche Interessen bei Cancel-Entscheidungen?\n• Wie können Kunstinstitutionen Reflexionsfähigkeit und Kunstfreiheit in Einklang bringen?",
+          "sampleResponse": "[Thema A — Musterpräsentation]\n\nMeine Damen und Herren, die Restitutionsdebatte wird oft als eindeutig moralische Frage dargestellt — und sie ist es, aber nicht nur. Sie ist auch ein hochpolitisches Instrument, und die Verwechslung beider Ebenen führt zu Missverständnissen, die produktive Lösungen blockieren.\n\nDie moralische Dimension ist klar: Objekte, die unter Gewaltanwendung oder eindeutiger Machtasymmetrie erworben wurden, gehören nicht den Institutionen, die sie heute halten. Das ist keine Frage der Großzügigkeit, sondern der Konsequenz historischer Verantwortung. Eine gesetzlich verankerte Provenienzforschungspflicht und eine klare Rückgabeverpflichtung für nachgewiesene Fälle sind in dieser Logik unausweichlich.\n\nGleichwohl muss man das politische Instrumentalisierungsrisiko benennen. Wenn Restitution primär als außenpolitisches Signal eingesetzt wird — als Geste der Verständigung oder als Druckmittel —, verliert sie ihre strukturelle Wirkung. Die eigentlich nötige Institutionsreform, die systematische Provenienzforschung und der Kapazitätsaufbau in Herkunftsländern, werden dann durch symbolische Einzelrückgaben ersetzt, die medienwirksam sind, aber strukturell folgenlos bleiben.\n\nWas braucht es also, damit Restitution nachhaltig wirkt? Erstens einen klaren gesetzlichen Rahmen, der Provenienzforschung nicht fakultativ, sondern obligatorisch macht. Zweitens ausreichende Finanzierung — nicht nur für die Forschung selbst, sondern für den Aufbau musealer Infrastruktur in den Herkunftsländern. Und drittens die Bereitschaft, kuratorische Kontrolle zu teilen: Herkunftsgesellschaften müssen aktiv an der Rahmung beteiligt werden, nicht nur als Empfänger von Rückgaben.\n\nMein Fazit: Restitution ist moralische Pflicht — aber sie braucht politischen Willen, juristische Verbindlichkeit und institutionelle Konsequenz, um über Symbolpolitik hinauszugehen.",
+          "evaluationTips": [
+            "Strukturieren Sie Ihren Vortrag mit Einleitung, Hauptteil (2–3 Argumentationsstränge) und Fazit.",
+            "C1-Erwartung: Keine Auflistung — argumentative Entwicklung mit Kausalität und Wertung.",
+            "Verwenden Sie Konjunktiv I für indirekte Rede (nicht K2): 'Es heißt, die Objekte gehörten…'",
+            "Signalwörter nutzen: 'Zunächst möchte ich…', 'Ein weiterer Aspekt…', 'Mein Fazit…'",
+            "Blickkontakt und natürliche Sprechweise gehören zur Bewertung."
+          ],
+          "keyPhrases": [
+            "Ich möchte zunächst auf … eingehen",
+            "Ein zentraler Aspekt ist …",
+            "Es ließe sich argumentieren, dass …",
+            "Dem ist entgegenzuhalten, dass …",
+            "Meinem Dafürhalten nach …",
+            "Zusammenfassend lässt sich sagen …",
+            "In Anbetracht dieser Überlegungen …",
+            "Dies hat weitreichende Konsequenzen für …"
+          ]
+        },
+        {
+          "partNumber": 2,
+          "instructions": "Teil 1B — Zusammenfassung und Anschlussfrage: Der/die Prüfungspartner/in fasst die Präsentation kurz zusammen und stellt eine Anschlussfrage. Der/die Präsentierende antwortet.",
+          "instructionsTranslation": "Part 1B — Summary and follow-up question: The exam partner briefly summarises the presentation and asks one follow-up question. The presenter responds.",
+          "type": "discussion",
+          "prompt": "Aufgabe für den/die Prüfungspartner/in:\n1. Fassen Sie die Hauptthesen der Präsentation in 2–3 Sätzen zusammen.\n2. Stellen Sie eine Anschlussfrage, die einen neuen Aspekt öffnet oder eine These kritisch hinterfragt.\n\nBeispiele für Anschlussfragen (je nach Präsentationsthema):\n- „Du hast gesagt, Kapazitätsaufbau sei Voraussetzung für nachhaltige Restitution. Aber wäre das nicht eine neue Form des Paternalismus — Europa bestimmt, welche Infrastruktur Herkunftsländer brauchen, bevor sie ihre eigenen Kulturgüter zurückbekommen?\"\n- „Wie würdest du jemandem antworten, der sagt: ‚Cancel Culture ist einfach der Markt, der funktioniert — Institutionen reagieren auf Nachfrage'?\"\n- „Welche konkreten Schritte müssten Museen unternehmen, um strukturellen Rassismus in ihren Sammlungsnarrativen sichtbar zu machen?\"\n\nAufgabe für den/die Präsentierende/n:\nReagieren Sie direkt: korrigieren Sie Missverständnisse, beantworten Sie die Frage mit begründeter Argumentation.",
+          "sampleResponse": "[Musterreaktion auf Anschlussfrage zum Kapazitätsaufbau]\n\nDas ist ein wichtiger Einwand, und ich nehme ihn ernst. Die Gefahr des Paternalismus ist real — wenn Europa entscheidet, welche Standards Herkunftsländer erfüllen müssen, bevor sie ihr eigenes Erbe zurückbekommen, reproduziert es genau die Machtasymmetrie, die Restitution überwinden soll.\n\nAber ich würde differenzieren: Es gibt einen Unterschied zwischen Kapazitätshilfe als Bedingung und Kapazitätshilfe als Angebot. Wenn europäische Institutionen sagen: 'Wir geben zurück, sobald ihr ein Museum nach unseren Standards habt', ist das paternalistisch und eine neue Verzögerungstaktik. Wenn sie sagen: 'Wir geben zurück — und wir bieten gleichzeitig technische und finanzielle Unterstützung an, wenn ihr das wollt', ist das Partnerschaft.\n\nDer entscheidende Unterschied liegt darin, wer die Agenda setzt. Restitution darf nicht konditioniert werden — sie muss selbstbestimmt erfolgen. Kapazitätsaufbau folgt der Rückgabe, nicht als Voraussetzung, sondern als Begleitangebot.",
+          "evaluationTips": [
+            "Aktiv zuhören: Missverständnisse korrigieren, korrekte Punkte bestätigen.",
+            "Direkt antworten — nicht ausweichen.",
+            "C1: Differenziert reagieren, Teilargumente einräumen, bevor Sie widersprechen.",
+            "Turn-taking-Marker: 'Diese Frage trifft…', 'Ich möchte ergänzen, dass…', 'Das stimmt, aber…'"
+          ],
+          "keyPhrases": [
+            "Ich stimme zu, dass … allerdings …",
+            "Das ist ein wichtiger Punkt, den ich ergänzen möchte: …",
+            "Ich würde einer einseitigen Schuldzuweisung widersprechen …",
+            "Das trifft einen wesentlichen Aspekt …",
+            "In diesem Zusammenhang ist zu bedenken, dass …"
+          ]
+        },
+        {
+          "partNumber": 3,
+          "instructions": "Teil 2 — Diskussion: Diskutieren Sie gemeinsam mit Ihrem/Ihrer Prüfungspartner/in die folgende These. Beide müssen aktiv argumentieren und auf die Argumente des Partners eingehen. Ca. 5–6 Minuten.",
+          "instructionsTranslation": "Part 2 — Discussion: Discuss the following thesis together with your exam partner. Both must actively argue and respond to the partner's arguments. Approximately 5–6 minutes.",
+          "type": "discussion",
+          "prompt": "Diskussionsthese:\n\n„Europäische Museen sollten alle Objekte kolonialer Herkunft innerhalb von zehn Jahren zurückgeben — ohne Bedingungen und ohne Ausnahmen.\"\n\nHintergrund: Auf Ihre Diskussionskarten steht eine kurze Einschätzung als Ausgangspunkt:\n\nKarte A: „Zehn Jahre sind genug Zeit, um Verantwortung zu übernehmen. Jede Bedingung ist eine neue Form des Kolonialismus — sie sagt: Ihr bekommt eure Kulturgüter zurück, wenn ihr euch an unsere Bedingungen haltet. Das ist inakzeptabel.\"\n\nKarte B: „Eine Pauschallösung ohne Prüfung des Einzelfalls ist keine Gerechtigkeit — es ist Aktionismus. Was ist mit Objekten, deren Herkunft unklar ist? Was mit Kulturen, die keine staatliche Nachfolge haben? Gerechtigkeit braucht Differenzierung, keine Pauschalregeln.\"\n\nDiskutieren Sie:\n- Welche Objekte sollten unbedingt zurückgegeben werden — und bei welchen ist die Lage komplexer?\n- Welche Rolle sollten internationale Institutionen wie UNESCO spielen?\n- Wie soll mit Fällen umgegangen werden, bei denen Herkunftsstaaten nicht existieren oder sich überschneiden?\n- Ist eine Zehnjahresfrist realistisch und sinnvoll?",
+          "sampleResponse": "[Musterargumentation — Karte B-Position]\n\nIch teile die moralische Grundüberzeugung vollständig: Europäische Museen haben eine Verantwortung, die sie zu lange ignoriert haben. Die Frage ist nicht ob, sondern wie.\n\nEine Pauschallösung mit absolutem Zeitrahmen klingt entschlossen — ist es aber nicht. Nehmen wir das Beispiel von Kulturgütern aus Kulturen, die heute keine staatliche Nachfolge haben oder deren Territorium auf mehrere Staaten aufgeteilt wurde. An wen wird zurückgegeben? Welches Recht entscheidet? Die Zehn-Jahres-Frist erzeugt Druck, aber keine Antwort auf diese Fragen.\n\nIch möchte deiner Position aber eines einräumen: Komplexität darf kein Vorwand für Untätigkeit sein. Museen benutzen 'Komplexität' seit Jahrzehnten als Schutzschild. Es gibt eindeutige Fälle — Benin-Bronzen, Kamerun-Schnitzereien, Maori-Schädel — bei denen die Herkunft und die moralische Pflicht klar sind. Diese müssen unverzüglich und bedingungslos zurückgehen.\n\nWas ich stattdessen vorschlage: Ein zweistufiges Modell. Eindeutige Fälle werden sofort und bedingungslos geregelt. Komplexe Fälle werden durch eine unabhängige internationale Kommission unter UNESCO-Mandat innerhalb des Zehn-Jahres-Rahmens geprüft. Das ist nicht langsamer — es ist gerechter. Und es verhindert, dass gut gemeinte Pauschalregeln neue Ungerechtigkeiten produzieren.",
+          "evaluationTips": [
+            "C1-Diskussion: These → Antithese → Synthese — kein Monolog.",
+            "Auf Argumente des Partners eingehen: 'Das überzeugt mich nicht ganz, weil…'",
+            "Konzessivmarker verwenden: 'Gleichwohl…', 'Dennoch…', 'Allerdings…'",
+            "Turn-Taking: Partner ausreden lassen, aktiv bestätigen ('Ich höre, dass du sagst…').",
+            "Keine Wiederholung der eigenen Position — argumentative Entwicklung."
+          ],
+          "keyPhrases": [
+            "Ich möchte zunächst den Begriff … hinterfragen",
+            "Das überzeugt mich nicht vollständig, weil …",
+            "Ich möchte einem Aspekt deiner Argumentation widersprechen: …",
+            "Gleichwohl ist zu berücksichtigen, dass …",
+            "Darin stimme ich dir zu, allerdings …",
+            "Letztlich würde ich argumentieren, dass …",
+            "Das bringt mich zu einem weiteren Punkt …",
+            "Ich denke, wir sind uns einig, dass … – aber strittig bleibt …"
+          ]
+        }
+      ]
+    }
   }
 }

@@ -1,0 +1,168 @@
+<speak>
+  <!-- C1 Mock 07 — Teil 1 (8 Kurzaussagen / Speaker-to-Summary matching, playCount=1) -->
+  <!-- Theme: Restitution kolonialer Kulturgüter, Kulturerbe, Cancel Culture -->
+  <!-- Announcer: de-DE-Wavenet-C (female, neutral) -->
+  <!-- 8 speakers — 8 UNIQUE voices (4 female / 4 male) per CR-9 spec -->
+  <!-- Female: Wavenet-F (Sp1 Asante), Wavenet-A (Sp3 Mbeki), Wavenet-E (Sp5 Tanaka), Neural2-F (Sp7 Adjei) -->
+  <!-- Male:   Wavenet-B (Sp2 Brenner), Wavenet-D (Sp4 Mühlbauer), Neural2-B (Sp6 Kowalski), Neural2-D (Sp8 Nakamura) -->
+  <!-- C1 spec: natural speed 1.0x, played ONCE, no pedagogical slowing -->
+  <!-- 10-second initial pause for candidates to read summary statements a-j -->
+  <!-- 5-second pauses between speakers -->
+
+  <break time="3s"/>
+
+  <voice name="de-DE-Wavenet-C">
+    <prosody rate="1.0">
+      Hörverstehen, Teil 1. Sie hören acht kurze Stellungnahmen verschiedener Personen
+      zum Thema Restitution kolonialer Kulturgüter und Kulturerbe.
+      Lesen Sie zuerst die zehn Zusammenfassungen in Ihrem Testheft.
+      Welche Zusammenfassung passt zu welchem Sprecher?
+      Zwei Zusammenfassungen passen nicht.
+      Sie hören die Texte nur einmal.
+    </prosody>
+    <break time="10s"/>
+  </voice>
+
+  <!-- Sprecher 1: Frau Prof. Dr. Asante, Kunsthistorikerin aus Accra — Antwort: a -->
+  <!-- Voice: de-DE-Wavenet-F (female, unique) -->
+  <voice name="de-DE-Wavenet-C">
+    <prosody rate="1.0">Sprecher 1: Frau Professorin Dr. Asante, Kunsthistorikerin aus Accra.</prosody>
+    <break time="1s"/>
+  </voice>
+  <voice name="de-DE-Wavenet-F">
+    <prosody rate="1.0">
+      Wenn die Herkunft eines Objekts nachgewiesen ist, braucht es keine weiteren Verhandlungen.
+      Die moralische Pflicht zur Rückgabe ist eindeutig — und jede Verzögerung ist eine Entscheidung
+      für den Status quo der Ungleichheit. Ich verstehe, dass Museen um ihren Bestand besorgt sind.
+      Aber das ist kein Argument. Es ist eine Erklärung dafür, warum dieser Status quo so lange
+      angehalten hat. Das muss sich ändern — jetzt, nicht in zehn Jahren.
+    </prosody>
+  </voice>
+  <break time="5s"/>
+
+  <!-- Sprecher 2: Herr Dr. Brenner, Direktor eines Kunstmuseums in Wien — Antwort: b -->
+  <!-- Voice: de-DE-Wavenet-B (male, unique) -->
+  <voice name="de-DE-Wavenet-C">
+    <prosody rate="1.0">Sprecher 2: Herr Dr. Brenner, Direktor eines Kunstmuseums in Wien.</prosody>
+    <break time="1s"/>
+  </voice>
+  <voice name="de-DE-Wavenet-B">
+    <prosody rate="1.0">
+      Museen wie meines sind entstanden aus der Idee, dass Wissen keine Grenzen kennt. Wenn wir
+      anfangen, Sammlungen nach nationaler Herkunft zu sortieren und zurückzugeben, verlieren wir
+      das, was die Idee des universellen Museums ausmacht. Ich spreche nicht gegen Gerechtigkeit —
+      ich spreche für einen Kontext, in dem Kulturgüter der gesamten Menschheit zugänglich sind,
+      nicht nur dem Land, aus dem sie stammen.
+    </prosody>
+  </voice>
+  <break time="5s"/>
+
+  <!-- Sprecher 3: Frau Mbeki, Digitalisierungsexpertin — Antwort: c -->
+  <!-- Voice: de-DE-Wavenet-A (female, unique) -->
+  <voice name="de-DE-Wavenet-C">
+    <prosody rate="1.0">Sprecher 3: Frau Mbeki, Digitalisierungsexpertin.</prosody>
+    <break time="1s"/>
+  </voice>
+  <voice name="de-DE-Wavenet-A">
+    <prosody rate="1.0">
+      Ich begrüße jeden Digitalisierungsschritt — wirklich. Aber ich sage meinen Studierenden
+      immer: Ein 3D-Scan ist kein Kulturgut. Er ist eine Information über ein Kulturgut.
+      Das Original ist mehr als seine Bilddaten — es hat eine physische Präsenz, eine
+      Gemeinschaftsbedeutung, eine rituelle Dimension, die keine Technologie replizieren kann.
+      Digitalisierung ist eine wertvolle Ergänzung. Als Ersatz für Rückgabe ist sie eine Ablenkung.
+    </prosody>
+  </voice>
+  <break time="5s"/>
+
+  <!-- Sprecher 4: Herr Mühlbauer, Leiter einer Provenienzforschungsstelle — Antwort: d -->
+  <!-- Voice: de-DE-Wavenet-D (male, unique) -->
+  <voice name="de-DE-Wavenet-C">
+    <prosody rate="1.0">Sprecher 4: Herr Mühlbauer, Leiter einer Provenienzforschungsstelle.</prosody>
+    <break time="1s"/>
+  </voice>
+  <voice name="de-DE-Wavenet-D">
+    <prosody rate="1.0">
+      Wir haben derzeit fünf Stellen für Provenienzforschung in Deutschland. Fünf. Das ist lächerlich —
+      mit fünf Stellen können wir Hunderttausende von Objekten in Jahrzehnten nicht systematisch
+      erfassen, geschweige denn bewerten. Jeder politische Wille zur Restitution, der nicht mit
+      echter Bundesfinanzierung auf einem anderen Niveau untermauert wird, bleibt ein PR-Projekt.
+      Das sage ich klar und ohne diplomatische Beschönigung.
+    </prosody>
+  </voice>
+  <break time="5s"/>
+
+  <!-- Sprecher 5: Frau Dr. Tanaka, Kultursoziologin — Antwort: e -->
+  <!-- Voice: de-DE-Wavenet-E (female, unique) -->
+  <voice name="de-DE-Wavenet-C">
+    <prosody rate="1.0">Sprecher 5: Frau Dr. Tanaka, Kultursoziologin.</prosody>
+    <break time="1s"/>
+  </voice>
+  <voice name="de-DE-Wavenet-E">
+    <prosody rate="1.0">
+      Cancel Culture in Museen ist nicht das Gegenteil von Kunstfreiheit. Es ist ein Spiegel dafür,
+      dass Institutionen seit Jahrzehnten nicht bereit waren, sich selbst und ihre Sammlungen
+      kritisch zu hinterfragen. Wenn jetzt gesellschaftlicher Druck entsteht, liegt das nicht
+      an der Gesellschaft — das liegt daran, dass die Institutionen zu lange geschwiegen haben.
+      Der Druck ist die überfällige Rechnung. Die Frage ist, ob Museen sie ernsthaft bezahlen
+      oder sich hinter dem Begriff der Kunstfreiheit verstecken.
+    </prosody>
+  </voice>
+  <break time="5s"/>
+
+  <!-- Sprecher 6: Herr Prof. Kowalski, Völkerrechtler — Antwort: f -->
+  <!-- Voice: de-DE-Neural2-B (male, unique — distinct from Wavenet-B used for Sp2) -->
+  <voice name="de-DE-Wavenet-C">
+    <prosody rate="1.0">Sprecher 6: Herr Professor Kowalski, Völkerrechtler.</prosody>
+    <break time="1s"/>
+  </voice>
+  <voice name="de-DE-Neural2-B">
+    <prosody rate="1.0">
+      Ich teile die moralische Forderung vollständig — Objekte, die unter Kolonialgewalt
+      erworben wurden, sollten zurückgegeben werden. Aber im Völkerrecht gilt: Einseitige
+      Entscheidungen schaffen gefährliche Präzedenzfälle. Wenn Museum A heute einseitig
+      zurückgibt, schafft das keinen stabilen rechtlichen Rahmen — es schafft einen Flickenteppich
+      symbolischer Gesten. Bilateral verhandelte Lösungen sind langsamer, ja. Aber sie sind
+      nachhaltiger und schaffen Rechtssicherheit für beide Seiten.
+    </prosody>
+  </voice>
+  <break time="5s"/>
+
+  <!-- Sprecher 7: Frau Adjei, Kuratorin aus Kumasi — Antwort: g -->
+  <!-- Voice: de-DE-Neural2-F (female, unique — distinct from Wavenet-F used for Sp1) -->
+  <voice name="de-DE-Wavenet-C">
+    <prosody rate="1.0">Sprecher 7: Frau Adjei, Kuratorin aus Kumasi.</prosody>
+    <break time="1s"/>
+  </voice>
+  <voice name="de-DE-Neural2-F">
+    <prosody rate="1.0">
+      Was mich wirklich irritiert: Wenn Aktivistinnen berechtigte Fragen zu strukturellem
+      Rassismus in Sammlungsnarrativen stellen, sagen viele Museen sofort: Cancel Culture.
+      Das ist eine rhetorische Schutzstrategie. Man nennt den Kritiker das Problem, damit man
+      sich nicht mit dem Inhalt der Kritik befassen muss. Ich habe das erlebt — direkt und
+      unmittelbar. Es ist keine Verteidigung der Kunstfreiheit. Es ist Selbstschutz einer
+      Institution, die Veränderung fürchtet.
+    </prosody>
+  </voice>
+  <break time="5s"/>
+
+  <!-- Sprecher 8: Herr Dr. Nakamura, Kulturphilosoph — Antwort: j -->
+  <!-- Voice: de-DE-Neural2-D (male, unique — distinct from Wavenet-D used for Sp4) -->
+  <voice name="de-DE-Wavenet-C">
+    <prosody rate="1.0">Sprecher 8: Herr Dr. Nakamura, Kulturphilosoph.</prosody>
+    <break time="1s"/>
+  </voice>
+  <voice name="de-DE-Neural2-D">
+    <prosody rate="1.0">
+      Diese Debatte ist nicht nur eine über Objekte in Museumsvitrinen. Sie ist eine über das
+      Verhältnis zwischen zwei Welten, die noch immer das Erbe der Kolonialisierung mit sich
+      tragen — strukturell, symbolisch, emotional. Restitution könnte der Anfang einer echten
+      Neugestaltung dieser Beziehung sein. Nicht als Entschuldigung, nicht als Schlussakt, sondern
+      als erster Schritt in einem langen Prozess. Ob der Wille dazu vorhanden ist, wird sich zeigen.
+    </prosody>
+  </voice>
+  <break time="3s"/>
+
+  <voice name="de-DE-Wavenet-C">
+    <prosody rate="1.0">Das ist das Ende von Teil 1.</prosody>
+  </voice>
+</speak>
