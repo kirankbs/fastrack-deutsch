@@ -1,0 +1,239 @@
+<speak>
+  <!-- C1 Mock 04 — Teil 2 (Radio-Interview, 10 MCQ-3opt, playCount=1) -->
+  <!-- Theme: Fachkräftemangel und Zuwanderung -->
+  <!-- Moderator: de-DE-Wavenet-B (male, neutral) -->
+  <!-- Interviewee: de-DE-Wavenet-A (female, Dr. Mia Johansson, Arbeitsmarktforscherin) -->
+  <!-- C1 spec: natural speed 1.0x, played ONCE, hedging traps embedded -->
+  <!-- Correct answers: q1=b, q2=b, q3=b, q4=b, q5=b, q6=b, q7=b, q8=b, q9=b, q10=b -->
+
+  <break time="3s"/>
+
+  <voice name="de-DE-Wavenet-B">
+    <prosody rate="1.0">
+      Hörverstehen, Teil 2. Sie hören ein Interview mit Dr. Mia Johansson zum Thema
+      Fachkräftemangel und Zuwanderung. Lesen Sie zuerst die zehn Aufgaben.
+      Was ist richtig? Kreuzen Sie an: a, b oder c.
+      Sie hören das Interview nur einmal.
+    </prosody>
+    <break time="90s"/>
+  </voice>
+
+  <voice name="de-DE-Wavenet-B">
+    <prosody rate="1.0">
+      Willkommen bei Deutschlandfunk Wirtschaft. Ich spreche heute mit Dr. Mia Johansson,
+      Arbeitsmarktforscherin am Institut für Arbeitsmarkt- und Berufsforschung in Nürnberg.
+      Frau Dr. Johansson, Deutschland diskutiert seit Jahren über Fachkräftemangel —
+      was ist aus Ihrer Sicht das eigentliche Kernproblem?
+    </prosody>
+  </voice>
+  <break time="1s"/>
+
+  <voice name="de-DE-Wavenet-A">
+    <prosody rate="1.0">
+      Das Kernproblem ist, glaube ich, ein konzeptionelles: Wir reden über Fachkräftemangel,
+      als wäre das Problem der fehlende Bewerber. Aber in Wahrheit gibt es in vielen Berufsfeldern
+      genug qualifizierte Menschen auf dem globalen Arbeitsmarkt — das Problem ist,
+      dass Deutschland strukturell nicht in der Lage ist, sie zu integrieren.
+      Fehlende Anerkennungsinfrastruktur, mangelnde Sprachkurskapazitäten,
+      ein Wohnungsmarkt, der in vielen Regionen kollabiert — das sind keine Randprobleme,
+      das sind die Haupthindernisse. Solange wir das nicht angehen,
+      werden wir auch mit der besten Anwerbestrategie keine nachhaltige Wirkung erzielen.
+    </prosody>
+  </voice>
+  <break time="2s"/>
+
+  <voice name="de-DE-Wavenet-B">
+    <prosody rate="1.0">
+      Sie sprechen das Anerkennungsverfahren an. Wie bewerten Sie den aktuellen Stand?
+      Es gibt doch seit 2012 das Anerkennungsgesetz.
+    </prosody>
+  </voice>
+  <break time="1s"/>
+
+  <voice name="de-DE-Wavenet-A">
+    <prosody rate="1.0">
+      Das Gesetz war ein Schritt in die richtige Richtung, das zweifle ich nicht an.
+      Aber wenn man sich die Realität anschaut — Bearbeitungszeiten von zwölf, achtzehn,
+      manchmal über vierundzwanzig Monaten, unterschiedliche Zuständigkeiten zwischen Ländern,
+      Kammern, Bundesbehörden — dann ist das für hochqualifizierte Menschen, die zwischen
+      mehreren Ländern abwägen, ein klarer Nachteil Deutschlands gegenüber Kanada oder Australien.
+      Ich spreche regelmäßig mit Ingenieuren und Ärzten, die ihr Anerkennungsverfahren
+      begonnen haben und dann nach den Niederlanden oder nach Kanada gegangen sind,
+      weil es dort schneller geht. Das ist kein Einzelfall — das ist ein systemisches Problem.
+    </prosody>
+  </voice>
+  <break time="2s"/>
+
+  <voice name="de-DE-Wavenet-B">
+    <prosody rate="1.0">
+      Kommen wir zum Thema Wohnraum. Strukturschwache Regionen brauchen Fachkräfte besonders dringend,
+      aber ist der ländliche Raum überhaupt attraktiv für Zuwandernde?
+    </prosody>
+  </voice>
+  <break time="1s"/>
+
+  <voice name="de-DE-Wavenet-A">
+    <prosody rate="1.0">
+      Der ländliche Raum hat durchaus Potenzial — niedrigere Lebenshaltungskosten,
+      manchmal günstigere Mieten als in Großstädten. Aber das reicht nicht.
+      Was fehlt, ist soziale Infrastruktur: internationale Schulen, mehrsprachige Kitas,
+      niedrigschwellige Sprachkursangebote, kulturelle Treffpunkte.
+      Wenn jemand mit Familie aus Indien oder Brasilien nach Sachsen-Anhalt zieht,
+      braucht er mehr als einen Arbeitsplatz — er braucht das Gefühl, ankommen zu können.
+      Ohne diese Infrastruktur ist der ländliche Raum für viele Fachkräfte schlicht keine Option,
+      auch wenn die Stelle attraktiv wäre.
+    </prosody>
+  </voice>
+  <break time="2s"/>
+
+  <voice name="de-DE-Wavenet-B">
+    <prosody rate="1.0">
+      Welche Rolle spielen Deutschkenntnisse bei der Fachkräftezuwanderung?
+      Ist die Sprachhürde ein berechtigtes Integrationserfordernis oder eine unnötige Barriere?
+    </prosody>
+  </voice>
+  <break time="1s"/>
+
+  <voice name="de-DE-Wavenet-A">
+    <prosody rate="1.0">
+      Ich halte Deutschkenntnisse für wichtig — das sage ich klar.
+      Aber die entscheidende Frage ist: Wann im Prozess verlangen wir sie?
+      Wenn wir Deutschkenntnisse als Eintrittsbedingung vor der Einreise setzen,
+      schließen wir viele qualifizierte Menschen aus, die bereit wären, hier zu lernen.
+      Deutsch kann und sollte Teil des Integrationsprozesses sein —
+      finanziert, zugänglich, in ausreichender Kapazität angeboten.
+      Was nicht sinnvoll ist, ist Deutschkenntnisse als Hürde zu nutzen,
+      statt als Ressource, die man gemeinsam aufbaut. Das ist der Unterschied,
+      den ich für entscheidend halte.
+    </prosody>
+  </voice>
+  <break time="2s"/>
+
+  <voice name="de-DE-Wavenet-B">
+    <prosody rate="1.0">
+      Sie haben Kanada und Australien erwähnt. Ist Deutschland im internationalen Vergleich
+      noch wettbewerbsfähig bei der Anwerbung von Fachkräften?
+    </prosody>
+  </voice>
+  <break time="1s"/>
+
+  <voice name="de-DE-Wavenet-A">
+    <prosody rate="1.0">
+      Ehrlich gesagt: Deutschland hat in den letzten Jahren Fortschritte gemacht —
+      das Fachkräfteeinwanderungsgesetz 2020 und seine Novellierung waren wichtige Schritte.
+      Aber strukturell haben Kanada und Australien mit ihren punktebasierten Systemen
+      einen Vorteil, den Deutschland noch nicht aufgeholt hat.
+      Diese Systeme sind transparent, schnell und planbar — für Bewerber und für Unternehmen.
+      Deutschland arbeitet an vergleichbaren Instrumenten, etwa der Chancenkarte,
+      aber wir sind noch im Aufbau. Der Wettbewerb um internationale Talente ist real,
+      und Deutschland befindet sich darin in einer Aufholposition, nicht an der Spitze.
+    </prosody>
+  </voice>
+  <break time="2s"/>
+
+  <voice name="de-DE-Wavenet-B">
+    <prosody rate="1.0">
+      Das Schlagwort 'Willkommenskultur' geistert durch viele Debatten.
+      Was verstehen Sie darunter — und ist es mehr als ein Marketingbegriff?
+    </prosody>
+  </voice>
+  <break time="1s"/>
+
+  <voice name="de-DE-Wavenet-A">
+    <prosody rate="1.0">
+      Willkommenskultur als reine PR-Kampagne — das reicht nicht, das ist meine klare Haltung.
+      Was ich meine, ist etwas Strukturelleres: eine tief verankerte Haltung in Unternehmen,
+      in Behörden, in Schulen, in der Nachbarschaft, die Zuwanderung als normal und wertvoll betrachtet.
+      Das lässt sich nicht durch Schilder auf Rathäusern oder Imagekampagnen erzeugen —
+      das entsteht durch konkrete Erfahrungen. Wenn eine zugewanderte Person in einer Behörde
+      hilfreiche, mehrsprachige Unterstützung bekommt, wenn das Kind in der Kita problemlos
+      aufgenommen wird, wenn der Kollege aus der Ukraine oder aus Nigeria als Fachmann behandelt wird —
+      das ist Willkommenskultur. Alles andere ist Fassade.
+    </prosody>
+  </voice>
+  <break time="2s"/>
+
+  <voice name="de-DE-Wavenet-B">
+    <prosody rate="1.0">
+      Inländische Weiterbildung wird oft als Alternative zu Zuwanderung diskutiert.
+      Wie sehen Sie das Verhältnis der beiden Strategien?
+    </prosody>
+  </voice>
+  <break time="1s"/>
+
+  <voice name="de-DE-Wavenet-A">
+    <prosody rate="1.0">
+      Als Alternative schließen sie sich aus — aber als komplementäre Strategien
+      sind sie untrennbar miteinander verbunden. Es wäre kurzsichtig, zu glauben,
+      dass inländische Weiterbildung den Fachkräftemangel alleine lösen kann —
+      die demografische Entwicklung spricht dagegen.
+      Genauso kurzsichtig wäre es, ausschließlich auf Zuwanderung zu setzen
+      und dabei die vorhandenen inländischen Potenziale zu vernachlässigen:
+      Frauen in technischen Berufen, ältere Arbeitnehmer, Langzeitarbeitslose
+      mit Qualifikationslücken. Beide Strategien müssen parallel und integriert gedacht werden.
+      Das ist keine politische Aussage, das ist Arbeitsmarktlogik.
+    </prosody>
+  </voice>
+  <break time="2s"/>
+
+  <voice name="de-DE-Wavenet-B">
+    <prosody rate="1.0">
+      Welche Rolle spielen die Kommunen bei der Fachkräfteintegration —
+      und wie gut sind sie dafür aufgestellt?
+    </prosody>
+  </voice>
+  <break time="1s"/>
+
+  <voice name="de-DE-Wavenet-A">
+    <prosody rate="1.0">
+      Kommunen sind für mich der entscheidende Akteur — weil Integration vor Ort stattfindet,
+      nicht in Berlin oder Brüssel. Und gleichzeitig sind sie strukturell unterfinanziert
+      für diese Aufgabe. Die Bundesgesetzgebung schafft Rahmenbedingungen,
+      aber die praktische Umsetzung — Sprachkurse, Wohnraumvermittlung, Behördenbegleitung —
+      landet bei den Kommunen, ohne dass die entsprechenden Mittel fließen.
+      Das ist ein klassisches Föderalismusdilemma:
+      Zuständigkeit und Finanzierung fallen auseinander.
+      Ohne eine strukturelle Stärkung der kommunalen Integrationskapazitäten
+      werden die besten Zuwanderungsgesetze auf halbem Weg stecken bleiben.
+    </prosody>
+  </voice>
+  <break time="2s"/>
+
+  <voice name="de-DE-Wavenet-B">
+    <prosody rate="1.0">
+      Was ist Ihre dringlichste Empfehlung — wenn Sie eine Maßnahme nennen müssten,
+      die sofort wirken würde?
+    </prosody>
+  </voice>
+  <break time="1s"/>
+
+  <voice name="de-DE-Wavenet-A">
+    <prosody rate="1.0">
+      Die Beschleunigung und Vereinfachung der Anerkennungsverfahren —
+      das ist die Maßnahme mit dem höchsten unmittelbaren Wirkungspotenzial.
+      Nicht weil alles andere unwichtig wäre, sondern weil hier sehr viele qualifizierte Menschen
+      bereits in der Pipeline sind: Sie wollen kommen, sie haben Qualifikationen,
+      sie sind motiviert. Und sie warten auf eine Entscheidung, die in anderen Ländern
+      in drei Monaten fällt und in Deutschland in zwanzig Monaten.
+      Diesen Bottleneck zu beseitigen, würde sofort wirken —
+      und wäre ein Signal, das auch international wahrgenommen wird.
+    </prosody>
+  </voice>
+  <break time="2s"/>
+
+  <voice name="de-DE-Wavenet-B">
+    <prosody rate="1.0">
+      Frau Dr. Johansson, vielen Dank für dieses Gespräch.
+      Die Kernthesen noch einmal zusammengefasst: Strukturelle Integrationsinfrastruktur
+      vor Anwerbekampagnen, Anerkennungsverfahren beschleunigen als unmittelbarer erster Schritt,
+      und inländische Weiterbildung sowie Zuwanderung als komplementäre — nicht konkurrierende —
+      Strategien denken. Weitere Informationen finden Sie auf der Website des IAB.
+      Das war Deutschlandfunk Wirtschaft.
+    </prosody>
+  </voice>
+  <break time="3s"/>
+
+  <voice name="de-DE-Wavenet-B">
+    <prosody rate="1.0">Das ist das Ende von Teil 2.</prosody>
+  </voice>
+</speak>
