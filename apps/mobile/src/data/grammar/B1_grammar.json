@@ -1350,5 +1350,72 @@
       }
     ],
     "orderIndex": 23
+  },
+  {
+    "id": 24,
+    "level": "B1",
+    "topic": "Imperativ — du/ihr/Sie + irregular stems + trennbare Verben",
+    "explanation": "Der Imperativ fordert jemanden auf. Drei Formen: du-Form: Verbstamm (± e) ohne Pronomen — Komm! Lern! Bei e→i-Wechselverben gilt die starke Form: gib (geben), nimm (nehmen), iss (essen), sieh (sehen), lies (lesen), sprich (sprechen). ihr-Form: Verbstamm + t, kein Pronomen — Kommt! Gebt! Sie-Form: Infinitiv + Sie — Kommen Sie! Geben Sie! Trennbare Verben: Präfix ans Ende — Steh auf! Hör auf! Mach das Fenster zu! Sein ist unregelmäßig: Sei ruhig! / Seid pünktlich! / Seien Sie bitte leise! Hueber-Falle: du/ihr/Sie-Formen sehen ähnlich aus — Komm/Kommt/Kommen Sie; Vergiss/Vergesst/Vergessen Sie.",
+    "examples": [
+      "Komm bitte sofort her! (du — regelmäßig)",
+      "Gib mir bitte das Salz! (du — e→i: geben → gib)",
+      "Nimm dir noch etwas! (du — e→i: nehmen → nimm)",
+      "Kommt ihr morgen auch? → Kommt um 8 Uhr! (ihr-Form)",
+      "Kommen Sie bitte herein! (Sie-Form)",
+      "Steh bitte auf — der Bus fährt gleich! (trennbar: aufstehen)",
+      "Hör auf damit! (trennbar: aufhören)",
+      "Seien Sie bitte pünktlich. (sein — Sie-Form unregelmäßig)"
+    ],
+    "exercises": [
+      {
+        "type": "fill_blank",
+        "prompt": "___ her! (du, kommen) Der Hund wartet schon.",
+        "correctAnswer": "Komm",
+        "explanation": "du-Imperativ von kommen: Stamm 'komm', kein -st, kein Pronomen. Nicht 'Kommst' (das ist Indikativ Präsens)."
+      },
+      {
+        "type": "fill_blank",
+        "prompt": "___ mir bitte das Buch! (du, geben)",
+        "correctAnswer": "Gib",
+        "explanation": "geben gehört zu den e→i-Wechselverben. du-Imperativ: gib (nicht 'gebe' oder 'gibst'). Starke Form obligatorisch."
+      },
+      {
+        "type": "fill_blank",
+        "prompt": "___ bitte Platz! (Sie, nehmen)",
+        "correctAnswer": "Nehmen Sie",
+        "explanation": "Sie-Imperativ: Infinitiv + Sie. nehmen → Nehmen Sie. Verb steht vor dem Pronomen Sie."
+      },
+      {
+        "type": "mcq",
+        "prompt": "Welche Form ist der korrekte du-Imperativ von 'vergessen'?",
+        "correctAnswer": "Vergiss",
+        "options": [
+          "Vergiss",
+          "Vergessen",
+          "Vergesst",
+          "Vergisst"
+        ],
+        "explanation": "vergessen ist ein e→i-Wechselverb. du-Imperativ: Vergiss! — Vergessen ist der Infinitiv / Sie-Imperativ (Vergessen Sie!), Vergesst ist ihr-Imperativ."
+      },
+      {
+        "type": "mcq",
+        "prompt": "Ihr seid zu laut. Welche Form passt? '___ bitte leise!'",
+        "correctAnswer": "Seid",
+        "options": [
+          "Sei",
+          "Seid",
+          "Seien Sie",
+          "Sind"
+        ],
+        "explanation": "ihr-Imperativ von sein lautet 'Seid'. Sei = du-Form; Seien Sie = Sie-Form; Sind = Indikativ Präsens (kein Imperativ)."
+      },
+      {
+        "type": "fill_blank",
+        "prompt": "___ bitte ___! (du, aufstehen) Es ist schon 8 Uhr.",
+        "correctAnswer": "Steh auf",
+        "explanation": "Trennbares Verb: aufstehen. du-Imperativ: 'Steh' an erster Stelle, abgetrenntes Präfix 'auf' ans Satzende."
+      }
+    ],
+    "orderIndex": 24
   }
 ]
