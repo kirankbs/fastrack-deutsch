@@ -1,0 +1,80 @@
+<speak>
+  <prosody rate="medium" pitch="medium">
+
+    <!-- PART 2 INTRO -->
+    <s>Sie hören ein Interview mit Dr. Jonas Schiemann zum Thema Populismus und demokratische Resilienz.</s>
+    <s>Sie hören das Interview nur einmal.</s>
+    <break time="2s"/>
+
+    <!-- Interview begins -->
+    <voice name="de-DE-KatjaNeural">
+      <s>Willkommen, Dr. Schiemann.</s>
+      <s>Sie haben ein Buch über Populismus und demokratische Institutionen veröffentlicht.</s>
+      <s>Meine erste Frage: Ist Populismus eine Bedrohung für die Demokratie oder ein Zeichen, dass sie funktioniert?</s>
+    </voice>
+    <break time="1s"/>
+
+    <voice name="de-DE-ConradNeural">
+      <s>Das ist die zentrale Frage, und die Antwort ist: beides.</s>
+      <s>Populismus zeigt, dass Menschen mit der Reaktionsfähigkeit etablierter Institutionen unzufrieden sind — das ist legitimes demokratisches Signal.</s>
+      <s>Gefährlich wird es, wenn populistische Bewegungen an die Macht kommen und beginnen, die Institutionen selbst zu demontieren, die ihnen den Zugang zur Macht ermöglicht haben.</s>
+      <s>Das nennen Politikwissenschaftler demokratischen Rückschritt: kein Putsch, sondern schrittweise Erosion durch gewählte Akteure.</s>
+    </voice>
+    <break time="1s"/>
+
+    <voice name="de-DE-KatjaNeural">
+      <s>Wie unterscheiden Sie demokratischen Populismus von illiberalem?</s>
+    </voice>
+    <break time="500ms"/>
+
+    <voice name="de-DE-ConradNeural">
+      <s>Der Schlüsselunterschied liegt im Verhältnis zu Minderheitenrechten und zur Gewaltenteilung.</s>
+      <s>Demokratischer Populismus kritisiert Eliten, fordert mehr Partizipation, aber akzeptiert die Spielregeln.</s>
+      <s>Illiberaler Populismus behauptet, nur das eigene Volk — im exklusiven Sinne — zu vertreten, und behandelt Institutionen wie Verfassungsgerichte, freie Medien oder Zentralbanken als Feinde, die zu überwinden sind.</s>
+    </voice>
+    <break time="1s"/>
+
+    <voice name="de-DE-KatjaNeural">
+      <s>In Deutschland wird viel über Wahlsystemreformen diskutiert.</s>
+      <s>Ist das Verhältniswahlrecht ein Einfallstor für populistische Parteien?</s>
+    </voice>
+    <break time="500ms"/>
+
+    <voice name="de-DE-ConradNeural">
+      <s>Das ist empirisch nicht belegt.</s>
+      <s>Länder mit Mehrheitswahlrecht wie Großbritannien haben ebenso dramatische populistische Durchbrüche erlebt wie Länder mit Verhältniswahlrecht.</s>
+      <s>Die Ursachen liegen tiefer: in Vertrauensverlusten gegenüber Institutionen, in wirtschaftlicher Unsicherheit, in Identitätskonflikten.</s>
+      <s>Das Wahlsystem ist das Gehäuse — das politische Klima entscheidet, was darin wächst.</s>
+    </voice>
+    <break time="1s"/>
+
+    <voice name="de-DE-KatjaNeural">
+      <s>Wie bewerten Sie die Rolle des Bundesverfassungsgerichts als Hüter der Demokratie?</s>
+    </voice>
+    <break time="500ms"/>
+
+    <voice name="de-DE-ConradNeural">
+      <s>Das Bundesverfassungsgericht ist eine der stärksten demokratischen Sicherungen, die Deutschland hat — und eine der am wenigsten verstandenen.</s>
+      <s>Es hat wiederholt eingegriffen, bevor Gesetze irreparablen Schaden anrichten konnten.</s>
+      <s>Allerdings: Ein Gericht kann nur prüfen, was ihm vorgelegt wird.</s>
+      <s>Wenn demokratiefeindliche Normen von einer ausreichend starken Parlamentsmehrheit verabschiedet werden, stößt auch das Verfassungsgericht an Grenzen.</s>
+      <s>Resiliente Demokratie kann sich nicht auf ein einzelnes Institut verlassen.</s>
+    </voice>
+    <break time="1s"/>
+
+    <voice name="de-DE-KatjaNeural">
+      <s>Was empfehlen Sie konkret zur Stärkung demokratischer Resilienz?</s>
+    </voice>
+    <break time="500ms"/>
+
+    <voice name="de-DE-ConradNeural">
+      <s>Drei Säulen.</s>
+      <s>Erstens: institutionelle Redundanz — mehrere, voneinander unabhängige Kontrollmechanismen, damit der Ausfall einer Institution nicht das ganze System destabilisiert.</s>
+      <s>Zweitens: politische Bildung, die über Wissen hinausgeht und demokratische Handlungskompetenz vermittelt.</s>
+      <s>Drittens: eine Zivilgesellschaft, die nicht nur protestiert, sondern in politischen Prozessen strukturell verankert ist.</s>
+      <s>Diese drei Elemente greifen ineinander und bilden zusammen ein belastbares Fundament.</s>
+    </voice>
+    <break time="3s"/>
+
+  </prosody>
+</speak>

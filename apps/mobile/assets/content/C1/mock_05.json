@@ -1,13 +1,1735 @@
 {
   "id": "C1_mock_05",
   "level": "C1",
-  "title": "Übungstest 5",
-  "version": 0,
-  "_stub": true,
+  "title": "C1 Übungstest 5: Politik und Demokratie",
+  "version": 1,
   "sections": {
-    "listening": { "totalTimeMinutes": 20, "parts": [] },
-    "reading": { "totalTimeMinutes": 25, "parts": [] },
-    "writing": { "totalTimeMinutes": 20, "tasks": [] },
-    "speaking": { "totalTimeMinutes": 15, "prepTimeMinutes": 0, "parts": [] }
+    "reading": {
+      "totalTimeMinutes": 90,
+      "parts": [
+        {
+          "partNumber": 1,
+          "instructions": "Lesen Sie den folgenden Text. Sechs Sätze wurden herausgenommen. Wählen Sie aus den acht angebotenen Sätzen (a–h) den jeweils passenden. Zwei Sätze passen nicht. Schreiben Sie den Buchstaben des richtigen Satzes in die entsprechende Lücke.",
+          "instructionsTranslation": "Read the following text. Six sentences have been removed. Choose the appropriate sentence from the eight offered (a–h) for each gap. Two sentences do not fit. Write the letter of the correct sentence in the corresponding gap.",
+          "texts": [
+            {
+              "id": "C1_m05_R1_main",
+              "type": "article",
+              "content": "Populismus im Wandel: Strategie oder Symptom?\n\nDie Karriere des Begriffs 'Populismus' in der politischen Wissenschaft ist so turbulent wie das Phänomen selbst. [1] Lange galt er als Sammelbezeichnung für heterogene Bewegungen ohne klares Profil – von latinamerikanischen Caudillos über europäische Bauernparteien bis hin zu digitalen Mobilisierungsbewegungen. Erst in den vergangenen beiden Jahrzehnten hat sich in der Forschung ein gewisser Konsens herausgeschält: Populismus ist eine dünne Ideologie, die Gesellschaft in ein reines Volk und eine korrupte Elite aufteilt und politische Legitimität ausschließlich im Volkswillen verankert.\n\nDiese Definition, maßgeblich von Cas Mudde geprägt, hat den analytischen Vorzug der Präzision: Sie erlaubt es, populistische Elemente auch dort zu identifizieren, wo sie mit anderen Ideologien kombiniert auftreten. [2] Populismus kann nämlich linker wie rechter Couleur sein – er verbindet sich mit Nationalismus ebenso wie mit Sozialismus. Was beide Varianten trennt, ist nicht das Bild vom korrupten Establishment, das stets geteilt wird, sondern die Frage, wer als ‚das Volk' gilt.\n\nSchwieriger zu beantworten ist die Frage nach den strukturellen Ursachen. Eine bemerkenswerte Übereinstimmung findet sich zwischen ökonomischen Erklärungen, die in Ungleichheit, Deindustrialisierung und prekären Arbeitsverhältnissen die Treiber sehen, und kulturellen Ansätzen, die auf den Status-Verlust traditioneller Milieus verweisen. [3] Beide Erklärungen schließen sich nicht aus – vielmehr verstärken sie sich gegenseitig in einem Prozess, den Politikwissenschaftlerinnen als ‚doppelte Verwundbarkeit' bezeichnen: materielle Unsicherheit und kulturelle Abwertung gleichzeitig.\n\nDie Reaktion liberaler Demokratien auf den Populismus-Aufstieg war bislang unsicher. Einige Regierungen versuchten, populistische Agenden partiell zu übernehmen, um Wählerinnen und Wähler zurückzugewinnen. [4] Andere setzten auf institutionelle Gegengewichte: stärkere Verfassungsgerichtsentscheidungen, Wahlrechtsreformen und die Stärkung zivilgesellschaftlicher Kontrollorgane. Beide Strategien haben Erfolge und Misserfolge vorzuweisen – ohne dass sich eine klare Überlegenheit abzeichnen würde.\n\nEin zunehmend diskutierter Aspekt ist die Rolle digitaler Kommunikationsplattformen. Populistische Akteure haben früher als andere erkannt, dass soziale Medien eine Direktverbindung zur Wählerschaft herstellen, die klassische Mediengatekeeping-Strukturen umgeht. [5] Dies hat die Informationsökologie fundamental verändert: Emotionale Mobilisierung ersetzt rationale Deliberation nicht – aber sie gewinnt gegenüber ihr strukturellen Vorteil in algorithmisch kuratierten Feeds. Was als Demokratisierung der politischen Kommunikation begann, zeigt nun seine ambivalente Seite.\n\nPrognosen über die Zukunft des Populismus bleiben spekulativ. Einige Forschende sehen in der zunehmenden Professionalisierung populistischer Parteien – wenn sie erst einmal Regierungsverantwortung übernehmen – eine strukturelle Selbstzähmung: [6] Wer regiert, muss Kompromisse eingehen und verliert das Privilege des puren Protestprofils. Andere verweisen auf Ungarn und Polen als Gegenbeispiele, wo Professionalisierung nicht zur Mäßigung, sondern zur institutionellen Konsolidierung antidemokratischer Strukturen geführt hat.",
+              "source": "Aus Politik und Zeitgeschichte, Bundeszentrale für politische Bildung, Ausgabe 11/2025"
+            },
+            {
+              "id": "C1_m05_R1_sent_a",
+              "type": "notice",
+              "content": "a) Diese Ambivalenz zeigt sich besonders in Populismus-affinen Regierungen, die öffentliche Träger sukzessive unter Kontrolle bringen, ohne formal gegen Pressefreiheit zu verstoßen."
+            },
+            {
+              "id": "C1_m05_R1_sent_b",
+              "type": "notice",
+              "content": "b) Darin liegt eine konzeptuelle Stärke: Die Kombination mit anderen Ideologien ermöglicht es Populismus, politisch wandlungsfähig zu sein."
+            },
+            {
+              "id": "C1_m05_R1_sent_c",
+              "type": "notice",
+              "content": "c) Angesichts dieser Doppeldeutigkeit wäre es voreilig, populistische Bewegungen entweder pauschal zu verurteilen oder zu romantisieren."
+            },
+            {
+              "id": "C1_m05_R1_sent_d",
+              "type": "notice",
+              "content": "d) Im akademischen Diskurs war der Begriff lange so weit gefasst, dass er analytisch kaum greifbar war."
+            },
+            {
+              "id": "C1_m05_R1_sent_e",
+              "type": "notice",
+              "content": "e) Diese Übernahme-Strategie barg allerdings das Risiko, die eigene programmatische Glaubwürdigkeit zu untergraben."
+            },
+            {
+              "id": "C1_m05_R1_sent_f",
+              "type": "notice",
+              "content": "f) In der Konsequenz entwickeln erfolgreiche Rechtspopulisten zunehmend Fähigkeiten im institutionellen Design, die über reinen Protest hinausgehen."
+            },
+            {
+              "id": "C1_m05_R1_sent_g",
+              "type": "notice",
+              "content": "g) Tatsächlich belegen zahlreiche Studien, dass wirtschaftlich abgehängte Regionen und jene mit rasantem Beschäftigungsstrukturwandel überproportional populistisch wählen."
+            },
+            {
+              "id": "C1_m05_R1_sent_h",
+              "type": "notice",
+              "content": "h) Damit verschieben sich demokratische Deliberation und Konsensfindung in Räume, die öffentlicher Rechenschaft kaum unterliegen."
+            }
+          ],
+          "questions": [
+            {
+              "id": "C1_m05_R1_q1",
+              "type": "matching",
+              "questionText": "Lücke 1 im Text: '…Sammelbezeichnung für heterogene Bewegungen ohne klares Profil. [1] Erst in den vergangenen beiden Jahrzehnten…'",
+              "matchingSources": [
+                {
+                  "id": "C1_m05_R1_sent_a",
+                  "label": "a"
+                },
+                {
+                  "id": "C1_m05_R1_sent_b",
+                  "label": "b"
+                },
+                {
+                  "id": "C1_m05_R1_sent_c",
+                  "label": "c"
+                },
+                {
+                  "id": "C1_m05_R1_sent_d",
+                  "label": "d"
+                },
+                {
+                  "id": "C1_m05_R1_sent_e",
+                  "label": "e"
+                },
+                {
+                  "id": "C1_m05_R1_sent_f",
+                  "label": "f"
+                },
+                {
+                  "id": "C1_m05_R1_sent_g",
+                  "label": "g"
+                },
+                {
+                  "id": "C1_m05_R1_sent_h",
+                  "label": "h"
+                }
+              ],
+              "correctAnswer": "d",
+              "explanation": "Lücke 1 folgt auf die Aussage, dass 'Populismus' als Sammelbegriff ohne klares Profil galt. Satz d) erklärt genau diesen Zustand: der Begriff war 'so weit gefasst, dass er analytisch kaum greifbar war'. Das Adverb 'lange' bildet eine semantische Brücke zum Vorsatz. Satz c) käme thematisch in Frage, setzt aber bereits eine Diskussion über Ambivalenz voraus, die an Lücke 1 noch nicht etabliert ist."
+            },
+            {
+              "id": "C1_m05_R1_q2",
+              "type": "matching",
+              "questionText": "Lücke 2 im Text: '…den analytischen Vorzug der Präzision. [2] Populismus kann nämlich linker wie rechter…'",
+              "matchingSources": [
+                {
+                  "id": "C1_m05_R1_sent_a",
+                  "label": "a"
+                },
+                {
+                  "id": "C1_m05_R1_sent_b",
+                  "label": "b"
+                },
+                {
+                  "id": "C1_m05_R1_sent_c",
+                  "label": "c"
+                },
+                {
+                  "id": "C1_m05_R1_sent_d",
+                  "label": "d"
+                },
+                {
+                  "id": "C1_m05_R1_sent_e",
+                  "label": "e"
+                },
+                {
+                  "id": "C1_m05_R1_sent_f",
+                  "label": "f"
+                },
+                {
+                  "id": "C1_m05_R1_sent_g",
+                  "label": "g"
+                },
+                {
+                  "id": "C1_m05_R1_sent_h",
+                  "label": "h"
+                }
+              ],
+              "correctAnswer": "b",
+              "explanation": "Lücke 2 steht nach der Aussage, dass Muddes Definition 'den analytischen Vorzug der Präzision' hat. Satz b) entwickelt diesen Vorzug weiter: Die Kombinierbarkeit mit anderen Ideologien sei eine 'konzeptuelle Stärke'. Das Pronomen 'Darin' verweist anaphorisch auf die im Vorsatz beschriebene Definition. Satz a) käme strukturell in Frage, setzt aber 'Populismus-affine Regierungen' voraus, die erst später eingeführt werden."
+            },
+            {
+              "id": "C1_m05_R1_q3",
+              "type": "matching",
+              "questionText": "Lücke 3 im Text: '…‚doppelte Verwundbarkeit' bezeichnet. [3] Beide Erklärungen schließen sich nicht aus…'",
+              "matchingSources": [
+                {
+                  "id": "C1_m05_R1_sent_a",
+                  "label": "a"
+                },
+                {
+                  "id": "C1_m05_R1_sent_b",
+                  "label": "b"
+                },
+                {
+                  "id": "C1_m05_R1_sent_c",
+                  "label": "c"
+                },
+                {
+                  "id": "C1_m05_R1_sent_d",
+                  "label": "d"
+                },
+                {
+                  "id": "C1_m05_R1_sent_e",
+                  "label": "e"
+                },
+                {
+                  "id": "C1_m05_R1_sent_f",
+                  "label": "f"
+                },
+                {
+                  "id": "C1_m05_R1_sent_g",
+                  "label": "g"
+                },
+                {
+                  "id": "C1_m05_R1_sent_h",
+                  "label": "h"
+                }
+              ],
+              "correctAnswer": "g",
+              "explanation": "Lücke 3 steht zwischen der Darstellung ökonomischer und kultureller Erklärungsansätze. Satz g) liefert empirische Belege für die ökonomische Erklärung: 'wirtschaftlich abgehängte Regionen wählen überproportional populistisch'. Die Einleitung 'Tatsächlich belegen zahlreiche Studien' schließt als Beweisführung an den Vorsatz an. Satz c) würde die Diskussion vorzeitig schließen, was der Fortführung im Folgesatz widerspricht."
+            },
+            {
+              "id": "C1_m05_R1_q4",
+              "type": "matching",
+              "questionText": "Lücke 4 im Text: '…populistische Agenden partiell zu übernehmen. [4] Andere setzten auf institutionelle…'",
+              "matchingSources": [
+                {
+                  "id": "C1_m05_R1_sent_a",
+                  "label": "a"
+                },
+                {
+                  "id": "C1_m05_R1_sent_b",
+                  "label": "b"
+                },
+                {
+                  "id": "C1_m05_R1_sent_c",
+                  "label": "c"
+                },
+                {
+                  "id": "C1_m05_R1_sent_d",
+                  "label": "d"
+                },
+                {
+                  "id": "C1_m05_R1_sent_e",
+                  "label": "e"
+                },
+                {
+                  "id": "C1_m05_R1_sent_f",
+                  "label": "f"
+                },
+                {
+                  "id": "C1_m05_R1_sent_g",
+                  "label": "g"
+                },
+                {
+                  "id": "C1_m05_R1_sent_h",
+                  "label": "h"
+                }
+              ],
+              "correctAnswer": "e",
+              "explanation": "Lücke 4 folgt auf die Strategie, populistische Agenden partiell zu übernehmen. Satz e) benennt das Risiko dieser Strategie: 'die eigene programmatische Glaubwürdigkeit zu untergraben'. 'Diese Übernahme-Strategie' verweist anaphorisch direkt auf den Vorsatz. Satz f) wäre thematisch nah, beschreibt aber Fähigkeitenentwicklung von Populisten, nicht das Risiko für Regierungen, die sie imitieren."
+            },
+            {
+              "id": "C1_m05_R1_q5",
+              "type": "matching",
+              "questionText": "Lücke 5 im Text: '…klassische Mediengatekeeping-Strukturen umgeht. [5] Dies hat die Informationsökologie…'",
+              "matchingSources": [
+                {
+                  "id": "C1_m05_R1_sent_a",
+                  "label": "a"
+                },
+                {
+                  "id": "C1_m05_R1_sent_b",
+                  "label": "b"
+                },
+                {
+                  "id": "C1_m05_R1_sent_c",
+                  "label": "c"
+                },
+                {
+                  "id": "C1_m05_R1_sent_d",
+                  "label": "d"
+                },
+                {
+                  "id": "C1_m05_R1_sent_e",
+                  "label": "e"
+                },
+                {
+                  "id": "C1_m05_R1_sent_f",
+                  "label": "f"
+                },
+                {
+                  "id": "C1_m05_R1_sent_g",
+                  "label": "g"
+                },
+                {
+                  "id": "C1_m05_R1_sent_h",
+                  "label": "h"
+                }
+              ],
+              "correctAnswer": "h",
+              "explanation": "Lücke 5 folgt auf die Aussage, dass soziale Medien klassische Mediengatekeeping-Strukturen umgehen. Satz h) zieht die Konsequenz: demokratische Deliberation verlagert sich in Räume 'ohne öffentliche Rechenschaft'. 'Damit' verweist kausativ auf den Vorsatz. Satz a) wäre thematisch verwandt (Medienkontrolle), bezieht sich aber auf staatliche Kontrolle von Trägern, nicht auf algorithmische Filterung."
+            },
+            {
+              "id": "C1_m05_R1_q6",
+              "type": "matching",
+              "questionText": "Lücke 6 im Text: '…verliert das Privilege des puren Protestprofils. [6] Andere verweisen auf Ungarn…'",
+              "matchingSources": [
+                {
+                  "id": "C1_m05_R1_sent_a",
+                  "label": "a"
+                },
+                {
+                  "id": "C1_m05_R1_sent_b",
+                  "label": "b"
+                },
+                {
+                  "id": "C1_m05_R1_sent_c",
+                  "label": "c"
+                },
+                {
+                  "id": "C1_m05_R1_sent_d",
+                  "label": "d"
+                },
+                {
+                  "id": "C1_m05_R1_sent_e",
+                  "label": "e"
+                },
+                {
+                  "id": "C1_m05_R1_sent_f",
+                  "label": "f"
+                },
+                {
+                  "id": "C1_m05_R1_sent_g",
+                  "label": "g"
+                },
+                {
+                  "id": "C1_m05_R1_sent_h",
+                  "label": "h"
+                }
+              ],
+              "correctAnswer": "f",
+              "explanation": "Lücke 6 folgt auf die Selbstzähmungsthese durch Regierungsverantwortung. Satz f) benennt das Gegenteil der Selbstzähmung als Kompetenzentwicklung: 'Fähigkeiten im institutionellen Design, die über reinen Protest hinausgehen'. Dies ist das notwendige Bindeglied zu den im Folgesatz genannten Gegenbeispielen Ungarn und Polen, wo diese Fähigkeiten nicht zur Mäßigung führten."
+            }
+          ]
+        },
+        {
+          "partNumber": 2,
+          "instructions": "Lesen Sie die fünf Absätze (a–e) zum Thema Demokratie und politische Institutionen. Lesen Sie dann die sechs Fragen. Welcher Absatz enthält die Antwort auf jede Frage? Schreiben Sie den Buchstaben des richtigen Absatzes. Ein Absatz kann für mehrere Fragen passen. Wenn kein Absatz passt, schreiben Sie 'x'.",
+          "instructionsTranslation": "Read the five paragraphs (a–e) on the topic of democracy and political institutions. Then read the six questions. Which paragraph contains the answer to each question? Write the letter of the correct paragraph. One paragraph may match multiple questions. If no paragraph fits, write 'x'.",
+          "texts": [
+            {
+              "id": "C1_m05_R2_para_a",
+              "type": "article",
+              "content": "a) Die Debatte um Wahlrechtsreformen in Deutschland dreht sich derzeit vorrangig um die Verkleinerung des Bundestages. Durch Überhang- und Ausgleichsmandate ist das Parlament in den vergangenen Wahlperioden auf über 700 Mitglieder angewachsen. Reformvorschläge reichen von der strikten Begrenzung auf 630 Sitze über die Abschaffung von Überhangmandaten bis hin zur Einführung regionaler Wahlkreise ohne Direktmandat-Garantie. Kritiker aus kleineren Parteien warnen, dass solche Reformen die Repräsentation von Wählergruppen in strukturschwachen Regionen gefährden."
+            },
+            {
+              "id": "C1_m05_R2_para_b",
+              "type": "article",
+              "content": "b) In mehreren europäischen Ländern wurde in den vergangenen Jahren Verhältniswahlrecht durch gemischte oder direkte Systeme ergänzt, um die Bindung zwischen Abgeordneten und Wahlkreisen zu stärken. Befürworter argumentieren, dass direkte Mandate die lokale Verantwortlichkeit von Abgeordneten erhöhen und die Distanz zwischen Wählerinnen und Gewählten verringern. Skeptiker halten dagegen, dass gemischte Systeme die gleichen Verzerrungseffekte wie reine Mehrheitswahlrechte erzeugen, wenn die Ausgleichsregeln nicht sorgfältig kalibriert werden."
+            },
+            {
+              "id": "C1_m05_R2_para_c",
+              "type": "article",
+              "content": "c) Die Diskussion um Parteienfinanzierung ist in Deutschland nach mehreren Spendenaffären neu entflammt. Aktuelle Transparenzregeln schreiben ab einem bestimmten Schwellenbetrag die öffentliche Bekanntgabe von Großspenden vor. Kritiker halten diese Schwelle für zu hoch: Durch geschicktes Aufteilen von Spenden auf mehrere Kanäle können Parteien größere Beträge verschleiern. Zudem fehlt eine umfassende Regelung für Sachleistungen und Veranstaltungsfinanzierungen, die keiner entsprechenden Offenlegungspflicht unterliegen."
+            },
+            {
+              "id": "C1_m05_R2_para_d",
+              "type": "article",
+              "content": "d) Das Bundesverfassungsgericht hat in den vergangenen Jahren durch mehrere wegweisende Urteile in Bereichen wie Klimaschutz, Wahlrecht und Grundrechtssicherung auf sich aufmerksam gemacht. Kritiker aus dem rechtspopulistischen Spektrum werfen dem Gericht vor, es betreibe 'Richterpolitik' und entziehe sich demokratischer Kontrolle. Verfassungsrechtlerinnen und -rechtler weisen solche Kritik zurück: Die Unabhängigkeit der Justiz sei kein Demokratiedefizit, sondern dessen Voraussetzung. Dennoch diskutieren Reformwillige die Einführung von Amtszeiten für Richterinnen und Richter, um institutionelle Erneuerung ohne Politisierung zu gewährleisten."
+            },
+            {
+              "id": "C1_m05_R2_para_e",
+              "type": "article",
+              "content": "e) Deliberative Demokratiemodelle — Bürgerräte, Bürgerversammlungen, konsultative Volksbegehren — gewinnen in der politikwissenschaftlichen Debatte an Aufmerksamkeit als Ergänzung zu repräsentativen Strukturen. Befürworter sehen in ihnen ein Mittel, politisch desengagierte Bevölkerungsgruppen zu erreichen und komplexe Abwägungen jenseits des parteipolitischen Mainstreams sichtbar zu machen. Skeptiker warnen vor Repräsentativitätsproblemen bei der Auswahl der Teilnehmenden und bezweifeln, ob die Ergebnisse von Bürgerräten tatsächlich Eingang in verbindliche Gesetzgebung finden."
+            }
+          ],
+          "questions": [
+            {
+              "id": "C1_m05_R2_q1",
+              "type": "mcq",
+              "questionText": "In welchem Absatz wird kritisiert, dass aktuelle Regeln zur Parteienfinanzierung umgangen werden können?",
+              "options": [
+                "a",
+                "b",
+                "c",
+                "d",
+                "e"
+              ],
+              "correctAnswer": "c",
+              "explanation": "Absatz c) erläutert, dass durch Aufteilung auf mehrere Kanäle Großspenden verschleiert werden können und Sachleistungen nicht vollständig offengelegt werden müssen. Diese Kritik an Umgehungsmöglichkeiten findet sich ausschließlich in Absatz c)."
+            },
+            {
+              "id": "C1_m05_R2_q2",
+              "type": "mcq",
+              "questionText": "Welcher Absatz behandelt die Frage, ob neue Demokratieformate politisch desengagierte Gruppen erreichen können?",
+              "options": [
+                "a",
+                "b",
+                "c",
+                "d",
+                "e"
+              ],
+              "correctAnswer": "e",
+              "explanation": "Absatz e) beschreibt deliberative Modelle wie Bürgerräte als potenzielles Mittel, 'politisch desengagierte Bevölkerungsgruppen zu erreichen'. Diese Funktion von Beteiligungsformaten wird ausschließlich in Absatz e) diskutiert."
+            },
+            {
+              "id": "C1_m05_R2_q3",
+              "type": "mcq",
+              "questionText": "In welchem Absatz wird die Unabhängigkeit der Justiz als Voraussetzung, nicht als Defizit der Demokratie, verteidigt?",
+              "options": [
+                "a",
+                "b",
+                "c",
+                "d",
+                "e"
+              ],
+              "correctAnswer": "d",
+              "explanation": "Absatz d) enthält die Aussage von Verfassungsrechtlerinnen und -rechtlern: 'Die Unabhängigkeit der Justiz sei kein Demokratiedefizit, sondern dessen Voraussetzung.' Diese Verteidigungsposition findet sich nur in Absatz d)."
+            },
+            {
+              "id": "C1_m05_R2_q4",
+              "type": "mcq",
+              "questionText": "Welcher Absatz beschreibt das Risiko, dass Wahlrechtsreformen die Repräsentation bestimmter Regionen verschlechtern könnten?",
+              "options": [
+                "a",
+                "b",
+                "c",
+                "d",
+                "e"
+              ],
+              "correctAnswer": "a",
+              "explanation": "Absatz a) beschreibt Kritik an Bundestag-Reformvorschlägen: Sie 'gefährden die Repräsentation von Wählergruppen in strukturschwachen Regionen'. Dieses Repräsentationsrisiko ist Thema von Absatz a)."
+            },
+            {
+              "id": "C1_m05_R2_q5",
+              "type": "mcq",
+              "questionText": "In welchem Absatz wird dargelegt, dass Ausgleichsregelungen entscheidend für die Fairness gemischter Wahlsysteme sind?",
+              "options": [
+                "a",
+                "b",
+                "c",
+                "d",
+                "e"
+              ],
+              "correctAnswer": "b",
+              "explanation": "Absatz b) erklärt, dass gemischte Systeme 'die gleichen Verzerrungseffekte wie reine Mehrheitswahlrechte erzeugen', wenn die 'Ausgleichsregeln nicht sorgfältig kalibriert werden'. Diese Konditionierung findet sich nur in Absatz b)."
+            },
+            {
+              "id": "C1_m05_R2_q6",
+              "type": "mcq",
+              "questionText": "Welcher Absatz diskutiert das Problem der Repräsentativität bei deliberativen Demokratieformaten?",
+              "options": [
+                "a",
+                "b",
+                "c",
+                "d",
+                "e"
+              ],
+              "correctAnswer": "e",
+              "explanation": "Absatz e) benennt als Einwand gegen Bürgerräte 'Repräsentativitätsprobleme bei der Auswahl der Teilnehmenden'. Diese methodologische Kritik an deliberativen Formaten findet sich ausschließlich in Absatz e)."
+            }
+          ]
+        },
+        {
+          "partNumber": 3,
+          "instructions": "Lesen Sie den folgenden Artikel. Entscheiden Sie bei jeder Aussage, ob sie richtig (R), falsch (F) oder nicht im Text (N) ist. Außerdem: Welcher Titel passt am besten zum Text? Wählen Sie a, b oder c.",
+          "instructionsTranslation": "Read the following article. For each statement decide whether it is correct (R), incorrect (F) or not in the text (N). In addition: Which title best fits the text? Choose a, b, or c.",
+          "texts": [
+            {
+              "id": "C1_m05_R3_article",
+              "type": "article",
+              "content": "Föderalismus in der Bewährungsprobe\n\nDer deutsche Föderalismus hat in den vergangenen Jahren eine merkwürdige Rehabilitation erfahren. Lange als Blockierer zentralstaatlicher Effizienz verschrien, rückte er in der COVID-19-Pandemie plötzlich als Resilienzfaktor ins Blickfeld: Während Zentralregierungen in anderen Ländern kollabierenden Gesundheitssystemen ausgeliefert waren, erlaubte die deutsche Kompetenzaufteilung – trotz aller Koordinationsprobleme – regional differenzierte Antworten auf ein heterogenes Pandemiegeschehen. Ob diese Bewährung strukturell belastbar ist oder einer günstigen Konstellation geschuldet, bleibt umstritten.\n\nDas Grundgesetz legt die Gewaltenteilung zwischen Bund und Ländern in einem komplexen System von Kompetenzzuweisungen fest. Grundsätzlich sind die Länder für die Ausführung von Bundesrecht zuständig, während der Bund Rahmengesetze setzt. Ausnahmen von diesem Prinzip sind zahlreich und entstammen historisch verhandelten Kompromissen. So liegt etwa die Kulturhoheit bei den Ländern, während die Bundeskompetenz im Bildungssystem in den vergangenen Jahren durch den Digitalpakt zumindest partiell erweitert wurde. Kritiker bemängeln, dass diese Verflechtung Reformprozesse verlangsamt und klare Verantwortlichkeit verschleiert.\n\nBesonders deutlich zeigt sich diese Ambivalenz im Schulwesen. Sechzehn unterschiedliche Bildungssysteme haben zwar zur Vielfalt pädagogischer Experimente beigetragen, führen aber gleichzeitig zu einer Nicht-Vergleichbarkeit von Schulabschlüssen, die Mobilität erschwert. Die Kultusministerkonferenz koordiniert, kann aber nicht verbindlich entscheiden. Das Ergebnis ist ein System, in dem Bildungsreformen langsam und inkohärent voranschreiten, weil sie sechzehn politische Konsensprozesse durchlaufen müssen – ein Umstand, den internationale Vergleichsstudien als strukturelle Schwäche identifizieren.\n\nAndererseits bietet der Föderalismus genuine Stärken, die im Effizienz-Diskurs oft übersehen werden. Erstens funktioniert er als Laboratorium der Demokratie: Politische Innovationen, die auf Länderebene erfolgreich erprobt werden, können auf Bundesebene übernommen werden – und umgekehrt können schlechte Politiken auf föderaler Ebene eingedämmt werden, ohne nationale Schäden anzurichten. Zweitens dient die zweite Kammer, der Bundesrat, als institutioneller Puffer gegen überschnelle Zentralisierungstendenzen, indem er Länderinteressen systematisch in den Gesetzgebungsprozess einbindet.\n\nDie eigentliche Spannungslinie liegt weniger zwischen Bund und Ländern als zwischen dem Ausmaß der Politikverflechtung und dem Bedürfnis nach demokratischer Rechenschaft. Wenn Beschlüsse in intergouvernementalen Gremien fallen, die weder vollständig dem Bundesrecht noch dem Landesrecht unterliegen, entsteht ein Verantwortungsvakuum: Wer genau hat welche Entscheidung getroffen – und wer ist dafür rechenschaftspflichtig? Diese Frage stellt sich in der Föderalismusdebatte zunehmend mit größerer Dringlichkeit.\n\nReformpotenzial ist vorhanden, aber begrenzt durch das Zustimmungserfordernis. Grundgesetzänderungen erfordern Zweidrittelmehrheiten in Bundestag und Bundesrat. Das macht tiefgreifende Föderalismusreformen politisch aufwendig und erklärt, warum bisherige Reformen – etwa die Föderalismusreform I von 2006 – eher zu einer Entflechtung bestimmter Gemeinschaftsaufgaben als zu einer grundlegenden Neuordnung geführt haben. Der Status quo ist kein Gleichgewicht, sondern das Ergebnis historisch sedimentierter Kompromisse, die einer kontinuierlichen Adaption bedürfen.",
+              "source": "Bundeszentrale für politische Bildung, bpb.de, Dossier Föderalismus, 2025"
+            }
+          ],
+          "questions": [
+            {
+              "id": "C1_m05_R3_q1",
+              "type": "true_false",
+              "questionText": "In der COVID-19-Pandemie bewährte sich laut Text der deutsche Föderalismus, weil er regional differenzierte Reaktionen ermöglichte.",
+              "options": [
+                "richtig",
+                "falsch",
+                "nicht im Text"
+              ],
+              "correctAnswer": "richtig",
+              "explanation": "Der Text beschreibt explizit: 'die deutsche Kompetenzaufteilung erlaubte – trotz aller Koordinationsprobleme – regional differenzierte Antworten auf ein heterogenes Pandemiegeschehen.' Die Aussage ist korrekt."
+            },
+            {
+              "id": "C1_m05_R3_q2",
+              "type": "true_false",
+              "questionText": "Die Kultusministerkonferenz kann verbindliche Entscheidungen über Schulpolitik für alle Bundesländer treffen.",
+              "options": [
+                "richtig",
+                "falsch",
+                "nicht im Text"
+              ],
+              "correctAnswer": "falsch",
+              "explanation": "Der Text sagt explizit: 'Die Kultusministerkonferenz koordiniert, kann aber nicht verbindlich entscheiden.' Die Aussage ist falsch."
+            },
+            {
+              "id": "C1_m05_R3_q3",
+              "type": "true_false",
+              "questionText": "Grundgesetzänderungen in Deutschland erfordern einfache Parlamentsmehrheiten.",
+              "options": [
+                "richtig",
+                "falsch",
+                "nicht im Text"
+              ],
+              "correctAnswer": "falsch",
+              "explanation": "Der Text gibt an: 'Grundgesetzänderungen erfordern Zweidrittelmehrheiten in Bundestag und Bundesrat.' Eine einfache Mehrheit reicht nicht aus."
+            },
+            {
+              "id": "C1_m05_R3_q4",
+              "type": "true_false",
+              "questionText": "Der Text nennt den Bundesrat als institutionellen Puffer gegen überschnelle Zentralisierung.",
+              "options": [
+                "richtig",
+                "falsch",
+                "nicht im Text"
+              ],
+              "correctAnswer": "richtig",
+              "explanation": "Der Text beschreibt den Bundesrat als 'institutionellen Puffer gegen überschnelle Zentralisierungstendenzen, indem er Länderinteressen systematisch in den Gesetzgebungsprozess einbindet.' Die Aussage ist korrekt."
+            },
+            {
+              "id": "C1_m05_R3_q5",
+              "type": "true_false",
+              "questionText": "Laut Text haben die unterschiedlichen deutschen Bildungssysteme ausschließlich negative Folgen.",
+              "options": [
+                "richtig",
+                "falsch",
+                "nicht im Text"
+              ],
+              "correctAnswer": "falsch",
+              "explanation": "Der Text räumt ein, dass sechzehn unterschiedliche Bildungssysteme 'zur Vielfalt pädagogischer Experimente beigetragen' haben — also auch positive Aspekte haben. 'Ausschließlich negative Folgen' ist eine Überverallgemeinerung."
+            },
+            {
+              "id": "C1_m05_R3_q6",
+              "type": "true_false",
+              "questionText": "Die Föderalismusreform I von 2006 führte zu einer grundlegenden Neuordnung des Verhältnisses von Bund und Ländern.",
+              "options": [
+                "richtig",
+                "falsch",
+                "nicht im Text"
+              ],
+              "correctAnswer": "falsch",
+              "explanation": "Der Text sagt explizit, dass bisherige Reformen 'eher zu einer Entflechtung bestimmter Gemeinschaftsaufgaben als zu einer grundlegenden Neuordnung geführt haben.' Die Aussage ist falsch."
+            },
+            {
+              "id": "C1_m05_R3_q7",
+              "type": "true_false",
+              "questionText": "Der Digitalpakt hat die Bundeskompetenz im Bildungssystem nach Ansicht des Textes vollständig beseitigt.",
+              "options": [
+                "richtig",
+                "falsch",
+                "nicht im Text"
+              ],
+              "correctAnswer": "falsch",
+              "explanation": "Der Text beschreibt, dass die Bundeskompetenz im Bildungssystem durch den Digitalpakt 'zumindest partiell erweitert wurde' — also nur teilweise, nicht vollständig. Die Aussage ist falsch."
+            },
+            {
+              "id": "C1_m05_R3_q8",
+              "type": "true_false",
+              "questionText": "Der Text bezeichnet den Status quo des deutschen Föderalismus als stabiles Gleichgewicht.",
+              "options": [
+                "richtig",
+                "falsch",
+                "nicht im Text"
+              ],
+              "correctAnswer": "falsch",
+              "explanation": "Der Text sagt ausdrücklich: 'Der Status quo ist kein Gleichgewicht, sondern das Ergebnis historisch sedimentierter Kompromisse.' Die Aussage ist eindeutig falsch."
+            },
+            {
+              "id": "C1_m05_R3_q9",
+              "type": "true_false",
+              "questionText": "Der Text erwähnt internationale Vergleichsstudien als Beleg für strukturelle Schwächen des deutschen Schulsystems.",
+              "options": [
+                "richtig",
+                "falsch",
+                "nicht im Text"
+              ],
+              "correctAnswer": "richtig",
+              "explanation": "Der Text nennt: 'ein Umstand, den internationale Vergleichsstudien als strukturelle Schwäche identifizieren.' Die Aussage ist korrekt."
+            },
+            {
+              "id": "C1_m05_R3_q10",
+              "type": "true_false",
+              "questionText": "Die zunehmende Kritik an intergouvernementalen Gremien betrifft laut Text fehlende demokratische Rechenschaft.",
+              "options": [
+                "richtig",
+                "falsch",
+                "nicht im Text"
+              ],
+              "correctAnswer": "richtig",
+              "explanation": "Der Text beschreibt ein 'Verantwortungsvakuum' bei Beschlüssen in intergouvernementalen Gremien und stellt die Frage: 'Wer genau hat welche Entscheidung getroffen — und wer ist dafür rechenschaftspflichtig?' Das entspricht fehlender demokratischer Rechenschaft."
+            },
+            {
+              "id": "C1_m05_R3_q11",
+              "type": "true_false",
+              "questionText": "Der Text schlägt als Lösung für Föderalismusprobleme die vollständige Abschaffung des Bundesrates vor.",
+              "options": [
+                "richtig",
+                "falsch",
+                "nicht im Text"
+              ],
+              "correctAnswer": "nicht im Text",
+              "explanation": "Eine Abschaffung des Bundesrates wird im Text an keiner Stelle vorgeschlagen oder diskutiert. Die Aussage ist nicht im Text."
+            },
+            {
+              "id": "C1_m05_R3_q12",
+              "type": "mcq",
+              "questionText": "Welcher Titel fasst den Artikel am treffendsten zusammen?",
+              "options": [
+                "a) Föderalismus als Auslaufmodell: Argumente für den deutschen Zentralstaat",
+                "b) Föderalismus in Deutschland: Stärken, Schwächen und die Grenzen der Reform",
+                "c) Warum der Föderalismus an der COVID-19-Pandemie gescheitert ist"
+              ],
+              "correctAnswer": "b",
+              "explanation": "Der Artikel stellt sowohl Stärken (Resilienz, Laboratorium, Bundesrat als Puffer) als auch Schwächen (Bildungsföderalismus, Rechenschaftsvakuum) dar und diskutiert Reformgrenzen (Zweidrittelmehrheit). Option b) trifft diesen ausgewogenen Gesamtduktus. a) ist falsch — der Text plädiert nicht für den Zentralstaat. c) kehrt die Aussage des Textes um — der Föderalismus wird nicht als gescheitert beschrieben."
+            }
+          ]
+        }
+      ]
+    },
+    "sprachbausteine": {
+      "totalTimeMinutes": 25,
+      "parts": [
+        {
+          "partNumber": 1,
+          "instructions": "Lesen Sie den folgenden Text. Wählen Sie bei jeder Lücke (1–22) die richtige Antwort (a, b, c oder d). Es gibt jeweils nur eine richtige Antwort.",
+          "instructionsTranslation": "Read the following text. For each gap (1–22) choose the correct answer (a, b, c or d). There is only one correct answer each time.",
+          "text": "Die Frage, (1) ____ demokratische Systeme in Krisen widerstandsfähig bleiben, lässt sich nicht auf eine einzige Variable (2) ____. Politikwissenschaftlerinnen und -wissenschaftler nennen mehrere Faktoren, die (3) ____ zusammenwirken: starke unabhängige Institutionen, eine informierte Zivilgesellschaft und eine politische Kultur, die Dissens als produktiv (4) ____ – nicht als Bedrohung.\n\nBesonders intensiv diskutiert wird die Rolle der Verfassungsgerichtsbarkeit. (5) ____ Gerichte, die strukturell gegen politischen Druck abgesichert sind, können Parlamentsmehrheiten (6) ____, die demokratische Grundnormen untergraben wollen. Dieser institutionelle Gegenspieler hat jedoch eine inhärente Schwäche: Er (7) ____, was ihm vorgelegt wird, und kann nicht proaktiv intervenieren. (8) ____ bleibt die Vorbeugung institutioneller Erosion eine im Wesentlichen politische und gesellschaftliche Aufgabe.\n\nPopulismus (9) ____ häufig als Bedrohung für demokratische Institutionen eingestuft. Doch diese Sichtweise ist zu einfach: Populistische Bewegungen sind (10) ____ Zeichen politischer Enttäuschung, die auf reale Defizite institutioneller Responsivität hindeuten. Wer Populismus (11) ____, ohne die zugrunde liegenden Vertrauensdefizite anzugehen, behandelt das Symptom, nicht die Ursache.\n\nEin strukturelles Paradox (12) ____ vielen liberalen Demokratien: Sie wurden (13) ____ gegen externe Bedrohungen konzipiert, nicht gegen den Fall, dass demokratisch gewählte Akteure selbst die Regeln untergraben. (14) ____ nennen Forschende 'demokratischen Rückschritt' – einen Prozess, bei dem Institutionen nicht gestürzt, sondern schrittweise umgebaut werden. (15) ____ wirksamer Gegenmaßnahmen bedarf es daher institutioneller Redundanz: mehrerer, voneinander unabhängiger Kontrollmechanismen, (16) ____ der Ausfall einer Instanz das System nicht kollabieren lässt.\n\nNicht weniger bedeutsam (17) ____ die Rolle zivilgesellschaftlicher Akteure. Eine wache, organisierte Öffentlichkeit kann staatliches Fehlverhalten sichtbar (18) ____ und politischen Druck erzeugen, (19) ____ formale Kontrollinstanzen versagen. Die Frage ist (20) ____, ob demokratische Gesellschaften bereit sind, diese Wachheit als kollektive Investition zu begreifen – nicht als spontane Reaktion auf akute Krisen, (21) ____ als kontinuierliche Praxis. Am Ende entscheidet (22) ____ weniger die Verfassung als die gelebte demokratische Kultur darüber, wie resilient eine Demokratie wirklich ist.",
+          "questions": [
+            {
+              "blankNumber": 1,
+              "type": "mcq",
+              "options": [
+                "ob",
+                "dass",
+                "weil",
+                "obwohl"
+              ],
+              "correctAnswer": "ob",
+              "explanation": "'ob' leitet einen indirekten Fragesatz ein: 'die Frage, ob … widerstandsfähig bleiben'. 'dass' würde eine Aussage einleiten, nicht eine Frage. 'weil' und 'obwohl' sind semantisch unpassend für den Satzbau."
+            },
+            {
+              "blankNumber": 2,
+              "type": "mcq",
+              "options": [
+                "reduzieren",
+                "beschränken",
+                "vereinfachen",
+                "zurückführen"
+              ],
+              "correctAnswer": "zurückführen",
+              "explanation": "'auf eine Variable zurückführen' ist die idiomatische Kollokation für 'monokausal erklären'. 'Reduzieren auf' wäre die nächste Alternative, aber 'zurückführen auf' ist im akademisch-analytischen Register die korrekte Wendung."
+            },
+            {
+              "blankNumber": 3,
+              "type": "mcq",
+              "options": [
+                "ineinander",
+                "miteinander",
+                "gemeinsam",
+                "gleichzeitig"
+              ],
+              "correctAnswer": "miteinander",
+              "explanation": "'miteinander zusammenwirken' ist die feste Kollokation. 'ineinander' verlangt ein Direktionalobjekt, 'gemeinsam' ist stilistisch schwächer, 'gleichzeitig' beschreibt nur Simultaneität, nicht Interaktion."
+            },
+            {
+              "blankNumber": 4,
+              "type": "mcq",
+              "options": [
+                "bewertet",
+                "betrachtet",
+                "begreift",
+                "wertet"
+              ],
+              "correctAnswer": "begreift",
+              "explanation": "'etwas als X begreifen' ist die präziseste Kollokation für konzeptuell-kognitive Einordnung im akademischen Register. 'Bewertet' und 'wertet' implizieren eine normative Bewertung, 'betrachtet' ist zu allgemein und impliziert keine kognitive Internalisierung."
+            },
+            {
+              "blankNumber": 5,
+              "type": "mcq",
+              "options": [
+                "Nur",
+                "Lediglich",
+                "Ausschließlich",
+                "Allein"
+              ],
+              "correctAnswer": "Nur",
+              "explanation": "'Nur Gerichte, die …, können …' — das Fokusadverb 'nur' schränkt die Bedingung ein. 'Lediglich' wäre stilistisch schwächer. 'Ausschließlich' und 'Allein' sind im Kontext weniger idiosynkratisch."
+            },
+            {
+              "blankNumber": 6,
+              "type": "mcq",
+              "options": [
+                "aufhalten",
+                "blockieren",
+                "hemmen",
+                "bremsen"
+              ],
+              "correctAnswer": "aufhalten",
+              "explanation": "'Parlamentsmehrheiten aufhalten' ist die stärkste und semantisch präziseste Wendung im Kontext institutionellen Widerstands. 'Blockieren' wäre funktional äquivalent, aber 'aufhalten' ist in der politischen Fachsprache üblicher für institutionellen Gegendruck."
+            },
+            {
+              "blankNumber": 7,
+              "type": "mcq",
+              "options": [
+                "behandelt",
+                "prüft",
+                "urteilt über",
+                "entscheidet"
+              ],
+              "correctAnswer": "prüft",
+              "explanation": "'prüft, was ihm vorgelegt wird' — das Verb 'prüfen' ist der Fachbegriff für richterliche Normenkontrolle. 'Behandelt' ist zu allgemein; 'urteilt über' und 'entscheidet' erfordern ein anderes syntaktisches Muster."
+            },
+            {
+              "blankNumber": 8,
+              "type": "mcq",
+              "options": [
+                "Damit",
+                "Folglich",
+                "Deshalb",
+                "Insofern"
+              ],
+              "correctAnswer": "Insofern",
+              "explanation": "'Insofern' schlägt eine konzessive Folgerung vor: Weil das Gericht nur prüft, was vorgelegt wird, bleibt Prävention insofern (= in diesem Maße) eine politisch-gesellschaftliche Aufgabe. 'Damit', 'Folglich' und 'Deshalb' wären zu direkt kausal."
+            },
+            {
+              "blankNumber": 9,
+              "type": "mcq",
+              "options": [
+                "gilt",
+                "wird",
+                "ist",
+                "scheint"
+              ],
+              "correctAnswer": "wird",
+              "explanation": "'wird … eingestuft' — Passivkonstruktion mit 'einstufen als'. 'Gilt als' wäre grammatisch korrekt, aber das Satzgefüge mit 'häufig als … eingestuft' verlangt 'wird'. 'Ist' und 'scheint' passen nicht zur passivischen Konstruktion mit 'eingestuft'."
+            },
+            {
+              "blankNumber": 10,
+              "type": "mcq",
+              "options": [
+                "auch",
+                "gleichzeitig",
+                "ebenfalls",
+                "zugleich"
+              ],
+              "correctAnswer": "zugleich",
+              "explanation": "'zugleich' verbindet konzessiv: Populismus ist Bedrohung, aber zugleich auch Zeichen. 'Auch' wäre zu schwach, 'gleichzeitig' klingt temporal, 'ebenfalls' erfordert einen vorherigen Referenzpunkt."
+            },
+            {
+              "blankNumber": 11,
+              "type": "mcq",
+              "options": [
+                "bekämpft",
+                "beschränkt",
+                "reguliert",
+                "unterdrückt"
+              ],
+              "correctAnswer": "bekämpft",
+              "explanation": "'Populismus bekämpfen, ohne die Ursachen anzugehen' — 'bekämpfen' ist die idiomatische Verbindung zur politisch-reaktiven Haltung, die im Satz kritisiert wird. Die anderen Optionen implizieren andere Eingriffsmuster."
+            },
+            {
+              "blankNumber": 12,
+              "type": "mcq",
+              "options": [
+                "betrifft",
+                "kennzeichnet",
+                "zeigt sich in",
+                "prägt"
+              ],
+              "correctAnswer": "kennzeichnet",
+              "explanation": "'Ein strukturelles Paradox kennzeichnet viele liberale Demokratien' — 'kennzeichnen' in der Bedeutung 'charakterisieren, als typisches Merkmal aufweisen' ist im akademischen Schreiben die präziseste Option."
+            },
+            {
+              "blankNumber": 13,
+              "type": "mcq",
+              "options": [
+                "ursprünglich",
+                "historisch",
+                "traditionell",
+                "früher"
+              ],
+              "correctAnswer": "ursprünglich",
+              "explanation": "'ursprünglich … konzipiert' — das Adverb 'ursprünglich' verweist auf den Entstehungskontext und markiert den Kontrast zum heutigen Problem. 'Historisch' ist weitläufiger; 'traditionell' und 'früher' sind stilistisch schwächer."
+            },
+            {
+              "blankNumber": 14,
+              "type": "mcq",
+              "options": [
+                "Das",
+                "Dies",
+                "Solches",
+                "Diesen Prozess"
+              ],
+              "correctAnswer": "Dies",
+              "explanation": "'Dies nennen Forschende …' — 'dies' als anaphorisches Demonstrativum verweist auf den beschriebenen Prozess. 'Das' ist ebenfalls möglich, aber 'dies' hat im Deutschen eher abstrakt-resumierende Funktion. 'Solches' und 'Diesen Prozess' sind redundant."
+            },
+            {
+              "blankNumber": 15,
+              "type": "mcq",
+              "options": [
+                "Als Mittel",
+                "Im Sinne",
+                "Zum Zweck",
+                "Angesichts"
+              ],
+              "correctAnswer": "Angesichts",
+              "explanation": "'Angesichts wirksamer Gegenmaßnahmen bedarf es …' — die Präposition 'angesichts' drückt aus, dass die institutionelle Redundanz im Lichte der Notwendigkeit von Gegenmaßnahmen zu sehen ist. 'Als Mittel', 'Im Sinne', 'Zum Zweck' verändern die Satzstruktur."
+            },
+            {
+              "blankNumber": 16,
+              "type": "mcq",
+              "options": [
+                "damit",
+                "sodass",
+                "so dass",
+                "dass"
+              ],
+              "correctAnswer": "damit",
+              "explanation": "'damit der Ausfall einer Instanz das System nicht kollabieren lässt' — 'damit' leitet einen Finalsatz (Zwecksatz) ein. 'Sodass' und 'so dass' wären konsekutiv. 'Dass' allein funktioniert hier nicht."
+            },
+            {
+              "blankNumber": 17,
+              "type": "mcq",
+              "options": [
+                "ist",
+                "bleibt",
+                "scheint",
+                "erweist sich"
+              ],
+              "correctAnswer": "ist",
+              "explanation": "'Nicht weniger bedeutsam ist die Rolle …' — die invertierte Struktur mit Adjektiv vor dem Prädikat verlangt das Kopulaverb 'ist'. 'Bleibt' würde temporale Kontinuität betonen; 'scheint' und 'erweist sich' verändern den Assertionsstatus."
+            },
+            {
+              "blankNumber": 18,
+              "type": "mcq",
+              "options": [
+                "machen",
+                "zeigen",
+                "halten",
+                "stellen"
+              ],
+              "correctAnswer": "machen",
+              "explanation": "'sichtbar machen' ist die idiomatische Konstruktion mit dem Adjektiv als Resultativprädikat. 'Sichtbar zeigen', 'sichtbar halten' und 'sichtbar stellen' sind entweder ungrammatisch oder ungebräuchlich."
+            },
+            {
+              "blankNumber": 19,
+              "type": "mcq",
+              "options": [
+                "wenn",
+                "sobald",
+                "obwohl",
+                "falls"
+              ],
+              "correctAnswer": "wenn",
+              "explanation": "'Druck erzeugen, wenn formale Kontrollinstanzen versagen' — 'wenn' leitet eine temporale/konditionale Nebenbedingung ein. 'Sobald' wäre zu punktuell, 'obwohl' wäre konzessiv, 'falls' zu hypothetisch."
+            },
+            {
+              "blankNumber": 20,
+              "type": "mcq",
+              "options": [
+                "letztendlich",
+                "also",
+                "mithin",
+                "insgesamt"
+              ],
+              "correctAnswer": "letztendlich",
+              "explanation": "'Die Frage ist letztendlich, ob …' — 'letztendlich' drückt eine conclusive Zuspitzung aus. 'Also' ist zu direkt kausal, 'mithin' zu formell und veraltend, 'insgesamt' wäre summarisch statt pointiert."
+            },
+            {
+              "blankNumber": 21,
+              "type": "mcq",
+              "options": [
+                "vielmehr",
+                "stattdessen",
+                "sondern",
+                "aber"
+              ],
+              "correctAnswer": "sondern",
+              "explanation": "'nicht als spontane Reaktion …, sondern als kontinuierliche Praxis' — die 'nicht … sondern …'-Konstruktion erfordert zwingend 'sondern'. 'Vielmehr' und 'stattdessen' können 'sondern' in manchen Kontexten ersetzen, aber nicht in der korrelierenden 'nicht … sondern …'-Struktur. 'Aber' würde einen adversativen Hauptsatz einleiten."
+            },
+            {
+              "blankNumber": 22,
+              "type": "mcq",
+              "options": [
+                "sich",
+                "dabei",
+                "letztlich",
+                "wohl"
+              ],
+              "correctAnswer": "sich",
+              "explanation": "'entscheidet sich … darüber, wie resilient' — das reflexive Verb 'sich entscheiden' in der Bedeutung 'entschieden werden, festgelegt werden' ist hier korrekt. Ohne 'sich' würde 'entscheiden' ein direktes Objekt erfordern."
+            }
+          ]
+        }
+      ]
+    },
+    "listening": {
+      "totalTimeMinutes": 40,
+      "parts": [
+        {
+          "partNumber": 1,
+          "instructions": "Sie hören acht kurze Stellungnahmen verschiedener Personen zum Thema Populismus und demokratische Institutionen. Lesen Sie zuerst die zehn Zusammenfassungen (a–j). Hören Sie dann die acht Aussagen. Welche Zusammenfassung passt zu welchem Sprecher? Zwei Zusammenfassungen passen nicht. Sie hören die Texte nur einmal.",
+          "instructionsTranslation": "You will hear eight short statements from different people on the topic of populism and democratic institutions. First read the ten summaries (a–j). Then listen to the eight statements. Which summary matches which speaker? Two summaries do not fit. You will hear the texts only once.",
+          "audioFile": "assets/audio/C1/mock05/listening_part1.mp3",
+          "playCount": 1,
+          "questions": [
+            {
+              "id": "C1_m05_HV1_q1",
+              "type": "matching",
+              "questionText": "Sprecher 1: Frau Prof. Nolte, Verfassungsrechtlerin",
+              "matchingSources": [
+                {
+                  "id": "sum_a",
+                  "label": "a",
+                  "content": "a) Die Sprecherin hält Wahlsystemreformen für notwendig, warnt aber vor übereilten Änderungen ohne breiten gesellschaftlichen Konsens."
+                },
+                {
+                  "id": "sum_b",
+                  "label": "b",
+                  "content": "b) Der Sprecher sieht im Erstarken populistischer Parteien ein Symptom tieferer Vertrauenskrisen, nicht ihre Ursache."
+                },
+                {
+                  "id": "sum_c",
+                  "label": "c",
+                  "content": "c) Die Sprecherin plädiert dafür, dass Verfassungsgerichte aktiver gegen populistische Gesetzgebung vorgehen sollten."
+                },
+                {
+                  "id": "sum_d",
+                  "label": "d",
+                  "content": "d) Der Sprecher argumentiert, dass föderale Strukturen im Krisenfall demokratische Resilienz stärken, nicht schwächen."
+                },
+                {
+                  "id": "sum_e",
+                  "label": "e",
+                  "content": "e) Die Sprecherin betont, dass Medienkonzentration die informierte Wahlentscheidung der Bürgerinnen und Bürger gefährdet."
+                },
+                {
+                  "id": "sum_f",
+                  "label": "f",
+                  "content": "f) Der Sprecher warnt, dass das Verhältniswahlrecht Regierungsbildung erschwert und politische Instabilität begünstigt."
+                },
+                {
+                  "id": "sum_g",
+                  "label": "g",
+                  "content": "g) Die Sprecherin sieht in der Zivilgesellschaft die wichtigste Gegenkraft gegen demokratischen Rückschritt."
+                },
+                {
+                  "id": "sum_h",
+                  "label": "h",
+                  "content": "h) Der Sprecher findet, dass direkte Demokratie anfälliger für Desinformation ist als repräsentative Systeme."
+                },
+                {
+                  "id": "sum_i",
+                  "label": "i",
+                  "content": "i) Die Sprecherin kritisiert, dass Parteifinanzierungsregeln in Deutschland zu wenig Transparenz bieten."
+                },
+                {
+                  "id": "sum_j",
+                  "label": "j",
+                  "content": "j) Der Sprecher glaubt, dass Rechtsextremismus im Parlament langfristig Demokratiefeindlichkeit normalisiert."
+                }
+              ],
+              "correctAnswer": "c",
+              "explanation": "Frau Prof. Nolte argumentiert: 'Verfassungsgerichte dürfen nicht nur reaktiv sein. Sie müssen populistischer Gesetzgebung schon im Entstehen entgegentreten, bevor sie irreversiblen Schaden anrichtet.' Das entspricht Zusammenfassung c). Distraktor a) klingt ähnlich, bezieht sich aber auf Wahlsystemfragen, nicht auf Gerichtsfunktion."
+            },
+            {
+              "id": "C1_m05_HV1_q2",
+              "type": "matching",
+              "questionText": "Sprecher 2: Herr Dr. Reuter, Politikwissenschaftler",
+              "matchingSources": [
+                {
+                  "id": "sum_a",
+                  "label": "a",
+                  "content": "a) Die Sprecherin hält Wahlsystemreformen für notwendig, warnt aber vor übereilten Änderungen ohne breiten gesellschaftlichen Konsens."
+                },
+                {
+                  "id": "sum_b",
+                  "label": "b",
+                  "content": "b) Der Sprecher sieht im Erstarken populistischer Parteien ein Symptom tieferer Vertrauenskrisen, nicht ihre Ursache."
+                },
+                {
+                  "id": "sum_c",
+                  "label": "c",
+                  "content": "c) Die Sprecherin plädiert dafür, dass Verfassungsgerichte aktiver gegen populistische Gesetzgebung vorgehen sollten."
+                },
+                {
+                  "id": "sum_d",
+                  "label": "d",
+                  "content": "d) Der Sprecher argumentiert, dass föderale Strukturen im Krisenfall demokratische Resilienz stärken, nicht schwächen."
+                },
+                {
+                  "id": "sum_e",
+                  "label": "e",
+                  "content": "e) Die Sprecherin betont, dass Medienkonzentration die informierte Wahlentscheidung der Bürgerinnen und Bürger gefährdet."
+                },
+                {
+                  "id": "sum_f",
+                  "label": "f",
+                  "content": "f) Der Sprecher warnt, dass das Verhältniswahlrecht Regierungsbildung erschwert und politische Instabilität begünstigt."
+                },
+                {
+                  "id": "sum_g",
+                  "label": "g",
+                  "content": "g) Die Sprecherin sieht in der Zivilgesellschaft die wichtigste Gegenkraft gegen demokratischen Rückschritt."
+                },
+                {
+                  "id": "sum_h",
+                  "label": "h",
+                  "content": "h) Der Sprecher findet, dass direkte Demokratie anfälliger für Desinformation ist als repräsentative Systeme."
+                },
+                {
+                  "id": "sum_i",
+                  "label": "i",
+                  "content": "i) Die Sprecherin kritisiert, dass Parteifinanzierungsregeln in Deutschland zu wenig Transparenz bieten."
+                },
+                {
+                  "id": "sum_j",
+                  "label": "j",
+                  "content": "j) Der Sprecher glaubt, dass Rechtsextremismus im Parlament langfristig Demokratiefeindlichkeit normalisiert."
+                }
+              ],
+              "correctAnswer": "b",
+              "explanation": "Dr. Reuter erklärt: 'Populismus ist das Fieberthermometer, nicht das Fieber. Wer ihn bekämpft, ohne die zugrunde liegenden Vertrauensdefizite anzugehen, behandelt das Symptom.' Das trifft genau Zusammenfassung b)."
+            },
+            {
+              "id": "C1_m05_HV1_q3",
+              "type": "matching",
+              "questionText": "Sprecher 3: Frau Dr. Faber, Wahlsystemforscherin",
+              "matchingSources": [
+                {
+                  "id": "sum_a",
+                  "label": "a",
+                  "content": "a) Die Sprecherin hält Wahlsystemreformen für notwendig, warnt aber vor übereilten Änderungen ohne breiten gesellschaftlichen Konsens."
+                },
+                {
+                  "id": "sum_b",
+                  "label": "b",
+                  "content": "b) Der Sprecher sieht im Erstarken populistischer Parteien ein Symptom tieferer Vertrauenskrisen, nicht ihre Ursache."
+                },
+                {
+                  "id": "sum_c",
+                  "label": "c",
+                  "content": "c) Die Sprecherin plädiert dafür, dass Verfassungsgerichte aktiver gegen populistische Gesetzgebung vorgehen sollten."
+                },
+                {
+                  "id": "sum_d",
+                  "label": "d",
+                  "content": "d) Der Sprecher argumentiert, dass föderale Strukturen im Krisenfall demokratische Resilienz stärken, nicht schwächen."
+                },
+                {
+                  "id": "sum_e",
+                  "label": "e",
+                  "content": "e) Die Sprecherin betont, dass Medienkonzentration die informierte Wahlentscheidung der Bürgerinnen und Bürger gefährdet."
+                },
+                {
+                  "id": "sum_f",
+                  "label": "f",
+                  "content": "f) Der Sprecher warnt, dass das Verhältniswahlrecht Regierungsbildung erschwert und politische Instabilität begünstigt."
+                },
+                {
+                  "id": "sum_g",
+                  "label": "g",
+                  "content": "g) Die Sprecherin sieht in der Zivilgesellschaft die wichtigste Gegenkraft gegen demokratischen Rückschritt."
+                },
+                {
+                  "id": "sum_h",
+                  "label": "h",
+                  "content": "h) Der Sprecher findet, dass direkte Demokratie anfälliger für Desinformation ist als repräsentative Systeme."
+                },
+                {
+                  "id": "sum_i",
+                  "label": "i",
+                  "content": "i) Die Sprecherin kritisiert, dass Parteifinanzierungsregeln in Deutschland zu wenig Transparenz bieten."
+                },
+                {
+                  "id": "sum_j",
+                  "label": "j",
+                  "content": "j) Der Sprecher glaubt, dass Rechtsextremismus im Parlament langfristig Demokratiefeindlichkeit normalisiert."
+                }
+              ],
+              "correctAnswer": "a",
+              "explanation": "Dr. Faber sagt: 'Ich befürworte Wahlsystemreformen, aber der gesellschaftliche Konsens muss vorher stehen. Reformen ohne Rückhalt schwächen das Vertrauen in den demokratischen Prozess selbst.' Das entspricht a). Distraktor f) spricht auch Wahlsysteme an, aber negativ über Verhältniswahlrecht ohne den Konsens-Aspekt."
+            },
+            {
+              "id": "C1_m05_HV1_q4",
+              "type": "matching",
+              "questionText": "Sprecher 4: Herr Prof. Grünwald, Föderalismusexperte",
+              "matchingSources": [
+                {
+                  "id": "sum_a",
+                  "label": "a",
+                  "content": "a) Die Sprecherin hält Wahlsystemreformen für notwendig, warnt aber vor übereilten Änderungen ohne breiten gesellschaftlichen Konsens."
+                },
+                {
+                  "id": "sum_b",
+                  "label": "b",
+                  "content": "b) Der Sprecher sieht im Erstarken populistischer Parteien ein Symptom tieferer Vertrauenskrisen, nicht ihre Ursache."
+                },
+                {
+                  "id": "sum_c",
+                  "label": "c",
+                  "content": "c) Die Sprecherin plädiert dafür, dass Verfassungsgerichte aktiver gegen populistische Gesetzgebung vorgehen sollten."
+                },
+                {
+                  "id": "sum_d",
+                  "label": "d",
+                  "content": "d) Der Sprecher argumentiert, dass föderale Strukturen im Krisenfall demokratische Resilienz stärken, nicht schwächen."
+                },
+                {
+                  "id": "sum_e",
+                  "label": "e",
+                  "content": "e) Die Sprecherin betont, dass Medienkonzentration die informierte Wahlentscheidung der Bürgerinnen und Bürger gefährdet."
+                },
+                {
+                  "id": "sum_f",
+                  "label": "f",
+                  "content": "f) Der Sprecher warnt, dass das Verhältniswahlrecht Regierungsbildung erschwert und politische Instabilität begünstigt."
+                },
+                {
+                  "id": "sum_g",
+                  "label": "g",
+                  "content": "g) Die Sprecherin sieht in der Zivilgesellschaft die wichtigste Gegenkraft gegen demokratischen Rückschritt."
+                },
+                {
+                  "id": "sum_h",
+                  "label": "h",
+                  "content": "h) Der Sprecher findet, dass direkte Demokratie anfälliger für Desinformation ist als repräsentative Systeme."
+                },
+                {
+                  "id": "sum_i",
+                  "label": "i",
+                  "content": "i) Die Sprecherin kritisiert, dass Parteifinanzierungsregeln in Deutschland zu wenig Transparenz bieten."
+                },
+                {
+                  "id": "sum_j",
+                  "label": "j",
+                  "content": "j) Der Sprecher glaubt, dass Rechtsextremismus im Parlament langfristig Demokratiefeindlichkeit normalisiert."
+                }
+              ],
+              "correctAnswer": "d",
+              "explanation": "Prof. Grünwald betont: 'Gerade in Krisen zeigt sich der Wert des Föderalismus. Wenn zentrale Institutionen unter Druck geraten, halten die Länder dagegen. Das ist gewollte Resilienz.' Das entspricht d)."
+            },
+            {
+              "id": "C1_m05_HV1_q5",
+              "type": "matching",
+              "questionText": "Sprecher 5: Frau Möller, Medienwissenschaftlerin",
+              "matchingSources": [
+                {
+                  "id": "sum_a",
+                  "label": "a",
+                  "content": "a) Die Sprecherin hält Wahlsystemreformen für notwendig, warnt aber vor übereilten Änderungen ohne breiten gesellschaftlichen Konsens."
+                },
+                {
+                  "id": "sum_b",
+                  "label": "b",
+                  "content": "b) Der Sprecher sieht im Erstarken populistischer Parteien ein Symptom tieferer Vertrauenskrisen, nicht ihre Ursache."
+                },
+                {
+                  "id": "sum_c",
+                  "label": "c",
+                  "content": "c) Die Sprecherin plädiert dafür, dass Verfassungsgerichte aktiver gegen populistische Gesetzgebung vorgehen sollten."
+                },
+                {
+                  "id": "sum_d",
+                  "label": "d",
+                  "content": "d) Der Sprecher argumentiert, dass föderale Strukturen im Krisenfall demokratische Resilienz stärken, nicht schwächen."
+                },
+                {
+                  "id": "sum_e",
+                  "label": "e",
+                  "content": "e) Die Sprecherin betont, dass Medienkonzentration die informierte Wahlentscheidung der Bürgerinnen und Bürger gefährdet."
+                },
+                {
+                  "id": "sum_f",
+                  "label": "f",
+                  "content": "f) Der Sprecher warnt, dass das Verhältniswahlrecht Regierungsbildung erschwert und politische Instabilität begünstigt."
+                },
+                {
+                  "id": "sum_g",
+                  "label": "g",
+                  "content": "g) Die Sprecherin sieht in der Zivilgesellschaft die wichtigste Gegenkraft gegen demokratischen Rückschritt."
+                },
+                {
+                  "id": "sum_h",
+                  "label": "h",
+                  "content": "h) Der Sprecher findet, dass direkte Demokratie anfälliger für Desinformation ist als repräsentative Systeme."
+                },
+                {
+                  "id": "sum_i",
+                  "label": "i",
+                  "content": "i) Die Sprecherin kritisiert, dass Parteifinanzierungsregeln in Deutschland zu wenig Transparenz bieten."
+                },
+                {
+                  "id": "sum_j",
+                  "label": "j",
+                  "content": "j) Der Sprecher glaubt, dass Rechtsextremismus im Parlament langfristig Demokratiefeindlichkeit normalisiert."
+                }
+              ],
+              "correctAnswer": "e",
+              "explanation": "Frau Möller erklärt: 'Wenn fünf Verlagsgruppen den öffentlichen Diskurs kontrollieren, können Wählerinnen und Wähler keine wirklich informierte Entscheidung mehr treffen. Das untergräbt die demokratische Grundvoraussetzung.' Das trifft e). Distraktor h) befasst sich mit Desinformation, aber im Kontext direkter Demokratie, nicht Medienkonzentration."
+            },
+            {
+              "id": "C1_m05_HV1_q6",
+              "type": "matching",
+              "questionText": "Sprecher 6: Herr Steinbach, Zivilgesellschafts-Aktivist",
+              "matchingSources": [
+                {
+                  "id": "sum_a",
+                  "label": "a",
+                  "content": "a) Die Sprecherin hält Wahlsystemreformen für notwendig, warnt aber vor übereilten Änderungen ohne breiten gesellschaftlichen Konsens."
+                },
+                {
+                  "id": "sum_b",
+                  "label": "b",
+                  "content": "b) Der Sprecher sieht im Erstarken populistischer Parteien ein Symptom tieferer Vertrauenskrisen, nicht ihre Ursache."
+                },
+                {
+                  "id": "sum_c",
+                  "label": "c",
+                  "content": "c) Die Sprecherin plädiert dafür, dass Verfassungsgerichte aktiver gegen populistische Gesetzgebung vorgehen sollten."
+                },
+                {
+                  "id": "sum_d",
+                  "label": "d",
+                  "content": "d) Der Sprecher argumentiert, dass föderale Strukturen im Krisenfall demokratische Resilienz stärken, nicht schwächen."
+                },
+                {
+                  "id": "sum_e",
+                  "label": "e",
+                  "content": "e) Die Sprecherin betont, dass Medienkonzentration die informierte Wahlentscheidung der Bürgerinnen und Bürger gefährdet."
+                },
+                {
+                  "id": "sum_f",
+                  "label": "f",
+                  "content": "f) Der Sprecher warnt, dass das Verhältniswahlrecht Regierungsbildung erschwert und politische Instabilität begünstigt."
+                },
+                {
+                  "id": "sum_g",
+                  "label": "g",
+                  "content": "g) Die Sprecherin sieht in der Zivilgesellschaft die wichtigste Gegenkraft gegen demokratischen Rückschritt."
+                },
+                {
+                  "id": "sum_h",
+                  "label": "h",
+                  "content": "h) Der Sprecher findet, dass direkte Demokratie anfälliger für Desinformation ist als repräsentative Systeme."
+                },
+                {
+                  "id": "sum_i",
+                  "label": "i",
+                  "content": "i) Die Sprecherin kritisiert, dass Parteifinanzierungsregeln in Deutschland zu wenig Transparenz bieten."
+                },
+                {
+                  "id": "sum_j",
+                  "label": "j",
+                  "content": "j) Der Sprecher glaubt, dass Rechtsextremismus im Parlament langfristig Demokratiefeindlichkeit normalisiert."
+                }
+              ],
+              "correctAnswer": "g",
+              "explanation": "Steinbach sagt: 'Parlamente können sich irren, Regierungen können scheitern — aber wenn die Zivilgesellschaft wach ist und sich organisiert, gibt es immer eine Gegenkraft. Das ist das eigentliche demokratische Immunsystem.' Das entspricht g)."
+            },
+            {
+              "id": "C1_m05_HV1_q7",
+              "type": "matching",
+              "questionText": "Sprecher 7: Frau Dr. Langer, Rechtsextremismusforscherin",
+              "matchingSources": [
+                {
+                  "id": "sum_a",
+                  "label": "a",
+                  "content": "a) Die Sprecherin hält Wahlsystemreformen für notwendig, warnt aber vor übereilten Änderungen ohne breiten gesellschaftlichen Konsens."
+                },
+                {
+                  "id": "sum_b",
+                  "label": "b",
+                  "content": "b) Der Sprecher sieht im Erstarken populistischer Parteien ein Symptom tieferer Vertrauenskrisen, nicht ihre Ursache."
+                },
+                {
+                  "id": "sum_c",
+                  "label": "c",
+                  "content": "c) Die Sprecherin plädiert dafür, dass Verfassungsgerichte aktiver gegen populistische Gesetzgebung vorgehen sollten."
+                },
+                {
+                  "id": "sum_d",
+                  "label": "d",
+                  "content": "d) Der Sprecher argumentiert, dass föderale Strukturen im Krisenfall demokratische Resilienz stärken, nicht schwächen."
+                },
+                {
+                  "id": "sum_e",
+                  "label": "e",
+                  "content": "e) Die Sprecherin betont, dass Medienkonzentration die informierte Wahlentscheidung der Bürgerinnen und Bürger gefährdet."
+                },
+                {
+                  "id": "sum_f",
+                  "label": "f",
+                  "content": "f) Der Sprecher warnt, dass das Verhältniswahlrecht Regierungsbildung erschwert und politische Instabilität begünstigt."
+                },
+                {
+                  "id": "sum_g",
+                  "label": "g",
+                  "content": "g) Die Sprecherin sieht in der Zivilgesellschaft die wichtigste Gegenkraft gegen demokratischen Rückschritt."
+                },
+                {
+                  "id": "sum_h",
+                  "label": "h",
+                  "content": "h) Der Sprecher findet, dass direkte Demokratie anfälliger für Desinformation ist als repräsentative Systeme."
+                },
+                {
+                  "id": "sum_i",
+                  "label": "i",
+                  "content": "i) Die Sprecherin kritisiert, dass Parteifinanzierungsregeln in Deutschland zu wenig Transparenz bieten."
+                },
+                {
+                  "id": "sum_j",
+                  "label": "j",
+                  "content": "j) Der Sprecher glaubt, dass Rechtsextremismus im Parlament langfristig Demokratiefeindlichkeit normalisiert."
+                }
+              ],
+              "correctAnswer": "j",
+              "explanation": "Dr. Langer warnt: 'Wenn rechtsextreme Positionen routinemäßig im Parlament vertreten werden, verschiebt sich die Wahrnehmung dessen, was sagbar ist. Über Jahrzehnte normalisiert das Demokratiefeindlichkeit.' Das entspricht j). Distraktor b) geht auch auf Rechtsextremismus ein, aber im Sinne von Symptom, nicht Normalisierung."
+            },
+            {
+              "id": "C1_m05_HV1_q8",
+              "type": "matching",
+              "questionText": "Sprecher 8: Herr Prof. Wagner, Direktdemokratie-Forscher",
+              "matchingSources": [
+                {
+                  "id": "sum_a",
+                  "label": "a",
+                  "content": "a) Die Sprecherin hält Wahlsystemreformen für notwendig, warnt aber vor übereilten Änderungen ohne breiten gesellschaftlichen Konsens."
+                },
+                {
+                  "id": "sum_b",
+                  "label": "b",
+                  "content": "b) Der Sprecher sieht im Erstarken populistischer Parteien ein Symptom tieferer Vertrauenskrisen, nicht ihre Ursache."
+                },
+                {
+                  "id": "sum_c",
+                  "label": "c",
+                  "content": "c) Die Sprecherin plädiert dafür, dass Verfassungsgerichte aktiver gegen populistische Gesetzgebung vorgehen sollten."
+                },
+                {
+                  "id": "sum_d",
+                  "label": "d",
+                  "content": "d) Der Sprecher argumentiert, dass föderale Strukturen im Krisenfall demokratische Resilienz stärken, nicht schwächen."
+                },
+                {
+                  "id": "sum_e",
+                  "label": "e",
+                  "content": "e) Die Sprecherin betont, dass Medienkonzentration die informierte Wahlentscheidung der Bürgerinnen und Bürger gefährdet."
+                },
+                {
+                  "id": "sum_f",
+                  "label": "f",
+                  "content": "f) Der Sprecher warnt, dass das Verhältniswahlrecht Regierungsbildung erschwert und politische Instabilität begünstigt."
+                },
+                {
+                  "id": "sum_g",
+                  "label": "g",
+                  "content": "g) Die Sprecherin sieht in der Zivilgesellschaft die wichtigste Gegenkraft gegen demokratischen Rückschritt."
+                },
+                {
+                  "id": "sum_h",
+                  "label": "h",
+                  "content": "h) Der Sprecher findet, dass direkte Demokratie anfälliger für Desinformation ist als repräsentative Systeme."
+                },
+                {
+                  "id": "sum_i",
+                  "label": "i",
+                  "content": "i) Die Sprecherin kritisiert, dass Parteifinanzierungsregeln in Deutschland zu wenig Transparenz bieten."
+                },
+                {
+                  "id": "sum_j",
+                  "label": "j",
+                  "content": "j) Der Sprecher glaubt, dass Rechtsextremismus im Parlament langfristig Demokratiefeindlichkeit normalisiert."
+                }
+              ],
+              "correctAnswer": "h",
+              "explanation": "Prof. Wagner erklärt: 'Volksbegehren und Referenden setzen voraus, dass Bürgerinnen und Bürger hochkomplexe Sachverhalte auf Basis verlässlicher Informationen entscheiden. In einem Zeitalter massiver Desinformation ist das eine gefährliche Annahme.' Das trifft h). Distraktoren e) und i) beziehen sich auf andere Themen."
+            }
+          ]
+        },
+        {
+          "partNumber": 2,
+          "instructions": "Sie hören ein Interview mit Dr. Jonas Schiemann zum Thema Populismus und demokratische Resilienz. Lesen Sie zuerst die zehn Aufgaben. Was ist richtig? Kreuzen Sie an: a, b oder c. Sie hören das Interview nur einmal.",
+          "instructionsTranslation": "You will hear an interview with Dr. Jonas Schiemann on the topic of populism and democratic resilience. First read the ten tasks. What is correct? Mark a, b, or c. You will hear the interview only once.",
+          "audioFile": "assets/audio/C1/mock05/listening_part2.mp3",
+          "playCount": 1,
+          "audioTranscript": "Moderatorin: Willkommen, Dr. Schiemann. Sie haben ein Buch über Populismus und demokratische Institutionen veröffentlicht. Meine erste Frage: Ist Populismus eine Bedrohung für die Demokratie oder ein Zeichen, dass sie funktioniert?\n\nDr. Schiemann: Das ist die zentrale Frage, und die Antwort ist: beides. Populismus zeigt, dass Menschen mit der Reaktionsfähigkeit etablierter Institutionen unzufrieden sind — das ist legitimes demokratisches Signal. Gefährlich wird es, wenn populistische Bewegungen an die Macht kommen und beginnen, die Institutionen selbst zu demontieren, die ihnen den Zugang zur Macht ermöglicht haben. Das nennen Politikwissenschaftler demokratischen Rückschritt: kein Putsch, sondern schrittweise Erosion durch gewählte Akteure.\n\nModeratorin: Wie unterscheiden Sie demokratischen Populismus von illiberalem?\n\nDr. Schiemann: Der Schlüsselunterschied liegt im Verhältnis zu Minderheitenrechten und zur Gewaltenteilung. Demokratischer Populismus kritisiert Eliten, fordert mehr Partizipation, aber akzeptiert die Spielregeln. Illiberaler Populismus behauptet, nur das eigene Volk — im exklusiven Sinne — zu vertreten, und behandelt Institutionen wie Verfassungsgerichte, freie Medien oder Zentralbanken als Feinde, die zu überwinden sind.\n\nModeratorin: In Deutschland wird viel über Wahlsystemreformen diskutiert. Ist das Verhältniswahlrecht ein Einfallstor für populistische Parteien?\n\nDr. Schiemann: Das ist empirisch nicht belegt. Länder mit Mehrheitswahlrecht wie Großbritannien haben ebenso dramatische populistische Durchbrüche erlebt wie Länder mit Verhältniswahlrecht. Die Ursachen liegen tiefer: in Vertrauensverlusten gegenüber Institutionen, in wirtschaftlicher Unsicherheit, in Identitätskonflikten. Das Wahlsystem ist das Gehäuse — das politische Klima entscheidet, was darin wächst.\n\nModeratorin: Wie bewerten Sie die Rolle des Bundesverfassungsgerichts als Hüter der Demokratie?\n\nDr. Schiemann: Das Bundesverfassungsgericht ist eine der stärksten demokratischen Sicherungen, die Deutschland hat — und eine der am wenigsten verstandenen. Es hat wiederholt eingegriffen, bevor Gesetze irreparablen Schaden anrichten konnten. Allerdings: Ein Gericht kann nur prüfen, was ihm vorgelegt wird. Wenn demokratiefeindliche Normen von einer ausreichend starken Parlamentsmehrheit verabschiedet werden, stößt auch das Verfassungsgericht an Grenzen. Resiliente Demokratie kann sich nicht auf ein einzelnes Institut verlassen.\n\nModeratorin: Was empfehlen Sie konkret zur Stärkung demokratischer Resilienz?\n\nDr. Schiemann: Drei Säulen. Erstens: institutionelle Redundanz — mehrere, voneinander unabhängige Kontrollmechanismen, damit der Ausfall einer Institution nicht das ganze System destabilisiert. Zweitens: politische Bildung, die über Wissen hinausgeht und demokratische Handlungskompetenz vermittelt. Drittens: eine Zivilgesellschaft, die nicht nur protestiert, sondern in politischen Prozessen strukturell verankert ist. Diese drei Elemente greifen ineinander und bilden zusammen ein belastbares Fundament.",
+          "questions": [
+            {
+              "id": "C1_m05_HV2_q1",
+              "type": "mcq",
+              "questionText": "Was ist laut Dr. Schiemann das eigentliche Risiko, wenn populistische Bewegungen an die Macht gelangen?",
+              "options": [
+                "a) Populistische Parteien setzen offene Gewalt gegen Institutionen ein.",
+                "b) Populistische Akteure erodieren schrittweise die Institutionen, die ihnen zur Macht verholfen haben.",
+                "c) Populistische Bewegungen kritisieren Eliten, ohne bestehende Regeln in Frage zu stellen."
+              ],
+              "correctAnswer": "b",
+              "explanation": "Dr. Schiemann beschreibt 'demokratischen Rückschritt' als 'schrittweise Erosion durch gewählte Akteure' — nicht offene Gewalt (a) oder bloße Kritik (c)."
+            },
+            {
+              "id": "C1_m05_HV2_q2",
+              "type": "mcq",
+              "questionText": "Was unterscheidet nach Dr. Schiemann demokratischen von illiberalem Populismus?",
+              "options": [
+                "a) Demokratischer Populismus lehnt Medienfreiheit ab; illiberaler nicht.",
+                "b) Demokratischer Populismus entsteht in Wohlstandsgesellschaften; illiberaler in wirtschaftlichen Krisenregionen.",
+                "c) Illiberaler Populismus behandelt unabhängige Institutionen wie Gerichte als Feinde, die überwunden werden müssen."
+              ],
+              "correctAnswer": "c",
+              "explanation": "Der Schlüsselunterschied liegt im Verhältnis zu Minderheitsrechten und Gewaltenteilung. Illiberaler Populismus behandelt unabhängige Institutionen als Feinde. a) und b) sind im Interview nicht als Unterscheidungsmerkmal genannt."
+            },
+            {
+              "id": "C1_m05_HV2_q3",
+              "type": "mcq",
+              "questionText": "Welche Aussage zum Verhältniswahlrecht trifft Dr. Schiemanns Position?",
+              "options": [
+                "a) Das Verhältniswahlrecht begünstigt populistische Parteien nicht nachweisbar stärker als andere Systeme.",
+                "b) Das Verhältniswahlrecht ist strukturell anfälliger für populistische Parteien als das Mehrheitswahlrecht.",
+                "c) Das Verhältniswahlrecht sollte durch ein gemischtes System ersetzt werden."
+              ],
+              "correctAnswer": "a",
+              "explanation": "Dr. Schiemann sagt explizit, die Verbindung zwischen Verhältniswahlrecht und Populismus sei 'empirisch nicht belegt'. Die Ursachen populistischer Durchbrüche lägen tiefer. b) und c) widersprechen dieser Position."
+            },
+            {
+              "id": "C1_m05_HV2_q4",
+              "type": "mcq",
+              "questionText": "Welche Einschränkung benennt Dr. Schiemann für das Bundesverfassungsgericht?",
+              "options": [
+                "a) Das Bundesverfassungsgericht handelt zu selten präventiv.",
+                "b) Das Gericht kann nur prüfen, was vorgelegt wird, und stößt bei parlamentarischer Mehrheit an Grenzen.",
+                "c) Das Bundesverfassungsgericht ist bereits überfordert und sollte entlastet werden."
+              ],
+              "correctAnswer": "b",
+              "explanation": "Dr. Schiemann sagt: 'Ein Gericht kann nur prüfen, was ihm vorgelegt wird.' Zudem: wenn demokratiefeindliche Normen von ausreichender Mehrheit verabschiedet werden, stoße auch das Gericht an Grenzen. Das entspricht b). a) ist nicht genannt; c) kehrt die Aussage um."
+            },
+            {
+              "id": "C1_m05_HV2_q5",
+              "type": "mcq",
+              "questionText": "Welche Maßnahme nennt Dr. Schiemann als erste Säule demokratischer Resilienz?",
+              "options": [
+                "a) Institutionelle Redundanz durch mehrere, unabhängige Kontrollmechanismen.",
+                "b) Politische Bildung, die demokratische Handlungskompetenz vermittelt.",
+                "c) Eine strukturell verankerte Zivilgesellschaft."
+              ],
+              "correctAnswer": "a",
+              "explanation": "Die erste Säule ist laut Dr. Schiemann 'institutionelle Redundanz — mehrere, voneinander unabhängige Kontrollmechanismen'. b) ist die zweite Säule (politische Bildung); c) ist die dritte Säule."
+            },
+            {
+              "id": "C1_m05_HV2_q6",
+              "type": "mcq",
+              "questionText": "Welche Aussage über politische Bildung trifft der Text?",
+              "options": [
+                "a) Politische Bildung soll primär historisches Wissen über Demokratie vermitteln.",
+                "b) Politische Bildung soll die Bereitschaft zu politischem Protest fördern.",
+                "c) Politische Bildung soll über Wissen hinausgehen und demokratische Handlungskompetenz stärken."
+              ],
+              "correctAnswer": "c",
+              "explanation": "Dr. Schiemann fordert politische Bildung, 'die über Wissen hinausgeht und demokratische Handlungskompetenz vermittelt'. Das entspricht c). a) und b) geben den Inhalt unvollständig oder falsch wieder."
+            },
+            {
+              "id": "C1_m05_HV2_q7",
+              "type": "mcq",
+              "questionText": "Was sagt Dr. Schiemann über Populismus als demokratisches Signal?",
+              "options": [
+                "a) Populismus ist grundsätzlich antidemokratisch und darf kein legitimes Signal sein.",
+                "b) Populismus zeigt legitim an, dass Menschen mit der Reaktionsfähigkeit von Institutionen unzufrieden sind.",
+                "c) Populismus ist nur dann gefährlich, wenn er von Außenseitern ohne parlamentarische Erfahrung getragen wird."
+              ],
+              "correctAnswer": "b",
+              "explanation": "Dr. Schiemann nennt Populismus ein 'legitimes demokratisches Signal', das Unzufriedenheit mit der Reaktionsfähigkeit von Institutionen zeige. Das entspricht b). a) und c) stellen dies nicht korrekt dar."
+            },
+            {
+              "id": "C1_m05_HV2_q8",
+              "type": "mcq",
+              "questionText": "Wie soll Zivilgesellschaft laut Dr. Schiemann demokratisch wirksam sein?",
+              "options": [
+                "a) Die Zivilgesellschaft muss strukturell in politische Prozesse eingebunden sein, nicht nur protestieren.",
+                "b) Die Zivilgesellschaft soll vor allem öffentlichen Druck durch Demonstrationen ausüben.",
+                "c) Die Zivilgesellschaft ist als dritte Säule weniger wichtig als institutionelle Reformen."
+              ],
+              "correctAnswer": "a",
+              "explanation": "Dr. Schiemann fordert eine Zivilgesellschaft, 'die nicht nur protestiert, sondern in politischen Prozessen strukturell verankert ist'. Das entspricht a). b) und c) wiederholen nur Teilaspekte oder verfehlen den Kern."
+            },
+            {
+              "id": "C1_m05_HV2_q9",
+              "type": "mcq",
+              "questionText": "Was ist laut Dr. Schiemann das Verhältnis zwischen den drei Resilienzsäulen?",
+              "options": [
+                "a) Die drei Säulen sind gleichwertig, aber unabhängig voneinander wirksam.",
+                "b) Die drei Säulen greifen ineinander und bilden gemeinsam ein belastbares Fundament.",
+                "c) Die drei Säulen bauen hierarchisch aufeinander auf — ohne die erste können die anderen nicht wirken."
+              ],
+              "correctAnswer": "b",
+              "explanation": "Dr. Schiemann sagt: 'Diese drei Elemente greifen ineinander und bilden zusammen ein belastbares Fundament.' Das entspricht b) — sie sind komplementär. a) und c) sind nicht korrekt."
+            },
+            {
+              "id": "C1_m05_HV2_q10",
+              "type": "mcq",
+              "questionText": "Wie charakterisiert Dr. Schiemann das Bundesverfassungsgericht insgesamt?",
+              "options": [
+                "a) Das Bundesverfassungsgericht ist unentbehrlich, aber in Deutschland politisch überbewertet.",
+                "b) Das Bundesverfassungsgericht ist reaktiv und daher strukturell zu schwach.",
+                "c) Das Bundesverfassungsgericht ist eine der stärksten demokratischen Sicherungen, aber von der Öffentlichkeit kaum verstanden."
+              ],
+              "correctAnswer": "c",
+              "explanation": "Dr. Schiemann beschreibt das Bundesverfassungsgericht als 'eine der stärksten demokratischen Sicherungen Deutschlands — und eine der am wenigsten verstandenen'. Das entspricht c). a) und b) geben die Einschätzung unvollständig oder verzerrt wieder."
+            }
+          ]
+        },
+        {
+          "partNumber": 3,
+          "instructions": "Sie hören einen akademischen Vortrag zum Thema Demokratische Resilienz im europäischen Vergleich. Beantworten Sie die zehn Fragen. Was ist richtig? Kreuzen Sie an: a, b oder c. Sie hören den Vortrag zweimal.",
+          "instructionsTranslation": "You will hear an academic lecture on the topic of democratic resilience in European comparison. Answer the ten questions. What is correct? Mark a, b, or c. You will hear the lecture twice.",
+          "audioFile": "assets/audio/C1/mock05/listening_part3.mp3",
+          "playCount": 2,
+          "questions": [
+            {
+              "id": "C1_m05_HV3_q1",
+              "type": "mcq",
+              "questionText": "Was nennt der Vortragende als zentrales Kriterium, um demokratische Resilienz empirisch zu messen?",
+              "options": [
+                "a) Die Anzahl der Volksabstimmungen pro Jahrzehnt",
+                "b) Die Stabilität unabhängiger Institutionen unter politischem Druck",
+                "c) Die Wahlbeteiligungsquoten über mehrere Wahlzyklen"
+              ],
+              "correctAnswer": "b",
+              "explanation": "Der Vortragende betont: Die Belastbarkeit unabhängiger Institutionen — Gerichte, Medien, Rechnungshöfe — unter deliberatem politischem Druck ist das verlässlichste empirische Maß für demokratische Resilienz."
+            },
+            {
+              "id": "C1_m05_HV3_q2",
+              "type": "mcq",
+              "questionText": "Wie unterscheidet der Vortragende 'formale' von 'substantieller' Demokratie?",
+              "options": [
+                "a) Formale Demokratie meint direkte Beteiligungsformen; substantielle meint repräsentative Systeme.",
+                "b) Formale Demokratie umfasst Verfahren wie Wahlen; substantielle sichert zusätzlich Grundrechte und Gewaltenteilung.",
+                "c) Formale Demokratie ist stärker institutionalisiert als substantielle Demokratie."
+              ],
+              "correctAnswer": "b",
+              "explanation": "Der Vortragende erläutert: Formale Demokratie beschränkt sich auf Wahlverfahren. Substantielle Demokratie setzt voraus, dass Grundrechte, Minderheitenschutz und Gewaltenteilung strukturell verankert sind und gegen Mehrheitsentscheide geschützt werden."
+            },
+            {
+              "id": "C1_m05_HV3_q3",
+              "type": "mcq",
+              "questionText": "Welches europäische Fallbeispiel zieht der Vortragende für graduellen institutionellen Abbau heran?",
+              "options": [
+                "a) Frankreich unter de Gaulle",
+                "b) Ungarn unter Orbán",
+                "c) Griechenland in der Finanzkrise"
+              ],
+              "correctAnswer": "b",
+              "explanation": "Der Vortragende analysiert ausführlich Ungarn unter Viktor Orbán als Paradefall gradueller demokratischer Erosion: Wahlrecht, Verfassungsgericht, Medienlandschaft und Justiz wurden schrittweise umgebaut, ohne formell die demokratische Form zu verlassen."
+            },
+            {
+              "id": "C1_m05_HV3_q4",
+              "type": "mcq",
+              "questionText": "Welche Funktion schreibt der Vortragende der EU im Kontext demokratischer Resilienz zu?",
+              "options": [
+                "a) Die EU fungiert als Rechtsgemeinschaft, die Mindeststandards bindend einfordert — aber nur mit erheblichem Zeitverzug.",
+                "b) Die EU kann demokratische Erosion vollständig verhindern, wenn Artikel 7 konsequent angewendet wird.",
+                "c) Die EU hat keinen wirksamen Hebel gegen innenpolitische Demokratieabbau-Prozesse."
+              ],
+              "correctAnswer": "a",
+              "explanation": "Der Vortragende charakterisiert die EU als Rechtsgemeinschaft, die über Vertragsverletzungsverfahren und Konditionalitätsmechanismen Druck ausüben kann — aber langsam und mit erheblichem politischem Aufwand. Vollständige Prävention (b) und völlige Wirkungslosigkeit (c) werden im Vortrag beide verworfen."
+            },
+            {
+              "id": "C1_m05_HV3_q5",
+              "type": "mcq",
+              "questionText": "Welche Schlussfolgerung zieht der Vortragende aus dem Vergleich resilienterer und weniger resilienterer Demokratien?",
+              "options": [
+                "a) Wirtschaftlicher Wohlstand ist der einzige verlässliche Schutz gegen demokratischen Rückschritt.",
+                "b) Länder mit starker Tradition unabhängiger Verfassungsgerichtsbarkeit zeigen höhere Widerstandsfähigkeit.",
+                "c) Proportionale Wahlsysteme produzieren durchgängig resilientere Demokratien als Mehrheitswahlrecht."
+              ],
+              "correctAnswer": "b",
+              "explanation": "Der Vortragende schlussfolgert, dass die Stärke und Unabhängigkeit der Verfassungsgerichtsbarkeit der robusteste Prädiktor für demokratische Resilienz im europäischen Vergleich ist — nicht Wohlstand (a) oder Wahlsystemtyp (c) allein."
+            },
+            {
+              "id": "C1_m05_HV3_q6",
+              "type": "mcq",
+              "questionText": "Was meint der Vortragende mit 'legaler Illiberalität'?",
+              "options": [
+                "a) Gesetze, die formell verfassungskonform sind, aber substanziell demokratische Normen untergraben.",
+                "b) Volksbegehren, die trotz formaler Rechtmäßigkeit moralisch problematisch sind.",
+                "c) Internationale Handelsabkommen, die nationale Gesetzgebung aushöhlen."
+              ],
+              "correctAnswer": "a",
+              "explanation": "Der Vortragende definiert 'legale Illiberalität' als Gesetzgebung, die formal verfassungsrechtlichen Anforderungen entspricht — zum Beispiel korrekt verabschiedet wurde — aber materiell Grundrechte, Minderheitenschutz oder institutionelle Unabhängigkeit einschränkt."
+            },
+            {
+              "id": "C1_m05_HV3_q7",
+              "type": "mcq",
+              "questionText": "Wie bewertet der Vortragende die Rolle politischer Bildung für demokratische Resilienz?",
+              "options": [
+                "a) Politische Bildung ist wirksam, aber nur wenn sie verpflichtend in Schulcurricula verankert ist.",
+                "b) Politische Bildung ist eine notwendige, aber nicht hinreichende Bedingung für Resilienz.",
+                "c) Politische Bildung hat im empirischen Vergleich keinen signifikanten Effekt auf demokratische Stabilität."
+              ],
+              "correctAnswer": "b",
+              "explanation": "Der Vortragende sieht politische Bildung als notwendige Bedingung, betont aber, dass institutionelle Strukturen den Rahmen setzen müssen. Bildung allein — selbst wenn verpflichtend (a) — garantiert keine Resilienz. Die Behauptung fehlender Signifikanz (c) wird im Vortrag nicht gestützt."
+            },
+            {
+              "id": "C1_m05_HV3_q8",
+              "type": "mcq",
+              "questionText": "Welchen Begriff verwendet der Vortragende für das Phänomen, dass demokratische Erosion von innen heraus und ohne Putsch stattfindet?",
+              "options": [
+                "a) Demokratischer Zerfall",
+                "b) Autoritäre Regression",
+                "c) Demokratischer Rückschritt"
+              ],
+              "correctAnswer": "c",
+              "explanation": "Der Vortragende verwendet den terminus technicus 'demokratischer Rückschritt' (democratic backsliding) für schrittweise, gewählte Erosion von innen — ohne Militärputsch oder offene Diktatur. 'Zerfall' (a) impliziert unkontrollierten Zusammenbruch; 'Regression' (b) ist nicht der verwendete Begriff."
+            },
+            {
+              "id": "C1_m05_HV3_q9",
+              "type": "mcq",
+              "questionText": "Was nennt der Vortragende als strukturelles Defizit vieler europäischer Demokratien gegenüber Populismus?",
+              "options": [
+                "a) Zu starke Bürokratisierung der Parlamente",
+                "b) Fehlende direkte Beteiligungsformen auf nationaler Ebene",
+                "c) Mangelnde institutionelle Vorsorge für den Fall, dass demokratische Akteure selbst die Regeln brechen"
+              ],
+              "correctAnswer": "c",
+              "explanation": "Der Vortragende stellt fest, dass demokratische Systeme historisch für externe Bedrohungen konzipiert wurden — nicht für den Fall, dass demokratisch gewählte Akteure selbst beginnen, die Regeln zu untergraben. Dieses innere Defizit ist laut Vortrag das eigentliche strukturelle Problem."
+            },
+            {
+              "id": "C1_m05_HV3_q10",
+              "type": "mcq",
+              "questionText": "Welche Empfehlung gibt der Vortragende zur Stärkung der EU als demokratische Schutzinstanz?",
+              "options": [
+                "a) Die EU sollte nationale Regierungen direkt absetzen können, wenn demokratische Standards verletzt werden.",
+                "b) Die EU sollte Konditionalitätsmechanismen stärken und Mittelkürzungen konsequenter mit Rechtsstaatskriterien verknüpfen.",
+                "c) Die EU sollte ein gemeinsames Wahlsystem für alle Mitgliedsstaaten einführen."
+              ],
+              "correctAnswer": "b",
+              "explanation": "Der Vortragende empfiehlt die Stärkung bestehender Konditionalitätsmechanismen — insbesondere die konsequentere Verknüpfung von EU-Fördermitteln mit Rechtsstaatskriterien. a) überschreitet die vorgeschlagene Reichweite; c) ist im Vortrag nicht vorgesehen."
+            }
+          ]
+        }
+      ]
+    },
+    "writing": {
+      "totalTimeMinutes": 70,
+      "tasks": [
+        {
+          "taskNumber": 1,
+          "type": "essay",
+          "instructions": "Wählen Sie eine der beiden Aufgaben (A oder B) und schreiben Sie einen Text von mindestens 350 Wörtern. Sie haben 70 Minuten Zeit. Beachten Sie die vier Leitpunkte.",
+          "instructionsTranslation": "Choose one of the two tasks (A or B) and write a text of at least 350 words. You have 70 minutes. Pay attention to the four guiding points.",
+          "prompt": "Aufgabe A — Erörterung: Soll die Wähler*innenstimme bei Volksabstimmungen genauso viel gelten wie beim Parlamentsvotum?\n\nZwei Stimmen zur Debatte:\n\nStimme 1 (Politikprofessor): „Direkte Demokratie klingt verführerisch, birgt aber strukturelle Risiken. Komplexe Abwägungen zwischen Grundrechten, Minderheitenschutz und Mehrheitswillen lassen sich nicht in Ja/Nein-Fragen zwingen. Volksbegehren können für Desinformationskampagnen instrumentalisiert werden.\"\n\nStimme 2 (Bürgerrechtlerin): „Nur wer die Bürgerinnen und Bürger in Sachentscheidungen einbindet, betreibt echte Demokratie. Referenden stärken die politische Teilhabe, zwingen Parteien zu Transparenz und reduzieren das Gefühl politischer Entfremdung.\"\n\nLeitpunkte:\n1. Führen Sie in das Thema ein und erläutern Sie die gesellschaftliche Relevanz direkter Demokratie.\n2. Diskutieren Sie Argumente für bindende Volksabstimmungen auf nationaler Ebene.\n3. Diskutieren Sie Argumente gegen oder für Einschränkungen direkter Demokratie.\n4. Begründen Sie Ihren eigenen Standpunkt: Unter welchen Bedingungen — wenn überhaupt — sollten Volksabstimmungen eingeführt werden?\n\n---\n\nAufgabe B — Stellungnahme: Vertrauen in politische Institutionen — wie lässt es sich zurückgewinnen?\n\nAusgangsbehauptung (Eurobarometer 2025): „Das Vertrauen der Bevölkerung in Parlamente, Parteien und Regierungen erreicht in weiten Teilen Europas historische Tiefstände. Politische Institutionen gelten zunehmend als fremd, inkompetent und elitär.\"\n\nLeitpunkte:\n1. Führen Sie in das Thema ein: Welche Faktoren tragen zum Vertrauensverlust bei?\n2. Diskutieren Sie institutionelle Maßnahmen, die Vertrauen stärken können.\n3. Diskutieren Sie gesellschaftliche Voraussetzungen: Was müssen Bürgerinnen und Bürger selbst leisten?\n4. Nehmen Sie abschließend Stellung: Ist Vertrauensrückgewinn realistisch — und unter welchen Bedingungen?\n\nMindestlänge: 350 Wörter. Empfehlung: 350–400 Wörter.",
+          "promptTranslation": "Task A — Argumentative essay: Should votes in referenda carry the same weight as parliamentary votes? | Task B — Opinion statement: Trust in political institutions — how can it be regained?",
+          "requiredPoints": [
+            "Thema einführen und gesellschaftliche Relevanz erläutern",
+            "Argumente für eine Position diskutieren",
+            "Argumente für die Gegenposition oder Einschränkungen diskutieren",
+            "Eigenen Standpunkt begründen"
+          ],
+          "wordCountMin": 350,
+          "wordCountMax": 450,
+          "sampleAnswer": "Aufgabe A — Musterlösung (Erörterung)\n\nDie Frage, ob Volksabstimmungen dieselbe demokratische Legitimität besitzen wie Parlamentsentscheidungen, ist keine abstrakte Verfassungsfrage — sie berührt das Selbstverständnis moderner Demokratie. In Zeiten wachsender politischer Entfremdung und sinkenden Vertrauens in Repräsentation gewinnt sie erhebliche praktische Sprengkraft.\n\nFür bindende Volksabstimmungen spricht zunächst das Prinzip demokratischer Teilhabe in seiner direktesten Form. Wenn Menschen über Fragen abstimmen können, die ihr Leben unmittelbar betreffen — Infrastrukturprojekte, Sozialleistungen, Verfassungsänderungen — erhöht das die Identifikation mit dem politischen System. Referenden zwingen Parteien überdies, ihre Positionen öffentlich zu erklären und verteidigungsfähig zu machen, was der politischen Transparenz zugutekommt. Länder wie die Schweiz belegen, dass direkte Demokratie funktionieren kann, ohne in permanente Instabilität zu münden.\n\nGleichwohl sind die Einwände gewichtig. Komplexe politische Abwägungen — etwa zwischen Grundrechtssicherung und Mehrheitspräferenz — lassen sich nicht in binären Abstimmungsformaten abbilden. Das Brexit-Referendum hat gezeigt, wie ein Ja/Nein-Votum über eine multidimensionale Frage zu einer jahrelangen Governance-Krise führen kann. Gefährlicher noch ist die Anfälligkeit von Volksabstimmungen für Desinformationskampagnen: In einem Informationsökosystem, in dem algorithmisch kurierte Emotionalisierung rationale Deliberation strukturell benachteiligt, ist die informierte Entscheidung keine sichere Grundlage.\n\nIn Anbetracht dieser Abwägung vertrete ich folgenden Standpunkt: Volksabstimmungen sollten nicht generell ausgeschlossen, aber an strenge Bedingungen geknüpft werden. Sie eignen sich für klar umgrenzte Sachfragen ohne Grundrechtsrelevanz und sollten durch verpflichtende deliberative Phasen — Bürgerräte, Sachverständigenanhörungen, neutrale Informationskampagnen — vorbereitet werden. Grundrechte müssen dem Volkswillen entzogen bleiben: Eine 51-Prozent-Mehrheit kann keine Minderheitenrechte aushebeln. Unter diesen Bedingungen könnte direkte Demokratie das repräsentative System sinnvoll ergänzen — ohne es zu ersetzen.",
+          "sampleAnswerMetadata": "ca. 370 Wörter — demonstriert alle 4 Leitpunkte, ≥3 FVG (Sprengkraft, zugutekommt, entzogen bleiben), Konjunktiv II (lassen sich nicht abbilden), Konnektoren-Vielfalt (gleichwohl, überdies, in Anbetracht)",
+          "scoringCriteria": [
+            {
+              "criterion": "Aufgabengerechtheit",
+              "maxPoints": 12,
+              "description": "Alle 4 Leitpunkte vollständig behandelt — Einführung mit gesellschaftlicher Einordnung, beide Seiten der Debatte mit je ≥2 Argumenten, begründeter Standpunkt mit Bedingungen. Kein Leitpunkt ausgelassen."
+            },
+            {
+              "criterion": "Repertoire",
+              "maxPoints": 12,
+              "description": "C1-Wortschatz: politisch-abstrakte Lexik (Governance-Krise, deliberative Phasen, epistemisch, Legitimität), ≥3 Funktionsverbgefüge, Hedging-Ausdrücke, variiertes Konnektor-Repertoire. Keine B1/B2-Einheitsprosa."
+            },
+            {
+              "criterion": "Korrektheit",
+              "maxPoints": 12,
+              "description": "Morphologische und syntaktische Korrektheit auf C1-Niveau. Konjunktiv II, Genitiv-Präpositionen (in Anbetracht), Passiv-Ersatzformen und Infinitivkonstruktionen korrekt eingesetzt."
+            },
+            {
+              "criterion": "Kommunikative Gestaltung",
+              "maxPoints": 12,
+              "description": "Klare Textstruktur (Einleitung/Hauptteil/Schluss), kohärente Absatzführung, variierte Konnektoren, durchgängig formal-akademisches Register. Kein abrupter Registerwechsel."
+            }
+          ]
+        }
+      ]
+    },
+    "speaking": {
+      "totalTimeMinutes": 16,
+      "prepTimeMinutes": 20,
+      "parts": [
+        {
+          "partNumber": 1,
+          "instructions": "Teil 1A — Präsentation: Wählen Sie eines der beiden Themen und halten Sie eine Präsentation von ca. 3 Minuten. Nutzen Sie die Stichpunkte als Anregung. Sie haben 20 Minuten Vorbereitungszeit.",
+          "instructionsTranslation": "Part 1A — Presentation: Choose one of the two topics and give a presentation of approximately 3 minutes. Use the bullet points as prompts. You have 20 minutes preparation time.",
+          "type": "presentation",
+          "prompt": "Thema A: Populismus — Symptom oder Ursache demokratischer Krise?\n\nMögliche Aspekte (Sie müssen nicht alle ansprechen):\n• Wie definieren Politikwissenschaftlerinnen und -wissenschaftler Populismus heute?\n• Welche gesellschaftlichen Bedingungen begünstigen populistischen Aufstieg?\n• Ist Populismus ein Zeichen funktionierender oder scheiternder Demokratie?\n• Welche demokratischen Institutionen sind am stärksten gefährdet?\n\n---\n\nThema B: Direkte Demokratie — Erweiterung oder Gefährdung repräsentativer Systeme?\n\nMögliche Aspekte (Sie müssen nicht alle ansprechen):\n• Welche Formen direkter Demokratie gibt es, und wo werden sie erfolgreich eingesetzt?\n• Welche Risiken trägt direkte Demokratie in einer Informationsgesellschaft?\n• Unter welchen Bedingungen kann direkte Demokratie repräsentative Systeme sinnvoll ergänzen?\n• Welche Verfassungsgrenzen müssten direkte Demokratie schützen?",
+          "sampleResponse": "[Thema A — Musterpräsentation]\n\nMeine Damen und Herren, Populismus ist eines der meistdiskutierten und gleichzeitig missverstandensten Konzepte der politischen Gegenwart. Er ist weder ein regionaler Ausrutscher noch ein historisches Phänomen — er ist eine Antwort auf strukturelle Defizite, die liberale Demokratien selbst produziert haben.\n\nPolitikwissenschaftlerinnen definieren Populismus heute als sogenannte 'dünne Ideologie': Sie teilt Gesellschaft in ein reines Volk und eine korrupte Elite — und beansprucht, nur ersteres zu vertreten. Das Wichtige daran: Populismus braucht für sich selbst keine vollständige politische Agenda. Er verbindet sich mit Nationalismus, mit Sozialismus, mit Agrarprotektionismus — je nach gesellschaftlichem Bedarf.\n\nWas begünstigt seinen Aufstieg? Die Forschung zeigt zwei sich verstärkende Faktoren: materielle Unsicherheit einerseits — Deindustrialisierung, Prekarisierung, wachsende Ungleichheit — und kulturelle Abwertungserfahrungen andererseits. Wer das Gefühl hat, dass das eigene Milieu, die eigene Lebensweise in der öffentlichen Debatte nicht mehr vorkommt oder gar verachtet wird, ist empfänglich für Akteure, die sagen: 'Ich allein vertreten euch.'\n\nIst das nun ein Zeichen funktionierender oder scheiternder Demokratie? Die ehrliche Antwort lautet: beides. Populismus zeigt, dass Menschen mit der Responsivität von Institutionen unzufrieden sind — das ist ein legitimes demokratisches Signal. Gefährlich wird es, wenn populistische Akteure an die Macht gelangen und beginnen, jene Institutionen zu demontieren, die sie getragen haben.\n\nMein Fazit: Populismus ist weniger die Ursache als das Symptom demokratischer Krankheit. Wer ihn bekämpft, ohne die Vertrauensdefizite anzugehen, die ihn nähren, behandelt das Fieber und ignoriert die Infektion. Eine resiliente Demokratie braucht institutionelle Stärke — und den politischen Willen, echte Responsivität herzustellen.",
+          "evaluationTips": [
+            "Strukturieren Sie Ihren Vortrag mit Einleitung, Hauptteil (2–3 Argumentationsstränge) und Fazit.",
+            "C1-Erwartung: Keine Auflistung — argumentative Entwicklung mit Kausalität und Wertung.",
+            "Verwenden Sie Konjunktiv II für epistemische Distanzierung: 'Es ließe sich argumentieren, dass…'",
+            "Signalwörter nutzen: 'Zunächst möchte ich…', 'Ein weiterer Aspekt…', 'Mein Fazit…'",
+            "Blickkontakt und natürliche Sprechweise gehören zur Bewertung."
+          ],
+          "keyPhrases": [
+            "Ich möchte zunächst auf … eingehen",
+            "Ein zentraler Aspekt ist …",
+            "Es ließe sich argumentieren, dass …",
+            "Dem ist entgegenzuhalten, dass …",
+            "Meinem Dafürhalten nach …",
+            "Zusammenfassend lässt sich sagen …",
+            "In Anbetracht dieser Überlegungen …",
+            "Dies hat weitreichende Konsequenzen für …"
+          ]
+        },
+        {
+          "partNumber": 2,
+          "instructions": "Teil 1B — Zusammenfassung und Anschlussfrage: Der/die Prüfungspartner/in fasst die Präsentation kurz zusammen und stellt eine Anschlussfrage. Der/die Präsentierende antwortet.",
+          "instructionsTranslation": "Part 1B — Summary and follow-up question: The exam partner briefly summarises the presentation and asks one follow-up question. The presenter responds.",
+          "type": "discussion",
+          "prompt": "Aufgabe für den/die Prüfungspartner/in:\n1. Fassen Sie die Hauptthesen der Präsentation in 2–3 Sätzen zusammen.\n2. Stellen Sie eine Anschlussfrage, die einen neuen Aspekt öffnet oder eine These kritisch hinterfragt.\n\nBeispiele für Anschlussfragen (je nach Präsentationsthema):\n- „Du hast Populismus als Symptom bezeichnet. Aber wäre es nicht naiv, ihn nicht auch als eigenständige Bedrohung zu sehen?\"\n- „Wie würdest du jemandem antworten, der sagt: ‚Volksabstimmungen sind die reinste Form der Demokratie — alles andere ist Elitokratie'?\"\n- „Welche konkreten institutionellen Reformen würdest du als vordringlich ansehen?\"\n\nAufgabe für den/die Präsentierende/n:\nReagieren Sie direkt: korrigieren Sie Missverständnisse, beantworten Sie die Frage mit begründeter Argumentation.",
+          "sampleResponse": "[Musterreaktion auf Anschlussfrage zur Volksabstimmungsthese]\n\nDas ist ein wichtiger Einwand, dem ich partiell zustimme. Natürlich ist die Berufung auf 'das Volk' nicht per se populistisch — das Volk ist in einer Demokratie tatsächlich Souverän. Das Problem liegt woanders: Die Frage, wer bei einem Referendum als Volk gilt, wer abstimmt und unter welchen Informationsbedingungen, entscheidet über die demokratische Qualität des Ergebnisses. Ein Referendum, das von einer finanziell überlegenen Kampagne mit Desinformation gewonnen wird, ist kein Akt demokratischer Selbstbestimmung — es ist eine manipulierte Akklamation. Das unterscheidet die Schweiz, die Jahrzehnte deliberativer Praxis hat, vom Brexit, der von keiner dieser Voraussetzungen profitierte. Die Reinheit des Formats garantiert also nicht die Reinheit des Prozesses.",
+          "evaluationTips": [
+            "Aktiv zuhören: Missverständnisse korrigieren, korrekte Punkte bestätigen.",
+            "Direkt antworten — nicht ausweichen.",
+            "C1: Differenziert reagieren, Teilargumente einräumen, bevor Sie widersprechen.",
+            "Turn-taking-Marker: 'Diese Frage trifft…', 'Ich möchte ergänzen, dass…', 'Das stimmt, aber…'"
+          ],
+          "keyPhrases": [
+            "Ich stimme zu, dass … allerdings …",
+            "Das ist ein wichtiger Punkt, den ich ergänzen möchte: …",
+            "Ich würde einer einseitigen Schuldzuweisung widersprechen …",
+            "Das trifft einen wesentlichen Aspekt …",
+            "In diesem Zusammenhang ist zu bedenken, dass …"
+          ]
+        },
+        {
+          "partNumber": 3,
+          "instructions": "Teil 2 — Diskussion: Diskutieren Sie gemeinsam mit Ihrem/Ihrer Prüfungspartner/in die folgende These. Beide müssen aktiv argumentieren und auf die Argumente des Partners eingehen. Ca. 5–6 Minuten.",
+          "instructionsTranslation": "Part 2 — Discussion: Discuss the following thesis together with your exam partner. Both must actively argue and respond to the partner's arguments. Approximately 5–6 minutes.",
+          "type": "discussion",
+          "prompt": "Diskussionsthese:\n\n„Sollte das Bundesverfassungsgericht das Recht erhalten, Parteien mit verfassungsfeindlichen Tendenzen präventiv zu regulieren — noch bevor sie gegen Gesetze verstoßen?\"\n\nHintergrund: Auf Ihre Diskussionskarten steht eine kurze Einschätzung als Ausgangspunkt:\n\nKarte A: „Eine Demokratie, die ihre eigenen Feinde schützt, bis sie stark genug sind, sie zu zerstören, ist keine wehrhafte Demokratie. Präventive Regulierung ist das Gebot der Stunde.\"\n\nKarte B: „Präventive Regulierung durch ein nicht gewähltes Gericht ist unvereinbar mit dem demokratischen Prinzip. Wer entscheidet, was 'verfassungsfeindlich' ist? Das öffnet Willkür Tür und Tor.\"\n\nDiskutieren Sie:\n- Was versteht man unter 'wehrhafter Demokratie' im deutschen Grundgesetz?\n- Wo liegt die Grenze zwischen legitimer politischer Opposition und verfassungsfeindlicher Tendenz?\n- Welche Risiken trägt präventive Regulierung für die Meinungsfreiheit?\n- Wie kann Demokratie sich schützen, ohne ihre eigenen Prinzipien zu verletzen?",
+          "sampleResponse": "[Musterargumentation — Karte B-Position]\n\nIch möchte zunächst den Begriff 'präventiv' hinterfragen. Das Grundgesetz kennt das Parteiverbotsverfahren — es ist aber ein reaktives Instrument, das einen nachgewiesenen Verstoß voraussetzt. Präventive Regulierung würde bedeuten, dass ein Gericht auf der Basis von Absichten oder Tendenzen handelt, nicht auf Grundlage konkreter Handlungen. Das ist ein fundamentaler Schritt weg vom Rechtsstaatsprinzip.\n\nIch teile die Sorge um demokratische Resilienz vollständig. Aber das Mittel ist falsch gewählt. Denn: Wer definiert 'verfassungsfeindliche Tendenz'? Das Verfassungsgericht urteilt auf Antrag — das heißt, die politische Mehrheit entscheidet, wer reguliert wird. In einer funktionierenden Demokratie ist das ein legitimes Risiko. In einer, die bereits unter demokratischem Rückschritt leidet, ist es das Instrument, das Regierungen gegen Oppositionsparteien einsetzen können.\n\nTrotzdem möchte ich deiner Position eines einräumen: Die 'streitbare Demokratie', die das Grundgesetz im Sinn hat, ist keine naive Demokratie. Artikel 21 GG erlaubt Parteiverbote bei nachgewiesener aktiver Bekämpfung der freiheitlich-demokratischen Grundordnung. Was wir stärken sollten, ist nicht die Präventivbefugnis, sondern die Fähigkeit, dieses bestehende Instrument schnell und rigoros zu nutzen, wenn die Schwelle überschritten ist.\n\nLetztlich lautet meine These: Die Demokratie schützt sich nicht durch Ausweitung richterlicher Präventivbefugnis, sondern durch institutionelle Redundanz, starke Zivilgesellschaft und eine Kultur, die Demokratiefeindlichkeit als solche benennt — bevor es zu Parteiverbotsfragen kommt.",
+          "evaluationTips": [
+            "C1-Diskussion: These → Antithese → Synthese — kein Monolog.",
+            "Auf Argumente des Partners eingehen: 'Das überzeugt mich nicht ganz, weil…'",
+            "Konzessivmarker verwenden: 'Gleichwohl…', 'Dennoch…', 'Allerdings…'",
+            "Turn-Taking: Partner ausreden lassen, aktiv bestätigen ('Ich höre, dass du sagst…').",
+            "Keine Wiederholung der eigenen Position — argumentative Entwicklung."
+          ],
+          "keyPhrases": [
+            "Ich möchte zunächst den Begriff … hinterfragen",
+            "Das überzeugt mich nicht vollständig, weil …",
+            "Ich möchte einem Aspekt deiner Argumentation widersprechen: …",
+            "Gleichwohl ist zu berücksichtigen, dass …",
+            "Darin stimme ich dir zu, allerdings …",
+            "Letztlich würde ich argumentieren, dass …",
+            "Das bringt mich zu einem weiteren Punkt …",
+            "Ich denke, wir sind uns einig, dass … – aber strittig bleibt …"
+          ]
+        }
+      ]
+    }
   }
 }
