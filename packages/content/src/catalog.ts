@@ -24,12 +24,9 @@ function generateEntries(level: Level, count: number): MockExamEntry[] {
       'Alltag', 'Familie', 'Wohnen', 'Essen', 'Termine',
       'Arbeit', 'Freizeit', 'Gesundheit', 'Reisen', 'Einkaufen',
     ],
-    // B1 convergent end-state: 15 mocks (01–10 shipped; 11–15 planned WS-A wave 6–8)
     B1: [
-      'Alltag', 'Berufseinstieg', 'Bildung', 'Medien', 'Wohnen & Lernen',
-      'Kultur & Veranstaltungen', 'Kultur', 'Gesundheit', 'Reisen', 'Konsum',
-      'Arbeit & Karriere', 'Gesundheit & Lebensstil', 'Reisen & Mobilität',
-      'Familie & Generationen', 'Medien & digitales Leben',
+      'Alltag', 'Berufseinstieg', 'Bildung', 'Medien', 'Umwelt',
+      'Gesellschaft', 'Kultur', 'Gesundheit', 'Reisen', 'Konsum',
     ],
     B2: [
       'Beruf & Arbeitswelt', 'Bildung & Studium', 'Gesundheit & Medizin', 'Medien & Kommunikation', 'Umwelt & Nachhaltigkeit',
@@ -37,36 +34,28 @@ function generateEntries(level: Level, count: number): MockExamEntry[] {
     ],
     C1: [
       'Wissenschaftliche Erkenntnis und Verantwortung',
-      'Bildung und Hochschule',
+      'Forschung',
       'Medien und Künstliche Intelligenz',
-      'Wirtschaft und Globalisierung',
-      'Datenschutz und digitale Sicherheit',
-      'Gesellschaft und Migration',
-      'Kultur und Identität',
-      'Gesundheit und Bioethik',
-      'Politik und Demokratie',
-      'Technologie und Zukunft der Arbeit',
+      'Medien', 'Umwelt',
+      'Gesellschaft', 'Kultur', 'Wirtschaft', 'Politik', 'Technologie',
     ],
   };
 
-  // Mocks 01–10 for all levels have JSON files committed as of 2026-04-26.
-  // B1 mocks 11–15 are planned (WS-A waves 6–8) — hasContent: false until shipped.
-  const shippedCounts: Partial<Record<Level, number>> = { B1: 10 };
-  const shipped = shippedCounts[level] ?? count;
-
+  // All 50 mocks (5 levels × 10) have JSON files committed as of 2026-04-26.
+  // Set hasContent: false for any entry whose JSON has not yet been shipped.
   return Array.from({ length: count }, (_, i) => ({
     id: `${level}_mock_${String(i + 1).padStart(2, '0')}`,
     level,
     mockNumber: i + 1,
     title: `${level} Übungstest ${i + 1}: ${titles[level][i]}`,
-    hasContent: i < shipped,
+    hasContent: true,
   }));
 }
 
 export const MOCK_EXAM_CATALOG: MockExamEntry[] = [
   ...generateEntries('A1', 10),
   ...generateEntries('A2', 10),
-  ...generateEntries('B1', 15),
+  ...generateEntries('B1', 10),
   ...generateEntries('B2', 10),
   ...generateEntries('C1', 10),
 ];
