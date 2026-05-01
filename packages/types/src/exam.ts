@@ -94,6 +94,9 @@ export interface WritingTask {
   wordCountMin?: number;
   wordCountMax?: number;
   sampleAnswer: string;
+  /** Editorial metadata about the sample answer (word count, grammar features demonstrated).
+   * Kept separate from sampleAnswer so it is never rendered inline as candidate content. */
+  sampleAnswerMetadata?: string;
   scoringCriteria: ScoringCriteria[];
 }
 

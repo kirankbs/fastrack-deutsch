@@ -1,9 +1,9 @@
 <speak>
   <!-- C1 Mock 01 — Teil 1 (8 Kurzaussagen / Speaker-to-Summary matching, playCount=1) -->
   <!-- Announcer: de-DE-Wavenet-C (female, neutral) -->
-  <!-- 8 speakers rotating: Wavenet-F (Sprecherin 1), Wavenet-B (Sprecher 2), Wavenet-A (Sprecherin 3), -->
-  <!--   Wavenet-D (Sprecher 4), Wavenet-E (Sprecherin 5), Wavenet-B (Sprecher 6), -->
-  <!--   Wavenet-F (Sprecherin 7), Wavenet-D (Sprecher 8) -->
+  <!-- 8 speakers — 8 UNIQUE voices (4 female / 4 male) per CR-9 spec -->
+  <!-- Female: Wavenet-F (Sp1 Kettner), Wavenet-A (Sp3 Wahl), Wavenet-E (Sp5 Reuter), Neural2-F (Sp7 Lanz) -->
+  <!-- Male:   Wavenet-B (Sp2 Steinmann), Wavenet-D (Sp4 Berger), Neural2-B (Sp6 Schwarz), Neural2-D (Sp8 Nkemdirim) -->
   <!-- C1 spec: natural speed 1.0x, played ONCE, no pedagogical slowing -->
   <!-- 10-second initial pause for candidates to read summary statements a-j -->
   <!-- 5-second pauses between speakers -->
@@ -23,6 +23,7 @@
   </voice>
 
   <!-- Sprecher 1: Frau Dr. Kettner, Wissenschaftsforscherin — Antwort: a -->
+  <!-- Voice: de-DE-Wavenet-F (female, unique) -->
   <voice name="de-DE-Wavenet-C">
     <prosody rate="1.0">Sprecher 1: Frau Dr. Kettner, Wissenschaftsforscherin.</prosody>
     <break time="1s"/>
@@ -39,6 +40,7 @@
   <break time="5s"/>
 
   <!-- Sprecher 2: Herr Prof. Steinmann, Methodik-Experte — Antwort: b -->
+  <!-- Voice: de-DE-Wavenet-B (male, unique) -->
   <voice name="de-DE-Wavenet-C">
     <prosody rate="1.0">Sprecher 2: Herr Professor Steinmann, Methodik-Experte.</prosody>
     <break time="1s"/>
@@ -55,6 +57,7 @@
   <break time="5s"/>
 
   <!-- Sprecher 3: Frau Prof. Wahl, Wissenschaftsphilosophin — Antwort: c -->
+  <!-- Voice: de-DE-Wavenet-A (female, unique) -->
   <voice name="de-DE-Wavenet-C">
     <prosody rate="1.0">Sprecher 3: Frau Professorin Wahl, Wissenschaftsphilosophin.</prosody>
     <break time="1s"/>
@@ -71,6 +74,7 @@
   <break time="5s"/>
 
   <!-- Sprecher 4: Herr Dr. Berger, Fachzeitschriften-Herausgeber — Antwort: d -->
+  <!-- Voice: de-DE-Wavenet-D (male, unique) -->
   <voice name="de-DE-Wavenet-C">
     <prosody rate="1.0">Sprecher 4: Herr Dr. Berger, Fachzeitschriften-Herausgeber.</prosody>
     <break time="1s"/>
@@ -87,6 +91,7 @@
   <break time="5s"/>
 
   <!-- Sprecher 5: Frau Dr. Reuter, Forschungsberaterin — Antwort: g -->
+  <!-- Voice: de-DE-Wavenet-E (female, unique) -->
   <voice name="de-DE-Wavenet-C">
     <prosody rate="1.0">Sprecher 5: Frau Dr. Reuter, Forschungsberaterin.</prosody>
     <break time="1s"/>
@@ -103,11 +108,12 @@
   <break time="5s"/>
 
   <!-- Sprecher 6: Herr Dr. Schwarz, KI-Forscher — Antwort: h -->
+  <!-- Voice: de-DE-Neural2-B (male, unique — distinct from Wavenet-B used for Sp2) -->
   <voice name="de-DE-Wavenet-C">
     <prosody rate="1.0">Sprecher 6: Herr Dr. Schwarz, KI-Forscher.</prosody>
     <break time="1s"/>
   </voice>
-  <voice name="de-DE-Wavenet-B">
+  <voice name="de-DE-Neural2-B">
     <prosody rate="1.0">
       KI-Systeme lernen aus dem, was vorhanden ist — und was vorhanden ist, ist die bestehende
       Forschungsliteratur. Wenn diese Literatur selektiv ist, positive Ergebnisse überrepräsentiert
@@ -120,11 +126,12 @@
   <break time="5s"/>
 
   <!-- Sprecher 7: Frau Lanz, Wissenschaftsjournalistin — Antwort: i -->
+  <!-- Voice: de-DE-Neural2-F (female, unique — distinct from Wavenet-F used for Sp1) -->
   <voice name="de-DE-Wavenet-C">
     <prosody rate="1.0">Sprecher 7: Frau Lanz, Wissenschaftsjournalistin.</prosody>
     <break time="1s"/>
   </voice>
-  <voice name="de-DE-Wavenet-F">
+  <voice name="de-DE-Neural2-F">
     <prosody rate="1.0">
       Als Journalistin muss ich sagen: Wir haben Fehler gemacht. Wir haben Preprints zitiert,
       als wären es peer-reviewte Artikel — vor allem während der Pandemie. Das war irreführend,
@@ -137,11 +144,12 @@
   <break time="5s"/>
 
   <!-- Sprecher 8: Herr Prof. Nkemdirim, Entwicklungsländer-Forscher — Antwort: j -->
+  <!-- Voice: de-DE-Neural2-D (male, unique — distinct from Wavenet-D used for Sp4) -->
   <voice name="de-DE-Wavenet-C">
     <prosody rate="1.0">Sprecher 8: Herr Professor Nkemdirim, Forscher aus Lagos.</prosody>
     <break time="1s"/>
   </voice>
-  <voice name="de-DE-Wavenet-D">
+  <voice name="de-DE-Neural2-D">
     <prosody rate="1.0">
       Open Science klingt wunderbar, wenn man in einem gut ausgestatteten europäischen Labor sitzt.
       Aber in meiner Universität in Lagos fehlt schlicht die technische Infrastruktur,
