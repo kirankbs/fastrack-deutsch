@@ -1262,5 +1262,93 @@
       }
     ],
     "orderIndex": 22
+  },
+  {
+    "id": 23,
+    "level": "B1",
+    "topic": "Zweiteilige Konnektoren — zwar...aber, sowohl...als auch, weder...noch, entweder...oder, nicht nur...sondern auch, je...desto",
+    "explanation": "Zweiteilige (korrelierende) Konnektoren verbinden zwei Satzteile oder Hauptsätze als Paar. Syntax: beide Teile stehen an der normalen Verbposition (Verb-Zweit in Hauptsätzen), sofern nicht anders angegeben. (1) 'zwar...aber' — konzessiv: räumt etwas ein, kontrastiert es dann. 'Das Buch ist zwar teuer, aber sehr gut.' Beide Seiten haben Verb-Zweit; kein Komma nach 'zwar', Komma vor 'aber'. (2) 'sowohl...als auch' — additiv: beide Elemente treffen zu. 'Sie spricht sowohl Englisch als auch Spanisch.' Kein Komma zwischen den Teilen; Verb bleibt singular oder richtet sich nach dem nächsten Subjekt. (3) 'weder...noch' — doppelte Verneinung: kein der beiden Elemente trifft zu. 'Er hat weder angerufen noch geschrieben.' Kein zusätzliches 'nicht' nötig — Falle: 'nicht weder...noch' ist falsch. (4) 'entweder...oder' — exklusive Disjunktion: genau eine Möglichkeit gilt. 'Entweder kommst du jetzt, oder wir gehen ohne dich.' (5) 'nicht nur...sondern auch' — emphatisch additiv. Komma obligatorisch vor 'sondern'. 'Er ist nicht nur intelligent, sondern auch fleißig.' (6) 'je...desto/umso' — komparatives Korrelat: der erste Teilsatz mit 'je' hat Verb-Final (Nebensatzstellung); der zweite mit 'desto/umso' hat Verb-Zweit mit Inversion. 'Je mehr ich übe, desto sicherer werde ich.' Häufige Falle: 'Je mehr ich übe, desto ich werde sicherer' — falsch, Inversion fehlt.",
+    "examples": [
+      "Das Zimmer ist zwar klein, aber sehr gemütlich.",
+      "Er kann sowohl Klavier als auch Gitarre spielen.",
+      "Sie hat weder geantwortet noch zurückgerufen.",
+      "Entweder nehmen wir den Zug, oder wir fahren mit dem Auto.",
+      "Das Konzert war nicht nur laut, sondern auch unglaublich mitreißend.",
+      "Je länger er wartet, desto nervöser wird er.",
+      "Ich trinke zwar keinen Alkohol, aber ein Glas Wein zum Essen ist okay.",
+      "Je früher du anfängst, umso mehr Zeit bleibt dir zum Üben."
+    ],
+    "exercises": [
+      {
+        "type": "fill_blank",
+        "prompt": "Das Hotel ist ___ teuer, ___ das Frühstück ist inklusive. (Konzession: etwas einräumen, dann kontrastieren)",
+        "correctAnswer": "zwar / aber",
+        "explanation": "'Zwar...aber' räumt etwas ein und kontrastiert es. 'Sowohl...als auch' wäre additiv (beide positiv), hier liegt aber ein Kontrast vor. Kein Komma nach 'zwar', Komma vor 'aber'."
+      },
+      {
+        "type": "fill_blank",
+        "prompt": "Sie kann ___ Deutsch ___ Englisch sehr gut. (Beide Sprachen treffen zu.)",
+        "correctAnswer": "sowohl / als auch",
+        "explanation": "'Sowohl...als auch' drückt aus, dass beide Elemente zutreffen. 'Weder...noch' wäre die Verneinungsform. Kein Komma zwischen 'sowohl' und 'als auch'."
+      },
+      {
+        "type": "fill_blank",
+        "prompt": "Er hat ___ angerufen ___ eine Nachricht geschickt. (Keine der beiden Handlungen ist erfolgt.)",
+        "correctAnswer": "weder / noch",
+        "explanation": "'Weder...noch' verneint beide Elemente ohne zusätzliches 'nicht'. 'Entweder...oder' würde eine Wahl ausdrücken, keine Verneinung."
+      },
+      {
+        "type": "fill_blank",
+        "prompt": "___ du räumst heute auf, ___ ich mache es alleine. (Genau eine von zwei Möglichkeiten.)",
+        "correctAnswer": "Entweder / oder",
+        "explanation": "'Entweder...oder' stellt zwei Alternativen gegenüber, von denen eine gilt. Bei Satzstellung nach 'entweder' gilt Verb-Zweit (Inversion möglich: 'Entweder räumst du auf...')."
+      },
+      {
+        "type": "fill_blank",
+        "prompt": "Der neue Mitarbeiter ist ___ pünktlich, ___ sehr motiviert. (Emphase: beides trifft zu, nicht nur das eine.)",
+        "correctAnswer": "nicht nur / sondern auch",
+        "explanation": "'Nicht nur...sondern auch' betont, dass über das Erwartete hinaus noch mehr gilt. Komma obligatorisch vor 'sondern'. 'Sowohl...als auch' wäre auch korrekt, aber weniger emphatisch."
+      },
+      {
+        "type": "fill_blank",
+        "prompt": "___ mehr Vokabeln du lernst, ___ leichter fällt dir das Lesen. (Komparatives Korrelat)",
+        "correctAnswer": "Je / desto",
+        "explanation": "'Je...desto' verbindet zwei Komparativsätze. Nach 'je' folgt Verb-Final (Nebensatz); nach 'desto' folgt Inversion (Verb an 2. Stelle). 'Desto' und 'umso' sind austauschbar."
+      },
+      {
+        "type": "mcq",
+        "prompt": "Sie kann ___ Klavier ___ Geige spielen. (Beide Instrumente beherrscht sie.)",
+        "correctAnswer": "sowohl / als auch",
+        "options": [
+          "weder / noch",
+          "sowohl / als auch",
+          "nicht nur / sondern"
+        ],
+        "explanation": "'Sowohl...als auch' ist additiv — beide Elemente treffen zu. 'Weder...noch' wäre eine doppelte Verneinung (sie kann keines von beiden). 'Nicht nur...sondern' ist unvollständig ohne 'auch'."
+      },
+      {
+        "type": "mcq",
+        "prompt": "Das Wetter war ___ schön, ___ kalt. Wir sind trotzdem spazieren gegangen. (Konzession: etwas einräumen, dann fortfahren)",
+        "correctAnswer": "zwar / aber",
+        "options": [
+          "entweder / oder",
+          "zwar / aber",
+          "sowohl / als auch"
+        ],
+        "explanation": "'Zwar...aber' signalisiert eine Einschränkung und Gegensatz. 'Entweder...oder' stellt Alternativen dar, was hier nicht passt. 'Sowohl...als auch' wäre additiv ohne Kontrast."
+      },
+      {
+        "type": "mcq",
+        "prompt": "Je mehr er isst, ___ zunimmt er.",
+        "correctAnswer": "desto mehr",
+        "options": [
+          "desto mehr",
+          "umso er mehr",
+          "desto er mehr"
+        ],
+        "explanation": "Nach 'desto/umso' folgt der Komparativ direkt, dann das konjugierte Verb (Inversion). 'Desto er mehr zunimmt' oder 'umso er mehr' sind Wortstellungsfehler — häufige Falle im Hueber-Format."
+      }
+    ],
+    "orderIndex": 23
   }
 ]

@@ -93,11 +93,11 @@ describe('GrammarLevelPage — static data, no fs at request time', () => {
     expect(cards.length).toBe(20);
   });
 
-  it('B1 renders topic grid with 22 cards', async () => {
+  it('B1 renders topic grid with 23 cards', async () => {
     await renderPage('B1');
     const grid = screen.getByTestId('topic-grid');
     const cards = grid.querySelectorAll('[data-testid^="topic-card-"]');
-    expect(cards.length).toBe(22);
+    expect(cards.length).toBe(23);
   });
 
   it('B2 renders topic grid with 27 cards', async () => {
@@ -115,7 +115,7 @@ describe('GrammarLevelPage — static data, no fs at request time', () => {
   });
 
   it('topic count subtitle matches the actual JSON count', async () => {
-    for (const [level, expected] of [['A1', 14], ['A2', 20], ['B1', 22], ['B2', 27], ['C1', 33]] as const) {
+    for (const [level, expected] of [['A1', 14], ['A2', 20], ['B1', 23], ['B2', 27], ['C1', 33]] as const) {
       const { unmount } = await renderPage(level);
       const countEl = screen.getByTestId('topic-count');
       expect(countEl.textContent).toBe(`${expected} topics`);
