@@ -2,7 +2,7 @@
   "id": "B1_mock_06",
   "level": "B1",
   "title": "B1 Übungstest 6: Gesellschaft",
-  "version": 1,
+  "version": 2,
   "sections": {
     "listening": {
       "totalTimeMinutes": 30,
@@ -183,7 +183,7 @@
             {
               "id": "B1_m06_L3_q2",
               "type": "mcq",
-              "questionText": "Worauf einigen sich die beiden Kolleginnen am Ende?",
+              "questionText": "Was schlägt die eine Kollegin der anderen am Ende vor?",
               "options": [
                 "a) Sie gehen nach der Arbeit gemeinsam essen.",
                 "b) Sie helfen zusammen im Altenheim als ehrenamtliche Vorleserinnen.",
@@ -196,7 +196,7 @@
             {
               "id": "B1_m06_L3_q3",
               "type": "mcq",
-              "questionText": "Was empfiehlt die Mitarbeiterin im Familienbüro?",
+              "questionText": "Wieso glaubt die Mitarbeiterin im Familienbüro, dass das Online-Portal am besten hilft?",
               "options": [
                 "a) sofort einen Platz in einer privaten Kita zu suchen",
                 "b) sich auf einem städtischen Online-Portal für die Kitas anzumelden",
@@ -222,7 +222,7 @@
             {
               "id": "B1_m06_L3_q5",
               "type": "mcq",
-              "questionText": "Was ist für die Studentin das größte Problem in ihrer neuen WG?",
+              "questionText": "Was ärgert die Studentin am meisten in ihrer neuen WG?",
               "options": [
                 "a) Die Miete ist deutlich zu hoch für sie.",
                 "b) Die Zimmer sind zu klein und zu dunkel.",
@@ -436,56 +436,24 @@
           "instructions": "Sie lesen zehn Situationen (1–10) und zwölf kurze Anzeigen (a–l). Welche Anzeige passt zu welcher Situation? Für jede Situation gibt es genau eine passende Anzeige. Zwei Anzeigen bleiben übrig. Wenn keine Anzeige passt, schreiben Sie 'x'.",
           "instructionsTranslation": "You read ten situations (1–10) and twelve short advertisements (a–l). Which advertisement matches which situation? For each situation there is exactly one matching advertisement. Two advertisements remain unused. If no advertisement fits, write 'x'.",
           "texts": [
-            { "id": "B1_m06_R3_ad_a", "type": "ad", "content": "a) Deutschkurs B1 am Abend – 12 Wochen, montags und mittwochs 18–20 Uhr, kleine Gruppe. 240 €. Volkshochschule Leipzig. Anmeldung: vhs-leipzig@mail.de" },
-            { "id": "B1_m06_R3_ad_b", "type": "ad", "content": "b) Kinderkleidertausch im Familienzentrum – Jeden zweiten Samstag. Bringen, tauschen, neue Sachen finden. Eintritt frei. Ringstr. 22, 10–14 Uhr." },
-            { "id": "B1_m06_R3_ad_c", "type": "ad", "content": "c) Tafel Köln-Süd sucht ehrenamtliche Helfer – 3 Stunden pro Woche, dienstags oder freitags. Aufgaben: Lebensmittel sortieren und ausgeben. helfer@tafel-ks.de" },
-            { "id": "B1_m06_R3_ad_d", "type": "ad", "content": "d) Mitfahrgelegenheit Dresden–Berlin jeden Freitag 15 Uhr. 15 € pro Person, nur Nichtraucher. Meldet euch bei Stefan: 0176 998 77 12" },
-            { "id": "B1_m06_R3_ad_e", "type": "ad", "content": "e) Senioren-Computerkurs: Internet, E-Mail und Videoanrufe. 6 Termine, 35 € gesamt. Dienstagnachmittag 14–15:30 Uhr. Seniorenbüro: tel. 0341 559 32 10" },
-            { "id": "B1_m06_R3_ad_f", "type": "ad", "content": "f) Babysitter gesucht – Familie mit zwei Kindern (3 und 6 Jahre) braucht Hilfe am Freitagabend (19–23 Uhr). 15 €/Stunde. Erfahrung mit Kindern gewünscht. Tel. 0151 223 78 90" },
-            { "id": "B1_m06_R3_ad_g", "type": "ad", "content": "g) Übersetzungshilfe für Behördenbriefe – Freiwillige Juristen helfen kostenlos. Jeden Donnerstag 17–19 Uhr im Stadtteilzentrum Nord. Anmeldung: info@buergerhilfe.de" },
-            { "id": "B1_m06_R3_ad_h", "type": "ad", "content": "h) Seniorenchor Harmonie sucht neue Mitglieder – Alter 60+, Probe mittwochs 17 Uhr. Keine Vorkenntnisse nötig, Freude am Singen reicht. kontakt@harmonie-chor.de" },
-            { "id": "B1_m06_R3_ad_i", "type": "ad", "content": "i) Gebrauchtes Kinderbett mit Matratze – sehr gut erhalten, nur 60 €. Abholung in München. lena-k@mail.de" },
-            { "id": "B1_m06_R3_ad_j", "type": "ad", "content": "j) Kulturführung Mein neues Berlin – Kostenlose Stadtrundgänge für Neuzugezogene. Jeden ersten Sonntag, Treffpunkt Alexanderplatz, 11 Uhr. willkommen@kultur-berlin.de" },
-            { "id": "B1_m06_R3_ad_k", "type": "ad", "content": "k) Wohngemeinschaft 50+ in der Altstadt – Zimmer (20 m²) frei, 380 € warm. Gemeinsames Leben, aber jeder mit eigenem Bad. wg-altstadt@mail.de" },
-            { "id": "B1_m06_R3_ad_l", "type": "ad", "content": "l) Bücherei AM WASSER – Neue Leihkarten für Kinder kostenlos. Montag bis Freitag 10–18 Uhr, Uferstraße 7. Veranstaltungen für Familien auf unserer Webseite." }
+            { "id": "B1_m06_R3_ad_a", "type": "ad", "content": "a) Konzert-Ticket-Service MELODIA – Klassik, Jazz und Weltmusik. Restkarten ab 12 € an der Abendkasse. Newsletter: melodia-tickets@mail.de" },
+            { "id": "B1_m06_R3_ad_b", "type": "ad", "content": "b) Musical LIEBLING BERLIN – Vorverkauf läuft! 8 Vorstellungen im Mai, Tickets ab 28 €. Gruppen ab 10 Personen erhalten 20 % Rabatt. www.liebling-berlin.de" },
+            { "id": "B1_m06_R3_ad_c", "type": "ad", "content": "c) Open-Air-Festival KLANGGARTEN – 3 Tage Musik unter freiem Himmel. 12.–14. Juli. Tagestickets 18 €, Wochenendpass 45 €. Camping möglich. klanggarten-festival.de" },
+            { "id": "B1_m06_R3_ad_d", "type": "ad", "content": "d) Stadttheater Halle – Jahresabo Schauspiel: 10 Premieren + 2 Freikarten. Ab 189 € / Jahr. Ermäßigung für Studierende und Rentner. abo@stadttheater-halle.de" },
+            { "id": "B1_m06_R3_ad_e", "type": "ad", "content": "e) Kabarett-Abend mit Jan Mertens – Gesellschaftssatire und politisches Kabarett. Freitag, 23. Mai, 20 Uhr. Eintritt 15 €, an der Kasse 18 €. Karten: kabarett-mertens.de" },
+            { "id": "B1_m06_R3_ad_f", "type": "ad", "content": "f) FILMCLUB CINÉMA – Jeden Donnerstag ab 20 Uhr: internationale Arthouse-Filme im Original mit Untertiteln. Jahresmitgliedschaft 35 €, Einzeleintritt 6 €. filmclub-cinema.de" },
+            { "id": "B1_m06_R3_ad_g", "type": "ad", "content": "g) Klassik im Kerzenschein – Streichquartett spielt Haydn und Schubert. Samstag, 17. Mai, 19:30 Uhr, Herderkirche. Eintritt frei, Spende erbeten. info@herderkirche-konzert.de" },
+            { "id": "B1_m06_R3_ad_h", "type": "ad", "content": "h) Comedy-Night LACHSALVE – 5 Stand-up-Acts auf einer Bühne. Jeden zweiten Mittwoch 21 Uhr. VVK 10 €, Abendkasse 13 €. lachsalve-comedy.de" },
+            { "id": "B1_m06_R3_ad_i", "type": "ad", "content": "i) Autorenlesung: Paula Steiner liest aus ihrem Debütroman 'Nordlicht'. Dienstag, 20. Mai, 19 Uhr, Buchhandlung Wortreich. Eintritt frei, Plätze begrenzt. wortreich-buch.de" },
+            { "id": "B1_m06_R3_ad_j", "type": "ad", "content": "j) Ausstellung FARBE UND FORM – Neue Arbeiten lokaler Künstlerinnen und Künstler. 10. Mai – 8. Juni. Di–So 11–18 Uhr. Galerie Mitte, Eintritt 4 €, Mi kostenlos." },
+            { "id": "B1_m06_R3_ad_k", "type": "ad", "content": "k) Tanztheater CORPS – Zeitgenössischer Tanz trifft Livemusik. Uraufführung 25./26. April, 20 Uhr. Tickets 22 €. tanzcorps@kulturbüro.de" },
+            { "id": "B1_m06_R3_ad_l", "type": "ad", "content": "l) KINO STERNSTUNDE – Mitgliedschaft für 49 € / Jahr: unbegrenzte Vorstellungen, keine Aufpreise an Wochenenden. info@kino-sternstunde.de" }
           ],
           "questions": [
             {
               "id": "B1_m06_R3_q1",
               "type": "matching",
-              "questionText": "1. Herr Öncel ist neu in Leipzig und möchte sein Deutsch auf B1-Niveau verbessern. Er arbeitet tagsüber und kann nur am Abend einen Kurs besuchen.",
-              "matchingSources": [
-                { "id": "B1_m06_R3_ad_a", "label": "a" }, { "id": "B1_m06_R3_ad_b", "label": "b" },
-                { "id": "B1_m06_R3_ad_c", "label": "c" }, { "id": "B1_m06_R3_ad_d", "label": "d" },
-                { "id": "B1_m06_R3_ad_e", "label": "e" }, { "id": "B1_m06_R3_ad_f", "label": "f" },
-                { "id": "B1_m06_R3_ad_g", "label": "g" }, { "id": "B1_m06_R3_ad_h", "label": "h" },
-                { "id": "B1_m06_R3_ad_i", "label": "i" }, { "id": "B1_m06_R3_ad_j", "label": "j" },
-                { "id": "B1_m06_R3_ad_k", "label": "k" }, { "id": "B1_m06_R3_ad_l", "label": "l" }
-              ],
-              "correctAnswer": "a",
-              "explanation": "Anzeige a) bietet einen B1-Deutschkurs abends an der VHS Leipzig – genau Herrn Öncels Profil. Kein anderes Angebot ist ein B1-Sprachkurs am Abend.",
-              "pointValue": 2.5
-            },
-            {
-              "id": "B1_m06_R3_q2",
-              "type": "matching",
-              "questionText": "2. Frau Wagner hat sich entschieden, zweimal pro Woche ehrenamtlich zu helfen. Sie möchte am liebsten mit Lebensmitteln arbeiten und Menschen unterstützen, die wenig Geld haben.",
-              "matchingSources": [
-                { "id": "B1_m06_R3_ad_a", "label": "a" }, { "id": "B1_m06_R3_ad_b", "label": "b" },
-                { "id": "B1_m06_R3_ad_c", "label": "c" }, { "id": "B1_m06_R3_ad_d", "label": "d" },
-                { "id": "B1_m06_R3_ad_e", "label": "e" }, { "id": "B1_m06_R3_ad_f", "label": "f" },
-                { "id": "B1_m06_R3_ad_g", "label": "g" }, { "id": "B1_m06_R3_ad_h", "label": "h" },
-                { "id": "B1_m06_R3_ad_i", "label": "i" }, { "id": "B1_m06_R3_ad_j", "label": "j" },
-                { "id": "B1_m06_R3_ad_k", "label": "k" }, { "id": "B1_m06_R3_ad_l", "label": "l" }
-              ],
-              "correctAnswer": "c",
-              "explanation": "Anzeige c) sucht ehrenamtliche Helfer für die Tafel – genau Lebensmittelarbeit für Menschen mit wenig Geld. Das passt exakt zu Frau Wagners Wunsch.",
-              "pointValue": 2.5
-            },
-            {
-              "id": "B1_m06_R3_q3",
-              "type": "matching",
-              "questionText": "3. Herr Nguyen versteht seine Briefe vom Jobcenter nicht immer richtig. Er wünscht sich kostenlose Hilfe von Fachleuten, die ihm die Formulierungen erklären.",
+              "questionText": "1. Frau Yilmaz liebt klassische Musik und möchte am Samstagabend ein Streichkonzert besuchen. Sie hat kein großes Budget und freut sich über ein kostenloses Angebot.",
               "matchingSources": [
                 { "id": "B1_m06_R3_ad_a", "label": "a" }, { "id": "B1_m06_R3_ad_b", "label": "b" },
                 { "id": "B1_m06_R3_ad_c", "label": "c" }, { "id": "B1_m06_R3_ad_d", "label": "d" },
@@ -495,61 +463,13 @@
                 { "id": "B1_m06_R3_ad_k", "label": "k" }, { "id": "B1_m06_R3_ad_l", "label": "l" }
               ],
               "correctAnswer": "g",
-              "explanation": "Anzeige g) bietet kostenlose Übersetzungshilfe für Behördenbriefe durch freiwillige Juristen – genau Herrn Nguyens Bedarf. Kein anderes Angebot passt.",
+              "explanation": "Anzeige g) bietet ein Streichquartett-Konzert (Haydn/Schubert) am Samstag mit freiem Eintritt – passt exakt zu Frau Yilmazs Wunsch nach Klassik am Samstag ohne Kosten.",
               "pointValue": 2.5
             },
             {
-              "id": "B1_m06_R3_q4",
+              "id": "B1_m06_R3_q2",
               "type": "matching",
-              "questionText": "4. Frau Markovic ist 72 Jahre alt und möchte endlich lernen, mit ihrer Familie im Ausland per Videoanruf zu sprechen. Ein Kurs speziell für ältere Anfänger wäre hilfreich.",
-              "matchingSources": [
-                { "id": "B1_m06_R3_ad_a", "label": "a" }, { "id": "B1_m06_R3_ad_b", "label": "b" },
-                { "id": "B1_m06_R3_ad_c", "label": "c" }, { "id": "B1_m06_R3_ad_d", "label": "d" },
-                { "id": "B1_m06_R3_ad_e", "label": "e" }, { "id": "B1_m06_R3_ad_f", "label": "f" },
-                { "id": "B1_m06_R3_ad_g", "label": "g" }, { "id": "B1_m06_R3_ad_h", "label": "h" },
-                { "id": "B1_m06_R3_ad_i", "label": "i" }, { "id": "B1_m06_R3_ad_j", "label": "j" },
-                { "id": "B1_m06_R3_ad_k", "label": "k" }, { "id": "B1_m06_R3_ad_l", "label": "l" }
-              ],
-              "correctAnswer": "e",
-              "explanation": "Anzeige e) ist ein Senioren-Computerkurs mit Fokus auf Videoanrufe und E-Mails – perfekt für Frau Markovics Anliegen.",
-              "pointValue": 2.5
-            },
-            {
-              "id": "B1_m06_R3_q5",
-              "type": "matching",
-              "questionText": "5. Familie Johansson ist vor wenigen Wochen nach Berlin gezogen und möchte die Stadt kennenlernen. Ideal wäre ein Angebot speziell für Neuzugezogene, ohne Kosten.",
-              "matchingSources": [
-                { "id": "B1_m06_R3_ad_a", "label": "a" }, { "id": "B1_m06_R3_ad_b", "label": "b" },
-                { "id": "B1_m06_R3_ad_c", "label": "c" }, { "id": "B1_m06_R3_ad_d", "label": "d" },
-                { "id": "B1_m06_R3_ad_e", "label": "e" }, { "id": "B1_m06_R3_ad_f", "label": "f" },
-                { "id": "B1_m06_R3_ad_g", "label": "g" }, { "id": "B1_m06_R3_ad_h", "label": "h" },
-                { "id": "B1_m06_R3_ad_i", "label": "i" }, { "id": "B1_m06_R3_ad_j", "label": "j" },
-                { "id": "B1_m06_R3_ad_k", "label": "k" }, { "id": "B1_m06_R3_ad_l", "label": "l" }
-              ],
-              "correctAnswer": "j",
-              "explanation": "Anzeige j) beschreibt kostenlose Stadtrundgänge für Neuzugezogene in Berlin – genau das, was die Familie sucht.",
-              "pointValue": 2.5
-            },
-            {
-              "id": "B1_m06_R3_q6",
-              "type": "matching",
-              "questionText": "6. Herr Sari freut sich auf die Rente und sucht eine Aktivität in der Gruppe. Er singt sehr gerne, ist aber nicht geübt und möchte ohne Vorauswahl teilnehmen.",
-              "matchingSources": [
-                { "id": "B1_m06_R3_ad_a", "label": "a" }, { "id": "B1_m06_R3_ad_b", "label": "b" },
-                { "id": "B1_m06_R3_ad_c", "label": "c" }, { "id": "B1_m06_R3_ad_d", "label": "d" },
-                { "id": "B1_m06_R3_ad_e", "label": "e" }, { "id": "B1_m06_R3_ad_f", "label": "f" },
-                { "id": "B1_m06_R3_ad_g", "label": "g" }, { "id": "B1_m06_R3_ad_h", "label": "h" },
-                { "id": "B1_m06_R3_ad_i", "label": "i" }, { "id": "B1_m06_R3_ad_j", "label": "j" },
-                { "id": "B1_m06_R3_ad_k", "label": "k" }, { "id": "B1_m06_R3_ad_l", "label": "l" }
-              ],
-              "correctAnswer": "h",
-              "explanation": "Anzeige h) lädt Menschen ab 60 zum Seniorenchor ein, ohne Vorkenntnisse – ideal für Herrn Saris Wunsch nach einer offenen Gruppe.",
-              "pointValue": 2.5
-            },
-            {
-              "id": "B1_m06_R3_q7",
-              "type": "matching",
-              "questionText": "7. Frau Tamir braucht am Freitagabend eine verlässliche Betreuung für ihre beiden Kinder (3 und 6 Jahre), damit sie mit ihrem Mann zu einem Familienfest gehen kann.",
+              "questionText": "2. Herr Petrov schaut sehr gerne internationale Filme und bevorzugt die Originalsprache mit Untertiteln. Er geht regelmäßig ins Kino und sucht ein günstiges Jahresangebot.",
               "matchingSources": [
                 { "id": "B1_m06_R3_ad_a", "label": "a" }, { "id": "B1_m06_R3_ad_b", "label": "b" },
                 { "id": "B1_m06_R3_ad_c", "label": "c" }, { "id": "B1_m06_R3_ad_d", "label": "d" },
@@ -559,13 +479,61 @@
                 { "id": "B1_m06_R3_ad_k", "label": "k" }, { "id": "B1_m06_R3_ad_l", "label": "l" }
               ],
               "correctAnswer": "f",
-              "explanation": "Anzeige f) ist exakt das Spiegelbild: Eine Familie mit zwei Kindern (3 und 6) sucht eine Babysitterin am Freitagabend. Frau Tamir könnte darauf antworten und so ihre Betreuung organisieren.",
+              "explanation": "Anzeige f) ist ein Filmclub mit internationalen Arthouse-Filmen im Original und einer Jahresmitgliedschaft – genau Herrn Petrovs Profil. Anzeige l) ist zwar auch ein Kinoabo, aber ohne den Fokus auf Originalsprache.",
               "pointValue": 2.5
             },
             {
-              "id": "B1_m06_R3_q8",
+              "id": "B1_m06_R3_q3",
               "type": "matching",
-              "questionText": "8. Elena ist frisch getrennt und möchte nicht mehr allein wohnen, aber auch nicht mit sehr jungen Leuten. Eine gemischte Wohngemeinschaft von Erwachsenen über 50 wäre ideal.",
+              "questionText": "3. Familie Bauer möchte im Sommer gemeinsam ein Musikfestival besuchen. Sie möchten zelten können und suchen ein Angebot mit Tages- und Wochenendtickets.",
+              "matchingSources": [
+                { "id": "B1_m06_R3_ad_a", "label": "a" }, { "id": "B1_m06_R3_ad_b", "label": "b" },
+                { "id": "B1_m06_R3_ad_c", "label": "c" }, { "id": "B1_m06_R3_ad_d", "label": "d" },
+                { "id": "B1_m06_R3_ad_e", "label": "e" }, { "id": "B1_m06_R3_ad_f", "label": "f" },
+                { "id": "B1_m06_R3_ad_g", "label": "g" }, { "id": "B1_m06_R3_ad_h", "label": "h" },
+                { "id": "B1_m06_R3_ad_i", "label": "i" }, { "id": "B1_m06_R3_ad_j", "label": "j" },
+                { "id": "B1_m06_R3_ad_k", "label": "k" }, { "id": "B1_m06_R3_ad_l", "label": "l" }
+              ],
+              "correctAnswer": "c",
+              "explanation": "Anzeige c) bewirbt ein 3-tägiges Open-Air-Festival mit Camping-Option, Tages- und Wochenendtickets – trifft alle Kriterien der Familie Bauer.",
+              "pointValue": 2.5
+            },
+            {
+              "id": "B1_m06_R3_q4",
+              "type": "matching",
+              "questionText": "4. Herr Stein geht sehr gern ins Theater und schaut viele Premieren. Er möchte in einem Jahr möglichst viele Vorstellungen sehen und dabei Geld sparen.",
+              "matchingSources": [
+                { "id": "B1_m06_R3_ad_a", "label": "a" }, { "id": "B1_m06_R3_ad_b", "label": "b" },
+                { "id": "B1_m06_R3_ad_c", "label": "c" }, { "id": "B1_m06_R3_ad_d", "label": "d" },
+                { "id": "B1_m06_R3_ad_e", "label": "e" }, { "id": "B1_m06_R3_ad_f", "label": "f" },
+                { "id": "B1_m06_R3_ad_g", "label": "g" }, { "id": "B1_m06_R3_ad_h", "label": "h" },
+                { "id": "B1_m06_R3_ad_i", "label": "i" }, { "id": "B1_m06_R3_ad_j", "label": "j" },
+                { "id": "B1_m06_R3_ad_k", "label": "k" }, { "id": "B1_m06_R3_ad_l", "label": "l" }
+              ],
+              "correctAnswer": "d",
+              "explanation": "Anzeige d) bietet ein Jahresabo für Schauspiel-Premieren mit Freikarten – ideal für Herrn Stein, der viele Premieren günstig sehen möchte.",
+              "pointValue": 2.5
+            },
+            {
+              "id": "B1_m06_R3_q5",
+              "type": "matching",
+              "questionText": "5. Frau Kowalski mag politischen Humor und Satire. Sie möchte an einem Freitagabend einen Kabarettabend besuchen und Karten im Vorverkauf kaufen.",
+              "matchingSources": [
+                { "id": "B1_m06_R3_ad_a", "label": "a" }, { "id": "B1_m06_R3_ad_b", "label": "b" },
+                { "id": "B1_m06_R3_ad_c", "label": "c" }, { "id": "B1_m06_R3_ad_d", "label": "d" },
+                { "id": "B1_m06_R3_ad_e", "label": "e" }, { "id": "B1_m06_R3_ad_f", "label": "f" },
+                { "id": "B1_m06_R3_ad_g", "label": "g" }, { "id": "B1_m06_R3_ad_h", "label": "h" },
+                { "id": "B1_m06_R3_ad_i", "label": "i" }, { "id": "B1_m06_R3_ad_j", "label": "j" },
+                { "id": "B1_m06_R3_ad_k", "label": "k" }, { "id": "B1_m06_R3_ad_l", "label": "l" }
+              ],
+              "correctAnswer": "e",
+              "explanation": "Anzeige e) kündigt einen Kabarettabend mit politischer Satire an einem Freitag an, Vorverkaufspreis 15 € – genau Frau Kowalskis Wunsch.",
+              "pointValue": 2.5
+            },
+            {
+              "id": "B1_m06_R3_q6",
+              "type": "matching",
+              "questionText": "6. Herr Ndiaye interessiert sich für zeitgenössischen Tanz und möchte eine Uraufführung erleben, bei der auch Livemusik gespielt wird.",
               "matchingSources": [
                 { "id": "B1_m06_R3_ad_a", "label": "a" }, { "id": "B1_m06_R3_ad_b", "label": "b" },
                 { "id": "B1_m06_R3_ad_c", "label": "c" }, { "id": "B1_m06_R3_ad_d", "label": "d" },
@@ -575,13 +543,13 @@
                 { "id": "B1_m06_R3_ad_k", "label": "k" }, { "id": "B1_m06_R3_ad_l", "label": "l" }
               ],
               "correctAnswer": "k",
-              "explanation": "Anzeige k) beschreibt eine Wohngemeinschaft 50+ mit eigenem Bad und gemeinsamen Flächen – passt genau zu Elenas Situation und Altersprofil.",
+              "explanation": "Anzeige k) beschreibt eine Tanztheater-Uraufführung mit Livemusik – passt zu Herrn Ndiayes Interesse an zeitgenössischem Tanz und Livemusik.",
               "pointValue": 2.5
             },
             {
-              "id": "B1_m06_R3_q9",
+              "id": "B1_m06_R3_q7",
               "type": "matching",
-              "questionText": "9. Frau Bashir hat zwei kleine Kinder, die gerade ein Jahr und drei Jahre alt sind. Sie möchte Kleidung für die nächsten Jahre nachhaltig und günstig organisieren.",
+              "questionText": "7. Eine Schulklasse plant einen Ausflug und sucht eine Kunstausstellung lokaler Künstlerinnen und Künstler, die an einem Mittwoch kostenlos besucht werden kann.",
               "matchingSources": [
                 { "id": "B1_m06_R3_ad_a", "label": "a" }, { "id": "B1_m06_R3_ad_b", "label": "b" },
                 { "id": "B1_m06_R3_ad_c", "label": "c" }, { "id": "B1_m06_R3_ad_d", "label": "d" },
@@ -590,14 +558,46 @@
                 { "id": "B1_m06_R3_ad_i", "label": "i" }, { "id": "B1_m06_R3_ad_j", "label": "j" },
                 { "id": "B1_m06_R3_ad_k", "label": "k" }, { "id": "B1_m06_R3_ad_l", "label": "l" }
               ],
-              "correctAnswer": "b",
-              "explanation": "Anzeige b) beschreibt einen regelmäßigen Kinderkleidertausch im Familienzentrum mit freiem Eintritt – ideal für Frau Bashirs Wunsch nach günstiger und nachhaltiger Kinderkleidung.",
+              "correctAnswer": "j",
+              "explanation": "Anzeige j) ist eine Ausstellung lokaler Künstler mit kostenlosem Eintritt mittwochs – trifft beide Kriterien der Schulklasse.",
+              "pointValue": 2.5
+            },
+            {
+              "id": "B1_m06_R3_q8",
+              "type": "matching",
+              "questionText": "8. Frau Lindner lacht gerne und möchte ab und zu mit Freundinnen einen Comedy-Abend mit mehreren Comedians auf einer Bühne besuchen, günstig im Vorverkauf.",
+              "matchingSources": [
+                { "id": "B1_m06_R3_ad_a", "label": "a" }, { "id": "B1_m06_R3_ad_b", "label": "b" },
+                { "id": "B1_m06_R3_ad_c", "label": "c" }, { "id": "B1_m06_R3_ad_d", "label": "d" },
+                { "id": "B1_m06_R3_ad_e", "label": "e" }, { "id": "B1_m06_R3_ad_f", "label": "f" },
+                { "id": "B1_m06_R3_ad_g", "label": "g" }, { "id": "B1_m06_R3_ad_h", "label": "h" },
+                { "id": "B1_m06_R3_ad_i", "label": "i" }, { "id": "B1_m06_R3_ad_j", "label": "j" },
+                { "id": "B1_m06_R3_ad_k", "label": "k" }, { "id": "B1_m06_R3_ad_l", "label": "l" }
+              ],
+              "correctAnswer": "h",
+              "explanation": "Anzeige h) ist eine Comedy-Night mit 5 Stand-up-Acts, Vorverkauf 10 € – genau das, was Frau Lindner sucht.",
+              "pointValue": 2.5
+            },
+            {
+              "id": "B1_m06_R3_q9",
+              "type": "matching",
+              "questionText": "9. Herr Brandt hat gerade einen Roman einer neuen deutschen Autorin gelesen und möchte sie persönlich kennenlernen. Er sucht eine Lesung, am liebsten kostenlos.",
+              "matchingSources": [
+                { "id": "B1_m06_R3_ad_a", "label": "a" }, { "id": "B1_m06_R3_ad_b", "label": "b" },
+                { "id": "B1_m06_R3_ad_c", "label": "c" }, { "id": "B1_m06_R3_ad_d", "label": "d" },
+                { "id": "B1_m06_R3_ad_e", "label": "e" }, { "id": "B1_m06_R3_ad_f", "label": "f" },
+                { "id": "B1_m06_R3_ad_g", "label": "g" }, { "id": "B1_m06_R3_ad_h", "label": "h" },
+                { "id": "B1_m06_R3_ad_i", "label": "i" }, { "id": "B1_m06_R3_ad_j", "label": "j" },
+                { "id": "B1_m06_R3_ad_k", "label": "k" }, { "id": "B1_m06_R3_ad_l", "label": "l" }
+              ],
+              "correctAnswer": "i",
+              "explanation": "Anzeige i) bewirbt eine Autorenlesung mit Paula Steiner aus ihrem Debütroman, freier Eintritt – passt genau zu Herrn Brandts Wunsch, eine Autorin persönlich zu erleben.",
               "pointValue": 2.5
             },
             {
               "id": "B1_m06_R3_q10",
               "type": "matching",
-              "questionText": "10. Familie Klein möchte ihren beiden Kindern (5 und 9 Jahre) regelmäßig Lesestoff besorgen, ohne viel Geld auszugeben. Sie wohnen nahe der Stadtmitte.",
+              "questionText": "10. Frau Reiter geht sehr gerne ins Kino – mindestens zweimal pro Woche. Sie sucht eine Mitgliedschaft ohne Aufpreis an Wochenenden und ohne Extrakosten.",
               "matchingSources": [
                 { "id": "B1_m06_R3_ad_a", "label": "a" }, { "id": "B1_m06_R3_ad_b", "label": "b" },
                 { "id": "B1_m06_R3_ad_c", "label": "c" }, { "id": "B1_m06_R3_ad_d", "label": "d" },
@@ -607,7 +607,7 @@
                 { "id": "B1_m06_R3_ad_k", "label": "k" }, { "id": "B1_m06_R3_ad_l", "label": "l" }
               ],
               "correctAnswer": "l",
-              "explanation": "Anzeige l) bietet kostenlose Kinder-Leihkarten in der Bücherei an – ideal für Familie Klein. Übrig bleiben Anzeige d) (Mitfahrgelegenheit) und i) (Kinderbett) als Distraktoren.",
+              "explanation": "Anzeige l) ist eine Kino-Jahresmitgliedschaft ohne Aufpreis an Wochenenden – perfekt für Frau Reiters häufige Kinobesuche. Übrig bleiben Anzeige a) (Konzert-Ticket-Service) und b) (Musical-Vorverkauf) als Distraktoren.",
               "pointValue": 2.5
             }
           ]
@@ -619,86 +619,86 @@
         {
           "partNumber": 1,
           "instructions": "Lesen Sie den folgenden Text und entscheiden Sie, welches Wort (a, b oder c) in die Lücke passt. Es gibt jeweils nur eine richtige Lösung.",
-          "text": "Liebe Martina,\n\nwie geht es dir? Ich wollte dir schon lange von meinem neuen Projekt erzählen. Seit drei Monaten arbeite ich nebenbei ehrenamtlich __(1)__ einer kleinen Stiftung, die junge Menschen in der Ausbildung unterstützt. Ich bin wirklich froh, __(2)__ ich mich damals dafür entschieden habe. Meine Ansprechpartnerin, __(3)__ mich in alles eingeführt hat, ist eine ruhige und erfahrene Sozialarbeiterin. __(4)__ ich am Anfang unsicher war, habe ich mich schnell zurechtgefunden.\n\nLetzte Woche haben wir einen kleinen Infoabend in einer Schule organisiert. Die Einleitung __(5)__ von mir gehalten, und ich war zwar aufgeregt, aber die Schüler haben freundlich zugehört. Wenn ich mehr Routine __(6)__, würde ich das gerne öfter machen – vielleicht klappt das im nächsten Schuljahr.\n\nAm Wochenende gehe ich mit meinen Mitbewohnerinnen oft __(7)__ Sport, meistens Yoga im Park. Am letzten Sonntag __(8)__ wir sogar zusammen zu einer Kundgebung gefahren, bei der es um bessere Wohnungen für junge Familien ging. Hoffentlich schaffst du es bald, mich mal zu besuchen – ich würde mich wirklich __(9)__ freuen. Übrigens habe ich kürzlich deinen Cousin Felix getroffen. Er hat erzählt, dass er letztes Jahr __(10)__ schönsten Urlaub seines Lebens in Portugal verbracht hat.\n\nMelde dich bald, ich vermisse dich!\n\nLiebe Grüße,\nClara",
+          "text": "Sehr geehrte Damen und Herren,\n\nmit dieser E-Mail wende ich mich __(1)__ Ihnen, um Sie über eine wichtige Änderung __(2)__ unserem Projektzeitplan zu informieren. Aufgrund unvorhergesehener technischer Probleme __(3)__ die Lieferung der Hauptkomponenten verzögert. Wir bitten Sie daher, die ursprünglich __(4)__ den 15. März geplante Abschlussbesprechung auf den 28. März zu verschieben.\n\nUnsere Abteilung __(5)__ bereits alle Schritte eingeleitet, um die Verzögerung so gering wie möglich zu halten. Der Projektleiter, __(6)__ für die Koordination zuständig ist, wird sich spätestens am Donnerstag direkt mit Ihnen in Verbindung setzen. Sollten Sie __(7)__ Fragen zu den geänderten Terminen haben, stehen wir Ihnen jederzeit zur Verfügung.\n\nWir sind zuversichtlich, dass das Projekt trotz dieser Verzögerung __(8)__ Ende des Quartals erfolgreich abgeschlossen __(9)__ kann. Für Ihr Verständnis und Ihre Geduld bedanken wir __(10)__ herzlich.\n\nMit freundlichen Grüßen\nThomas Beyer\nProjektmanagement",
           "questions": [
             {
               "blankNumber": 1,
               "type": "mcq",
-              "options": ["a) in", "b) an", "c) bei"],
-              "correctAnswer": "c",
-              "explanation": "Bei Organisationen, Firmen oder Stiftungen verwendet man 'bei' + Dativ: 'bei einer Stiftung arbeiten'. 'in' wäre für ein Gebäude, 'an' für Institutionen wie Universität.",
+              "options": ["a) bei", "b) an", "c) zu"],
+              "correctAnswer": "b",
+              "explanation": "'Sich an jemanden wenden' ist die feste Rektion dieser formellen Phrase: Akkusativ mit 'an'. 'zu' und 'bei' passen hier nicht.",
               "pointValue": 1.5
             },
             {
               "blankNumber": 2,
               "type": "mcq",
-              "options": ["a) weil", "b) dass", "c) ob"],
-              "correctAnswer": "b",
-              "explanation": "'Ich bin froh, dass ...' ist die Standardkonstruktion. Ein dass-Satz gibt das Objekt der Freude an. 'weil' wäre ein Grund, 'ob' eine indirekte Frage – beides passt hier nicht.",
+              "options": ["a) über", "b) zu", "c) in"],
+              "correctAnswer": "a",
+              "explanation": "'Informieren über + Akkusativ' ist feste Rektion: 'über eine Änderung informieren'. 'zu' bildet Infinitivkonstruktionen, 'in' hätte andere lokale/temporale Bedeutung.",
               "pointValue": 1.5
             },
             {
               "blankNumber": 3,
               "type": "mcq",
-              "options": ["a) der", "b) die", "c) den"],
+              "options": ["a) hat", "b) wurde", "c) war"],
               "correctAnswer": "b",
-              "explanation": "Relativsatz: 'Meine Ansprechpartnerin, die mich eingeführt hat'. Das Pronomen bezieht sich auf 'Ansprechpartnerin' (Femininum) im Nominativ (Subjekt des Relativsatzes).",
+              "explanation": "Passiv Präteritum: 'Die Lieferung wurde verzögert.' Das Subjekt ('die Lieferung') erleidet die Handlung. 'hat' wäre Aktiv-Perfekt, 'war' Zustandspassiv (war verzögert).",
               "pointValue": 1.5
             },
             {
               "blankNumber": 4,
               "type": "mcq",
-              "options": ["a) Obwohl", "b) Weil", "c) Trotzdem"],
+              "options": ["a) für", "b) auf", "c) an"],
               "correctAnswer": "a",
-              "explanation": "Der Satz beschreibt einen Gegensatz (unsicher vs. zurechtgefunden) → 'obwohl' (konzessiv, Verb am Ende). 'weil' würde einen Grund angeben (unlogisch). 'trotzdem' ist ein Adverb mit Hauptsatzstellung.",
+              "explanation": "Bei Terminangaben mit 'geplant' verwendet man 'für + Akkusativ': 'die für den 15. März geplante Besprechung'. 'auf' steht bei 'verschieben auf', 'an' bei genauen Wochentagen ohne Attribut.",
               "pointValue": 1.5
             },
             {
               "blankNumber": 5,
               "type": "mcq",
-              "options": ["a) wurde", "b) hat", "c) war"],
-              "correctAnswer": "a",
-              "explanation": "Passiv Präteritum: 'Die Einleitung wurde gehalten.' Das Subjekt ('Die Einleitung') führt die Handlung nicht selbst aus. 'hat' wäre Aktiv-Perfekt, 'war' Zustandspassiv.",
+              "options": ["a) wird", "b) hat", "c) hätte"],
+              "correctAnswer": "b",
+              "explanation": "Perfekt Aktiv: 'hat eingeleitet' – die Schritte wurden bereits abgeschlossen. 'wird' wäre Futur (noch nicht geschehen), 'hätte' Konjunktiv II (irreale Bedingung).",
               "pointValue": 1.5
             },
             {
               "blankNumber": 6,
               "type": "mcq",
-              "options": ["a) habe", "b) hätte", "c) hatte"],
-              "correctAnswer": "b",
-              "explanation": "Irreale Bedingung 'Wenn ich mehr Routine hätte, würde ich ...' → Konjunktiv II 'hätte'. 'habe' und 'hatte' passen nicht zur würde-Form im Hauptsatz.",
+              "options": ["a) der", "b) die", "c) das"],
+              "correctAnswer": "a",
+              "explanation": "Relativsatz: 'Der Projektleiter, der zuständig ist'. Das Pronomen bezieht sich auf 'Projektleiter' (Maskulinum) im Nominativ als Subjekt des Relativsatzes.",
               "pointValue": 1.5
             },
             {
               "blankNumber": 7,
               "type": "mcq",
-              "options": ["a) zu", "b) auf", "c) zum"],
-              "correctAnswer": "c",
-              "explanation": "Feste Wendung 'zum Sport gehen' (zu + dem = zum, Dativ). 'zu' ohne Artikel ist unvollständig; 'auf' passt hier nicht.",
+              "options": ["a) weitere", "b) einige", "c) gewisse"],
+              "correctAnswer": "a",
+              "explanation": "'Weitere Fragen haben' ist die formelle Standardformulierung im Geschäftsbrief. 'einige' und 'gewisse' klingen umgangssprachlicher und passen weniger zum offiziellen Register.",
               "pointValue": 1.5
             },
             {
               "blankNumber": 8,
               "type": "mcq",
-              "options": ["a) haben", "b) sind", "c) waren"],
+              "options": ["a) am", "b) bis", "c) zum"],
               "correctAnswer": "b",
-              "explanation": "Perfekt von 'fahren' (Bewegung) mit 'sein': 'Wir sind gefahren'. 'haben' ist bei Bewegungsverben falsch. 'waren' wäre Präteritum und passt nicht zum Partizip.",
+              "explanation": "'Bis Ende des Quartals' – 'bis' gibt eine Frist an (bis zu einem Zeitpunkt). 'am' steht bei einem bestimmten Tag, 'zum' bei 'bis zum Ende' (ebenfalls korrekt, aber 'bis Ende' ist idiomatisch ohne Artikel).",
               "pointValue": 1.5
             },
             {
               "blankNumber": 9,
               "type": "mcq",
-              "options": ["a) mich", "b) mir", "c) für mich"],
-              "correctAnswer": "a",
-              "explanation": "Reflexives Verb 'sich freuen' + Akkusativ: 'ich freue mich'. 'mir' (Dativ) passt bei 'sich etwas wünschen'. 'für mich' ist kein Reflexivpronomen.",
+              "options": ["a) sein", "b) werden", "c) werden"],
+              "correctAnswer": "b",
+              "explanation": "Passiv Futur: 'abgeschlossen werden kann' – Modalverb 'kann' + Infinitiv Passiv 'abgeschlossen werden'. 'sein' bildet Zustandspassiv, aber mit 'kann' muss 'werden' folgen.",
               "pointValue": 1.5
             },
             {
               "blankNumber": 10,
               "type": "mcq",
-              "options": ["a) das", "b) dem", "c) den"],
-              "correctAnswer": "c",
-              "explanation": "'den schönsten Urlaub' – direktes Objekt (Akkusativ Maskulinum): 'den'. 'das' wäre Neutrum, 'dem' Dativ. Die Adjektivendung '-sten' bestätigt Akkusativ Maskulinum.",
+              "options": ["a) sich", "b) uns", "c) Ihnen"],
+              "correctAnswer": "b",
+              "explanation": "Reflexivpronomen 1. Person Plural: 'bedanken wir uns' – Subjekt 'wir' verlangt 'uns'. 'sich' gilt für 3. Person, 'Ihnen' wäre Dativobjekt (z.B. 'danken wir Ihnen').",
               "pointValue": 1.5
             }
           ]
@@ -838,34 +838,34 @@
         {
           "taskNumber": 1,
           "type": "letter",
-          "instructions": "Ein alter Bekannter, Herr Schulz, ist seit kurzem Vorsitzender eines Nachbarschaftsvereins in Ihrer Stadt. Er sucht Freiwillige, die sich ehrenamtlich engagieren, und hat Sie per E-Mail angefragt. Schreiben Sie eine Antwort-E-Mail an Herrn Schulz. Gehen Sie auf alle vier Punkte unten ein. Achten Sie auf eine passende Anrede und einen passenden Gruß. Schreiben Sie ca. 150 Wörter.",
-          "instructionsTranslation": "An old acquaintance, Mr. Schulz, has recently become chairman of a neighborhood association in your city. He is looking for volunteers and has contacted you by email. Write a reply email to Mr. Schulz. Address all four points below. Pay attention to appropriate greeting and closing. Write approximately 150 words.",
-          "prompt": "Situation: Ein alter Bekannter, Herr Schulz, ist seit kurzem Vorsitzender eines Nachbarschaftsvereins in Ihrer Stadt. Er sucht ehrenamtliche Helfer und hat Ihnen geschrieben.\n\nSchreiben Sie eine E-Mail an Herrn Schulz. Gehen Sie auf die folgenden vier Punkte ein:\n\n- Zusage: Bestätigen Sie, dass Sie grundsätzlich mitmachen möchten.\n- Zeit: Wie viele Stunden pro Woche können Sie realistisch einbringen?\n- Aufgabe: Welche Aufgabe würde Ihnen am besten liegen und warum?\n- Rückfrage: Fragen Sie nach einem wichtigen organisatorischen Detail (z.B. Versicherung, erster Termin, Einarbeitung).\n\nVergessen Sie nicht Anrede, Einleitung und Grußformel. Schreiben Sie ca. 150 Wörter.",
-          "promptTranslation": "Situation: An old acquaintance, Mr. Schulz, has recently become chairman of a neighborhood association in your city. He is looking for volunteer helpers and has written to you.\n\nWrite an email to Mr. Schulz. Address these four points:\n\n- Acceptance: Confirm that you would generally like to take part.\n- Time: How many hours per week can you realistically contribute?\n- Task: Which task would suit you best and why?\n- Question: Ask about an important organizational detail (e.g. insurance, first meeting, onboarding).\n\nDon't forget greeting, introduction, and closing. Write approximately 150 words.",
+          "instructions": "Sie haben vor zwei Wochen in einem Online-Shop ein Elektrogerät bestellt. Das Gerät ist mit einem sichtbaren Defekt angekommen, und der Kundenservice hat bisher nicht geantwortet. Schreiben Sie eine Beschwerde-E-Mail an den Shop. Gehen Sie auf alle vier Punkte unten ein. Achten Sie auf eine passende Anrede und einen passenden Gruß. Schreiben Sie ca. 150 Wörter.",
+          "instructionsTranslation": "You ordered an electrical appliance from an online shop two weeks ago. The device arrived with a visible defect and customer service has not replied yet. Write a complaint email to the shop. Address all four points below. Pay attention to appropriate greeting and closing. Write approximately 150 words.",
+          "prompt": "Situation: Sie haben vor zwei Wochen in einem Online-Shop ein Elektrogerät (z.B. einen Wasserkocher) bestellt. Das Gerät ist beschädigt angekommen, und trotz Ihrer ersten Nachricht hat sich der Kundenservice nicht gemeldet.\n\nSchreiben Sie eine Beschwerde-E-Mail an den Shop. Gehen Sie auf die folgenden vier Punkte ein:\n\n- Grund: Beschreiben Sie kurz das Problem mit dem Gerät.\n- Ärger: Erklären Sie, warum Sie unzufrieden sind (z.B. kein Kontakt, lange Wartezeit).\n- Forderung: Was verlangen Sie konkret – Ersatz oder Rückerstattung?\n- Frist: Bis wann erwarten Sie eine Antwort oder Lösung?\n\nVergessen Sie nicht Anrede, Einleitung und Grußformel. Schreiben Sie ca. 150 Wörter.",
+          "promptTranslation": "Situation: You ordered an electrical appliance (e.g. a kettle) from an online shop two weeks ago. The device arrived damaged, and despite your first message, customer service has not responded.\n\nWrite a complaint email to the shop. Address these four points:\n\n- Problem: Briefly describe the issue with the device.\n- Dissatisfaction: Explain why you are unhappy (e.g. no contact, long wait).\n- Demand: What exactly do you want — a replacement or a refund?\n- Deadline: By when do you expect a response or resolution?\n\nDon't forget greeting, introduction, and closing. Write approximately 150 words.",
           "requiredPoints": [
-            "Grundsätzliche Zusage zur Mitarbeit im Nachbarschaftsverein",
-            "Angabe der verfügbaren Zeit pro Woche",
-            "Konkrete Aufgabe, die Sie übernehmen möchten, mit Begründung",
-            "Organisatorische Rückfrage (Versicherung, Termin, Einarbeitung o.ä.)"
+            "Kurze Beschreibung des Defekts am gelieferten Gerät",
+            "Erklärung der Unzufriedenheit (fehlende Reaktion des Kundenservice)",
+            "Konkrete Forderung: Ersatzlieferung oder Rückerstattung",
+            "Klare Frist für eine Antwort oder Lösung"
           ],
           "wordCountMin": 130,
           "wordCountMax": 170,
-          "sampleAnswer": "Sehr geehrter Herr Schulz,\n\nvielen Dank für Ihre E-Mail und die freundliche Anfrage. Ich freue mich sehr, dass Sie an mich gedacht haben, und möchte Ihnen gerne zusagen.\n\nNeben meiner Arbeit als Buchhalter habe ich am Wochenende noch etwas Zeit übrig. Realistisch könnte ich zwei bis drei Stunden pro Woche einbringen, am liebsten samstags am Vormittag. An Feiertagen oder im Urlaub müsste ich allerdings kurz vorher Bescheid geben.\n\nAm besten würde mir die Organisation des monatlichen Nachbarschaftscafés liegen. Ich koche gerne, kann gut mit Menschen umgehen und habe in meiner alten Firma oft kleine Veranstaltungen mitgeplant. So könnte ich meine Erfahrung direkt einbringen.\n\nEine Frage hätte ich noch: Wie ist man bei solchen ehrenamtlichen Einsätzen eigentlich versichert? Und gibt es eine Einarbeitung mit anderen Helfern, bevor es losgeht?\n\nIch freue mich auf Ihre Antwort und auf unsere Zusammenarbeit.\n\nMit freundlichen Grüßen\nPaul Schmitt",
+          "sampleAnswer": "Sehr geehrte Damen und Herren,\n\nam 17. April habe ich über Ihren Online-Shop einen Wasserkocher (Bestellnummer: 7823-K) bestellt. Das Gerät wurde am 19. April geliefert, wies jedoch beim Auspacken einen deutlichen Riss am Deckel auf. Ich habe daraufhin sofort eine Nachricht über Ihr Kontaktformular gesendet – bisher habe ich jedoch keinerlei Antwort erhalten.\n\nIch bin sehr enttäuscht über diese mangelnde Reaktion. Ein beschädigtes Gerät zu erhalten ist bereits unangenehm, aber zwei Wochen lang keine Rückmeldung zu bekommen, ist aus meiner Sicht nicht akzeptabel.\n\nIch bitte Sie daher, mir bis zum 10. Mai entweder ein einwandfreies Ersatzgerät zu liefern oder den vollen Kaufpreis zurückzuerstatten. Sollte ich bis dahin keine Rückmeldung erhalten, sehe ich mich gezwungen, die Verbraucherzentrale einzuschalten.\n\nIch erwarte Ihre baldige Antwort.\n\nMit freundlichen Grüßen\nSarah Müller",
           "scoringCriteria": [
             {
               "criterion": "I. Inhaltliche Vollständigkeit",
               "maxPoints": 15,
-              "description": "Alle vier Leitpunkte (Zusage, Zeit, Aufgabe, Rückfrage) sind klar behandelt. Wird einer dieser Punkte als nicht bearbeitet bewertet (D), erhält der gesamte Text 0 Punkte."
+              "description": "Alle vier Leitpunkte (Defekt, Unzufriedenheit, Forderung, Frist) sind klar behandelt. Wird einer dieser Punkte als nicht bearbeitet bewertet (D), erhält der gesamte Text 0 Punkte."
             },
             {
               "criterion": "II. Kommunikative Gestaltung",
               "maxPoints": 15,
-              "description": "Angemessene Anrede ('Sehr geehrter Herr Schulz'), logische Einleitung mit Bezug auf die empfangene E-Mail, passende Konnektoren (allerdings, am besten, außerdem), formelle Grußformel, sinnvolle Absatzstruktur."
+              "description": "Angemessene formelle Anrede ('Sehr geehrte Damen und Herren'), klarer Bezug auf Bestelldatum/-nummer, sachlicher Ton mit Konnektoren (jedoch, daher, daraufhin), formelle Grußformel, logische Absatzstruktur."
             },
             {
               "criterion": "III. Formale Richtigkeit",
               "maxPoints": 15,
-              "description": "Grammatik, Rechtschreibung und Wortwahl auf B1-Niveau. Korrekte Verbformen (Perfekt, Konjunktiv II für höfliche Bitten), Satzstellung in Nebensätzen, Kasus nach Präpositionen. Schwere Grammatikfehler, die das Verständnis blockieren, führen zu D (und damit 0 Punkten für den gesamten Text)."
+              "description": "Grammatik, Rechtschreibung und Wortwahl auf B1-Niveau. Korrekte Verbformen (Passiv, Konjunktiv II für höfliche Forderungen), Satzstellung in Nebensätzen, Kasus nach Präpositionen. Schwere Grammatikfehler, die das Verständnis blockieren, führen zu D (und damit 0 Punkten für den gesamten Text)."
             }
           ]
         }
@@ -931,14 +931,14 @@
           "type": "planning",
           "instructions": "Sie sollen mit Ihrem Partner gemeinsam etwas planen. Machen Sie Vorschläge, reagieren Sie auf die Ideen Ihres Partners und einigen Sie sich am Ende auf eine gemeinsame Lösung.",
           "instructionsTranslation": "You are going to plan something together with your partner. Make suggestions, respond to your partner's ideas, and agree on a joint solution at the end.",
-          "prompt": "In Ihrem Stadtteil soll ein kleines Willkommensfest für neue Nachbarinnen und Nachbarn stattfinden. Sie und Ihr Partner / Ihre Partnerin sollen dieses Fest gemeinsam organisieren.\n\nBesprechen Sie bitte folgende Punkte und kommen Sie zu einer gemeinsamen Entscheidung:\n\n- Wann und wo soll das Fest stattfinden?\n- Wen laden Sie ein (nur neue Nachbarn oder alle)?\n- Wie laden Sie die Leute ein (Zettel im Hausflur, E-Mail, Aushang)?\n- Was soll es zu essen und zu trinken geben? Wer bringt was mit?\n- Welches kleine Programm planen Sie (z.B. Vorstellungsrunde, Quiz, Musik)?\n\nMachen Sie Vorschläge, gehen Sie auf die Vorschläge Ihres Partners ein und einigen Sie sich am Ende.",
-          "sampleResponse": "Also, ich würde vorschlagen, dass wir das Fest an einem Samstagnachmittag im Mai machen – zum Beispiel am 15. Mai ab 15 Uhr. Als Ort könnten wir den kleinen Innenhof hinter unserem Haus nehmen, der ist geschützt und groß genug. Was hältst du davon?\n\nIch finde, wir sollten alle Nachbarn einladen, nicht nur die neuen. So lernen sich alle gegenseitig kennen. Mein Vorschlag: Wir hängen einen freundlichen Aushang im Hausflur auf und werfen einen Zettel in jeden Briefkasten.\n\nBeim Essen würde ich ein kleines Buffet vorschlagen, jeder bringt etwas mit. Ich kann zwei Bleche Pizza machen und Apfelsaft mitbringen. Vielleicht könntest du für Salate und Wasser sorgen? Dann haben wir schon mal eine gute Basis.\n\nAls Programm schlage ich eine kurze Vorstellungsrunde vor und danach ein einfaches Quiz über unsere Nachbarschaft – etwa wann das älteste Haus gebaut wurde oder wo der nächste Spielplatz ist. Zum Schluss könnten wir leise Musik aus einer Bluetooth-Box spielen. Bist du mit dem Plan einverstanden? Prima, dann halten wir das so fest.",
+          "prompt": "Ein guter Freund / Eine gute Freundin feiert in drei Wochen Geburtstag. Sie und Ihr Partner / Ihre Partnerin möchten gemeinsam eine Geburtstagsparty organisieren.\n\nBesprechen Sie bitte folgende Punkte und kommen Sie zu einer gemeinsamen Entscheidung:\n\n- Wo soll die Party stattfinden (bei jemandem zu Hause, in einem Café, im Freien)?\n- Wie viele Gäste laden Sie ein, und wen genau?\n- Was gibt es zu essen und zu trinken – kaufen oder selbst kochen?\n- Welches Programm oder welche Aktivitäten planen Sie (Musik, Spiele, Fotos)?\n- Was schenken Sie dem Geburtstagskind gemeinsam?\n\nMachen Sie Vorschläge, gehen Sie auf die Vorschläge Ihres Partners ein und einigen Sie sich am Ende.",
+          "sampleResponse": "Also, ich würde vorschlagen, dass wir die Party bei mir zu Hause feiern – ich habe einen kleinen Garten, der im Mai perfekt wäre, falls das Wetter mitspielt. Was meinst du dazu?\n\nBei den Gästen würde ich sagen: lieber klein und gemütlich, also vielleicht zehn bis zwölf Leute – die engsten Freunde und Freundinnen. Wir könnten einfach eine WhatsApp-Gruppe machen und alle direkt einladen.\n\nFürs Essen würde ich vorschlagen, dass jeder etwas mitbringt – ein paar Salate, Brot und Snacks. Ich könnte einen großen Nudelsalat machen und Limonade besorgen. Kannst du vielleicht einen Kuchen backen? Das wäre super.\n\nAls Programm schlage ich eine Playlist vor, die wir beide zusammenstellen, und danach könnten wir ein paar Runden Werwolf spielen. Das macht immer viel Spaß.\n\nAls Geschenk würde ich vorschlagen, dass wir uns zusammentun und ein Konzertticket kaufen – das findet sie bestimmt toll. Sind wir uns einig? Dann halten wir das so fest!",
           "evaluationTips": [
             "Hören Sie aktiv zu und reagieren Sie konkret auf die Vorschläge Ihres Partners",
             "Machen Sie Vorschläge mit Konjunktiv II ('Ich würde vorschlagen ...', 'Wir könnten ...')",
             "Begründen Sie Vorschläge kurz mit 'weil' oder 'damit'",
             "Einigen Sie sich klar am Ende: 'Einverstanden?' oder 'Dann halten wir das so fest.'",
-            "Teilen Sie Aufgaben explizit auf – wer bringt was mit",
+            "Teilen Sie Aufgaben explizit auf – wer bringt was mit, wer kauft was",
             "Fassen Sie am Ende die wichtigsten Entscheidungen kurz zusammen"
           ],
           "keyPhrases": [
