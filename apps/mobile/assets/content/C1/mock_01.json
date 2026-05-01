@@ -15,7 +15,7 @@
             {
               "id": "C1_m01_R1_main",
               "type": "article",
-              "content": "Wissenschaft im Vertrauenscrash\n\nDie Grundlage wissenschaftlichen Arbeitens ist der Gedanke, dass Ergebnisse nachvollziehbar und reproduzierbar sind. [1] Wer ein Experiment unter denselben Bedingungen wiederholt, müsste – so die Erwartung – zu denselben Schlüssen gelangen. Dieses Prinzip galt lange als selbstverständlich. [2] Doch seit gut einem Jahrzehnt häufen sich Befunde, die genau diese Selbstverständlichkeit in Frage stellen.\n\nAusgangspunkt der Debatte war eine groß angelegte Studie aus dem Jahr 2015, bei der Wissenschaftlerinnen und Wissenschaftler versuchten, hundert Experimente aus führenden Psychologiezeitschriften zu replizieren. [3] Nur rund 36 Prozent der ursprünglichen Befunde konnten dabei statistisch bestätigt werden – ein Ergebnis, das in der Fachwelt wie ein Schock wirkte und die sogenannte Reproduzierbarkeitskrise auslöste.\n\nWas steckt hinter diesem Phänomen? Einfache Antworten greifen zu kurz. Zum einen spielen strukturelle Anreize im Wissenschaftssystem eine Rolle: [4] Wer publiziert, wird befördert; wer scheitert, bleibt unsichtbar. Negative Ergebnisse finden kaum Platz in renommierten Fachzeitschriften. Zum anderen verführt die Fülle moderner Analysesoftware zu einem Phänomen, das Methodologen als „p-Hacking\" bezeichnen: Das gezielte Testen zahlreicher Variablen so lange, bis sich eine statistisch signifikante – jedoch zufällige – Korrelation ergibt.\n\nHinzu kommt ein dritter Faktor, der selten offen benannt wird. [5] Die akademische Gemeinschaft ist nicht immun gegen den Wunsch, bestehende Überzeugungen zu bestätigen. Dieser Bestätigungsfehler tritt auch bei gut ausgebildeten Forschenden auf und kann unbewusst die Auswahl von Stichproben, die Formulierung von Hypothesen oder die Interpretation mehrdeutiger Daten beeinflussen.\n\nOpen Science gilt vielen als vielversprechendste Antwort auf die Krise. [6] Dazu gehören Vorregistrierung von Studien – bei der Forscher ihre Hypothesen und Methoden vor Beginn der Datenerhebung öffentlich festhalten –, offene Datensätze sowie transparente Peer-Review-Verfahren. Kritiker warnen allerdings, dass allein mehr Transparenz strukturelle Fehlanreize nicht beseitigt, solange Beförderung und Drittmittelerfolg die Richtschnur akademischer Karrieren bleiben.",
+              "content": "Wissenschaft im Vertrauenscrash\n\nDie Grundlage wissenschaftlichen Arbeitens ist der Gedanke, dass Ergebnisse nachvollziehbar und reproduzierbar sind. [1] Wer ein Experiment unter denselben Bedingungen wiederholt, müsste – so die Erwartung – zu denselben Schlüssen gelangen. Dieses Prinzip galt lange als selbstverständlich. [2] Doch seit gut einem Jahrzehnt häufen sich Befunde, die genau diese Selbstverständlichkeit in Frage stellen.\n\nAusgangspunkt der Debatte war eine groß angelegte Studie aus dem Jahr 2015, bei der Wissenschaftlerinnen und Wissenschaftler versuchten, hundert Experimente aus führenden Psychologiezeitschriften zu replizieren. [3] Nur rund 36 Prozent der ursprünglichen Befunde konnten dabei statistisch bestätigt werden – ein Ergebnis, das in der Fachwelt wie ein Schock wirkte und die sogenannte Reproduzierbarkeitskrise auslöste.\n\nWas steckt hinter diesem Phänomen? Einfache Antworten greifen zu kurz. Zum einen spielen strukturelle Anreize im Wissenschaftssystem eine Rolle: [4] Wer publiziert, wird befördert; wer scheitert, bleibt unsichtbar. Negative Ergebnisse finden kaum Platz in renommierten Fachzeitschriften. Zum anderen verführt die Fülle moderner Analysesoftware zu einem Phänomen, das Methodologen als „p-Hacking\" bezeichnen: Das gezielte Testen zahlreicher Variablen so lange, bis sich eine statistisch signifikante – jedoch zufällige – Korrelation ergibt.\n\nHinzu kommt ein dritter Faktor, der selten offen benannt wird. [5] Die akademische Gemeinschaft ist nicht immun gegen den Wunsch, bestehende Überzeugungen zu bestätigen. Solche Praktiken – vom gezielten Testen von Variablen bis hin zum nachträglichen Formulieren von Hypothesen – werden von Methodologen als p-Hacking oder HARKing bezeichnet. Dieser Bestätigungsfehler tritt auch bei gut ausgebildeten Forschenden auf und kann unbewusst die Auswahl von Stichproben, die Formulierung von Hypothesen oder die Interpretation mehrdeutiger Daten beeinflussen.\n\nOpen Science gilt vielen als vielversprechendste Antwort auf die Krise. [6] Dazu gehören Vorregistrierung von Studien – bei der Forscher ihre Hypothesen und Methoden vor Beginn der Datenerhebung öffentlich festhalten –, offene Datensätze sowie transparente Peer-Review-Verfahren. Kritiker warnen allerdings, dass allein mehr Transparenz strukturelle Fehlanreize nicht beseitigt, solange Beförderung und Drittmittelerfolg die Richtschnur akademischer Karrieren bleiben.",
               "source": "Spektrum der Wissenschaft, Dezember 2025"
             },
             {
@@ -26,7 +26,7 @@
             {
               "id": "C1_m01_R1_sent_b",
               "type": "notice",
-              "content": "b) Allerdings stößt selbst dieses Modell an Grenzen, wenn die zugrundeliegenden Rohdaten nicht zugänglich sind oder Stichprobengrößen zu klein ausfallen."
+              "content": "b) Sie umfasst mehrere konkrete Praktiken, die das wissenschaftliche Arbeiten transparenter machen sollen und die Reproduzierbarkeit von Befunden verbessern."
             },
             {
               "id": "C1_m01_R1_sent_c",
@@ -46,7 +46,7 @@
             {
               "id": "C1_m01_R1_sent_f",
               "type": "notice",
-              "content": "f) Solche Vorwürfe treffen nicht nur auf Ablehnung, sondern sind mittlerweile empirisch belegt: Analysen von Tausenden Studien zeigen gehäufte p-Werte knapp unterhalb der Signifikanzschwelle von 0,05 – ein statistisches Fingerabdruck von Datenselektion."
+              "content": "f) Solche Vorwürfe treffen nicht nur auf Ablehnung, sondern sind mittlerweile empirisch belegt: Analysen von Tausenden Studien zeigen gehäufte p-Werte knapp unterhalb der Signifikanzschwelle von 0,05 – ein statistischer Fingerabdruck von Datenselektion."
             },
             {
               "id": "C1_m01_R1_sent_g",
@@ -263,7 +263,7 @@
                 }
               ],
               "correctAnswer": "f",
-              "explanation": "Lücke 5 folgt auf die Einführung des Bestätigungsfehlers. Satz f) liefert empirische Belege für das p-Hacking-Phänomen ('statistisches Fingerabdruck von Datenselektion') und schließt damit die Reihe der Erklärungsfaktoren ab. Satz g) käme thematisch in Frage, setzt aber eine vorangehende Empfehlung voraus, die im Kontext nicht erscheint."
+              "explanation": "Lücke 5 folgt auf die Einführung des Bestätigungsfehlers und die explizite Nennung von p-Hacking/HARKing als 'solche Praktiken'. Satz f) ('Solche Vorwürfe treffen nicht nur auf Ablehnung, sondern sind mittlerweile empirisch belegt') greift anaphorisch genau diese im Vorsatz bezeichneten Praktiken auf – 'Vorwürfe' bezieht sich auf den Vorwurf des p-Hackings. Die empirischen Belege (gehäufte p-Werte) schließen die Reihe der Erklärungsfaktoren ab. Satz g) käme thematisch in Frage, setzt aber eine vorangehende Empfehlung voraus, die im Kontext nicht erscheint."
             },
             {
               "id": "C1_m01_R1_q6",
@@ -304,7 +304,7 @@
                 }
               ],
               "correctAnswer": "b",
-              "explanation": "Lücke 6 steht am Ende des Textes, nachdem Open Science eingeführt wurde. Satz b) ('stößt selbst dieses Modell an Grenzen, wenn die zugrundeliegenden Rohdaten nicht zugänglich sind…') ergänzt die im Folgesatz genannten Maßnahmen mit einer kritischen Einschränkung – 'selbst dieses Modell' verweist katakaphorisch auf das Open-Science-Konzept."
+              "explanation": "Lücke 6 steht unmittelbar nach 'Open Science gilt vielen als vielversprechendste Antwort auf die Krise.' Satz b) ('Sie umfasst mehrere konkrete Praktiken, die das wissenschaftliche Arbeiten transparenter machen sollen…') entfaltet anknüpfend an Open Science, was genau darunter zu verstehen ist – das Pronomen 'Sie' verweist anaphorisch auf 'Open Science'. Der Folgesatz 'Dazu gehören Vorregistrierung…' schließt kohärent an: 'Dazu' bezieht sich auf die im Satz b) genannten konkreten Praktiken. Satz h) ('Dennoch bleibt umstritten…') wäre thematisch passend, aber nur als abschließende Einschränkung am Absatzende, nicht als Brücke zum Folgesatz 'Dazu gehören'."
             }
           ]
         },
@@ -434,7 +434,7 @@
             {
               "id": "C1_m01_R3_article",
               "type": "article",
-              "content": "Open Science: Zwischen Aufbruch und Überforderung\n\nDer Begriff Open Science klingt schlicht: Wissenschaft soll offen sein, für alle zugänglich, transparent und nachvollziehbar. Hinter dieser Formel verbirgt sich jedoch ein tiefgreifender Wandel in der Art und Weise, wie Forschung produziert, bewertet und verbreitet wird. Seit gut einem Jahrzehnt gewinnt die Open-Science-Bewegung an Dynamik – getragen von einer Generation von Forschenden, die sich gegen die geschlossenen Strukturen des akademischen Verlagswesens stemmen, und befeuert durch digitale Infrastrukturen, die eine weltweite Teilen von Daten, Methoden und Ergebnissen erstmals praktikabel machen.\n\nDer Kern des Problems liegt in einem historisch gewachsenen Paradox: Öffentlich finanzierte Forschung landet in Zeitschriften privater Verlage, die ihren Inhalt hinter teuren Abonnementzäunen sperren. Universitätsbibliotheken in Deutschland zahlen jährlich Hunderte Millionen Euro, damit ihre Wissenschaftler und Studierenden auf Artikel zugreifen können, die sie selbst geschrieben oder deren Begutachtung sie unentgeltlich übernommen haben. Dieses Geschäftsmodell, das in den 1970er Jahren mit dem Aufkommen spezialisierter Fachverlage entstand, gilt Kritikern als anachronistisch – und als strukturelle Bremse für wissenschaftlichen Fortschritt in ressourcenschwachen Ländern.\n\nOpen Access – der freie Zugang zu wissenschaftlichen Publikationen – ist der bekannteste Pfeiler von Open Science. Doch die Bewegung reicht weiter: Open Data verlangt, dass die erhobenen Rohdaten einer Studie öffentlich zugänglich gemacht werden, damit andere Forschende sie nachprüfen oder für eigene Analysen nutzen können. Open Methods fordert transparente Dokumentation von Labormethoden und Analyseskripten. Open Peer Review öffnet den bislang anonymen Begutachtungsprozess für externe Beobachter oder publiziert Gutachten zusammen mit dem Artikel. Zusammen genommen sollen diese Prinzipien jene Lücken schließen, die die Reproduzierbarkeitskrise aufgedeckt hat: zu wenige Daten, zu wenig Methodentransparenz, zu viel Selektionsdruck.\n\nDie Fortschritte sind real, aber unevenverteil. In der Biomedizin und den Naturwissenschaften haben Preprint-Server wie bioRxiv und medRxiv die Verbreitung vorläufiger Ergebnisse revolutioniert: Forschende stellen Manuskripte vor der Begutachtung online, erhalten schnell Rückmeldungen aus der Community und können Fehler beheben, bevor ein Artikel offiziell erscheint. In der COVID-19-Pandemie erwies sich dieses System als unverzichtbar: In wenigen Wochen kurierten Wissenschaftler weltweit auf Preprint-Servern die für die Impfstoffentwicklung relevanten Erkenntnisse. Gleichzeitig zeigte die Pandemie die Schattenseiten: Vorläufige Ergebnisse ohne Peer Review wurden von Medien aufgegriffen und als gesichertes Wissen dargestellt – mit teils folgenreichen Missverständnissen.\n\nIn den Geistes- und Sozialwissenschaften ist die Lage komplizierter. Forschungsdaten bestehen häufig aus vertraulichen Interviews, sensiblen Archivmaterialien oder personenbezogenen Umfrageantworten – alles Material, das aus datenschutzrechtlichen oder ethischen Gründen nicht ohne Weiteres geteilt werden kann. Hier stoßen die Prinzipien von Open Data an rechtliche und methodologische Grenzen, die noch kein Konsens überbrückt hat. Viele Geistes- und Sozialwissenschaftler empfinden die aus den MINT-Fächern importierten Open-Science-Normen als kulturfremd und halten die Qualität eines Interpretationsprozesses für nicht sinnvoll in ein offenes Datenformat übersetzbar.\n\nHinzu kommt eine ökonomische Dimension, die Reformbemühungen verkompliziert. Open-Access-Verlage finanzieren sich häufig über Artikel-Bearbeitungsgebühren (Article Processing Charges, APCs), die Autorinnen und Autoren – oder deren Institutionen – zahlen müssen, wenn ihre Arbeit frei zugänglich erscheinen soll. Für Forschende aus Hochlohnländern mit gut ausgestatteten Bibliotheken ist das handhabbar. Für Wissenschaftlerinnen und Wissenschaftler aus dem Globalen Süden, die weder über institutionelle Abonnementbudgets noch über APC-Fördertöpfe verfügen, droht Open Access paradoxerweise eine neue Exklusionslogik zu erzeugen: Lesen können nun alle – publizieren nicht.\n\nEuropäische Forschungsförderer wie die Deutsche Forschungsgemeinschaft und die EU-Kommission haben mit Plan S eine Initiative auf den Weg gebracht, die für geförderte Forschung verbindlichen Open-Access-Zugang bis 2025 vorschreibt. Die Initiative hat Bewegung in den Markt gebracht: Mehrere Großverlage verhandeln sogenannte Transformationsverträge, die Abonnementgebühren und APCs in einem Gesamtpaket bündeln. Ob diese Verträge wirklich zur Öffnung des Systems führen oder lediglich die Erlösmodelle der Verlage sichern, ist unter Bibliothekaren und Wissenschaftlern heftig umstritten.\n\nAm Ende läuft die Open-Science-Debatte auf eine tiefere Frage hinaus: Wem gehört Wissen? Wenn es mit öffentlichen Mitteln erzeugt wird, scheint die Antwort naheliegend – der Gesellschaft. Doch die Umsetzung dieser Antwort verlangt, überkommene Infrastrukturen, Anreizstrukturen und Bewertungslogiken des Wissenschaftssystems von Grund auf zu transformieren. Das ist kein technisches, sondern ein politisches und kulturelles Problem. Und bis es gelöst ist, bleibt Open Science das, was ihr Name verspricht und noch nicht ganz einlöst: ein Ideal im Werden.",
+              "content": "Open Science: Zwischen Aufbruch und Überforderung\n\nDer Begriff Open Science klingt schlicht: Wissenschaft soll offen sein, für alle zugänglich, transparent und nachvollziehbar. Hinter dieser Formel verbirgt sich jedoch ein tiefgreifender Wandel in der Art und Weise, wie Forschung produziert, bewertet und verbreitet wird. Seit gut einem Jahrzehnt gewinnt die Open-Science-Bewegung an Dynamik – getragen von einer Generation von Forschenden, die sich gegen die geschlossenen Strukturen des akademischen Verlagswesens stemmen, und befeuert durch digitale Infrastrukturen, die eine weltweite Teilen von Daten, Methoden und Ergebnissen erstmals praktikabel machen.\n\nDer Kern des Problems liegt in einem historisch gewachsenen Paradox: Öffentlich finanzierte Forschung landet in Zeitschriften privater Verlage, die ihren Inhalt hinter teuren Abonnementzäunen sperren. Universitätsbibliotheken in Deutschland zahlen jährlich Hunderte Millionen Euro, damit ihre Wissenschaftler und Studierenden auf Artikel zugreifen können, die sie selbst geschrieben oder deren Begutachtung sie unentgeltlich übernommen haben. Dieses Geschäftsmodell, das in den 1970er Jahren mit dem Aufkommen spezialisierter Fachverlage entstand, gilt Kritikern als anachronistisch – und als strukturelle Bremse für wissenschaftlichen Fortschritt in ressourcenschwachen Ländern.\n\nOpen Access – der freie Zugang zu wissenschaftlichen Publikationen – ist der bekannteste Pfeiler von Open Science. Doch die Bewegung reicht weiter: Open Data verlangt, dass die erhobenen Rohdaten einer Studie öffentlich zugänglich gemacht werden, damit andere Forschende sie nachprüfen oder für eigene Analysen nutzen können. Open Methods fordert transparente Dokumentation von Labormethoden und Analyseskripten. Open Peer Review öffnet den bislang anonymen Begutachtungsprozess für externe Beobachter oder publiziert Gutachten zusammen mit dem Artikel. Zusammen genommen sollen diese Prinzipien jene Lücken schließen, die die Reproduzierbarkeitskrise aufgedeckt hat: zu wenige Daten, zu wenig Methodentransparenz, zu viel Selektionsdruck.\n\nDie Fortschritte sind real, aber ungleich verteilt. In der Biomedizin und den Naturwissenschaften haben Preprint-Server wie bioRxiv und medRxiv die Verbreitung vorläufiger Ergebnisse revolutioniert: Forschende stellen Manuskripte vor der Begutachtung online, erhalten schnell Rückmeldungen aus der Community und können Fehler beheben, bevor ein Artikel offiziell erscheint. In der COVID-19-Pandemie erwies sich dieses System als unverzichtbar: In wenigen Wochen kuratierten Wissenschaftler weltweit auf Preprint-Servern die für die Impfstoffentwicklung relevanten Erkenntnisse. Gleichzeitig zeigte die Pandemie die Schattenseiten: Vorläufige Ergebnisse ohne Peer Review wurden von Medien aufgegriffen und als gesichertes Wissen dargestellt – mit teils folgenreichen Missverständnissen.\n\nIn den Geistes- und Sozialwissenschaften ist die Lage komplizierter. Forschungsdaten bestehen häufig aus vertraulichen Interviews, sensiblen Archivmaterialien oder personenbezogenen Umfrageantworten – alles Material, das aus datenschutzrechtlichen oder ethischen Gründen nicht ohne Weiteres geteilt werden kann. Hier stoßen die Prinzipien von Open Data an rechtliche und methodologische Grenzen, die noch kein Konsens überbrückt hat. Viele Geistes- und Sozialwissenschaftler empfinden die aus den MINT-Fächern importierten Open-Science-Normen als kulturfremd und halten die Qualität eines Interpretationsprozesses für nicht sinnvoll in ein offenes Datenformat übersetzbar.\n\nHinzu kommt eine ökonomische Dimension, die Reformbemühungen verkompliziert. Open-Access-Verlage finanzieren sich häufig über Artikel-Bearbeitungsgebühren (Article Processing Charges, APCs), die Autorinnen und Autoren – oder deren Institutionen – zahlen müssen, wenn ihre Arbeit frei zugänglich erscheinen soll. Für Forschende aus Hochlohnländern mit gut ausgestatteten Bibliotheken ist das handhabbar. Für Wissenschaftlerinnen und Wissenschaftler aus dem Globalen Süden, die weder über institutionelle Abonnementbudgets noch über APC-Fördertöpfe verfügen, droht Open Access paradoxerweise eine neue Exklusionslogik zu erzeugen: Lesen können nun alle – publizieren nicht.\n\nEuropäische Forschungsförderer wie die Deutsche Forschungsgemeinschaft und die EU-Kommission haben mit Plan S eine Initiative auf den Weg gebracht, die für geförderte Forschung verbindlichen Open-Access-Zugang bis 2025 vorschreibt. Die Initiative hat Bewegung in den Markt gebracht: Mehrere Großverlage verhandeln sogenannte Transformationsverträge, die Abonnementgebühren und APCs in einem Gesamtpaket bündeln. Ob diese Verträge wirklich zur Öffnung des Systems führen oder lediglich die Erlösmodelle der Verlage sichern, ist unter Bibliothekaren und Wissenschaftlern heftig umstritten.\n\nAm Ende läuft die Open-Science-Debatte auf eine tiefere Frage hinaus: Wem gehört Wissen? Wenn es mit öffentlichen Mitteln erzeugt wird, scheint die Antwort naheliegend – der Gesellschaft. Doch die Umsetzung dieser Antwort verlangt, überkommene Infrastrukturen, Anreizstrukturen und Bewertungslogiken des Wissenschaftssystems von Grund auf zu transformieren. Das ist kein technisches, sondern ein politisches und kulturelles Problem. Und bis es gelöst ist, bleibt Open Science das, was ihr Name verspricht und noch nicht ganz einlöst: ein Ideal im Werden.",
               "source": "Forschung & Lehre, Ausgabe 3/2026"
             }
           ],
@@ -594,7 +594,7 @@
           "partNumber": 1,
           "instructions": "Lesen Sie den folgenden Text. Wählen Sie bei jeder Lücke (1–22) die richtige Antwort (a, b, c oder d). Es gibt jeweils nur eine richtige Antwort.",
           "instructionsTranslation": "Read the following text. For each gap (1–22) choose the correct answer (a, b, c or d). There is only one correct answer each time.",
-          "text": "Die Frage, (1) ____ wissenschaftliche Erkenntnisse als gesichert gelten können, lässt sich nicht mit einem einfachen Kriterium beantworten. In der Forschungspraxis gilt gemeinhin das Prinzip der Reproduzierbarkeit: Ein Befund wird erst dann (2) ____ anerkannt, wenn er unter vergleichbaren Bedingungen von unabhängigen Gruppen repliziert werden konnte. Dieses Ideal ist jedoch schwieriger zu (3) ____ als es auf den ersten Blick scheint.\n\nEin zentrales Problem liegt im sogenannten Publikationsbias, (4) ____ dem negative oder nicht signifikante Ergebnisse kaum Chancen haben, in renommierten Fachzeitschriften zu erscheinen. Wer keine spektakulären Befunde vorweisen kann, riskiert, im akademischen Wettbewerb (5) ____ zu werden. Das verleitet manche Forschende dazu, Daten so lange zu analysieren, bis sich eine scheinbar bedeutsame Korrelation ergibt – ein Vorgehen, das Methodologen als „p-Hacking\" (6) ____.\n\nHinzu kommt, dass Studien häufig mit zu kleinen Stichproben durchgeführt werden, (7) ____ statistische Aussagekraft einzuschränken. Solche Arbeiten können den Peer-Review-Prozess durchlaufen, ohne dass die Gutachter die mangelhafte Power der Studie (8) ____. Erst wenn mehrere Replikationsversuche scheitern, (9) ____ Zweifel an der Solidität des Ausgangsbefunds.\n\nDie Open-Science-Bewegung (10) ____ auf diese Schwächen, indem sie Vorregistrierung, offene Daten und transparente Methoden (11) ____. Kritiker räumen ein, dass mehr Transparenz notwendig, aber nicht (12) ____ sei: Solange Karrieren primär an der Zahl der Veröffentlichungen (13) ____ werden, bleiben die strukturellen Fehlanreize bestehen. Eine tiefergehende Reform (14) ____ daher einen Wandel in den Bewertungskriterien akademischer Leistung (15) ____.\n\nWissenschaftsethik bedeutet in diesem Kontext nicht nur, Daten nicht zu fälschen. Sie (16) ____ auch, Unsicherheiten offen zu kommunizieren, Limitationen einer Studie transparent zu machen und nicht mehr (17) ____ als tatsächlich belegt ist. Wer als Forschende oder Forscher (18) ____ mit diesem Anspruch nicht auseinandersetzt, schadet letztlich nicht nur der eigenen Glaubwürdigkeit, sondern dem Vertrauen der Öffentlichkeit in die Wissenschaft (19) ____. Eine Kultur der epistemischen Bescheidenheit ist daher keine akademische Tugend unter vielen – sie ist (20) ____ des wissenschaftlichen Projekts selbst. Nur wer bereit ist, die eigenen Befunde (21) ____ zu hinterfragen, kann zur Akkumulation verlässlichen Wissens (22) ____.",
+          "text": "Die Frage, (1) ____ wissenschaftliche Erkenntnisse als gesichert gelten können, lässt sich nicht mit einem einfachen Kriterium beantworten. In der Forschungspraxis gilt gemeinhin das Prinzip der Reproduzierbarkeit: Ein Befund wird erst dann (2) ____ anerkannt, wenn er unter vergleichbaren Bedingungen von unabhängigen Gruppen repliziert werden konnte. Dieses Ideal ist jedoch schwieriger zu (3) ____ als es auf den ersten Blick scheint.\n\nEin zentrales Problem liegt im sogenannten Publikationsbias, (4) ____ dem negative oder nicht signifikante Ergebnisse kaum Chancen haben, in renommierten Fachzeitschriften zu erscheinen. Wer keine spektakulären Befunde vorweisen kann, riskiert, im akademischen Wettbewerb (5) ____ zu werden. Das verleitet manche Forschende dazu, Daten so lange zu analysieren, bis sich eine scheinbar bedeutsame Korrelation ergibt – ein Vorgehen, das Methodologen als „p-Hacking\" (6) ____.\n\nHinzu kommt, dass Studien häufig mit zu kleinen Stichproben durchgeführt werden, (7) ____ statistische Aussagekraft eingeschränkt wird. Solche Arbeiten können den Peer-Review-Prozess durchlaufen, ohne dass die Gutachter die mangelhafte Power der Studie (8) ____. Erst wenn mehrere Replikationsversuche scheitern, (9) ____ Zweifel an der Solidität des Ausgangsbefunds.\n\nDie Open-Science-Bewegung (10) ____ auf diese Schwächen, indem sie Vorregistrierung, offene Daten und transparente Methoden (11) ____. Kritiker räumen ein, dass mehr Transparenz notwendig, aber nicht (12) ____ sei: Solange Karrieren primär an der Zahl der Veröffentlichungen (13) ____ werden, bleiben die strukturellen Fehlanreize bestehen. Eine tiefergehende Reform (14) ____ daher einen Wandel in den Bewertungskriterien akademischer Leistung (15) ____.\n\nWissenschaftsethik bedeutet in diesem Kontext nicht nur, Daten nicht zu fälschen. Sie (16) ____ auch, Unsicherheiten offen zu kommunizieren, Limitationen einer Studie transparent zu machen und nicht mehr (17) ____ als tatsächlich belegt ist. Wer als Forschende oder Forscher (18) ____ mit diesem Anspruch nicht auseinandersetzt, schadet letztlich nicht nur der eigenen Glaubwürdigkeit, sondern langfristig dem Ansehen der Wissenschaft (19) ____. Eine Kultur der epistemischen Bescheidenheit ist daher keine akademische Tugend unter vielen – sie ist (20) ____ des wissenschaftlichen Projekts selbst. Nur wer bereit ist, die eigenen Befunde (21) ____ zu hinterfragen, kann zur Akkumulation verlässlichen Wissens (22) ____.",
           "questions": [
             {
               "blankNumber": 1,
@@ -672,13 +672,13 @@
               "blankNumber": 7,
               "type": "mcq",
               "options": [
+                "wodurch deren",
                 "um deren",
                 "ohne deren",
-                "wodurch deren",
                 "was deren"
               ],
-              "correctAnswer": "um deren",
-              "explanation": "'um … einzuschränken' ist die korrekte Konstruktion ('zu kleinen Stichproben, um deren statistische Aussagekraft einzuschränken'). 'ohne deren' würde eine Infinitivkonstruktion ohne Bezug benötigen. 'wodurch deren' leitet keinen Infinitivsatz ein. 'was deren' ist grammatisch nicht wohlgeformt."
+              "correctAnswer": "wodurch deren",
+              "explanation": "'wodurch deren statistische Aussagekraft eingeschränkt wird' ist die korrekte Konstruktion: 'wodurch' leitet einen Konsekutivsatz ein und verweist anaphorisch auf die zu kleinen Stichproben als Ursache. Das Resultat – eingeschränkte statistische Aussagekraft – folgt als Konsequenz, nicht als Absicht. 'um deren … einzuschränken' würde eine Finalangabe erzeugen ('mit dem Ziel, die Aussagekraft einzuschränken') – das ist semantisch widersinnig, weil Forschende ihre Stichproben nicht absichtlich zu klein wählen, um die Aussagekraft zu beschränken. 'ohne deren' und 'was deren' passen syntaktisch nicht."
             },
             {
               "blankNumber": 8,
@@ -756,13 +756,13 @@
               "blankNumber": 14,
               "type": "mcq",
               "options": [
-                "erfordert",
-                "ermöglicht",
-                "bedingt",
-                "impliziert"
+                "setzt",
+                "fordert",
+                "verlangt",
+                "bedarf"
               ],
-              "correctAnswer": "erfordert",
-              "explanation": "'erfordert' (im Sinne von 'macht notwendig') ist die korrekte Wahl für strukturelle Notwendigkeiten in akademischem Register. 'bedingt' wäre semantisch möglich, klingt aber antiquierter. 'ermöglicht' wäre semantisch falsch. 'impliziert' ist zu schwach für eine notwendige Bedingung."
+              "correctAnswer": "setzt",
+              "explanation": "Die Gesamtkonstruktion mit Lücke 15 ('voraus') ergibt das Trennverb 'voraussetzen': 'Eine tiefergehende Reform setzt … einen Wandel … voraus.' Das Verb 'voraussetzen' wird im Satz getrennt: der Stamm 'setzt' steht in der finiten Position, das Präfix 'voraus' rückt ans Satzende (Lücke 15). 'fordert' und 'verlangt' sind syntaktisch nicht als Trennverb mit 'voraus' kombinierbar. 'bedarf' regiert den Genitiv, nicht einen Akkusativ mit 'voraus'. C1-Falle: 'erfordert' (nicht trennbar) kann nicht mit 'voraus' kombiniert werden – es existiert kein Verb 'vorauserfordern'."
             },
             {
               "blankNumber": 15,
@@ -774,7 +774,7 @@
                 "vorbei"
               ],
               "correctAnswer": "voraus",
-              "explanation": "'erfordert … voraus' ergänzt das Trennverb 'voraussetzen': 'Eine Reform setzt einen Wandel voraus'. Dies ist die idiomatische Verbalkonstruktion. 'vorüber', 'voran', 'vorbei' ergeben keinen semantischen Sinn mit 'setzen' im Reformkontext."
+              "explanation": "'setzt … voraus' (Lücken 14+15 zusammen) ergibt das Trennverb 'voraussetzen': 'Eine tiefergehende Reform setzt einen Wandel in den Bewertungskriterien voraus.' Das Präfix 'voraus' steht im Hauptsatz am Satzende. 'vorüber', 'voran' und 'vorbei' ergeben keinen semantischen Sinn als Verbpräfix mit 'setzen' im Reformkontext."
             },
             {
               "blankNumber": 16,
@@ -821,8 +821,8 @@
                 "überhaupt",
                 "letztendlich"
               ],
-              "correctAnswer": "gegenüber",
-              "explanation": "'das Vertrauen der Öffentlichkeit in die Wissenschaft gegenüber' ergänzt die Kollokation 'schaden + Dat.': 'schadet … der Öffentlichkeit gegenüber' – hier ist 'gegenüber' Nachstellung für das Dativobjekt. C1-Falle: 'insgesamt' und 'überhaupt' modifizieren den Satz adverbial, ändern aber nicht die Valenz von 'schaden'."
+              "correctAnswer": "insgesamt",
+              "explanation": "'insgesamt' ist das korrekte Adverb: 'schadet langfristig dem Ansehen der Wissenschaft insgesamt.' Das Adverb qualifiziert den Geltungsbereich des Schadens (das Ansehen der Wissenschaft im Ganzen, nicht nur in einem Teilbereich). C1-Falle: 'gegenüber' würde eine Nachstellung mit Dativobjekt fordern – aber 'schaden' hat sein Dativobjekt bereits ('dem Ansehen der Wissenschaft'), sodass ein nachgestelltes 'gegenüber' eine zweite Dativ-Rektion eröffnen würde, was grammatisch inkohärent ist. 'überhaupt' und 'letztendlich' würden den Satz stilistisch unnötig abschwächen bzw. in einen falschen temporalen Rahmen stellen."
             },
             {
               "blankNumber": 20,
@@ -1513,7 +1513,7 @@
           "questions": [
             {
               "id": "C1_m01_HV3_q1",
-              "type": "true_false",
+              "type": "mcq",
               "questionText": "Folie 1 / Lücke 1: Anteil reproduzierbarer Studien laut der 2015-Großstudie",
               "options": [
                 "36 Prozent",
@@ -1526,7 +1526,7 @@
             },
             {
               "id": "C1_m01_HV3_q2",
-              "type": "true_false",
+              "type": "mcq",
               "questionText": "Folie 1 / Lücke 2: Betroffene Disziplin mit dem meisten Aufsehen",
               "options": [
                 "Psychologie",
@@ -1539,7 +1539,7 @@
             },
             {
               "id": "C1_m01_HV3_q3",
-              "type": "true_false",
+              "type": "mcq",
               "questionText": "Folie 2 / Lücke 3: Fachbegriff für gezieltes Datenmining bis zur Signifikanz",
               "options": [
                 "p-Hacking",
@@ -1552,7 +1552,7 @@
             },
             {
               "id": "C1_m01_HV3_q4",
-              "type": "true_false",
+              "type": "mcq",
               "questionText": "Folie 2 / Lücke 4: Bezeichnung für unbewusste Selektion günstiger Daten",
               "options": [
                 "HARKing",
@@ -1565,7 +1565,7 @@
             },
             {
               "id": "C1_m01_HV3_q5",
-              "type": "true_false",
+              "type": "mcq",
               "questionText": "Folie 3 / Lücke 5: Was bei Open Data offen sein soll",
               "options": [
                 "Rohdaten der Studie",
@@ -1578,7 +1578,7 @@
             },
             {
               "id": "C1_m01_HV3_q6",
-              "type": "true_false",
+              "type": "mcq",
               "questionText": "Folie 3 / Lücke 6: Viertes Kernprinzip von Open Science",
               "options": [
                 "Open Peer Review",
@@ -1591,7 +1591,7 @@
             },
             {
               "id": "C1_m01_HV3_q7",
-              "type": "true_false",
+              "type": "mcq",
               "questionText": "Folie 4 / Lücke 7: Was vor der Datenerhebung öffentlich eingetragen wird",
               "options": [
                 "Hypothesen und Analysemethoden",
@@ -1604,7 +1604,7 @@
             },
             {
               "id": "C1_m01_HV3_q8",
-              "type": "true_false",
+              "type": "mcq",
               "questionText": "Folie 4 / Lücke 8: Wie Abweichungen vom Studienplan im Artikel zu behandeln sind",
               "options": [
                 "transparent zu berichten",
@@ -1617,7 +1617,7 @@
             },
             {
               "id": "C1_m01_HV3_q9",
-              "type": "true_false",
+              "type": "mcq",
               "questionText": "Folie 5 / Lücke 9: Wen das APC-Modell besonders hart trifft",
               "options": [
                 "Globalen Süden",
@@ -1630,7 +1630,7 @@
             },
             {
               "id": "C1_m01_HV3_q10",
-              "type": "true_false",
+              "type": "mcq",
               "questionText": "Folie 5 / Lücke 10: Haupthindernis für Open Data in Geistes-/Sozialwissenschaften",
               "options": [
                 "Datenschutz und Vertraulichkeit",
@@ -1663,7 +1663,7 @@
           ],
           "wordCountMin": 350,
           "wordCountMax": 450,
-          "sampleAnswer": "Aufgabe A — Musterlösung (Erörterung)\n\nDer Einzug von KI-Assistenten in die Klassenräume stellt das Bildungssystem vor eine Grundsatzfrage, die weit über pädagogische Technikskepsis hinausgeht: Welche kognitiven Leistungen soll die nächste Generation noch selbst erbringen – und welche darf sie delegieren?\n\nFür ein Verbot sprechen gewichtige Argumente. Wer Aufsätze, Rechenaufgaben oder Analysen routinemäßig von einem Sprachmodell erledigen lässt, entzieht sich jener produktiven Anstrengung, aus der nach aktuellem Forschungsstand nachhaltige Lerneffekte entstehen. Die sogenannte desirable difficulty – die wünschenswerte kognitive Erschwernis – gilt als unverzichtbar für die Gedächtniskonsolidierung. Hinzu kommt die Frage der Leistungsgerechtigkeit: Wenn Schülerinnen und Schüler je nach Elternhaus unterschiedlichen Zugang zu KI-Tools haben, vergrößert ein unkontrollierter Einsatz bestehende Bildungsungleichheiten, anstatt sie abzubauen.\n\nGleichwohl ist ein generelles Verbot keine überzeugende Antwort. Erstens wäre es kaum durchsetzbar: Wer zu Hause schreibt, kann seine KI-Nutzung nicht wirksam kontrollieren lassen. Zweitens ignoriert ein Verbot die Berufswirklichkeit der Lernenden: In nahezu jedem wissensintensiven Berufsfeld gehört der kompetente Einsatz von KI-Werkzeugen bereits heute zur Grundausstattung. Drittens verwechselt die Verbotsforderung das Werkzeug mit dem Lernziel. Eine Taschenrechner-Analogie zeigt, wie kurzsichtig das ist: Der Mathematikunterricht verbot den Taschenrechner zunächst, erkannte dann aber, dass das Ziel nicht handschriftliches Rechnen, sondern mathematisches Denken ist.\n\nIn Anbetracht dieser Abwägung überzeuge ich mich von folgendem Standpunkt: Ein pauschales Verbot ist weder sinnvoll noch realitätsnah. Was die Schule leisten sollte, ist die explizite Vermittlung von KI-Kompetenz – kritische Bewertung von KI-Ausgaben, Erkennen von Halluzinationen, Verständnis von Grenzen und Risiken. Gleichzeitig muss es Lernformate geben, in denen eigenständiges Denken uneingeschränkt gefordert wird, unabhängig von KI. Das eine schließt das andere nicht aus. Nicht das Verbot, sondern die pädagogisch reflektierte Integration ist der zukunftsfähige Weg.\n\n[ca. 370 Wörter — demonstriert alle 4 Leitpunkte, ≥3 FVG, Konjunktiv II, Passiv-Ersatzformen, Genitiv-Präpositionen, Konnektoren-Vielfalt]",
+          "sampleAnswer": "Aufgabe A — Musterlösung (Erörterung)\n\nDer Einzug von KI-Assistenten in die Klassenräume stellt das Bildungssystem vor eine Grundsatzfrage, die weit über pädagogische Technikskepsis hinausgeht: Welche kognitiven Leistungen soll die nächste Generation noch selbst erbringen – und welche darf sie delegieren?\n\nFür ein Verbot sprechen gewichtige Argumente. Wer Aufsätze, Rechenaufgaben oder Analysen routinemäßig von einem Sprachmodell erledigen lässt, entzieht sich jener produktiven Anstrengung, aus der nach aktuellem Forschungsstand nachhaltige Lerneffekte entstehen. Die sogenannte desirable difficulty – die wünschenswerte kognitive Erschwernis – gilt als unverzichtbar für die Gedächtniskonsolidierung. Hinzu kommt die Frage der Leistungsgerechtigkeit: Wenn Schülerinnen und Schüler je nach Elternhaus unterschiedlichen Zugang zu KI-Tools haben, vergrößert ein unkontrollierter Einsatz bestehende Bildungsungleichheiten, anstatt sie abzubauen.\n\nGleichwohl ist ein generelles Verbot keine überzeugende Antwort. Erstens wäre es kaum durchsetzbar: Wer zu Hause schreibt, kann seine KI-Nutzung nicht wirksam kontrollieren lassen. Zweitens ignoriert ein Verbot die Berufswirklichkeit der Lernenden: In nahezu jedem wissensintensiven Berufsfeld gehört der kompetente Einsatz von KI-Werkzeugen bereits heute zur Grundausstattung. Drittens verwechselt die Verbotsforderung das Werkzeug mit dem Lernziel. Eine Taschenrechner-Analogie zeigt, wie kurzsichtig das ist: Der Mathematikunterricht verbot den Taschenrechner zunächst, erkannte dann aber, dass das Ziel nicht handschriftliches Rechnen, sondern mathematisches Denken ist.\n\nIn Anbetracht dieser Abwägung vertrete ich folgenden Standpunkt: Ein pauschales Verbot ist weder sinnvoll noch realitätsnah. Was die Schule leisten sollte, ist die explizite Vermittlung von KI-Kompetenz – kritische Bewertung von KI-Ausgaben, Erkennen von Halluzinationen, Verständnis von Grenzen und Risiken. Gleichzeitig muss es Lernformate geben, in denen eigenständiges Denken uneingeschränkt gefordert wird, unabhängig von KI. Das eine schließt das andere nicht aus. Nicht das Verbot, sondern die pädagogisch reflektierte Integration ist der zukunftsfähige Weg.\n\n[ca. 370 Wörter — demonstriert alle 4 Leitpunkte, ≥3 FVG, Konjunktiv II, Passiv-Ersatzformen, Genitiv-Präpositionen, Konnektoren-Vielfalt]",
           "scoringCriteria": [
             {
               "criterion": "Aufgabengerechtheit",
