@@ -1188,12 +1188,28 @@
           "wordLimit": { "min": 320, "max": 420 },
           "sampleAnswer": "Deepfakes und die Demokratie: Warum Regulierung notwendig, aber komplex ist\n\nDie Frage, ob synthetisch erzeugte Medieninhalte eine existenzielle Bedrohung für demokratische Gesellschaften darstellen, berührt das Herzstück moderner Informationsgesellschaften. Ich teile die Einschätzung, dass staatliches Handeln erforderlich ist – allerdings mit Differenzierungen, die die Komplexität des Problems ernst nehmen.\n\nDas gewichtigste Argument für eine strenge Regulierung liegt im strukturellen Vertrauensproblem. Demokratische Entscheidungsprozesse setzen voraus, dass Bürgerinnen und Bürger zwischen verlässlichen und manipulierten Informationen unterscheiden können. Wo diese Fähigkeit systematisch unterhöhlt wird – etwa durch täuschend echte Videoaufnahmen von Politikern, die Aussagen machen, die sie nie gemacht haben –, ist die informationelle Grundlage demokratischer Teilhabe gefährdet. Dies ist kein theoretisches Risiko: In mehreren Ländern wurden bereits Deepfakes eingesetzt, um Wahlergebnisse zu beeinflussen.\n\nEin zweites Argument betrifft die Asymmetrie der Kräfte. Akteure, die Deepfakes produzieren und verbreiten, verfügen über erhebliche technische und finanzielle Ressourcen. Ohne rechtliche Haftungsregeln haben sie keinerlei Anreiz zur Zurückhaltung. Plattformbetreiber wiederum handeln bisher nach eigenem Ermessen – mit uneinheitlichen und häufig unzureichenden Ergebnissen. Verbindliche Kennzeichnungspflichten und Sanktionsrahmen würden dieses Ungleichgewicht korrigieren.\n\nFreilich darf Regulierung nicht in Zensur umschlagen. Es sei ausdrücklich eingeräumt, dass Satire, Parodie und künstlerische Auseinandersetzung mit dem Abbild öffentlicher Personen eine schützenswerte Ausdrucksform darstellen, die demokratisch legitimiert ist. Eine kluge Regulierung muss diese Grenze scharf ziehen: Täuschungsabsicht und nicht Darstellungsform ist das entscheidende Kriterium.\n\nInsgesamt überzeugen die Argumente für staatliches Handeln. Deepfakes berühren nicht die Peripherie, sondern das Zentrum demokratischer Selbstverständigung. Ohne belastbare Informationsgrundlage degeneriert politische Debatte zur Überzeugungsshow ohne Substanz. Klare Haftungsregeln, verpflichtende Kennzeichnung und plattformübergreifende Kooperation sind keine Bedrohung für die Meinungsfreiheit – sie sind ihre Voraussetzung.",
           "sampleAnswerNotes": "Musterantwort zeigt: klare Positionierung in Einleitung; zwei tragende Argumente (Vertrauensproblem, Kräfteasymmetrie); Gegenargument (Zensurgefahr) mit Differenzierung; Konjunktiv I in indirekter Rede ('sei eingeräumt', 'darstellen'); kohärenter Schluss; akademisches Register.",
-          "scoringCriteria": {
-            "contentAndArgument": "Klare These, mindestens 2 tragende Argumente, Gegenargumentbehandlung, begründeter Schluss",
-            "languageUse": "Lexikalische Vielfalt, grammatische Korrektheit, C1-Strukturen (Konjunktiv, Passiv, Nominalisierungen)",
-            "coherenceAndCohesion": "Logischer Aufbau, Kohäsionsmittel, Absatzstruktur",
-            "register": "Akademisch-argumentativer Stil, kein umgangssprachliches Register"
-          }
+          "scoringCriteria": [
+            {
+              "criterion": "Inhalt und Argumentation",
+              "maxPoints": 12,
+              "description": "Klare These, mindestens 2 tragende Argumente, Gegenargumentbehandlung, begründeter Schluss. Alle Leitpunkte vollständig behandelt."
+            },
+            {
+              "criterion": "Sprachliche Mittel",
+              "maxPoints": 12,
+              "description": "Lexikalische Vielfalt, grammatische Korrektheit, C1-Strukturen (Konjunktiv I/II, Passiv, Nominalisierungen, Funktionsverbgefüge)."
+            },
+            {
+              "criterion": "Kohärenz und Kohäsion",
+              "maxPoints": 8,
+              "description": "Logischer Aufbau, Kohäsionsmittel (Konnektoren, anaphorische Referenz), klare Absatzstruktur."
+            },
+            {
+              "criterion": "Register",
+              "maxPoints": 8,
+              "description": "Akademisch-argumentativer Stil, angemessenes Register, kein umgangssprachliches oder informelles Schreiben."
+            }
+          ]
         }
       ]
     },
