@@ -1,0 +1,79 @@
+<speak>
+  <prosody rate="medium" pitch="medium">
+
+    <!-- PART 2 INTRO -->
+    <s>Sie hören ein Interview mit Dr. Petra Hoffmann zum Thema KI in der medizinischen Diagnostik.</s>
+    <s>Sie hören das Interview nur einmal.</s>
+    <break time="2s"/>
+
+    <!-- Interview begins -->
+    <voice name="de-DE-Wavenet-A">
+      <s>Willkommen, Dr. Hoffmann.</s>
+      <s>Sie forschen seit Jahren zu KI in der klinischen Diagnostik.</s>
+      <s>Meine erste Frage: Hype oder echter Fortschritt?</s>
+    </voice>
+    <break time="500ms"/>
+
+    <voice name="de-DE-Wavenet-F">
+      <s>Beides, je nach Anwendungsfeld.</s>
+      <s>Im Bereich der Bildgebung — Radiologie, Pathologie — ist der Fortschritt real und belegt.</s>
+      <s>Algorithmen, die auf Millionen annotierter Scans trainiert wurden, erkennen bestimmte Pathologien mit einer Sensitivität, die in kontrollierten Studien mit erfahrenen Spezialisten mithalten kann.</s>
+      <s>Das ist kein Hype.</s>
+    </voice>
+    <break time="1s"/>
+
+    <voice name="de-DE-Wavenet-A">
+      <s>Aber in der Praxis wird das noch kaum eingesetzt?</s>
+    </voice>
+    <break time="500ms"/>
+
+    <voice name="de-DE-Wavenet-F">
+      <s>Richtig.</s>
+      <s>Die Lücke zwischen Studienergebnis und klinischer Implementierung ist riesig.</s>
+      <s>Das liegt an mehreren Faktoren: fehlende Zertifizierungspfade, keine klare Haftungsregelung, ungelöste Interoperabilitätsprobleme zwischen den Softwaresystemen in Krankenhäusern.</s>
+      <s>Und dann ist da noch die Frage des Vertrauens — Ärzte müssen ein System verstehen können, bevor sie ihre Diagnose darauf stützen.</s>
+    </voice>
+    <break time="1s"/>
+
+    <voice name="de-DE-Wavenet-A">
+      <s>Wie löst man das Problem der Explainability — der Erklärbarkeit von KI-Entscheidungen?</s>
+    </voice>
+    <break time="500ms"/>
+
+    <voice name="de-DE-Wavenet-F">
+      <s>Das ist eine der großen offenen Fragen.</s>
+      <s>Viele leistungsfähige Modelle sind Black Boxes — sie geben eine Wahrscheinlichkeit aus, ohne zu erklären, welche Bildmerkmale zur Entscheidung geführt haben.</s>
+      <s>Das ist für klinische Praxis nicht akzeptabel.</s>
+      <s>Hier investiert die Forschung stark in sogenannte Explainable-AI-Methoden — Visualisierungen, die zeigen, welche Regionen eines Scans die Entscheidung getrieben haben.</s>
+    </voice>
+    <break time="1s"/>
+
+    <voice name="de-DE-Wavenet-A">
+      <s>Welche Rolle spielt der EU AI Act?</s>
+    </voice>
+    <break time="500ms"/>
+
+    <voice name="de-DE-Wavenet-F">
+      <s>Der AI Act klassifiziert medizinische KI-Systeme korrekt als Hochrisikoanwendungen.</s>
+      <s>Das bedeutet: Konformitätsbewertung, Transparenzanforderungen, menschliche Aufsicht.</s>
+      <s>Ich halte das für richtig, auch wenn es Entwicklungszyklen verlangsamt.</s>
+      <s>Wir brauchen Regulierung, die Patienten schützt, ohne Innovation pauschal zu blockieren.</s>
+    </voice>
+    <break time="1s"/>
+
+    <voice name="de-DE-Wavenet-A">
+      <s>Was ist Ihre Prognose — wann wird KI-Diagnostik flächendeckend Standard sein?</s>
+    </voice>
+    <break time="500ms"/>
+
+    <voice name="de-DE-Wavenet-F">
+      <s>Nicht in fünf Jahren.</s>
+      <s>Die technischen Probleme sind lösbar — die institutionellen und rechtlichen Fragen dauern länger.</s>
+      <s>Meine realistische Einschätzung: In zehn bis fünfzehn Jahren wird KI-Unterstützung in der Radiologie und Pathologie Standard sein.</s>
+      <s>In anderen Fachgebieten länger.</s>
+      <s>Und in der Primärversorgung — beim Hausarzt — noch erheblich länger.</s>
+    </voice>
+    <break time="3s"/>
+
+  </prosody>
+</speak>

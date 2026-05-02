@@ -43,7 +43,7 @@ function generateEntries(level: Level, count: number): MockExamEntry[] {
       'Politik und Demokratie',
       'Recht und Verfassung',
       'Kultur und Kunst',
-      'Gesundheit und Bioethik',
+      'Gesundheit und Medizin',
       'Philosophie und Ethik',
       'Klima und Nachhaltigkeit',
     ],
