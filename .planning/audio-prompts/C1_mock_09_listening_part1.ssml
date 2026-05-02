@@ -1,0 +1,166 @@
+<speak>
+  <!-- C1 Mock 09 — Teil 1 (8 Kurzaussagen / Speaker-to-Summary matching, playCount=1) -->
+  <!-- Theme: Identitätspolitik, Menschenwürde, epistemische Ungerechtigkeit, strukturelle Verantwortung -->
+  <!-- Announcer: de-DE-Wavenet-C (female, neutral) -->
+  <!-- 8 speakers — 8 UNIQUE voices (4 female / 4 male) per CR-9 spec -->
+  <!-- Female: Wavenet-F (Sp1 Habermann), Wavenet-A (Sp3 Osei), Wavenet-E (Sp5 Nakamura), Neural2-F (Sp7 Diallo) -->
+  <!-- Male:   Wavenet-B (Sp2 Wegener), Wavenet-D (Sp4 Krüger), Neural2-B (Sp6 Baumann), Neural2-D (Sp8 Steiner) -->
+  <!-- C1 spec: natural speed 1.0x, played ONCE, no pedagogical slowing -->
+  <!-- 10-second initial pause for candidates to read summary statements a-j -->
+  <!-- 5-second pauses between speakers -->
+
+  <break time="3s"/>
+
+  <voice name="de-DE-Wavenet-C">
+    <prosody rate="1.0">
+      Hörverstehen, Teil 1. Sie hören acht kurze Stellungnahmen verschiedener Personen
+      zum Thema Identitätspolitik und Ethik.
+      Lesen Sie zuerst die zehn Zusammenfassungen in Ihrem Testheft.
+      Welche Zusammenfassung passt zu welchem Sprecher?
+      Zwei Zusammenfassungen passen nicht.
+      Sie hören die Texte nur einmal.
+    </prosody>
+    <break time="10s"/>
+  </voice>
+
+  <!-- Sprecher 1: Frau Prof. Dr. Habermann, Ethikerin aus Frankfurt — Antwort: a -->
+  <!-- Voice: de-DE-Wavenet-F (female, unique) -->
+  <voice name="de-DE-Wavenet-C">
+    <prosody rate="1.0">Sprecher 1: Frau Professorin Dr. Habermann, Ethikerin aus Frankfurt.</prosody>
+    <break time="1s"/>
+  </voice>
+  <voice name="de-DE-Wavenet-F">
+    <prosody rate="1.0">
+      Menschenwürde ist kein abstraktes Prinzip, das durch bloße formale Gleichstellung eingelöst wird.
+      Solange strukturelle Benachteiligung fortbesteht, bleibt die Würde strukturell verletzt —
+      und kein Verfassungsartikel ändert daran etwas, wenn er nicht in aktiver Gleichstellungspolitik mündet.
+      Wer Würde ernst nimmt, muss bereit sein, die Bedingungen zu benennen und zu verändern,
+      unter denen sie verletzt wird. Das ist keine Zusatzleistung — das ist der Kern.
+    </prosody>
+  </voice>
+  <break time="5s"/>
+
+  <!-- Sprecher 2: Herr Dr. Wegener, Politikwissenschaftler aus Köln — Antwort: b -->
+  <!-- Voice: de-DE-Wavenet-B (male, unique) -->
+  <voice name="de-DE-Wavenet-C">
+    <prosody rate="1.0">Sprecher 2: Herr Dr. Wegener, Politikwissenschaftler aus Köln.</prosody>
+    <break time="1s"/>
+  </voice>
+  <voice name="de-DE-Wavenet-B">
+    <prosody rate="1.0">
+      Wenn wir Menschen primär als Vertreter von Gruppen adressieren, schwächen wir das Band,
+      das demokratische Gesellschaften zusammenhält — nämlich die geteilte Bürgerschaft.
+      Identitätspolitik in dieser Form trägt das Potenzial in sich, die Solidarität zu unterhöhlen,
+      auf die eine liberale Demokratie angewiesen ist. Das sage ich ohne Abneigung gegen
+      die legitimen Anliegen marginalisierter Gruppen — aber die Methode hat ihren Preis.
+    </prosody>
+  </voice>
+  <break time="5s"/>
+
+  <!-- Sprecher 3: Frau Dr. Osei, Philosophin aus Accra — Antwort: c -->
+  <!-- Voice: de-DE-Wavenet-A (female, unique) -->
+  <voice name="de-DE-Wavenet-C">
+    <prosody rate="1.0">Sprecher 3: Frau Dr. Osei, Philosophin aus Accra.</prosody>
+    <break time="1s"/>
+  </voice>
+  <voice name="de-DE-Wavenet-A">
+    <prosody rate="1.0">
+      Es reicht nicht, materielle Ungleichheit zu benennen. Wer für seine eigene Erfahrung
+      keine anerkannten Begriffe findet, ist auch in seiner Fähigkeit eingeschränkt,
+      Unrecht überhaupt zu kommunizieren. Das ist eine kognitive Ungerechtigkeit,
+      die neben die materielle tritt — und die oft kaum sichtbar ist, obwohl sie tief wirkt.
+      Miranda Fricker hat das mit dem Begriff der hermeneutischen Ungerechtigkeit präzise gefasst.
+    </prosody>
+  </voice>
+  <break time="5s"/>
+
+  <!-- Sprecher 4: Herr Prof. Krüger, Rechtsphilosoph aus Wien — Antwort: d -->
+  <!-- Voice: de-DE-Wavenet-D (male, unique) -->
+  <voice name="de-DE-Wavenet-C">
+    <prosody rate="1.0">Sprecher 4: Herr Professor Krüger, Rechtsphilosoph aus Wien.</prosody>
+    <break time="1s"/>
+  </voice>
+  <voice name="de-DE-Wavenet-D">
+    <prosody rate="1.0">
+      Iris Marion Young hat gezeigt: Strukturelle Ungerechtigkeit entsteht oft ohne böse Absicht.
+      Niemand will marginalisieren — und trotzdem entsteht Marginalisierung. Das bedeutet,
+      dass Verantwortung zur Strukturveränderung besteht, auch wo keine individuelle Schuld
+      nachweisbar ist. Wer in ungerechten Strukturen handelt und davon profitiert, trägt
+      eine politische Handlungspflicht — das ist keine Moralkeule, sondern logische Konsequenz.
+    </prosody>
+  </voice>
+  <break time="5s"/>
+
+  <!-- Sprecher 5: Frau Nakamura, Kulturtheoretikerin aus Tokio — Antwort: e -->
+  <!-- Voice: de-DE-Wavenet-E (female, unique) -->
+  <voice name="de-DE-Wavenet-C">
+    <prosody rate="1.0">Sprecher 5: Frau Nakamura, Kulturtheoretikerin aus Tokio.</prosody>
+    <break time="1s"/>
+  </voice>
+  <voice name="de-DE-Wavenet-E">
+    <prosody rate="1.0">
+      Ich sage nicht, dass der Künstler böse Absichten hat. Aber ich sage: Es spielt keine Rolle.
+      Wenn die Übernahme eines Symbols in einem gesellschaftlichen Kontext stattfindet,
+      der von Machtverhältnissen geprägt ist, verursacht sie eine Verletzung —
+      unabhängig davon, was die aneignende Person dabei dachte.
+      Die Frage der Intention löst das Problem der strukturellen Wirkung nicht.
+    </prosody>
+  </voice>
+  <break time="5s"/>
+
+  <!-- Sprecher 6: Herr Baumann, Pädagoge aus Berlin — Antwort: f -->
+  <!-- Voice: de-DE-Neural2-B (male, unique — distinct from Wavenet-B used for Sp2) -->
+  <voice name="de-DE-Wavenet-C">
+    <prosody rate="1.0">Sprecher 6: Herr Baumann, Pädagoge aus Berlin.</prosody>
+    <break time="1s"/>
+  </voice>
+  <voice name="de-DE-Neural2-B">
+    <prosody rate="1.0">
+      Trigger-Warnungen sind nicht Zeichen von Schwäche oder Überempfindlichkeit.
+      Sie sind ein Instrument der Inklusion: Wer traumatische Erfahrungen gemacht hat,
+      braucht die Möglichkeit, sich vorzubereiten, bevor er mit verletzenden Inhalten konfrontiert wird.
+      Das ist pädagogische Verantwortung. Eine Bildungsinstitution, die das verweigert,
+      schließt bestimmte Studierende faktisch aus — auch wenn keine Vorschrift verletzt wird.
+    </prosody>
+  </voice>
+  <break time="5s"/>
+
+  <!-- Sprecher 7: Frau Diallo, Soziologin aus Dakar — Antwort: g -->
+  <!-- Voice: de-DE-Neural2-F (female, unique — distinct from Wavenet-F used for Sp1) -->
+  <voice name="de-DE-Wavenet-C">
+    <prosody rate="1.0">Sprecher 7: Frau Diallo, Soziologin aus Dakar.</prosody>
+    <break time="1s"/>
+  </voice>
+  <voice name="de-DE-Neural2-F">
+    <prosody rate="1.0">
+      Wir reden über Sprache, über Repräsentation, über Symbole — und das ist nicht falsch.
+      Aber wir reden zu wenig über Mieten, über Löhne, über Bildungszugang.
+      Symbolische Anerkennung ohne materielle Veränderung lässt die Leute dort, wo sie sind —
+      nur mit einem schöneren Etikett. Ich sage das nicht, um Anerkennung kleinzureden.
+      Ich sage es, weil ich von denen spreche, für die das Leben nicht symbolisch ist.
+    </prosody>
+  </voice>
+  <break time="5s"/>
+
+  <!-- Sprecher 8: Herr Prof. Steiner, Sozialphilosoph aus Zürich — Antwort: j -->
+  <!-- Voice: de-DE-Neural2-D (male, unique — distinct from Wavenet-D used for Sp4) -->
+  <voice name="de-DE-Wavenet-C">
+    <prosody rate="1.0">Sprecher 8: Herr Professor Steiner, Sozialphilosoph aus Zürich.</prosody>
+    <break time="1s"/>
+  </voice>
+  <voice name="de-DE-Neural2-D">
+    <prosody rate="1.0">
+      Identitätspolitik muss kein Gegensatz zur universellen Ethik sein.
+      Wenn wir die Debatte richtig führen, kann sie helfen, universelle Prinzipien —
+      Würde, Gerechtigkeit, Anerkennung — konkreter und robuster zu verankern,
+      statt sie gegen Partikularinteressen auszuspielen.
+      Das ist nicht naiv — das ist die Aufgabe, auf die politische Philosophie
+      eine Antwort finden muss. Ob der Wille dazu vorhanden ist, bleibt offen.
+    </prosody>
+  </voice>
+  <break time="3s"/>
+
+  <voice name="de-DE-Wavenet-C">
+    <prosody rate="1.0">Das ist das Ende von Teil 1.</prosody>
+  </voice>
+</speak>

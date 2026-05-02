@@ -1,0 +1,230 @@
+<speak>
+  <!-- C1 Mock 09 — Teil 2 (10 MCQ-3opt, Radiointerview, playCount=1) -->
+  <!-- Moderator: de-DE-Wavenet-E (male) — radio interviewer -->
+  <!-- Expert: de-DE-Wavenet-A (female) — Prof. Dr. Elke Steinmann, Politische Philosophin -->
+  <!-- Announcer: de-DE-Wavenet-C (female, neutral) -->
+  <!-- C1 spec: natural speed 1.0x, continuous interview register, played ONCE -->
+  <!-- Hedging, qualification, self-correction markers throughout -->
+  <!-- 10-second initial pause for candidates to read questions -->
+
+  <break time="3s"/>
+
+  <voice name="de-DE-Wavenet-C">
+    <prosody rate="1.0">
+      Hörverstehen, Teil 2. Sie hören ein Interview mit Prof. Dr. Elke Steinmann
+      zum Thema Identitätspolitik und Ethik.
+      Lesen Sie zuerst die zehn Aufgaben in Ihrem Testheft.
+      Hören Sie dann das Interview. Was ist richtig?
+      Sie hören das Interview nur einmal.
+    </prosody>
+    <break time="10s"/>
+  </voice>
+
+  <voice name="de-DE-Wavenet-E">
+    <prosody rate="1.0">
+      Guten Abend, liebe Hörerinnen und Hörer. Heute sprechen wir über ein Thema,
+      das in der Philosophie und im politischen Diskurs zunehmend an Schärfe gewinnt:
+      Identitätspolitik und ihre ethischen Grundlagen. Meine Gästin ist Prof. Dr. Elke Steinmann,
+      Professorin für politische Philosophie. Willkommen, Frau Steinmann.
+    </prosody>
+  </voice>
+  <voice name="de-DE-Wavenet-A">
+    <prosody rate="1.0">
+      Vielen Dank — ich freue mich über die Einladung. Das ist ein Thema,
+      das mir sowohl philosophisch als auch politisch sehr wichtig ist.
+    </prosody>
+  </voice>
+  <break time="1s"/>
+
+  <!-- Frage 1 -->
+  <voice name="de-DE-Wavenet-E">
+    <prosody rate="1.0">
+      Was ist für Sie das grundlegende Missverständnis in der aktuellen Identitätsdebatte?
+    </prosody>
+  </voice>
+  <voice name="de-DE-Wavenet-A">
+    <prosody rate="1.0">
+      Das grundlegende Missverständnis ist, dass Identitätspolitik und universalistische Ethik
+      einander ausschließen. Das tun sie nicht — zumindest nicht notwendigerweise.
+      Identitätspolitik auf ihrer emanzipatorischen Seite kämpft für die Verwirklichung
+      universeller Prinzipien — Würde, Gleichheit, Teilhabe — für jene, denen diese
+      Verwirklichung strukturell verweigert wird. Das ist keine Absage an den Universalismus,
+      sondern seine Radikalisierung.
+    </prosody>
+  </voice>
+  <break time="1s"/>
+
+  <!-- Frage 2 -->
+  <voice name="de-DE-Wavenet-E">
+    <prosody rate="1.0">
+      Trotzdem gibt es ernsthafte Kritik: Identitätspolitik teile die Gesellschaft
+      und untergrabe den Zusammenhalt. Wie antworten Sie darauf?
+    </prosody>
+  </voice>
+  <voice name="de-DE-Wavenet-A">
+    <prosody rate="1.0">
+      Diese Kritik hat einen realen Kern. Es gibt Spielarten von Identitätspolitik,
+      die tatsächlich zu einer Schließung von Gruppen führen — die primär Abgrenzung
+      statt Dialog betonen. Ich nenne das essenzialisierte Identitätspolitik:
+      Sie behandelt Gruppen als homogen und unveränderlich
+      und bindet Glaubwürdigkeit an Herkunftsmerkmale.
+      Das ist philosophisch problematisch und politisch kontraproduktiv.
+    </prosody>
+  </voice>
+  <break time="1s"/>
+
+  <!-- Frage 3 -->
+  <voice name="de-DE-Wavenet-E">
+    <prosody rate="1.0">
+      Wie unterscheiden Sie das von einer produktiven Form?
+    </prosody>
+  </voice>
+  <voice name="de-DE-Wavenet-A">
+    <prosody rate="1.0">
+      Eine produktive Identitätspolitik benennt strukturelle Benachteiligung,
+      ohne die Betroffenen auf diese Benachteiligung zu reduzieren.
+      Sie kämpft für Bedingungen, unter denen Individuen die Freiheit haben,
+      ihre Identität selbst zu gestalten —
+      nicht für die Festschreibung kollektiver Identitäten.
+    </prosody>
+  </voice>
+  <break time="1s"/>
+
+  <!-- Frage 4 -->
+  <voice name="de-DE-Wavenet-E">
+    <prosody rate="1.0">
+      Was hat das mit Menschenwürde zu tun?
+    </prosody>
+  </voice>
+  <voice name="de-DE-Wavenet-A">
+    <prosody rate="1.0">
+      Alles. Würde ist kein abstraktes Konzept — sie ist ein gelebtes Verhältnis.
+      Wer strukturell aus Anerkennung ausgeschlossen ist, erleidet eine Würdeverletzung,
+      auch wenn kein Gesetz formell verletzt wurde.
+      Das ist der Punkt, den viele in der Debatte nicht hören wollen:
+      Legale Strukturen können würdeverletzend sein.
+    </prosody>
+  </voice>
+  <break time="1s"/>
+
+  <!-- Frage 5 -->
+  <voice name="de-DE-Wavenet-E">
+    <prosody rate="1.0">
+      Was bedeutet das für die Verantwortungsethik?
+    </prosody>
+  </voice>
+  <voice name="de-DE-Wavenet-A">
+    <prosody rate="1.0">
+      Es bedeutet, dass Verantwortung nicht bei der Frage endet,
+      ob ich jemanden absichtlich diskriminiert habe.
+      Wenn ich von einer Struktur profitiere, die andere benachteiligt,
+      trage ich eine Verantwortung, auf ihre Veränderung hinzuwirken.
+      Das ist unbequem — aber es ist die logische Konsequenz
+      eines ernst genommenen Würdebegriffs.
+    </prosody>
+  </voice>
+  <break time="1s"/>
+
+  <!-- Frage 6 -->
+  <voice name="de-DE-Wavenet-E">
+    <prosody rate="1.0">
+      Wie stehen Sie zur Kritik, dass Identitätspolitik materiellen Forderungen schadet?
+    </prosody>
+  </voice>
+  <voice name="de-DE-Wavenet-A">
+    <prosody rate="1.0">
+      Diese Kritik ist zum Teil berechtigt — wenn symbolische Anerkennung tatsächlich
+      als Ersatz für materielle Gerechtigkeit präsentiert wird.
+      Aber das ist keine notwendige Konsequenz von Identitätspolitik,
+      sondern eine mögliche Fehldeutung. Nancy Fraser hat das überzeugend analysiert:
+      Anerkennung und Umverteilung sind keine Alternativen,
+      sondern komplementäre Dimensionen von Gerechtigkeit.
+    </prosody>
+  </voice>
+  <break time="1s"/>
+
+  <!-- Frage 7 -->
+  <voice name="de-DE-Wavenet-E">
+    <prosody rate="1.0">
+      Welche Rolle spielt die Sprache in dieser Debatte?
+    </prosody>
+  </voice>
+  <voice name="de-DE-Wavenet-A">
+    <prosody rate="1.0">
+      Eine zentrale. Wer keine Sprache für seine Erfahrung hat,
+      kann diese Erfahrung nicht artikulieren — weder privat noch öffentlich.
+      Miranda Frickers Begriff der hermeneutischen Ungerechtigkeit beschreibt genau das.
+      Sprachpolitik ist deshalb keine Spielerei,
+      sondern ein echter Gerechtigkeitskampf.
+    </prosody>
+  </voice>
+  <break time="1s"/>
+
+  <!-- Frage 8 -->
+  <voice name="de-DE-Wavenet-E">
+    <prosody rate="1.0">
+      Haben Sie ein konkretes Beispiel für hermeneutische Ungerechtigkeit?
+    </prosody>
+  </voice>
+  <voice name="de-DE-Wavenet-A">
+    <prosody rate="1.0">
+      Ja. Bevor der Begriff 'sexuelle Belästigung' geprägt wurde,
+      hatten viele Frauen keine gesellschaftlich anerkannte Sprache
+      für das, was ihnen passiert war. Sie erlebten die Erfahrung,
+      aber sie konnten sie nicht in eine Form bringen, die Gehör fand.
+      Der Begriff hat nicht das Problem erzeugt — er hat es sichtbar gemacht.
+    </prosody>
+  </voice>
+  <break time="1s"/>
+
+  <!-- Frage 9 -->
+  <voice name="de-DE-Wavenet-E">
+    <prosody rate="1.0">
+      Was wäre Ihr wichtigstes Desiderat für die philosophische Debatte?
+    </prosody>
+  </voice>
+  <voice name="de-DE-Wavenet-A">
+    <prosody rate="1.0">
+      Dass wir aufhören, Universalismus und Partikularismus
+      als feindliche Gegensätze zu behandeln. Die produktivste Frage ist nicht:
+      'Universalismus oder Identitätspolitik?' sondern:
+      'Welche universellen Prinzipien werden durch welche partikularen Strukturen verletzt —
+      und wie verändern wir diese Strukturen?'
+      Das ist die Frage, die zählt.
+    </prosody>
+  </voice>
+  <break time="1s"/>
+
+  <!-- Frage 10 -->
+  <voice name="de-DE-Wavenet-E">
+    <prosody rate="1.0">
+      Warum halten Sie die Kritik an Identitätspolitik nur für 'zum Teil berechtigt'?
+    </prosody>
+  </voice>
+  <voice name="de-DE-Wavenet-A">
+    <prosody rate="1.0">
+      Weil das Gegeneinanderausspielen von Anerkennung und Umverteilung
+      eine mögliche Fehldeutung ist, keine notwendige Konsequenz.
+      Wer Identitätspolitik pauschal ablehnt, riskiert, strukturelle Benachteiligung
+      unsichtbar zu lassen — und das ist politisch und philosophisch inakzeptabel.
+    </prosody>
+  </voice>
+  <break time="1s"/>
+
+  <voice name="de-DE-Wavenet-E">
+    <prosody rate="1.0">
+      Prof. Steinmann, herzlichen Dank für dieses Gespräch.
+    </prosody>
+  </voice>
+  <voice name="de-DE-Wavenet-A">
+    <prosody rate="1.0">
+      Ich danke Ihnen — und hoffe, dass die Debatte
+      mit der philosophischen Seriosität weitergeführt wird, die sie verdient.
+    </prosody>
+  </voice>
+  <break time="3s"/>
+
+  <voice name="de-DE-Wavenet-C">
+    <prosody rate="1.0">Das ist das Ende von Teil 2.</prosody>
+  </voice>
+</speak>

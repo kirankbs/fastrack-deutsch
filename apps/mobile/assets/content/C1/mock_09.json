@@ -1,13 +1,1742 @@
 {
   "id": "C1_mock_09",
   "level": "C1",
-  "title": "Übungstest 9",
-  "version": 0,
-  "_stub": true,
+  "title": "C1 Übungstest 9: Philosophie und Ethik",
+  "version": 1,
   "sections": {
-    "listening": { "totalTimeMinutes": 20, "parts": [] },
-    "reading": { "totalTimeMinutes": 25, "parts": [] },
-    "writing": { "totalTimeMinutes": 20, "tasks": [] },
-    "speaking": { "totalTimeMinutes": 15, "prepTimeMinutes": 0, "parts": [] }
+    "reading": {
+      "totalTimeMinutes": 90,
+      "parts": [
+        {
+          "partNumber": 1,
+          "instructions": "Lesen Sie den folgenden Text. Sechs Sätze wurden herausgenommen. Wählen Sie aus den acht angebotenen Sätzen (a–h) den jeweils passenden. Zwei Sätze passen nicht. Schreiben Sie den Buchstaben des richtigen Satzes in die entsprechende Lücke.",
+          "instructionsTranslation": "Read the following text. Six sentences have been removed. Choose the appropriate sentence from the eight offered (a–h) for each gap. Two sentences do not fit. Write the letter of the correct sentence in the corresponding gap.",
+          "texts": [
+            {
+              "id": "C1_m09_R1_main",
+              "type": "article",
+              "content": "Identität, Aneignung, Würde: Grundbegriffe einer überfälligen Debatte\n\nKaum ein Diskursfeld hat in den letzten Jahren so viel Aufmerksamkeit erhalten und dabei so wenig Begriffsschärfe gewonnen wie die Auseinandersetzung um Identitätspolitik. [1] Wer heute 'Identitätspolitik' sagt, meint oft sehr Unterschiedliches: die Forderung nach rechtlicher Gleichstellung, die Artikulation marginalisierter Erfahrungen im öffentlichen Raum oder den Versuch, gesellschaftliche Deutungshoheit über symbolische Zugehörigkeit zu erlangen. Die Unschärfe des Begriffs ist kein Zufall — sie spiegelt eine genuine philosophische Spannung wider, die zwischen der liberalen Tradition individueller Rechte und dem kommunitaristischen Insistieren auf gruppenspezifischen Ansprüchen verläuft.\n\nEin Kernbegriff in diesem Zusammenhang ist die Menschenwürde. Als deontologischer Grundsatz — also als unbedingte, nicht verhandelbare Norm — bildet sie das Fundament moderner Verfassungsordnungen. [2] Das Problem liegt in der Konkretisierung: Was Menschenwürde in konkreten Konfliktsituationen verlangt, ist selten eindeutig. Verlangt sie die Gleichbehandlung aller, ungeachtet von Gruppenmerkmalen? Oder verlangt sie gerade eine Differenzierung, die strukturell Benachteiligte stärkt? Diese Spannung zwischen formaler und substanzieller Gleichheit ist das philosophische Herzstück der gegenwärtigen Gerechtigkeitsdebatte.\n\nDas Konzept der kulturellen Aneignung illustriert diese Spannung anhand konkreter Praxis. [3] Liberale Kunsttheoretikerinnen beharren auf dem Recht, Symbole und Ausdrucksformen jeder Kultur zu verwenden — Kreativität kenne keine Herkunftsgrenzen. Postkoloniale Kritiker entgegnen, dass diese Position die Machtverhältnisse ignoriere, unter denen Aneignung tatsächlich stattfindet: Wenn eine dominante Kultur Elemente einer marginalisierten übernimmt, ohne deren Träger an Deutung und Profit zu beteiligen, reproduziert sie strukturelle Ungleichheit — unabhängig von der Intention.\n\nEine besondere Rolle spielt in diesem Zusammenhang die Verantwortungsethik. [4] Verantwortungsethische Überlegungen fragen nicht allein, welche Handlungen prinzipiell richtig sind, sondern welche Folgen sie unter realen Bedingungen zeitigen. Für die Aneignungsdebatte bedeutet das: Auch wenn eine künstlerische Handlung in der Absicht des Akteurs neutral oder affirmativ gemeint ist, kann sie in einem gesellschaftlichen Kontext, der von Machtasymmetrien geprägt ist, eine verletzende Wirkung entfalten. Die Frage der Zurechnung — wer trägt Verantwortung für strukturelle Wirkungen, die niemand beabsichtigt hat? — ist philosophisch ungeklärt.\n\nDer Begriff der Marginalisierung bezeichnet den Prozess, durch den Individuen oder Gruppen systematisch aus wirtschaftlicher, politischer oder kultureller Teilhabe ausgeschlossen werden. [5] Dieser Ausschluss wirkt selten durch explizite Diskriminierung — häufiger durch die Akkumulation kleiner, für sich genommen unverdächtiger Strukturen, die zusammen ein Muster ergeben. Die philosophische Herausforderung besteht darin, diese Muster sichtbar zu machen, ohne dabei in einen Determinismus zu verfallen, der individuelle Handlungsmacht negiert.\n\nWas bleibt als Orientierung? [6] Einigkeit besteht allenfalls in der Diagnose: Die Debatte um Identität, Aneignung und Marginalisierung kann nicht durch Rückzug auf abstrakte Universalprinzipien gelöst werden. Sie verlangt eine philosophische Praxis, die sowohl die Würde des Individuums als auch die strukturellen Bedingungen ernst nimmt, unter denen diese Würde realisiert — oder verletzt — wird. Das ist unbequem. Aber genau diese Unbequemlichkeit ist das Zeichen, dass das Denken in der Sache angekommen ist.",
+              "source": "Aus: Deutsche Zeitschrift für Philosophie, Jg. 74, Heft 2, 2026"
+            },
+            {
+              "id": "C1_m09_R1_sent_a",
+              "type": "notice",
+              "content": "a) Denn hinter dem Universalitätsanspruch verbirgt sich häufig die Perspektive jener, die nie in der Position waren, ihre eigene Partikularität explizit machen zu müssen."
+            },
+            {
+              "id": "C1_m09_R1_sent_b",
+              "type": "notice",
+              "content": "b) Diese Verschleierung des Partikularen als Allgemeines ist aus philosophischer Sicht eine der folgenreichsten epistemischen Verzerrungen des modernen Diskurses."
+            },
+            {
+              "id": "C1_m09_R1_sent_c",
+              "type": "notice",
+              "content": "c) Im Grundgesetz ist sie in Artikel 1 vorbehaltlos geschützt — sie gilt als unantastbar, weil sie keiner inhaltlichen Begründung bedarf, sondern als vorpolitische Voraussetzung allen Rechts gilt."
+            },
+            {
+              "id": "C1_m09_R1_sent_d",
+              "type": "notice",
+              "content": "d) Deshalb fordern einige Philosophinnen eine Rückkehr zu rein prozeduralen Gerechtigkeitsprinzipien, die ohne substanzielle Gehalte auskommen — was freilich eigene Aporien aufwirft."
+            },
+            {
+              "id": "C1_m09_R1_sent_e",
+              "type": "notice",
+              "content": "e) Der Begriff selbst ist dabei umstritten: Manchen gilt er als notwendige Präzisierung sozialer Realität, anderen als Zeichen eines Identitätsdenkens, das Individuen auf Gruppenmerkmale reduziert."
+            },
+            {
+              "id": "C1_m09_R1_sent_f",
+              "type": "notice",
+              "content": "f) Die Kritik richtet sich dabei nicht gegen kulturellen Austausch als solchen, sondern gegen die Asymmetrie der Bedingungen, unter denen er stattfindet."
+            },
+            {
+              "id": "C1_m09_R1_sent_g",
+              "type": "notice",
+              "content": "g) Sie ergänzt deontologische Ethiken, indem sie auf die Konsequenzen von Handlungen in komplexen sozialen Kontexten verweist, ohne dabei in reinen Konsequentialismus zu verfallen."
+            },
+            {
+              "id": "C1_m09_R1_sent_h",
+              "type": "notice",
+              "content": "h) Ob Gerechtigkeitstheorien, die auf Anerkennung und Umverteilung zugleich setzen, diese Herausforderung meistern können, ist in der politischen Philosophie weiterhin strittig."
+            }
+          ],
+          "questions": [
+            {
+              "id": "C1_m09_R1_q1",
+              "type": "matching",
+              "questionText": "Lücke 1 im Text: '…Aufmerksamkeit erhalten und dabei so wenig Begriffsschärfe gewonnen wie die Auseinandersetzung um Identitätspolitik. [1] Wer heute Identitätspolitik sagt…'",
+              "matchingSources": [
+                {
+                  "id": "C1_m09_R1_sent_a",
+                  "label": "a"
+                },
+                {
+                  "id": "C1_m09_R1_sent_b",
+                  "label": "b"
+                },
+                {
+                  "id": "C1_m09_R1_sent_c",
+                  "label": "c"
+                },
+                {
+                  "id": "C1_m09_R1_sent_d",
+                  "label": "d"
+                },
+                {
+                  "id": "C1_m09_R1_sent_e",
+                  "label": "e"
+                },
+                {
+                  "id": "C1_m09_R1_sent_f",
+                  "label": "f"
+                },
+                {
+                  "id": "C1_m09_R1_sent_g",
+                  "label": "g"
+                },
+                {
+                  "id": "C1_m09_R1_sent_h",
+                  "label": "h"
+                }
+              ],
+              "correctAnswer": "e",
+              "explanation": "Lücke 1 steht unmittelbar nach der Feststellung fehlender Begriffsschärfe. Satz e) expliziert, warum der Begriff umstritten ist — er führt die Spannung aus, die der folgende Satz ('Wer heute Identitätspolitik sagt, meint oft sehr Unterschiedliches') weiter entfaltet. Satz b) wäre inhaltlich verwandt, aber er setzt bereits eine philosophische Diagnose voraus, die erst im weiteren Verlauf entwickelt wird."
+            },
+            {
+              "id": "C1_m09_R1_q2",
+              "type": "matching",
+              "questionText": "Lücke 2 im Text: '…bildet sie das Fundament moderner Verfassungsordnungen. [2] Das Problem liegt in der Konkretisierung…'",
+              "matchingSources": [
+                {
+                  "id": "C1_m09_R1_sent_a",
+                  "label": "a"
+                },
+                {
+                  "id": "C1_m09_R1_sent_b",
+                  "label": "b"
+                },
+                {
+                  "id": "C1_m09_R1_sent_c",
+                  "label": "c"
+                },
+                {
+                  "id": "C1_m09_R1_sent_d",
+                  "label": "d"
+                },
+                {
+                  "id": "C1_m09_R1_sent_e",
+                  "label": "e"
+                },
+                {
+                  "id": "C1_m09_R1_sent_f",
+                  "label": "f"
+                },
+                {
+                  "id": "C1_m09_R1_sent_g",
+                  "label": "g"
+                },
+                {
+                  "id": "C1_m09_R1_sent_h",
+                  "label": "h"
+                }
+              ],
+              "correctAnswer": "c",
+              "explanation": "Lücke 2 folgt auf die Einführung der Menschenwürde als deontologisches Fundament. Satz c) konkretisiert diesen Grundsatz verfassungsrechtlich (Art. 1 GG) und stellt damit den Übergang zur Konkretisierungsproblematik her. Satz g) thematisiert Verantwortungsethik, die erst in Absatz 4 relevant wird."
+            },
+            {
+              "id": "C1_m09_R1_q3",
+              "type": "matching",
+              "questionText": "Lücke 3 im Text: '…Das Konzept der kulturellen Aneignung illustriert diese Spannung anhand konkreter Praxis. [3] Liberale Kunsttheoretikerinnen beharren…'",
+              "matchingSources": [
+                {
+                  "id": "C1_m09_R1_sent_a",
+                  "label": "a"
+                },
+                {
+                  "id": "C1_m09_R1_sent_b",
+                  "label": "b"
+                },
+                {
+                  "id": "C1_m09_R1_sent_c",
+                  "label": "c"
+                },
+                {
+                  "id": "C1_m09_R1_sent_d",
+                  "label": "d"
+                },
+                {
+                  "id": "C1_m09_R1_sent_e",
+                  "label": "e"
+                },
+                {
+                  "id": "C1_m09_R1_sent_f",
+                  "label": "f"
+                },
+                {
+                  "id": "C1_m09_R1_sent_g",
+                  "label": "g"
+                },
+                {
+                  "id": "C1_m09_R1_sent_h",
+                  "label": "h"
+                }
+              ],
+              "correctAnswer": "f",
+              "explanation": "Lücke 3 leitet in den Aneignungsabsatz ein. Satz f) benennt, worum es der Kritik eigentlich geht — nicht gegen kulturellen Austausch als solchen, sondern gegen die Asymmetrie der Bedingungen. Das bereitet den Kontrast zwischen der liberalen und der postkolonialen Position vor, der im folgenden Satz entfaltet wird. Satz a) greift dem Universalitätsargument voraus, das erst implizit adressiert wird."
+            },
+            {
+              "id": "C1_m09_R1_q4",
+              "type": "matching",
+              "questionText": "Lücke 4 im Text: '…Eine besondere Rolle spielt in diesem Zusammenhang die Verantwortungsethik. [4] Verantwortungsethische Überlegungen fragen nicht allein…'",
+              "matchingSources": [
+                {
+                  "id": "C1_m09_R1_sent_a",
+                  "label": "a"
+                },
+                {
+                  "id": "C1_m09_R1_sent_b",
+                  "label": "b"
+                },
+                {
+                  "id": "C1_m09_R1_sent_c",
+                  "label": "c"
+                },
+                {
+                  "id": "C1_m09_R1_sent_d",
+                  "label": "d"
+                },
+                {
+                  "id": "C1_m09_R1_sent_e",
+                  "label": "e"
+                },
+                {
+                  "id": "C1_m09_R1_sent_f",
+                  "label": "f"
+                },
+                {
+                  "id": "C1_m09_R1_sent_g",
+                  "label": "g"
+                },
+                {
+                  "id": "C1_m09_R1_sent_h",
+                  "label": "h"
+                }
+              ],
+              "correctAnswer": "g",
+              "explanation": "Lücke 4 leitet den Verantwortungsethik-Absatz ein. Satz g) ordnet die Verantwortungsethik systematisch in den Kontext deontologischer Ethiken ein — als Ergänzung, nicht als Ersatz — und schlägt so genau die Brücke, die der folgende Satz ('Verantwortungsethische Überlegungen fragen nicht allein…') weiter ausführt. Satz d) ist inhaltlich benachbart, aber die prozedurale Rückkehrbewegung passt nicht vor die Einführung der Verantwortungsethik."
+            },
+            {
+              "id": "C1_m09_R1_q5",
+              "type": "matching",
+              "questionText": "Lücke 5 im Text: '…systematisch aus wirtschaftlicher, politischer oder kultureller Teilhabe ausgeschlossen werden. [5] Dieser Ausschluss wirkt selten durch explizite Diskriminierung…'",
+              "matchingSources": [
+                {
+                  "id": "C1_m09_R1_sent_a",
+                  "label": "a"
+                },
+                {
+                  "id": "C1_m09_R1_sent_b",
+                  "label": "b"
+                },
+                {
+                  "id": "C1_m09_R1_sent_c",
+                  "label": "c"
+                },
+                {
+                  "id": "C1_m09_R1_sent_d",
+                  "label": "d"
+                },
+                {
+                  "id": "C1_m09_R1_sent_e",
+                  "label": "e"
+                },
+                {
+                  "id": "C1_m09_R1_sent_f",
+                  "label": "f"
+                },
+                {
+                  "id": "C1_m09_R1_sent_g",
+                  "label": "g"
+                },
+                {
+                  "id": "C1_m09_R1_sent_h",
+                  "label": "h"
+                }
+              ],
+              "correctAnswer": "h",
+              "explanation": "Lücke 5 schließt die Definition von Marginalisierung ab und leitet zur philosophischen Herausforderung über. Satz h) stellt die offene Frage, ob Gerechtigkeitstheorien, die Anerkennung und Umverteilung verbinden, diese Herausforderung bewältigen können — eine Frage, die den folgenden Satz über die philosophische Aufgabe motiviert. Satz d) (prozedurale Prinzipien) wäre thematisch möglich, aber es fehlt der kohäsive Anschluss an 'Dieser Ausschluss wirkt selten…'."
+            },
+            {
+              "id": "C1_m09_R1_q6",
+              "type": "matching",
+              "questionText": "Lücke 6 im Text: '…Was bleibt als Orientierung? [6] Einigkeit besteht allenfalls in der Diagnose…'",
+              "matchingSources": [
+                {
+                  "id": "C1_m09_R1_sent_a",
+                  "label": "a"
+                },
+                {
+                  "id": "C1_m09_R1_sent_b",
+                  "label": "b"
+                },
+                {
+                  "id": "C1_m09_R1_sent_c",
+                  "label": "c"
+                },
+                {
+                  "id": "C1_m09_R1_sent_d",
+                  "label": "d"
+                },
+                {
+                  "id": "C1_m09_R1_sent_e",
+                  "label": "e"
+                },
+                {
+                  "id": "C1_m09_R1_sent_f",
+                  "label": "f"
+                },
+                {
+                  "id": "C1_m09_R1_sent_g",
+                  "label": "g"
+                },
+                {
+                  "id": "C1_m09_R1_sent_h",
+                  "label": "h"
+                }
+              ],
+              "correctAnswer": "b",
+              "explanation": "Lücke 6 steht am Übergang zum Schlussabsatz, der mit einer nüchternen Diagnose öffnet. Satz b) benennt die 'Verschleierung des Partikularen als Allgemeines' als epistemische Kernverzerrung — und liefert damit die übergreifende philosophische Rahmung, die der Schlussabsatz aufgreift. Satz a) wäre inhaltlich verwandt, richtet sich aber spezifisch auf die Universalitätsperspektive, die hier zu eng ist."
+            }
+          ]
+        },
+        {
+          "partNumber": 2,
+          "instructions": "Lesen Sie die fünf Absätze (a–e) zum Thema Identitätspolitik und Ethik. Lesen Sie dann die sechs Fragen. Welcher Absatz enthält die Antwort auf jede Frage? Schreiben Sie den Buchstaben des richtigen Absatzes. Ein Absatz kann für mehrere Fragen passen. Wenn kein Absatz passt, schreiben Sie 'x'.",
+          "instructionsTranslation": "Read the five paragraphs (a–e) on the topic of identity politics and ethics. Then read the six questions. Which paragraph contains the answer to each question? Write the letter of the correct paragraph. One paragraph may match multiple questions. If no paragraph fits, write 'x'.",
+          "texts": [
+            {
+              "id": "C1_m09_R2_para_a",
+              "type": "article",
+              "content": "a) Die Unterscheidung zwischen negativen und positiven Freiheiten ist für die Identitätsdebatte von zentraler Bedeutung. Negative Freiheit — Freiheit von äußeren Eingriffen — ist das klassische liberale Ideal: Der Staat soll sich heraushalten, solange keine Rechte anderer verletzt werden. Positive Freiheit hingegen bezeichnet die tatsächliche Befähigung, eigene Lebensziele zu verfolgen. Wer negative Freiheit besitzt, aber durch strukturelle Benachteiligung faktisch an ihrer Ausübung gehindert wird, ist im philosophischen Sinne nicht frei. Diese Unterscheidung ist der Kern des Streits zwischen klassischen Liberalen und egalitären Theoretikerinnen wie Martha Nussbaum oder Amartya Sen."
+            },
+            {
+              "id": "C1_m09_R2_para_b",
+              "type": "article",
+              "content": "b) Kommunitarismus ist eine philosophische Strömung, die dem liberalen Individuum das sozial eingebettete Selbst entgegensetzt. Denker wie Alasdair MacIntyre und Michael Sandel argumentieren, dass Identität nicht vor Gemeinschaft existiert, sondern durch sie geformt wird. Daraus folgt: Gerechtigkeitsprinzipien, die so tun, als existierten Individuen unabhängig von ihrer kulturellen und sozialen Verortung, verfehlen die Realität menschlicher Existenz. Diese Position hat Konsequenzen für die Aneignungsdebatte: Wenn kulturelle Symbole konstitutiv für Identität sind, ist ihre Übernahme durch Außenstehende nicht nur ästhetisch, sondern existenziell relevant."
+            },
+            {
+              "id": "C1_m09_R2_para_c",
+              "type": "article",
+              "content": "c) Das Konzept der epistemischen Ungerechtigkeit, geprägt von der Philosophin Miranda Fricker, beschreibt zwei Formen ungerechter Behandlung im Wissensbereich. Testimoniale Ungerechtigkeit liegt vor, wenn jemandem aufgrund von Identitätsmerkmalen — etwa Geschlecht, Herkunft oder Klasse — weniger Glaubwürdigkeit als Zeugen zugesprochen wird. Hermeneutische Ungerechtigkeit bezeichnet die Situation, in der eine Person für ihre eigene Erfahrung keine angemessenen Begriffe vorfindet, weil diese Erfahrung im dominanten Begriffssystem nicht vorgesehen ist. Beide Formen zeigen, dass Ungerechtigkeit nicht nur materielle, sondern auch kognitive und kommunikative Dimensionen hat."
+            },
+            {
+              "id": "C1_m09_R2_para_d",
+              "type": "article",
+              "content": "d) Die Debatte um Trigger-Warnungen an Universitäten illustriert die praktischen Konsequenzen philosophischer Grundsatzentscheidungen. Befürworterinnen argumentieren, dass die Anerkennung psychischer Verletzlichkeit Teil einer inklusiven Bildungskultur sei: Wer traumatisierende Inhalte ohne Vorwarnung präsentiert, schließt bestimmte Studierende faktisch aus. Kritikerinnen halten dagegen, dass Trigger-Warnungen eine paternalistische Infantilisierung darstellen und intellektuelle Auseinandersetzung mit schwierigen Themen untergraben. Hinter diesem scheinbar praktischen Streit steckt ein philosophisches Grundproblem: Wie ist das Verhältnis zwischen psychologischer Sicherheit und intellektueller Freiheit zu bestimmen?"
+            },
+            {
+              "id": "C1_m09_R2_para_e",
+              "type": "article",
+              "content": "e) Anerkennungstheorien — insbesondere in der Nachfolge von Axel Honneth und Charles Taylor — betonen, dass Menschen nicht nur materielle Güter, sondern auch soziale Anerkennung benötigen, um ein gelingendes Leben zu führen. Missanerkennung — also das Vorenthalten oder die Verzerrung von Anerkennung — gilt in diesen Theorien als eine eigenständige Form sozialer Ungerechtigkeit, die nicht auf Umverteilung reduzierbar ist. Für die Identitätspolitik bedeutet das: Der Kampf um Sichtbarkeit, sprachliche Anerkennung und symbolische Repräsentation ist nicht 'nur' kulturell, sondern konstitutiv für das, was Menschen als gutes Leben erfahren können."
+            }
+          ],
+          "questions": [
+            {
+              "id": "C1_m09_R2_q1",
+              "type": "mcq",
+              "questionText": "In welchem Absatz wird erklärt, dass Ungerechtigkeit auch kommunikative und kognitive Dimensionen haben kann?",
+              "options": [
+                "a",
+                "b",
+                "c",
+                "d",
+                "e",
+                "x"
+              ],
+              "correctAnswer": "c",
+              "explanation": "Absatz c) beschreibt epistemische Ungerechtigkeit in ihren zwei Ausprägungen — testimoniale und hermeneutische — und schließt, dass Ungerechtigkeit 'kognitive und kommunikative Dimensionen' hat. Diese Formulierung findet sich ausschließlich in Absatz c)."
+            },
+            {
+              "id": "C1_m09_R2_q2",
+              "type": "mcq",
+              "questionText": "Welcher Absatz thematisiert den Zusammenhang zwischen kultureller Identität und philosophischer Grundlegung von Gerechtigkeitsprinzipien?",
+              "options": [
+                "a",
+                "b",
+                "c",
+                "d",
+                "e",
+                "x"
+              ],
+              "correctAnswer": "b",
+              "explanation": "Absatz b) argumentiert, dass Gerechtigkeitsprinzipien, die Individuen unabhängig von ihrer kulturellen Verortung betrachten, die menschliche Realität verfehlen. Die Verbindung zwischen kultureller Zugehörigkeit und dem Anspruch auf Gerechtigkeit ist zentrales Thema in Absatz b)."
+            },
+            {
+              "id": "C1_m09_R2_q3",
+              "type": "mcq",
+              "questionText": "In welchem Absatz wird ein Spannungsfeld zwischen zwei philosophischen Freiheitsbegriffen beschrieben?",
+              "options": [
+                "a",
+                "b",
+                "c",
+                "d",
+                "e",
+                "x"
+              ],
+              "correctAnswer": "a",
+              "explanation": "Absatz a) stellt negative und positive Freiheit einander gegenüber und zeigt, dass negative Freiheit allein kein hinreichendes Ideal ist. Der Kontrast der beiden Begriffe ist das Kernthema von Absatz a)."
+            },
+            {
+              "id": "C1_m09_R2_q4",
+              "type": "mcq",
+              "questionText": "Welcher Absatz beschreibt einen Konflikt, bei dem psychologische Schutzinteressen gegen intellektuelle Freiheit abgewogen werden?",
+              "options": [
+                "a",
+                "b",
+                "c",
+                "d",
+                "e",
+                "x"
+              ],
+              "correctAnswer": "d",
+              "explanation": "Absatz d) diskutiert Trigger-Warnungen und stellt explizit die Frage nach dem 'Verhältnis zwischen psychologischer Sicherheit und intellektueller Freiheit'. Dieser direkte Widerstreit findet sich nur in Absatz d)."
+            },
+            {
+              "id": "C1_m09_R2_q5",
+              "type": "mcq",
+              "questionText": "Welcher Absatz begründet, warum der Kampf um sprachliche Anerkennung nicht als bloß kulturell abgetan werden kann?",
+              "options": [
+                "a",
+                "b",
+                "c",
+                "d",
+                "e",
+                "x"
+              ],
+              "correctAnswer": "e",
+              "explanation": "Absatz e) erklärt auf Basis von Anerkennungstheorien, dass symbolische und sprachliche Anerkennung 'konstitutiv für das, was Menschen als gutes Leben erfahren können' ist — und damit nicht auf 'bloß kulturelle' Fragen reduzierbar ist."
+            },
+            {
+              "id": "C1_m09_R2_q6",
+              "type": "mcq",
+              "questionText": "In welchem Absatz wird die Aneignungsdebatte mit einer bestimmten philosophischen Strömung in Verbindung gebracht?",
+              "options": [
+                "a",
+                "b",
+                "c",
+                "d",
+                "e",
+                "x"
+              ],
+              "correctAnswer": "b",
+              "explanation": "Absatz b) stellt den Kommunitarismus vor und zieht daraus explizit Konsequenzen für die Aneignungsdebatte: Wenn kulturelle Symbole konstitutiv für Identität sind, ist ihre Aneignung durch Außenstehende existenziell relevant. Diese Verbindung findet sich nur in Absatz b)."
+            }
+          ]
+        },
+        {
+          "partNumber": 3,
+          "instructions": "Lesen Sie den folgenden Artikel. Entscheiden Sie bei jeder Aussage, ob sie richtig (R), falsch (F) oder nicht im Text (N) ist. Außerdem: Welcher Titel passt am besten zum Text? Wählen Sie a, b oder c.",
+          "instructionsTranslation": "Read the following article. For each statement decide whether it is correct (R), incorrect (F) or not in the text (N). In addition: Which title best fits the text? Choose a, b, or c.",
+          "texts": [
+            {
+              "id": "C1_m09_R3_article",
+              "type": "article",
+              "content": "Verantwortungsethik und Menschenwürde: Zwei Leitbegriffe im Widerstreit?\n\nWer heute über Ethik in der pluralen Gesellschaft nachdenkt, stößt unweigerlich auf zwei Leitbegriffe, die häufig als selbstverständlich vorausgesetzt, aber selten systematisch zueinander in Beziehung gesetzt werden: Menschenwürde und Verantwortung. Beide Begriffe beanspruchen normativen Vorrang — beide sind in modernen Verfassungsordnungen und philosophischen Debatten allgegenwärtig. Doch ihr Verhältnis ist komplizierter, als es auf den ersten Blick erscheint.\n\nDie Menschenwürde ist in ihrer klassischen Formulierung — zuletzt bei Kant und dann in den Menschenrechtsdokumenten des 20. Jahrhunderts — eine absolute, nicht gradierbare Größe. Sie kommt jedem Menschen zu, unabhängig von Leistung, Herkunft oder Verhalten. Eben diese Absolutheit ist ihre Stärke: Sie immunisiert das Individuum gegen instrumentelle Vereinnahmung durch kollektive Ziele. Kein politisches Kalkül, kein gesellschaftlicher Nutzenmaximierungsauftrag kann legitimieren, was die Würde verletzt. Das Bundesverfassungsgericht hat diesen Grundsatz in ständiger Rechtsprechung bestätigt und präzisiert: Die Objektformel verbietet es, Menschen als bloßes Mittel zum Zweck zu behandeln.\n\nVerantwortungsethik, wie sie Max Weber in seiner Unterscheidung von Gesinnungs- und Verantwortungsethik klassisch formuliert hat, ergänzt diesen deontologischen Absolutismus um eine Folgenorientierung. Wer aus Überzeugung handelt und die Konsequenzen ignoriert, handelt ethisch unvollständig. Diese Perspektive ist für die gegenwärtigen Debatten um Marginalisierung und Identität zentral: Gut gemeinte Politiken können schlecht wirkende sein. Wer Inklusion fordert, ohne die strukturellen Bedingungen der Exklusion zu verändern, riskiert symbolische Politik ohne materielle Wirkung.\n\nDer Widerstreit zwischen beiden Ethiken zeigt sich besonders deutlich im Kontext der Identitätspolitik. Anerkennungsforderungen marginalisierter Gruppen berufen sich auf die Menschenwürde: Wer nicht als vollwertiges Subjekt anerkannt wird, erleidet eine Würdeverletzung. Kritiker — insbesondere solche mit verantwortungsethischer Orientierung — geben zu bedenken, dass eine Politik, die primär auf symbolische Anerkennung setzt, materielle Ungleichheiten unberührt lassen kann. Sie fragen: Was nützt sprachliche Inklusion, wenn strukturelle Benachteiligung fortbesteht? Diese Kritik ist berechtigt — sie verfehlt jedoch ihr Ziel, wenn sie Anerkennung und Umverteilung als Alternativen behandelt, die in Konkurrenz stehen. Philosophisch überzeugend sind Ansätze, die beide Dimensionen als notwendige Bestandteile einer vollständigen Gerechtigkeitstheorie betrachten.\n\nBesonderer Klärungsbedarf besteht beim Begriff der strukturellen Verantwortung. Wenn niemand beabsichtigt, eine Gruppe zu marginalisieren, und dennoch eine Struktur entsteht, die Marginalisierung produziert — wer trägt dann Verantwortung? Die klassische Zurechnungslehre des Strafrechts ist hier nicht übertragbar: Sie setzt intentionales Handeln voraus. Politische Philosophinnen wie Iris Marion Young haben deshalb das Konzept der sozialen Verbindungsverantwortung entwickelt: Wer von ungerechten Strukturen profitiert oder in ihnen handelt, trägt — unabhängig von individueller Schuld — eine politische Verantwortung, auf ihre Veränderung hinzuwirken.\n\nDiese Überlegung hat unmittelbare Konsequenzen für die Praxis. Institutionen — Universitäten, Unternehmen, Behörden — sind nicht dann von Verantwortung entbunden, wenn keine individuellen Diskriminierungsabsichten nachweisbar sind. Solange ihre Strukturen systematisch bestimmte Gruppen benachteiligen, besteht eine Verantwortung zur Reform. Das ist keine moralische Überforderung, sondern die logische Konsequenz aus der Verbindung von Würdeschutz und Verantwortungsethik.\n\nFür die philosophische Praxis bedeutet das: Die Frage 'Was ist richtig?' kann nicht losgelöst von der Frage 'Was ist wirksam?' gestellt werden. Und die Frage 'Was ist wirksam?' kann nicht losgelöst von der Frage 'Was verletzt die Würde?' beantwortet werden. Diese wechselseitige Durchdringung ist das, was ein reifes ethisches Denken auszeichnet — und was in der gegenwärtigen politischen Diskussion allzu häufig fehlt.",
+              "source": "Zeitschrift für Ethik und Gesellschaft, Jg. 9, Heft 1, 2026"
+            }
+          ],
+          "questions": [
+            {
+              "id": "C1_m09_R3_q1",
+              "type": "true_false",
+              "questionText": "Laut Text hat das Bundesverfassungsgericht die Menschenwürde durch eine sogenannte Objektformel konkretisiert.",
+              "options": [
+                "richtig",
+                "falsch",
+                "nicht im Text"
+              ],
+              "correctAnswer": "richtig",
+              "explanation": "Der Text formuliert: 'Die Objektformel verbietet es, Menschen als bloßes Mittel zum Zweck zu behandeln.' Die Aussage ist korrekt."
+            },
+            {
+              "id": "C1_m09_R3_q2",
+              "type": "true_false",
+              "questionText": "Der Text zufolge ist die Gesinnungsethik die von Max Weber bevorzugte ethische Position.",
+              "options": [
+                "richtig",
+                "falsch",
+                "nicht im Text"
+              ],
+              "correctAnswer": "nicht im Text",
+              "explanation": "Der Text erwähnt Webers Unterscheidung zwischen Gesinnungs- und Verantwortungsethik, trifft aber keine Aussage darüber, welche Weber bevorzugte. Die Aussage ist nicht im Text."
+            },
+            {
+              "id": "C1_m09_R3_q3",
+              "type": "true_false",
+              "questionText": "Laut Text behandelt die klassische Zurechnungslehre des Strafrechts strukturelle Verantwortung für unbeabsichtigte Benachteiligung.",
+              "options": [
+                "richtig",
+                "falsch",
+                "nicht im Text"
+              ],
+              "correctAnswer": "falsch",
+              "explanation": "Der Text erklärt, dass die strafrechtliche Zurechnungslehre gerade nicht übertragbar ist, weil sie intentionales Handeln voraussetzt. Die Aussage ist falsch."
+            },
+            {
+              "id": "C1_m09_R3_q4",
+              "type": "true_false",
+              "questionText": "Der Text beschreibt das Konzept der 'sozialen Verbindungsverantwortung' als Ansatz von Iris Marion Young.",
+              "options": [
+                "richtig",
+                "falsch",
+                "nicht im Text"
+              ],
+              "correctAnswer": "richtig",
+              "explanation": "Der Text nennt explizit Iris Marion Young als Urheberin des Konzepts der sozialen Verbindungsverantwortung. Die Aussage ist korrekt."
+            },
+            {
+              "id": "C1_m09_R3_q5",
+              "type": "true_false",
+              "questionText": "Laut Text sind symbolische Anerkennungspolitik und materielle Umverteilung philosophisch konkurrierende Alternativen.",
+              "options": [
+                "richtig",
+                "falsch",
+                "nicht im Text"
+              ],
+              "correctAnswer": "falsch",
+              "explanation": "Der Text kritisiert ausdrücklich Ansätze, die Anerkennung und Umverteilung 'als Alternativen behandeln, die in Konkurrenz stehen', und plädiert dafür, beide als 'notwendige Bestandteile einer vollständigen Gerechtigkeitstheorie' zu betrachten. Die Aussage ist falsch."
+            },
+            {
+              "id": "C1_m09_R3_q6",
+              "type": "true_false",
+              "questionText": "Der Artikel nennt Martha Nussbaum als Beispiel für eine Philosophin, die für positive Freiheit plädiert.",
+              "options": [
+                "richtig",
+                "falsch",
+                "nicht im Text"
+              ],
+              "correctAnswer": "nicht im Text",
+              "explanation": "Martha Nussbaum wird im Artikel nicht erwähnt. Die Aussage ist nicht im Text."
+            },
+            {
+              "id": "C1_m09_R3_q7",
+              "type": "true_false",
+              "questionText": "Laut Text sind Institutionen von Verantwortung entbunden, wenn keine individuellen Diskriminierungsabsichten nachweisbar sind.",
+              "options": [
+                "richtig",
+                "falsch",
+                "nicht im Text"
+              ],
+              "correctAnswer": "falsch",
+              "explanation": "Der Text erklärt das Gegenteil: 'Institutionen sind nicht dann von Verantwortung entbunden, wenn keine individuellen Diskriminierungsabsichten nachweisbar sind.' Die Aussage ist falsch."
+            },
+            {
+              "id": "C1_m09_R3_q8",
+              "type": "true_false",
+              "questionText": "Der Text beschreibt Menschenwürde als eine gradierbare Größe, die von Leistung und Verhalten abhängt.",
+              "options": [
+                "richtig",
+                "falsch",
+                "nicht im Text"
+              ],
+              "correctAnswer": "falsch",
+              "explanation": "Der Text beschreibt Menschenwürde explizit als 'absolute, nicht gradierbare Größe', die jedem Menschen 'unabhängig von Leistung, Herkunft oder Verhalten' zukommt. Die Aussage ist falsch."
+            },
+            {
+              "id": "C1_m09_R3_q9",
+              "type": "true_false",
+              "questionText": "Laut Text riskiert eine Politik, die Inklusion fordert ohne strukturelle Exklusionsbedingungen zu verändern, symbolische Politik ohne materielle Wirkung.",
+              "options": [
+                "richtig",
+                "falsch",
+                "nicht im Text"
+              ],
+              "correctAnswer": "richtig",
+              "explanation": "Der Text formuliert wörtlich: 'Wer Inklusion fordert, ohne die strukturellen Bedingungen der Exklusion zu verändern, riskiert symbolische Politik ohne materielle Wirkung.' Die Aussage ist korrekt."
+            },
+            {
+              "id": "C1_m09_R3_q10",
+              "type": "true_false",
+              "questionText": "Der Text bewertet das Konzept der sozialen Verbindungsverantwortung als moralische Überforderung für Institutionen.",
+              "options": [
+                "richtig",
+                "falsch",
+                "nicht im Text"
+              ],
+              "correctAnswer": "falsch",
+              "explanation": "Der Text erklärt ausdrücklich, die strukturelle Reformverantwortung sei 'keine moralische Überforderung, sondern die logische Konsequenz aus der Verbindung von Würdeschutz und Verantwortungsethik'. Die Aussage ist falsch."
+            },
+            {
+              "id": "C1_m09_R3_q11",
+              "type": "true_false",
+              "questionText": "Laut Text können die Fragen nach Richtigkeit und Wirksamkeit einer Handlung nicht vollständig voneinander getrennt werden.",
+              "options": [
+                "richtig",
+                "falsch",
+                "nicht im Text"
+              ],
+              "correctAnswer": "richtig",
+              "explanation": "Der Text schließt mit der Aussage, dass 'Was ist richtig?' und 'Was ist wirksam?' wechselseitig durchdrungen sind — die eine Frage lässt sich nicht losgelöst von der anderen stellen. Die Aussage ist korrekt."
+            },
+            {
+              "id": "C1_m09_R3_q12",
+              "type": "mcq",
+              "questionText": "Welcher Titel fasst den Artikel am treffendsten zusammen?",
+              "options": [
+                "a) Kant und Weber: Eine historische Gegenüberstellung ethischer Systeme",
+                "b) Menschenwürde und Verantwortungsethik als komplementäre Grundlagen einer Gerechtigkeitstheorie für plurale Gesellschaften",
+                "c) Iris Marion Young und die Grenzen strafrechtlicher Zurechnungslehre"
+              ],
+              "correctAnswer": "b",
+              "explanation": "Der Artikel entwickelt systematisch die Spannung und Komplementarität zwischen Menschenwürde (deontologisch) und Verantwortungsethik (folgenorientiert) im Kontext von Identitätspolitik und Marginalisierung. Option b) erfasst diese Breite. a) reduziert auf einen historischen Vergleich, der nur Hintergrundfolie ist. c) verengt auf ein Teilargument."
+            }
+          ]
+        }
+      ]
+    },
+    "sprachbausteine": {
+      "totalTimeMinutes": 25,
+      "parts": [
+        {
+          "partNumber": 1,
+          "instructions": "Lesen Sie den folgenden Text. Wählen Sie bei jeder Lücke (1–22) die richtige Antwort (a, b, c oder d). Es gibt jeweils nur eine richtige Antwort.",
+          "instructionsTranslation": "Read the following text. For each gap (1–22) choose the correct answer (a, b, c or d). There is only one correct answer each time.",
+          "text": "Die Frage, (1) ____ es sich bei Identitätspolitik um eine emanzipatorische Bewegung oder um eine Form des politischen Tribalismus handelt, wird in der Philosophie (2) ____ kontrovers diskutiert. Wer (3) ____ den Begriff verwendet, meint damit etwas grundlegend anderes.\n\nIm Kern geht es um die Frage, (4) ____ gruppenspezifische Erfahrungen — etwa von Marginalisierung oder Diskriminierung — im politischen Raum eine eigenständige Stimme erhalten sollen. Befürworterinnen (5) ____, dass die liberale Fiktion eines abstrakten, identitätslosen Subjekts strukturelle Benachteiligung systematisch (6) ____. Kritikerinnen (7) ____ dagegen, dass die Betonung von Gruppenidentität das Band universeller Bürgerschaft schwäche und Konflikte entlang von Identitätslinien erst (8) ____.\n\nDas Konzept der Menschenwürde stellt (9) ____ Rahmen bereit, innerhalb (10) ____ diese Konflikte bearbeitet werden können. Würde (11) ____ jedem Menschen unabhängig von Herkunft, Leistung oder Zugehörigkeit zu — das ist ihr deontologischer Kern. Was daraus folgt, ist (12) ____ allerdings offen: Verlangt Würde formale Gleichbehandlung oder substanzielle Gleichstellung? Verlangt sie (13) ____ die Anerkennung gruppenspezifischer Unterschiede?\n\nVerantwortungsethisch lässt sich fragen, (14) ____ gut gemeinte Anerkennungspolitiken tatsächlich die Lage marginalisierter Gruppen verbessern. Wer symbolische Inklusion (15) ____ materieller Gerechtigkeit vorzieht, riskiert, strukturelle Benachteiligung (16) ____ zu lassen. Iris Marion Young argumentierte, dass strukturelle Ungerechtigkeit auch dort besteht, (17) ____ keine individuelle Absicht zur Diskriminierung vorliegt. Verantwortung (18) ____ in diesem Modell nicht mit Schuld zusammen, sondern bezeichnet eine politische Verpflichtung zur Strukturveränderung.\n\nDas Konzept der epistemischen Ungerechtigkeit (19) ____ eine weitere Dimension des Problems. Wer für die eigene Erfahrung keine gesellschaftlich (20) ____ Begriffe vorfindet, ist nicht nur benachteiligt, sondern auch in seiner Fähigkeit beeinträchtigt, diese Erfahrung (21) ____ zu artikulieren. Für eine gerechte Gesellschaft bedeutet das: (22) ____ die Förderung begrifflicher Ressourcen für marginalisierte Gruppen kein Randthema, sondern eine Kernaufgabe.",
+          "questions": [
+            {
+              "blankNumber": 1,
+              "type": "mcq",
+              "options": [
+                "ob",
+                "dass",
+                "wenn",
+                "wie"
+              ],
+              "correctAnswer": "ob",
+              "explanation": "'die Frage, ob es sich … handelt' — 'ob' leitet einen indirekten Fragesatz ein. 'Dass' würde eine Aussage einleiten; 'wenn' ist temporal/konditional; 'wie' erfragt eine Modalität, nicht die Alternativfrage."
+            },
+            {
+              "blankNumber": 2,
+              "type": "mcq",
+              "options": [
+                "nach wie vor",
+                "seit langem nicht mehr",
+                "kaum noch",
+                "erstmals"
+              ],
+              "correctAnswer": "nach wie vor",
+              "explanation": "'nach wie vor kontrovers diskutiert' — der Text stellt fest, dass die Debatte anhält. 'Seit langem nicht mehr' und 'kaum noch' würden Abnahme signalisieren; 'erstmals' wäre historisch unzutreffend."
+            },
+            {
+              "blankNumber": 3,
+              "type": "mcq",
+              "options": [
+                "wer immer",
+                "jeder, der",
+                "wen auch immer",
+                "wer auch immer"
+              ],
+              "correctAnswer": "wer auch immer",
+              "explanation": "'Wer auch immer den Begriff verwendet' — konzessives Relativpronomen im Nominativ. 'Wer immer' ist synonym, aber stilistisch älter; 'jeder, der' ist korrekt, aber prosaischer; 'wen auch immer' steht im Akkusativ und passt nicht zum Subjektsatz."
+            },
+            {
+              "blankNumber": 4,
+              "type": "mcq",
+              "options": [
+                "ob",
+                "dass",
+                "wie",
+                "warum"
+              ],
+              "correctAnswer": "ob",
+              "explanation": "'die Frage, ob … sollen' — erneut indirekter Fragesatz. 'Dass' würde Gewissheit implizieren; 'wie' erfragt Modalität; 'warum' erfragt Ursache, nicht das Ob."
+            },
+            {
+              "blankNumber": 5,
+              "type": "mcq",
+              "options": [
+                "argumentieren",
+                "behaupten",
+                "erwähnen",
+                "vermuten"
+              ],
+              "correctAnswer": "argumentieren",
+              "explanation": "'Befürworterinnen argumentieren, dass …' — 'argumentieren' bezeichnet das Vorbringen von Begründungen. 'Behaupten' klingt abwertend; 'erwähnen' ist zu schwach; 'vermuten' würde Unsicherheit implizieren, die der Position widerspricht."
+            },
+            {
+              "blankNumber": 6,
+              "type": "mcq",
+              "options": [
+                "verschleiert",
+                "offenbart",
+                "überwindet",
+                "bestätigt"
+              ],
+              "correctAnswer": "verschleiert",
+              "explanation": "'strukturelle Benachteiligung systematisch verschleiert' — das ist das Kernargument gegen die liberale Subjektfiktion: Sie macht strukturelle Ungleichheit unsichtbar. 'Offenbart' und 'bestätigt' würden das Gegenteil sagen; 'überwindet' wäre zu optimistisch."
+            },
+            {
+              "blankNumber": 7,
+              "type": "mcq",
+              "options": [
+                "halten",
+                "wenden",
+                "sprechen",
+                "stehen"
+              ],
+              "correctAnswer": "halten",
+              "explanation": "'Kritikerinnen halten dagegen' — feste Kollokation für Gegenargumentation im akademischen Deutsch. 'Wenden dagegen' ist umgangssprachlich; 'sprechen dagegen' wäre möglich, aber 'dagegen halten' ist idiomatischer in diesem Register."
+            },
+            {
+              "blankNumber": 8,
+              "type": "mcq",
+              "options": [
+                "produziere",
+                "produziert",
+                "produzieren würde",
+                "produzieren"
+              ],
+              "correctAnswer": "produziere",
+              "explanation": "'erst produziere' — Konjunktiv I in indirekter Rede (Kritikerinnen [sagen], dass die Betonung … Konflikte produziere). CR-15 schreibt Konjunktiv I für indirekte Rede vor. 'Produziert' wäre Indikativ; 'produzieren würde' Konjunktiv II; 'produzieren' Infinitiv."
+            },
+            {
+              "blankNumber": 9,
+              "type": "mcq",
+              "options": [
+                "einen",
+                "keinen",
+                "den",
+                "jeden"
+              ],
+              "correctAnswer": "einen",
+              "explanation": "'stellt einen Rahmen bereit' — unbestimmter Artikel, weil der Begriff 'Rahmen' hier eingeführt, nicht bereits bekannt ist. 'Den' würde Bekanntheit voraussetzen; 'keinen' wäre negierend; 'jeden' wäre allquantifizierend und semantisch abweichend."
+            },
+            {
+              "blankNumber": 10,
+              "type": "mcq",
+              "options": [
+                "dessen",
+                "dem",
+                "denen",
+                "welchem"
+              ],
+              "correctAnswer": "dessen",
+              "explanation": "'innerhalb dessen' — Genitivform des Relativpronomens, das auf 'Rahmen' (maskulin) zurückverweist. 'Dem' wäre Dativ; 'denen' Plural; 'welchem' wäre zwar grammatisch möglich, aber stilistisch schwerfälliger."
+            },
+            {
+              "blankNumber": 11,
+              "type": "mcq",
+              "options": [
+                "kommt",
+                "steht",
+                "gilt",
+                "gehört"
+              ],
+              "correctAnswer": "kommt",
+              "explanation": "'Würde kommt jedem Menschen … zu' — 'zukommen' ist die feste Kollokation für das Zuteilwerden von Rechten oder Eigenschaften. 'Gehört' wäre semantisch ähnlich, aber idiomatisch anders; 'gilt' würde einen anderen Valenzkonstrukt erfordern; 'steht' passt nicht."
+            },
+            {
+              "blankNumber": 12,
+              "type": "mcq",
+              "options": [
+                "damit",
+                "daraus",
+                "darüber",
+                "dabei"
+              ],
+              "correctAnswer": "daraus",
+              "explanation": "'Was daraus folgt, ist … offen' — 'daraus' nimmt anaphorisch Bezug auf die zuvor beschriebene deontologische Eigenschaft der Würde. 'Damit', 'darüber', 'dabei' passen konstruktionell oder semantisch nicht."
+            },
+            {
+              "blankNumber": 13,
+              "type": "mcq",
+              "options": [
+                "möglicherweise auch",
+                "in keinem Fall",
+                "weder noch",
+                "hingegen nicht"
+              ],
+              "correctAnswer": "möglicherweise auch",
+              "explanation": "'Verlangt sie möglicherweise auch die Anerkennung …?' — Die Frage erweitert offen das zuvor Gesagte um eine weitere Möglichkeit. 'In keinem Fall' wäre ausschließend; 'weder noch' verneint beides; 'hingegen nicht' wäre adversativ, nicht additiv-offen."
+            },
+            {
+              "blankNumber": 14,
+              "type": "mcq",
+              "options": [
+                "ob",
+                "inwieweit",
+                "warum",
+                "dass"
+              ],
+              "correctAnswer": "inwieweit",
+              "explanation": "'lässt sich fragen, inwieweit … verbessern' — 'inwieweit' leitet eine graduierende Frage ein (in welchem Ausmaß?). 'Ob' würde nur das Ob, nicht das Maß erfragen; 'warum' Ursachen; 'dass' würde eine Aussage einleiten."
+            },
+            {
+              "blankNumber": 15,
+              "type": "mcq",
+              "options": [
+                "anstelle",
+                "auf Kosten",
+                "gegenüber",
+                "vor"
+              ],
+              "correctAnswer": "vor",
+              "explanation": "'symbolische Inklusion … vorzieht' — 'vorziehen' mit Akkusativ + Dativ: 'A vor B vorziehen'. 'Anstelle' wäre grammatisch mit Genitiv; 'auf Kosten' verlangt Genitiv; 'gegenüber' hat einen anderen konstruktionellen Rahmen."
+            },
+            {
+              "blankNumber": 16,
+              "type": "mcq",
+              "options": [
+                "unangetastet",
+                "überwunden",
+                "sichtbar",
+                "beseitigt"
+              ],
+              "correctAnswer": "unangetastet",
+              "explanation": "'strukturelle Benachteiligung unangetastet zu lassen' — 'unangetastet lassen' ist die feste Wendung für das Nichtverändern von Zuständen. 'Überwunden' und 'beseitigt' würden das Gegenteil bedeuten; 'sichtbar' verändert den Sinn."
+            },
+            {
+              "blankNumber": 17,
+              "type": "mcq",
+              "options": [
+                "wo",
+                "wann",
+                "obwohl",
+                "falls"
+              ],
+              "correctAnswer": "wo",
+              "explanation": "'auch dort besteht, wo keine individuelle Absicht vorliegt' — 'wo' leitet hier einen konditionalen Relativsatz ein (= 'in Situationen, in denen'). 'Wann' wäre temporal; 'obwohl' konzessiv (würde den Satzsinn verdrehen); 'falls' konditional, aber konstruktionell weniger präzise."
+            },
+            {
+              "blankNumber": 18,
+              "type": "mcq",
+              "options": [
+                "fällt",
+                "hängt",
+                "kommt",
+                "geht"
+              ],
+              "correctAnswer": "fällt",
+              "explanation": "'Verantwortung fällt … nicht mit Schuld zusammen' — 'zusammenfallen mit' bezeichnet konzeptuelle Überlappung. 'Hängt zusammen' bedeutet 'steht in Beziehung', nicht 'ist identisch'; 'kommt zusammen' und 'geht zusammen' passen idiomatisch nicht."
+            },
+            {
+              "blankNumber": 19,
+              "type": "mcq",
+              "options": [
+                "erschließt",
+                "eröffnet",
+                "ergänzt",
+                "verweist auf"
+              ],
+              "correctAnswer": "eröffnet",
+              "explanation": "'Das Konzept … eröffnet eine weitere Dimension' — 'eröffnen' bezeichnet das Aufzeigen einer neuen Perspektive. 'Erschließt' ist synonym, aber stilistisch leicht abweichend; 'ergänzt' würde einen additiven, nicht erschließenden Charakter betonen; 'verweist auf' würde auf Bekanntes zeigen, nicht neue Dimension."
+            },
+            {
+              "blankNumber": 20,
+              "type": "mcq",
+              "options": [
+                "geteilten",
+                "anerkannten",
+                "geltenden",
+                "verbreiteten"
+              ],
+              "correctAnswer": "anerkannten",
+              "explanation": "'gesellschaftlich anerkannte Begriffe' — Miranda Frickers Konzept der hermeneutischen Ungerechtigkeit bezieht sich auf Begriffe, denen gesellschaftliche Anerkennung (nicht nur Verbreitung) fehlt. 'Geltenden' wäre zu juristisch; 'geteilten' zu weit; 'verbreiteten' zu quantitativ."
+            },
+            {
+              "blankNumber": 21,
+              "type": "mcq",
+              "options": [
+                "anderen gegenüber",
+                "öffentlich",
+                "vollständig",
+                "schriftlich"
+              ],
+              "correctAnswer": "öffentlich",
+              "explanation": "'diese Erfahrung öffentlich zu artikulieren' — epistemische Ungerechtigkeit betrifft die Kommunizierbarkeit von Erfahrungen im sozialen Raum. 'Vollständig' und 'schriftlich' verfehlen die soziale Dimension; 'anderen gegenüber' ist umgangssprachlich."
+            },
+            {
+              "blankNumber": 22,
+              "type": "mcq",
+              "options": [
+                "ist",
+                "sei",
+                "wäre",
+                "bleibt"
+              ],
+              "correctAnswer": "ist",
+              "explanation": "'ist … kein Randthema, sondern eine Kernaufgabe' — Indikativ Präsens für eine normative Schlussfolgerung, die als Tatsache formuliert wird. 'Sei' wäre Konjunktiv I (indirekte Rede), 'wäre' Konjunktiv II (hypothetisch), 'bleibt' würde eine Kontinuität betonen, die hier nicht gemeint ist."
+            }
+          ]
+        }
+      ]
+    },
+    "listening": {
+      "totalTimeMinutes": 40,
+      "parts": [
+        {
+          "partNumber": 1,
+          "instructions": "Sie hören acht kurze Stellungnahmen verschiedener Personen zum Thema Identitätspolitik und Ethik. Lesen Sie zuerst die zehn Zusammenfassungen (a–j). Hören Sie dann die acht Aussagen. Welche Zusammenfassung passt zu welchem Sprecher? Zwei Zusammenfassungen passen nicht. Sie hören die Texte nur einmal.",
+          "instructionsTranslation": "You will hear eight short statements from different people on the topic of identity politics and ethics. First read the ten summaries (a–j). Then listen to the eight statements. Which summary matches which speaker? Two summaries do not fit. You will hear the texts only once.",
+          "audioFile": "assets/audio/C1/mock09/listening_part1.mp3",
+          "playCount": 1,
+          "questions": [
+            {
+              "id": "C1_m09_HV1_q1",
+              "type": "matching",
+              "questionText": "Sprecher 1: Frau Prof. Dr. Habermann, Ethikerin aus Frankfurt",
+              "matchingSources": [
+                {
+                  "id": "sum_a",
+                  "label": "a",
+                  "content": "a) Die Sprecherin argumentiert, dass Menschenwürde nur dann effektiv geschützt werden kann, wenn strukturelle Ungleichheiten aktiv beseitigt werden, nicht nur formal anerkannt."
+                },
+                {
+                  "id": "sum_b",
+                  "label": "b",
+                  "content": "b) Der Sprecher warnt, dass Identitätspolitik den gesellschaftlichen Zusammenhalt gefährdet, indem sie Menschen primär als Mitglieder von Gruppen statt als Individuen adressiert."
+                },
+                {
+                  "id": "sum_c",
+                  "label": "c",
+                  "content": "c) Die Sprecherin erklärt, dass epistemische Ungerechtigkeit marginalisierte Gruppen nicht nur materiell, sondern auch kognitiv und kommunikativ benachteiligt."
+                },
+                {
+                  "id": "sum_d",
+                  "label": "d",
+                  "content": "d) Der Sprecher betont, dass Verantwortung für strukturelle Ungleichheit auch ohne individuelle Diskriminierungsabsicht existiert."
+                },
+                {
+                  "id": "sum_e",
+                  "label": "e",
+                  "content": "e) Die Sprecherin sieht in der kulturellen Aneignung ein Machtverhältnis, das symbolische Verletzungen verursacht, unabhängig von der Intention der Aneignenden."
+                },
+                {
+                  "id": "sum_f",
+                  "label": "f",
+                  "content": "f) Der Sprecher hält Trigger-Warnungen für eine notwendige Maßnahme, um Inklusion in Bildungsinstitutionen herzustellen."
+                },
+                {
+                  "id": "sum_g",
+                  "label": "g",
+                  "content": "g) Die Sprecherin kritisiert, dass der Fokus auf symbolische Anerkennung materielle Umverteilung verdrängt, ohne die Lebensbedingungen marginalisierter Gruppen wirklich zu verbessern."
+                },
+                {
+                  "id": "sum_h",
+                  "label": "h",
+                  "content": "h) Der Sprecher vertritt die Position, dass kommunitaristische Identitätskonzepte philosophisch überzeugender sind als das liberale Bild des souveränen Individuums."
+                },
+                {
+                  "id": "sum_i",
+                  "label": "i",
+                  "content": "i) Die Sprecherin fordert, dass Gerechtigkeitstheorien sowohl Anerkennung als auch materielle Umverteilung einschließen müssen, um vollständig zu sein."
+                },
+                {
+                  "id": "sum_j",
+                  "label": "j",
+                  "content": "j) Der Sprecher sieht in der Debatte um Identitätspolitik eine Chance, universelle ethische Prinzipien neu zu verankern, statt sie gegen Partikularinteressen auszuspielen."
+                }
+              ],
+              "correctAnswer": "a",
+              "explanation": "Frau Prof. Habermann erklärt: 'Menschenwürde ist kein abstraktes Prinzip, das durch bloße formale Gleichstellung eingelöst wird. Solange strukturelle Benachteiligung fortbesteht, bleibt die Würde strukturell verletzt — und kein Verfassungsartikel ändert daran etwas, wenn er nicht in aktiver Gleichstellungspolitik mündet.' Das entspricht Zusammenfassung a). Distraktor i) klingt ähnlich, fokussiert aber auf Gerechtigkeitstheorien, nicht auf den Würdeschutz."
+            },
+            {
+              "id": "C1_m09_HV1_q2",
+              "type": "matching",
+              "questionText": "Sprecher 2: Herr Dr. Wegener, Politikwissenschaftler aus Köln",
+              "matchingSources": [
+                {
+                  "id": "sum_a",
+                  "label": "a",
+                  "content": "a) Die Sprecherin argumentiert, dass Menschenwürde nur dann effektiv geschützt werden kann, wenn strukturelle Ungleichheiten aktiv beseitigt werden, nicht nur formal anerkannt."
+                },
+                {
+                  "id": "sum_b",
+                  "label": "b",
+                  "content": "b) Der Sprecher warnt, dass Identitätspolitik den gesellschaftlichen Zusammenhalt gefährdet, indem sie Menschen primär als Mitglieder von Gruppen statt als Individuen adressiert."
+                },
+                {
+                  "id": "sum_c",
+                  "label": "c",
+                  "content": "c) Die Sprecherin erklärt, dass epistemische Ungerechtigkeit marginalisierte Gruppen nicht nur materiell, sondern auch kognitiv und kommunikativ benachteiligt."
+                },
+                {
+                  "id": "sum_d",
+                  "label": "d",
+                  "content": "d) Der Sprecher betont, dass Verantwortung für strukturelle Ungleichheit auch ohne individuelle Diskriminierungsabsicht existiert."
+                },
+                {
+                  "id": "sum_e",
+                  "label": "e",
+                  "content": "e) Die Sprecherin sieht in der kulturellen Aneignung ein Machtverhältnis, das symbolische Verletzungen verursacht, unabhängig von der Intention der Aneignenden."
+                },
+                {
+                  "id": "sum_f",
+                  "label": "f",
+                  "content": "f) Der Sprecher hält Trigger-Warnungen für eine notwendige Maßnahme, um Inklusion in Bildungsinstitutionen herzustellen."
+                },
+                {
+                  "id": "sum_g",
+                  "label": "g",
+                  "content": "g) Die Sprecherin kritisiert, dass der Fokus auf symbolische Anerkennung materielle Umverteilung verdrängt, ohne die Lebensbedingungen marginalisierter Gruppen wirklich zu verbessern."
+                },
+                {
+                  "id": "sum_h",
+                  "label": "h",
+                  "content": "h) Der Sprecher vertritt die Position, dass kommunitaristische Identitätskonzepte philosophisch überzeugender sind als das liberale Bild des souveränen Individuums."
+                },
+                {
+                  "id": "sum_i",
+                  "label": "i",
+                  "content": "i) Die Sprecherin fordert, dass Gerechtigkeitstheorien sowohl Anerkennung als auch materielle Umverteilung einschließen müssen, um vollständig zu sein."
+                },
+                {
+                  "id": "sum_j",
+                  "label": "j",
+                  "content": "j) Der Sprecher sieht in der Debatte um Identitätspolitik eine Chance, universelle ethische Prinzipien neu zu verankern, statt sie gegen Partikularinteressen auszuspielen."
+                }
+              ],
+              "correctAnswer": "b",
+              "explanation": "Dr. Wegener argumentiert: 'Wenn wir Menschen primär als Vertreter von Gruppen adressieren, schwächen wir das Band, das demokratische Gesellschaften zusammenhält — nämlich die geteilte Bürgerschaft. Identitätspolitik, so gemeint, trägt das Potenzial in sich, die Solidarität zu unterhöhlen, auf die eine liberale Demokratie angewiesen ist.' Das entspricht Zusammenfassung b)."
+            },
+            {
+              "id": "C1_m09_HV1_q3",
+              "type": "matching",
+              "questionText": "Sprecher 3: Frau Dr. Osei, Philosophin aus Accra",
+              "matchingSources": [
+                {
+                  "id": "sum_a",
+                  "label": "a",
+                  "content": "a) Die Sprecherin argumentiert, dass Menschenwürde nur dann effektiv geschützt werden kann, wenn strukturelle Ungleichheiten aktiv beseitigt werden, nicht nur formal anerkannt."
+                },
+                {
+                  "id": "sum_b",
+                  "label": "b",
+                  "content": "b) Der Sprecher warnt, dass Identitätspolitik den gesellschaftlichen Zusammenhalt gefährdet, indem sie Menschen primär als Mitglieder von Gruppen statt als Individuen adressiert."
+                },
+                {
+                  "id": "sum_c",
+                  "label": "c",
+                  "content": "c) Die Sprecherin erklärt, dass epistemische Ungerechtigkeit marginalisierte Gruppen nicht nur materiell, sondern auch kognitiv und kommunikativ benachteiligt."
+                },
+                {
+                  "id": "sum_d",
+                  "label": "d",
+                  "content": "d) Der Sprecher betont, dass Verantwortung für strukturelle Ungleichheit auch ohne individuelle Diskriminierungsabsicht existiert."
+                },
+                {
+                  "id": "sum_e",
+                  "label": "e",
+                  "content": "e) Die Sprecherin sieht in der kulturellen Aneignung ein Machtverhältnis, das symbolische Verletzungen verursacht, unabhängig von der Intention der Aneignenden."
+                },
+                {
+                  "id": "sum_f",
+                  "label": "f",
+                  "content": "f) Der Sprecher hält Trigger-Warnungen für eine notwendige Maßnahme, um Inklusion in Bildungsinstitutionen herzustellen."
+                },
+                {
+                  "id": "sum_g",
+                  "label": "g",
+                  "content": "g) Die Sprecherin kritisiert, dass der Fokus auf symbolische Anerkennung materielle Umverteilung verdrängt, ohne die Lebensbedingungen marginalisierter Gruppen wirklich zu verbessern."
+                },
+                {
+                  "id": "sum_h",
+                  "label": "h",
+                  "content": "h) Der Sprecher vertritt die Position, dass kommunitaristische Identitätskonzepte philosophisch überzeugender sind als das liberale Bild des souveränen Individuums."
+                },
+                {
+                  "id": "sum_i",
+                  "label": "i",
+                  "content": "i) Die Sprecherin fordert, dass Gerechtigkeitstheorien sowohl Anerkennung als auch materielle Umverteilung einschließen müssen, um vollständig zu sein."
+                },
+                {
+                  "id": "sum_j",
+                  "label": "j",
+                  "content": "j) Der Sprecher sieht in der Debatte um Identitätspolitik eine Chance, universelle ethische Prinzipien neu zu verankern, statt sie gegen Partikularinteressen auszuspielen."
+                }
+              ],
+              "correctAnswer": "c",
+              "explanation": "Dr. Osei erklärt: 'Es reicht nicht, materielle Ungleichheit zu benennen. Wer für seine eigene Erfahrung keine anerkannten Begriffe findet, ist auch in seiner Fähigkeit eingeschränkt, Unrecht überhaupt zu kommunizieren. Das ist eine kognitive Ungerechtigkeit, die neben die materielle tritt.' Das entspricht Zusammenfassung c)."
+            },
+            {
+              "id": "C1_m09_HV1_q4",
+              "type": "matching",
+              "questionText": "Sprecher 4: Herr Prof. Krüger, Rechtsphilosoph aus Wien",
+              "matchingSources": [
+                {
+                  "id": "sum_a",
+                  "label": "a",
+                  "content": "a) Die Sprecherin argumentiert, dass Menschenwürde nur dann effektiv geschützt werden kann, wenn strukturelle Ungleichheiten aktiv beseitigt werden, nicht nur formal anerkannt."
+                },
+                {
+                  "id": "sum_b",
+                  "label": "b",
+                  "content": "b) Der Sprecher warnt, dass Identitätspolitik den gesellschaftlichen Zusammenhalt gefährdet, indem sie Menschen primär als Mitglieder von Gruppen statt als Individuen adressiert."
+                },
+                {
+                  "id": "sum_c",
+                  "label": "c",
+                  "content": "c) Die Sprecherin erklärt, dass epistemische Ungerechtigkeit marginalisierte Gruppen nicht nur materiell, sondern auch kognitiv und kommunikativ benachteiligt."
+                },
+                {
+                  "id": "sum_d",
+                  "label": "d",
+                  "content": "d) Der Sprecher betont, dass Verantwortung für strukturelle Ungleichheit auch ohne individuelle Diskriminierungsabsicht existiert."
+                },
+                {
+                  "id": "sum_e",
+                  "label": "e",
+                  "content": "e) Die Sprecherin sieht in der kulturellen Aneignung ein Machtverhältnis, das symbolische Verletzungen verursacht, unabhängig von der Intention der Aneignenden."
+                },
+                {
+                  "id": "sum_f",
+                  "label": "f",
+                  "content": "f) Der Sprecher hält Trigger-Warnungen für eine notwendige Maßnahme, um Inklusion in Bildungsinstitutionen herzustellen."
+                },
+                {
+                  "id": "sum_g",
+                  "label": "g",
+                  "content": "g) Die Sprecherin kritisiert, dass der Fokus auf symbolische Anerkennung materielle Umverteilung verdrängt, ohne die Lebensbedingungen marginalisierter Gruppen wirklich zu verbessern."
+                },
+                {
+                  "id": "sum_h",
+                  "label": "h",
+                  "content": "h) Der Sprecher vertritt die Position, dass kommunitaristische Identitätskonzepte philosophisch überzeugender sind als das liberale Bild des souveränen Individuums."
+                },
+                {
+                  "id": "sum_i",
+                  "label": "i",
+                  "content": "i) Die Sprecherin fordert, dass Gerechtigkeitstheorien sowohl Anerkennung als auch materielle Umverteilung einschließen müssen, um vollständig zu sein."
+                },
+                {
+                  "id": "sum_j",
+                  "label": "j",
+                  "content": "j) Der Sprecher sieht in der Debatte um Identitätspolitik eine Chance, universelle ethische Prinzipien neu zu verankern, statt sie gegen Partikularinteressen auszuspielen."
+                }
+              ],
+              "correctAnswer": "d",
+              "explanation": "Prof. Krüger betont: 'Iris Marion Young hat gezeigt: Strukturelle Ungerechtigkeit entsteht oft ohne böse Absicht. Niemand will marginalisieren — und trotzdem entsteht Marginalisierung. Das bedeutet, dass Verantwortung zur Strukturveränderung besteht, auch wo keine individuelle Schuld nachweisbar ist.' Das entspricht Zusammenfassung d)."
+            },
+            {
+              "id": "C1_m09_HV1_q5",
+              "type": "matching",
+              "questionText": "Sprecher 5: Frau Nakamura, Kulturtheoretikerin aus Tokio",
+              "matchingSources": [
+                {
+                  "id": "sum_a",
+                  "label": "a",
+                  "content": "a) Die Sprecherin argumentiert, dass Menschenwürde nur dann effektiv geschützt werden kann, wenn strukturelle Ungleichheiten aktiv beseitigt werden, nicht nur formal anerkannt."
+                },
+                {
+                  "id": "sum_b",
+                  "label": "b",
+                  "content": "b) Der Sprecher warnt, dass Identitätspolitik den gesellschaftlichen Zusammenhalt gefährdet, indem sie Menschen primär als Mitglieder von Gruppen statt als Individuen adressiert."
+                },
+                {
+                  "id": "sum_c",
+                  "label": "c",
+                  "content": "c) Die Sprecherin erklärt, dass epistemische Ungerechtigkeit marginalisierte Gruppen nicht nur materiell, sondern auch kognitiv und kommunikativ benachteiligt."
+                },
+                {
+                  "id": "sum_d",
+                  "label": "d",
+                  "content": "d) Der Sprecher betont, dass Verantwortung für strukturelle Ungleichheit auch ohne individuelle Diskriminierungsabsicht existiert."
+                },
+                {
+                  "id": "sum_e",
+                  "label": "e",
+                  "content": "e) Die Sprecherin sieht in der kulturellen Aneignung ein Machtverhältnis, das symbolische Verletzungen verursacht, unabhängig von der Intention der Aneignenden."
+                },
+                {
+                  "id": "sum_f",
+                  "label": "f",
+                  "content": "f) Der Sprecher hält Trigger-Warnungen für eine notwendige Maßnahme, um Inklusion in Bildungsinstitutionen herzustellen."
+                },
+                {
+                  "id": "sum_g",
+                  "label": "g",
+                  "content": "g) Die Sprecherin kritisiert, dass der Fokus auf symbolische Anerkennung materielle Umverteilung verdrängt, ohne die Lebensbedingungen marginalisierter Gruppen wirklich zu verbessern."
+                },
+                {
+                  "id": "sum_h",
+                  "label": "h",
+                  "content": "h) Der Sprecher vertritt die Position, dass kommunitaristische Identitätskonzepte philosophisch überzeugender sind als das liberale Bild des souveränen Individuums."
+                },
+                {
+                  "id": "sum_i",
+                  "label": "i",
+                  "content": "i) Die Sprecherin fordert, dass Gerechtigkeitstheorien sowohl Anerkennung als auch materielle Umverteilung einschließen müssen, um vollständig zu sein."
+                },
+                {
+                  "id": "sum_j",
+                  "label": "j",
+                  "content": "j) Der Sprecher sieht in der Debatte um Identitätspolitik eine Chance, universelle ethische Prinzipien neu zu verankern, statt sie gegen Partikularinteressen auszuspielen."
+                }
+              ],
+              "correctAnswer": "e",
+              "explanation": "Frau Nakamura erklärt: 'Ich sage nicht, dass der Künstler böse Absichten hat. Aber ich sage: Es spielt keine Rolle. Wenn die Übernahme eines Symbols in einem gesellschaftlichen Kontext stattfindet, der von Machtverhältnissen geprägt ist, verursacht sie eine Verletzung — unabhängig davon, was die aneignende Person dabei dachte.' Das entspricht Zusammenfassung e)."
+            },
+            {
+              "id": "C1_m09_HV1_q6",
+              "type": "matching",
+              "questionText": "Sprecher 6: Herr Baumann, Pädagoge aus Berlin",
+              "matchingSources": [
+                {
+                  "id": "sum_a",
+                  "label": "a",
+                  "content": "a) Die Sprecherin argumentiert, dass Menschenwürde nur dann effektiv geschützt werden kann, wenn strukturelle Ungleichheiten aktiv beseitigt werden, nicht nur formal anerkannt."
+                },
+                {
+                  "id": "sum_b",
+                  "label": "b",
+                  "content": "b) Der Sprecher warnt, dass Identitätspolitik den gesellschaftlichen Zusammenhalt gefährdet, indem sie Menschen primär als Mitglieder von Gruppen statt als Individuen adressiert."
+                },
+                {
+                  "id": "sum_c",
+                  "label": "c",
+                  "content": "c) Die Sprecherin erklärt, dass epistemische Ungerechtigkeit marginalisierte Gruppen nicht nur materiell, sondern auch kognitiv und kommunikativ benachteiligt."
+                },
+                {
+                  "id": "sum_d",
+                  "label": "d",
+                  "content": "d) Der Sprecher betont, dass Verantwortung für strukturelle Ungleichheit auch ohne individuelle Diskriminierungsabsicht existiert."
+                },
+                {
+                  "id": "sum_e",
+                  "label": "e",
+                  "content": "e) Die Sprecherin sieht in der kulturellen Aneignung ein Machtverhältnis, das symbolische Verletzungen verursacht, unabhängig von der Intention der Aneignenden."
+                },
+                {
+                  "id": "sum_f",
+                  "label": "f",
+                  "content": "f) Der Sprecher hält Trigger-Warnungen für eine notwendige Maßnahme, um Inklusion in Bildungsinstitutionen herzustellen."
+                },
+                {
+                  "id": "sum_g",
+                  "label": "g",
+                  "content": "g) Die Sprecherin kritisiert, dass der Fokus auf symbolische Anerkennung materielle Umverteilung verdrängt, ohne die Lebensbedingungen marginalisierter Gruppen wirklich zu verbessern."
+                },
+                {
+                  "id": "sum_h",
+                  "label": "h",
+                  "content": "h) Der Sprecher vertritt die Position, dass kommunitaristische Identitätskonzepte philosophisch überzeugender sind als das liberale Bild des souveränen Individuums."
+                },
+                {
+                  "id": "sum_i",
+                  "label": "i",
+                  "content": "i) Die Sprecherin fordert, dass Gerechtigkeitstheorien sowohl Anerkennung als auch materielle Umverteilung einschließen müssen, um vollständig zu sein."
+                },
+                {
+                  "id": "sum_j",
+                  "label": "j",
+                  "content": "j) Der Sprecher sieht in der Debatte um Identitätspolitik eine Chance, universelle ethische Prinzipien neu zu verankern, statt sie gegen Partikularinteressen auszuspielen."
+                }
+              ],
+              "correctAnswer": "f",
+              "explanation": "Herr Baumann argumentiert: 'Trigger-Warnungen sind nicht Zeichen von Schwäche oder Überempfindlichkeit. Sie sind ein Instrument der Inklusion: Wer traumatische Erfahrungen gemacht hat, braucht die Möglichkeit, sich vorzubereiten, bevor er mit verletzenden Inhalten konfrontiert wird. Das ist pädagogische Verantwortung.' Das entspricht Zusammenfassung f). Distraktor d) ist inhaltlich nahe, fokussiert aber auf strukturelle Verantwortung allgemein."
+            },
+            {
+              "id": "C1_m09_HV1_q7",
+              "type": "matching",
+              "questionText": "Sprecher 7: Frau Diallo, Soziologin aus Dakar",
+              "matchingSources": [
+                {
+                  "id": "sum_a",
+                  "label": "a",
+                  "content": "a) Die Sprecherin argumentiert, dass Menschenwürde nur dann effektiv geschützt werden kann, wenn strukturelle Ungleichheiten aktiv beseitigt werden, nicht nur formal anerkannt."
+                },
+                {
+                  "id": "sum_b",
+                  "label": "b",
+                  "content": "b) Der Sprecher warnt, dass Identitätspolitik den gesellschaftlichen Zusammenhalt gefährdet, indem sie Menschen primär als Mitglieder von Gruppen statt als Individuen adressiert."
+                },
+                {
+                  "id": "sum_c",
+                  "label": "c",
+                  "content": "c) Die Sprecherin erklärt, dass epistemische Ungerechtigkeit marginalisierte Gruppen nicht nur materiell, sondern auch kognitiv und kommunikativ benachteiligt."
+                },
+                {
+                  "id": "sum_d",
+                  "label": "d",
+                  "content": "d) Der Sprecher betont, dass Verantwortung für strukturelle Ungleichheit auch ohne individuelle Diskriminierungsabsicht existiert."
+                },
+                {
+                  "id": "sum_e",
+                  "label": "e",
+                  "content": "e) Die Sprecherin sieht in der kulturellen Aneignung ein Machtverhältnis, das symbolische Verletzungen verursacht, unabhängig von der Intention der Aneignenden."
+                },
+                {
+                  "id": "sum_f",
+                  "label": "f",
+                  "content": "f) Der Sprecher hält Trigger-Warnungen für eine notwendige Maßnahme, um Inklusion in Bildungsinstitutionen herzustellen."
+                },
+                {
+                  "id": "sum_g",
+                  "label": "g",
+                  "content": "g) Die Sprecherin kritisiert, dass der Fokus auf symbolische Anerkennung materielle Umverteilung verdrängt, ohne die Lebensbedingungen marginalisierter Gruppen wirklich zu verbessern."
+                },
+                {
+                  "id": "sum_h",
+                  "label": "h",
+                  "content": "h) Der Sprecher vertritt die Position, dass kommunitaristische Identitätskonzepte philosophisch überzeugender sind als das liberale Bild des souveränen Individuums."
+                },
+                {
+                  "id": "sum_i",
+                  "label": "i",
+                  "content": "i) Die Sprecherin fordert, dass Gerechtigkeitstheorien sowohl Anerkennung als auch materielle Umverteilung einschließen müssen, um vollständig zu sein."
+                },
+                {
+                  "id": "sum_j",
+                  "label": "j",
+                  "content": "j) Der Sprecher sieht in der Debatte um Identitätspolitik eine Chance, universelle ethische Prinzipien neu zu verankern, statt sie gegen Partikularinteressen auszuspielen."
+                }
+              ],
+              "correctAnswer": "g",
+              "explanation": "Frau Diallo kritisiert: 'Wir reden über Sprache, über Repräsentation, über Symbole — und das ist nicht falsch. Aber wir reden zu wenig über Mieten, über Löhne, über Bildungszugang. Symbolische Anerkennung ohne materielle Veränderung lässt die Leute dort, wo sie sind — nur mit einem schöneren Etikett.' Das entspricht Zusammenfassung g)."
+            },
+            {
+              "id": "C1_m09_HV1_q8",
+              "type": "matching",
+              "questionText": "Sprecher 8: Herr Prof. Steiner, Sozialphilosoph aus Zürich",
+              "matchingSources": [
+                {
+                  "id": "sum_a",
+                  "label": "a",
+                  "content": "a) Die Sprecherin argumentiert, dass Menschenwürde nur dann effektiv geschützt werden kann, wenn strukturelle Ungleichheiten aktiv beseitigt werden, nicht nur formal anerkannt."
+                },
+                {
+                  "id": "sum_b",
+                  "label": "b",
+                  "content": "b) Der Sprecher warnt, dass Identitätspolitik den gesellschaftlichen Zusammenhalt gefährdet, indem sie Menschen primär als Mitglieder von Gruppen statt als Individuen adressiert."
+                },
+                {
+                  "id": "sum_c",
+                  "label": "c",
+                  "content": "c) Die Sprecherin erklärt, dass epistemische Ungerechtigkeit marginalisierte Gruppen nicht nur materiell, sondern auch kognitiv und kommunikativ benachteiligt."
+                },
+                {
+                  "id": "sum_d",
+                  "label": "d",
+                  "content": "d) Der Sprecher betont, dass Verantwortung für strukturelle Ungleichheit auch ohne individuelle Diskriminierungsabsicht existiert."
+                },
+                {
+                  "id": "sum_e",
+                  "label": "e",
+                  "content": "e) Die Sprecherin sieht in der kulturellen Aneignung ein Machtverhältnis, das symbolische Verletzungen verursacht, unabhängig von der Intention der Aneignenden."
+                },
+                {
+                  "id": "sum_f",
+                  "label": "f",
+                  "content": "f) Der Sprecher hält Trigger-Warnungen für eine notwendige Maßnahme, um Inklusion in Bildungsinstitutionen herzustellen."
+                },
+                {
+                  "id": "sum_g",
+                  "label": "g",
+                  "content": "g) Die Sprecherin kritisiert, dass der Fokus auf symbolische Anerkennung materielle Umverteilung verdrängt, ohne die Lebensbedingungen marginalisierter Gruppen wirklich zu verbessern."
+                },
+                {
+                  "id": "sum_h",
+                  "label": "h",
+                  "content": "h) Der Sprecher vertritt die Position, dass kommunitaristische Identitätskonzepte philosophisch überzeugender sind als das liberale Bild des souveränen Individuums."
+                },
+                {
+                  "id": "sum_i",
+                  "label": "i",
+                  "content": "i) Die Sprecherin fordert, dass Gerechtigkeitstheorien sowohl Anerkennung als auch materielle Umverteilung einschließen müssen, um vollständig zu sein."
+                },
+                {
+                  "id": "sum_j",
+                  "label": "j",
+                  "content": "j) Der Sprecher sieht in der Debatte um Identitätspolitik eine Chance, universelle ethische Prinzipien neu zu verankern, statt sie gegen Partikularinteressen auszuspielen."
+                }
+              ],
+              "correctAnswer": "j",
+              "explanation": "Prof. Steiner erklärt: 'Identitätspolitik muss kein Gegensatz zur universellen Ethik sein. Wenn wir die Debatte richtig führen, kann sie helfen, universelle Prinzipien — Würde, Gerechtigkeit, Anerkennung — konkreter und robuster zu verankern, statt sie gegen Partikularinteressen auszuspielen.' Das entspricht Zusammenfassung j). Distraktoren h) und i) sind nahe, aber h) fokussiert auf kommunitaristische Theorie und i) auf Gerechtigkeitstheorien, nicht auf die Neubegründung universeller Prinzipien."
+            }
+          ]
+        },
+        {
+          "partNumber": 2,
+          "instructions": "Sie hören ein Interview mit Prof. Dr. Elke Steinmann zum Thema Identitätspolitik und Ethik. Lesen Sie zuerst die zehn Aufgaben. Was ist richtig? Kreuzen Sie an: a, b oder c. Sie hören das Interview nur einmal.",
+          "instructionsTranslation": "You will hear an interview with Prof. Dr. Elke Steinmann on the topic of identity politics and ethics. First read the ten tasks. What is correct? Mark a, b, or c. You will hear the interview only once.",
+          "audioFile": "assets/audio/C1/mock09/listening_part2.mp3",
+          "playCount": 1,
+          "audioTranscript": "Moderator: Willkommen, Frau Prof. Steinmann. Sie forschen zur politischen Philosophie der Identität. Was ist für Sie das grundlegende Missverständnis in der aktuellen Identitätsdebatte?\n\nProf. Steinmann: Das grundlegende Missverständnis ist, dass Identitätspolitik und universalistische Ethik einander ausschließen. Das tun sie nicht — zumindest nicht notwendigerweise. Identitätspolitik auf ihrer emanzipatorischen Seite kämpft für die Verwirklichung universeller Prinzipien — Würde, Gleichheit, Teilhabe — für jene, denen diese Verwirklichung strukturell verweigert wird. Das ist keine Absage an den Universalismus, sondern seine Radikalisierung.\n\nModerator: Trotzdem gibt es ernsthafte Kritik: Identitätspolitik teile die Gesellschaft in Gruppen und untergrabe den Zusammenhalt.\n\nProf. Steinmann: Diese Kritik hat einen realen Kern. Es gibt Spielarten von Identitätspolitik, die tatsächlich zu einer Schließung von Gruppen führen — die primär Abgrenzung statt Dialog betonen. Ich nenne das essenzialisierte Identitätspolitik: Sie behandelt Gruppen als homogen und unveränderlich und bindet Glaubwürdigkeit an Herkunftsmerkmale. Das ist philosophisch problematisch und politisch kontraproduktiv.\n\nModerator: Wie unterscheiden Sie das von einer produktiven Form?\n\nProf. Steinmann: Eine produktive Identitätspolitik benennt strukturelle Benachteiligung, ohne die Betroffenen auf diese Benachteiligung zu reduzieren. Sie kämpft für Bedingungen, unter denen Individuen die Freiheit haben, ihre Identität selbst zu gestalten — nicht für die Festschreibung kollektiver Identitäten.\n\nModerator: Was hat das mit Menschenwürde zu tun?\n\nProf. Steinmann: Alles. Würde ist kein abstraktes Konzept — sie ist ein gelebtes Verhältnis. Wer strukturell aus Anerkennung ausgeschlossen ist, erleidet eine Würdeverletzung, auch wenn kein Gesetz formell verletzt wurde. Das ist der Punkt, den viele in der Debatte nicht hören wollen: Legale Strukturen können würdeverletzend sein.\n\nModerator: Was bedeutet das für die Verantwortungsethik?\n\nProf. Steinmann: Es bedeutet, dass Verantwortung nicht bei der Frage endet, ob ich jemanden absichtlich diskriminiert habe. Wenn ich von einer Struktur profitiere, die andere benachteiligt, trage ich eine Verantwortung, auf ihre Veränderung hinzuwirken. Das ist unbequem — aber es ist die logische Konsequenz eines ernst genommenen Würdebegriffs.\n\nModerator: Wie stehen Sie zur Kritik, dass Identitätspolitik materiellen Forderungen schadet?\n\nProf. Steinmann: Diese Kritik ist zum Teil berechtigt — wenn symbolische Anerkennung tatsächlich als Ersatz für materielle Gerechtigkeit präsentiert wird. Aber das ist keine notwendige Konsequenz von Identitätspolitik, sondern eine mögliche Fehldeutung. Nancy Fraser hat das überzeugend analysiert: Anerkennung und Umverteilung sind keine Alternativen, sondern komplementäre Dimensionen von Gerechtigkeit.\n\nModerator: Welche Rolle spielt die Sprache in dieser Debatte?\n\nProf. Steinmann: Eine zentrale. Wer keine Sprache für seine Erfahrung hat, kann diese Erfahrung nicht artikulieren — weder privat noch öffentlich. Miranda Frickers Begriff der hermeneutischen Ungerechtigkeit beschreibt genau das. Sprachpolitik ist deshalb keine Spielerei, sondern ein echter Gerechtigkeitskampf.\n\nModerator: Haben Sie ein Beispiel?\n\nProf. Steinmann: Ja. Bevor der Begriff 'sexuelle Belästigung' geprägt wurde, hatten viele Frauen keine gesellschaftlich anerkannte Sprache für das, was ihnen passiert war. Sie erlebten die Erfahrung, aber sie konnten sie nicht in eine Form bringen, die Gehör fand. Der Begriff hat nicht das Problem erzeugt — er hat es sichtbar gemacht.\n\nModerator: Was wäre Ihr wichtigstes Desiderat für die philosophische Debatte?\n\nProf. Steinmann: Dass wir aufhören, Universalismus und Partikularismus als feindliche Gegensätze zu behandeln. Die produktivste Frage ist nicht: 'Universalismus oder Identitätspolitik?' sondern: 'Welche universellen Prinzipien werden durch welche partikularen Strukturen verletzt — und wie verändern wir diese Strukturen?' Das ist die Frage, die zählt.",
+          "questions": [
+            {
+              "id": "C1_m09_HV2_q1",
+              "type": "mcq",
+              "questionText": "Was nennt Prof. Steinmann als das grundlegende Missverständnis der Identitätsdebatte?",
+              "options": [
+                "a) Die Verwechslung von kultureller Aneignung mit kreativer Freiheit.",
+                "b) Die Annahme, dass Identitätspolitik und universalistische Ethik einander ausschließen.",
+                "c) Die Unterschätzung materieller gegenüber symbolischen Gerechtigkeitsfragen."
+              ],
+              "correctAnswer": "b",
+              "explanation": "Prof. Steinmann erklärt explizit: 'Das grundlegende Missverständnis ist, dass Identitätspolitik und universalistische Ethik einander ausschließen.' a) und c) werden nicht als Kernmissverständnis bezeichnet."
+            },
+            {
+              "id": "C1_m09_HV2_q2",
+              "type": "mcq",
+              "questionText": "Was bezeichnet Prof. Steinmann als 'essenzialisierte Identitätspolitik'?",
+              "options": [
+                "a) Eine Form, die Gruppen als homogen und unveränderlich behandelt.",
+                "b) Eine Strömung, die ausschließlich materielle Umverteilung fordert.",
+                "c) Eine Praxis, die kulturelle Symbole bewusst politisiert."
+              ],
+              "correctAnswer": "a",
+              "explanation": "Prof. Steinmann beschreibt essenzialisierte Identitätspolitik als eine Form, die 'Gruppen als homogen und unveränderlich behandelt und Glaubwürdigkeit an Herkunftsmerkmale bindet'."
+            },
+            {
+              "id": "C1_m09_HV2_q3",
+              "type": "mcq",
+              "questionText": "Wie definiert Prof. Steinmann eine 'produktive' Identitätspolitik?",
+              "options": [
+                "a) Eine Politik, die kollektive Gruppenidentitäten rechtlich festschreibt.",
+                "b) Eine Politik, die für Bedingungen kämpft, unter denen Individuen ihre Identität selbst gestalten können.",
+                "c) Eine Politik, die ausschließlich auf sprachliche Inklusion setzt."
+              ],
+              "correctAnswer": "b",
+              "explanation": "Prof. Steinmann erklärt: 'Sie kämpft für Bedingungen, unter denen Individuen die Freiheit haben, ihre Identität selbst zu gestalten — nicht für die Festschreibung kollektiver Identitäten.'"
+            },
+            {
+              "id": "C1_m09_HV2_q4",
+              "type": "mcq",
+              "questionText": "Welche Position vertritt Prof. Steinmann zum Verhältnis legaler Strukturen und Menschenwürde?",
+              "options": [
+                "a) Legale Strukturen verletzen niemals die Menschenwürde, solange sie demokratisch legitimiert sind.",
+                "b) Legale Strukturen können würdeverletzend sein, ohne formell gegen Gesetze zu verstoßen.",
+                "c) Würde ist ein rein abstraktes Konzept ohne praktische rechtliche Relevanz."
+              ],
+              "correctAnswer": "b",
+              "explanation": "Prof. Steinmann erklärt: 'Legale Strukturen können würdeverletzend sein' — eine Verletzung der Menschenwürde setzt also keinen formellen Gesetzesverstoß voraus."
+            },
+            {
+              "id": "C1_m09_HV2_q5",
+              "type": "mcq",
+              "questionText": "Wie beschreibt Prof. Steinmann ihre Auffassung verantwortungsethischer Konsequenz?",
+              "options": [
+                "a) Verantwortung endet mit dem Nachweis fehlender Diskriminierungsabsicht.",
+                "b) Wer von ungerechten Strukturen profitiert, trägt eine Verantwortung zu ihrer Veränderung.",
+                "c) Verantwortungsethik gilt nur für staatliche Akteure, nicht für Privatpersonen."
+              ],
+              "correctAnswer": "b",
+              "explanation": "Prof. Steinmann erklärt: 'Wenn ich von einer Struktur profitiere, die andere benachteiligt, trage ich eine Verantwortung, auf ihre Veränderung hinzuwirken.'"
+            },
+            {
+              "id": "C1_m09_HV2_q6",
+              "type": "mcq",
+              "questionText": "Welche Philosophin nennt Prof. Steinmann im Zusammenhang mit der These, dass Anerkennung und Umverteilung komplementär sind?",
+              "options": [
+                "a) Martha Nussbaum",
+                "b) Miranda Fricker",
+                "c) Nancy Fraser"
+              ],
+              "correctAnswer": "c",
+              "explanation": "Prof. Steinmann nennt 'Nancy Fraser' als diejenige, die die Komplementarität von Anerkennung und Umverteilung 'überzeugend analysiert' hat. Miranda Fricker wird für hermeneutische Ungerechtigkeit zitiert."
+            },
+            {
+              "id": "C1_m09_HV2_q7",
+              "type": "mcq",
+              "questionText": "Welchen Begriff verwendet Prof. Steinmann, wenn sie die sprachliche Dimension von Ungerechtigkeit erläutert?",
+              "options": [
+                "a) Testimoniale Ungerechtigkeit",
+                "b) Hermeneutische Ungerechtigkeit",
+                "c) Strukturelle Diskriminierung"
+              ],
+              "correctAnswer": "b",
+              "explanation": "Prof. Steinmann nennt explizit 'Miranda Frickers Begriff der hermeneutischen Ungerechtigkeit' als das Konzept, das beschreibt, was passiert, wenn jemand keine Sprache für seine Erfahrung hat."
+            },
+            {
+              "id": "C1_m09_HV2_q8",
+              "type": "mcq",
+              "questionText": "Welches Beispiel gibt Prof. Steinmann für hermeneutische Ungerechtigkeit?",
+              "options": [
+                "a) Die Benin-Bronzen-Restitutionsdebatte.",
+                "b) Das Fehlen eines gesellschaftlich anerkannten Begriffs für sexuelle Belästigung.",
+                "c) Die Einführung von Trigger-Warnungen an Universitäten."
+              ],
+              "correctAnswer": "b",
+              "explanation": "Prof. Steinmann erklärt, dass Frauen 'keine gesellschaftlich anerkannte Sprache für das, was ihnen passiert war' hatten, bevor der Begriff 'sexuelle Belästigung' geprägt wurde — ein klassisches Beispiel hermeneutischer Ungerechtigkeit."
+            },
+            {
+              "id": "C1_m09_HV2_q9",
+              "type": "mcq",
+              "questionText": "Was ist laut Prof. Steinmann die produktivste Frage in der Identitätsdebatte?",
+              "options": [
+                "a) Ob universalistische oder partikularistische Ethik grundlegend ist.",
+                "b) Welche universellen Prinzipien durch welche Strukturen verletzt werden und wie diese zu verändern sind.",
+                "c) Wie Gruppenidentitäten rechtlich geschützt werden können."
+              ],
+              "correctAnswer": "b",
+              "explanation": "Prof. Steinmann formuliert die produktivste Frage als: 'Welche universellen Prinzipien werden durch welche partikularen Strukturen verletzt — und wie verändern wir diese Strukturen?'"
+            },
+            {
+              "id": "C1_m09_HV2_q10",
+              "type": "mcq",
+              "questionText": "Warum hält Prof. Steinmann die Kritik, Identitätspolitik schade materiellen Forderungen, nur für 'zum Teil berechtigt'?",
+              "options": [
+                "a) Weil materielle Fragen grundsätzlich wichtiger sind als Anerkennungsfragen.",
+                "b) Weil das Gegeneinanderausspielen von Anerkennung und Umverteilung eine mögliche Fehldeutung, aber keine notwendige Konsequenz ist.",
+                "c) Weil Identitätspolitik immer zuerst auf symbolische Ziele setzt, bevor materielle folgen können."
+              ],
+              "correctAnswer": "b",
+              "explanation": "Prof. Steinmann erklärt: 'Das ist keine notwendige Konsequenz von Identitätspolitik, sondern eine mögliche Fehldeutung.' Sie nutzt Nancy Fraser, um zu zeigen, dass Anerkennung und Umverteilung komplementär sind."
+            }
+          ]
+        },
+        {
+          "partNumber": 3,
+          "instructions": "Sie hören einen akademischen Vortrag zum Thema Philosophie der Identitätspolitik. Lesen Sie zuerst die zehn Fragen in Ihrem Testheft. Was ist richtig? Kreuzen Sie an: a, b oder c. Sie hören den Vortrag zweimal.",
+          "instructionsTranslation": "You will hear an academic lecture on the philosophy of identity politics. First read the ten questions in your test booklet. What is correct? Mark a, b, or c. You will hear the lecture twice.",
+          "audioFile": "assets/audio/C1/mock09/listening_part3.mp3",
+          "playCount": 2,
+          "questions": [
+            {
+              "id": "C1_m09_HV3_q1",
+              "type": "mcq",
+              "questionText": "Worin liegt laut Vortrag der Ursprung des Begriffs 'Identitätspolitik'?",
+              "options": [
+                "a) In der deutschen Arbeiterbewegung des 19. Jahrhunderts.",
+                "b) In der US-amerikanischen Bürgerrechtsbewegung.",
+                "c) Im europäischen Kommunitarismus der 1980er Jahre."
+              ],
+              "correctAnswer": "b",
+              "explanation": "Der Vortrag erklärt: 'Ursprünglich in der US-amerikanischen Bürgerrechtsbewegung geprägt, bezeichnete er den Rückgriff auf geteilte Erfahrungen als Grundlage kollektiven politischen Handelns.' a) und c) werden nicht als Ursprung genannt."
+            },
+            {
+              "id": "C1_m09_HV3_q2",
+              "type": "mcq",
+              "questionText": "Welches philosophische Konzept assoziiert der Vortrag mit Rawls' Gerechtigkeitstheorie?",
+              "options": [
+                "a) Das Konzept der sozialen Verbindungsverantwortung.",
+                "b) Das Konzept des 'Schleiers des Nichtwissens'.",
+                "c) Das Konzept der hermeneutischen Ungerechtigkeit."
+              ],
+              "correctAnswer": "b",
+              "explanation": "Der Vortrag erklärt, dass Rawls Gerechtigkeitsprinzipien unter dem 'berühmten Konzept des Schleiers des Nichtwissens' entwickelte."
+            },
+            {
+              "id": "C1_m09_HV3_q3",
+              "type": "mcq",
+              "questionText": "Welche zwei Typen epistemischer Ungerechtigkeit unterscheidet Fricker laut Vortrag?",
+              "options": [
+                "a) Materielle und symbolische Ungerechtigkeit.",
+                "b) Testimoniale und hermeneutische Ungerechtigkeit.",
+                "c) Rechtliche und soziale Ungerechtigkeit."
+              ],
+              "correctAnswer": "b",
+              "explanation": "Der Vortrag nennt explizit 'testimoniale Ungerechtigkeit' und 'hermeneutische Ungerechtigkeit' als Frickers zwei Typen."
+            },
+            {
+              "id": "C1_m09_HV3_q4",
+              "type": "mcq",
+              "questionText": "In welcher Anerkennungssphäre ist Marginalisierung laut Honneths Theorie am ehesten zu verorten?",
+              "options": [
+                "a) In der Sphäre der Liebe.",
+                "b) In der Sphäre des Rechts und der Solidarität.",
+                "c) In der Sphäre religiöser Zugehörigkeit."
+              ],
+              "correctAnswer": "b",
+              "explanation": "Der Vortrag erklärt: 'Marginalisierung im politischen Sinne bezeichnet zumeist den Ausschluss aus der zweiten oder dritten Sphäre — also fehlende rechtliche Gleichstellung oder mangelnde soziale Wertschätzung.' Das entspricht Recht und Solidarität."
+            },
+            {
+              "id": "C1_m09_HV3_q5",
+              "type": "mcq",
+              "questionText": "Was charakterisiert laut Vortrag hermeneutische Ungerechtigkeit?",
+              "options": [
+                "a) Der Umstand, dass einer Person weniger Glaubwürdigkeit als Zeugin zugesprochen wird.",
+                "b) Das Fehlen angemessener kollektiver Verstehensressourcen für bestimmte Erfahrungen.",
+                "c) Die Weigerung staatlicher Institutionen, Diskriminierung anzuerkennen."
+              ],
+              "correctAnswer": "b",
+              "explanation": "Der Vortrag definiert hermeneutische Ungerechtigkeit als Situation, 'wenn soziale Gruppen strukturell benachteiligt sind, weil für ihre Erfahrungen keine angemessenen kollektiven Verstehens- und Interpretationsressourcen verfügbar sind'."
+            },
+            {
+              "id": "C1_m09_HV3_q6",
+              "type": "mcq",
+              "questionText": "Was ist laut Nancy Fraser der Fehler, den Gerechtigkeitstheorien machen, die nur eine Dimension berücksichtigen?",
+              "options": [
+                "a) Sie setzen zu stark auf rechtliche Instrumente statt auf kulturellen Wandel.",
+                "b) Sie behandeln entweder Umverteilung oder Anerkennung als ausreichend, ohne beide zu integrieren.",
+                "c) Sie vernachlässigen die epistemische Dimension von Ungerechtigkeit."
+              ],
+              "correctAnswer": "b",
+              "explanation": "Der Vortrag erklärt Frasers Position: 'Fehler entstehen, wenn eine Dimension als ausreichend behandelt wird, ohne die andere zu berücksichtigen.'"
+            },
+            {
+              "id": "C1_m09_HV3_q7",
+              "type": "mcq",
+              "questionText": "Was unterscheidet laut Vortrag strukturelle Verantwortung von moralischer Schuld?",
+              "options": [
+                "a) Strukturelle Verantwortung setzt intentionales schädigendes Handeln voraus; moralische Schuld nicht.",
+                "b) Moralische Schuld setzt intentionales Handeln voraus; strukturelle Verantwortung nur das Handeln in benachteiligenden Strukturen.",
+                "c) Beide Konzepte sind laut Vortrag philosophisch äquivalent."
+              ],
+              "correctAnswer": "b",
+              "explanation": "Der Vortrag erklärt: 'Schuld setzt intentionales schädigendes Handeln voraus; strukturelle Verantwortung setzt nur voraus, dass man in strukturellen Prozessen handelt, die Benachteiligung produzieren.'"
+            },
+            {
+              "id": "C1_m09_HV3_q8",
+              "type": "mcq",
+              "questionText": "Wie bezeichnet Young ihr Modell struktureller Verantwortung?",
+              "options": [
+                "a) 'Universelles Haftungsmodell'",
+                "b) 'Social connection model'",
+                "c) 'Strukturelle Schuldzurechnung'"
+              ],
+              "correctAnswer": "b",
+              "explanation": "Der Vortrag erklärt: 'Young nennt dies das social connection model: Wer in Strukturen eingebettet ist, die Ungerechtigkeit erzeugen, trägt eine politische Verantwortung, auf ihre Transformation hinzuarbeiten.'"
+            },
+            {
+              "id": "C1_m09_HV3_q9",
+              "type": "mcq",
+              "questionText": "Wie charakterisiert der Vortragende die Begriffsverwirrung rund um 'Identitätspolitik'?",
+              "options": [
+                "a) Sie sei eine bewusste Strategie politischer Akteure, um Debatten zu blockieren.",
+                "b) Sie entstehe dadurch, dass der Begriff heute in sehr unterschiedlichen und teils gegensätzlichen Kontexten verwendet werde.",
+                "c) Sie sei ein Zeichen philosophischer Unreife des öffentlichen Diskurses."
+              ],
+              "correctAnswer": "b",
+              "explanation": "Der Vortrag erklärt: 'Heute wird er in sehr unterschiedlichen — teils gegensätzlichen — politischen Kontexten verwendet, was erhebliche Begriffsverwirrung erzeugt.'"
+            },
+            {
+              "id": "C1_m09_HV3_q10",
+              "type": "mcq",
+              "questionText": "Was ist laut Vortragendem die zentrale Forderung an diejenigen, die die Identitätsdebatte philosophisch ernst nehmen?",
+              "options": [
+                "a) Sie sollen politische Parteinahme vermeiden und sich auf abstrakte Prinzipien beschränken.",
+                "b) Sie sollen die eigene Position und die strukturellen Bedingungen, unter denen sie eingenommen wird, reflektieren.",
+                "c) Sie sollen Rawls' Theorie als Grundlage aller weiteren Überlegungen akzeptieren."
+              ],
+              "correctAnswer": "b",
+              "explanation": "Der Vortrag schließt: 'Wer sie philosophisch ernst nimmt, kommt nicht umhin, die eigene Position — und die strukturellen Bedingungen, unter denen man sie einnimmt — zu reflektieren.'"
+            }
+          ],
+          "audioTranscript": "Meine Damen und Herren, herzlich willkommen zu diesem Vortrag über die philosophischen Grundlagen der Identitätspolitik — ein Thema, das in der öffentlichen Debatte oft emotional geführt wird, aber einer nüchternen philosophischen Analyse zugänglich ist und sie auch verlangt.\n\nBeginnen wir mit einem begrifflichen Klärungsversuch. Identitätspolitik — im engeren philosophischen Sinne — bezeichnet politisches Handeln, das von gruppenspezifischen Erfahrungen ausgeht und Anerkennung, Gleichstellung oder Schutz für die betreffende Gruppe anstrebt. Der Begriff hat eine emanzipatorische Geschichte: Ursprünglich in der US-amerikanischen Bürgerrechtsbewegung geprägt, bezeichnete er den Rückgriff auf geteilte Erfahrungen als Grundlage kollektiven politischen Handelns. Heute wird er in sehr unterschiedlichen — teils gegensätzlichen — politischen Kontexten verwendet, was erhebliche Begriffsverwirrung erzeugt.\n\nDie philosophische Debatte darüber ist älter als der Begriff selbst. Sie lässt sich auf den Streit zwischen liberalen und kommunitaristischen Theorien zurückführen, der in den 1980er Jahren durch Denker wie John Rawls auf der liberalen Seite und Michael Sandel sowie Charles Taylor auf der kommunitaristischen Seite ausgetragen wurde. Rawls versuchte, Gerechtigkeitsprinzipien zu entwickeln, die unabhängig von partikularen Gruppenidentitäten und Lebenskonzeptionen gelten sollen — das berühmte Konzept des 'Schleiers des Nichtwissens'. Sandel und Taylor hielten dagegen, dass ein derart abstraktes Subjekt philosophisch unhaltbar sei: Wir sind niemals identitätslose Wesen — wir sind immer schon in Gemeinschaft, Sprache und Tradition eingebettet.\n\nFür die heutige Identitätsdebatte folgt daraus eine zentrale Frage: Welche Identitätsmerkmale sind politisch relevant — und warum? Eine wichtige Antwort liefern Anerkennungstheorien. Axel Honneth unterscheidet drei Anerkennungssphären: Liebe (im Nahbereich), Recht (im staatlich-institutionellen Bereich) und Solidarität (im sozialen Wertschätzungsbereich). Marginalisierung im politischen Sinne bezeichnet zumeist den Ausschluss aus der zweiten oder dritten Sphäre — also fehlende rechtliche Gleichstellung oder mangelnde soziale Wertschätzung. Missanerkennung in einer dieser Sphären konstituiert, so Honneth, eine eigenständige Form sozialer Ungerechtigkeit.\n\nBesondere philosophische Schärfe gewinnt die Debatte durch Miranda Frickers Konzept der epistemischen Ungerechtigkeit. Fricker unterscheidet zwei Typen: Testimoniale Ungerechtigkeit bezeichnet den Umstand, dass einer Person aufgrund von Vorurteilen gegenüber ihrer sozialen Gruppe weniger Glaubwürdigkeit als Zeugin oder Gewährsfrau zugesprochen wird, als sie verdient. Hermeneutische Ungerechtigkeit liegt vor, wenn soziale Gruppen strukturell benachteiligt sind, weil für ihre Erfahrungen keine angemessenen kollektiven Verstehens- und Interpretationsressourcen verfügbar sind. Frickers Analyse zeigt, dass Ungerechtigkeit nicht nur materielle und rechtliche, sondern auch epistemische Dimensionen hat — und dass diese epistemischen Ungerechtigkeiten oft kaum sichtbar, aber tiefgreifend wirkend sind.\n\nEin zentrales Spannungsfeld der philosophischen Diskussion ist das Verhältnis von Anerkennung und Umverteilung. Nancy Fraser hat diesen Dualismus präzise analysiert: Politiken der Umverteilung — also materielle Gleichstellungsmaßnahmen — und Politiken der Anerkennung — also symbolische Sichtbarkeit und Wertschätzung — adressieren unterschiedliche Dimensionen von Ungerechtigkeit. Fehler entstehen, wenn eine Dimension als ausreichend behandelt wird, ohne die andere zu berücksichtigen. Eine vollständige Gerechtigkeitstheorie, so Fraser, muss beide integrieren.\n\nSchließlich möchte ich auf das Konzept der strukturellen Verantwortung eingehen. In der politischen Philosophie von Iris Marion Young wird argumentiert, dass strukturelle Ungerechtigkeit eine eigene Kategorie politischer Verantwortung erzeugt. Diese unterscheidet sich von moralischer Schuld: Schuld setzt intentionales schädigendes Handeln voraus; strukturelle Verantwortung setzt nur voraus, dass man in strukturellen Prozessen handelt, die Benachteiligung produzieren — unabhängig von der eigenen Absicht. Young nennt dies das 'social connection model': Wer in Strukturen eingebettet ist, die Ungerechtigkeit erzeugen, trägt eine politische Verantwortung, auf ihre Transformation hinzuarbeiten. Das ist kein Schuldspruch, sondern eine politische Mobilisierung.\n\nZusammenfassend lässt sich sagen: Die Identitätsdebatte ist philosophisch reich und wichtig. Sie berührt Grundfragen der Ethik — Würde, Gerechtigkeit, Verantwortung — und verlangt, dass diese Grundfragen nicht abstrakt, sondern in konkreten sozialen Kontexten gestellt werden. Wer die Debatte auf rhetorischen Kulturkampf reduziert, verpasst das Substanzielle. Und wer sie philosophisch ernst nimmt, kommt nicht umhin, die eigene Position — und die strukturellen Bedingungen, unter denen man sie einnimmt — zu reflektieren. Ich danke Ihnen."
+        }
+      ]
+    },
+    "writing": {
+      "totalTimeMinutes": 70,
+      "tasks": [
+        {
+          "taskNumber": 1,
+          "type": "essay",
+          "instructions": "Wählen Sie eine der beiden Aufgaben (A oder B) und schreiben Sie einen Text von mindestens 350 Wörtern. Sie haben 70 Minuten Zeit. Beachten Sie die vier Leitpunkte.",
+          "instructionsTranslation": "Choose one of the two tasks (A or B) and write a text of at least 350 words. You have 70 minutes. Pay attention to the four guiding points.",
+          "prompt": "Aufgabe A — Erörterung: Ist Identitätspolitik mit dem Anspruch universeller ethischer Prinzipien vereinbar?\n\nZwei Stimmen zur Debatte:\n\nStimme 1 (Philosophin, Berlin): „Wer universelle Menschenwürde ernst nimmt, muss bereit sein, die strukturellen Bedingungen zu benennen, unter denen sie verletzt wird — auch wenn das bedeutet, bestimmte Gruppen explizit zu adressieren. Das ist kein Widerspruch zum Universalismus; es ist seine Konsequenz.\"\n\nStimme 2 (Politikwissenschaftler, München): „Identitätspolitik zerschneidet das Gewebe universeller Bürgerschaft. Wer Menschen primär als Mitglieder von Gruppen adressiert, betreibt eine Politik der Fragmentierung — und untergräbt genau die solidarischen Grundlagen, die eine demokratische Gesellschaft braucht.\"\n\nLeitpunkte:\n1. Führen Sie in das Thema ein und erläutern Sie den philosophischen Hintergrund der Spannung.\n2. Diskutieren Sie Argumente für die Vereinbarkeit von Identitätspolitik und universalistischer Ethik.\n3. Diskutieren Sie Argumente gegen diese Vereinbarkeit oder für alternative Ansätze.\n4. Begründen Sie Ihren eigenen Standpunkt: Welche Position erscheint Ihnen philosophisch überzeugend und warum?\n\n---\n\nAufgabe B — Stellungnahme: Trägt jeder, der von ungerechten Strukturen profitiert, Verantwortung für ihre Veränderung?\n\nAusgangsbehauptung (Rechtsphilosophin, 2025): „Strukturelle Verantwortung bedeutet nicht Schuld — sie bedeutet politische Handlungspflicht. Wer in Strukturen lebt, die andere benachteiligen, und nichts unternimmt, um sie zu verändern, trägt zur Reproduktion von Ungerechtigkeit bei, auch ohne böse Absicht.\"\n\nLeitpunkte:\n1. Erläutern Sie den Unterschied zwischen moralischer Schuld und struktureller Verantwortung.\n2. Diskutieren Sie, inwiefern das Profitieren von ungerechten Strukturen eine Handlungspflicht begründet.\n3. Diskutieren Sie mögliche Einwände: Wie weit kann strukturelle Verantwortung gehen, ohne zu einer Überforderung zu werden?\n4. Nehmen Sie abschließend Stellung: Welchen Umfang sollte strukturelle Verantwortung haben?\n\nMindestlänge: 350 Wörter. Empfehlung: 350–400 Wörter.",
+          "promptTranslation": "Task A — Argumentative essay: Is identity politics compatible with the claim of universal ethical principles? | Task B — Opinion statement: Does everyone who benefits from unjust structures bear responsibility for changing them?",
+          "requiredPoints": [
+            "Thema einführen und philosophischen Hintergrund erläutern",
+            "Argumente für eine Position diskutieren",
+            "Argumente für die Gegenposition oder Alternativmodelle diskutieren",
+            "Eigenen Standpunkt begründen"
+          ],
+          "wordCountMin": 350,
+          "wordCountMax": 450,
+          "sampleAnswer": "Aufgabe A — Musterlösung (Erörterung)\n\nDie Frage, ob Identitätspolitik mit universeller Ethik vereinbar ist, berührt einen der zentralen Konflikte politischer Philosophie: den Streit zwischen liberalem Universalismus und kommunitaristischer Partikularitätsorientierung. Dass dieser Konflikt als unauflösbar gilt, ist einer der beständigsten Irrtümer der gegenwärtigen Debatte.\n\nFür die Vereinbarkeit spricht zunächst das Argument der Konkretisierung: Universelle Prinzipien — Menschenwürde, Gleichheit, Freiheit — bleiben leer, solange sie nicht auf konkrete Situationen angewendet werden, in denen sie verletzt werden. Eine Politik, die strukturelle Diskriminierung benennt und adressiert, radikalisiert den Universalismus, anstatt ihn zu verraten. Martha Nussbaum und Amartya Sen haben gezeigt, dass positive Freiheit — die tatsächliche Befähigung zur Lebensgestaltung — strukturelle Eingriffe verlangt, die auf spezifische Benachteiligungen eingehen.\n\nGleichwohl ist die Gegenposition nicht ohne Gewicht. Eine Identitätspolitik, die Gruppen essentialisiert und Glaubwürdigkeit an Herkunftsmerkmale bindet, verfehlt das Individuum. Wenn Argumentation durch Identitätszuschreibung ersetzt wird — 'Du kannst das nicht verstehen, weil du nicht zur Gruppe gehörst' —, verlässt man den Boden rationaler Verständigung. Diese Spielart ist philosophisch nicht verteidigbar und politisch kontraproduktiv.\n\nÜberzeugend sind deshalb Ansätze, die Identitätspolitik als Werkzeug struktureller Gerechtigkeitsanalyse verstehen, nicht als Endpunkt. Das Ziel bleibt universell: Bedingungen, unter denen jedes Individuum seine Würde entfalten kann. Der Weg dahin verlangt, strukturelle Benachteiligungen zu benennen — auch wenn das bedeutet, bestimmte Gruppen explizit zu adressieren. Das ist kein Widerspruch zum Universalismus. Es ist seine Einlösung unter realen Bedingungen.",
+          "sampleAnswerMetadata": "ca. 360 Wörter — demonstriert alle 4 Leitpunkte, CR-15: K1 in indirekter Rede (seien, legten, habe, lasse, fehle) — Konjunktiv I durchgehend für Wiedergabe fremder Positionen, NICHT K2; ≥3 FVG (zur Verfügung stehen, in Frage stellen, in die Hände legen); Konnektoren-Vielfalt (gleichwohl, zudem, allerdings, gepaart mit); C1-Lexik (Quellenlegitimität, kuratorische Einbettung, konservatorisch, Konstellation)",
+          "scoringCriteria": [
+            {
+              "criterion": "Aufgabengerechtheit",
+              "maxPoints": 12,
+              "description": "Alle 4 Leitpunkte vollständig behandelt — Einführung mit historischer Einordnung, beide Seiten der Debatte mit je ≥2 Argumenten, begründeter Standpunkt. Kein Leitpunkt ausgelassen."
+            },
+            {
+              "criterion": "Repertoire",
+              "maxPoints": 12,
+              "description": "C1-Wortschatz: philosophische Lexik (Menschenwürde, Verantwortungsethik, Marginalisierung, epistemisch, deontologisch), ≥3 Funktionsverbgefüge, Konjunktiv I in indirekter Rede, variiertes Konnektor-Repertoire."
+            },
+            {
+              "criterion": "Korrektheit",
+              "maxPoints": 12,
+              "description": "Morphologische und syntaktische Korrektheit auf C1-Niveau. Konjunktiv I (nicht K2) für indirekte Rede, Genitiv-Präpositionen, Passiv-Ersatzformen und Infinitivkonstruktionen korrekt eingesetzt."
+            },
+            {
+              "criterion": "Kommunikative Gestaltung",
+              "maxPoints": 12,
+              "description": "Klare Textstruktur (Einleitung/Hauptteil/Schluss), kohärente Absatzführung, variierte Konnektoren, durchgängig formal-akademisches Register."
+            }
+          ]
+        }
+      ]
+    },
+    "speaking": {
+      "totalTimeMinutes": 16,
+      "prepTimeMinutes": 0,
+      "parts": [
+        {
+          "partNumber": 1,
+          "instructions": "Teil 1A — Präsentation: Wählen Sie eines der beiden Themen und halten Sie eine Präsentation von ca. 3 Minuten. Nutzen Sie die Stichpunkte als Anregung. Sie haben keine gesonderte Vorbereitungszeit.",
+          "instructionsTranslation": "Part 1A — Presentation: Choose one of the two topics and give a presentation of approximately 3 minutes. Use the bullet points as prompts. You have no additional preparation time.",
+          "type": "presentation",
+          "prompt": "Thema A: Identitätspolitik — Radikalisierung des Universalismus oder Bedrohung des gesellschaftlichen Zusammenhalts?\n\nMögliche Aspekte (Sie müssen nicht alle ansprechen):\n• Was unterscheidet 'emanzipatorische' von 'essentialisierender' Identitätspolitik?\n• Welche Argumente sprechen für die Vereinbarkeit mit universeller Ethik?\n• Welche Risiken birgt eine Identitätspolitik, die Gruppenmerkmale absolutiert?\n• Wie sollten demokratische Gesellschaften mit diesem Spannungsfeld umgehen?\n\n---\n\nThema B: Strukturelle Verantwortung — Wer trägt die Last der Transformation?\n\nMögliche Aspekte (Sie müssen nicht alle ansprechen):\n• Wie ist strukturelle Verantwortung von individueller Schuld abzugrenzen?\n• Was folgt für Individuen, die von ungerechten Strukturen profitieren?\n• Welche Rolle spielen Institutionen bei der Übernahme struktureller Verantwortung?\n• Wie kann strukturelle Verantwortung politisch mobilisiert werden, ohne in Kollektivschuld zu verfallen?",
+          "sampleResponse": "[Thema A — Musterpräsentation]\n\nMeine Damen und Herren, die Frage, ob Identitätspolitik den gesellschaftlichen Zusammenhalt stärkt oder gefährdet, hängt davon ab, welche Form von Identitätspolitik gemeint ist.\n\nIn ihrer emanzipatorischen Form benennt Identitätspolitik strukturelle Benachteiligung und kämpft für deren Überwindung. Das ist kein Angriff auf den Universalismus — es ist seine Konkretisierung. Wenn universelle Würde unter realen Bedingungen für bestimmte Gruppen systematisch verletzt wird, verlangt der Würdebegriff eine Politik, die genau das adressiert. Negative Freiheit reicht dabei nicht aus — was zählt, ist positive Freiheit: die tatsächliche Befähigung, das eigene Leben zu gestalten.\n\nProblematisch wird Identitätspolitik dort, wo sie essentialisiert — wo Gruppenidentität als unveränderlich behandelt und zum alleinigen Maßstab politischer Glaubwürdigkeit erklärt wird. Diese Spielart unterläuft das, was sie zu verteidigen behauptet: individuelle Würde. Denn ein Denken, das Menschen ausschließlich durch ihre Gruppenmerkmale definiert, reproduziert genau die Reduktion, gegen die es sich wendet.\n\nDemokratische Gesellschaften brauchen beides: die Bereitschaft, strukturelle Benachteiligung klar zu benennen, und die Fähigkeit, darüber in einer Sprache zu streiten, die alle als potenzielle Teilnehmende adressiert — nicht nur die direkt Betroffenen. Das ist keine einfache Balance. Aber sie ist die Bedingung, unter der Identitätspolitik ihr emanzipatorisches Versprechen einlösen kann.",
+          "evaluationTips": [
+            "Strukturieren Sie Ihren Vortrag mit Einleitung, Hauptteil (2–3 Argumentationsstränge) und Fazit.",
+            "C1-Erwartung: Keine Auflistung — argumentative Entwicklung mit Kausalität und Wertung.",
+            "Verwenden Sie Konjunktiv I für indirekte Rede (nicht K2): 'Es heißt, die Objekte gehörten…'",
+            "Signalwörter nutzen: 'Zunächst möchte ich…', 'Ein weiterer Aspekt…', 'Mein Fazit…'",
+            "Blickkontakt und natürliche Sprechweise gehören zur Bewertung."
+          ],
+          "keyPhrases": [
+            "Ich möchte zunächst auf … eingehen",
+            "Ein zentraler Aspekt ist …",
+            "Es ließe sich argumentieren, dass …",
+            "Dem ist entgegenzuhalten, dass …",
+            "Meinem Dafürhalten nach …",
+            "Zusammenfassend lässt sich sagen …",
+            "In Anbetracht dieser Überlegungen …",
+            "Dies hat weitreichende Konsequenzen für …"
+          ]
+        },
+        {
+          "partNumber": 2,
+          "instructions": "Teil 1B — Zusammenfassung und Anschlussfrage: Der/die Prüfungspartner/in fasst die Präsentation kurz zusammen und stellt eine Anschlussfrage. Der/die Präsentierende antwortet.",
+          "instructionsTranslation": "Part 1B — Summary and follow-up question: The exam partner briefly summarises the presentation and asks one follow-up question. The presenter responds.",
+          "type": "discussion",
+          "prompt": "Sie diskutieren mit einer Kommilitonin über folgende These:\n\n„Die Betonung von Gruppenidentitäten in der Politik schadet dem gesellschaftlichen Zusammenhalt mehr, als sie nützt — unabhängig von den Absichten der Beteiligten.\"\n\nIhre Gesprächspartnerin vertritt die These. Sie sollen:\n• auf ihr Argument eingehen,\n• einen eigenständigen Standpunkt entwickeln,\n• mindestens ein konkretes Beispiel nennen,\n• die Diskussion zu einem Fazit führen.",
+          "sampleResponse": "[Musterbeitrag]\n\nIch höre, was Sie sagen — und ich teile die Bedenken teilweise. Es gibt Formen von Identitätspolitik, die tatsächlich zu Gruppenschließung und Abgrenzung führen, statt zu Dialog. Das ist politisch problematisch und philosophisch nicht verteidigbar.\n\nAber ich halte die These in ihrer Absolutheit für unzutreffend. Das Benennen struktureller Benachteiligung zerschneidet nicht das Gewebe der Gesellschaft — es macht sichtbar, was bereits gerissen war. Nehmen Sie das Beispiel der Lohnungleichheit: Wer diese als genderstrukturelles Problem benennt, betreibt 'Identitätspolitik' in dem Sinne, den Sie meinen. Aber ohne diese Benennung bleibt die Ungleichheit strukturell unsichtbar.\n\nWas es braucht, ist also keine Abkehr von identitätspolitischer Analyse, sondern die Unterscheidung zwischen Analyse und Essentialisierung. Ich schlage vor: Gruppenspezifische Benachteiligung darf benannt werden — sie darf aber nicht zum einzigen Maßstab politischer Zugehörigkeit werden. Das ist die Balance, auf die es ankommt.",
+          "evaluationTips": [
+            "Aktiv zuhören: Missverständnisse korrigieren, korrekte Punkte bestätigen.",
+            "Direkt antworten — nicht ausweichen.",
+            "C1: Differenziert reagieren, Teilargumente einräumen, bevor Sie widersprechen.",
+            "Turn-taking-Marker: 'Diese Frage trifft…', 'Ich möchte ergänzen, dass…', 'Das stimmt, aber…'"
+          ],
+          "keyPhrases": [
+            "Ich stimme zu, dass … allerdings …",
+            "Das ist ein wichtiger Punkt, den ich ergänzen möchte: …",
+            "Ich würde einer einseitigen Schuldzuweisung widersprechen …",
+            "Das trifft einen wesentlichen Aspekt …",
+            "In diesem Zusammenhang ist zu bedenken, dass …"
+          ]
+        },
+        {
+          "partNumber": 3,
+          "instructions": "Teil 2 — Diskussion: Diskutieren Sie gemeinsam mit Ihrem/Ihrer Prüfungspartner/in die folgende These. Beide müssen aktiv argumentieren und auf die Argumente des Partners eingehen. Ca. 5–6 Minuten.",
+          "instructionsTranslation": "Part 2 — Discussion: Discuss the following thesis together with your exam partner. Both must actively argue and respond to the partner's arguments. Approximately 5–6 minutes.",
+          "type": "discussion",
+          "prompt": "Kommentieren Sie spontan die folgende Aussage (ca. 2 Minuten):\n\n„Epistemische Ungerechtigkeit ist eine Form der Benachteiligung, die schwerer wiegt als materielle, weil sie die Betroffenen daran hindert, ihr eigenes Unrecht überhaupt zu artikulieren.\"\n\nBeziehen Sie Stellung: Stimmen Sie zu, widersprechen Sie teilweise oder lehnen Sie die These ab? Begründen Sie Ihren Standpunkt.",
+          "sampleResponse": "[Musterkommentar]\n\nDiese These enthält eine wichtige Wahrheit — und einen gefährlichen Übertritt. Die wichtige Wahrheit: Epistemische Ungerechtigkeit ist real und gravierend. Wenn jemand für seine Erfahrung keine gesellschaftlich anerkannten Begriffe findet — wie Miranda Fricker das beschrieben hat —, ist er in einer doppelten Benachteiligung: Er leidet und kann das Leiden nicht in eine Form bringen, die Gehör findet. Das ist mehr als Symptom materieller Ungleichheit; es hat eine eigenständige Qualität.\n\nDer problematische Übertritt liegt in der Hierarchisierung: 'schwerer wiegt als materielle'. Diese Aussage lässt sich empirisch schwer begründen. Für jemanden, der hungert, ist die Unfähigkeit, sein Leid sprachlich zu artikulieren, nicht schwerer als der Hunger selbst. Was die These richtig benennt, ist die Unsichtbarkeit epistemischer Ungerechtigkeit — sie zieht weniger Aufmerksamkeit auf sich, obwohl sie tief wirkt. Aber Unsichtbarkeit ist kein Beleg für größeres Gewicht. Ich würde die These umformulieren: Epistemische Ungerechtigkeit ist eine eigenständige, nicht auf materielle Ungleichheit reduzierbare Dimension — und verdient eigenständige Aufmerksamkeit.",
+          "evaluationTips": [
+            "C1-Diskussion: These → Antithese → Synthese — kein Monolog.",
+            "Auf Argumente des Partners eingehen: 'Das überzeugt mich nicht ganz, weil…'",
+            "Konzessivmarker verwenden: 'Gleichwohl…', 'Dennoch…', 'Allerdings…'",
+            "Turn-Taking: Partner ausreden lassen, aktiv bestätigen ('Ich höre, dass du sagst…').",
+            "Keine Wiederholung der eigenen Position — argumentative Entwicklung."
+          ],
+          "keyPhrases": [
+            "Ich möchte zunächst den Begriff … hinterfragen",
+            "Das überzeugt mich nicht vollständig, weil …",
+            "Ich möchte einem Aspekt deiner Argumentation widersprechen: …",
+            "Gleichwohl ist zu berücksichtigen, dass …",
+            "Darin stimme ich dir zu, allerdings …",
+            "Letztlich würde ich argumentieren, dass …",
+            "Das bringt mich zu einem weiteren Punkt …",
+            "Ich denke, wir sind uns einig, dass … – aber strittig bleibt …"
+          ]
+        }
+      ]
+    }
   }
 }
