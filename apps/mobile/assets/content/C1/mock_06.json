@@ -1,13 +1,1662 @@
 {
   "id": "C1_mock_06",
   "level": "C1",
-  "title": "Übungstest 6",
-  "version": 0,
-  "_stub": true,
+  "title": "C1 Übungstest 6: Recht und Verfassung",
+  "version": 1,
   "sections": {
-    "listening": { "totalTimeMinutes": 20, "parts": [] },
-    "reading": { "totalTimeMinutes": 25, "parts": [] },
-    "writing": { "totalTimeMinutes": 20, "tasks": [] },
-    "speaking": { "totalTimeMinutes": 15, "prepTimeMinutes": 0, "parts": [] }
+    "reading": {
+      "totalTimeMinutes": 90,
+      "parts": [
+        {
+          "partNumber": 1,
+          "instructions": "Lesen Sie den folgenden Text. Sechs Sätze wurden herausgenommen. Wählen Sie aus den Sätzen (a–h) denjenigen, der inhaltlich und sprachlich in die jeweilige Lücke passt. Zwei Sätze passen nicht.",
+          "instructionsTranslation": "Read the following text. Six sentences have been removed. Choose the sentence (a–h) that fits each gap in terms of content and language. Two sentences do not fit.",
+          "texts": [
+            {
+              "id": "C1_m06_R1_main",
+              "label": "Haupttext",
+              "content": "Der Grundsatz der Verhältnismäßigkeit gilt als einer der zentralen ungeschriebenen Verfassungsgrundsätze des deutschen Rechts. Er verlangt, dass staatliche Eingriffe in Grundrechte geeignet, erforderlich und angemessen sein müssen. [1] Dieses dreistufige Prüfschema hat die Rechtsprechung des Bundesverfassungsgerichts nachhaltig geprägt und ist heute in fast allen Bereichen des öffentlichen Rechts verbindlich.\n\nBesondere Relevanz entfaltet der Grundsatz im Polizeirecht, wenn Sicherheitsbehörden weitreichende Maßnahmen gegen Einzelpersonen treffen wollen. [2] Der Staat kann also nicht auf jede Gefahr mit dem schärfsten verfügbaren Mittel reagieren; er ist an das Übermaßverbot gebunden.\n\nIn der jüngeren Rechtsprechung hat das Bundesverfassungsgericht den Grundsatz auch auf den Bereich der digitalen Überwachung ausgedehnt. [3] Dabei hat das Gericht klargestellt, dass Eingriffe in das Recht auf informationelle Selbstbestimmung einer besonders strengen Verhältnismäßigkeitsprüfung bedürfen.\n\nDie Anforderungen des Verhältnismäßigkeitsgrundsatzes gelten nicht nur für den Gesetzgeber, sondern auch für die Verwaltung. [4] Fehlt diese Abwägung oder wird sie oberflächlich durchgeführt, kann die Maßnahme vor Verwaltungsgerichten keinen Bestand haben.\n\nKritiker merken an, dass ein zu eng ausgelegter Verhältnismäßigkeitsgrundsatz staatliches Handeln lähmen kann, wenn jede Maßnahme umfangreich begründet werden muss. [5] Diese Spannung zwischen effektiver Gefahrenabwehr und rechtsstaatlicher Bindung ist keine Schwäche des Systems, sondern sein bewusstes Konstruktionsprinzip.\n\nGleichwohl bleibt der Grundsatz international ohne direkte Entsprechung. [6] Das macht ihn zum Exportgut des deutschen Verfassungsrechts — und zum Gegenstand intensiver Rechtsvergleichung."
+            },
+            {
+              "id": "C1_m06_R1_sent_a",
+              "label": "a",
+              "content": "a) Dieser Einwand ist berechtigt, verkennt aber, dass Willkür ohne strukturierte Abwägung langfristig größere Kosten verursacht — auch für staatliche Autorität."
+            },
+            {
+              "id": "C1_m06_R1_sent_b",
+              "label": "b",
+              "content": "b) Behörden müssen bei jeder Einzelfallentscheidung die widerstreitenden Interessen aktiv gegeneinander abwägen und das mildeste wirksame Mittel wählen."
+            },
+            {
+              "id": "C1_m06_R1_sent_c",
+              "label": "c",
+              "content": "c) Gerade beim Einsatz von Staatstrojanern und der automatisierten Vorratsdatenspeicherung hat das Gericht dem Gesetzgeber enge Grenzen gezogen."
+            },
+            {
+              "id": "C1_m06_R1_sent_d",
+              "label": "d",
+              "content": "d) Ein Eingriff, der formal geeignet ist, das Ziel zu erreichen, ist trotzdem unzulässig, wenn ein weniger belastendes Mittel dieselbe Wirkung hätte."
+            },
+            {
+              "id": "C1_m06_R1_sent_e",
+              "label": "e",
+              "content": "e) Weder das Common Law noch das französische Droit administratif kennen ein vergleichbar ausdifferenziertes Prüfschema mit expliziten Verhältnismäßigkeitsstufen."
+            },
+            {
+              "id": "C1_m06_R1_sent_f",
+              "label": "f",
+              "content": "f) Insbesondere wird eine stichhaltige Begründung verlangt, warum die gewählte Maßnahme das Grundrecht nur im unbedingt notwendigen Maß beschränkt."
+            },
+            {
+              "id": "C1_m06_R1_sent_g",
+              "label": "g",
+              "content": "g) Historisch hat sich der Grundsatz vor allem in der Nachkriegsjudikatur des Bundesverfassungsgerichts herausgebildet, blieb aber zunächst auf wenige Sachbereiche beschränkt."
+            },
+            {
+              "id": "C1_m06_R1_sent_h",
+              "label": "h",
+              "content": "h) Damit wird gewährleistet, dass der Betroffene nicht übermäßig belastet wird, auch wenn das staatliche Ziel legitim ist."
+            }
+          ],
+          "questions": [
+            {
+              "id": "C1_m06_R1_q1",
+              "type": "matching",
+              "questionText": "Lücke 1: '…geeignet, erforderlich und angemessen sein müssen. [1] Dieses dreistufige Prüfschema…'",
+              "matchingSources": [
+                {
+                  "id": "C1_m06_R1_sent_a",
+                  "label": "a"
+                },
+                {
+                  "id": "C1_m06_R1_sent_b",
+                  "label": "b"
+                },
+                {
+                  "id": "C1_m06_R1_sent_c",
+                  "label": "c"
+                },
+                {
+                  "id": "C1_m06_R1_sent_d",
+                  "label": "d"
+                },
+                {
+                  "id": "C1_m06_R1_sent_e",
+                  "label": "e"
+                },
+                {
+                  "id": "C1_m06_R1_sent_f",
+                  "label": "f"
+                },
+                {
+                  "id": "C1_m06_R1_sent_g",
+                  "label": "g"
+                },
+                {
+                  "id": "C1_m06_R1_sent_h",
+                  "label": "h"
+                }
+              ],
+              "correctAnswer": "h",
+              "explanation": "Lücke 1 schließt direkt an die dreistufige Anforderung (geeignet, erforderlich, angemessen) an. Satz h) erklärt, dass damit sichergestellt wird, dass der Betroffene nicht übermäßig belastet wird — das ist die logische Konsequenz der Trias und führt nahtlos zur Erwähnung des Prüfschemas. Satz d) thematisiert zwar das Erforderlichkeitsgebot, setzt aber eine Abwägungssituation voraus, die erst in Lücke 2 relevant wird."
+            },
+            {
+              "id": "C1_m06_R1_q2",
+              "type": "matching",
+              "questionText": "Lücke 2: '…weitreichende Maßnahmen gegen Einzelpersonen treffen wollen. [2] Der Staat kann also nicht…'",
+              "matchingSources": [
+                {
+                  "id": "C1_m06_R1_sent_a",
+                  "label": "a"
+                },
+                {
+                  "id": "C1_m06_R1_sent_b",
+                  "label": "b"
+                },
+                {
+                  "id": "C1_m06_R1_sent_c",
+                  "label": "c"
+                },
+                {
+                  "id": "C1_m06_R1_sent_d",
+                  "label": "d"
+                },
+                {
+                  "id": "C1_m06_R1_sent_e",
+                  "label": "e"
+                },
+                {
+                  "id": "C1_m06_R1_sent_f",
+                  "label": "f"
+                },
+                {
+                  "id": "C1_m06_R1_sent_g",
+                  "label": "g"
+                },
+                {
+                  "id": "C1_m06_R1_sent_h",
+                  "label": "h"
+                }
+              ],
+              "correctAnswer": "d",
+              "explanation": "Lücke 2 steht nach dem Hinweis auf polizeiliche Maßnahmen gegen Einzelpersonen und leitet mit 'also' das Übermaßverbot ein. Satz d) erklärt das Erforderlichkeitsgebot präzise: Selbst ein geeignetes Mittel ist unzulässig, wenn ein milderes dieselbe Wirkung hätte. Das 'also' im Folgesatz greift diese Schlussfolgerung auf."
+            },
+            {
+              "id": "C1_m06_R1_q3",
+              "type": "matching",
+              "questionText": "Lücke 3: '…digitale Überwachung ausgedehnt. [3] Dabei hat das Gericht klargestellt…'",
+              "matchingSources": [
+                {
+                  "id": "C1_m06_R1_sent_a",
+                  "label": "a"
+                },
+                {
+                  "id": "C1_m06_R1_sent_b",
+                  "label": "b"
+                },
+                {
+                  "id": "C1_m06_R1_sent_c",
+                  "label": "c"
+                },
+                {
+                  "id": "C1_m06_R1_sent_d",
+                  "label": "d"
+                },
+                {
+                  "id": "C1_m06_R1_sent_e",
+                  "label": "e"
+                },
+                {
+                  "id": "C1_m06_R1_sent_f",
+                  "label": "f"
+                },
+                {
+                  "id": "C1_m06_R1_sent_g",
+                  "label": "g"
+                },
+                {
+                  "id": "C1_m06_R1_sent_h",
+                  "label": "h"
+                }
+              ],
+              "correctAnswer": "c",
+              "explanation": "Lücke 3 folgt auf die Ausdehnung auf digitale Überwachung. Satz c) konkretisiert dies mit Staatstrojanern und Vorratsdatenspeicherung als Fallbeispiele — das entspricht exakt dem Kontext und führt zu 'Dabei hat das Gericht klargestellt…'. Satz f) wäre thematisch benachbart, passt aber syntaktisch und inhaltlich besser zu Lücke 4."
+            },
+            {
+              "id": "C1_m06_R1_q4",
+              "type": "matching",
+              "questionText": "Lücke 4: '…gelten nicht nur für den Gesetzgeber, sondern auch für die Verwaltung. [4] Fehlt diese Abwägung…'",
+              "matchingSources": [
+                {
+                  "id": "C1_m06_R1_sent_a",
+                  "label": "a"
+                },
+                {
+                  "id": "C1_m06_R1_sent_b",
+                  "label": "b"
+                },
+                {
+                  "id": "C1_m06_R1_sent_c",
+                  "label": "c"
+                },
+                {
+                  "id": "C1_m06_R1_sent_d",
+                  "label": "d"
+                },
+                {
+                  "id": "C1_m06_R1_sent_e",
+                  "label": "e"
+                },
+                {
+                  "id": "C1_m06_R1_sent_f",
+                  "label": "f"
+                },
+                {
+                  "id": "C1_m06_R1_sent_g",
+                  "label": "g"
+                },
+                {
+                  "id": "C1_m06_R1_sent_h",
+                  "label": "h"
+                }
+              ],
+              "correctAnswer": "b",
+              "explanation": "Lücke 4 steht nach dem Hinweis, dass Verhältnismäßigkeit auch die Verwaltung bindet. Satz b) beschreibt die verwaltungspraktische Konsequenz: Bei jeder Einzelfallentscheidung muss aktiv abgewogen werden. Das 'Fehlt diese Abwägung' im Folgesatz greift direkt die in b) geforderte Abwägung auf."
+            },
+            {
+              "id": "C1_m06_R1_q5",
+              "type": "matching",
+              "questionText": "Lücke 5: '…jede Maßnahme umfangreich begründet werden muss. [5] Diese Spannung zwischen…'",
+              "matchingSources": [
+                {
+                  "id": "C1_m06_R1_sent_a",
+                  "label": "a"
+                },
+                {
+                  "id": "C1_m06_R1_sent_b",
+                  "label": "b"
+                },
+                {
+                  "id": "C1_m06_R1_sent_c",
+                  "label": "c"
+                },
+                {
+                  "id": "C1_m06_R1_sent_d",
+                  "label": "d"
+                },
+                {
+                  "id": "C1_m06_R1_sent_e",
+                  "label": "e"
+                },
+                {
+                  "id": "C1_m06_R1_sent_f",
+                  "label": "f"
+                },
+                {
+                  "id": "C1_m06_R1_sent_g",
+                  "label": "g"
+                },
+                {
+                  "id": "C1_m06_R1_sent_h",
+                  "label": "h"
+                }
+              ],
+              "correctAnswer": "a",
+              "explanation": "Lücke 5 steht nach dem Kritikpunkt an einem zu engen Grundsatz. Satz a) räumt den Einwand ein, entkräftet ihn aber: Willkür ohne Abwägung verursacht langfristig größere Kosten. Das schafft die Überleitung zu 'Diese Spannung … ist kein Fehler, sondern bewusstes Konstruktionsprinzip'."
+            },
+            {
+              "id": "C1_m06_R1_q6",
+              "type": "matching",
+              "questionText": "Lücke 6: '…bleibt der Grundsatz international ohne direkte Entsprechung. [6] Das macht ihn zum Exportgut…'",
+              "matchingSources": [
+                {
+                  "id": "C1_m06_R1_sent_a",
+                  "label": "a"
+                },
+                {
+                  "id": "C1_m06_R1_sent_b",
+                  "label": "b"
+                },
+                {
+                  "id": "C1_m06_R1_sent_c",
+                  "label": "c"
+                },
+                {
+                  "id": "C1_m06_R1_sent_d",
+                  "label": "d"
+                },
+                {
+                  "id": "C1_m06_R1_sent_e",
+                  "label": "e"
+                },
+                {
+                  "id": "C1_m06_R1_sent_f",
+                  "label": "f"
+                },
+                {
+                  "id": "C1_m06_R1_sent_g",
+                  "label": "g"
+                },
+                {
+                  "id": "C1_m06_R1_sent_h",
+                  "label": "h"
+                }
+              ],
+              "correctAnswer": "e",
+              "explanation": "Lücke 6 steht nach dem Hinweis auf die internationale Singularität. Satz e) belegt dies konkret mit dem Common Law und dem Droit administratif — der rechtsvergleichende Nachweis passt exakt und liefert den Grund, warum 'Das macht ihn zum Exportgut' plausibel ist."
+            }
+          ]
+        },
+        {
+          "partNumber": 2,
+          "instructions": "Lesen Sie die fünf Absätze (a–e) zum Thema Datenschutz und Verfassungsgerichtsbarkeit. Lesen Sie anschließend die sechs Aussagen (1–6). Welcher Absatz enthält die Information, die der jeweiligen Aussage entspricht?",
+          "instructionsTranslation": "Read the five paragraphs (a–e) on the topic of data protection and constitutional jurisdiction. Then read the six statements (1–6). Which paragraph contains the information corresponding to each statement?",
+          "texts": [
+            {
+              "id": "C1_m06_R2_abs_a",
+              "label": "a",
+              "content": "a) Das Bundesverfassungsgericht hat mit seinem Volkszählungsurteil von 1983 das Grundrecht auf informationelle Selbstbestimmung aus Art. 2 Abs. 1 i. V. m. Art. 1 Abs. 1 GG abgeleitet. Dieses Recht schützt den Einzelnen davor, dass der Staat ohne hinreichenden Anlass Daten erhebt, speichert und verknüpft. Es war ein Richtungsentscheid, der das deutsche Datenschutzrecht für Jahrzehnte prägte — weit bevor digitale Massenüberwachung technisch möglich war."
+            },
+            {
+              "id": "C1_m06_R2_abs_b",
+              "label": "b",
+              "content": "b) Die Datenschutz-Grundverordnung (DSGVO) hat seit 2018 das europäische Datenschutzrecht vereinheitlicht. Sie gilt unmittelbar in allen Mitgliedstaaten und enthält Grundsätze wie Datenminimierung, Zweckbindung und Rechenschaftspflicht. Obwohl die DSGVO Öffnungsklauseln für nationale Sonderregelungen enthält, hat sie das Flickenteppich-Problem des alten Richtlinienregimes weitgehend beseitigt. Konflikte zwischen der DSGVO und nationalen Verfassungstraditionen — etwa dem deutschen informationellen Selbstbestimmungsrecht — sind bislang selten, aber nicht ausgeschlossen."
+            },
+            {
+              "id": "C1_m06_R2_abs_c",
+              "label": "c",
+              "content": "c) Strittig ist, ob Datenschutzbehörden ausreichend mit Ressourcen ausgestattet sind, um ihre Aufsichtsfunktion wahrzunehmen. Studien zeigen erhebliche Disparitäten zwischen den Mitgliedstaaten: Während Irland als europäischer Sitz vieler Technologiekonzerne besonders hohem Fallaufkommen ausgesetzt ist, verfügt es über vergleichsweise geringe Personalkapazitäten. Kritiker sehen darin eine strukturelle Aushöhlung der DSGVO-Durchsetzung, ohne dass dies formal eine Verletzung des Unionsrechts darstellt."
+            },
+            {
+              "id": "C1_m06_R2_abs_d",
+              "label": "d",
+              "content": "d) Verfassungsgerichte verschiedener europäischer Staaten haben nationale Überwachungsgesetze wiederholt für grundrechtswidrig erklärt. In Deutschland kassierte das Bundesverfassungsgericht das ursprüngliche Bundesdatenschutzgesetz und später Teile des BKA-Gesetzes. Der Europäische Gerichtshof für Menschenrechte hat gleichgerichtete Entscheidungen zur Massenüberwachung durch britische und französische Behörden getroffen. Diese Urteile zeigen: Gerichtliche Kontrolle funktioniert, aber sie ist reaktiv — und greift erst, nachdem Gesetze in Kraft getreten sind."
+            },
+            {
+              "id": "C1_m06_R2_abs_e",
+              "label": "e",
+              "content": "e) Im Kontext algorithmischer Entscheidungssysteme stellt sich eine neue verfassungsrechtliche Frage: Darf der Staat Entscheidungen, die Grundrechte berühren — etwa im Sozialrecht oder Strafvollzug — vollständig an automatisierte Systeme delegieren? Das Bundesverfassungsgericht hat diese Frage noch nicht abschließend beantwortet. Aus dem Gebot effektiven Rechtsschutzes (Art. 19 Abs. 4 GG) und dem Recht auf rechtliches Gehör (Art. 103 Abs. 1 GG) lassen sich jedoch Grenzen ableiten, die vollautomatisierte Entscheidungen ohne menschliche Überprüfbarkeit ausschließen dürften."
+            }
+          ],
+          "questions": [
+            {
+              "id": "C1_m06_R2_q1",
+              "type": "mcq",
+              "questionText": "In welchem Absatz wird erläutert, dass gerichtliche Kontrolle von Überwachungsgesetzen stattfindet, aber strukturell zu spät greift?",
+              "options": [
+                "a",
+                "b",
+                "c",
+                "d",
+                "e"
+              ],
+              "correctAnswer": "d",
+              "explanation": "Absatz d) beschreibt, wie Verfassungsgerichte nationale Überwachungsgesetze für grundrechtswidrig erklären, weist aber darauf hin, dass diese Kontrolle reaktiv ist und erst nach Inkrafttreten der Gesetze einsetzt. Diese Feststellung zur Reaktivität als strukturelle Einschränkung findet sich ausschließlich in Absatz d)."
+            },
+            {
+              "id": "C1_m06_R2_q2",
+              "type": "mcq",
+              "questionText": "Welcher Absatz thematisiert, dass das informationelle Selbstbestimmungsrecht seinen Ursprung in einem Urteil vor dem digitalen Zeitalter hat?",
+              "options": [
+                "a",
+                "b",
+                "c",
+                "d",
+                "e"
+              ],
+              "correctAnswer": "a",
+              "explanation": "Absatz a) erklärt, dass das Volkszählungsurteil von 1983 das Grundrecht auf informationelle Selbstbestimmung begründete — lange bevor digitale Massenüberwachung technisch möglich war. Der Hinweis auf den zeitlichen Vorsprung vor der Digitalära ist nur in Absatz a) enthalten."
+            },
+            {
+              "id": "C1_m06_R2_q3",
+              "type": "mcq",
+              "questionText": "Welcher Absatz beschreibt eine Situation, in der die praktische Durchsetzung europäischen Rechts durch ungleich verteilte behördliche Kapazitäten gefährdet wird?",
+              "options": [
+                "a",
+                "b",
+                "c",
+                "d",
+                "e"
+              ],
+              "correctAnswer": "c",
+              "explanation": "Absatz c) schildert die Ressourcenungleichheit zwischen Datenschutzbehörden der Mitgliedstaaten am Beispiel Irlands und bezeichnet dies als strukturelle Aushöhlung der DSGVO-Durchsetzung. Dieses Kapazitätsproblem ist ausschließlich Thema von Absatz c)."
+            },
+            {
+              "id": "C1_m06_R2_q4",
+              "type": "mcq",
+              "questionText": "In welchem Absatz wird eine ungeklärte verfassungsrechtliche Frage zur Delegation staatlicher Entscheidungen an automatisierte Systeme angesprochen?",
+              "options": [
+                "a",
+                "b",
+                "c",
+                "d",
+                "e"
+              ],
+              "correctAnswer": "e",
+              "explanation": "Absatz e) stellt die Frage, ob der Staat Grundrechte berührende Entscheidungen vollständig an Algorithmen delegieren darf, und verweist auf noch ausstehende Klärung durch das Bundesverfassungsgericht. Diese offene Rechtsfrage ist nur in Absatz e) Thema."
+            },
+            {
+              "id": "C1_m06_R2_q5",
+              "type": "mcq",
+              "questionText": "Welcher Absatz erklärt, dass eine neue EU-Verordnung ein vorher bestehendes Problem der Rechtszersplitterung weitgehend gelöst hat?",
+              "options": [
+                "a",
+                "b",
+                "c",
+                "d",
+                "e"
+              ],
+              "correctAnswer": "b",
+              "explanation": "Absatz b) erläutert, dass die DSGVO das Flickenteppich-Problem des alten Richtlinienregimes beseitigt hat. Das direkte Ansprechen der vorherigen Rechtszersplitterung und deren Behebung findet sich nur in Absatz b)."
+            },
+            {
+              "id": "C1_m06_R2_q6",
+              "type": "mcq",
+              "questionText": "In welchem Absatz werden konkrete Grundgesetz-Artikel als Grundlage für Grenzen automatisierter staatlicher Entscheidungen genannt?",
+              "options": [
+                "a",
+                "b",
+                "c",
+                "d",
+                "e"
+              ],
+              "correctAnswer": "e",
+              "explanation": "Absatz e) verweist explizit auf Art. 19 Abs. 4 GG (effektiver Rechtsschutz) und Art. 103 Abs. 1 GG (rechtliches Gehör) als verfassungsrechtliche Grenzen vollautomatisierter Entscheidungen. Konkrete Grundgesetz-Artikel als argumentative Basis für diese Einschränkung erscheinen nur in Absatz e)."
+            }
+          ]
+        },
+        {
+          "partNumber": 3,
+          "instructions": "Lesen Sie den folgenden Artikel zur Justizreform in Deutschland. Entscheiden Sie bei jeder Aussage, ob sie richtig (R), falsch (F) oder nicht im Text (NT) ist.",
+          "instructionsTranslation": "Read the following article on judicial reform in Germany. For each statement decide whether it is correct (R), incorrect (F), or not in the text (NT).",
+          "texts": [
+            {
+              "id": "C1_m06_R3_artikel",
+              "label": "Artikel",
+              "content": "Justizreform in Deutschland: Zwischen Effizienzanspruch und Unabhängigkeitsgarantie\n\nDie Debatte über die Reform der deutschen Justiz hat in den vergangenen Jahren an Schärfe gewonnen. Anlass sind strukturelle Defizite, die seit Langem bekannt sind: überlange Verfahrensdauern, insbesondere bei Verwaltungs- und Sozialgerichten, ein erheblicher Digitalisierungsrückstand gegenüber anderen europäischen Rechtsordnungen sowie ein wachsender Richter*innenmangel in mehreren Bundesländern. Während Kritiker mahnen, dass der Zugang zum Recht für Bürgerinnen und Bürger faktisch eingeschränkt werde, warnen Justizverbände vor Reformen, die unter dem Deckmantel der Effizienz die Unabhängigkeit der Rechtsprechung gefährden.\n\nEin konkreter Streitpunkt ist die geplante Einführung verpflichtender Mediationsverfahren vor bestimmten Zivilklagen. Befürworter argumentieren, dass Mediation Gerichte entlastet und Parteien schneller zu einer Einigung führt. Gegner sehen darin eine Verlagerung der Streitbeilegung in einen nicht öffentlichen Bereich, der staatlicher Aufsicht weitgehend entzogen ist. Das Bundesjustizministerium hat angekündigt, eine Pilotphase in drei Ländern zu starten, bevor bundesweit einheitliche Regeln in Kraft treten.\n\nBesonders kontrovers ist der Vorschlag, Richterernennungen künftig stärker an objektivierten Leistungskriterien auszurichten. Befürworter sehen darin ein Mittel gegen informelle Netzwerke und politische Patronage im Ernennungsverfahren. Kritiker — darunter der Deutsche Richterbund — lehnen eine Leistungsquantifizierung ab, weil juristische Qualität sich in vielen Dimensionen messe, die sich standardisierten Kriterien entziehen: Urteilsklarheit, Verhandlungsführung, verfassungsrechtliche Sensibilität. Eine Einengung auf messbare Kennzahlen drohe, gerade jene Richter*innen zu bevorzugen, die Routinefälle schnell abarbeiten — auf Kosten komplexer, grundrechtlich sensibler Verfahren.\n\nEinig sind sich die meisten Reformbefürworter bei der Forderung nach vollständiger elektronischer Aktenführung (eAkte) und verbesserter Videoverhandlungsinfrastruktur. Während die eAkte in der Bundesverwaltung bereits weit fortgeschritten ist, hinkt die Justiz hinterher: In mehreren Bundesländern wird nach wie vor in erheblichem Umfang papiergebunden gearbeitet. Die Bundesregierung hat Fördermittel bereitgestellt, deren Abruf jedoch von den Ländern nur zögerlich erfolgt.\n\nWeniger diskutiert, aber strukturell bedeutsam, ist die Frage der Gerichtsstandorte. Eine Konzentration von Fachgerichten in Ballungsräumen würde Synergien schaffen, aber den Zugang für Bürgerinnen und Bürger in ländlichen Regionen erschweren. Das Bundesverfassungsgericht hat in früheren Urteilen den Zugang zum Recht als Bestandteil des Rechtsstaatsprinzips verankert — ein Argument, das gegen allzu aggressive Standortkonsolidierung spricht, ohne sie grundsätzlich auszuschließen."
+            }
+          ],
+          "questions": [
+            {
+              "id": "C1_m06_R3_q1",
+              "type": "true_false",
+              "questionText": "Überlange Verfahrensdauern betreffen laut Text besonders Verwaltungs- und Sozialgerichte.",
+              "options": [
+                "richtig",
+                "falsch",
+                "nicht im Text"
+              ],
+              "correctAnswer": "richtig",
+              "explanation": "Der Text nennt 'überlange Verfahrensdauern, insbesondere bei Verwaltungs- und Sozialgerichten' explizit als strukturelles Defizit. Die Aussage ist korrekt."
+            },
+            {
+              "id": "C1_m06_R3_q2",
+              "type": "true_false",
+              "questionText": "Das Bundesjustizministerium plant, die verpflichtende Mediation sofort bundesweit einzuführen.",
+              "options": [
+                "richtig",
+                "falsch",
+                "nicht im Text"
+              ],
+              "correctAnswer": "falsch",
+              "explanation": "Der Text sagt, das Ministerium wolle zunächst eine Pilotphase in drei Ländern starten, bevor bundesweit einheitliche Regeln folgen. Eine sofortige bundesweite Einführung ist ausdrücklich nicht geplant."
+            },
+            {
+              "id": "C1_m06_R3_q3",
+              "type": "true_false",
+              "questionText": "Der Deutsche Richterbund unterstützt die Einführung objektivierter Leistungskriterien für Richterernennungen.",
+              "options": [
+                "richtig",
+                "falsch",
+                "nicht im Text"
+              ],
+              "correctAnswer": "falsch",
+              "explanation": "Der Text sagt das Gegenteil: Der Deutsche Richterbund lehnt eine Leistungsquantifizierung ab, weil juristische Qualität sich standardisierten Kriterien entziehe."
+            },
+            {
+              "id": "C1_m06_R3_q4",
+              "type": "true_false",
+              "questionText": "Eine vollständige elektronische Aktenführung ist in der deutschen Justiz bereits vollständig umgesetzt.",
+              "options": [
+                "richtig",
+                "falsch",
+                "nicht im Text"
+              ],
+              "correctAnswer": "falsch",
+              "explanation": "Der Text stellt fest, dass die Justiz 'hinterherhinkt' und in mehreren Bundesländern nach wie vor papiergebunden gearbeitet wird. Von vollständiger Umsetzung kann keine Rede sein."
+            },
+            {
+              "id": "C1_m06_R3_q5",
+              "type": "true_false",
+              "questionText": "Laut Text hat das Bundesverfassungsgericht den Zugang zum Recht als Teil des Rechtsstaatsprinzips anerkannt.",
+              "options": [
+                "richtig",
+                "falsch",
+                "nicht im Text"
+              ],
+              "correctAnswer": "richtig",
+              "explanation": "Der Text formuliert: 'Das Bundesverfassungsgericht hat in früheren Urteilen den Zugang zum Recht als Bestandteil des Rechtsstaatsprinzips verankert.' Die Aussage ist korrekt."
+            },
+            {
+              "id": "C1_m06_R3_q6",
+              "type": "true_false",
+              "questionText": "Mediationsverfahren sind nach Ansicht aller Reformbefürworter ein unproblematisches Mittel zur Entlastung der Gerichte.",
+              "options": [
+                "richtig",
+                "falsch",
+                "nicht im Text"
+              ],
+              "correctAnswer": "falsch",
+              "explanation": "Der Text zeigt, dass es unter Reformbefürwortern selbst Gegner der Mediationspflicht gibt: Sie kritisieren die Verlagerung in einen staatlich kaum beaufsichtigten Bereich. Einigkeit besteht nur bei der Digitalisierung."
+            },
+            {
+              "id": "C1_m06_R3_q7",
+              "type": "true_false",
+              "questionText": "Fördermittel für die Digitalisierung der Justiz wurden bereitgestellt, aber von den Ländern kaum abgerufen.",
+              "options": [
+                "richtig",
+                "falsch",
+                "nicht im Text"
+              ],
+              "correctAnswer": "richtig",
+              "explanation": "Der Text sagt: 'Die Bundesregierung hat Fördermittel bereitgestellt, deren Abruf jedoch von den Ländern nur zögerlich erfolgt.' Die Aussage stimmt mit dem Text überein."
+            },
+            {
+              "id": "C1_m06_R3_q8",
+              "type": "true_false",
+              "questionText": "Laut Text sind Richter*innenmangel nur in ostdeutschen Bundesländern ein Problem.",
+              "options": [
+                "richtig",
+                "falsch",
+                "nicht im Text"
+              ],
+              "correctAnswer": "falsch",
+              "explanation": "Der Text spricht von 'wachsendem Richter*innenmangel in mehreren Bundesländern' ohne regionale Einschränkung auf Ostdeutschland. Eine geographische Beschränkung findet sich nicht."
+            },
+            {
+              "id": "C1_m06_R3_q9",
+              "type": "true_false",
+              "questionText": "Kritiker befürchten, dass leistungsbasierte Kriterien bei Richterernennungen komplexe grundrechtssensible Verfahren benachteiligen könnten.",
+              "options": [
+                "richtig",
+                "falsch",
+                "nicht im Text"
+              ],
+              "correctAnswer": "richtig",
+              "explanation": "Der Text beschreibt genau diese Befürchtung: Messbare Kennzahlen bevorzugten Richter*innen, die Routinefälle schnell abarbeiten — auf Kosten 'komplexer, grundrechtlich sensibler Verfahren'."
+            },
+            {
+              "id": "C1_m06_R3_q10",
+              "type": "true_false",
+              "questionText": "Die Konzentration von Fachgerichten in Ballungsräumen schließt das Bundesverfassungsgericht laut Text generell aus.",
+              "options": [
+                "richtig",
+                "falsch",
+                "nicht im Text"
+              ],
+              "correctAnswer": "falsch",
+              "explanation": "Der Text sagt, frühere BVerfG-Urteile sprechen 'gegen allzu aggressive Standortkonsolidierung, ohne sie grundsätzlich auszuschließen'. Ein generelles Verbot wird gerade verneint."
+            },
+            {
+              "id": "C1_m06_R3_q11",
+              "type": "true_false",
+              "questionText": "Der Text nennt konkrete Zeitangaben, wie lange Verfahren im Durchschnitt dauern.",
+              "options": [
+                "richtig",
+                "falsch",
+                "nicht im Text"
+              ],
+              "correctAnswer": "nicht im Text",
+              "explanation": "Der Text beschreibt überlange Verfahrensdauern als strukturelles Problem, nennt aber keine konkreten Durchschnittswerte in Tagen, Monaten oder Jahren."
+            },
+            {
+              "id": "C1_m06_R3_q12",
+              "type": "true_false",
+              "questionText": "Laut Text ist Mediation ein Verfahren, das einer staatlichen Aufsicht weitgehend entzogen ist.",
+              "options": [
+                "richtig",
+                "falsch",
+                "nicht im Text"
+              ],
+              "correctAnswer": "richtig",
+              "explanation": "Der Text gibt die Kritik der Gegner wieder: Mediation verlagere die Streitbeilegung in einen 'nicht öffentlichen Bereich, der staatlicher Aufsicht weitgehend entzogen ist.' Dies entspricht der Aussage."
+            }
+          ]
+        }
+      ]
+    },
+    "sprachbausteine": {
+      "totalTimeMinutes": 25,
+      "parts": [
+        {
+          "partNumber": 1,
+          "instructions": "Lesen Sie den folgenden Text. Wählen Sie bei jeder Lücke (1–22) die richtige Antwort (a, b, c oder d).",
+          "instructionsTranslation": "Read the following text. For each gap (1–22) choose the correct answer (a, b, c or d).",
+          "text": "Der Grundsatz der Verhältnismäßigkeit ist (1) ____ des deutschen Verfassungsrechts nicht wegzudenken. Er verlangt, dass staatliche Eingriffe in Grundrechte drei Anforderungen (2) ____: Sie müssen geeignet sein, das angestrebte Ziel zu erreichen, (3) ____ das mildeste wirksame Mittel darstellen und in einem angemessenen Verhältnis zum verfolgten Zweck stehen. Dieses Prüfschema hat das Bundesverfassungsgericht in seiner Rechtsprechung (4) ____ weiterentwickelt und auf immer neue Sachbereiche ausgedehnt.\n\nBesondere Bedeutung (5) ____ der Grundsatz im Bereich der digitalen Überwachung. Wenn Behörden Daten erheben, speichern oder (6) ____ wollen, müssen sie nachweisen, dass kein milderes Mittel zur Verfügung steht. Das Bundesverfassungsgericht hat mehrfach Überwachungsgesetze (7) ____ erklärt und den Gesetzgeber zur Nachbesserung verpflichtet. Dabei stützte es sich (8) ____ auf das Recht auf informationelle Selbstbestimmung, (9) ____ es bereits 1983 aus dem allgemeinen Persönlichkeitsrecht abgeleitet hatte.\n\nDie Datenschutz-Grundverordnung hat das europäische Datenschutzrecht seit 2018 (10) ____ vereinheitlicht. Sie gilt (11) ____ in allen Mitgliedstaaten und enthält Grundsätze wie Datenminimierung und Zweckbindung. Kritiker bemängeln (12) ____, dass die Durchsetzung der Verordnung von ungleichen Kapazitäten der nationalen Datenschutzbehörden (13) ____.\n\nIm Bereich der Justizreform steht Deutschland vor (14) ____ Herausforderungen. Überlange Verfahren, Digitalisierungsrückstand und Richter*innenmangel (15) ____ strukturelle Defizite, die einer Reform (16) ____. Umstritten ist, (17) ____ verpflichtende Mediationsverfahren vor bestimmten Zivilklagen eingeführt werden sollten. Befürworter (18) ____, dass Mediation Gerichte entlaste; Gegner befürchten, dass Streitbeilegung in einen staatlich kaum kontrollierten Bereich verlagert (19) ____.\n\nAuch die Frage, (20) ____ Richterernennungen künftig an objektivierten Leistungskriterien ausgerichtet werden sollen, (21) ____ kontrovers. Der Deutsche Richterbund lehnt dies ab, weil juristische Qualität sich (22) ____ standardisierten Kennzahlen entziehe.",
+          "questions": [
+            {
+              "blankNumber": 1,
+              "type": "mcq",
+              "options": [
+                "aus",
+                "von",
+                "in",
+                "mit"
+              ],
+              "correctAnswer": "aus",
+              "explanation": "'aus … nicht wegzudenken' ist die feste Kollokation: 'aus dem deutschen Verfassungsrecht nicht wegzudenken'. Die Präposition 'aus' regiert hier den Genitiv/Dativ und signalisiert die Zugehörigkeit. 'Von', 'in' und 'mit' passen weder idiomatisch noch grammatisch."
+            },
+            {
+              "blankNumber": 2,
+              "type": "mcq",
+              "options": [
+                "genügen",
+                "entsprechen",
+                "erfüllen",
+                "erfassen"
+              ],
+              "correctAnswer": "erfüllen",
+              "explanation": "'drei Anforderungen erfüllen' ist die feste Kollokation im Rechtskontext. 'Genügen' und 'entsprechen' verlangen den Dativ ('drei Anforderungen genügen'), nicht den Akkusativ. 'Erfassen' bedeutet 'wahrnehmen/umfassen' und passt semantisch nicht."
+            },
+            {
+              "blankNumber": 3,
+              "type": "mcq",
+              "options": [
+                "außerdem",
+                "zudem",
+                "also",
+                "ferner"
+              ],
+              "correctAnswer": "außerdem",
+              "explanation": "'außerdem' verbindet hier koordinativ eine zweite Bedingung (Erforderlichkeit) nach der ersten (Geeignetheit). 'Zudem' und 'ferner' wären ebenfalls möglich, aber 'außerdem' ist im juristischen Aufzählungskontext am geläufigsten. 'Also' signalisiert eine Schlussfolgerung und passt nicht zur Aufzählung."
+            },
+            {
+              "blankNumber": 4,
+              "type": "mcq",
+              "options": [
+                "sukzessive",
+                "abrupt",
+                "gelegentlich",
+                "sporadisch"
+              ],
+              "correctAnswer": "sukzessive",
+              "explanation": "'sukzessive' (= schrittweise, in Etappen) beschreibt die kontinuierliche Rechtsprechungsentwicklung zutreffend. 'Abrupt' widerspricht dem Kontext der Weiterentwicklung. 'Gelegentlich' und 'sporadisch' implizieren Unregelmäßigkeit, die der tatsächlichen Rechtsprechungspraxis nicht entspricht."
+            },
+            {
+              "blankNumber": 5,
+              "type": "mcq",
+              "options": [
+                "entfaltet",
+                "zeigt",
+                "gewinnt",
+                "erhält"
+              ],
+              "correctAnswer": "entfaltet",
+              "explanation": "'besondere Bedeutung entfalten' ist die idiomatische Kollokation im Rechts- und Wissenschaftsdeutsch für das Wirksamwerden eines Prinzips. 'Zeigt' ist zu allgemein, 'gewinnt' impliziert einen komparativischen Zuwachs, 'erhält' ist passivisch und passt nicht zur aktiven Entfaltung des Grundsatzes."
+            },
+            {
+              "blankNumber": 6,
+              "type": "mcq",
+              "options": [
+                "verknüpfen",
+                "weiterleiten",
+                "veräußern",
+                "verschlüsseln"
+              ],
+              "correctAnswer": "verknüpfen",
+              "explanation": "Im Datenschutzkontext ist 'Daten verknüpfen' der Fachbegriff für die Zusammenführung verschiedener Datensätze. Das Volkszählungsurteil und die DSGVO thematisieren genau diesen Aspekt. 'Weiterleiten', 'veräußern' und 'verschlüsseln' passen nicht zur Dreierkette erheben/speichern/_____."
+            },
+            {
+              "blankNumber": 7,
+              "type": "mcq",
+              "options": [
+                "für nichtig",
+                "für falsch",
+                "für illegal",
+                "für ungültig"
+              ],
+              "correctAnswer": "für nichtig",
+              "explanation": "'für nichtig erklären' ist der verfassungsrechtliche Fachterminus für die Kassation von Gesetzen durch das Bundesverfassungsgericht. 'Illegal' ist ein allgemeiner Rechtsbegriff. 'Ungültig' wird umgangssprachlich verwendet, ist im Verfassungsrecht aber unpräzise. 'Für falsch' ist kein juristischer Begriff."
+            },
+            {
+              "blankNumber": 8,
+              "type": "mcq",
+              "options": [
+                "dabei",
+                "dadurch",
+                "dazu",
+                "daran"
+              ],
+              "correctAnswer": "dabei",
+              "explanation": "'dabei stützte es sich auf' — 'dabei' verweist auf die im vorherigen Satz beschriebene Handlung (Kassation der Gesetze) und fungiert als Textverknüpfer für die Begründung. 'Dadurch' würde eine Kausalrelation implizieren, 'dazu' eine Finalrelation, 'daran' eine partikularisierende Referenz — alle passen nicht zur Referenz auf die Handlungsweise."
+            },
+            {
+              "blankNumber": 9,
+              "type": "mcq",
+              "options": [
+                "das",
+                "welches",
+                "was",
+                "dem"
+              ],
+              "correctAnswer": "das",
+              "explanation": "'das Recht auf informationelle Selbstbestimmung, das es … abgeleitet hatte' — das Relativpronomen 'das' bezieht sich auf 'Recht' (Neutrum, Singular, Akkusativ im Relativsatz: 'es hatte es abgeleitet'). 'Welches' wäre möglich, wirkt aber gehobener. 'Was' darf nur nach Indefinita oder Gesamtsätzen stehen. 'Dem' wäre Dativ — falsch."
+            },
+            {
+              "blankNumber": 10,
+              "type": "mcq",
+              "options": [
+                "weitgehend",
+                "vollständig",
+                "kaum",
+                "selten"
+              ],
+              "correctAnswer": "weitgehend",
+              "explanation": "'weitgehend vereinheitlicht' — der Text berücksichtigt, dass Öffnungsklauseln nationale Unterschiede erlauben (also keine Vollständigkeit). 'Weitgehend' trifft die korrekte Nuancierung. 'Vollständig' widerspräche den Öffnungsklauseln. 'Kaum' und 'selten' wären inhaltlich falsch."
+            },
+            {
+              "blankNumber": 11,
+              "type": "mcq",
+              "options": [
+                "unmittelbar",
+                "mittelbar",
+                "bedingt",
+                "vorläufig"
+              ],
+              "correctAnswer": "unmittelbar",
+              "explanation": "Die DSGVO gilt als EU-Verordnung 'unmittelbar' in allen Mitgliedstaaten — ohne Umsetzungsakt. Das ist der zentrale Unterschied zur (früheren) Richtlinie. 'Mittelbar' wäre das Gegenteil. 'Bedingt' und 'vorläufig' widersprechen dem Charakter einer EU-Verordnung."
+            },
+            {
+              "blankNumber": 12,
+              "type": "mcq",
+              "options": [
+                "jedoch",
+                "trotzdem",
+                "dennoch",
+                "allerdings"
+              ],
+              "correctAnswer": "jedoch",
+              "explanation": "'Kritiker bemängeln jedoch' — 'jedoch' leitet konzessiv einen Einwand nach der positiven Darstellung der DSGVO ein und ist im akademisch-neutralen Register die präziseste Wahl. 'Trotzdem' und 'dennoch' stehen adverbial (nach dem finiten Verb), 'allerdings' ist möglich, aber 'jedoch' ist im Schriftdeutschen grammatisch unauffälliger an dieser Satzposition."
+            },
+            {
+              "blankNumber": 13,
+              "type": "mcq",
+              "options": [
+                "abhängt",
+                "geprägt wird",
+                "leidet",
+                "beeinträchtigt"
+              ],
+              "correctAnswer": "abhängt",
+              "explanation": "'von ungleichen Kapazitäten abhängen' — der Teilsatz beschreibt die Abhängigkeit der Durchsetzungsqualität von den Kapazitäten. 'Geprägt wird' wäre passivisch und grammatisch möglich, aber semantisch schwächer. 'Leidet' verlangt 'unter', nicht 'von'. 'Beeinträchtigt' wäre aktiv und braucht ein Subjekt, nicht 'von'."
+            },
+            {
+              "blankNumber": 14,
+              "type": "mcq",
+              "options": [
+                "erheblichen",
+                "geringen",
+                "vermeidbaren",
+                "überschätzten"
+              ],
+              "correctAnswer": "erheblichen",
+              "explanation": "'vor erheblichen Herausforderungen stehen' ist die idiomatische Kollokation für bedeutende strukturelle Probleme. 'Gering' würde die Probleme kleinreden, 'vermeidbar' und 'überschätzt' widersprechen dem Tenor des Texts."
+            },
+            {
+              "blankNumber": 15,
+              "type": "mcq",
+              "options": [
+                "stellen dar",
+                "bilden",
+                "sind",
+                "zeigen"
+              ],
+              "correctAnswer": "bilden",
+              "explanation": "'Defizite bilden' — 'bilden' drückt im wissenschaftlichen Register aus, dass die aufgezählten Phänomene zusammen eine Kategorie konstituieren. 'Darstellen' ist trennbar und syntaktisch auffällig, 'sind' zu allgemein, 'zeigen' verlangt ein direktes Objekt (was wird gezeigt?)."
+            },
+            {
+              "blankNumber": 16,
+              "type": "mcq",
+              "options": [
+                "bedürfen",
+                "verlangen",
+                "benötigen",
+                "erfordern"
+              ],
+              "correctAnswer": "bedürfen",
+              "explanation": "'einer Reform bedürfen' — 'bedürfen' ist der idiomatische Ausdruck im juristisch-administrativen Register für den Bedarf an einem Eingriff. Es regiert den Genitiv ('einer Reform'). 'Verlangen', 'benötigen' und 'erfordern' regieren den Akkusativ, was hier strukturell nicht passt."
+            },
+            {
+              "blankNumber": 17,
+              "type": "mcq",
+              "options": [
+                "ob",
+                "dass",
+                "wenn",
+                "falls"
+              ],
+              "correctAnswer": "ob",
+              "explanation": "'umstritten ist, ob' — 'ob' leitet einen indirekten Fragesatz ein: es ist strittig, ob X eingeführt werden sollte. 'Dass' würde eine Tatsache einleiten, keine offene Frage. 'Wenn' und 'falls' sind konditional und passen nicht zu 'umstritten ist'."
+            },
+            {
+              "blankNumber": 18,
+              "type": "mcq",
+              "options": [
+                "argumentieren",
+                "behaupten",
+                "betonen",
+                "vertreten"
+              ],
+              "correctAnswer": "argumentieren",
+              "explanation": "'Befürworter argumentieren, dass' — 'argumentieren' ist im akademisch-diskursiven Register der präziseste Ausdruck für eine begründete Position. 'Behaupten' impliziert eine unbelegte These, 'betonen' eine Intensivierung, 'vertreten' eine abstrakte Haltung ohne Begründungsgestus."
+            },
+            {
+              "blankNumber": 19,
+              "type": "mcq",
+              "options": [
+                "werde",
+                "wird",
+                "worden sei",
+                "sei"
+              ],
+              "correctAnswer": "werde",
+              "explanation": "'befürchten, dass … verlagert werde' — Konjunktiv I ('werde') steht in der indirekten Rede nach einem Verb des Sagens/Befürchtens. Der Konjunktiv I Passiv von 'verlagern' lautet 'verlagert werde'. 'Wird' wäre Indikativ (direkte Aussage). 'Worden sei' wäre Perfekt KI. 'Sei' allein passt nicht zum Passivkonstrukt."
+            },
+            {
+              "blankNumber": 20,
+              "type": "mcq",
+              "options": [
+                "ob",
+                "dass",
+                "inwiefern",
+                "wie"
+              ],
+              "correctAnswer": "ob",
+              "explanation": "'die Frage, ob Richterernennungen … ausgerichtet werden sollen' — 'ob' leitet den indirekten Fragesatz ein. 'Dass' würde eine Tatsache einleiten. 'Inwiefern' und 'wie' sind möglich, aber die Frage ist dichotomisch (sollen/sollen nicht), was 'ob' verlangt."
+            },
+            {
+              "blankNumber": 21,
+              "type": "mcq",
+              "options": [
+                "bleibt",
+                "ist",
+                "gilt als",
+                "erscheint"
+              ],
+              "correctAnswer": "bleibt",
+              "explanation": "'bleibt kontrovers' — 'bleiben + Adjektiv' drückt das Andauern eines Zustands aus (die Kontroversität ist noch nicht aufgelöst). 'Ist' wäre neutral, 'gilt als' zu nominativ-klassifizierend, 'erscheint' zu perspektivisch-subjektiv. 'Bleibt' trifft die fortdauernde Umstrittenheit am genauesten."
+            },
+            {
+              "blankNumber": 22,
+              "type": "mcq",
+              "options": [
+                "vielfach",
+                "weitgehend",
+                "grundsätzlich",
+                "prinzipiell"
+              ],
+              "correctAnswer": "grundsätzlich",
+              "explanation": "'sich grundsätzlich standardisierten Kennzahlen entziehen' — 'grundsätzlich' drückt hier einen prinzipiellen, strukturellen Widerstand aus: Juristische Qualität lässt sich dem Prinzip nach nicht quantifizieren. 'Weitgehend' würde Ausnahmen implizieren, 'vielfach' ist ein Häufigkeitsadverb, 'prinzipiell' ist ein direktes Synonym, aber 'grundsätzlich' ist im Rechts- und Wissenschaftsdeutsch deutlich gebräuchlicher."
+            }
+          ]
+        }
+      ]
+    },
+    "listening": {
+      "totalTimeMinutes": 40,
+      "parts": [
+        {
+          "partNumber": 1,
+          "instructions": "Sie hören acht kurze Stellungnahmen verschiedener Personen zum Thema Recht und Verfassung. Hören Sie die Aussagen. Welche Zusammenfassung (a–j) passt zu welchem Sprecher? Zwei Zusammenfassungen passen nicht.",
+          "instructionsTranslation": "You will hear eight short statements from different people on the topic of law and the constitution. Listen to the statements. Which summary (a–j) matches which speaker? Two summaries do not match.",
+          "audioFile": "assets/audio/C1/mock06/listening_part1.mp3",
+          "playCount": 1,
+          "questions": [
+            {
+              "id": "C1_m06_HV1_q1",
+              "type": "matching",
+              "questionText": "Sprecher 1: Frau Prof. Baumann, Verfassungsrechtlerin",
+              "matchingSources": [
+                {
+                  "id": "sum_a",
+                  "label": "a",
+                  "content": "a) Die Sprecherin hält den Verhältnismäßigkeitsgrundsatz für unverzichtbar, warnt aber vor einer Überformalisierung, die staatliches Handeln lähmt."
+                },
+                {
+                  "id": "sum_b",
+                  "label": "b",
+                  "content": "b) Der Sprecher sieht im Datenschutzrecht ein Instrument, das Bürgerrechte schützt, aber wirtschaftliche Innovation behindern kann."
+                },
+                {
+                  "id": "sum_c",
+                  "label": "c",
+                  "content": "c) Die Sprecherin plädiert dafür, dass das Bundesverfassungsgericht bei Justizreformen eine aktive Kontrollfunktion übernehmen sollte."
+                },
+                {
+                  "id": "sum_d",
+                  "label": "d",
+                  "content": "d) Der Sprecher argumentiert, dass föderale Strukturen die Einheitlichkeit der Rechtsprechung erschweren und zu Rechtsunsicherheit führen."
+                },
+                {
+                  "id": "sum_e",
+                  "label": "e",
+                  "content": "e) Die Sprecherin betont, dass Richterunabhängigkeit das Fundament des Rechtsstaats ist und nicht durch Effizienzkriterien ausgehöhlt werden darf."
+                },
+                {
+                  "id": "sum_f",
+                  "label": "f",
+                  "content": "f) Der Sprecher warnt, dass Mediationsverfahren staatliche Rechtsschutzgarantien unterhöhlen, wenn sie als Pflichtvorschaltung wirken."
+                },
+                {
+                  "id": "sum_g",
+                  "label": "g",
+                  "content": "g) Die Sprecherin sieht in der Verfassungsgerichtsbarkeit die wichtigste Garantie gegen demokratischen Abbau."
+                },
+                {
+                  "id": "sum_h",
+                  "label": "h",
+                  "content": "h) Der Sprecher meint, dass Datenschutzbehörden mit mehr Ressourcen ausgestattet werden müssen, um DSGVO-Verstöße effektiv zu ahnden."
+                },
+                {
+                  "id": "sum_i",
+                  "label": "i",
+                  "content": "i) Die Sprecherin kritisiert, dass der Europäische Gerichtshof zu wenig Einfluss auf nationale Überwachungsgesetze hat."
+                },
+                {
+                  "id": "sum_j",
+                  "label": "j",
+                  "content": "j) Der Sprecher glaubt, dass algorithmische Entscheidungssysteme ohne ausreichende Transparenzpflichten grundrechtlich bedenklich sind."
+                }
+              ],
+              "correctAnswer": "g",
+              "explanation": "Frau Prof. Baumann argumentiert, dass Verfassungsgerichte die letzte wirksame Schranke gegen demokratischen Abbau sind — sie beschreibt die Verfassungsgerichtsbarkeit als 'wichtigste Garantie'. Das entspricht Zusammenfassung g). Distraktor c) klingt ähnlich, bezieht sich aber speziell auf Justizreformen, nicht auf demokratischen Abbau allgemein."
+            },
+            {
+              "id": "C1_m06_HV1_q2",
+              "type": "matching",
+              "questionText": "Sprecher 2: Herr Dr. Metzger, Datenschutzrechtler",
+              "matchingSources": [
+                {
+                  "id": "sum_a",
+                  "label": "a"
+                },
+                {
+                  "id": "sum_b",
+                  "label": "b"
+                },
+                {
+                  "id": "sum_c",
+                  "label": "c"
+                },
+                {
+                  "id": "sum_d",
+                  "label": "d"
+                },
+                {
+                  "id": "sum_e",
+                  "label": "e"
+                },
+                {
+                  "id": "sum_f",
+                  "label": "f"
+                },
+                {
+                  "id": "sum_g",
+                  "label": "g"
+                },
+                {
+                  "id": "sum_h",
+                  "label": "h"
+                },
+                {
+                  "id": "sum_i",
+                  "label": "i"
+                },
+                {
+                  "id": "sum_j",
+                  "label": "j"
+                }
+              ],
+              "correctAnswer": "h",
+              "explanation": "Dr. Metzger argumentiert, dass Datenschutzbehörden strukturell unterfinanziert sind und deshalb DSGVO-Verstöße nicht effektiv verfolgen können. Das deckt sich mit Zusammenfassung h). Distraktor b) thematisiert zwar Datenschutz, fokussiert aber auf den Widerspruch zu wirtschaftlicher Innovation — nicht auf Kapazitäten."
+            },
+            {
+              "id": "C1_m06_HV1_q3",
+              "type": "matching",
+              "questionText": "Sprecher 3: Frau Dr. Ritter, Richterbund-Vertreterin",
+              "matchingSources": [
+                {
+                  "id": "sum_a",
+                  "label": "a"
+                },
+                {
+                  "id": "sum_b",
+                  "label": "b"
+                },
+                {
+                  "id": "sum_c",
+                  "label": "c"
+                },
+                {
+                  "id": "sum_d",
+                  "label": "d"
+                },
+                {
+                  "id": "sum_e",
+                  "label": "e"
+                },
+                {
+                  "id": "sum_f",
+                  "label": "f"
+                },
+                {
+                  "id": "sum_g",
+                  "label": "g"
+                },
+                {
+                  "id": "sum_h",
+                  "label": "h"
+                },
+                {
+                  "id": "sum_i",
+                  "label": "i"
+                },
+                {
+                  "id": "sum_j",
+                  "label": "j"
+                }
+              ],
+              "correctAnswer": "e",
+              "explanation": "Frau Dr. Ritter vertritt die Position des Richterbundes: Richterunabhängigkeit ist das Fundament des Rechtsstaats und darf nicht durch Effizienzmetriken eingeschränkt werden. Zusammenfassung e) trifft exakt diese Haltung. Distraktor a) klingt ähnlich, thematisiert aber den Verhältnismäßigkeitsgrundsatz, nicht die Unabhängigkeit."
+            },
+            {
+              "id": "C1_m06_HV1_q4",
+              "type": "matching",
+              "questionText": "Sprecher 4: Herr Prof. Haas, Föderalismusforscher",
+              "matchingSources": [
+                {
+                  "id": "sum_a",
+                  "label": "a"
+                },
+                {
+                  "id": "sum_b",
+                  "label": "b"
+                },
+                {
+                  "id": "sum_c",
+                  "label": "c"
+                },
+                {
+                  "id": "sum_d",
+                  "label": "d"
+                },
+                {
+                  "id": "sum_e",
+                  "label": "e"
+                },
+                {
+                  "id": "sum_f",
+                  "label": "f"
+                },
+                {
+                  "id": "sum_g",
+                  "label": "g"
+                },
+                {
+                  "id": "sum_h",
+                  "label": "h"
+                },
+                {
+                  "id": "sum_i",
+                  "label": "i"
+                },
+                {
+                  "id": "sum_j",
+                  "label": "j"
+                }
+              ],
+              "correctAnswer": "d",
+              "explanation": "Herr Prof. Haas sieht im deutschen Föderalismus ein Problem für die Einheitlichkeit der Rechtsprechung: unterschiedliche Landesregelungen führen zu Rechtsunsicherheit. Das entspricht Zusammenfassung d). Distraktor g) wäre inhaltlich verwandt (Verfassungsschutz), bezieht sich aber nicht auf Föderalismus und Rechtsunsicherheit."
+            },
+            {
+              "id": "C1_m06_HV1_q5",
+              "type": "matching",
+              "questionText": "Sprecher 5: Frau Schulz, Rechtsanwältin",
+              "matchingSources": [
+                {
+                  "id": "sum_a",
+                  "label": "a"
+                },
+                {
+                  "id": "sum_b",
+                  "label": "b"
+                },
+                {
+                  "id": "sum_c",
+                  "label": "c"
+                },
+                {
+                  "id": "sum_d",
+                  "label": "d"
+                },
+                {
+                  "id": "sum_e",
+                  "label": "e"
+                },
+                {
+                  "id": "sum_f",
+                  "label": "f"
+                },
+                {
+                  "id": "sum_g",
+                  "label": "g"
+                },
+                {
+                  "id": "sum_h",
+                  "label": "h"
+                },
+                {
+                  "id": "sum_i",
+                  "label": "i"
+                },
+                {
+                  "id": "sum_j",
+                  "label": "j"
+                }
+              ],
+              "correctAnswer": "f",
+              "explanation": "Frau Schulz warnt als Praktikerin vor verpflichtenden Mediationsverfahren: Sie drohen, den staatlich garantierten Rechtsschutzanspruch zu unterhöhlen, wenn sie als Pflichtvorschaltung wirken. Das trifft Zusammenfassung f) exakt."
+            },
+            {
+              "id": "C1_m06_HV1_q6",
+              "type": "matching",
+              "questionText": "Sprecher 6: Herr Albrecht, Bürgerrechtsaktivist",
+              "matchingSources": [
+                {
+                  "id": "sum_a",
+                  "label": "a"
+                },
+                {
+                  "id": "sum_b",
+                  "label": "b"
+                },
+                {
+                  "id": "sum_c",
+                  "label": "c"
+                },
+                {
+                  "id": "sum_d",
+                  "label": "d"
+                },
+                {
+                  "id": "sum_e",
+                  "label": "e"
+                },
+                {
+                  "id": "sum_f",
+                  "label": "f"
+                },
+                {
+                  "id": "sum_g",
+                  "label": "g"
+                },
+                {
+                  "id": "sum_h",
+                  "label": "h"
+                },
+                {
+                  "id": "sum_i",
+                  "label": "i"
+                },
+                {
+                  "id": "sum_j",
+                  "label": "j"
+                }
+              ],
+              "correctAnswer": "j",
+              "explanation": "Herr Albrecht kritisiert algorithmische Entscheidungssysteme im staatlichen Bereich als grundrechtlich bedenklich, solange keine Transparenzpflichten bestehen. Das entspricht Zusammenfassung j). Distraktor b) thematisiert zwar Datenschutz, steht aber in einem Wirtschaftsinnovations-Kontext."
+            },
+            {
+              "id": "C1_m06_HV1_q7",
+              "type": "matching",
+              "questionText": "Sprecher 7: Frau Dr. Werner, Strafrechtsexpertin",
+              "matchingSources": [
+                {
+                  "id": "sum_a",
+                  "label": "a"
+                },
+                {
+                  "id": "sum_b",
+                  "label": "b"
+                },
+                {
+                  "id": "sum_c",
+                  "label": "c"
+                },
+                {
+                  "id": "sum_d",
+                  "label": "d"
+                },
+                {
+                  "id": "sum_e",
+                  "label": "e"
+                },
+                {
+                  "id": "sum_f",
+                  "label": "f"
+                },
+                {
+                  "id": "sum_g",
+                  "label": "g"
+                },
+                {
+                  "id": "sum_h",
+                  "label": "h"
+                },
+                {
+                  "id": "sum_i",
+                  "label": "i"
+                },
+                {
+                  "id": "sum_j",
+                  "label": "j"
+                }
+              ],
+              "correctAnswer": "c",
+              "explanation": "Frau Dr. Werner plädiert dafür, dass das Bundesverfassungsgericht bei Justizreformen nicht nur nachträglich prüft, sondern aktiv eine Kontrollfunktion übernimmt. Das entspricht Zusammenfassung c). Distraktor g) thematisiert zwar das BVerfG, aber im Kontext demokratischen Abbaus, nicht von Justizreformen."
+            },
+            {
+              "id": "C1_m06_HV1_q8",
+              "type": "matching",
+              "questionText": "Sprecher 8: Herr Prof. Lindner, Verhältnismäßigkeitsforscher",
+              "matchingSources": [
+                {
+                  "id": "sum_a",
+                  "label": "a"
+                },
+                {
+                  "id": "sum_b",
+                  "label": "b"
+                },
+                {
+                  "id": "sum_c",
+                  "label": "c"
+                },
+                {
+                  "id": "sum_d",
+                  "label": "d"
+                },
+                {
+                  "id": "sum_e",
+                  "label": "e"
+                },
+                {
+                  "id": "sum_f",
+                  "label": "f"
+                },
+                {
+                  "id": "sum_g",
+                  "label": "g"
+                },
+                {
+                  "id": "sum_h",
+                  "label": "h"
+                },
+                {
+                  "id": "sum_i",
+                  "label": "i"
+                },
+                {
+                  "id": "sum_j",
+                  "label": "j"
+                }
+              ],
+              "correctAnswer": "a",
+              "explanation": "Herr Prof. Lindner verteidigt den Verhältnismäßigkeitsgrundsatz, räumt aber ein, dass eine zu enge Auslegung staatliches Handeln lähmen kann — eine Gefahr der Überformalisierung. Das entspricht Zusammenfassung a)."
+            }
+          ]
+        },
+        {
+          "partNumber": 2,
+          "instructions": "Sie hören ein Interview mit Prof. Dr. Katrin Seidel zum Thema Verfassungsgerichtsbarkeit und Justizreform. Sie hören das Interview nur einmal.",
+          "instructionsTranslation": "You will hear an interview with Prof. Dr. Katrin Seidel on the topic of constitutional jurisdiction and judicial reform. You will hear the interview once.",
+          "audioFile": "assets/audio/C1/mock06/listening_part2.mp3",
+          "playCount": 1,
+          "audioTranscript": "Moderator: Guten Tag, Frau Prof. Seidel. Sie forschen zur Verfassungsgerichtsbarkeit in Europa. Meine erste Frage: Welche Rolle spielt das Bundesverfassungsgericht heute für den deutschen Rechtsstaat?\n\nProf. Seidel: Das Bundesverfassungsgericht ist das institutionelle Gewissen des deutschen Rechtsstaats. Es prüft nicht nur, ob Gesetze mit dem Grundgesetz vereinbar sind — es interpretiert die Verfassung auch weiter, entwickelt sie fort. Das ist keine Anmaßung, sondern eine notwendige Funktion in einer Demokratie, die unter veränderten gesellschaftlichen Bedingungen bestehen will.\n\nModerator: Kritiker werfen dem Gericht vor, zu politisch zu urteilen. Wie antworten Sie darauf?\n\nProf. Seidel: Das ist ein häufiges Missverständnis. Jede Verfassungsauslegung hat politische Implikationen — das lässt sich nicht vermeiden. Entscheidend ist, ob das Gericht seine Urteile methodisch nachvollziehbar begründet und ob es sich von Verfassungsprinzipien — nicht von Tagespolitik — leiten lässt. Kein Gericht der Welt entscheidet im politischen Vakuum.\n\nModerator: Beim Thema Justizreform fordert die Politik kürzere Verfahren. Ist das mit Richterunabhängigkeit vereinbar?\n\nProf. Seidel: Das ist der Kern des Problems. Effizienz und Unabhängigkeit schließen sich nicht aus, aber sie stehen in einem Spannungsverhältnis. Wenn Richterinnen und Richter nach Fallzahlen bewertet werden, entsteht ein Anreiz, komplexe Fälle schnell abzuschließen — zu Lasten der Tiefe der Begründung. Das ist eine subtile, aber reale Gefahr für die Qualität der Rechtsprechung.\n\nModerator: Was halten Sie von verpflichtenden Mediationsverfahren vor Zivilklagen?\n\nProf. Seidel: Mediation kann ein wertvolles Instrument sein — aber nur, wenn die Parteien freiwillig teilnehmen. Verpflichtende Vorschaltverfahren riskieren, die in Art. 19 Abs. 4 GG garantierte Rechtsweggarantie faktisch zu verkürzen. Das Bundesverfassungsgericht hat die Rechtsweggarantie als subjektives Recht ausgelegt, das nicht durch administrative Hürden ausgehöhlt werden darf.\n\nModerator: Wie bewerten Sie die Idee, Richterernennungen an objektivierten Leistungskriterien auszurichten?\n\nProf. Seidel: Das halte ich für problematisch. Juristische Qualität ist mehrdimensional — Urteilsklarheit, Verhandlungsführung, Empathie im Sozialrecht, verfassungsrechtliche Sensibilität. Quantifizierbare Kennzahlen erfassen diese Dimensionen nicht. Im schlimmsten Fall bevorzugen sie Richter*innen, die Routinefälle schnell abarbeiten, und benachteiligen jene, die in grundrechtssensiblen Verfahren die notwendige Tiefe entwickeln.\n\nModerator: Welche Reformen würden Sie stattdessen empfehlen?\n\nProf. Seidel: Zwei Maßnahmen hätten sofortige Wirkung: Erstens die vollständige Digitalisierung der Aktenführung — das spart nicht nur Zeit, sondern erleichtert auch die gerichtsinterne Zusammenarbeit erheblich. Zweitens mehr Planstellen. Deutschland hat im europäischen Vergleich eine hohe Richter*innendichte, aber sie ist ungleich verteilt — und gerade an Verwaltungs- und Sozialgerichten fehlen Stellen, wo die Verfahrenslast am größten ist.\n\nModerator: Herzlichen Dank, Frau Prof. Seidel.\n\nProf. Seidel: Sehr gerne.",
+          "questions": [
+            {
+              "id": "C1_m06_HV2_q1",
+              "type": "mcq",
+              "questionText": "Wie charakterisiert Prof. Seidel die Funktion des Bundesverfassungsgerichts?",
+              "options": [
+                "a) Es prüft ausschließlich formale Verfassungskonformität ohne Auslegungsspielraum.",
+                "b) Es ist das institutionelle Gewissen des Rechtsstaats und entwickelt die Verfassung fort.",
+                "c) Es nimmt eine rein technische Prüffunktion wahr und vermeidet politische Wertungen."
+              ],
+              "correctAnswer": "b",
+              "explanation": "Prof. Seidel nennt das BVerfG das 'institutionelle Gewissen des deutschen Rechtsstaats' und beschreibt die Verfassungsfortentwicklung als notwendige Funktion. a) und c) beschreiben ein rein formales Prüforgan — das widerspricht ihrer Darstellung."
+            },
+            {
+              "id": "C1_m06_HV2_q2",
+              "type": "mcq",
+              "questionText": "Was antwortet Prof. Seidel auf den Vorwurf, das Gericht urteile zu politisch?",
+              "options": [
+                "a) Sie gibt zu, dass das BVerfG in einigen Fällen zu stark von der Tagespolitik beeinflusst wird.",
+                "b) Sie erklärt, dass Verfassungsauslegung immer politische Implikationen hat, und betont die methodische Nachvollziehbarkeit als entscheidendes Kriterium.",
+                "c) Sie fordert, dass Richter*innen des BVerfG keine Parteimitgliedschaft haben dürfen."
+              ],
+              "correctAnswer": "b",
+              "explanation": "Prof. Seidel räumt ein, dass Verfassungsauslegung politische Implikationen hat, betont aber, dass methodische Begründung und Orientierung an Verfassungsprinzipien — nicht an Tagespolitik — entscheidend sind. a) stimmt teilweise, aber sie gibt gerade nicht zu, dass das BVerfG zu stark beeinflusst wird. c) erwähnt sie nicht."
+            },
+            {
+              "id": "C1_m06_HV2_q3",
+              "type": "mcq",
+              "questionText": "Welche Gefahr sieht Prof. Seidel bei der Bewertung von Richter*innen nach Fallzahlen?",
+              "options": [
+                "a) Richter*innen könnten übermäßig vorsichtig werden und weniger Urteile sprechen.",
+                "b) Komplexe Fälle könnten zu schnell abgeschlossen werden, auf Kosten der Begründungstiefe.",
+                "c) Richter*innen könnten ihre Unabhängigkeit durch offene Kritik an der Politik gefährden."
+              ],
+              "correctAnswer": "b",
+              "explanation": "Prof. Seidel beschreibt den Anreiz, komplexe Fälle schnell abzuschließen, 'zu Lasten der Tiefe der Begründung'. Das ist eine subtile, aber reale Gefahr für die Qualität der Rechtsprechung. a) und c) sind nicht im Interview genannt."
+            },
+            {
+              "id": "C1_m06_HV2_q4",
+              "type": "mcq",
+              "questionText": "Unter welcher Bedingung hält Prof. Seidel Mediation für ein wertvolles Instrument?",
+              "options": [
+                "a) Wenn das Gericht die Mediation aktiv überwacht und das Ergebnis genehmigt.",
+                "b) Wenn sie verpflichtend vorgeschaltet wird, um Gerichte systematisch zu entlasten.",
+                "c) Wenn die Parteien freiwillig teilnehmen und kein Zwang besteht."
+              ],
+              "correctAnswer": "c",
+              "explanation": "Prof. Seidel sagt explizit: 'Mediation kann wertvoll sein — aber nur, wenn die Parteien freiwillig teilnehmen.' Verpflichtende Vorschaltverfahren kritisiert sie gerade als problematisch (b). Von gerichtlicher Überwachung des Mediationsergebnisses spricht sie nicht (a)."
+            },
+            {
+              "id": "C1_m06_HV2_q5",
+              "type": "mcq",
+              "questionText": "Welches Grundgesetz-Recht nennt Prof. Seidel im Kontext verpflichtender Mediationsverfahren?",
+              "options": [
+                "a) Das Recht auf informationelle Selbstbestimmung aus Art. 2 Abs. 1 GG.",
+                "b) Die Rechtsweggarantie aus Art. 19 Abs. 4 GG.",
+                "c) Das Recht auf rechtliches Gehör aus Art. 103 Abs. 1 GG."
+              ],
+              "correctAnswer": "b",
+              "explanation": "Prof. Seidel verweist auf 'Art. 19 Abs. 4 GG garantierte Rechtsweggarantie' als das durch verpflichtende Mediation gefährdete Grundrecht. Art. 2 Abs. 1 und Art. 103 Abs. 1 erwähnt sie in diesem Kontext nicht."
+            },
+            {
+              "id": "C1_m06_HV2_q6",
+              "type": "mcq",
+              "questionText": "Warum lehnt Prof. Seidel objektivierte Leistungskriterien für Richterernennungen ab?",
+              "options": [
+                "a) Weil sie zu teuer in der Implementierung wären.",
+                "b) Weil quantifizierbare Kennzahlen die mehrdimensionale juristische Qualität nicht abbilden können.",
+                "c) Weil das Bundesverfassungsgericht diese Kriterien bereits für verfassungswidrig erklärt hat."
+              ],
+              "correctAnswer": "b",
+              "explanation": "Prof. Seidel argumentiert, juristische Qualität sei mehrdimensional (Urteilsklarheit, Empathie, verfassungsrechtliche Sensibilität) und lasse sich durch Kennzahlen nicht erfassen. a) und c) erwähnt sie nicht."
+            },
+            {
+              "id": "C1_m06_HV2_q7",
+              "type": "mcq",
+              "questionText": "Welche zwei Reformmaßnahmen empfiehlt Prof. Seidel konkret?",
+              "options": [
+                "a) Verpflichtende Mediation und Leistungskennzahlen für Richter*innen.",
+                "b) Vollständige Digitalisierung der Aktenführung und Schaffung mehr Planstellen.",
+                "c) Konzentration der Fachgerichte in Ballungsräumen und Vereinheitlichung des Prozessrechts."
+              ],
+              "correctAnswer": "b",
+              "explanation": "Prof. Seidel nennt explizit zwei Maßnahmen: Erstens vollständige Digitalisierung der Aktenführung, zweitens mehr Planstellen. a) lehnt sie im Interview gerade ab. c) erwähnt sie nicht."
+            },
+            {
+              "id": "C1_m06_HV2_q8",
+              "type": "mcq",
+              "questionText": "Welche Aussage zur Richter*innendichte in Deutschland trifft Prof. Schiemanns Position laut Interview?",
+              "options": [
+                "a) Deutschland hat im europäischen Vergleich generell zu wenig Richter*innen.",
+                "b) Die Richter*innendichte ist hoch, aber ungleich verteilt — besonders an belasteten Gerichten fehlen Stellen.",
+                "c) Die Richter*innendichte ist in Deutschland die niedrigste in der EU."
+              ],
+              "correctAnswer": "b",
+              "explanation": "Prof. Seidel sagt: 'Deutschland hat im europäischen Vergleich eine hohe Richter*innendichte, aber sie ist ungleich verteilt' — und spezifisch an Verwaltungs- und Sozialgerichten fehlen Stellen. a) und c) widersprechen dieser Nuancierung."
+            },
+            {
+              "id": "C1_m06_HV2_q9",
+              "type": "mcq",
+              "questionText": "Was versteht Prof. Seidel unter dem Spannungsverhältnis zwischen Effizienz und Unabhängigkeit?",
+              "options": [
+                "a) Effizienz und Unabhängigkeit schließen sich grundsätzlich aus und können nicht gleichzeitig bestehen.",
+                "b) Effizienz und Unabhängigkeit schließen sich nicht aus, stehen aber in einem Spannungsverhältnis, das falsche Anreize setzen kann.",
+                "c) Effizienz ist wichtiger als Unabhängigkeit, solange das Verfassungsgericht als Kontrollinstanz besteht."
+              ],
+              "correctAnswer": "b",
+              "explanation": "Prof. Seidel sagt: 'Effizienz und Unabhängigkeit schließen sich nicht aus, aber sie stehen in einem Spannungsverhältnis.' a) überspitzt ihre Position (sie sagt nicht 'grundsätzlich ausschließen'). c) entspricht nicht ihrer Haltung."
+            },
+            {
+              "id": "C1_m06_HV2_q10",
+              "type": "mcq",
+              "questionText": "Was meint Prof. Seidel, wenn sie sagt, kein Gericht entscheide 'im politischen Vakuum'?",
+              "options": [
+                "a) Gerichte sollten sich aktiv in den politischen Prozess einbringen.",
+                "b) Verfassungsauslegung hat immer politische Implikationen — das ist unvermeidlich, aber kein Beweis für Parteilichkeit.",
+                "c) Das Bundesverfassungsgericht ist de facto ein politisches Organ und sollte so behandelt werden."
+              ],
+              "correctAnswer": "b",
+              "explanation": "Prof. Seidel nutzt den Satz, um zu erklären, dass politische Implikationen bei Verfassungsurteilen strukturell unvermeidlich sind — das sei aber kein Zeichen für Parteilichkeit. a) und c) verdrehen ihren Standpunkt."
+            }
+          ]
+        },
+        {
+          "partNumber": 3,
+          "instructions": "Sie hören einen akademischen Vortrag zum Thema Verhältnismäßigkeit und Datenschutz im europäischen Rechtsvergleich. Sie hören den Vortrag zweimal.",
+          "instructionsTranslation": "You will hear an academic lecture on the topic of proportionality and data protection in European legal comparison. You will hear the lecture twice.",
+          "audioFile": "assets/audio/C1/mock06/listening_part3.mp3",
+          "playCount": 2,
+          "questions": [
+            {
+              "id": "C1_m06_HV3_q1",
+              "type": "mcq",
+              "questionText": "Was ist laut Vortrag das Kernmerkmal des Verhältnismäßigkeitsgrundsatzes im deutschen Recht?",
+              "options": [
+                "a) Er gilt nur im Strafrecht und hat im Verwaltungsrecht keine Anwendung.",
+                "b) Er verlangt ein dreistufiges Prüfschema: Geeignetheit, Erforderlichkeit und Angemessenheit.",
+                "c) Er ist ein politischer Grundsatz ohne bindende Rechtsnatur."
+              ],
+              "correctAnswer": "b",
+              "explanation": "Der Vortrag beschreibt das dreistufige Prüfschema (Geeignetheit, Erforderlichkeit, Angemessenheit) als das Kernmerkmal des deutschen Verhältnismäßigkeitsgrundsatzes. a) ist falsch — er gilt im gesamten öffentlichen Recht. c) ist falsch — er hat bindende Verfassungsrang."
+            },
+            {
+              "id": "C1_m06_HV3_q2",
+              "type": "mcq",
+              "questionText": "Welchen Unterschied zwischen Common Law und deutschem Recht nennt der Vortrag?",
+              "options": [
+                "a) Common-Law-Systeme kennen kein Verhältnismäßigkeitsprinzip.",
+                "b) Common-Law-Systeme haben kein ausdifferenziertes dreistufiges Verhältnismäßigkeitsprüfschema.",
+                "c) Common-Law-Systeme haben den Verhältnismäßigkeitsgrundsatz aus dem deutschen Recht übernommen."
+              ],
+              "correctAnswer": "b",
+              "explanation": "Der Vortrag stellt fest, dass Common-Law-Systeme zwar Verhältnismäßigkeitserwägungen kennen, aber kein vergleichbar ausdifferenziertes dreistufiges Schema. a) ist zu absolut. c) ist faktisch unzutreffend."
+            },
+            {
+              "id": "C1_m06_HV3_q3",
+              "type": "mcq",
+              "questionText": "Was erläutert der Vortrag zum Volkszählungsurteil von 1983?",
+              "options": [
+                "a) Es stellte das Recht auf Datenschutz in direkten Widerspruch zur staatlichen Sicherheitspolitik.",
+                "b) Es begründete das Grundrecht auf informationelle Selbstbestimmung aus dem allgemeinen Persönlichkeitsrecht.",
+                "c) Es erklärte staatliche Volkszählungen generell für verfassungswidrig."
+              ],
+              "correctAnswer": "b",
+              "explanation": "Der Vortrag erklärt, dass das BVerfG 1983 das Grundrecht auf informationelle Selbstbestimmung aus Art. 2 Abs. 1 i. V. m. Art. 1 Abs. 1 GG (allgemeines Persönlichkeitsrecht) abgeleitet hat. a) und c) sind falsch — das Gericht erklärte nicht alle Volkszählungen für unzulässig, sondern setzte Bedingungen."
+            },
+            {
+              "id": "C1_m06_HV3_q4",
+              "type": "mcq",
+              "questionText": "Wie bewertet der Vortrag die DSGVO im Verhältnis zum deutschen Datenschutzrecht?",
+              "options": [
+                "a) Die DSGVO hat das informationelle Selbstbestimmungsrecht vollständig ersetzt.",
+                "b) Die DSGVO hat das Flickenteppich-Problem der alten Richtlinie weitgehend beseitigt, lässt aber nationale Öffnungsklauseln zu.",
+                "c) Die DSGVO steht in einem unlösbaren Widerspruch zur deutschen Verfassungstradition."
+              ],
+              "correctAnswer": "b",
+              "explanation": "Der Vortrag erklärt, dass die DSGVO das Zersplitterungsproblem des Richtlinienregimes weitgehend löst, aber Öffnungsklauseln für nationale Besonderheiten enthält. a) und c) überspitzen die Darstellung im Vortrag."
+            },
+            {
+              "id": "C1_m06_HV3_q5",
+              "type": "mcq",
+              "questionText": "Welches Strukturproblem der DSGVO-Durchsetzung nennt der Vortrag?",
+              "options": [
+                "a) Datenschutzbehörden haben keine Befugnis, Bußgelder zu verhängen.",
+                "b) Datenschutzbehörden sind ungleich mit Ressourcen ausgestattet, was die Durchsetzung verzerrt.",
+                "c) Die DSGVO enthält keine Sanktionsmechanismen für Verstöße."
+              ],
+              "correctAnswer": "b",
+              "explanation": "Der Vortrag beschreibt die Disparitäten zwischen Datenschutzbehörden der Mitgliedstaaten — Irland als Beispiel — und benennt dies als strukturelles Durchsetzungsproblem. a) und c) sind sachlich falsch — die DSGVO enthält ausdrücklich Bußgeldkompetenzen."
+            },
+            {
+              "id": "C1_m06_HV3_q6",
+              "type": "mcq",
+              "questionText": "Was sagt der Vortrag zur verfassungsrechtlichen Zulässigkeit algorithmischer Staatsentscheidungen?",
+              "options": [
+                "a) Sie sind grundsätzlich unzulässig nach dem Grundgesetz.",
+                "b) Das Bundesverfassungsgericht hat sie bereits umfassend für zulässig erklärt.",
+                "c) Die Frage ist noch nicht abschließend geklärt; aus Grundgesetz-Artikeln lassen sich aber Grenzen ableiten."
+              ],
+              "correctAnswer": "c",
+              "explanation": "Der Vortrag stellt fest, dass das BVerfG die Frage noch nicht abschließend entschieden hat, aber aus Art. 19 Abs. 4 und Art. 103 Abs. 1 GG Grenzen ableitbar sind. a) und b) treffen die differenzierte Position des Vortrags nicht."
+            },
+            {
+              "id": "C1_m06_HV3_q7",
+              "type": "mcq",
+              "questionText": "Welche Hauptkritik übt der Vortrag an verpflichtenden Mediationsverfahren?",
+              "options": [
+                "a) Sie sind zu kostspielig für Bürgerinnen und Bürger mit geringem Einkommen.",
+                "b) Sie verlagern Streitbeilegung in einen Bereich, der staatlicher Aufsicht weitgehend entzogen ist.",
+                "c) Sie sind in der EU durch europäisches Recht verboten."
+              ],
+              "correctAnswer": "b",
+              "explanation": "Der Vortrag gibt die Kritik wieder, dass Mediation Streitbeilegung in einen nicht öffentlichen, staatlich kaum beaufsichtigten Bereich verlagert. a) wird nicht erwähnt. c) ist sachlich falsch."
+            },
+            {
+              "id": "C1_m06_HV3_q8",
+              "type": "mcq",
+              "questionText": "Was erklärt der Vortrag zur internationalen Verbreitung des deutschen Verhältnismäßigkeitsgrundsatzes?",
+              "options": [
+                "a) Er wurde bislang von keinem anderen Rechtssystem übernommen.",
+                "b) Er ist ein Exportgut des deutschen Verfassungsrechts und Gegenstand intensiver Rechtsvergleichung.",
+                "c) Er wurde vom Europäischen Gerichtshof für Menschenrechte als verbindlicher Standard anerkannt."
+              ],
+              "correctAnswer": "b",
+              "explanation": "Der Vortrag bezeichnet den Grundsatz als 'Exportgut des deutschen Verfassungsrechts' und als Gegenstand rechtsvergleichender Forschung. a) unterschätzt den tatsächlichen Einfluss. c) ist zu absolut formuliert."
+            },
+            {
+              "id": "C1_m06_HV3_q9",
+              "type": "mcq",
+              "questionText": "Wie beschreibt der Vortrag die Spannung zwischen Effizienz und Richterunabhängigkeit?",
+              "options": [
+                "a) Als auflösbares Scheinproblem, da Effizienz und Unabhängigkeit sich nicht widersprechen.",
+                "b) Als strukturelle Spannung, die durch Leistungsmessung entstehen kann und Begründungstiefe gefährdet.",
+                "c) Als Problem, das nur durch vollständige Abschaffung leistungsbezogener Kriterien lösbar ist."
+              ],
+              "correctAnswer": "b",
+              "explanation": "Der Vortrag beschreibt die Spannung als real und strukturell: Fallzahlbasierte Bewertung schafft Anreize, die Begründungstiefe auf Kosten der Qualität zu reduzieren. a) verneint die Spannung — das tut der Vortrag nicht. c) überspitzt die Schlussfolgerung."
+            },
+            {
+              "id": "C1_m06_HV3_q10",
+              "type": "mcq",
+              "questionText": "Welche Empfehlung zur Stärkung der deutschen Justiz nennt der Vortrag abschließend?",
+              "options": [
+                "a) Konzentration aller Gerichte in Ballungsräumen zur Ressourcenbündelung.",
+                "b) Vollständige Digitalisierung der Aktenführung und Schaffung weiterer Richterstellen.",
+                "c) Einführung eines einheitlichen europäischen Prozessrechts für alle Zivilklagen."
+              ],
+              "correctAnswer": "b",
+              "explanation": "Der Vortrag empfiehlt die Digitalisierung der eAkte und mehr Planstellen, insbesondere an Verwaltungs- und Sozialgerichten. a) und c) werden als Optionen nicht empfohlen."
+            }
+          ]
+        }
+      ]
+    },
+    "writing": {
+      "totalTimeMinutes": 60,
+      "tasks": [
+        {
+          "taskNumber": 1,
+          "type": "essay",
+          "instructions": "Wählen Sie eine der beiden Aufgaben (A oder B) und schreiben Sie einen Text von mindestens 350 Wörtern. Beachten Sie alle vier Leitpunkte.",
+          "instructionsTranslation": "Choose one of the two tasks (A or B) and write a text of at least 350 words. Address all four required points.",
+          "prompt": "Aufgabe A — Erörterung: Sollte das Bundesverfassungsgericht die Befugnis erhalten, Gesetze präventiv — also vor ihrer Verabschiedung — auf Verfassungskonformität zu prüfen?\n\nMögliche Leitpunkte:\n• Thema einführen und verfassungsrechtliche Relevanz erläutern\n• Argumente für eine präventive Normenkontrolle diskutieren\n• Argumente gegen eine präventive Normenkontrolle oder bestehende Alternativen diskutieren\n• Eigenen Standpunkt begründet darlegen\n\nAufgabe B — Stellungnahme: Stellt der Verhältnismäßigkeitsgrundsatz in Zeiten erhöhter Sicherheitsbedrohungen eine übermäßige Einschränkung staatlichen Handelns dar?\n\nMögliche Leitpunkte:\n• Thema einführen und gesellschaftliche Brisanz erläutern\n• Argumente für die These (Grundsatz als Hemmnis) diskutieren\n• Argumente gegen die These (Grundsatz als Schutz) diskutieren\n• Eigene Position begründen und Fazit ziehen",
+          "promptTranslation": "Task A — Argumentative essay: Should the Federal Constitutional Court receive the authority to review laws preventively — before they are passed — for constitutional compliance?\n\nTask B — Position paper: Does the principle of proportionality constitute an excessive constraint on state action in times of heightened security threats?",
+          "requiredPoints": [
+            "Thema einführen und verfassungsrechtliche Relevanz erläutern",
+            "Argumente für eine Position diskutieren",
+            "Argumente für die Gegenposition oder Alternativen diskutieren",
+            "Eigenen Standpunkt begründet darlegen"
+          ],
+          "wordCountMin": 350,
+          "wordCountMax": 450,
+          "sampleAnswer": "Aufgabe A — Musterlösung (Erörterung)\n\nDie Frage, ob das Bundesverfassungsgericht präventive Normenkontrolle ausüben sollte, berührt eines der empfindlichsten Spannungsfelder des Verfassungsrechts: das Verhältnis zwischen parlamentarischer Demokratie und richterlicher Kontrolle. Bislang agiert das Gericht ausschließlich reaktiv — es prüft Gesetze erst, nachdem sie in Kraft getreten sind. Das schützt einerseits die legislatorische Autonomie des Bundestages; andererseits können grundrechtswidrige Gesetze erhebliche Schäden anrichten, bevor ein Urteil fällt.\n\nDie Befürworter einer präventiven Normenkontrolle verweisen auf das französische Vorbild: Frankreichs Conseil constitutionnel prüft Gesetze vor ihrer Promulgation. Das verhindert, dass verfassungswidrige Normen überhaupt in Kraft treten. Gerade bei Gesetzen, die schwer reversible Grundrechtseingriffe ermöglichen — etwa im Bereich der Massenüberwachung oder der Vorratsdatenspeicherung —, wäre Prävention der Reaktion strukturell überlegen.\n\nGegen eine präventive Kontrolle sprechen jedoch gewichtige rechtsstaatliche Argumente. Sie würde das Gericht in einen quasi-legislativen Vorgang einbinden und die demokratische Legitimität des Gesetzgebungsprozesses in Frage stellen. Außerdem käme ein abstraktes Prüfverfahren ohne Anwendungsfall aus — Verfassungsfragen sind aber oft erst in konkreten Fallkonstellationen vollständig zu beurteilen. Das geltende Recht kennt mit der abstrakten Normenkontrolle auf Antrag (Art. 93 Abs. 1 Nr. 2 GG) und der konkreten Normenkontrolle bereits wirksame Instrumente, die parlamentarische Autonomie und gerichtliche Kontrolle in eine verfassungsrechtlich bewährte Balance bringen.\n\nMeiner Ansicht nach sollte die präventive Normenkontrolle in Deutschland nicht eingeführt werden — zumindest nicht als generelle Institution. Die bestehenden Kontrollmechanismen sind ausreichend, sofern das Gericht konsequent genutzt wird. Sinnvoller wäre es, die Antragsbefugnis für die abstrakte Normenkontrolle zu erweitern und damit den Zugang zum Verfassungsgericht zu erleichtern. Das stärkt den Rechtsschutz, ohne die demokratische Gesetzgebungsautonomie strukturell zu beschneiden.",
+          "sampleAnswerMetadata": "ca. 380 Wörter — demonstriert alle 4 Leitpunkte, ≥3 FVG (in Kraft treten, in Frage stellen, in Balance bringen), Konjunktiv I in indirekter Rede ('wäre Prävention … überlegen'), C1-Lexik (quasi-legislativen, Promulgation, legislatorische Autonomie, reversible Grundrechtseingriffe)",
+          "scoringCriteria": [
+            {
+              "criterion": "Aufgabengerechtheit",
+              "maxPoints": 12,
+              "description": "Alle 4 Leitpunkte vollständig behandelt — Einführung mit verfassungsrechtlicher Einordnung, Pro-Argumente (Prävention, Frankreich-Vergleich), Contra-Argumente (demokratische Legitimität, bestehende Instrumente), begründeter Standpunkt. Kein Leitpunkt ausgelassen."
+            },
+            {
+              "criterion": "Repertoire",
+              "maxPoints": 12,
+              "description": "C1-Wortschatz: verfassungsrechtlich-abstrakte Lexik (Normenkontrolle, Promulgation, legislatorische Autonomie, quasi-legislativen), ≥3 Funktionsverbgefüge, Hedging-Ausdrücke, variiertes Konnektor-Repertoire. Keine B1/B2-Einheitsprosa."
+            },
+            {
+              "criterion": "Korrektheit",
+              "maxPoints": 12,
+              "description": "Morphologische und syntaktische Korrektheit auf C1-Niveau. Konjunktiv I in indirekter Rede, Genitiv-Präpositionen, Passiv-Ersatzformen und Infinitivkonstruktionen korrekt eingesetzt."
+            },
+            {
+              "criterion": "Kommunikative Gestaltung",
+              "maxPoints": 12,
+              "description": "Klare Textstruktur (Einleitung/Hauptteil/Schluss), kohärente Absatzführung, variierte Konnektoren, durchgängig formal-akademisches Register. Kein abrupter Registerwechsel."
+            }
+          ]
+        }
+      ]
+    },
+    "speaking": {
+      "totalTimeMinutes": 16,
+      "prepTimeMinutes": 20,
+      "parts": [
+        {
+          "partNumber": 1,
+          "instructions": "Teil 1A — Präsentation: Wählen Sie eines der beiden Themen und halten Sie eine Präsentation von ca. 4 Minuten. Beachten Sie dabei die Impulsfragen.",
+          "instructionsTranslation": "Part 1A — Presentation: Choose one of the two topics and give a presentation of approx. 4 minutes. Consider the guiding questions.",
+          "type": "presentation",
+          "prompt": "Thema A: Ist der Verhältnismäßigkeitsgrundsatz eine unverzichtbare Schranke staatlicher Macht oder ein bürokratisches Hemmnis?\n\nMögliche Aspekte:\n• Bedeutung und Funktion des Grundsatzes im Rechtsstaat\n• Beispiele, in denen er staatliche Übergriffe verhindert hat\n• Kritik: Bremst er effektive Gefahrenabwehr?\n• Eigene Position und Ausblick\n\nThema B: Braucht Deutschland eine Reform der Verfassungsgerichtsbarkeit?\n\nMögliche Aspekte:\n• Aktuelle Stärken des Bundesverfassungsgerichts\n• Diskutierte Reformvorschläge (Amtszeiten, Besetzungsverfahren)\n• Risiken von Reformen für die Unabhängigkeit\n• Eigene Einschätzung",
+          "sampleResponse": "[Thema A — Musterpräsentation]\n\nDer Verhältnismäßigkeitsgrundsatz ist für mich keine bürokratische Last, sondern die Architektursäule des freiheitlichen Rechtsstaats. Er zwingt den Staat, jeden Eingriff in Grundrechte zu rechtfertigen — nicht pauschal, sondern konkret und dreistufig: Geeignetheit, Erforderlichkeit, Angemessenheit. Das klingt technisch, hat aber reale Konsequenzen.\n\nNehmen wir die Vorratsdatenspeicherung: Das Bundesverfassungsgericht hat mehrfach Gesetze kassiert, die flächendeckend Verbindungsdaten aller Bürgerinnen und Bürger speichern wollten. Der Grundsatz verlangte, dass das Mittel — Massenüberwachung — verhältnismäßig zum Zweck — Kriminalitätsbekämpfung — ist. Weil das nicht nachgewiesen werden konnte, scheiterten die Gesetze.\n\nKritiker, vor allem aus dem Sicherheitsbereich, sagen, der Grundsatz lähme schnelles Handeln in Krisen. Das ist ein ernster Einwand. Aber ich frage zurück: Welche Alternative wäre besser? Ein Staat, der in Krisen ungebunden handeln kann, ist kein Rechtsstaat mehr — er ist eine Notstandsmaschine. Der Verhältnismäßigkeitsgrundsatz ist gerade deshalb wertvoll, weil er auch unter Druck standhält.\n\nMein Fazit: Der Grundsatz ist nicht zu bürokratisch — er ist nicht bürokratisch genug angewandt. Behörden, die die Anforderungen ernst nehmen, treffen bessere, haltbarere Entscheidungen. Das sollte als Qualitätsmerkmal gelten, nicht als Belastung.",
+          "evaluationTips": [
+            "Fachsprachliche Präzision: 'Übermaßverbot', 'Normenkontrolle', 'Grundrechtsdogmatik'",
+            "Strukturierter Aufbau: These → Beispiel → Gegenargument → Replik → Fazit",
+            "Konjunktiv II für Hypothesen: 'wäre besser', 'könnte man einwenden'",
+            "Konnektoren: 'wenngleich', 'gleichwohl', 'in Anbetracht dessen'",
+            "Sachlicher, akademisch-distanzierter Ton ohne Polemik"
+          ],
+          "keyPhrases": [
+            "Das Übermaßverbot gebietet …",
+            "Aus verfassungsrechtlicher Sicht lässt sich einwenden, dass …",
+            "Wenngleich der Einwand berechtigt ist, so …",
+            "Das Bundesverfassungsgericht hat in ständiger Rechtsprechung …",
+            "Die Verhältnismäßigkeitsprüfung verlangt, dass …",
+            "Unter dem Gesichtspunkt des Rechtsstaatsprinzips …",
+            "Gleichwohl darf nicht übersehen werden, dass …",
+            "In Anbetracht der grundrechtlichen Schutzfunktion …"
+          ]
+        },
+        {
+          "partNumber": 2,
+          "instructions": "Teil 1B — Zusammenfassung und Anschlussfrage: Der/die Prüfungspartner/in fasst die Hauptthesen der Präsentation kurz zusammen und stellt eine Anschlussfrage. Reagieren Sie spontan und ausführlich.",
+          "instructionsTranslation": "Part 1B — Summary and follow-up question: The exam partner briefly summarises the main theses of the presentation and asks a follow-up question. Respond spontaneously and in detail.",
+          "type": "discussion",
+          "prompt": "Aufgabe für den/die Prüfungspartner/in:\n1. Fassen Sie die Hauptthesen der Präsentation in 2–3 Sätzen zusammen.\n2. Stellen Sie eine der folgenden Anschlussfragen:\n   a) 'Sie haben den Verhältnismäßigkeitsgrundsatz als unverzichtbar verteidigt. Aber: Sollte der Grundsatz in echten Terrorlagen vorübergehend ausgesetzt werden dürfen?'\n   b) 'Sie befürworten eine Reform der Verfassungsgerichtsbarkeit. Wie würden Sie verhindern, dass eine solche Reform zur politischen Vereinnahmung des Gerichts führt?'",
+          "sampleResponse": "[Musterreaktion auf Anschlussfrage a) — Terrorlagen]\n\nDas ist eine Frage, die ich bewusst scharf formuliert finde — und die ich ebenso scharf zurückweisen möchte. Der Verhältnismäßigkeitsgrundsatz ist kein Luxusprinzip für ruhige Zeiten. Er ist gerade dann unverzichtbar, wenn der Druck steigt, weil Notstandssituationen immer die Versuchung erzeugen, mit dem Übermaß zu reagieren.\n\nGeschichte zeigt: Außerkraftsetzungen von Grundrechtsbindungen in 'echten Krisen' enden selten mit der Krise. Sie schaffen Präzedenzfälle, die später ausgeweitet werden. Stattdessen sollte man fragen, welche Maßnahmen auch verhältnismäßig angewendet ausreichend effektiv sind — und ob das Instrumentarium des Sicherheitsrechts dafür modernisiert werden muss. Das Grundprinzip selbst darf nicht zur Verhandlungsmasse werden.",
+          "evaluationTips": [
+            "Spontane, aber strukturierte Reaktion zeigen",
+            "Konjunktiv I in indirekter Wiedergabe nutzen: 'Sie behaupten, dass …'",
+            "Höflich widersprechen: 'Das sehe ich anders, weil …'",
+            "Historische oder rechtliche Beispiele einbringen"
+          ],
+          "keyPhrases": [
+            "Ich möchte widersprechen, und zwar aus folgendem Grund …",
+            "Geschichte lehrt uns, dass …",
+            "Das wirft die weiterführende Frage auf, ob …",
+            "Ich teile diese Einschätzung nur bedingt …"
+          ]
+        },
+        {
+          "partNumber": 3,
+          "instructions": "Teil 2 — Diskussion: Diskutieren Sie gemeinsam mit Ihrem/Ihrer Prüfungspartner/in die folgende These. Vertreten Sie eine begründete Position und reagieren Sie auf die Argumente Ihres Gegenübers.",
+          "instructionsTranslation": "Part 2 — Discussion: Discuss the following thesis together with your exam partner. Defend a reasoned position and respond to your partner's arguments.",
+          "type": "discussion",
+          "prompt": "Diskussionsthese:\n\n„Datenschutz und staatliche Sicherheitsinteressen schließen sich fundamental aus — eine Gesellschaft muss wählen, welchen Wert sie höher stellt.“\n\nKarte A: Sie vertreten die These — Datenschutz und Sicherheit sind unvereinbar. Argumente: Massenüberwachung rettet Leben, individuelle Privatsphäre ist ein Luxus im Zeitalter des Terrorismus, Datenschutzregeln behindern Strafverfolgung.\n\nKarte B: Sie widerlegen die These — Datenschutz und Sicherheit sind vereinbar. Argumente: Der Verhältnismäßigkeitsgrundsatz ermöglicht gezielte Überwachung ohne Massenerfassung, Datenschutz schützt auch vor staatlichem Machtmissbrauch, Vertrauen in den Rechtsstaat ist selbst ein Sicherheitsfaktor.",
+          "sampleResponse": "[Musterargumentation — Karte B-Position]\n\nIch bestreite die These, dass Datenschutz und Sicherheit sich fundamental ausschließen. Das ist eine falsche Dichotomie — und eine gefährliche dazu.\n\nZunächst zum Verhältnismäßigkeitsgrundsatz: Er verbietet nicht Überwachung per se, sondern unverhältnismäßige Überwachung. Gezielte Maßnahmen gegen konkrete Verdächtige sind nach geltendem Recht möglich und werden täglich angewendet. Was der Grundsatz verhindert, ist Massenerfassung ohne konkreten Verdacht — und genau das ist richtig.\n\nZum Einwand, Datenschutz behindern Strafverfolgung: Studien zeigen, dass gezielte, anlassbezogene Datenerhebung effektiver ist als Massendaten-Analyse. Sicherheitsbehörden, die in Datenbergen suchen, verlieren Ressourcen für gezielte Ermittlungen.\n\nUnd schließlich: Ein Rechtsstaat, der seinen Bürgerinnen und Bürgern die Privatsphäre nimmt, untergräbt das Vertrauen in staatliche Institutionen. Dieses Vertrauen ist selbst ein Sicherheitsfaktor — Gesellschaften, in denen Bürger*innen dem Staat misstrauen, sind destabilisierter, nicht sicherer. Datenschutz ist also kein Gegner der Sicherheit. Er ist ihre Bedingung.",
+          "evaluationTips": [
+            "These klar beziehen: 'Ich bestreite / unterstütze die These, weil …'",
+            "Auf Gegenargumente eingehen: 'Ihr Einwand ist verständlich, aber …'",
+            "Konjunktiv I in Wiedergabe: 'Sie behaupten, dass Überwachung Leben rette …'",
+            "Fachbegriffe setzen: 'Massenüberwachung', 'Verhältnismäßigkeitsgrundsatz', 'anlassbezogen'",
+            "Rhetorische Strategie: falsche Dichotomie benennen und widerlegen"
+          ],
+          "keyPhrases": [
+            "Ich bestreite die These, weil …",
+            "Das ist eine falsche Dichotomie — denn …",
+            "Ihr Einwand ist durchaus berechtigt, aber …",
+            "Der Verhältnismäßigkeitsgrundsatz erlaubt …, verbietet aber …",
+            "Empirisch lässt sich zeigen, dass …",
+            "Vertrauen in den Rechtsstaat ist selbst ein Sicherheitsfaktor.",
+            "Anlassbezogene Maßnahmen sind effektiver als …",
+            "Das untergräbt die Grundlage des Rechtsstaats, nämlich …"
+          ]
+        }
+      ]
+    }
   }
 }
