@@ -41,10 +41,10 @@ function generateEntries(level: Level, count: number): MockExamEntry[] {
       'Medien und Künstliche Intelligenz',
       'Wirtschaft und Globalisierung',
       'Politik und Demokratie',
-      'Gesellschaft und Migration',
+      'Recht und Verfassung',
       'Kultur und Kunst',
       'Gesundheit und Medizin',
-      'Datenschutz und digitale Sicherheit',
+      'Philosophie und Ethik',
       'Technologie und Zukunft der Arbeit',
     ],
   };
