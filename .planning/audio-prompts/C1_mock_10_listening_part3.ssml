@@ -1,0 +1,134 @@
+<speak>
+  <!-- C1 Mock 10 — Teil 3 (10 MCQ-3opt, akademischer Vortrag, playCount=2) -->
+  <!-- CR-11: NO gap cues — continuous lecture, MCQ format (CR-12) -->
+  <!-- Theme: Klimapolitik zwischen Ambition und Pfadabhängigkeit -->
+  <!-- Speaker: de-DE-Wavenet-D (male) — academic lecturer, wissenschaftlich register -->
+  <!-- Announcer: de-DE-Wavenet-C (female) -->
+  <!-- C1 spec: natural speed 1.0x, played TWICE, no internal gap signals -->
+  <!-- 10-second initial pause for candidates to read questions before audio begins -->
+
+  <break time="3s"/>
+
+  <voice name="de-DE-Wavenet-C">
+    <prosody rate="1.0">
+      Hörverstehen, Teil 3. Sie hören einen akademischen Vortrag zum Thema
+      Klimapolitik zwischen Ambition und Pfadabhängigkeit.
+      Lesen Sie zuerst die zehn Fragen in Ihrem Testheft.
+      Was ist richtig? Kreuzen Sie an: a, b oder c.
+      Sie hören den Vortrag zweimal.
+    </prosody>
+    <break time="10s"/>
+  </voice>
+
+  <!-- VORTRAG BEGINNT — KEINE INTERNEN PAUSENSIGNALE -->
+  <voice name="de-DE-Wavenet-D">
+    <prosody rate="1.0">
+      Meine Damen und Herren, herzlich willkommen zu diesem Vortrag über Klimapolitik
+      zwischen Ambition und Pfadabhängigkeit — ein Thema, das in der politikwissenschaftlichen
+      und ökonomischen Forschung zunehmend als zentrales Erklärungsfeld für das Scheitern
+      von Klimaschutzmaßnahmen identifiziert wird.
+
+      Beginnen wir mit der methodischen Grundvoraussetzung für wirksame Klimapolitik:
+      verlässliche Emissionsdaten und transparente Fortschrittsberichte. Das klingt trivial,
+      ist es aber nicht. Ohne belastbare Messung — welche Sektoren emittieren wie viel,
+      mit welcher Entwicklungstendenz — ist weder Zielkontrolle noch demokratische
+      Rechenschaft möglich. Die Fortschrittsberichte des IPCC haben diese Basis für die
+      globale Ebene geschaffen; für die nationale und sektorale Ebene bleibt die Datenlage
+      in vielen Ländern lückenhaft.
+
+      Der Begriff der Pfadabhängigkeit bezeichnet in der Institutionenökonomie ein
+      Kernphänomen: Einmal eingeschlagene Technologiepfade erzeugen Lock-in-Effekte, weil
+      die komplementären Infrastrukturen, Qualifikationen und institutionellen Arrangements
+      um sie herum aufgebaut wurden. Wer in eine Gasheizungsinfrastruktur investiert hat,
+      hat damit die nächsten zwanzig bis dreißig Jahre festgelegt — nicht weil es keine
+      Alternativen gäbe, sondern weil die Wechselkosten prohibitiv hoch sind. Das gilt
+      für Haushalte, für Unternehmen und für staatliche Infrastrukturinvestitionen in gleichem
+      Maße. Pfadabhängigkeit erklärt, warum technologisch überlegene Lösungen im Markt
+      oft nicht die unterlegenen ersetzen — und warum Klimapolitik in bestehende
+      Wirtschaftsstrukturen so schwer eingreift.
+
+      Der Unterschied zwischen Effizienz und Suffizienz als klimapolitischen Strategien
+      ist nicht nur technisch, sondern fundamental politisch. Effizienz zielt darauf,
+      dasselbe Ergebnis mit weniger Ressourcen zu erreichen — mehr Mobilität pro Liter Kraftstoff,
+      mehr Wärme pro Kilowattstunde. Sie greift nicht in individuelle Präferenzen ein und
+      ist deshalb politisch weniger umstritten. Suffizienz hingegen zielt auf die Reduktion
+      von Bedürfnissen selbst — weniger fliegen, weniger konsumieren, weniger Wohnfläche
+      in Anspruch nehmen. Das greift direkt in Lebensstilentscheidungen ein und wird deshalb
+      als paternalistisch wahrgenommen, auch wenn Befürworter argumentieren, dass Suffizienz
+      in Gesellschaften des Überkonsums keine Verknappung, sondern eine Qualitätsverschiebung
+      bedeutet.
+
+      Das politische Scheitern des deutschen Klimagelds ist ein lehrreiches Fallbeispiel.
+      Die Idee — eine gleichmäßige Pro-Kopf-Auszahlung der CO2-Steuereinnahmen an alle
+      Bürgerinnen und Bürger — war im Koalitionsvertrag 2021 verankert. Warum wurde sie
+      nicht umgesetzt? Nicht wegen fehlender parlamentarischer Mehrheiten. Das Problem waren
+      haushaltssystematische Hindernisse: Eine direkte Bürgerauszahlung außerhalb bestehender
+      Sozialtransferstrukturen erfordert eine Infrastruktur, die das deutsche Verwaltungssystem
+      nicht ohne weiteres zur Verfügung stellt. Das Finanzministerium verfügt nicht über
+      ein universelles Bürgerkontenregister für solche Direktzahlungen. Das ist ein
+      institutionelles, kein politisches Scheitern — aber es zeigt, wie institutionelle
+      Pfadabhängigkeit auch wohlmeinende Reformen blockiert.
+
+      Das Konzept der Klimagerechtigkeit verbindet zwei Dimensionen, die in der politischen
+      Debatte oft getrennt behandelt werden: historische Emissionsverantwortung und gegenwärtige
+      Vulnerabilität. Industrieländer haben historisch den größten Teil der atmosphärischen
+      Kohlenstoffkonzentration verursacht; die Länder des Globalen Südens tragen die schwersten
+      Folgen bei geringsten Kapazitäten zur Anpassung. Echte Klimagerechtigkeit erfordert nicht
+      nur Anpassungshilfen und Schadensfonds — wie auf der COP28 beschlossen —, sondern
+      strukturelle Veränderungen in den Handels- und Finanzordnungen, die diese Ungleichheit
+      reproduzieren. Das ist politisch deutlich schwerer zu verhandeln als eine Zahl in
+      einem Fondsdokument.
+
+      Zum Rebound-Effekt: Die empirische Literatur ist hier relativ eindeutig. Historische
+      Daten zu Kraftstoffverbrauch, Elektrizitätsverbrauch und Flugverkehr zeigen konsistent,
+      dass Effizienzgewinne durch erhöhten Verbrauch ganz oder teilweise kompensiert werden.
+      Effizientere Autos wurden mehr gefahren; günstigere Flugtarife wurden für mehr Reisen
+      genutzt; billigere Elektrizität erhöhte die Beleuchtungsdichte in Städten. Das ist keine
+      theoretische Spekulation — es ist eine robuste empirische Beobachtung. Für die Klimapolitik
+      bedeutet das: Effizienz ohne flankierende Verbrauchsobergrenzen oder Preissignale ist
+      klimapolitisch unzureichend.
+
+      Die Architektur des europäischen Emissionshandelssystems hat sich in den letzten Jahren
+      grundlegend gewandelt. Das ursprüngliche ETS — für Industrie und Energiesektor —
+      wird seit 2027 durch ein zweites System, ETS-2, ergänzt, das Gebäude und Verkehr
+      einbezieht. Diese Ausweitung ist klimapolitisch notwendig, weil genau in diesen
+      Sektoren die Emissionen besonders träge sind. Flankiert wird ETS-2 durch den
+      Sozialklimafonds, der einkommensschwache Haushalte und vulnerable Regionen entlasten soll.
+      Die konzeptionelle Konstruktion ist überzeugend; die Frage, ob die Fondsmittel gemessen
+      an den Preiseffekten von ETS-2 ausreichend sind, wird erst nach 2027 empirisch zu
+      beurteilen sein.
+
+      Zur EU-Energiepolitik nach 2022: Die geopolitische Notwendigkeit, russisches Gas zu
+      ersetzen, hat zu einer strukturellen Inkonsistenz in der europäischen Klimapolitik geführt.
+      Gleichzeitig wurden Investitionen in erneuerbare Energien beschleunigt und neue
+      Gasversorgungsverträge abgeschlossen, neue LNG-Terminals geplant und gebaut.
+      Diese Infrastruktur hat eine Lebensdauer von zwanzig bis dreißig Jahren — sie bindet
+      Gasnutzung weit über den klimapolitisch relevanten Zeithorizont bis 2050 hinaus.
+      Das ist eine klimapolitische Inkonsistenz, die durch kurzfristige Versorgungssicherheit
+      politisch legitimiert, aber langfristig die Glaubwürdigkeit der EU-Klimaziele untergräbt.
+
+      Ein struktureller Interessenkonflikt, der in der klimapolitischen Debatte selten
+      offen benannt wird, ist das Problem kurzer Wahlzyklen. Klimakosten entstehen jetzt,
+      die Hauptnutznießenden einer wirksamen Klimapolitik sind noch nicht geboren.
+      Demokratisch gewählte Regierungen haben strukturell wenig Anreiz, gegenwärtige Kosten
+      für zukünftige Generationen zu priorisieren. Das ist kein Versagen individueller
+      Politiker — es ist ein systemisches Problem demokratischer Kurzfristigkeit. Institutionelle
+      Lösungen — unabhängige Klimabehörden, verfassungsrechtlich abgesicherte Klimaziele,
+      parlamentarische Klimaräte mit Langfristmandaten — sind Versuche, diesen Bias zu
+      korrigieren, ohne demokratische Rechenschaft aufzugeben.
+
+      Abschließend: Was braucht es, damit Klimapolitik die strukturellen Barrieren überwindet?
+      Nicht mehr Instrumente — die gibt es. Es braucht den institutionellen Willen,
+      Pfadabhängigkeiten aktiv zu durchbrechen: Subventionen für fossile Energien abbauen,
+      auch wenn das Interessengruppen trifft; Raumplanung transformieren, auch wenn das
+      Mobilsprivilegien in Frage stellt; CO2-Preise auf verhaltensrelevantes Niveau heben,
+      auch wenn das kurzfristig Wahlstimmen kostet. Das ist keine technische, das ist eine
+      politische Herausforderung. Ich danke Ihnen für Ihre Aufmerksamkeit.
+    </prosody>
+  </voice>
+  <break time="3s"/>
+
+  <voice name="de-DE-Wavenet-C">
+    <prosody rate="1.0">Das ist das Ende von Teil 3 und das Ende des Hörverstehens.</prosody>
+  </voice>
+</speak>

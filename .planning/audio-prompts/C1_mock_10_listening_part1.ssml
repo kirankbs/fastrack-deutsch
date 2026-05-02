@@ -1,0 +1,174 @@
+<speak>
+  <!-- C1 Mock 10 — Teil 1 (8 Kurzaussagen / Speaker-to-Summary matching, playCount=1) -->
+  <!-- Theme: Klima und Nachhaltigkeit — CO2-Bepreisung, Verkehrswende, Klimagerechtigkeit, Suffizienz -->
+  <!-- Announcer: de-DE-Wavenet-C (female, neutral) -->
+  <!-- 8 speakers — 8 UNIQUE voices (4 female / 4 male) per CR-9 spec -->
+  <!-- Female: Wavenet-F (Sp1 Petersen), Wavenet-A (Sp3 Osei), Wavenet-E (Sp5 Schneider), Neural2-F (Sp7 Amara) -->
+  <!-- Male:   Wavenet-B (Sp2 Müller), Wavenet-D (Sp4 Weber), Neural2-B (Sp6 Bergmann), Neural2-D (Sp8 Kraft) -->
+  <!-- C1 spec: natural speed 1.0x, played ONCE, no pedagogical slowing -->
+  <!-- 10-second initial pause for candidates to read summary statements a-j -->
+  <!-- 5-second pauses between speakers -->
+
+  <break time="3s"/>
+
+  <voice name="de-DE-Wavenet-C">
+    <prosody rate="1.0">
+      Hörverstehen, Teil 1. Sie hören acht kurze Stellungnahmen verschiedener Personen
+      zum Thema Klimapolitik und Nachhaltigkeit.
+      Lesen Sie zuerst die zehn Zusammenfassungen in Ihrem Testheft.
+      Welche Zusammenfassung passt zu welchem Sprecher?
+      Zwei Zusammenfassungen passen nicht.
+      Sie hören die Texte nur einmal.
+    </prosody>
+    <break time="10s"/>
+  </voice>
+
+  <!-- Sprecher 1: Frau Dr. Petersen, Energieökonomin — Antwort: a -->
+  <!-- Voice: de-DE-Wavenet-F (female, unique) -->
+  <voice name="de-DE-Wavenet-C">
+    <prosody rate="1.0">Sprecher 1: Frau Dr. Petersen, Energieökonomin.</prosody>
+    <break time="1s"/>
+  </voice>
+  <voice name="de-DE-Wavenet-F">
+    <prosody rate="1.0">
+      Ein CO2-Preis ohne Rückverteilung ist sozial regressiv — das ist keine Meinung,
+      das ist Arithmetik. Einkommensschwache Haushalte geben einen höheren Anteil ihres Einkommens
+      für Energie aus. Wenn der Preis steigt und die Einnahmen im allgemeinen Haushalt verschwinden,
+      wird Klimapolitik zum sozialen Abstiegsrisiko. Das macht sie politisch nicht durchhaltbar.
+      Das Klimageld ist keine Sozialmaßnahme — es ist die Bedingung dafür, dass CO2-Bepreisung
+      funktioniert.
+    </prosody>
+  </voice>
+  <break time="5s"/>
+
+  <!-- Sprecher 2: Herr Prof. Müller, Verkehrsforscher — Antwort: f -->
+  <!-- Voice: de-DE-Wavenet-B (male, unique) -->
+  <voice name="de-DE-Wavenet-C">
+    <prosody rate="1.0">Sprecher 2: Herr Professor Müller, Verkehrsforscher.</prosody>
+    <break time="1s"/>
+  </voice>
+  <voice name="de-DE-Wavenet-B">
+    <prosody rate="1.0">
+      Ich sage seit Jahren: Klimapolitik wird an der Verkehrswende scheitern oder sich bewähren.
+      Nicht weil Verkehr der größte Emittent ist — sondern weil er das Politikfeld ist, in dem
+      die Konflikte am direktesten ins Alltagsleben eingreifen. Subventionen für Elektroautos
+      sind kein Wandel — sie sind ein Kompromiss mit dem Status quo. Echte Verkehrswende
+      bedeutet Raumplanung, Subventionsstruktur, und die Bereitschaft zu sagen: Das Privatauto
+      ist kein Bürgerrecht.
+    </prosody>
+  </voice>
+  <break time="5s"/>
+
+  <!-- Sprecher 3: Frau Osei, Klimagerechtigkeitsaktivistin — Antwort: i -->
+  <!-- Voice: de-DE-Wavenet-A (female, unique) -->
+  <voice name="de-DE-Wavenet-C">
+    <prosody rate="1.0">Sprecher 3: Frau Osei, Klimagerechtigkeitsaktivistin.</prosody>
+    <break time="1s"/>
+  </voice>
+  <voice name="de-DE-Wavenet-A">
+    <prosody rate="1.0">
+      Was mich wirklich ärgert: Diese Länder haben seit über hundert Jahren Kohlenstoff in
+      die Atmosphäre geblasen, um reich zu werden — und jetzt reden wir über Klimahilfen
+      für den Globalen Süden wie über Entwicklungshilfe. Das ist keine Hilfe. Das ist die
+      Tilgung einer Schuld. Wenn wir das nicht benennen, können wir auch keine
+      gerechten Lösungen finden. Reparationen sind kein radikales Konzept — sie sind eine
+      logische Konsequenz historischer Verantwortung.
+    </prosody>
+  </voice>
+  <break time="5s"/>
+
+  <!-- Sprecher 4: Herr Weber, Industrieverbandsvertreter — Antwort: d -->
+  <!-- Voice: de-DE-Wavenet-D (male, unique) -->
+  <voice name="de-DE-Wavenet-C">
+    <prosody rate="1.0">Sprecher 4: Herr Weber, Industrieverbandsvertreter.</prosody>
+    <break time="1s"/>
+  </voice>
+  <voice name="de-DE-Wavenet-D">
+    <prosody rate="1.0">
+      Ich bin nicht gegen CO2-Bepreisung — ich bin für eine, die wettbewerbsneutral ist.
+      Wenn wir in Deutschland oder Europa einen hohen Preis einführen und Importe aus China
+      oder Indien denselben Preis nicht zahlen, verlagern wir nur Emissionen — wir reduzieren sie
+      nicht. Carbon Leakage ist kein Vorwand. Es ist ein reales Risiko, das ohne
+      Grenzausgleich jeden ambitionierten CO2-Preis strukturell untergräbt. Das CBAM ist
+      richtig — es muss nur schnell und konsequent umgesetzt werden.
+    </prosody>
+  </voice>
+  <break time="5s"/>
+
+  <!-- Sprecher 5: Frau Dr. Schneider, Wohlfahrtsforscherin — Antwort: b -->
+  <!-- Voice: de-DE-Wavenet-E (female, unique) -->
+  <voice name="de-DE-Wavenet-C">
+    <prosody rate="1.0">Sprecher 5: Frau Dr. Schneider, Wohlfahrtsforscherin.</prosody>
+    <break time="1s"/>
+  </voice>
+  <voice name="de-DE-Wavenet-E">
+    <prosody rate="1.0">
+      Die Netzkosten der Energiewende werden derzeit nach dem Gleichheitsprinzip verteilt —
+      jeder zahlt pro Kilowattstunde gleich viel. Klingt fair, ist es aber nicht. Ein Haushalt
+      mit 2000 Euro Nettoeinkommen, der 200 Euro für Strom ausgibt, trägt zehn Prozent seines
+      Einkommens. Ein Haushalt mit 6000 Euro trägt drei Prozent. Diese Ungleichheit ist
+      strukturell — und sie wird mit der Energiewende größer, nicht kleiner. Eine progressive
+      Tarifstruktur ist keine Luxusforderung, sondern ein Gerechtigkeitsgebot.
+    </prosody>
+  </voice>
+  <break time="5s"/>
+
+  <!-- Sprecher 6: Herr Dr. Bergmann, Nachhaltigkeitsforscher — Antwort: c -->
+  <!-- Voice: de-DE-Neural2-B (male, unique — distinct from Wavenet-B used for Sp2) -->
+  <voice name="de-DE-Wavenet-C">
+    <prosody rate="1.0">Sprecher 6: Herr Dr. Bergmann, Nachhaltigkeitsforscher.</prosody>
+    <break time="1s"/>
+  </voice>
+  <voice name="de-DE-Neural2-B">
+    <prosody rate="1.0">
+      Der Rebound-Effekt ist das unbehaglichste Faktum in der Klimadebatte. Wir haben seit
+      den 1970ern Energieeffizienz verbessert — und gleichzeitig ist der globale Energieverbrauch
+      gestiegen. Effizientere Autos wurden mehr gefahren. Billigere Flüge wurden mehr gebucht.
+      Das bedeutet nicht, dass Effizienz falsch ist — aber es zeigt, dass Effizienz ohne
+      Obergrenzen oder Verhaltensänderungen klimapolitisch nicht ausreicht. Das ist das
+      stärkste Argument, das die Suffizienz-Seite hat.
+    </prosody>
+  </voice>
+  <break time="5s"/>
+
+  <!-- Sprecher 7: Frau Amara, Klimadiplomat — Antwort: g -->
+  <!-- Voice: de-DE-Neural2-F (female, unique — distinct from Wavenet-F used for Sp1) -->
+  <voice name="de-DE-Wavenet-C">
+    <prosody rate="1.0">Sprecher 7: Frau Amara, Klimadiplomat.</prosody>
+    <break time="1s"/>
+  </voice>
+  <voice name="de-DE-Neural2-F">
+    <prosody rate="1.0">
+      Ich war bei der COP28 dabei. Und was ich dort beobachtet habe, macht mir mehr Sorgen
+      als die Temperaturkurven. Klimagerechtigkeit wurde in den Verhandlungen eingesetzt wie
+      ein Schachstein — vorgeschoben, um Druck zu erzeugen, dann als Konzession verwendet,
+      um an anderer Stelle etwas herauszuholen. Das ist keine Klimapolitik. Das ist
+      Geopolitik mit grünem Anstrich. Die Länder, die am stärksten betroffen sind, haben
+      am wenigsten Verhandlungsmacht. Das ist das strukturelle Problem.
+    </prosody>
+  </voice>
+  <break time="5s"/>
+
+  <!-- Sprecher 8: Herr Dr. Kraft, Energietechnologe — Antwort: h -->
+  <!-- Voice: de-DE-Neural2-D (male, unique — distinct from Wavenet-D used for Sp4) -->
+  <voice name="de-DE-Wavenet-C">
+    <prosody rate="1.0">Sprecher 8: Herr Dr. Kraft, Energietechnologe.</prosody>
+    <break time="1s"/>
+  </voice>
+  <voice name="de-DE-Neural2-D">
+    <prosody rate="1.0">
+      Grüner Wasserstoff ist kein Energiewende-Allheilmittel — aber er ist für bestimmte
+      Sektoren unverzichtbar. Stahl, Chemie, vielleicht Langstreckenfliegen — das sind
+      Sektoren, in denen direkte Elektrifizierung nicht möglich ist. Für PKW-Antriebe
+      und Heizung ist Wasserstoff die falsche Technologie — energetisch dreimal so ineffizient
+      wie direkte Elektrifizierung. Wer heute in Wasserstoff-PKW-Infrastruktur investiert,
+      verzögert die Wärmepumpen- und Batteriewende. Das sind Fehlallokationen, die uns
+      Jahre kosten.
+    </prosody>
+  </voice>
+  <break time="3s"/>
+
+  <voice name="de-DE-Wavenet-C">
+    <prosody rate="1.0">Das ist das Ende von Teil 1.</prosody>
+  </voice>
+</speak>
