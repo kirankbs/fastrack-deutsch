@@ -50,8 +50,8 @@ function generateEntries(level: Level, count: number): MockExamEntry[] {
   };
 
   // Mocks 01–10 for all levels have JSON files committed as of 2026-04-26.
-  // B1 mocks 11–15 are planned (WS-A waves 6–8) — hasContent: false until shipped.
-  const shippedCounts: Partial<Record<Level, number>> = { B1: 10 };
+  // B1 mocks 11–14 shipped (WS-A waves 6–7); mock 15 planned.
+  const shippedCounts: Partial<Record<Level, number>> = { B1: 14 };
   const shipped = shippedCounts[level] ?? count;
 
   return Array.from({ length: count }, (_, i) => ({
