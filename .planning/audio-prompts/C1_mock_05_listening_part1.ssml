@@ -1,94 +1,146 @@
 <speak>
-  <prosody rate="medium" pitch="medium">
+  <!-- C1 Mock 05 — Teil 1 (8 Kurzaussagen / Speaker-to-Summary matching, playCount=1) -->
+  <!-- [PEDAGOGY-REWRITE] Azure voices replaced with Google Cloud TTS voices -->
+  <!-- Theme: Populismus und demokratische Institutionen -->
+  <!-- Announcer: de-DE-Wavenet-C (female, neutral) -->
+  <!-- 8 speakers — 8 UNIQUE voices (4 female / 4 male) per CR-9 spec -->
+  <!-- Female: Wavenet-F (Sp1 Nolte), Wavenet-A (Sp3 Faber), Wavenet-E (Sp5 Möller), Neural2-F (Sp7 Langer) -->
+  <!-- Male:   Wavenet-B (Sp2 Reuter), Wavenet-D (Sp4 Grünwald), Neural2-B (Sp6 Steinbach), Neural2-D (Sp8 Wagner) -->
+  <!-- C1 spec: natural speed 1.0x, played ONCE, no pedagogical slowing -->
+  <!-- 10-second initial pause for candidates to read summary statements a-j -->
+  <!-- 5-second pauses between speakers -->
 
-    <!-- PART 1 INTRO -->
-    <s>Sie hören acht kurze Stellungnahmen verschiedener Personen zum Thema Populismus und demokratische Institutionen.</s>
-    <s>Hören Sie die Aussagen. Welche Zusammenfassung passt zu welchem Sprecher? Zwei Zusammenfassungen passen nicht.</s>
-    <break time="2s"/>
+  <break time="3s"/>
 
-    <!-- Sprecher 1: Frau Prof. Nolte, Verfassungsrechtlerin -->
-    <voice name="de-DE-KatjaNeural">
-      <s>Sprecher 1. Frau Prof. Nolte, Verfassungsrechtlerin.</s>
-      <break time="1s"/>
-      <s>Verfassungsgerichte dürfen nicht nur reaktiv sein.</s>
-      <s>Sie müssen populistischer Gesetzgebung schon im Entstehen entgegentreten, bevor sie irreversiblen Schaden anrichtet.</s>
-      <s>Das Bundesverfassungsgericht hat die Instrumente dafür — es muss sie auch nutzen wollen.</s>
-      <s>Wer wartet, bis das Gesetz vollzogen ist, handelt oft zu spät.</s>
-    </voice>
-    <break time="4s"/>
+  <voice name="de-DE-Wavenet-C">
+    <prosody rate="1.0">
+      Hörverstehen, Teil 1. Sie hören acht kurze Stellungnahmen verschiedener Personen
+      zum Thema Populismus und demokratische Institutionen.
+      Lesen Sie zuerst die zehn Zusammenfassungen in Ihrem Testheft.
+      Welche Zusammenfassung passt zu welchem Sprecher?
+      Zwei Zusammenfassungen passen nicht.
+      Sie hören die Texte nur einmal.
+    </prosody>
+    <break time="10s"/>
+  </voice>
 
-    <!-- Sprecher 2: Herr Dr. Reuter, Politikwissenschaftler -->
-    <voice name="de-DE-ConradNeural">
-      <s>Sprecher 2. Herr Dr. Reuter, Politikwissenschaftler.</s>
-      <break time="1s"/>
-      <s>Populismus ist das Fieberthermometer, nicht das Fieber.</s>
-      <s>Wer ihn bekämpft, ohne die zugrunde liegenden Vertrauensdefizite anzugehen, behandelt das Symptom.</s>
-      <s>Wenn Menschen das Gefühl haben, dass etablierte Parteien sie nicht mehr hören, suchen sie Gehör woanders.</s>
-      <s>Das ist kein Versagen der Demokratie — das ist ihr Signal.</s>
-    </voice>
-    <break time="4s"/>
+  <!-- Sprecher 1: Frau Prof. Nolte, Verfassungsrechtlerin — Voice: de-DE-Wavenet-F (female, unique) -->
+  <voice name="de-DE-Wavenet-C">
+    <prosody rate="1.0">Sprecher 1: Frau Professorin Nolte, Verfassungsrechtlerin.</prosody>
+    <break time="1s"/>
+  </voice>
+  <voice name="de-DE-Wavenet-F">
+    <prosody rate="1.0">
+      Verfassungsgerichte dürfen nicht nur reaktiv sein.
+      Sie müssen populistischer Gesetzgebung schon im Entstehen entgegentreten, bevor sie irreversiblen Schaden anrichtet.
+      Das Bundesverfassungsgericht hat die Instrumente dafür — es muss sie auch nutzen wollen.
+      Wer wartet, bis das Gesetz vollzogen ist, handelt oft zu spät.
+    </prosody>
+  </voice>
+  <break time="5s"/>
 
-    <!-- Sprecher 3: Frau Dr. Faber, Wahlsystemforscherin -->
-    <voice name="de-DE-KatjaNeural">
-      <s>Sprecher 3. Frau Dr. Faber, Wahlsystemforscherin.</s>
-      <break time="1s"/>
-      <s>Ich befürworte Wahlsystemreformen, aber der gesellschaftliche Konsens muss vorher stehen.</s>
-      <s>Reformen ohne Rückhalt schwächen das Vertrauen in den demokratischen Prozess selbst.</s>
-      <s>Ein Wahlsystem ist kein technisches Werkzeug — es trägt die Legitimität jeder Regierung.</s>
-      <s>Wer es ohne Mehrheitsverständigung ändert, riskiert mehr als er gewinnt.</s>
-    </voice>
-    <break time="4s"/>
+  <!-- Sprecher 2: Herr Dr. Reuter, Politikwissenschaftler — Voice: de-DE-Wavenet-B (male, unique) -->
+  <voice name="de-DE-Wavenet-C">
+    <prosody rate="1.0">Sprecher 2: Herr Dr. Reuter, Politikwissenschaftler.</prosody>
+    <break time="1s"/>
+  </voice>
+  <voice name="de-DE-Wavenet-B">
+    <prosody rate="1.0">
+      Populismus ist das Fieberthermometer, nicht das Fieber.
+      Wer ihn bekämpft, ohne die zugrunde liegenden Vertrauensdefizite anzugehen, behandelt das Symptom.
+      Wenn Menschen das Gefühl haben, dass etablierte Parteien sie nicht mehr hören, suchen sie Gehör woanders.
+      Das ist kein Versagen der Demokratie — das ist ihr Signal.
+    </prosody>
+  </voice>
+  <break time="5s"/>
 
-    <!-- Sprecher 4: Herr Prof. Grünwald, Föderalismusexperte -->
-    <voice name="de-DE-ConradNeural">
-      <s>Sprecher 4. Herr Prof. Grünwald, Föderalismusexperte.</s>
-      <break time="1s"/>
-      <s>Gerade in Krisen zeigt sich der Wert des Föderalismus.</s>
-      <s>Wenn zentrale Institutionen unter Druck geraten, halten die Länder dagegen.</s>
-      <s>Das ist keine Schwäche des Systems — das ist gewollte Resilienz.</s>
-      <s>Wer Föderalismus als Blockierer sieht, verkennt seine eigentliche Schutzfunktion.</s>
-    </voice>
-    <break time="4s"/>
+  <!-- Sprecher 3: Frau Dr. Faber, Wahlsystemforscherin — Voice: de-DE-Wavenet-A (female, unique) -->
+  <voice name="de-DE-Wavenet-C">
+    <prosody rate="1.0">Sprecher 3: Frau Dr. Faber, Wahlsystemforscherin.</prosody>
+    <break time="1s"/>
+  </voice>
+  <voice name="de-DE-Wavenet-A">
+    <prosody rate="1.0">
+      Ich befürworte Wahlsystemreformen, aber der gesellschaftliche Konsens muss vorher stehen.
+      Reformen ohne Rückhalt schwächen das Vertrauen in den demokratischen Prozess selbst.
+      Ein Wahlsystem ist kein technisches Werkzeug — es trägt die Legitimität jeder Regierung.
+      Wer es ohne Mehrheitsverständigung ändert, riskiert mehr als er gewinnt.
+    </prosody>
+  </voice>
+  <break time="5s"/>
 
-    <!-- Sprecher 5: Frau Möller, Medienwissenschaftlerin -->
-    <voice name="de-DE-KatjaNeural">
-      <s>Sprecher 5. Frau Möller, Medienwissenschaftlerin.</s>
-      <break time="1s"/>
-      <s>Wenn fünf Verlagsgruppen den öffentlichen Diskurs kontrollieren, können Wählerinnen und Wähler keine wirklich informierte Entscheidung mehr treffen.</s>
-      <s>Medienkonzentration ist kein marktwirtschaftliches Problem — sie ist ein demokratisches.</s>
-      <s>Das untergräbt die Grundvoraussetzung jeder freien Wahl: die informierte Entscheidung.</s>
-    </voice>
-    <break time="4s"/>
+  <!-- Sprecher 4: Herr Prof. Grünwald, Föderalismusexperte — Voice: de-DE-Wavenet-D (male, unique) -->
+  <voice name="de-DE-Wavenet-C">
+    <prosody rate="1.0">Sprecher 4: Herr Professor Grünwald, Föderalismusexperte.</prosody>
+    <break time="1s"/>
+  </voice>
+  <voice name="de-DE-Wavenet-D">
+    <prosody rate="1.0">
+      Gerade in Krisen zeigt sich der Wert des Föderalismus.
+      Wenn zentrale Institutionen unter Druck geraten, halten die Länder dagegen.
+      Das ist keine Schwäche des Systems — das ist gewollte Resilienz.
+      Wer Föderalismus als Blockierer sieht, verkennt seine eigentliche Schutzfunktion.
+    </prosody>
+  </voice>
+  <break time="5s"/>
 
-    <!-- Sprecher 6: Herr Steinbach, Zivilgesellschafts-Aktivist -->
-    <voice name="de-DE-ConradNeural">
-      <s>Sprecher 6. Herr Steinbach, Zivilgesellschafts-Aktivist.</s>
-      <break time="1s"/>
-      <s>Parlamente können sich irren, Regierungen können scheitern.</s>
-      <s>Aber wenn die Zivilgesellschaft wach ist und sich organisiert, gibt es immer eine Gegenkraft.</s>
-      <s>Das ist das eigentliche demokratische Immunsystem — nicht Gerichte, nicht Parteien, sondern engagierte Bürgerinnen und Bürger.</s>
-    </voice>
-    <break time="4s"/>
+  <!-- Sprecher 5: Frau Möller, Medienwissenschaftlerin — Voice: de-DE-Wavenet-E (female, unique) -->
+  <voice name="de-DE-Wavenet-C">
+    <prosody rate="1.0">Sprecher 5: Frau Möller, Medienwissenschaftlerin.</prosody>
+    <break time="1s"/>
+  </voice>
+  <voice name="de-DE-Wavenet-E">
+    <prosody rate="1.0">
+      Wenn fünf Verlagsgruppen den öffentlichen Diskurs kontrollieren, können Wählerinnen und Wähler keine wirklich informierte Entscheidung mehr treffen.
+      Medienkonzentration ist kein marktwirtschaftliches Problem — sie ist ein demokratisches.
+      Das untergräbt die Grundvoraussetzung jeder freien Wahl: die informierte Entscheidung.
+    </prosody>
+  </voice>
+  <break time="5s"/>
 
-    <!-- Sprecher 7: Frau Dr. Langer, Rechtsextremismusforscherin -->
-    <voice name="de-DE-KatjaNeural">
-      <s>Sprecher 7. Frau Dr. Langer, Rechtsextremismusforscherin.</s>
-      <break time="1s"/>
-      <s>Wenn rechtsextreme Positionen routinemäßig im Parlament vertreten werden, verschiebt sich die Wahrnehmung dessen, was sagbar ist.</s>
-      <s>Über Jahrzehnte normalisiert das Demokratiefeindlichkeit.</s>
-      <s>Was heute noch als Tabubruch gilt, kann in zehn Jahren als Mehrheitsmeinung erscheinen — wenn wir nicht aktiv gegensteuern.</s>
-    </voice>
-    <break time="4s"/>
+  <!-- Sprecher 6: Herr Steinbach, Zivilgesellschafts-Aktivist — Voice: de-DE-Neural2-B (male, unique — distinct from Wavenet-B) -->
+  <voice name="de-DE-Wavenet-C">
+    <prosody rate="1.0">Sprecher 6: Herr Steinbach, Zivilgesellschafts-Aktivist.</prosody>
+    <break time="1s"/>
+  </voice>
+  <voice name="de-DE-Neural2-B">
+    <prosody rate="1.0">
+      Parlamente können sich irren, Regierungen können scheitern.
+      Aber wenn die Zivilgesellschaft wach ist und sich organisiert, gibt es immer eine Gegenkraft.
+      Das ist das eigentliche demokratische Immunsystem — nicht Gerichte, nicht Parteien, sondern engagierte Bürgerinnen und Bürger.
+    </prosody>
+  </voice>
+  <break time="5s"/>
 
-    <!-- Sprecher 8: Herr Prof. Wagner, Direktdemokratie-Forscher -->
-    <voice name="de-DE-ConradNeural">
-      <s>Sprecher 8. Herr Prof. Wagner, Direktdemokratie-Forscher.</s>
-      <break time="1s"/>
-      <s>Volksbegehren und Referenden setzen voraus, dass Bürgerinnen und Bürger hochkomplexe Sachverhalte auf Basis verlässlicher Informationen entscheiden.</s>
-      <s>In einem Zeitalter massiver Desinformation ist das eine gefährliche Annahme.</s>
-      <s>Direkte Demokratie ist kein Allheilmittel — ohne Informationsintegrität wird sie zum Einfallstor für Manipulation.</s>
-    </voice>
-    <break time="3s"/>
+  <!-- Sprecher 7: Frau Dr. Langer, Rechtsextremismusforscherin — Voice: de-DE-Neural2-F (female, unique — distinct from Wavenet-F) -->
+  <voice name="de-DE-Wavenet-C">
+    <prosody rate="1.0">Sprecher 7: Frau Dr. Langer, Rechtsextremismusforscherin.</prosody>
+    <break time="1s"/>
+  </voice>
+  <voice name="de-DE-Neural2-F">
+    <prosody rate="1.0">
+      Wenn rechtsextreme Positionen routinemäßig im Parlament vertreten werden, verschiebt sich die Wahrnehmung dessen, was sagbar ist.
+      Über Jahrzehnte normalisiert das Demokratiefeindlichkeit.
+      Was heute noch als Tabubruch gilt, kann in zehn Jahren als Mehrheitsmeinung erscheinen — wenn wir nicht aktiv gegensteuern.
+    </prosody>
+  </voice>
+  <break time="5s"/>
 
-  </prosody>
+  <!-- Sprecher 8: Herr Prof. Wagner, Direktdemokratie-Forscher — Voice: de-DE-Neural2-D (male, unique — distinct from Wavenet-D) -->
+  <voice name="de-DE-Wavenet-C">
+    <prosody rate="1.0">Sprecher 8: Herr Professor Wagner, Direktdemokratie-Forscher.</prosody>
+    <break time="1s"/>
+  </voice>
+  <voice name="de-DE-Neural2-D">
+    <prosody rate="1.0">
+      Volksbegehren und Referenden setzen voraus, dass Bürgerinnen und Bürger hochkomplexe Sachverhalte auf Basis verlässlicher Informationen entscheiden.
+      In einem Zeitalter massiver Desinformation ist das eine gefährliche Annahme.
+      Direkte Demokratie ist kein Allheilmittel — ohne Informationsintegrität wird sie zum Einfallstor für Manipulation.
+    </prosody>
+  </voice>
+  <break time="3s"/>
+
+  <voice name="de-DE-Wavenet-C">
+    <prosody rate="1.0">Das ist das Ende von Teil 1.</prosody>
+  </voice>
 </speak>
