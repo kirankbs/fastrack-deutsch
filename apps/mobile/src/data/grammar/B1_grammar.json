@@ -3,7 +3,7 @@
     "id": 1,
     "level": "B1",
     "topic": "Konjunktiv II — würde-Form, hätte und wäre",
-    "explanation": "[PEDAGOGY-REWRITE] Der Konjunktiv II drückt Irreales, Hypothetisches, Wünsche und höfliche Bitten aus. In der gesprochenen Sprache dominiert die Umschreibung mit 'würde + Infinitiv': Ich würde gern nach Italien fahren. Bei den Hilfsverben 'haben' und 'sein' sowie bei Modalverben werden die originalen Konjunktiv-II-Formen bevorzugt: hätte, wäre, könnte, müsste, sollte, dürfte, möchte. 'Wäre ich reich, würde ich reisen.' zeigt den irrealen Bedingungssatz. Höfliche Bitten: 'Könnten Sie mir helfen?', 'Ich hätte gern einen Kaffee.' In Nebensätzen steht das konjugierte Verb am Ende: 'Wenn ich Zeit hätte, käme ich.'",
+    "explanation": "Der Konjunktiv II drückt Irreales, Hypothetisches, Wünsche und höfliche Bitten aus. In der gesprochenen Sprache dominiert die Umschreibung mit 'würde + Infinitiv': Ich würde gern nach Italien fahren. Bei den Hilfsverben 'haben' und 'sein' sowie bei Modalverben werden die originalen Konjunktiv-II-Formen bevorzugt: hätte, wäre, könnte, müsste, sollte, dürfte, möchte. 'Wäre ich reich, würde ich reisen.' zeigt den irrealen Bedingungssatz ohne 'wenn'. Höfliche Bitten: 'Könnten Sie mir helfen?', 'Würden Sie bitte das Fenster schließen?', 'Ich hätte gern einen Kaffee.' 'Als ob + Konjunktiv II' drückt einen irrealen Vergleich aus: 'Er tut so, als ob er nichts wüsste.' In Nebensätzen steht das konjugierte Verb am Ende: 'Wenn ich Zeit hätte, käme ich.'",
     "examples": [
       "Ich würde gern mehr reisen, aber ich habe keine Zeit.",
       "Wenn ich reich wäre, hätte ich ein großes Haus.",
@@ -50,6 +50,31 @@
         "prompt": "hätte / ich / wenn / kommen / Zeit / würde / ich",
         "correctAnswer": "Wenn ich Zeit hätte, würde ich kommen.",
         "explanation": "Irrealer Konditionalsatz Gegenwart: wenn-Satz mit hätte (Verbendstellung), Hauptsatz mit würde + Infinitiv."
+      },
+      {
+        "type": "fill_blank",
+        "prompt": "Er tut so, als ob er nichts ___ (wissen — Konjunktiv II).",
+        "correctAnswer": "wüsste",
+        "explanation": "'Als ob + Konjunktiv II' für irrealen Vergleich: wissen → wüsste. Verb am Ende des als-ob-Satzes."
+      },
+      {
+        "type": "mcq",
+        "prompt": "Welche Formulierung ist eine höfliche Bitte?",
+        "correctAnswer": "Würden Sie bitte das Fenster schließen?",
+        "options": ["Würden Sie bitte das Fenster schließen?", "Werden Sie das Fenster schließen.", "Sie sollen das Fenster schließen."],
+        "explanation": "Konjunktiv II von 'werden' (würden) und 'können' (könnten) und 'haben' (hätten) signalisieren höfliche Bitte. 'werden' im Indikativ ist Futur, nicht höflich."
+      },
+      {
+        "type": "fill_blank",
+        "prompt": "Wenn ich reich ___ (sein — Konj. II), ___ ich viel reisen. (irrealer Bedingungssatz)",
+        "correctAnswer": "wäre, würde",
+        "explanation": "Irrealer Bedingungssatz Gegenwart: sein → wäre im wenn-Satz; würde + Infinitiv im Hauptsatz."
+      },
+      {
+        "type": "fill_blank",
+        "prompt": "Was ___ Sie an meiner Stelle tun? (würde-Form, höflich-hypothetisch)",
+        "correctAnswer": "würden",
+        "explanation": "Hypothetische Frage mit Konj. II: würden + Infinitiv. 'Was tun Sie...' wäre Indikativ und klingt direkt."
       }
     ],
     "orderIndex": 1
@@ -58,7 +83,7 @@
     "id": 2,
     "level": "B1",
     "topic": "Passiv — Vorgangspassiv und Zustandspassiv",
-    "explanation": "[PEDAGOGY-REWRITE] Im Deutschen unterscheidet man zwei Passivformen. Das Vorgangspassiv mit 'werden + Partizip II' beschreibt einen Prozess: 'Die Tür wird geöffnet.' Das Agens (wer handelt) wird mit 'von + Dativ' (Person) oder 'durch + Akkusativ' (Mittel/Ursache) angegeben: 'Der Brief wird vom Postboten gebracht.' Das Zustandspassiv mit 'sein + Partizip II' beschreibt das Resultat: 'Die Tür ist geöffnet.' Vergleich: 'Das Fenster wird geputzt.' (Vorgang) vs. 'Das Fenster ist geputzt.' (Zustand). Wichtige Zeiten: Präsens (wird gemacht), Präteritum (wurde gemacht). Modalverben + Passiv: 'Das muss gemacht werden.'",
+    "explanation": "Im Deutschen unterscheidet man zwei Passivformen. Das Vorgangspassiv mit 'werden + Partizip II' beschreibt einen Prozess: 'Die Tür wird geöffnet.' Das Agens (wer handelt) wird mit 'von + Dativ' (Person) oder 'durch + Akkusativ' (Mittel/Ursache) angegeben: 'Der Brief wird vom Postboten gebracht.' Das Zustandspassiv mit 'sein + Partizip II' beschreibt das Resultat: 'Die Tür ist geöffnet.' Vergleich: 'Das Fenster wird geputzt.' (Vorgang) vs. 'Das Fenster ist geputzt.' (Zustand). Wichtige Zeiten: Präsens (wird gemacht), Präteritum (wurde gemacht). Modalverben + Passiv: 'Das muss gemacht werden.' Perfekt-Passiv: sein + Partizip II + worden — 'Das Buch ist gelesen worden.' Achtung: 'worden' (Vorgangspassiv Perfekt) ≠ 'geworden' (werden als Vollverb im Perfekt).",
     "examples": [
       "Der Kuchen wird von meiner Mutter gebacken.",
       "Das Haus wurde 1920 gebaut.",
@@ -105,6 +130,25 @@
         "prompt": "Welche Form ist korrekt für Präteritum Passiv von 'machen'?",
         "correctAnswer": "wurde gemacht",
         "explanation": "Präteritum Passiv: wurde + Partizip II. 'ist gemacht' wäre Zustandspassiv."
+      },
+      {
+        "type": "fill_blank",
+        "prompt": "Das Formular ___ bis Freitag ausgefüllt ___ ___ . (Modalverb-Passiv mit müssen, Präsens)",
+        "correctAnswer": "muss werden",
+        "explanation": "Modalverb + Passiv: Modalverb an 2. Stelle, Passiv-Infinitiv (Partizip II + werden) am Satzende: muss ausgefüllt werden."
+      },
+      {
+        "type": "fill_blank",
+        "prompt": "Das Buch ___ gestern von vielen Schülern gelesen ___. (Perfekt-Passiv)",
+        "correctAnswer": "ist worden",
+        "explanation": "Perfekt-Passiv: sein (ist) + Partizip II + worden. 'worden' ohne ge- — nicht 'geworden'."
+      },
+      {
+        "type": "mcq",
+        "prompt": "Welcher Satz ist Vorgangspassiv Perfekt?",
+        "correctAnswer": "Die Tür ist geöffnet worden.",
+        "options": ["Die Tür ist geöffnet worden.", "Die Tür ist geöffnet.", "Die Tür ist geöffnet geworden."],
+        "explanation": "Vorgangspassiv Perfekt: ist + Partizip II + worden (kein ge-). 'Die Tür ist geöffnet' ist Zustandspassiv. 'geworden' wäre werden als Vollverb im Perfekt — falsch hier."
       }
     ],
     "orderIndex": 2
@@ -168,7 +212,7 @@
     "id": 4,
     "level": "B1",
     "topic": "Konnektoren — weil, da, denn, obwohl, trotzdem",
-    "explanation": "Konnektoren verbinden Sätze und drücken logische Beziehungen aus. Sie unterscheiden sich wichtig in der Wortstellung. Subordinierende Konjunktionen (Verb am Ende): weil, da (kausal), obwohl (konzessiv), wenn, falls (konditional), damit (final). Koordinierende Konjunktionen (Position 0, Verb an 2. Stelle): denn (kausal), aber, oder, und. Adverbien (Position 1, Inversion — Verb vor Subjekt): trotzdem, deshalb, darum, deswegen, dann, danach. Vergleich: 'Ich komme nicht, weil ich krank bin.' (Nebensatz) — 'Ich bin krank, deshalb komme ich nicht.' (Inversion) — 'Ich bin krank, denn ich habe Fieber.' (Hauptsatz). 'Da' wirkt formeller und erklärt bekannte Gründe; 'weil' ist neutraler. 'Obwohl' (Nebensatz) und 'trotzdem' (Inversion) drücken beide Konzessivität aus.",
+    "explanation": "Konnektoren verbinden Sätze und drücken logische Beziehungen aus. Die Verbposition ist entscheidend. BLOCK 1 — Subordinierende Konjunktionen (Nebensatz, Verb am Ende): weil, da (kausal — da ist formeller und setzt bekannte Gründe voraus), obwohl (konzessiv), wenn, falls (konditional), damit (final), dass, als, nachdem. Beispiel: 'Ich bleibe zu Hause, weil ich krank bin.' BLOCK 2 — Koordinierende Konjunktionen (Position 0, kein Einfluss auf Wortstellung): denn (kausal), aber (konzessiv), sondern (korrigierend nach Negation), oder, und. Beide Sätze bleiben Hauptsätze. Beispiel: 'Ich bin krank, denn ich habe Fieber.' 'Sondern' steht nach einer Negation und korrigiert: 'Ich trinke keinen Kaffee, sondern Tee.' BLOCK 3 — Adverbien (Position 1, Inversion — Verb auf Position 2, Subjekt danach): trotzdem (konzessiv), deshalb/darum/deswegen (kausal-konsekutiv), außerdem (additiv), dann, danach. Beispiel: 'Es regnet, trotzdem gehen wir spazieren.' Vergleich 'obwohl' vs. 'trotzdem': 'Obwohl es regnet, gehen wir.' (Nebensatz) / 'Es regnet, trotzdem gehen wir.' (Inversion — gleiche Bedeutung, andere Struktur). Vergleich 'weil' vs. 'denn' vs. 'da': weil = neutral, häufig; denn = koordinierend, Hauptsatz; da = formell, Grund bekannt.",
     "examples": [
       "Ich bleibe zu Hause, weil ich müde bin.",
       "Da du schon hier bist, können wir anfangen.",
@@ -215,6 +259,44 @@
         "prompt": "weil / viel / gearbeitet / ich / habe / müde / bin / ich",
         "correctAnswer": "Ich bin müde, weil ich viel gearbeitet habe.",
         "explanation": "Hauptsatz + Komma + weil-Nebensatz mit Hilfsverb (habe) am Ende."
+      },
+      {
+        "type": "fill_blank",
+        "prompt": "Er bleibt zu Hause, ___ er Fieber hat. (kausal, Nebensatz — neutraler Grund)",
+        "correctAnswer": "weil",
+        "explanation": "'weil' ist neutral-kausal und steht als subordinierende Konjunktion: Verb (hat) am Ende. 'denn' wäre koordinierend (kein Verbende); 'da' eher formell/bekannter Grund."
+      },
+      {
+        "type": "fill_blank",
+        "prompt": "Er ist krank, ___ er hat Fieber. (kausal, koordinierend — zwei Hauptsätze)",
+        "correctAnswer": "denn",
+        "explanation": "'denn' ist koordinierend (Position 0): beide Sätze bleiben Hauptsätze mit Verb an 2. Stelle. 'weil' würde Verbendstellung verlangen (krank, weil er Fieber hat)."
+      },
+      {
+        "type": "fill_blank",
+        "prompt": "___ du schon hier bist, können wir anfangen. (kausal, formell — Grund bereits bekannt)",
+        "correctAnswer": "Da",
+        "explanation": "'da' steht am Satzanfang als subordinierende Konjunktion; 'weil' wäre auch möglich, aber 'da' signalisiert, dass der Grund bereits bekannt ist — hier passend."
+      },
+      {
+        "type": "mcq",
+        "prompt": "Welcher Satz ist korrekt? 'Ich nehme nicht den Bus, ___ das Taxi.'",
+        "correctAnswer": "sondern",
+        "options": ["aber", "sondern", "denn"],
+        "explanation": "'sondern' steht nach einer Negation ('nicht') und korrigiert zum tatsächlichen Element. 'aber' wäre ein Kontrast ohne vorherige Negation; 'denn' ist kausal."
+      },
+      {
+        "type": "mcq",
+        "prompt": "Welcher Satz verwendet 'trotzdem' korrekt?",
+        "correctAnswer": "Es schneit, trotzdem fahren wir.",
+        "options": ["Es schneit, trotzdem wir fahren.", "Obwohl es schneit, trotzdem fahren wir.", "Es schneit, trotzdem fahren wir."],
+        "explanation": "'trotzdem' ist ein Adverb (Position 1); danach folgt Inversion: Verb (fahren) vor Subjekt (wir). 'obwohl...trotzdem' zusammen ist ein häufiger Fehler — nur eines von beiden."
+      },
+      {
+        "type": "fill_blank",
+        "prompt": "Ich habe wenig geschlafen, ___ bin ich nicht müde. (Folge — Überraschung, Adverb Position 1)",
+        "correctAnswer": "trotzdem",
+        "explanation": "'trotzdem' (Adverb, Position 1) drückt einen unerwarteten Kontrast aus. 'deshalb' würde eine logische Folge ausdrücken (wäre hier inhaltlich falsch). Nach 'trotzdem': Inversion (bin ich)."
       }
     ],
     "orderIndex": 4
@@ -555,7 +637,34 @@
         "type": "reorder",
         "prompt": "gestern / hat / aufstehen / Er / früh / müssen",
         "correctAnswer": "Er hat gestern früh aufstehen müssen.",
-        "explanation": "[PEDAGOGY-REWRITE] Perfekt mit Modalverb: haben + Infinitiv + Modalverb-Infinitiv am Ende (doppelter Infinitiv). 'aufstehen müssen' — kein Partizip II."
+        "explanation": "Perfekt mit Modalverb: haben + Infinitiv + Modalverb-Infinitiv am Ende (doppelter Infinitiv). 'aufstehen müssen' — kein Partizip II."
+      },
+      {
+        "type": "mcq",
+        "prompt": "Welche Form passt? 'Gestern ___ er zum Arzt — heute geht es ihm besser.'",
+        "correctAnswer": "musste",
+        "options": ["musste", "müsste", "muss"],
+        "explanation": "'musste' ist Präteritum — Vergangenheit als Tatsache. 'müsste' ist Konjunktiv II — hypothetisch/irreale Notwendigkeit. 'muss' ist Präsens."
+      },
+      {
+        "type": "mcq",
+        "prompt": "Welche Form passt? 'Wenn du mehr gelernt hättest, ___ du die Prüfung bestehen.'",
+        "correctAnswer": "könntest",
+        "options": ["konnte", "könntest", "kann"],
+        "explanation": "'könntest' ist Konjunktiv II — irreale Bedingung im Hauptsatz. 'konnte' ist Präteritum (real vergangene Fähigkeit). 'kann' ist Präsens."
+      },
+      {
+        "type": "mcq",
+        "prompt": "Welche Form passt? 'Früher ___ er nach 22 Uhr nicht mehr ausgehen — das hat seine Mutter verboten.'",
+        "correctAnswer": "durfte",
+        "options": ["durfte", "dürfte", "darf"],
+        "explanation": "'durfte' ist Präteritum (reale Erlaubnisverweigerung in der Vergangenheit). 'dürfte' ist Konjunktiv II (hypothetische Erlaubnis). 'darf' ist Präsens."
+      },
+      {
+        "type": "fill_blank",
+        "prompt": "Er sagte, er ___ (wollen — Präteritum) schon immer Pilot werden. Er ___ (wollen — Konjunktiv II) am liebsten heute noch anfangen.",
+        "correctAnswer": "wollte, wollte",
+        "explanation": "Besonderheit: 'wollte' ist identisch für Präteritum und Konjunktiv II von 'wollen'. Der Kontext bestimmt die Lesart: real-vergangen (wollte) vs. hypothetisch-gegenwärtig (wollte)."
       }
     ],
     "orderIndex": 9
@@ -961,24 +1070,22 @@
   {
     "id": 17,
     "level": "B1",
-    "topic": "Nominalisierung und n-Deklination",
-    "explanation": "Nominalisierung macht aus Verben oder Adjektiven Substantive. Zwei häufige Formen: Verb-Infinitiv als Neutrum mit bestimmtem Artikel — 'das Lesen, das Schwimmen, das Essen'. Adjektiv + Endung wird Substantiv — 'der Deutsche, der Kleine, ein Bekannter'. Substantivierte Adjektive werden wie normale Adjektive dekliniert, aber groß geschrieben. Beispiele: 'Ich kenne einen Deutschen.' (Mask. Akk. gemischt). Nominalisierte Verben oft mit Präpositionen: 'beim Lesen, zum Essen, nach dem Schwimmen'. Die n-Deklination betrifft bestimmte maskuline Substantive — meist Lebewesen oder männliche Personen. In allen Kasus außer Nominativ Singular bekommen sie -n oder -en: der Student → den Studenten, dem Studenten, des Studenten. Typische n-Deklination-Wörter: Student, Kollege, Nachbar, Junge, Mensch, Herr (den Herrn — nur -n!), Kunde, Polizist, Präsident, Bauer, Automat, Planet, Name (Sonderfall: mit Genitiv -ns → des Namens).",
+    "topic": "n-Deklination — schwache Maskulina (Student, Junge, Herr, Mensch)",
+    "explanation": "Die n-Deklination betrifft bestimmte maskuline Substantive — meist belebte Personen und einige Fremdwörter. In allen Kasus außer Nominativ Singular bekommen sie -n oder -en: der Student → den/dem/des Studenten. Typische n-Deklinations-Wörter: Student, Kollege, Nachbar, Junge, Mensch, Herr (Sonderfall: nur -n → den/dem/des Herrn, nicht -en), Kunde, Polizist, Präsident, Bauer, Automat, Planet. Sonderfall Name: Genitiv -ns → des Namens. Erkennungshilfe: viele enden auf -e (Kollege, Junge, Zeuge) oder kommen aus dem Lateinischen/Griechischen auf -ist, -ent, -ant, -at (Polizist, Student, Praktikant, Automat).",
     "examples": [
-      "Das Schwimmen macht mir Spaß.",
-      "Beim Lesen entspanne ich mich.",
       "Ich kenne den Studenten gut.",
       "Wir helfen dem Nachbarn.",
       "Der Name des Kollegen ist Peter.",
       "Ich grüße den Herrn höflich.",
-      "Eine Bekannte von mir wohnt hier. (nominalisiert)",
-      "Das Wichtigste ist die Gesundheit."
+      "Der Junge spielt Fußball.",
+      "Wir haben den Polizisten gefragt."
     ],
     "exercises": [
       {
         "type": "fill_blank",
         "prompt": "Ich kenne den ___ (Student) sehr gut.",
         "correctAnswer": "Studenten",
-        "explanation": "n-Deklination: der Student → den Studenten (Akk.)."
+        "explanation": "n-Deklination: der Student → den Studenten (Akk.). Alle Kasus außer Nom. Sg. erhalten -en."
       },
       {
         "type": "fill_blank",
@@ -990,25 +1097,13 @@
         "type": "mcq",
         "prompt": "Welche Form ist korrekt? 'Der Name des ___ (Herr).'",
         "correctAnswer": "Herrn",
-        "explanation": "'Herr' bekommt nur -n (nicht -en): den/dem/des Herrn."
+        "explanation": "'Herr' bekommt nur -n (nicht -en): den/dem/des Herrn — Sonderfall in der n-Deklination."
       },
       {
         "type": "fill_blank",
-        "prompt": "Nach dem ___ (essen) gehen wir spazieren.",
-        "correctAnswer": "Essen",
-        "explanation": "Nominalisierung: das Essen (Infinitiv als Neutrum). Nach 'nach' → Dativ: dem Essen."
-      },
-      {
-        "type": "mcq",
-        "prompt": "Welcher Satz ist korrekt?",
-        "correctAnswer": "Ich habe einen Deutschen getroffen.",
-        "explanation": "Substantiviertes Adjektiv: der Deutsche → einen Deutschen (Mask. Akk. gemischt, groß geschrieben)."
-      },
-      {
-        "type": "fill_blank",
-        "prompt": "Beim ___ (lernen) höre ich Musik.",
-        "correctAnswer": "Lernen",
-        "explanation": "Nominalisierter Infinitiv: das Lernen. 'bei + Dativ' → beim Lernen."
+        "prompt": "Wir haben den ___ (Polizist) nach dem Weg gefragt.",
+        "correctAnswer": "Polizisten",
+        "explanation": "n-Deklination: Fremdwörter auf -ist (Polizist, Journalist, Tourist) → -en in allen Kasus außer Nom. Sg."
       }
     ],
     "orderIndex": 17
