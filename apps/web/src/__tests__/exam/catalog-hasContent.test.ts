@@ -9,16 +9,16 @@
  * Strategy: trust the catalog as authoritative (per AC). The test does
  * not probe the filesystem — it asserts the catalog's declared state.
  *
- * B1 upgrade: B1 M13, M15 are planned placeholders with
- * hasContent: false. M11, M12 and M14 are now shipped.
+ * B1 upgrade: B1 M15 is the only planned placeholder with
+ * hasContent: false. M11, M12, M13, and M14 are now all shipped.
  */
 
 import { describe, it, expect } from 'vitest';
 import { MOCK_EXAM_CATALOG, getAvailableLevels, getMocksForLevel } from '@fastrack/content';
 
-// B1 mocks shipped so far: M01-M11 (contiguous) + M12 + M14 (sparse).
-// B1 M13, M15 are planned — hasContent: false until their JSON files are shipped.
-const PLANNED_B1_MOCKS = [13, 15].map(
+// B1 mocks shipped: M01-M11 (contiguous) + M12 + M13 + M14 (sparse).
+// Only M15 remains planned — hasContent: false until its JSON file is shipped.
+const PLANNED_B1_MOCKS = [15].map(
   (n) => `B1_mock_${String(n).padStart(2, '0')}`,
 );
 
@@ -30,7 +30,7 @@ describe('catalog hasContent integrity', () => {
   });
 
   it('all shipped mocks (hasContent: true) are not the planned B1 placeholders', () => {
-    // Only B1 M13, M15 may have hasContent: false — nothing else.
+    // Only B1 M15 may have hasContent: false — nothing else.
     const missing = MOCK_EXAM_CATALOG.filter((e) => !e.hasContent);
     const unexpectedMissing = missing.filter((e) => !PLANNED_B1_MOCKS.includes(e.id));
     expect(
@@ -39,9 +39,9 @@ describe('catalog hasContent integrity', () => {
     ).toHaveLength(0);
   });
 
-  it('exactly 2 B1 planned mocks (M13, M15) have hasContent: false', () => {
+  it('exactly 1 B1 planned mock (M15) has hasContent: false', () => {
     const planned = MOCK_EXAM_CATALOG.filter((e) => !e.hasContent);
-    expect(planned).toHaveLength(2);
+    expect(planned).toHaveLength(1);
     const plannedIds = planned.map((e) => e.id);
     for (const id of PLANNED_B1_MOCKS) {
       expect(plannedIds).toContain(id);
@@ -60,13 +60,19 @@ describe('catalog hasContent integrity', () => {
     expect(entry?.hasContent).toBe(true);
   });
 
+  it('B1 mock 13 has hasContent: true', () => {
+    const entry = MOCK_EXAM_CATALOG.find((e) => e.id === 'B1_mock_13');
+    expect(entry).toBeDefined();
+    expect(entry?.hasContent).toBe(true);
+  });
+
   it('B1 mock 14 has hasContent: true', () => {
     const entry = MOCK_EXAM_CATALOG.find((e) => e.id === 'B1_mock_14');
     expect(entry).toBeDefined();
     expect(entry?.hasContent).toBe(true);
   });
 
-  it('all shipped mocks (B1 M01-M11, M12, M14 + all other levels) have hasContent: true', () => {
+  it('all 54 shipped mocks (B1 M01-M14 + all other levels) have hasContent: true', () => {
     const shipped = MOCK_EXAM_CATALOG.filter((e) => !PLANNED_B1_MOCKS.includes(e.id));
     const missing = shipped.filter((e) => !e.hasContent);
     expect(
