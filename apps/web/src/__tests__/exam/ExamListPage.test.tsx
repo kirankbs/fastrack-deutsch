@@ -133,13 +133,13 @@ describe('ExamListPage — catalog-driven, no fs at request time', () => {
     expect(anchors.length).toBe(10);
   });
 
-  // B1 has 15 catalog entries: 10 shipped (M01-M10) + 5 planned (M11-M15, hasContent: false).
+  // B1 has 15 catalog entries: 11 shipped (M01-M10 + M14) + 4 planned (M11-M13, M15).
   // The loop below handles B1 specially.
   for (const lvl of getAvailableLevels()) {
     const isB1 = lvl === 'B1';
     const totalCards = isB1 ? 15 : 10;
-    const shippedCards = isB1 ? 10 : 10;
-    const comingSoonCount = isB1 ? 5 : 0;
+    const shippedCards = isB1 ? 11 : 10;
+    const comingSoonCount = isB1 ? 4 : 0;
 
     it(`?level=${lvl} renders ${totalCards} cards (${shippedCards} shipped, ${comingSoonCount} coming-soon)`, async () => {
       await renderPage(lvl);

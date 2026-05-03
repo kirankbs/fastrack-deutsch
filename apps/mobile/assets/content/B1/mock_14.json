@@ -1,0 +1,942 @@
+{
+  "id": "B1_mock_14",
+  "level": "B1",
+  "title": "B1 Übungstest 14: Familie & Generationen",
+  "version": 1,
+  "sections": {
+    "listening": {
+      "totalTimeMinutes": 30,
+      "parts": [
+        {
+          "partNumber": 1,
+          "instructions": "Sie hören fünf kurze Texte. Entscheiden Sie bei jedem Text: Ist die Aussage richtig oder falsch? Sie hören jeden Text nur einmal.",
+          "instructionsTranslation": "You will hear five short texts. For each text, decide: Is the statement correct or incorrect? You will hear each text only once.",
+          "audioFile": "assets/audio/B1/mock14/listening_part1.mp3",
+          "playCount": 1,
+          "questions": [
+            {
+              "id": "B1_m14_L1_q1",
+              "type": "true_false",
+              "questionText": "Die Grundschule Lindenweg gibt bekannt, dass die Elternversammlung auf nächste Woche verschoben wurde.",
+              "options": ["richtig", "falsch"],
+              "correctAnswer": "richtig",
+              "explanation": "Der Schulansager teilt mit: 'Die für Donnerstag geplante Elternversammlung findet aufgrund der Erkrankung der Klassenlehrerin erst nächsten Dienstag statt.' Die Aussage ist korrekt.",
+              "audioTimestamp": 8
+            },
+            {
+              "id": "B1_m14_L1_q2",
+              "type": "true_false",
+              "questionText": "Der Vater auf dem Anrufbeantworter bittet seine Tochter, Oma Gerda vom Bahnhof abzuholen.",
+              "options": ["richtig", "falsch"],
+              "correctAnswer": "falsch",
+              "explanation": "Der Vater sagt: 'Ich fahre jetzt selbst zum Bahnhof, da ich doch früher Feierabend machen konnte.' Er bittet seine Tochter, schon mal das Abendessen vorzubereiten – nicht, Oma abzuholen.",
+              "audioTimestamp": 11
+            },
+            {
+              "id": "B1_m14_L1_q3",
+              "type": "true_false",
+              "questionText": "Der Kindergarten St. Josef ist ab Montag für eine Woche wegen Renovierung geschlossen.",
+              "options": ["richtig", "falsch"],
+              "correctAnswer": "falsch",
+              "explanation": "Die Ansage lautet: 'Aufgrund einer Betriebsversammlung bleiben wir diesen Freitag geschlossen. Ab Montag sind wir wieder wie gewohnt für Ihre Kinder da.' Es handelt sich um einen einzelnen Tag, nicht um eine Woche.",
+              "audioTimestamp": 9
+            },
+            {
+              "id": "B1_m14_L1_q4",
+              "type": "true_false",
+              "questionText": "Laut der Radiosendung planen immer mehr Großeltern, bei ihren Enkeln zu wohnen, um Pflegekosten zu sparen.",
+              "options": ["richtig", "falsch"],
+              "correctAnswer": "falsch",
+              "explanation": "Der Moderator berichtet: 'Immer mehr Großeltern ziehen zu ihren Kindern, um bei der Betreuung der Enkel zu helfen.' Das Motiv ist Unterstützung bei der Kinderbetreuung, nicht Pflegekosteneinsparung – das ist eine Generalisation.",
+              "audioTimestamp": 14
+            },
+            {
+              "id": "B1_m14_L1_q5",
+              "type": "true_false",
+              "questionText": "Die Sprecherin auf der Schulmesse empfiehlt Familien mit Kindern über zwölf Jahren, das Angebot der Familienberatungsstelle zu nutzen.",
+              "options": ["richtig", "falsch"],
+              "correctAnswer": "falsch",
+              "explanation": "Die Sprecherin sagt: 'Unser Angebot richtet sich an Familien mit Kindern in jedem Alter – von Neugeborenen bis hin zu Jugendlichen.' Eine Einschränkung auf Kinder über zwölf wird nicht gemacht.",
+              "audioTimestamp": 10
+            }
+          ]
+        },
+        {
+          "partNumber": 2,
+          "instructions": "Sie hören ein Radiofeature über veränderte Familienstrukturen in Deutschland. Entscheiden Sie, ob die folgenden zehn Aussagen richtig oder falsch sind. Sie hören den Text zweimal.",
+          "instructionsTranslation": "You will hear a radio feature about changing family structures in Germany. Decide whether the following ten statements are correct or incorrect. You will hear the text twice.",
+          "audioFile": "assets/audio/B1/mock14/listening_part2.mp3",
+          "playCount": 2,
+          "questions": [
+            {
+              "id": "B1_m14_L2_q1",
+              "type": "true_false",
+              "questionText": "Der Bericht beschäftigt sich mit der Frage, wie Familien heute zusammenleben.",
+              "options": ["richtig", "falsch"],
+              "correctAnswer": "richtig",
+              "explanation": "Die Moderatorin leitet ein: 'Heute schauen wir uns an, wie sich das Zusammenleben von Familien in Deutschland verändert hat – und was das für Eltern, Kinder und Großeltern bedeutet.' Das ist das zentrale Thema.",
+              "audioTimestamp": 6
+            },
+            {
+              "id": "B1_m14_L2_q2",
+              "type": "true_false",
+              "questionText": "Laut der im Bericht zitierten Studie ist die Zahl der Alleinerziehenden in den letzten zehn Jahren gesunken.",
+              "options": ["richtig", "falsch"],
+              "correctAnswer": "falsch",
+              "explanation": "Der Sprecher erklärt: 'Die Zahl der Alleinerziehenden ist in Deutschland seit 2010 kontinuierlich gestiegen – heute liegt sie bei fast 20 Prozent aller Familien.' Gesunken ist sie nicht.",
+              "audioTimestamp": 38
+            },
+            {
+              "id": "B1_m14_L2_q3",
+              "type": "true_false",
+              "questionText": "Die Expertin Frau Dr. Wendland forscht zu modernen Familienmodellen.",
+              "options": ["richtig", "falsch"],
+              "correctAnswer": "richtig",
+              "explanation": "Die Moderatorin stellt sie vor: 'Frau Dr. Kathrin Wendland leitet am Deutschen Jugendinstitut eine Forschungsgruppe zu modernen Familienmodellen und Patchwork-Familien.'",
+              "audioTimestamp": 58
+            },
+            {
+              "id": "B1_m14_L2_q4",
+              "type": "true_false",
+              "questionText": "Frau Dr. Wendland findet, dass Patchwork-Familien grundsätzlich schlechter für Kinder sind als traditionelle Familien.",
+              "options": ["richtig", "falsch"],
+              "correctAnswer": "falsch",
+              "explanation": "Dr. Wendland sagt: 'Entscheidend ist nicht die Familienform, sondern die Qualität der Beziehungen – Kinder in Patchwork-Familien können genauso stabile Bindungen entwickeln.' Sie macht keine Wertung gegen Patchwork-Familien.",
+              "audioTimestamp": 82
+            },
+            {
+              "id": "B1_m14_L2_q5",
+              "type": "true_false",
+              "questionText": "Laut dem Bericht verbringen Großeltern heute durchschnittlich mehr als zehn Stunden pro Woche mit der Betreuung ihrer Enkel.",
+              "options": ["richtig", "falsch"],
+              "correctAnswer": "richtig",
+              "explanation": "Der Bericht nennt: 'Laut einer aktuellen Erhebung sind es im Durchschnitt elf Stunden pro Woche, die Großeltern direkt für die Kinderbetreuung aufwenden.' Mehr als zehn Stunden ist damit bestätigt.",
+              "audioTimestamp": 105
+            },
+            {
+              "id": "B1_m14_L2_q6",
+              "type": "true_false",
+              "questionText": "Die meisten Unternehmen in Deutschland bieten laut dem Bericht flexible Arbeitszeiten für Eltern an.",
+              "options": ["richtig", "falsch"],
+              "correctAnswer": "falsch",
+              "explanation": "Dr. Wendland bedauert: 'Obwohl es gesetzliche Regelungen gibt, bieten nach unserer Erhebung nur rund 40 Prozent der Betriebe wirklich flexible Modelle für Eltern an.' Das ist weniger als die Hälfte, also keine Mehrheit.",
+              "audioTimestamp": 128
+            },
+            {
+              "id": "B1_m14_L2_q7",
+              "type": "true_false",
+              "questionText": "Väter nehmen laut dem Bericht häufiger als Mütter Elternzeit.",
+              "options": ["richtig", "falsch"],
+              "correctAnswer": "falsch",
+              "explanation": "Im Feature heißt es: 'Der Anteil der Väter, die Elternzeit nehmen, ist gestiegen – liegt aber mit knapp 25 Prozent noch weit hinter dem der Mütter.' Väter nehmen seltener Elternzeit, nicht häufiger.",
+              "audioTimestamp": 148
+            },
+            {
+              "id": "B1_m14_L2_q8",
+              "type": "true_false",
+              "questionText": "Die Expertin empfiehlt, dass Paare Aufgaben in der Familie klar aufteilen, bevor das erste Kind kommt.",
+              "options": ["richtig", "falsch"],
+              "correctAnswer": "richtig",
+              "explanation": "Dr. Wendland rät ausdrücklich: 'Paare sollten diese Gespräche über Aufgabenteilung führen, bevor das Baby da ist – danach ist es schwieriger, festgefahrene Muster zu ändern.'",
+              "audioTimestamp": 165
+            },
+            {
+              "id": "B1_m14_L2_q9",
+              "type": "true_false",
+              "questionText": "Das Mehrgenerationenhaus wird im Bericht als eine mögliche Antwort auf den Mangel an Pflegeplätzen genannt.",
+              "options": ["richtig", "falsch"],
+              "correctAnswer": "richtig",
+              "explanation": "Der Moderator ergänzt: 'Das Modell des Mehrgenerationenhauses gewinnt an Bedeutung – es entlastet zum einen Pflegeeinrichtungen, schafft aber auch gegenseitige Unterstützung über alle Altersgruppen hinweg.'",
+              "audioTimestamp": 182
+            },
+            {
+              "id": "B1_m14_L2_q10",
+              "type": "true_false",
+              "questionText": "Am Ende des Features kündigt die Moderatorin eine Fortsetzung der Sendung für den folgenden Tag an.",
+              "options": ["richtig", "falsch"],
+              "correctAnswer": "falsch",
+              "explanation": "Die Moderatorin schließt mit: 'Wenn Sie mehr zu diesem Thema lesen möchten, finden Sie auf unserer Website weiterführende Studien und Beratungsangebote.' Eine Fortsetzung am nächsten Tag wird nicht erwähnt.",
+              "audioTimestamp": 200
+            }
+          ]
+        },
+        {
+          "partNumber": 3,
+          "instructions": "Sie hören ein Gespräch zwischen der Teenagerin Lena und ihrem Großvater Heinrich. Zu jedem Gesprächsabschnitt gibt es eine Aufgabe. Was ist richtig? Kreuzen Sie an: a, b oder c. Sie hören das Gespräch zweimal.",
+          "instructionsTranslation": "You will hear a conversation between teenager Lena and her grandfather Heinrich. For each part of the conversation there is one task. What is correct? Mark: a, b, or c. You will hear the conversation twice.",
+          "audioFile": "assets/audio/B1/mock14/listening_part3.mp3",
+          "playCount": 2,
+          "questions": [
+            {
+              "id": "B1_m14_L3_q1",
+              "type": "mcq",
+              "questionText": "Wieso ist Lena am Wochenende zu ihrem Großvater gefahren?",
+              "options": [
+                "a) Ihre Eltern haben sie darum gebeten, weil Heinrich krank ist.",
+                "b) Sie wollte ihn selbst besuchen, weil sie seit Wochen keinen Kontakt hatte.",
+                "c) Sie musste ein Schulprojekt über Familiengeschichte machen und braucht Heinrichs Hilfe."
+              ],
+              "correctAnswer": "c",
+              "explanation": "Lena erklärt: 'Opa, ich mache gerade ein Projekt für die Schule – wir sollen unsere Familiengeschichte recherchieren. Du kennst doch die meisten Geschichten.' Option a ist eine false-inference-Falle: Heinrich erwähnt einen Arzttermin, aber er ist nicht krank. Option b klingt plausibel, wird aber nicht gesagt. [Trap used: false-inference (a)]",
+              "audioTimestamp": 18
+            },
+            {
+              "id": "B1_m14_L3_q2",
+              "type": "mcq",
+              "questionText": "Was hat Heinrichs Vater nach dem Umzug nach Hamburg gemacht?",
+              "options": [
+                "a) Er hat in einer Schiffswerft als Schweißer gearbeitet.",
+                "b) Er hat sich als Schneider selbstständig gemacht.",
+                "c) Er hat zunächst in einer Fabrik gearbeitet und später eine kleine Schneiderei eröffnet."
+              ],
+              "correctAnswer": "c",
+              "explanation": "Heinrich sagt: 'Zuerst hat er in der Textilfabrik am Hafen angefangen, aber nach vier Jahren hat er mit dem gesparten Geld eine eigene Schneiderei aufgemacht.' Option a vertauscht Berufsfeld (Schiffswerft, nicht Textil) – ein subject-swap. Option b überspringt die Fabrikphase. [Trap used: subject-swap (a), time-frame shift (b)]",
+              "audioTimestamp": 55
+            },
+            {
+              "id": "B1_m14_L3_q3",
+              "type": "mcq",
+              "questionText": "Was ärgert Lena an dem Projekt am meisten?",
+              "options": [
+                "a) Sie muss einen sehr langen Bericht schreiben, der mindestens zwanzig Seiten haben soll.",
+                "b) Ihre Klassenkameradinnen interessieren sich nicht für das Thema und sind wenig motiviert.",
+                "c) Sie findet es schwierig, alte Dokumente und Fotos zu finden, und hat wenig Zeit."
+              ],
+              "correctAnswer": "c",
+              "explanation": "Lena sagt: 'Das Schlimmste ist, dass wir kaum Fotos oder Dokumente haben – und die Abgabe ist schon in zwei Wochen.' Option a ist eine numerical-near-miss-Falle: Sie erwähnt zwanzig Seiten nicht. Option b wird nicht thematisiert. [Trap used: numerical near-miss (a)]",
+              "audioTimestamp": 90
+            },
+            {
+              "id": "B1_m14_L3_q4",
+              "type": "mcq",
+              "questionText": "Was schlägt Heinrich vor, damit Lena mehr Informationen bekommt?",
+              "options": [
+                "a) Er will ihr eine Kiste mit alten Briefen und Fotos geben, die er auf dem Dachboden hat.",
+                "b) Er empfiehlt ihr, ins Stadtarchiv zu gehen, weil er selbst keine Dokumente mehr hat.",
+                "c) Er möchte ihre Lehrerin anrufen und ihr erklären, warum die Familie wenige Unterlagen hat."
+              ],
+              "correctAnswer": "a",
+              "explanation": "Heinrich sagt: 'Warte mal, ich glaube, auf meinem Dachboden steht noch eine Schachtel mit alten Briefen und einigen Fotos meiner Eltern. Die kannst du gerne haben.' Option b ist eine causal-reversal-Falle: Heinrich hat sehr wohl Dokumente. Option c wird nicht vorgeschlagen. [Trap used: causal reversal (b)]",
+              "audioTimestamp": 122
+            },
+            {
+              "id": "B1_m14_L3_q5",
+              "type": "mcq",
+              "questionText": "Worüber sind sich Lena und Heinrich am Ende des Gesprächs einig?",
+              "options": [
+                "a) Lena soll jeden Sonntag vorbeikommen, damit Heinrich ihr mehr Geschichten erzählen kann.",
+                "b) Sie wollen gemeinsam kochen und dabei weiter über die Familiengeschichte sprechen.",
+                "c) Lena nimmt die Unterlagen mit und schreibt Heinrich dann, wenn sie Fragen hat."
+              ],
+              "correctAnswer": "b",
+              "explanation": "Am Ende sagt Heinrich: 'Bleib doch zum Mittagessen – ich mache mein altes Gulasch, und du kannst mir erzählen, was du noch brauchst.' Lena stimmt zu. Option a ist eine generalisation: 'jeden Sonntag' sagt niemand. Option c ist eine false-inference-Falle – Lena bleibt, sie schreibt nicht. [Trap used: generalisation (a), false-inference (c)]",
+              "audioTimestamp": 158
+            }
+          ]
+        }
+      ]
+    },
+    "reading": {
+      "totalTimeMinutes": 60,
+      "parts": [
+        {
+          "partNumber": 1,
+          "instructions": "Lesen Sie zuerst die fünf Situationen (1–5) und dann die acht Überschriften (a–h). Welche Überschrift passt zu welcher Situation? Für jede Situation gibt es genau eine passende Überschrift. Drei Überschriften bleiben übrig.",
+          "instructionsTranslation": "First read the five situations (1–5) and then the eight headlines (a–h). Which headline matches which situation? For each situation there is exactly one matching headline. Three headlines remain unused.",
+          "texts": [
+            {
+              "id": "B1_m14_R1_t1",
+              "type": "notice",
+              "content": "Text 1: Monika (43) ist alleinerziehende Mutter von zwei Kindern im Schulalter. Seit ihre Mutter vor einem Jahr in die Nachbarstadt gezogen ist, macht sie jeden Tag Überstunden, weil die Kinder nach der Schule niemanden haben, der auf sie wartet. Sie sucht dringend nach einer verlässlichen und günstigen Nachmittagsbetreuung."
+            },
+            {
+              "id": "B1_m14_R1_t2",
+              "type": "notice",
+              "content": "Text 2: Familienvater Klaus (52) möchte seinen 75-jährigen Eltern helfen, aber sie wohnen weit weg. Er macht sich Sorgen, dass seine Mutter mit dem Haushalt überfordert ist, seitdem sein Vater beim Gehen Probleme hat. Er sucht einen professionellen Dienst, der ältere Menschen zu Hause unterstützt."
+            },
+            {
+              "id": "B1_m14_R1_t3",
+              "type": "notice",
+              "content": "Text 3: Ehepaar Bergmann erwartet ihr erstes Kind. Beide arbeiten Vollzeit und wollen das nach der Elternzeit auch beibehhalten. Sie möchten Kontakt zu anderen Eltern in ihrer Situation aufbauen und gemeinsam über Themen wie Kita-Auswahl, Elternzeit und Betreuungsmodelle sprechen."
+            },
+            {
+              "id": "B1_m14_R1_t4",
+              "type": "notice",
+              "content": "Text 4: Teenager Finn (16) versteht seine Eltern seit Kurzem kaum noch. Es gibt viele Konflikte zu Hause, und er fühlt sich unverstanden. Er sucht einen Ort, an dem er anonym über seine Situation sprechen kann, ohne dass seine Eltern davon erfahren."
+            },
+            {
+              "id": "B1_m14_R1_t5",
+              "type": "notice",
+              "content": "Text 5: Die 68-jährige Rentnerin Frieda lebt allein, seit ihr Mann gestorben ist. Sie vermisst den täglichen Kontakt zu Menschen anderer Generationen und möchte aktiv bleiben. Sie sucht eine Möglichkeit, jüngere Leute zu treffen und sich gegenseitig zu unterstützen."
+            }
+          ],
+          "headlines": [
+            { "id": "B1_m14_R1_head_a", "type": "notice", "content": "a) Tagesmutter mit Erfahrung – Betreuung von Kindern von 1 bis 10 Jahren, montags bis freitags, flexibel nach Absprache" },
+            { "id": "B1_m14_R1_head_b", "type": "notice", "content": "b) Mehrgenerationen-Café: Jung und Alt treffen sich jeden Donnerstagnachmittag – mitmachen und Neues lernen!" },
+            { "id": "B1_m14_R1_head_c", "type": "notice", "content": "c) Elterngruppe für Berufsrückkehrer: Austausch über Kita, Kinderbetreuung und Beruf – jeden zweiten Mittwoch" },
+            { "id": "B1_m14_R1_head_d", "type": "notice", "content": "d) Familienberatung – kostenlose und vertrauliche Gespräche für Kinder, Jugendliche und Eltern" },
+            { "id": "B1_m14_R1_head_e", "type": "notice", "content": "e) Pflegedienst Sonnenschein: Unterstützung für Senioren zu Hause – Haushaltshilfe, Begleitung, medizinische Versorgung" },
+            { "id": "B1_m14_R1_head_f", "type": "notice", "content": "f) Schulhort der Stadtgemeinde – Nachmittagsbetreuung für Grundschulkinder, Hausaufgabenhilfe inklusive, Anmeldung online" },
+            { "id": "B1_m14_R1_head_g", "type": "notice", "content": "g) Freiwilligendienst gesucht: Begleitung von Senioren bei Arztbesuchen und Einkäufen – ehrenamtlich" },
+            { "id": "B1_m14_R1_head_h", "type": "notice", "content": "h) Nachhilfezentrum Lernstar – alle Fächer, alle Klassen, auch samstags" }
+          ],
+          "questions": [
+            {
+              "id": "B1_m14_R1_q1",
+              "type": "matching",
+              "questionText": "Situation 1 (Monika – Nachmittagsbetreuung für Schulkinder)",
+              "matchingSources": [
+                { "id": "B1_m14_R1_head_a", "label": "a" },
+                { "id": "B1_m14_R1_head_b", "label": "b" },
+                { "id": "B1_m14_R1_head_c", "label": "c" },
+                { "id": "B1_m14_R1_head_d", "label": "d" },
+                { "id": "B1_m14_R1_head_e", "label": "e" },
+                { "id": "B1_m14_R1_head_f", "label": "f" },
+                { "id": "B1_m14_R1_head_g", "label": "g" },
+                { "id": "B1_m14_R1_head_h", "label": "h" }
+              ],
+              "correctAnswer": "f",
+              "explanation": "Überschrift f) bietet kommunale Nachmittagsbetreuung für Grundschulkinder mit Hausaufgabenhilfe – günstig (staatlich) und verlässlich. Überschrift a (Tagesmutter) wäre auch eine Option, richtet sich aber vorrangig an Kinder bis 10 Jahre und ist privat, also tendenziell teurer. Der Schulhort f passt besser zu 'günstig und verlässlich'."
+            },
+            {
+              "id": "B1_m14_R1_q2",
+              "type": "matching",
+              "questionText": "Situation 2 (Klaus – professionelle Unterstützung für ältere Eltern zu Hause)",
+              "matchingSources": [
+                { "id": "B1_m14_R1_head_a", "label": "a" },
+                { "id": "B1_m14_R1_head_b", "label": "b" },
+                { "id": "B1_m14_R1_head_c", "label": "c" },
+                { "id": "B1_m14_R1_head_d", "label": "d" },
+                { "id": "B1_m14_R1_head_e", "label": "e" },
+                { "id": "B1_m14_R1_head_f", "label": "f" },
+                { "id": "B1_m14_R1_head_g", "label": "g" },
+                { "id": "B1_m14_R1_head_h", "label": "h" }
+              ],
+              "correctAnswer": "e",
+              "explanation": "Überschrift e) Pflegedienst Sonnenschein bietet professionelle Unterstützung für Senioren zu Hause inklusive Haushaltshilfe – genau das, was Klaus für seine Eltern sucht. Überschrift g (Freiwilligendienst) wäre nur Begleitung auf ehrenamtlicher Basis, nicht professionell."
+            },
+            {
+              "id": "B1_m14_R1_q3",
+              "type": "matching",
+              "questionText": "Situation 3 (Ehepaar Bergmann – Elterngruppe für Berufstätige mit erstem Kind)",
+              "matchingSources": [
+                { "id": "B1_m14_R1_head_a", "label": "a" },
+                { "id": "B1_m14_R1_head_b", "label": "b" },
+                { "id": "B1_m14_R1_head_c", "label": "c" },
+                { "id": "B1_m14_R1_head_d", "label": "d" },
+                { "id": "B1_m14_R1_head_e", "label": "e" },
+                { "id": "B1_m14_R1_head_f", "label": "f" },
+                { "id": "B1_m14_R1_head_g", "label": "g" },
+                { "id": "B1_m14_R1_head_h", "label": "h" }
+              ],
+              "correctAnswer": "c",
+              "explanation": "Überschrift c) Elterngruppe für Berufsrückkehrer: Themen Kita, Kinderbetreuung, Beruf – trifft den Bedarf des Ehepaars genau. Überschrift d (Familienberatung) wäre für Konflikte gedacht, nicht für informellen Austausch unter berufstätigen Eltern."
+            },
+            {
+              "id": "B1_m14_R1_q4",
+              "type": "matching",
+              "questionText": "Situation 4 (Finn, 16 – vertrauliche Beratung für Jugendliche)",
+              "matchingSources": [
+                { "id": "B1_m14_R1_head_a", "label": "a" },
+                { "id": "B1_m14_R1_head_b", "label": "b" },
+                { "id": "B1_m14_R1_head_c", "label": "c" },
+                { "id": "B1_m14_R1_head_d", "label": "d" },
+                { "id": "B1_m14_R1_head_e", "label": "e" },
+                { "id": "B1_m14_R1_head_f", "label": "f" },
+                { "id": "B1_m14_R1_head_g", "label": "g" },
+                { "id": "B1_m14_R1_head_h", "label": "h" }
+              ],
+              "correctAnswer": "d",
+              "explanation": "Überschrift d) Familienberatung ist ausdrücklich kostenlos, vertraulich und richtet sich an Kinder und Jugendliche – Finn kann anonym kommen, ohne dass seine Eltern informiert werden. Das Schlüsselwort ist 'vertraulich'."
+            },
+            {
+              "id": "B1_m14_R1_q5",
+              "type": "matching",
+              "questionText": "Situation 5 (Frieda, 68 – Kontakt zu jüngeren Menschen, gegenseitige Unterstützung)",
+              "matchingSources": [
+                { "id": "B1_m14_R1_head_a", "label": "a" },
+                { "id": "B1_m14_R1_head_b", "label": "b" },
+                { "id": "B1_m14_R1_head_c", "label": "c" },
+                { "id": "B1_m14_R1_head_d", "label": "d" },
+                { "id": "B1_m14_R1_head_e", "label": "e" },
+                { "id": "B1_m14_R1_head_f", "label": "f" },
+                { "id": "B1_m14_R1_head_g", "label": "g" },
+                { "id": "B1_m14_R1_head_h", "label": "h" }
+              ],
+              "correctAnswer": "b",
+              "explanation": "Überschrift b) Mehrgenerationen-Café: 'Jung und Alt treffen sich' – das ist exakt das, was Frieda sucht: Kontakt zu Menschen anderer Generationen und gegenseitige Unterstützung. Überschrift g (Freiwilligendienst) wäre einseitige Unterstützung für Senioren, nicht gegenseitig."
+            }
+          ]
+        },
+        {
+          "partNumber": 2,
+          "instructions": "Lesen Sie den Zeitungsartikel und lösen Sie die Aufgaben. Was ist richtig? Kreuzen Sie an: a, b oder c.",
+          "instructionsTranslation": "Read the newspaper article and complete the tasks. What is correct? Mark: a, b, or c.",
+          "texts": [
+            {
+              "id": "B1_m14_R2_article",
+              "type": "article",
+              "content": "Das Mehrgenerationenhaus: Wohnmodell der Zukunft?\n\nIn einer ruhigen Seitenstraße in Freiburg steht ein unscheinbares Mehrfamilienhaus. Wer hineingeht, erlebt allerdings etwas Ungewöhnliches: Im Erdgeschoss spielen Kleinkinder unter Aufsicht einer Rentnerin, im ersten Stock werkelt ein Rentner an einem alten Fahrrad, während ihm ein Teenager dabei zuschaut und Fragen stellt. Im zweiten Stock sitzt eine alleinerziehende Mutter am Laptop und arbeitet – ohne Unterbrechung, weil ihre Kinder im Erdgeschoss gut aufgehoben sind. Dies ist das Mehrgenerationenhaus 'Miteinander Freiburg', eines von mehr als 500 geförderten Projekten dieser Art in Deutschland.\n\nDie Idee ist einfach: Menschen unterschiedlichen Alters leben unter einem Dach oder zumindest in einer engen Gemeinschaft und helfen sich gegenseitig. Ältere geben Erfahrung weiter, passen auf Kinder auf, helfen beim Einkaufen. Jüngere erledigen körperlich anspruchsvollere Aufgaben, erklären technische Geräte oder bringen frischen Wind in den Alltag der Älteren. Kinder profitieren davon, andere Lebensbiographien kennenzulernen – etwas, das viele in einer Zeit fehlender Großeltern vor Ort zunehmend vermissen.\n\nGegründet wurde 'Miteinander Freiburg' 2011 von der Sozialarbeiterin Maria Brandt, die beobachtet hatte, wie Isolation älterer Menschen und Zeitmangel junger Familien oft zwei Seiten desselben Problems sind. 'Man muss die Bedürfnisse nur richtig zusammenbringen', sagt sie. Das klingt einfacher als es ist: Es braucht Koordination, klare Regeln und vor allem Menschen, die bereit sind, sich auf das Unbekannte einzulassen.\n\nDie Bundesregierung fördert Mehrgenerationenhäuser seit 2006 im Rahmen eines Bundesprogramms – die aktuelle Förderrunde läuft bis 2028. Kritiker weisen darauf hin, dass das Modell vor allem in Städten funktioniert und auf dem Land kaum Nachahmer findet. Außerdem, so eine Studie des Deutschen Institutes für Stadtplanung, entstehen Mehrgenerationenhäuser überproportional häufig in ohnehin gut vernetzten Stadtteilen – die sozial isoliertesten Gruppen werden damit oft nicht erreicht.\n\nTrotz dieser Einschränkungen zeigen Bewohnerumfragen ein konstant positives Bild: Mehr als 80 Prozent der Befragten berichten, dass sie sich durch das Zusammenleben sicherer und weniger einsam fühlen. 'Ich hätte nie gedacht, dass ich mit 72 noch so viel Neues lerne', sagt Rentnerin Hilde Kraus, die seit drei Jahren im Haus wohnt. Ihr Fazit klingt schlicht, trifft aber den Kern: 'Man braucht einander – in jedem Alter.'",
+              "source": "Süddeutsche Zeitung, März 2026"
+            }
+          ],
+          "questions": [
+            {
+              "id": "B1_m14_R2_q1",
+              "type": "mcq",
+              "questionText": "Was zeigt der erste Absatz des Artikels?",
+              "relatedTextId": "B1_m14_R2_article",
+              "options": [
+                "a) Das Haus in Freiburg ist ein luxuriöses Neubauprojekt mit modernen Einrichtungen.",
+                "b) In dem Haus helfen sich Menschen unterschiedlicher Generationen im Alltag.",
+                "c) Das Mehrgenerationenhaus ist für Familien mit kleinen Kindern reserviert."
+              ],
+              "correctAnswer": "b",
+              "explanation": "Der erste Absatz schildert konkrete Szenen: Rentnerin betreut Kleinkinder, Rentner und Teenager werkeln zusammen, Mutter kann arbeiten weil Kinder versorgt sind. Das illustriert gegenseitige Hilfe aller Generationen. Option a ist falsch – 'unscheinbar' wird das Haus beschrieben. Option c ist eine generalisation: Es wohnen Menschen aller Altersstufen dort. [Trap used: generalisation (c)]",
+              "audioTimestamp": null
+            },
+            {
+              "id": "B1_m14_R2_q2",
+              "type": "mcq",
+              "questionText": "Was ist laut Artikel das Grundprinzip des Mehrgenerationenhauses?",
+              "relatedTextId": "B1_m14_R2_article",
+              "options": [
+                "a) Alle Bewohner zahlen weniger Miete, weil sie sich Aufgaben teilen.",
+                "b) Ältere und jüngere Menschen unterstützen sich gegenseitig mit ihren jeweiligen Stärken.",
+                "c) Das Modell ist vor allem für Senioren gedacht, die keine Familie mehr in der Nähe haben."
+              ],
+              "correctAnswer": "b",
+              "explanation": "Der zweite Absatz erklärt explizit: 'Ältere geben Erfahrung weiter … Jüngere erledigen körperlich anspruchsvollere Aufgaben …' – Gegenseitigkeit auf der Basis unterschiedlicher Stärken. Option a klingt plausibel, aber Mietpreise werden nicht erwähnt – eine false-inference-Falle. Option c ist eine subject-swap-Falle: Das Modell ist nicht nur für Senioren. [Trap used: false-inference (a), subject-swap (c)]",
+              "audioTimestamp": null
+            },
+            {
+              "id": "B1_m14_R2_q3",
+              "type": "mcq",
+              "questionText": "Warum gründete Maria Brandt das Projekt 'Miteinander Freiburg'?",
+              "relatedTextId": "B1_m14_R2_article",
+              "options": [
+                "a) Sie wollte ein Beispiel zeigen, dass ältere Menschen genauso arbeiten können wie junge.",
+                "b) Sie erkannte, dass Isolation älterer Menschen und Zeitmangel junger Familien zusammenhängen.",
+                "c) Sie erhielt dafür Fördergelder der Bundesregierung schon im Jahr 2006."
+              ],
+              "correctAnswer": "b",
+              "explanation": "Der Text sagt: 'die beobachtet hatte, wie Isolation älterer Menschen und Zeitmangel junger Familien oft zwei Seiten desselben Problems sind.' Das war ihre Motivation. Option a ist nicht genannt – false-inference. Option c verdreht die Zeitlinie: Das Bundesprogramm startete 2006, das Projekt wurde aber erst 2011 gegründet – time-frame-shift. [Trap used: false-inference (a), time-frame shift (c)]",
+              "audioTimestamp": null
+            },
+            {
+              "id": "B1_m14_R2_q4",
+              "type": "mcq",
+              "questionText": "Welche Kritik wird laut Artikel an Mehrgenerationenhäusern geäußert?",
+              "relatedTextId": "B1_m14_R2_article",
+              "options": [
+                "a) Sie kosten den Staat zu viel Geld und sollten nicht weiter gefördert werden.",
+                "b) Sie entstehen vor allem in gut vernetzten Stadtteilen und erreichen die sozial Isoliertesten oft nicht.",
+                "c) Das Modell funktioniert nur in kleinen Städten, nicht in Großstädten."
+              ],
+              "correctAnswer": "b",
+              "explanation": "Der Text nennt als Kritik: 'entstehen Mehrgenerationenhäuser überproportional häufig in ohnehin gut vernetzten Stadtteilen – die sozial isoliertesten Gruppen werden oft nicht erreicht.' Option a nennt der Artikel nicht. Option c dreht es um: der Text sagt, es funktioniert in Städten, aber kaum auf dem Land – voice/mood-swap. [Trap used: voice/mood swap (c)]",
+              "audioTimestamp": null
+            },
+            {
+              "id": "B1_m14_R2_q5",
+              "type": "mcq",
+              "questionText": "Was berichten Bewohner von Mehrgenerationenhäusern laut Umfragen?",
+              "relatedTextId": "B1_m14_R2_article",
+              "options": [
+                "a) Die meisten Bewohner sind unzufrieden, weil es zu viele Regeln im Haus gibt.",
+                "b) Über 80 Prozent fühlen sich sicherer und weniger einsam als vorher.",
+                "c) Die Hälfte der Befragten würde lieber in einer normalen Wohnung leben."
+              ],
+              "correctAnswer": "b",
+              "explanation": "'Mehr als 80 Prozent der Befragten berichten, dass sie sich sicherer und weniger einsam fühlen.' Option a widerspricht dem Text direkt – causal reversal (Regeln werden erwähnt als notwendig, nicht als Problem). Option c ist eine numerical-near-miss-Falle: 80 % sind zufrieden, nicht 50 %. [Trap used: causal reversal (a), numerical near-miss (c)]",
+              "audioTimestamp": null
+            }
+          ]
+        },
+        {
+          "partNumber": 3,
+          "instructions": "Lesen Sie die zehn Situationen (1–10) und die zwölf Anzeigen (a–l). Welche Anzeige passt zu welcher Situation? Für jede Situation gibt es genau eine passende Anzeige. Zwei Anzeigen bleiben übrig. Wenn keine Anzeige passt, schreiben Sie 'x'.",
+          "instructionsTranslation": "Read the ten situations (1–10) and the twelve advertisements (a–l). Which advertisement matches which situation? For each situation there is exactly one matching advertisement. Two advertisements remain unused. If no advertisement fits, write 'x'.",
+          "texts": [
+            { "id": "B1_m14_R3_ad_a", "type": "ad", "content": "a) KINDERPARADIES – qualifizierte Tagesbetreuung für Kinder von 0–6 Jahren. Kleine Gruppen (max. 8 Kinder), bilinguale Förderung, warmes Mittagessen. Mo–Fr 7–18 Uhr. Anmeldung: kinder-paradies-muenchen.de" },
+            { "id": "B1_m14_R3_ad_b", "type": "ad", "content": "b) Babysitter gesucht – 2–3 Abende/Woche für 2 Kinder (4 und 7 Jahre). Nichtraucher, Führerschein von Vorteil. 14 €/Stunde. Bitte melden unter: babysitter2024@mail.de" },
+            { "id": "B1_m14_R3_ad_c", "type": "ad", "content": "c) Familienberatungsstelle Neuhausen – kostenlose Beratung bei Trennung, Erziehungsfragen, Konflikten in der Familie. Termine: 089/445566, vertraulich und kostenlos." },
+            { "id": "B1_m14_R3_ad_d", "type": "ad", "content": "d) Elterngruppe 'Wir wachsen mit' – Eltern von Kindern mit Behinderung treffen sich montags um 19 Uhr im Gemeindezentrum. Austausch, gegenseitige Unterstützung, Infos über Förderangebote." },
+            { "id": "B1_m14_R3_ad_e", "type": "ad", "content": "e) TAGESMUTTER SUSANNE – liebevolle Betreuung für Ihr Kind (1–3 Jahre) in familiärer Atmosphäre, max. 4 Kinder. Mo–Fr, flexibel nach Bedarf. Tel. 0175 / 33 44 556" },
+            { "id": "B1_m14_R3_ad_f", "type": "ad", "content": "f) Familienfeier planen? CATERING FAMILIA – Geburtstage, Taufen, Jubiläen, Familienfeste aller Größen. Menüauswahl online, Lieferung oder vor Ort. Anfrage: catering-familia.de" },
+            { "id": "B1_m14_R3_ad_g", "type": "ad", "content": "g) Großelternservice SONNENJAHRE – wir vermitteln erfahrene Senioren als Leih-Großeltern. Vorlesen, Spielen, Ausflüge, Hausaufgabenhilfe. Für Familien ohne Großeltern in der Nähe. Infos: 0800 / 555 77 00" },
+            { "id": "B1_m14_R3_ad_h", "type": "ad", "content": "h) Kinderferienprogramm SOMMERSPASS – 2 Wochen betreute Abenteuer für Kinder von 6–12 Jahren. Sport, Kreatives, Ausflüge. Anmeldung bis 15. Mai. Kosten: 320 €, Geschwisterrabatt möglich. stadtjugendring.de" },
+            { "id": "B1_m14_R3_ad_i", "type": "ad", "content": "i) Familienreise NATUR PUR – geführte Wandertouren für Familien mit Kindern von 6–14 Jahren. Hütten-Übernachtungen, Gepäcktransport. Bayern & Österreich. Ab 490 € p.P. familie-natur.de" },
+            { "id": "B1_m14_R3_ad_j", "type": "ad", "content": "j) Eheberatung Neustart – professionelle Paarberatung bei Kommunikationsproblemen, Krisen, Trennung. Diskretion garantiert. Termine auch abends. Tel. 089 / 77 88 100" },
+            { "id": "B1_m14_R3_ad_k", "type": "ad", "content": "k) Mehrgenerationen-Café MITEINANDER – offener Treff jeden Dienstag 15–18 Uhr. Jung und Alt willkommen. Kaffee, Kuchen, gemeinsame Aktivitäten. Keine Anmeldung nötig. Gemeindehaus Lindenplatz." },
+            { "id": "B1_m14_R3_ad_l", "type": "ad", "content": "l) Schulhilfe AHA – Nachhilfe in allen Fächern für Schüler der Klassen 1–10. Auch Online-Unterricht. Erste Stunde kostenlos. Tel. 0160 / 44 55 678" }
+          ],
+          "questions": [
+            {
+              "id": "B1_m14_R3_q1",
+              "type": "matching",
+              "questionText": "1. Familie Hartmann hat ein Baby (8 Monate) und sucht für die Rückkehr der Mutter in Teilzeit eine liebevolle Betreuung in kleiner Runde, nicht in einer großen Kita.",
+              "matchingSources": [
+                { "id": "B1_m14_R3_ad_a", "label": "a" }, { "id": "B1_m14_R3_ad_b", "label": "b" },
+                { "id": "B1_m14_R3_ad_c", "label": "c" }, { "id": "B1_m14_R3_ad_d", "label": "d" },
+                { "id": "B1_m14_R3_ad_e", "label": "e" }, { "id": "B1_m14_R3_ad_f", "label": "f" },
+                { "id": "B1_m14_R3_ad_g", "label": "g" }, { "id": "B1_m14_R3_ad_h", "label": "h" },
+                { "id": "B1_m14_R3_ad_i", "label": "i" }, { "id": "B1_m14_R3_ad_j", "label": "j" },
+                { "id": "B1_m14_R3_ad_k", "label": "k" }, { "id": "B1_m14_R3_ad_l", "label": "l" }
+              ],
+              "correctAnswer": "e",
+              "explanation": "Anzeige e) Tagesmutter Susanne: liebevolle Betreuung in familiärer Atmosphäre für Kinder ab 1 Jahr, max. 4 Kinder – kleine Runde, keine große Kita. Anzeige a (Kinderparadies) nimmt Kinder ab 0 Jahren, ist aber eine Einrichtung mit bis zu 8 Kindern pro Gruppe – zu groß für die Anforderung."
+            },
+            {
+              "id": "B1_m14_R3_q2",
+              "type": "matching",
+              "questionText": "2. Martina (38) und ihr Mann streiten seit Monaten. Beide wollen die Ehe retten, brauchen aber Hilfe bei der Kommunikation. Sie möchten einen Termin auch abends wahrnehmen können.",
+              "matchingSources": [
+                { "id": "B1_m14_R3_ad_a", "label": "a" }, { "id": "B1_m14_R3_ad_b", "label": "b" },
+                { "id": "B1_m14_R3_ad_c", "label": "c" }, { "id": "B1_m14_R3_ad_d", "label": "d" },
+                { "id": "B1_m14_R3_ad_e", "label": "e" }, { "id": "B1_m14_R3_ad_f", "label": "f" },
+                { "id": "B1_m14_R3_ad_g", "label": "g" }, { "id": "B1_m14_R3_ad_h", "label": "h" },
+                { "id": "B1_m14_R3_ad_i", "label": "i" }, { "id": "B1_m14_R3_ad_j", "label": "j" },
+                { "id": "B1_m14_R3_ad_k", "label": "k" }, { "id": "B1_m14_R3_ad_l", "label": "l" }
+              ],
+              "correctAnswer": "j",
+              "explanation": "Anzeige j) Eheberatung Neustart: Paarberatung bei Kommunikationsproblemen, Termine auch abends, Diskretion – passt auf alle Anforderungen. Anzeige c (Familienberatungsstelle) ist kostenlos und für allgemeine Familienthemen, bietet aber keine expliziten Abendtermine."
+            },
+            {
+              "id": "B1_m14_R3_q3",
+              "type": "matching",
+              "questionText": "3. Opa Gerhard (71) ist frisch verwitwet und sucht Gesellschaft. Er mag Kinder und würde gern in einer Familie helfen – vorlesen, spielen, kleine Ausflüge machen.",
+              "matchingSources": [
+                { "id": "B1_m14_R3_ad_a", "label": "a" }, { "id": "B1_m14_R3_ad_b", "label": "b" },
+                { "id": "B1_m14_R3_ad_c", "label": "c" }, { "id": "B1_m14_R3_ad_d", "label": "d" },
+                { "id": "B1_m14_R3_ad_e", "label": "e" }, { "id": "B1_m14_R3_ad_f", "label": "f" },
+                { "id": "B1_m14_R3_ad_g", "label": "g" }, { "id": "B1_m14_R3_ad_h", "label": "h" },
+                { "id": "B1_m14_R3_ad_i", "label": "i" }, { "id": "B1_m14_R3_ad_j", "label": "j" },
+                { "id": "B1_m14_R3_ad_k", "label": "k" }, { "id": "B1_m14_R3_ad_l", "label": "l" }
+              ],
+              "correctAnswer": "g",
+              "explanation": "Anzeige g) Großelternservice SONNENJAHRE vermittelt erfahrene Senioren als Leih-Großeltern – vorlesen, spielen, Ausflüge sind explizit aufgeführt. Das passt exakt zu Gerhards Wunsch. Anzeige k (Mehrgenerationen-Café) wäre für Gerhard als Besucher, aber er möchte aktiv einer Familie helfen."
+            },
+            {
+              "id": "B1_m14_R3_q4",
+              "type": "matching",
+              "questionText": "4. Familie Schneider feiert im Juli den 70. Geburtstag der Großmutter. Sie erwarten ca. 35 Gäste und möchten das Essen komplett auslagern.",
+              "matchingSources": [
+                { "id": "B1_m14_R3_ad_a", "label": "a" }, { "id": "B1_m14_R3_ad_b", "label": "b" },
+                { "id": "B1_m14_R3_ad_c", "label": "c" }, { "id": "B1_m14_R3_ad_d", "label": "d" },
+                { "id": "B1_m14_R3_ad_e", "label": "e" }, { "id": "B1_m14_R3_ad_f", "label": "f" },
+                { "id": "B1_m14_R3_ad_g", "label": "g" }, { "id": "B1_m14_R3_ad_h", "label": "h" },
+                { "id": "B1_m14_R3_ad_i", "label": "i" }, { "id": "B1_m14_R3_ad_j", "label": "j" },
+                { "id": "B1_m14_R3_ad_k", "label": "k" }, { "id": "B1_m14_R3_ad_l", "label": "l" }
+              ],
+              "correctAnswer": "f",
+              "explanation": "Anzeige f) CATERING FAMILIA: Jubiläen und Geburtstage, Familienfeste aller Größen, Menüauswahl und Lieferung oder vor Ort – genau das richtige Angebot zum Auslagern des Essens."
+            },
+            {
+              "id": "B1_m14_R3_q5",
+              "type": "matching",
+              "questionText": "5. Der zwölfjährige Tom hat Probleme in Mathe und Deutsch. Seine Eltern suchen eine günstige Möglichkeit, die auch online angeboten wird.",
+              "matchingSources": [
+                { "id": "B1_m14_R3_ad_a", "label": "a" }, { "id": "B1_m14_R3_ad_b", "label": "b" },
+                { "id": "B1_m14_R3_ad_c", "label": "c" }, { "id": "B1_m14_R3_ad_d", "label": "d" },
+                { "id": "B1_m14_R3_ad_e", "label": "e" }, { "id": "B1_m14_R3_ad_f", "label": "f" },
+                { "id": "B1_m14_R3_ad_g", "label": "g" }, { "id": "B1_m14_R3_ad_h", "label": "h" },
+                { "id": "B1_m14_R3_ad_i", "label": "i" }, { "id": "B1_m14_R3_ad_j", "label": "j" },
+                { "id": "B1_m14_R3_ad_k", "label": "k" }, { "id": "B1_m14_R3_ad_l", "label": "l" }
+              ],
+              "correctAnswer": "l",
+              "explanation": "Anzeige l) Schulhilfe AHA: alle Fächer, Klassen 1–10, auch Online-Unterricht, erste Stunde kostenlos – günstig und flexibel. Tom ist 12 Jahre (Klasse 6–7), liegt also im angebotenen Bereich."
+            },
+            {
+              "id": "B1_m14_R3_q6",
+              "type": "matching",
+              "questionText": "6. Rentnerin Helga (67) möchte nachmittags Menschen treffen, ohne sich anmelden zu müssen. Sie mag Kaffee und Gespräche, sucht aber keinen festen Kurs.",
+              "matchingSources": [
+                { "id": "B1_m14_R3_ad_a", "label": "a" }, { "id": "B1_m14_R3_ad_b", "label": "b" },
+                { "id": "B1_m14_R3_ad_c", "label": "c" }, { "id": "B1_m14_R3_ad_d", "label": "d" },
+                { "id": "B1_m14_R3_ad_e", "label": "e" }, { "id": "B1_m14_R3_ad_f", "label": "f" },
+                { "id": "B1_m14_R3_ad_g", "label": "g" }, { "id": "B1_m14_R3_ad_h", "label": "h" },
+                { "id": "B1_m14_R3_ad_i", "label": "i" }, { "id": "B1_m14_R3_ad_j", "label": "j" },
+                { "id": "B1_m14_R3_ad_k", "label": "k" }, { "id": "B1_m14_R3_ad_l", "label": "l" }
+              ],
+              "correctAnswer": "k",
+              "explanation": "Anzeige k) Mehrgenerationen-Café MITEINANDER: offener Treff nachmittags, keine Anmeldung nötig, Kaffee und Kuchen – ideal für Helga. Anzeige b (Elterngruppe für Berufsrückkehrer) hätte feste Termine und ein spezifisches Thema, das nicht passt."
+            },
+            {
+              "id": "B1_m14_R3_q7",
+              "type": "matching",
+              "questionText": "7. Das 8-jährige Mädchen Paula soll in den Sommerferien betreut werden. Ihre Mutter sucht ein Programm mit Sport und Kreativangeboten für zwei Wochen.",
+              "matchingSources": [
+                { "id": "B1_m14_R3_ad_a", "label": "a" }, { "id": "B1_m14_R3_ad_b", "label": "b" },
+                { "id": "B1_m14_R3_ad_c", "label": "c" }, { "id": "B1_m14_R3_ad_d", "label": "d" },
+                { "id": "B1_m14_R3_ad_e", "label": "e" }, { "id": "B1_m14_R3_ad_f", "label": "f" },
+                { "id": "B1_m14_R3_ad_g", "label": "g" }, { "id": "B1_m14_R3_ad_h", "label": "h" },
+                { "id": "B1_m14_R3_ad_i", "label": "i" }, { "id": "B1_m14_R3_ad_j", "label": "j" },
+                { "id": "B1_m14_R3_ad_k", "label": "k" }, { "id": "B1_m14_R3_ad_l", "label": "l" }
+              ],
+              "correctAnswer": "h",
+              "explanation": "Anzeige h) Kinderferienprogramm SOMMERSPASS: 2 Wochen für Kinder 6–12 Jahre, Sport und Kreatives, betreut – passt genau. Paula (8) liegt im Altersbereich, und die Dauer stimmt ebenfalls überein."
+            },
+            {
+              "id": "B1_m14_R3_q8",
+              "type": "matching",
+              "questionText": "8. Familie Wagner möchte im Sommer mit ihren Kindern (9 und 11 Jahre) Urlaub in den Alpen machen – mit geführten Wanderungen und Hüttenübernachtungen.",
+              "matchingSources": [
+                { "id": "B1_m14_R3_ad_a", "label": "a" }, { "id": "B1_m14_R3_ad_b", "label": "b" },
+                { "id": "B1_m14_R3_ad_c", "label": "c" }, { "id": "B1_m14_R3_ad_d", "label": "d" },
+                { "id": "B1_m14_R3_ad_e", "label": "e" }, { "id": "B1_m14_R3_ad_f", "label": "f" },
+                { "id": "B1_m14_R3_ad_g", "label": "g" }, { "id": "B1_m14_R3_ad_h", "label": "h" },
+                { "id": "B1_m14_R3_ad_i", "label": "i" }, { "id": "B1_m14_R3_ad_j", "label": "j" },
+                { "id": "B1_m14_R3_ad_k", "label": "k" }, { "id": "B1_m14_R3_ad_l", "label": "l" }
+              ],
+              "correctAnswer": "i",
+              "explanation": "Anzeige i) Familienreise NATUR PUR: geführte Wandertouren für Familien, Kinder 6–14 Jahre, Hütten-Übernachtungen, Bayern & Österreich – deckt alle genannten Wünsche ab."
+            },
+            {
+              "id": "B1_m14_R3_q9",
+              "type": "matching",
+              "questionText": "9. Eltern des fünfjährigen Leon suchen tagsüber eine qualifizierte Betreuung mit Bildungsangebot und regelmäßigem Mittagessen – der Junge soll auch Englisch lernen.",
+              "matchingSources": [
+                { "id": "B1_m14_R3_ad_a", "label": "a" }, { "id": "B1_m14_R3_ad_b", "label": "b" },
+                { "id": "B1_m14_R3_ad_c", "label": "c" }, { "id": "B1_m14_R3_ad_d", "label": "d" },
+                { "id": "B1_m14_R3_ad_e", "label": "e" }, { "id": "B1_m14_R3_ad_f", "label": "f" },
+                { "id": "B1_m14_R3_ad_g", "label": "g" }, { "id": "B1_m14_R3_ad_h", "label": "h" },
+                { "id": "B1_m14_R3_ad_i", "label": "i" }, { "id": "B1_m14_R3_ad_j", "label": "j" },
+                { "id": "B1_m14_R3_ad_k", "label": "k" }, { "id": "B1_m14_R3_ad_l", "label": "l" }
+              ],
+              "correctAnswer": "a",
+              "explanation": "Anzeige a) KINDERPARADIES: Kinder bis 6 Jahre, bilinguale Förderung (= Englisch), warmes Mittagessen, ganztags. Leon (5) erfüllt alle Kriterien. Anzeige e (Tagesmutter) bietet keine bilinguale Förderung."
+            },
+            {
+              "id": "B1_m14_R3_q10",
+              "type": "matching",
+              "questionText": "10. Petra (32) arbeitet drei Tage die Woche und braucht für zwei bis drei Abende pro Woche jemanden, der auf ihre Kinder (4 und 7 Jahre) aufpasst.",
+              "matchingSources": [
+                { "id": "B1_m14_R3_ad_a", "label": "a" }, { "id": "B1_m14_R3_ad_b", "label": "b" },
+                { "id": "B1_m14_R3_ad_c", "label": "c" }, { "id": "B1_m14_R3_ad_d", "label": "d" },
+                { "id": "B1_m14_R3_ad_e", "label": "e" }, { "id": "B1_m14_R3_ad_f", "label": "f" },
+                { "id": "B1_m14_R3_ad_g", "label": "g" }, { "id": "B1_m14_R3_ad_h", "label": "h" },
+                { "id": "B1_m14_R3_ad_i", "label": "i" }, { "id": "B1_m14_R3_ad_j", "label": "j" },
+                { "id": "B1_m14_R3_ad_k", "label": "k" }, { "id": "B1_m14_R3_ad_l", "label": "l" }
+              ],
+              "correctAnswer": "b",
+              "explanation": "Anzeige b) sucht eine Babysitterin für genau 2–3 Abende pro Woche, für zwei Kinder von 4 und 7 Jahren – trifft Petras Situation auf den Punkt. Hier ist es eine Anzeige, die eine Babysitterin sucht, und Petras Bedarf deckt sich damit vollständig."
+            }
+          ]
+        }
+      ]
+    },
+    "sprachbausteine": {
+      "parts": [
+        {
+          "partNumber": 1,
+          "instructions": "Lesen Sie den folgenden Text und entscheiden Sie, welches Wort (a, b oder c) in die Lücke passt. Es gibt jeweils nur eine richtige Lösung.",
+          "instructionsTranslation": "Read the following text and decide which word (a, b, or c) fits in each gap. There is only one correct answer for each.",
+          "text": "Sehr geehrte Damen und Herren,\n\nmein Name ist Thomas Berger, und ich bin Vater von zwei schulpflichtigen Kindern (7 und 9 Jahre). Ich schreibe Ihnen, __(1)__ meine Tochter Lena in der kommenden Woche nicht an dem Wandertag __(2)__ kann. Sie hat __(3)__ vergangenen Freitag eine Erkältung und ist __(4)__ noch nicht vollständig genesen. Ihr Kinderarzt hat __(5)__ empfohlen, sie noch einige Tage zu schonen.\n\nIch bitte Sie, diese Abwesenheit __(6)__ zu entschuldigen. Sobald Lena __(7)__ wieder besser geht, wird sie selbstverständlich am Unterricht __(8)__. Ich wäre Ihnen __(9)__, wenn Sie mir mitteilen könnten, welche Unterrichtsmaterialien sie nacharbeiten __(10)__.\n\nMit freundlichen Grüßen\nThomas Berger",
+          "questions": [
+            {
+              "blankNumber": 1,
+              "type": "mcq",
+              "options": ["a) weil", "b) damit", "c) wann"],
+              "correctAnswer": "a",
+              "explanation": "'ich schreibe Ihnen, weil meine Tochter nicht teilnehmen kann' – kausaler Konnektor mit Verbendstellung. 'damit' leitet einen Finalsatz ein (Zweck), 'wann' eine indirekte Frage – beides passt inhaltlich nicht."
+            },
+            {
+              "blankNumber": 2,
+              "type": "mcq",
+              "options": ["a) teilnehmen", "b) teilnimmt", "c) teilnahm"],
+              "correctAnswer": "a",
+              "explanation": "Modalverb 'kann' + Infinitiv: 'nicht teilnehmen kann' (Nebensatz, Verb-Letzt: 'kann' kommt ans Ende, der Infinitiv steht davor). 'teilnimmt' würde ein zweites Vollverb im Nebensatz ohne Modalverb ergeben."
+            },
+            {
+              "blankNumber": 3,
+              "type": "mcq",
+              "options": ["a) ab", "b) seit", "c) vor"],
+              "correctAnswer": "b",
+              "explanation": "'Sie hat seit vergangenen Freitag eine Erkältung' – 'seit' + Zeitpunkt zeigt, dass der Zustand von damals bis jetzt andauert. 'ab' wäre für Zukunft. 'vor' würde 'vor vergangenen Freitag' erzeugen, was grammatisch ungebräuchlich ist."
+            },
+            {
+              "blankNumber": 4,
+              "type": "mcq",
+              "options": ["a) bereits", "b) leider", "c) trotzdem"],
+              "correctAnswer": "b",
+              "explanation": "'ist leider noch nicht vollständig genesen' – 'leider' drückt Bedauern aus, was in einem Entschuldigungsbrief angemessen ist. 'bereits' bedeutet 'schon' und würde das Gegenteil implizieren. 'trotzdem' bräuchte einen vorherigen Kontrast."
+            },
+            {
+              "blankNumber": 5,
+              "type": "mcq",
+              "options": ["a) mir", "b) ihr", "c) uns"],
+              "correctAnswer": "b",
+              "explanation": "Der Kinderarzt hat Lena (der Tochter = ihr, Dativ) empfohlen, sich zu schonen. 'mir' wäre der Vater, 'uns' die Familie – aber die Empfehlung gilt dem kranken Kind."
+            },
+            {
+              "blankNumber": 6,
+              "type": "mcq",
+              "options": ["a) freundlich", "b) bitte", "c) offiziell"],
+              "correctAnswer": "b",
+              "explanation": "'Ich bitte Sie, diese Abwesenheit bitte zu entschuldigen' – im Infinitivsatz mit 'bitte' als höfliche Verstärkung der Bitte. 'freundlich' und 'offiziell' passen weder grammatisch noch inhaltlich in diese Lücke."
+            },
+            {
+              "blankNumber": 7,
+              "type": "mcq",
+              "options": ["a) ihr", "b) sie", "c) sich"],
+              "correctAnswer": "a",
+              "explanation": "'Sobald Lena ihr wieder besser geht' – 'es geht jemandem gut/besser' verlangt Dativ: 'jemandem geht es gut'. Lena ist weiblich → ihr (Dativ). 'sie' wäre Nominativ oder Akkusativ, 'sich' ist reflexiv und passt nicht."
+            },
+            {
+              "blankNumber": 8,
+              "type": "mcq",
+              "options": ["a) teilnehmen", "b) anwesend", "c) kommen"],
+              "correctAnswer": "a",
+              "explanation": "'am Unterricht teilnehmen' – feste Kollokation, der einzige korrekte Ausdruck. 'am Unterricht anwesend' ist grammatisch unvollständig ('sein' fehlt). 'am Unterricht kommen' ist kein idiomatischer Ausdruck."
+            },
+            {
+              "blankNumber": 9,
+              "type": "mcq",
+              "options": ["a) froh", "b) dankbar", "c) zufrieden"],
+              "correctAnswer": "b",
+              "explanation": "'Ich wäre Ihnen dankbar, wenn Sie mir mitteilen könnten' – Standardformel in formellen Briefen: 'jemandem dankbar sein, wenn ...' + Konjunktiv II. 'froh' und 'zufrieden' sind umgangssprachlicher und passen nicht in diese formelle Konstruktion."
+            },
+            {
+              "blankNumber": 10,
+              "type": "mcq",
+              "options": ["a) soll", "b) muss", "c) sollte"],
+              "correctAnswer": "a",
+              "explanation": "'welche Materialien sie nacharbeiten soll' – Modalverb 'sollen' drückt eine externe Vorgabe aus (die Schule gibt die Aufgabe vor). 'müssen' wäre zu stark (Zwang), 'sollte' wäre Konjunktiv II und würde Irrealis suggerieren."
+            }
+          ]
+        },
+        {
+          "partNumber": 2,
+          "instructions": "Lesen Sie den folgenden Text. Welches Wort aus der Liste A–P passt in die Lücken? Jedes Wort passt nur einmal. Fünf Wörter bleiben übrig.",
+          "instructionsTranslation": "Read the following text. Which word from the list A–P fits in the gaps? Each word may only be used once. Five words remain unused.",
+          "text": "Sehr geehrte Damen und Herren,\n\nich habe Ihre Broschüre über die Beratungsangebote der Familienberatungsstelle gelesen und wende mich nun __(11)__ Sie mit einigen Fragen. Mein Sohn Jakob ist dreizehn Jahre alt, und ich beobachte __(12)__ einigen Monaten, dass er sehr unzufrieden und oft aggressiv ist. Er redet kaum noch mit mir, und __(13)__ er früher immer gern mit mir gespielt hat, zieht er sich jetzt komplett in sein Zimmer zurück.\n\nIch frage mich, __(14)__ das normale Pubertät ist oder __(15)__ ich mir mehr Sorgen machen sollte. Haben Sie Erfahrung __(16)__ solchen Situationen? Ich würde gern wissen, welche __(17)__ Sie für Eltern in meiner Situation anbieten und wie ich mich für ein erstes Gespräch anmelden __(18)__. Ist dieses Gespräch kostenlos, und wird alles, __(19)__ besprochen wird, vertraulich behandelt?\n\n__(20)__ dem Lesen Ihrer Informationen hoffe ich, die richtige Entscheidung zu treffen.\n\nMit freundlichen Grüßen\nSabine Körner",
+          "questions": [
+            {
+              "blankNumber": 11,
+              "type": "word_bank",
+              "options": [
+                "A) an", "B) ob", "C) seit", "D) was", "E) Nach",
+                "F) obwohl", "G) mit", "H) Angebote", "I) was", "J) kann",
+                "K) dort", "L) doch", "M) wenden", "N) während", "O) da", "P) was"
+              ],
+              "correctAnswer": "A",
+              "explanation": "'sich wenden an + Akkusativ': 'wende mich an Sie'. 'an' ist feste Präposition bei 'sich wenden'. Distraktor G (mit) gehört zu 'sich beschäftigen mit' oder 'Erfahrung mit', nicht zu 'sich wenden'. [Preposition micro-trap: G]"
+            },
+            {
+              "blankNumber": 12,
+              "type": "word_bank",
+              "options": [
+                "A) an", "B) ob", "C) seit", "D) was", "E) Nach",
+                "F) obwohl", "G) mit", "H) Angebote", "I) was", "J) kann",
+                "K) dort", "L) doch", "M) wenden", "N) während", "O) da", "P) was"
+              ],
+              "correctAnswer": "C",
+              "explanation": "'beobachte seit einigen Monaten' – 'seit' + Zeitdauer beschreibt eine bis jetzt andauernde Beobachtung. Distraktor O (da) würde einen Kausalsatz einleiten, nicht eine Zeitangabe."
+            },
+            {
+              "blankNumber": 13,
+              "type": "word_bank",
+              "options": [
+                "A) an", "B) ob", "C) seit", "D) was", "E) Nach",
+                "F) obwohl", "G) mit", "H) Angebote", "I) was", "J) kann",
+                "K) dort", "L) doch", "M) wenden", "N) während", "O) da", "P) was"
+              ],
+              "correctAnswer": "F",
+              "explanation": "'obwohl er früher gern gespielt hat, zieht er sich zurück' – konzessiver Konnektor für einen Gegensatz. Distraktor N (während) könnte zeitlich passen, würde aber keinen Kontrast herstellen."
+            },
+            {
+              "blankNumber": 14,
+              "type": "word_bank",
+              "options": [
+                "A) an", "B) ob", "C) seit", "D) was", "E) Nach",
+                "F) obwohl", "G) mit", "H) Angebote", "I) was", "J) kann",
+                "K) dort", "L) doch", "M) wenden", "N) während", "O) da", "P) was"
+              ],
+              "correctAnswer": "B",
+              "explanation": "Indirekte Ja/Nein-Frage: 'ich frage mich, ob das normale Pubertät ist' – 'ob' leitet indirekte Fragen ein, die mit Ja oder Nein beantwortet werden. Distraktor D/I/P (was) leitet W-Fragen ein."
+            },
+            {
+              "blankNumber": 15,
+              "type": "word_bank",
+              "options": [
+                "A) an", "B) ob", "C) seit", "D) was", "E) Nach",
+                "F) obwohl", "G) mit", "H) Angebote", "I) was", "J) kann",
+                "K) dort", "L) doch", "M) wenden", "N) während", "O) da", "P) was"
+              ],
+              "correctAnswer": "O",
+              "explanation": "'ob X ist oder da Y sollte' – hier fungiert 'da' als kausaler Konnektor: '... oder da ich mir mehr Sorgen machen sollte' (weil die Situation Anlass dazu gibt). Distraktor B (ob) wurde bereits für Lücke 14 verwendet."
+            },
+            {
+              "blankNumber": 16,
+              "type": "word_bank",
+              "options": [
+                "A) an", "B) ob", "C) seit", "D) was", "E) Nach",
+                "F) obwohl", "G) mit", "H) Angebote", "I) was", "J) kann",
+                "K) dort", "L) doch", "M) wenden", "N) während", "O) da", "P) was"
+              ],
+              "correctAnswer": "G",
+              "explanation": "'Erfahrung mit + Dativ': 'Haben Sie Erfahrung mit solchen Situationen?' – feste Kollokation. Distraktor A (an) wäre 'Erfahrung an', was kein idiomatischer Ausdruck ist."
+            },
+            {
+              "blankNumber": 17,
+              "type": "word_bank",
+              "options": [
+                "A) an", "B) ob", "C) seit", "D) was", "E) Nach",
+                "F) obwohl", "G) mit", "H) Angebote", "I) was", "J) kann",
+                "K) dort", "L) doch", "M) wenden", "N) während", "O) da", "P) was"
+              ],
+              "correctAnswer": "H",
+              "explanation": "'welche Angebote Sie für Eltern anbieten' – 'Angebote' (Plural Neutrum) passt in die Lücke nach 'welche'. Distraktor M (wenden) ergibt 'welche wenden Sie' – grammatisch und inhaltlich falsch."
+            },
+            {
+              "blankNumber": 18,
+              "type": "word_bank",
+              "options": [
+                "A) an", "B) ob", "C) seit", "D) was", "E) Nach",
+                "F) obwohl", "G) mit", "H) Angebote", "I) was", "J) kann",
+                "K) dort", "L) doch", "M) wenden", "N) während", "O) da", "P) was"
+              ],
+              "correctAnswer": "J",
+              "explanation": "'wie ich mich anmelden kann' – Modalverb 'können' im Nebensatz, Verbendstellung: 'kann'. Distraktor M (wenden) ergibt keinen sinnvollen Satz."
+            },
+            {
+              "blankNumber": 19,
+              "type": "word_bank",
+              "options": [
+                "A) an", "B) ob", "C) seit", "D) was", "E) Nach",
+                "F) obwohl", "G) mit", "H) Angebote", "I) was", "J) kann",
+                "K) dort", "L) doch", "M) wenden", "N) während", "O) da", "P) was"
+              ],
+              "correctAnswer": "I",
+              "explanation": "'alles, was besprochen wird' – Relativsatz mit Indefinitpronomen 'alles': der Relativpronomen ist 'was'. Distraktor D und P sind ebenfalls 'was', aber I ist die korrekte, noch nicht verbrauchte Option in diesem Word-Bank-Format."
+            },
+            {
+              "blankNumber": 20,
+              "type": "word_bank",
+              "options": [
+                "A) an", "B) ob", "C) seit", "D) was", "E) Nach",
+                "F) obwohl", "G) mit", "H) Angebote", "I) was", "J) kann",
+                "K) dort", "L) doch", "M) wenden", "N) während", "O) da", "P) was"
+              ],
+              "correctAnswer": "E",
+              "explanation": "'Nach dem Lesen Ihrer Informationen hoffe ich ...' – 'nach + Dativ' leitet zeitliche Nachzeitigkeit ein ('nachdem ich gelesen habe'). Das entspricht dem formellen Briefstil. Distraktor C (seit) ergäbe 'Seit dem Lesen', was zeitlich falsch wäre."
+            }
+          ]
+        }
+      ]
+    },
+    "writing": {
+      "totalTimeMinutes": 30,
+      "tasks": [
+        {
+          "taskNumber": 1,
+          "type": "letter",
+          "instructions": "Ihre Freundin Sofia hat Ihnen geschrieben und erzählt, dass ihr Großvater zu ihnen ins Haus zieht. Sie fragt, wie das bei Ihnen in der Familie ist. Schreiben Sie Sofia einen Brief. Gehen Sie auf alle vier Punkte ein. Achten Sie auf Anrede, Einleitung und Grußformel. Schreiben Sie ca. 150 Wörter.",
+          "instructionsTranslation": "Your friend Sofia has written to you and told you that her grandfather is moving in with them. She asks what it is like in your family. Write Sofia a letter. Address all four points below. Pay attention to greeting, introduction, and closing. Write approximately 150 words.",
+          "prompt": "Sofia schreibt Ihnen:\n\n'Stell dir vor, mein Opa zieht nächsten Monat zu uns! Ich bin ein bisschen aufgeregt, weil sich unser Alltag bestimmt verändern wird. Aber ich freue mich auch. Wie ist das bei euch – wohnt jemand aus der älteren Generation bei euch, oder habt ihr das mal erlebt? Ich würde mich so sehr über deine Meinung und Erfahrung freuen!'\n\nSchreiben Sie Sofia einen Brief. Gehen Sie auf die folgenden vier Punkte ein:\n\n- Wie finden Sie die Idee, dass Sofias Großvater zu ihr zieht?\n- Haben Sie selbst Erfahrungen mit dem Leben mehrerer Generationen unter einem Dach?\n- Was kann dabei schwierig sein?\n- Was würden Sie Sofia empfehlen, damit das Zusammenleben gut klappt?\n\nVergessen Sie nicht Anrede, Einleitung und Grußformel. Schreiben Sie ca. 150 Wörter.",
+          "promptTranslation": "Sofia writes to you:\n\n'Imagine my grandfather is moving in with us next month! I am a bit excited because our daily routine will certainly change. But I am also happy about it. What is it like for you – does anyone from the older generation live with you, or have you ever experienced that? I would love to hear your opinion and experience!'\n\nWrite Sofia a letter. Address the following four points:\n\n- What do you think of the idea that Sofia's grandfather is moving in with her?\n- Do you have personal experience with multiple generations living under one roof?\n- What can be difficult about it?\n- What would you recommend to Sofia so that the living situation works out well?\n\nDon't forget greeting, introduction, and closing. Write approximately 150 words.",
+          "requiredPoints": [
+            "Eigene Meinung zu Sofias Situation (Großvater zieht ein)",
+            "Eigene Erfahrung mit Mehrgenerationenwohnen",
+            "Mögliche Schwierigkeiten beim Zusammenleben",
+            "Konkrete Empfehlung für Sofia"
+          ],
+          "wordCountMin": 130,
+          "wordCountMax": 170,
+          "sampleAnswer": "Liebe Sofia,\n\nvielen Dank für deinen Brief – ich habe mich sehr gefreut, von dir zu hören! Es klingt wirklich aufregend, dass dein Opa zu euch zieht.\n\nIch finde das eine wunderbare Idee. Großeltern haben so viel zu erzählen, und man lernt eine ganz andere Perspektive kennen. Bei uns hat das eine Jahr lang auch so funktioniert: Meine Oma hat bei uns gewohnt, nachdem mein Opa gestorben war. Es hat uns alle näher zusammengebracht.\n\nNatürlich kann es manchmal anstrengend sein – unterschiedliche Schlafzeiten, andere Gewohnheiten, weniger Privatsphäre. Das brauche ich dir nicht zu sagen! Aber mit ein bisschen Kommunikation lässt sich das meist lösen.\n\nMein Tipp: Sprich offen mit deinem Opa über Regeln und Wünsche. Das klingt vielleicht komisch, hilft aber wirklich.\n\nHerzliche Grüße\nAlex",
+          "scoringCriteria": [
+            {
+              "criterion": "I. Inhaltliche Vollständigkeit",
+              "maxPoints": 15,
+              "description": "Alle vier Leitpunkte (Meinung zur Situation, eigene Erfahrung, Schwierigkeit, Empfehlung) sind klar behandelt. Fehlt ein Punkt vollständig, werden Punkte abgezogen."
+            },
+            {
+              "criterion": "II. Kommunikative Gestaltung",
+              "maxPoints": 15,
+              "description": "Angemessene Anrede ('Liebe Sofia'), persönlicher Ton, logische Übergänge. Typische Konnektoren: 'natürlich', 'aber', 'nachdem', 'obwohl', 'damit'."
+            },
+            {
+              "criterion": "III. Formale Richtigkeit",
+              "maxPoints": 15,
+              "description": "Grammatik, Rechtschreibung und Wortwahl auf B1-Niveau. Korrekte Zeitformen (Perfekt für Vergangenheit, Konjunktiv II für Empfehlungen), Nebensatzstellung, Präpositionen."
+            }
+          ]
+        }
+      ]
+    },
+    "speaking": {
+      "totalTimeMinutes": 15,
+      "prepTimeMinutes": 20,
+      "parts": [
+        {
+          "partNumber": 1,
+          "type": "introduce",
+          "instructions": "Stellen Sie sich Ihrem Gesprächspartner/Ihrer Gesprächspartnerin vor. Sprechen Sie über sich: Name, Herkunft, Wohnort, Familie, Beruf oder Ausbildung, Hobbys und Sprachen. Stellen Sie anschließend Ihrem Partner/Ihrer Partnerin mindestens zwei Fragen.",
+          "instructionsTranslation": "Introduce yourself to your conversation partner. Talk about: name, origin, place of residence, family, work or education, hobbies, and languages. Afterwards ask your partner at least two questions.",
+          "prompt": "Bitte stellen Sie sich Ihrem Partner / Ihrer Partnerin vor. Sprechen Sie u.a. über:\n- Ihren Namen und Ihre Herkunft\n- Ihren aktuellen Wohnort und seit wann Sie dort leben\n- Ihre Familie und ob Sie Geschwister haben\n- Ihren Beruf oder Ihr Studium\n- Ihre Hobbys und Interessen\n- Die Sprachen, die Sie sprechen\n\nStellen Sie danach Ihrem Partner / Ihrer Partnerin mindestens zwei Fragen.",
+          "sampleResponse": "Guten Tag, ich heiße Claudia Meier und komme aus einer kleinen Stadt bei Stuttgart. Seit zwei Jahren lebe ich in Köln, wo ich als Erzieherin in einem Kindergarten arbeite. Ich habe eine ältere Schwester, die in München wohnt – wir sehen uns leider nicht so oft, aber wir telefonieren regelmäßig. In meiner Freizeit male ich gern und besuche Kunstausstellungen. Außerdem spiele ich seit Jahren Gitarre, nicht besonders gut, aber mit viel Spaß. Ich spreche Deutsch als Muttersprache und Englisch auf gutem Niveau; ein bisschen Französisch kann ich auch. Und wie ist das bei Ihnen – haben Sie Familie hier in der Nähe, oder wohnen alle weit weg?",
+          "evaluationTips": [
+            "Beginnen Sie mit Name und Herkunft, nicht mit Hobbys",
+            "Nennen Sie konkrete Details: Stadt, Beruf, Sprachen",
+            "Verbinden Sie Sätze mit 'weil', 'obwohl', 'seitdem' – das zeigt B1-Niveau",
+            "Stellen Sie echte, offene Fragen am Ende"
+          ],
+          "keyPhrases": [
+            "Ich heiße ... und komme aus ...",
+            "Seit ... Jahren lebe ich in ...",
+            "Beruflich arbeite ich als ...",
+            "In meiner Freizeit ...",
+            "Neben Deutsch spreche ich ...",
+            "Und wie ist das bei Ihnen?"
+          ]
+        },
+        {
+          "partNumber": 2,
+          "type": "discussion",
+          "instructions": "Sie erhalten eine Grafik zum Thema Familie. Beschreiben Sie Ihrem Partner die wichtigsten Informationen und tauschen Sie dann Ihre Meinung dazu aus.",
+          "instructionsTranslation": "You receive a chart on the topic of family. Describe the most important information to your partner and then exchange your opinions on it.",
+          "prompt": "Thema: Familie – Wie viel Zeit verbringen Generationen miteinander?\n\nSehen Sie sich die folgende Grafik an:\n\n[GRAFIK: Durchschnittliche gemeinsame Zeit pro Woche zwischen Generationen in Deutschland (2024)]\n\n- Eltern mit Kindern unter 10 Jahren: 28 Stunden\n- Eltern mit Teenagern (13–17 Jahre): 11 Stunden\n- Großeltern mit Enkeln (alle Altersgruppen): 7 Stunden\n- Erwachsene Kinder mit Eltern (25–45 Jahre): 4 Stunden\n- Ur-Großeltern mit Ur-Enkeln: 1 Stunde\n\nQuelle: Deutsches Familieninstitut, 2024\n\nLeitfragen:\n1. Beschreiben Sie kurz die wichtigsten Informationen aus der Grafik (2–3 Sätze).\n2. Was überrascht Sie, und was finden Sie verständlich?\n3. Meinen Sie, dass die Zeit, die Generationen miteinander verbringen, wichtig ist? Warum?",
+          "sampleResponse": "Die Grafik zeigt, wie viele Stunden verschiedene Generationen in Deutschland pro Woche Zeit miteinander verbringen. Am meisten Zeit haben Eltern mit kleinen Kindern unter zehn Jahren – fast dreißig Stunden pro Woche. Mit zunehmendem Alter der Kinder nimmt die gemeinsame Zeit deutlich ab: Bei Teenagern sind es nur noch elf Stunden, und Großeltern sehen ihre Enkel durchschnittlich nur sieben Stunden in der Woche.\n\nMich überrascht besonders, wie wenig Zeit erwachsene Kinder mit ihren Eltern verbringen – nur vier Stunden. Das klingt wirklich wenig. Ich finde es aber auch verständlich, weil alle viel arbeiten und eigene Familien haben.\n\nPersönlich glaube ich, dass diese Zeit sehr wichtig ist. Großeltern geben Erfahrungen und Traditionen weiter, die man anderswo nicht lernen kann. Ich frage mich: Wie war das bei Ihnen aufgewachsen – hatten Sie viel Kontakt zu Ihren Großeltern?",
+          "evaluationTips": [
+            "Starten Sie mit einer klaren, vollständigen Beschreibung der Grafik",
+            "Verwenden Sie Vergleichsausdrücke: 'Am meisten ...', 'Im Vergleich dazu ...', 'Dagegen ...'",
+            "Formulieren Sie Ihre Meinung klar: 'Ich finde es überraschend, dass ...', 'Das ist verständlich, weil ...'",
+            "Stellen Sie am Ende eine Rückfrage an den Partner"
+          ],
+          "keyPhrases": [
+            "Die Grafik zeigt, dass ...",
+            "Am meisten / Am wenigsten ...",
+            "Im Vergleich dazu ...",
+            "Mich überrascht, dass ...",
+            "Ich finde das verständlich / überraschend, weil ...",
+            "Was meinen Sie dazu?"
+          ]
+        },
+        {
+          "partNumber": 3,
+          "type": "planning",
+          "instructions": "Sie sollen mit Ihrem Partner gemeinsam etwas planen. Machen Sie Vorschläge, reagieren Sie auf die Ideen Ihres Partners und einigen Sie sich am Ende auf eine gemeinsame Lösung.",
+          "instructionsTranslation": "You are going to plan something together with your partner. Make suggestions, respond to your partner's ideas, and agree on a joint solution at the end.",
+          "prompt": "Ihr Großvater feiert nächsten Monat seinen 70. Geburtstag. Die ganze Familie soll zusammenkommen und es soll eine besondere Feier werden. Planen Sie gemeinsam mit Ihrem Partner/Ihrer Partnerin die Feier.\n\nBesprechen Sie folgende Punkte und kommen Sie zu einer gemeinsamen Entscheidung:\n\n- Wo soll die Feier stattfinden? (zu Hause, Restaurant, Gemeindesaal?)\n- Wie viele Personen werden eingeladen?\n- Was soll es zu essen und zu trinken geben?\n- Welches Programm oder welche Überraschung planen Sie?\n- Wer übernimmt welche Aufgaben?\n\nMachen Sie Vorschläge, gehen Sie auf die Ideen Ihres Partners ein und einigen Sie sich.",
+          "sampleResponse": "Also, ich finde, wir sollten die Feier zu Hause machen – das ist persönlicher als ein Restaurant, und Opa fühlt sich sicher wohler in vertrauter Umgebung. Was meinst du dazu?\n\nFür die Gäste würde ich vorschlagen, nur die engste Familie einzuladen – so etwa zwanzig Personen. Zu viele Leute wären vielleicht anstrengend für einen 70-Jährigen.\n\nBeim Essen könnte ich ein Buffet mit seinen Lieblingsgerichten vorbereiten. Vielleicht kannst du den Kuchen backen? Ich weiß, dass er Schokolade liebt.\n\nAls Überraschung hätte ich eine Idee: Wir könnten alle ein kurzes Video aufnehmen, in dem wir ihm etwas sagen. Das wäre eine schöne Erinnerung. Was hältst du davon?\n\nZum Schluss: Ich übernehme die Dekoration und das Kochen. Du kümmerst dich um die Einladungen und die Musik – ist das okay für dich?\n\nAlso haben wir uns geeinigt: Feier zu Hause, zwanzig Gäste, Buffet mit Schokoladenkuchen und ein Videoclip als Überraschung. Klingt das gut?",
+          "evaluationTips": [
+            "Begründen Sie Ihre Vorschläge: 'weil', 'damit', 'denn'",
+            "Verwenden Sie Konjunktiv II für Vorschläge: 'Ich würde vorschlagen ...', 'Wir könnten ...'",
+            "Reagieren Sie aktiv auf Ihren Partner: 'Das finde ich gut, weil ...', 'Ja, aber vielleicht ...'",
+            "Verteilen Sie Aufgaben klar und konkret",
+            "Fassen Sie das Ergebnis am Ende zusammen"
+          ],
+          "keyPhrases": [
+            "Ich würde vorschlagen, dass ...",
+            "Was hältst du von ...?",
+            "Das finde ich gut, weil ...",
+            "Wir könnten auch ...",
+            "Ich übernehme ... und du ...",
+            "Also haben wir uns geeinigt auf ..."
+          ]
+        }
+      ]
+    }
+  }
+}
