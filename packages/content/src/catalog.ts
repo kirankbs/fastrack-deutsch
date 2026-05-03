@@ -27,7 +27,7 @@ function generateEntries(level: Level, count: number): MockExamEntry[] {
     // B1 convergent end-state: 15 mocks (01–10 shipped; 11–15 planned WS-A wave 6–8)
     B1: [
       'Alltag', 'Berufseinstieg', 'Bildung', 'Medien', 'Wohnen & Lernen',
-      'Kultur & Veranstaltungen', 'Dienste & formelle Kommunikation', 'Konsum & Tausch', 'Tiere & Stadt', 'Konsum',
+      'Kultur & Veranstaltungen', 'Dienste & formelle Kommunikation', 'Konsum & Tausch', 'Tiere & Stadt', 'Feste & Feiern',
       'Arbeit & Karriere', 'Gesundheit & Lebensstil', 'Reisen & Mobilität',
       'Familie & Generationen', 'Medien & digitales Leben',
     ],
