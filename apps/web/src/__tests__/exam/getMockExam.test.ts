@@ -12,7 +12,7 @@ import type { Level } from '@fastrack/types';
 
 describe('getMockExam — static data, no fs at request time', () => {
   it('returns a non-null MockExam for every catalog entry with hasContent: true', () => {
-    // B1 M11, M12, M15 are planned placeholders (hasContent: false) — no JSON file yet.
+    // All B1 mocks 01-15 are now shipped — no planned placeholders remain.
     for (const entry of MOCK_EXAM_CATALOG.filter((e) => e.hasContent)) {
       const result = getMockExam(entry.level, entry.mockNumber);
       expect(result, `${entry.id} should be non-null`).not.toBeNull();
@@ -31,6 +31,20 @@ describe('getMockExam — static data, no fs at request time', () => {
       }
     }
     expect(count).toBe(50);
+  });
+
+  it('B1 mock 14 resolves to the Familie & Generationen exam', () => {
+    const result = getMockExam('B1', 14);
+    expect(result).not.toBeNull();
+    expect(result?.id).toBe('B1_mock_14');
+    expect(result?.level).toBe('B1');
+  });
+
+  it('B1 mock 15 resolves to the Medien & digitales Leben exam', () => {
+    const result = getMockExam('B1', 15);
+    expect(result).not.toBeNull();
+    expect(result?.id).toBe('B1_mock_15');
+    expect(result?.level).toBe('B1');
   });
 
   it('A1 mocks have required sections without sprachbausteine', () => {
@@ -79,9 +93,12 @@ describe('getMockExam — static data, no fs at request time', () => {
     }
   });
 
-  it('returns null for out-of-range mock number (> 10)', () => {
+  it('returns null for out-of-range mock number (> 10 for non-B1, > 15 for B1)', () => {
     expect(getMockExam('A1', 11)).toBeNull();
     expect(getMockExam('A1', 99)).toBeNull();
+    // B1 supports up to 15 — 16+ should return null
+    expect(getMockExam('B1', 16)).toBeNull();
+    expect(getMockExam('B1', 99)).toBeNull();
   });
 
   it('returns null for mock number 0', () => {
