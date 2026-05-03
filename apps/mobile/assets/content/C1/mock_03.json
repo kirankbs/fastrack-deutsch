@@ -65,14 +65,38 @@
               "type": "matching",
               "questionText": "Lücke 1 im Text: '…miteinander in Dialog treten könnten. [1] Die Wirklichkeit hat dieses Versprechen…'",
               "matchingSources": [
-                { "id": "C1_m03_R1_sent_a", "label": "a" },
-                { "id": "C1_m03_R1_sent_b", "label": "b" },
-                { "id": "C1_m03_R1_sent_c", "label": "c" },
-                { "id": "C1_m03_R1_sent_d", "label": "d" },
-                { "id": "C1_m03_R1_sent_e", "label": "e" },
-                { "id": "C1_m03_R1_sent_f", "label": "f" },
-                { "id": "C1_m03_R1_sent_g", "label": "g" },
-                { "id": "C1_m03_R1_sent_h", "label": "h" }
+                {
+                  "id": "C1_m03_R1_sent_a",
+                  "label": "a"
+                },
+                {
+                  "id": "C1_m03_R1_sent_b",
+                  "label": "b"
+                },
+                {
+                  "id": "C1_m03_R1_sent_c",
+                  "label": "c"
+                },
+                {
+                  "id": "C1_m03_R1_sent_d",
+                  "label": "d"
+                },
+                {
+                  "id": "C1_m03_R1_sent_e",
+                  "label": "e"
+                },
+                {
+                  "id": "C1_m03_R1_sent_f",
+                  "label": "f"
+                },
+                {
+                  "id": "C1_m03_R1_sent_g",
+                  "label": "g"
+                },
+                {
+                  "id": "C1_m03_R1_sent_h",
+                  "label": "h"
+                }
               ],
               "correctAnswer": "a",
               "explanation": "Lücke 1 folgt auf das Bild der globalen Agora. Satz a) verankert dieses Ideal historisch in der Aufklärung – der Rückverweis 'Dieses Ideal' schließt anaphorisch an den vorherigen Satz an. Satz e) erwähnt zwar einen historischen Ursprung, aber für ein anderes Konzept (Echokammer), das im Text erst viel später eingeführt wird."
@@ -82,14 +106,38 @@
               "type": "matching",
               "questionText": "Lücke 2 im Text: '…Präferenzen der Nutzenden zuschneiden. [2] Wer einmal auf einen politisch einseitigen Artikel klickt…'",
               "matchingSources": [
-                { "id": "C1_m03_R1_sent_a", "label": "a" },
-                { "id": "C1_m03_R1_sent_b", "label": "b" },
-                { "id": "C1_m03_R1_sent_c", "label": "c" },
-                { "id": "C1_m03_R1_sent_d", "label": "d" },
-                { "id": "C1_m03_R1_sent_e", "label": "e" },
-                { "id": "C1_m03_R1_sent_f", "label": "f" },
-                { "id": "C1_m03_R1_sent_g", "label": "g" },
-                { "id": "C1_m03_R1_sent_h", "label": "h" }
+                {
+                  "id": "C1_m03_R1_sent_a",
+                  "label": "a"
+                },
+                {
+                  "id": "C1_m03_R1_sent_b",
+                  "label": "b"
+                },
+                {
+                  "id": "C1_m03_R1_sent_c",
+                  "label": "c"
+                },
+                {
+                  "id": "C1_m03_R1_sent_d",
+                  "label": "d"
+                },
+                {
+                  "id": "C1_m03_R1_sent_e",
+                  "label": "e"
+                },
+                {
+                  "id": "C1_m03_R1_sent_f",
+                  "label": "f"
+                },
+                {
+                  "id": "C1_m03_R1_sent_g",
+                  "label": "g"
+                },
+                {
+                  "id": "C1_m03_R1_sent_h",
+                  "label": "h"
+                }
               ],
               "correctAnswer": "b",
               "explanation": "Lücke 2 erläutert den Mechanismus der algorithmischen Personalisierung. Satz b) beschreibt präzise die Engagement-Daten-Modell-Schleife und bereitet damit den konkreten Klick-Effekt im Folgesatz vor. Satz h) käme thematisch nahe, bezieht sich aber auf Trainingsdaten des Algorithmus, nicht auf den Kreislauf des Nutzerengagements."
@@ -99,14 +147,38 @@
               "type": "matching",
               "questionText": "Lücke 3 im Text: '…schwerer zu messen als gemeinhin angenommen. [3] Laborexperimente zeigen…'",
               "matchingSources": [
-                { "id": "C1_m03_R1_sent_a", "label": "a" },
-                { "id": "C1_m03_R1_sent_b", "label": "b" },
-                { "id": "C1_m03_R1_sent_c", "label": "c" },
-                { "id": "C1_m03_R1_sent_d", "label": "d" },
-                { "id": "C1_m03_R1_sent_e", "label": "e" },
-                { "id": "C1_m03_R1_sent_f", "label": "f" },
-                { "id": "C1_m03_R1_sent_g", "label": "g" },
-                { "id": "C1_m03_R1_sent_h", "label": "h" }
+                {
+                  "id": "C1_m03_R1_sent_a",
+                  "label": "a"
+                },
+                {
+                  "id": "C1_m03_R1_sent_b",
+                  "label": "b"
+                },
+                {
+                  "id": "C1_m03_R1_sent_c",
+                  "label": "c"
+                },
+                {
+                  "id": "C1_m03_R1_sent_d",
+                  "label": "d"
+                },
+                {
+                  "id": "C1_m03_R1_sent_e",
+                  "label": "e"
+                },
+                {
+                  "id": "C1_m03_R1_sent_f",
+                  "label": "f"
+                },
+                {
+                  "id": "C1_m03_R1_sent_g",
+                  "label": "g"
+                },
+                {
+                  "id": "C1_m03_R1_sent_h",
+                  "label": "h"
+                }
               ],
               "correctAnswer": "c",
               "explanation": "Lücke 3 steht direkt nach der Aussage, die Konsequenzen seien 'schwerer zu messen als gemeinhin angenommen'. Satz c) bestätigt diese Beobachtung mit dem konkreten Hinweis auf divergierende Studienergebnisse. Das Wort 'Empirische Studien' greift 'Laborexperimente' im Folgesatz vorbereitend auf."
@@ -116,14 +188,38 @@
               "type": "matching",
               "questionText": "Lücke 4 im Text: '…überschätzen wir die Macht der Algorithmen… [4] Ihrer Ansicht nach…'",
               "matchingSources": [
-                { "id": "C1_m03_R1_sent_a", "label": "a" },
-                { "id": "C1_m03_R1_sent_b", "label": "b" },
-                { "id": "C1_m03_R1_sent_c", "label": "c" },
-                { "id": "C1_m03_R1_sent_d", "label": "d" },
-                { "id": "C1_m03_R1_sent_e", "label": "e" },
-                { "id": "C1_m03_R1_sent_f", "label": "f" },
-                { "id": "C1_m03_R1_sent_g", "label": "g" },
-                { "id": "C1_m03_R1_sent_h", "label": "h" }
+                {
+                  "id": "C1_m03_R1_sent_a",
+                  "label": "a"
+                },
+                {
+                  "id": "C1_m03_R1_sent_b",
+                  "label": "b"
+                },
+                {
+                  "id": "C1_m03_R1_sent_c",
+                  "label": "c"
+                },
+                {
+                  "id": "C1_m03_R1_sent_d",
+                  "label": "d"
+                },
+                {
+                  "id": "C1_m03_R1_sent_e",
+                  "label": "e"
+                },
+                {
+                  "id": "C1_m03_R1_sent_f",
+                  "label": "f"
+                },
+                {
+                  "id": "C1_m03_R1_sent_g",
+                  "label": "g"
+                },
+                {
+                  "id": "C1_m03_R1_sent_h",
+                  "label": "h"
+                }
               ],
               "correctAnswer": "d",
               "explanation": "Lücke 4 folgt auf die Kritiker-Position. Satz d) belegt die Kritiker-These mit Umfragedaten – 'Sie verweisen dabei auf' schließt pronominell an die im Vorsatz genannten Kritiker an. Satz c) wäre eine neutrale Bestandsaufnahme, nicht eine Unterstützung der Kritiker-Position."
@@ -133,14 +229,38 @@
               "type": "matching",
               "questionText": "Lücke 5 im Text: '…nimmt das Konzept der „Echokammer\" ein. [5] Anders als die Filterblase…'",
               "matchingSources": [
-                { "id": "C1_m03_R1_sent_a", "label": "a" },
-                { "id": "C1_m03_R1_sent_b", "label": "b" },
-                { "id": "C1_m03_R1_sent_c", "label": "c" },
-                { "id": "C1_m03_R1_sent_d", "label": "d" },
-                { "id": "C1_m03_R1_sent_e", "label": "e" },
-                { "id": "C1_m03_R1_sent_f", "label": "f" },
-                { "id": "C1_m03_R1_sent_g", "label": "g" },
-                { "id": "C1_m03_R1_sent_h", "label": "h" }
+                {
+                  "id": "C1_m03_R1_sent_a",
+                  "label": "a"
+                },
+                {
+                  "id": "C1_m03_R1_sent_b",
+                  "label": "b"
+                },
+                {
+                  "id": "C1_m03_R1_sent_c",
+                  "label": "c"
+                },
+                {
+                  "id": "C1_m03_R1_sent_d",
+                  "label": "d"
+                },
+                {
+                  "id": "C1_m03_R1_sent_e",
+                  "label": "e"
+                },
+                {
+                  "id": "C1_m03_R1_sent_f",
+                  "label": "f"
+                },
+                {
+                  "id": "C1_m03_R1_sent_g",
+                  "label": "g"
+                },
+                {
+                  "id": "C1_m03_R1_sent_h",
+                  "label": "h"
+                }
               ],
               "correctAnswer": "e",
               "explanation": "Lücke 5 steht nach der Einführung des Echokammer-Konzepts und vor der Abgrenzung zur Filterblase. Satz e) gibt dem Begriff einen historischen Ursprung und situiert ihn zeitlich – das passt als erläuternder Einschub vor der inhaltlichen Definition im Folgesatz. Satz f) beschreibt dagegen eine Wechselwirkung zwischen beiden Phänomenen, die erst nach der Definition beider sinnvoll wäre."
@@ -150,14 +270,38 @@
               "type": "matching",
               "questionText": "Lücke 6 im Text: '…stellt sich daraus eine unbequeme Frage. [6] Wenn sowohl Algorithmen als auch…'",
               "matchingSources": [
-                { "id": "C1_m03_R1_sent_a", "label": "a" },
-                { "id": "C1_m03_R1_sent_b", "label": "b" },
-                { "id": "C1_m03_R1_sent_c", "label": "c" },
-                { "id": "C1_m03_R1_sent_d", "label": "d" },
-                { "id": "C1_m03_R1_sent_e", "label": "e" },
-                { "id": "C1_m03_R1_sent_f", "label": "f" },
-                { "id": "C1_m03_R1_sent_g", "label": "g" },
-                { "id": "C1_m03_R1_sent_h", "label": "h" }
+                {
+                  "id": "C1_m03_R1_sent_a",
+                  "label": "a"
+                },
+                {
+                  "id": "C1_m03_R1_sent_b",
+                  "label": "b"
+                },
+                {
+                  "id": "C1_m03_R1_sent_c",
+                  "label": "c"
+                },
+                {
+                  "id": "C1_m03_R1_sent_d",
+                  "label": "d"
+                },
+                {
+                  "id": "C1_m03_R1_sent_e",
+                  "label": "e"
+                },
+                {
+                  "id": "C1_m03_R1_sent_f",
+                  "label": "f"
+                },
+                {
+                  "id": "C1_m03_R1_sent_g",
+                  "label": "g"
+                },
+                {
+                  "id": "C1_m03_R1_sent_h",
+                  "label": "h"
+                }
               ],
               "correctAnswer": "g",
               "explanation": "Lücke 6 folgt auf die 'unbequeme Frage' für Plattformbetreiber und Regulierer. Satz g) konkretisiert den regulatorischen Kontext durch den DSA-Verweis und bestätigt, dass die Frage politische Ebene erreicht hat. Satz f) beschreibt eine thematisch verwandte Wechselwirkung, setzt aber inhaltlich einen Abschluss voraus, den die Lückenposition noch nicht bieten kann."
@@ -182,11 +326,26 @@
               "type": "matching",
               "questionText": "In welchem Abschnitt wird erwähnt, dass Korrekturen in sozialen Medien weniger Aufmerksamkeit erhalten als ursprüngliche Falschmeldungen?",
               "matchingSources": [
-                { "id": "sec_A", "label": "A" },
-                { "id": "sec_B", "label": "B" },
-                { "id": "sec_C", "label": "C" },
-                { "id": "sec_D", "label": "D" },
-                { "id": "sec_E", "label": "E" }
+                {
+                  "id": "sec_A",
+                  "label": "A"
+                },
+                {
+                  "id": "sec_B",
+                  "label": "B"
+                },
+                {
+                  "id": "sec_C",
+                  "label": "C"
+                },
+                {
+                  "id": "sec_D",
+                  "label": "D"
+                },
+                {
+                  "id": "sec_E",
+                  "label": "E"
+                }
               ],
               "correctAnswer": "D",
               "explanation": "Abschnitt D thematisiert die 'Publish-then-Verify'-Kultur und hält explizit fest, dass Korrekturen in sozialen Netzwerken 'deutlich geringere Reichweite erzielen als die ursprüngliche Falschmeldung'."
@@ -196,11 +355,26 @@
               "type": "matching",
               "questionText": "Wo wird beschrieben, dass eine behördliche Stelle das gestiegene Risiko synthetischer Medien offiziell eingestuft hat?",
               "matchingSources": [
-                { "id": "sec_A", "label": "A" },
-                { "id": "sec_B", "label": "B" },
-                { "id": "sec_C", "label": "C" },
-                { "id": "sec_D", "label": "D" },
-                { "id": "sec_E", "label": "E" }
+                {
+                  "id": "sec_A",
+                  "label": "A"
+                },
+                {
+                  "id": "sec_B",
+                  "label": "B"
+                },
+                {
+                  "id": "sec_C",
+                  "label": "C"
+                },
+                {
+                  "id": "sec_D",
+                  "label": "D"
+                },
+                {
+                  "id": "sec_E",
+                  "label": "E"
+                }
               ],
               "correctAnswer": "A",
               "explanation": "Abschnitt A nennt den BSI-Lagebericht 2025, der die gestiegene Qualität synthetischer Medien offiziell dokumentiert."
@@ -210,11 +384,26 @@
               "type": "matching",
               "questionText": "In welchem Abschnitt wird ein europaweites Kooperationsmodell zur schnellen Erkennung von Fälschungen vorgestellt?",
               "matchingSources": [
-                { "id": "sec_A", "label": "A" },
-                { "id": "sec_B", "label": "B" },
-                { "id": "sec_C", "label": "C" },
-                { "id": "sec_D", "label": "D" },
-                { "id": "sec_E", "label": "E" }
+                {
+                  "id": "sec_A",
+                  "label": "A"
+                },
+                {
+                  "id": "sec_B",
+                  "label": "B"
+                },
+                {
+                  "id": "sec_C",
+                  "label": "C"
+                },
+                {
+                  "id": "sec_D",
+                  "label": "D"
+                },
+                {
+                  "id": "sec_E",
+                  "label": "E"
+                }
               ],
               "correctAnswer": "E",
               "explanation": "Abschnitt E beschreibt das EBU-Frühwarnsystem, bei dem Mitgliedssender innerhalb von 15 Minuten kollaborativ verdächtige Clips prüfen."
@@ -224,11 +413,26 @@
               "type": "matching",
               "questionText": "Wo wird erklärt, warum automatisierte Erkennungswerkzeuge in der Praxis schlechter abschneiden als im Labor?",
               "matchingSources": [
-                { "id": "sec_A", "label": "A" },
-                { "id": "sec_B", "label": "B" },
-                { "id": "sec_C", "label": "C" },
-                { "id": "sec_D", "label": "D" },
-                { "id": "sec_E", "label": "E" }
+                {
+                  "id": "sec_A",
+                  "label": "A"
+                },
+                {
+                  "id": "sec_B",
+                  "label": "B"
+                },
+                {
+                  "id": "sec_C",
+                  "label": "C"
+                },
+                {
+                  "id": "sec_D",
+                  "label": "D"
+                },
+                {
+                  "id": "sec_E",
+                  "label": "E"
+                }
               ],
               "correctAnswer": "B",
               "explanation": "Abschnitt B erläutert, dass Komprimierung, Beschneidung und das Entfernen von Metadaten durch Social-Media-Plattformen die Trefferquoten automatisierter Tools stark verringern."
@@ -238,11 +442,26 @@
               "type": "matching",
               "questionText": "In welchem Abschnitt wird ein konkretes redaktionsinternes Prüfprotokoll mit mehreren Verifikationsschritten beschrieben?",
               "matchingSources": [
-                { "id": "sec_A", "label": "A" },
-                { "id": "sec_B", "label": "B" },
-                { "id": "sec_C", "label": "C" },
-                { "id": "sec_D", "label": "D" },
-                { "id": "sec_E", "label": "E" }
+                {
+                  "id": "sec_A",
+                  "label": "A"
+                },
+                {
+                  "id": "sec_B",
+                  "label": "B"
+                },
+                {
+                  "id": "sec_C",
+                  "label": "C"
+                },
+                {
+                  "id": "sec_D",
+                  "label": "D"
+                },
+                {
+                  "id": "sec_E",
+                  "label": "E"
+                }
               ],
               "correctAnswer": "C",
               "explanation": "Abschnitt C beschreibt das NDR-Protokoll, das jeden viralen Clip durch mindestens drei unabhängige Prüfschritte führt, und erläutert weitere Verifikationsmethoden wie Reverse-Sourcing und Geolokalisierung."
@@ -252,11 +471,26 @@
               "type": "matching",
               "questionText": "Wo wird das Spannungsverhältnis zwischen Veröffentlichungsgeschwindigkeit und Verifikationsaufwand thematisiert?",
               "matchingSources": [
-                { "id": "sec_A", "label": "A" },
-                { "id": "sec_B", "label": "B" },
-                { "id": "sec_C", "label": "C" },
-                { "id": "sec_D", "label": "D" },
-                { "id": "sec_E", "label": "E" }
+                {
+                  "id": "sec_A",
+                  "label": "A"
+                },
+                {
+                  "id": "sec_B",
+                  "label": "B"
+                },
+                {
+                  "id": "sec_C",
+                  "label": "C"
+                },
+                {
+                  "id": "sec_D",
+                  "label": "D"
+                },
+                {
+                  "id": "sec_E",
+                  "label": "E"
+                }
               ],
               "correctAnswer": "D",
               "explanation": "Abschnitt D benennt explizit die Zeitökonomie des Nachrichtenbetriebs und das Dilemma zwischen Erstveröffentlichung und sorgfältiger Prüfung."
@@ -266,11 +500,26 @@
               "type": "matching",
               "questionText": "In welchem Abschnitt wird darauf hingewiesen, dass Deepfake-Erkennung eine kollektive statt individuelle Aufgabe sein sollte?",
               "matchingSources": [
-                { "id": "sec_A", "label": "A" },
-                { "id": "sec_B", "label": "B" },
-                { "id": "sec_C", "label": "C" },
-                { "id": "sec_D", "label": "D" },
-                { "id": "sec_E", "label": "E" }
+                {
+                  "id": "sec_A",
+                  "label": "A"
+                },
+                {
+                  "id": "sec_B",
+                  "label": "B"
+                },
+                {
+                  "id": "sec_C",
+                  "label": "C"
+                },
+                {
+                  "id": "sec_D",
+                  "label": "D"
+                },
+                {
+                  "id": "sec_E",
+                  "label": "E"
+                }
               ],
               "correctAnswer": "E",
               "explanation": "Abschnitt E schließt mit der Aussage, wirksame Deepfake-Abwehr sei 'weniger eine Frage individueller Werkzeuge als kollektiver Infrastruktur'."
@@ -280,11 +529,26 @@
               "type": "matching",
               "questionText": "Wo wird erwähnt, dass Deepfakes ursprünglich als Forschungskuriosität galten und nun allgemein zugänglich sind?",
               "matchingSources": [
-                { "id": "sec_A", "label": "A" },
-                { "id": "sec_B", "label": "B" },
-                { "id": "sec_C", "label": "C" },
-                { "id": "sec_D", "label": "D" },
-                { "id": "sec_E", "label": "E" }
+                {
+                  "id": "sec_A",
+                  "label": "A"
+                },
+                {
+                  "id": "sec_B",
+                  "label": "B"
+                },
+                {
+                  "id": "sec_C",
+                  "label": "C"
+                },
+                {
+                  "id": "sec_D",
+                  "label": "D"
+                },
+                {
+                  "id": "sec_E",
+                  "label": "E"
+                }
               ],
               "correctAnswer": "A",
               "explanation": "Abschnitt A beschreibt die Entwicklung von 2017 (Laborforschung) bis heute (kostenloser Browser-Zugang) und kontextualisiert damit die aktuelle Bedrohungslage."
@@ -309,9 +573,18 @@
               "type": "mcq",
               "questionText": "Laut Text entscheiden Algorithmen, welche Inhalte Aufmerksamkeit erhalten.",
               "options": [
-                { "label": "R", "text": "Richtig" },
-                { "label": "F", "text": "Falsch" },
-                { "label": "NIT", "text": "Nicht im Text" }
+                {
+                  "label": "R",
+                  "text": "Richtig"
+                },
+                {
+                  "label": "F",
+                  "text": "Falsch"
+                },
+                {
+                  "label": "NIT",
+                  "text": "Nicht im Text"
+                }
               ],
               "correctAnswer": "R",
               "explanation": "Der Text hält fest, dass Algorithmen entscheiden, 'welche Inhalte viralen Schwung bekommen und welche im digitalen Nirwana verschwinden'."
@@ -321,9 +594,18 @@
               "type": "mcq",
               "questionText": "Der DSA verpflichtet alle in der EU tätigen Plattformen ohne Größenunterschied zu Transparenzmaßnahmen.",
               "options": [
-                { "label": "R", "text": "Richtig" },
-                { "label": "F", "text": "Falsch" },
-                { "label": "NIT", "text": "Nicht im Text" }
+                {
+                  "label": "R",
+                  "text": "Richtig"
+                },
+                {
+                  "label": "F",
+                  "text": "Falsch"
+                },
+                {
+                  "label": "NIT",
+                  "text": "Nicht im Text"
+                }
               ],
               "correctAnswer": "F",
               "explanation": "Der Text erklärt ausdrücklich, dass die verschärfte Regulierung nur Plattformen mit mehr als 45 Millionen monatlichen Nutzenden in der EU betrifft. Mittelgroße Plattformen entgehen ihr 'weitgehend'."
@@ -333,9 +615,18 @@
               "type": "mcq",
               "questionText": "Verstöße gegen den DSA können mit bis zu sechs Prozent des globalen Jahresumsatzes sanktioniert werden.",
               "options": [
-                { "label": "R", "text": "Richtig" },
-                { "label": "F", "text": "Falsch" },
-                { "label": "NIT", "text": "Nicht im Text" }
+                {
+                  "label": "R",
+                  "text": "Richtig"
+                },
+                {
+                  "label": "F",
+                  "text": "Falsch"
+                },
+                {
+                  "label": "NIT",
+                  "text": "Nicht im Text"
+                }
               ],
               "correctAnswer": "R",
               "explanation": "Der Text nennt explizit 'bis zu sechs Prozent des globalen Jahresumsatzes' als Sanktionsrahmen bei DSA-Verstößen."
@@ -345,9 +636,18 @@
               "type": "mcq",
               "questionText": "Luca Belli fordert, dass Forschende ohne behördliche Genehmigung auf alle Plattformdaten zugreifen dürfen.",
               "options": [
-                { "label": "R", "text": "Richtig" },
-                { "label": "F", "text": "Falsch" },
-                { "label": "NIT", "text": "Nicht im Text" }
+                {
+                  "label": "R",
+                  "text": "Richtig"
+                },
+                {
+                  "label": "F",
+                  "text": "Falsch"
+                },
+                {
+                  "label": "NIT",
+                  "text": "Nicht im Text"
+                }
               ],
               "correctAnswer": "NIT",
               "explanation": "Belli wird im Text zitiert, um zu kritisieren, dass Einblickspflichten ohne Handlungspflichten wirkungslos bleiben. Forderungen nach genehmigungsfreiem Datenzugang erwähnt der Text nicht."
@@ -357,9 +657,18 @@
               "type": "mcq",
               "questionText": "Der Text stellt fest, dass selbst vollständige Dokumentation eines Algorithmus keine gesellschaftliche Kontrolle garantiert.",
               "options": [
-                { "label": "R", "text": "Richtig" },
-                { "label": "F", "text": "Falsch" },
-                { "label": "NIT", "text": "Nicht im Text" }
+                {
+                  "label": "R",
+                  "text": "Richtig"
+                },
+                {
+                  "label": "F",
+                  "text": "Falsch"
+                },
+                {
+                  "label": "NIT",
+                  "text": "Nicht im Text"
+                }
               ],
               "correctAnswer": "R",
               "explanation": "Der Text beschreibt das Paradox, dass Regulatoren 'Transparenz fordern, aber nicht garantieren [können], dass diese Transparenz zu gesellschaftlicher Kontrolle führt'."
@@ -369,9 +678,18 @@
               "type": "mcq",
               "questionText": "In den USA werden Eingriffe in Plattformarchitekturen als Einschränkung der Meinungsfreiheit betrachtet.",
               "options": [
-                { "label": "R", "text": "Richtig" },
-                { "label": "F", "text": "Falsch" },
-                { "label": "NIT", "text": "Nicht im Text" }
+                {
+                  "label": "R",
+                  "text": "Richtig"
+                },
+                {
+                  "label": "F",
+                  "text": "Falsch"
+                },
+                {
+                  "label": "NIT",
+                  "text": "Nicht im Text"
+                }
               ],
               "correctAnswer": "R",
               "explanation": "Der Text beschreibt das US-Modell als Selbstregulierungsparadigma, das staatliche Eingriffe 'verfassungsrechtlich als Eingriff in die Redefreiheit einordnet'."
@@ -381,9 +699,18 @@
               "type": "mcq",
               "questionText": "China gibt der Öffentlichkeit Kontrolle über registrierte Algorithmen.",
               "options": [
-                { "label": "R", "text": "Richtig" },
-                { "label": "F", "text": "Falsch" },
-                { "label": "NIT", "text": "Nicht im Text" }
+                {
+                  "label": "R",
+                  "text": "Richtig"
+                },
+                {
+                  "label": "F",
+                  "text": "Falsch"
+                },
+                {
+                  "label": "NIT",
+                  "text": "Nicht im Text"
+                }
               ],
               "correctAnswer": "F",
               "explanation": "Der Text stellt explizit fest, dass in China 'die Kontrollhoheit beim Staat, nicht bei der Öffentlichkeit' verbleibt, obwohl Algorithmen behördlich registriert werden müssen."
@@ -393,9 +720,18 @@
               "type": "mcq",
               "questionText": "Algorithmische Impact-Assessments ähneln laut Text dem Prinzip von Umweltverträglichkeitsprüfungen.",
               "options": [
-                { "label": "R", "text": "Richtig" },
-                { "label": "F", "text": "Falsch" },
-                { "label": "NIT", "text": "Nicht im Text" }
+                {
+                  "label": "R",
+                  "text": "Richtig"
+                },
+                {
+                  "label": "F",
+                  "text": "Falsch"
+                },
+                {
+                  "label": "NIT",
+                  "text": "Nicht im Text"
+                }
               ],
               "correctAnswer": "R",
               "explanation": "Der Text beschreibt algorithmische Impact-Assessments ausdrücklich 'nach dem Vorbild von Umweltverträglichkeitsprüfungen'."
@@ -405,9 +741,18 @@
               "type": "mcq",
               "questionText": "Der Text erwähnt, dass die Europäische Kommission ein Schulungsprogramm für Parlamentsabgeordnete zu Algorithmen entwickelt hat.",
               "options": [
-                { "label": "R", "text": "Richtig" },
-                { "label": "F", "text": "Falsch" },
-                { "label": "NIT", "text": "Nicht im Text" }
+                {
+                  "label": "R",
+                  "text": "Richtig"
+                },
+                {
+                  "label": "F",
+                  "text": "Falsch"
+                },
+                {
+                  "label": "NIT",
+                  "text": "Nicht im Text"
+                }
               ],
               "correctAnswer": "NIT",
               "explanation": "Der Text beklagt den Mangel algorithmischer Grundbildung unter Abgeordneten, nennt aber kein konkretes Schulungsprogramm der Europäischen Kommission."
@@ -417,9 +762,18 @@
               "type": "mcq",
               "questionText": "Für eine wirksame Plattformregulierung hält der Text den Aufbau politischer Kompetenz für ebenso wichtig wie technische Regelwerke.",
               "options": [
-                { "label": "R", "text": "Richtig" },
-                { "label": "F", "text": "Falsch" },
-                { "label": "NIT", "text": "Nicht im Text" }
+                {
+                  "label": "R",
+                  "text": "Richtig"
+                },
+                {
+                  "label": "F",
+                  "text": "Falsch"
+                },
+                {
+                  "label": "NIT",
+                  "text": "Nicht im Text"
+                }
               ],
               "correctAnswer": "R",
               "explanation": "Der Schlussabsatz nennt als 'eigentliche Reformaufgabe': 'nicht die Plattformen zu regulieren, sondern zuerst die Kapazität aufzubauen, sie wirkungsvoll regulieren zu können'."
@@ -442,10 +796,22 @@
               "type": "mcq",
               "questionText": "Lücke 1",
               "options": [
-                { "label": "a", "text": "rasant" },
-                { "label": "b", "text": "zögerlich" },
-                { "label": "c", "text": "willkürlich" },
-                { "label": "d", "text": "sporadisch" }
+                {
+                  "label": "a",
+                  "text": "rasant"
+                },
+                {
+                  "label": "b",
+                  "text": "zögerlich"
+                },
+                {
+                  "label": "c",
+                  "text": "willkürlich"
+                },
+                {
+                  "label": "d",
+                  "text": "sporadisch"
+                }
               ],
               "correctAnswer": "a",
               "explanation": "'Rasant' passt zum Kontext der schnellen technologischen Entwicklung. 'Zögerlich' wäre ein Antonym. 'Willkürlich' und 'sporadisch' passen weder semantisch noch stilistisch."
@@ -455,10 +821,22 @@
               "type": "mcq",
               "questionText": "Lücke 2",
               "options": [
-                { "label": "a", "text": "Ablenkung" },
-                { "label": "b", "text": "Ausrichtung" },
-                { "label": "c", "text": "Überprüfung" },
-                { "label": "d", "text": "Entlastung" }
+                {
+                  "label": "a",
+                  "text": "Ablenkung"
+                },
+                {
+                  "label": "b",
+                  "text": "Ausrichtung"
+                },
+                {
+                  "label": "c",
+                  "text": "Überprüfung"
+                },
+                {
+                  "label": "d",
+                  "text": "Entlastung"
+                }
               ],
               "correctAnswer": "b",
               "explanation": "'Ausrichtung von Leserinnen und Lesern auf individuelle Inhalte' beschreibt Personalisierung. 'Ablenkung' und 'Entlastung' passen semantisch nicht. 'Überprüfung' wäre im Kontext KI-gestützter Inhalteausspielung falsch."
@@ -468,10 +846,22 @@
               "type": "mcq",
               "questionText": "Lücke 3",
               "options": [
-                { "label": "a", "text": "ab" },
-                { "label": "b", "text": "auf" },
-                { "label": "c", "text": "vor" },
-                { "label": "d", "text": "nach" }
+                {
+                  "label": "a",
+                  "text": "ab"
+                },
+                {
+                  "label": "b",
+                  "text": "auf"
+                },
+                {
+                  "label": "c",
+                  "text": "vor"
+                },
+                {
+                  "label": "d",
+                  "text": "nach"
+                }
               ],
               "correctAnswer": "b",
               "explanation": "Die feste Kollokation lautet 'Fragen aufwerfen'. 'Abwerfen' (von Bedeutung ablegen), 'vorwerfen' (beschuldigen) und 'nachwerfen' existieren in diesem Sinnzusammenhang nicht."
@@ -481,10 +871,22 @@
               "type": "mcq",
               "questionText": "Lücke 4",
               "options": [
-                { "label": "a", "text": "widerlegt" },
-                { "label": "b", "text": "entdeckt" },
-                { "label": "c", "text": "übersieht" },
-                { "label": "d", "text": "verbreitet" }
+                {
+                  "label": "a",
+                  "text": "widerlegt"
+                },
+                {
+                  "label": "b",
+                  "text": "entdeckt"
+                },
+                {
+                  "label": "c",
+                  "text": "übersieht"
+                },
+                {
+                  "label": "d",
+                  "text": "verbreitet"
+                }
               ],
               "correctAnswer": "c",
               "explanation": "Im Kontext der Verantwortungsfrage: Ein Algorithmus 'übersieht' (übergeht, erkennt nicht) eine Falschinformation, die dann ungeprüft übernommen wird. 'Verbreitet' wäre auch grammatikalisch denkbar, aber der Satz fragt nach einem Systemversagen (Erkennung), nicht nach aktivem Verbreiten durch den Algorithmus."
@@ -494,10 +896,22 @@
               "type": "mcq",
               "questionText": "Lücke 5",
               "options": [
-                { "label": "a", "text": "unverbindlichen" },
-                { "label": "b", "text": "vorläufigen" },
-                { "label": "c", "text": "umstrittenen" },
-                { "label": "d", "text": "überarbeiteten" }
+                {
+                  "label": "a",
+                  "text": "unverbindlichen"
+                },
+                {
+                  "label": "b",
+                  "text": "vorläufigen"
+                },
+                {
+                  "label": "c",
+                  "text": "umstrittenen"
+                },
+                {
+                  "label": "d",
+                  "text": "überarbeiteten"
+                }
               ],
               "correctAnswer": "d",
               "explanation": "'Überarbeiteten Verhaltenskodex' passt: Der Presserat hat einen bestehenden Kodex für den KI-Einsatz angepasst. 'Unverbindlich' würde der im folgenden Satz beschriebenen Verbindlichkeit widersprechen. 'Vorläufig' und 'umstritten' passen nicht zum Kontext der offiziellen Verabschiedung."
@@ -507,10 +921,22 @@
               "type": "mcq",
               "questionText": "Lücke 6",
               "options": [
-                { "label": "a", "text": "implizit" },
-                { "label": "b", "text": "ausdrücklich" },
-                { "label": "c", "text": "vorläufig" },
-                { "label": "d", "text": "beiläufig" }
+                {
+                  "label": "a",
+                  "text": "implizit"
+                },
+                {
+                  "label": "b",
+                  "text": "ausdrücklich"
+                },
+                {
+                  "label": "c",
+                  "text": "vorläufig"
+                },
+                {
+                  "label": "d",
+                  "text": "beiläufig"
+                }
               ],
               "correctAnswer": "b",
               "explanation": "'Ausdrücklich festgehalten' bedeutet explizit, verbindlich dokumentiert – passend zum Kontext eines Verhaltenskodex. 'Implizit' wäre das Gegenteil. 'Vorläufig' und 'beiläufig' passen semantisch nicht zu einem formellen Regelwerk."
@@ -520,10 +946,22 @@
               "type": "mcq",
               "questionText": "Lücke 7",
               "options": [
-                { "label": "a", "text": "Ausmaß" },
-                { "label": "b", "text": "Zeitpunkt" },
-                { "label": "c", "text": "Umfang" },
-                { "label": "d", "text": "Grad" }
+                {
+                  "label": "a",
+                  "text": "Ausmaß"
+                },
+                {
+                  "label": "b",
+                  "text": "Zeitpunkt"
+                },
+                {
+                  "label": "c",
+                  "text": "Umfang"
+                },
+                {
+                  "label": "d",
+                  "text": "Grad"
+                }
               ],
               "correctAnswer": "d",
               "explanation": "'Ab welchem Grad' (Intensitätsniveau) maschinelle Unterstützung offenlegungspflichtig ist, fragt nach einer Schwelle. 'Ausmaß' und 'Umfang' sind zu vage. 'Zeitpunkt' ist semantisch falsch, da es um Intensität, nicht um Zeit geht."
@@ -533,10 +971,22 @@
               "type": "mcq",
               "questionText": "Lücke 8",
               "options": [
-                { "label": "a", "text": "fertige" },
-                { "label": "b", "text": "kritische" },
-                { "label": "c", "text": "lediglich" },
-                { "label": "d", "text": "beliebige" }
+                {
+                  "label": "a",
+                  "text": "fertige"
+                },
+                {
+                  "label": "b",
+                  "text": "kritische"
+                },
+                {
+                  "label": "c",
+                  "text": "lediglich"
+                },
+                {
+                  "label": "d",
+                  "text": "beliebige"
+                }
               ],
               "correctAnswer": "c",
               "explanation": "'Nicht lediglich Inhalte produzieren, sondern…' ist eine Steigerungskonstruktion (nicht nur X, sondern auch Y). Die anderen Adjektive passen grammatikalisch nicht als Adverb in dieser Konstruktion."
@@ -546,10 +996,22 @@
               "type": "mcq",
               "questionText": "Lücke 9",
               "options": [
-                { "label": "a", "text": "raten" },
-                { "label": "b", "text": "signalisieren" },
-                { "label": "c", "text": "befehlen" },
-                { "label": "d", "text": "verbieten" }
+                {
+                  "label": "a",
+                  "text": "raten"
+                },
+                {
+                  "label": "b",
+                  "text": "signalisieren"
+                },
+                {
+                  "label": "c",
+                  "text": "befehlen"
+                },
+                {
+                  "label": "d",
+                  "text": "verbieten"
+                }
               ],
               "correctAnswer": "b",
               "explanation": "'Signalisieren' passt: Algorithmen zeigen an, welche Themen nachgefragt werden – ohne zwingende Handlungsanweisung. 'Raten' wäre umgangssprachlich. 'Befehlen' und 'verbieten' implizieren hierarchische Kontrolle, die Algorithmen in diesem Kontext nicht ausüben."
@@ -559,10 +1021,22 @@
               "type": "mcq",
               "questionText": "Lücke 10",
               "options": [
-                { "label": "a", "text": "schleichend" },
-                { "label": "b", "text": "plötzlich" },
-                { "label": "c", "text": "offensichtlich" },
-                { "label": "d", "text": "absichtlich" }
+                {
+                  "label": "a",
+                  "text": "schleichend"
+                },
+                {
+                  "label": "b",
+                  "text": "plötzlich"
+                },
+                {
+                  "label": "c",
+                  "text": "offensichtlich"
+                },
+                {
+                  "label": "d",
+                  "text": "absichtlich"
+                }
               ],
               "correctAnswer": "a",
               "explanation": "'Schleichend untergraben' beschreibt einen graduellen, kaum bemerkten Prozess – passend zum indirekten Einfluss algorithmischer Themenselektion. 'Plötzlich' widerspricht dem kontinuierlichen Prozess. 'Offensichtlich' wäre ein Widerspruch in sich. 'Absichtlich' impliziert Vorsatz beim Algorithmus."
@@ -572,10 +1046,22 @@
               "type": "mcq",
               "questionText": "Lücke 11",
               "options": [
-                { "label": "a", "text": "veralteten" },
-                { "label": "b", "text": "ungeprüften" },
-                { "label": "c", "text": "anonymen" },
-                { "label": "d", "text": "staatlichen" }
+                {
+                  "label": "a",
+                  "text": "veralteten"
+                },
+                {
+                  "label": "b",
+                  "text": "ungeprüften"
+                },
+                {
+                  "label": "c",
+                  "text": "anonymen"
+                },
+                {
+                  "label": "d",
+                  "text": "staatlichen"
+                }
               ],
               "correctAnswer": "b",
               "explanation": "'Umgang mit ungeprüften Quellen' passt direkt zum anschließenden Halluzinationsproblem von KI-Systemen. 'Veraltet' und 'anonym' beziehen sich auf andere Qualitätsdimensionen. 'Staatlich' ist kontextuell völlig unpassend."
@@ -585,10 +1071,22 @@
               "type": "mcq",
               "questionText": "Lücke 12",
               "options": [
-                { "label": "a", "text": "genaue" },
-                { "label": "b", "text": "irrelevante" },
-                { "label": "c", "text": "falsche" },
-                { "label": "d", "text": "veraltete" }
+                {
+                  "label": "a",
+                  "text": "genaue"
+                },
+                {
+                  "label": "b",
+                  "text": "irrelevante"
+                },
+                {
+                  "label": "c",
+                  "text": "falsche"
+                },
+                {
+                  "label": "d",
+                  "text": "veraltete"
+                }
               ],
               "correctAnswer": "c",
               "explanation": "'Faktisch falsche Informationen' beschreibt Halluzinationen bei KI-Sprachmodellen präzise. 'Irrelevant' und 'veraltet' erfassen das Halluzinationsproblem nicht. 'Genaue' wäre ein Antonym."
@@ -598,10 +1096,22 @@
               "type": "mcq",
               "questionText": "Lücke 13",
               "options": [
-                { "label": "a", "text": "flüchtigen" },
-                { "label": "b", "text": "sorgfältigen" },
-                { "label": "c", "text": "routinemäßigen" },
-                { "label": "d", "text": "automatisierten" }
+                {
+                  "label": "a",
+                  "text": "flüchtigen"
+                },
+                {
+                  "label": "b",
+                  "text": "sorgfältigen"
+                },
+                {
+                  "label": "c",
+                  "text": "routinemäßigen"
+                },
+                {
+                  "label": "d",
+                  "text": "automatisierten"
+                }
               ],
               "correctAnswer": "b",
               "explanation": "'Sorgfältige Gegenkontrolle' passt zum Kontext der Qualitätssicherung. 'Flüchtig' und 'routinemäßig' implizieren unzureichende Prüfintensität. 'Automatisierte' Gegenkontrolle durch menschliche Fachkräfte wäre ein Widerspruch."
@@ -611,10 +1121,22 @@
               "type": "mcq",
               "questionText": "Lücke 14",
               "options": [
-                { "label": "a", "text": "vorübergehend" },
-                { "label": "b", "text": "irreversibel" },
-                { "label": "c", "text": "teilweise" },
-                { "label": "d", "text": "kaum" }
+                {
+                  "label": "a",
+                  "text": "vorübergehend"
+                },
+                {
+                  "label": "b",
+                  "text": "irreversibel"
+                },
+                {
+                  "label": "c",
+                  "text": "teilweise"
+                },
+                {
+                  "label": "d",
+                  "text": "kaum"
+                }
               ],
               "correctAnswer": "b",
               "explanation": "'Irreversibel gefährden' unterstreicht die Dauerhaftigkeit des Reputationsschadens – logisch im Kontext des Vertrauensverlusts. 'Vorübergehend' und 'teilweise' relativieren die Warnung unpassend. 'Kaum' würde die Gefahr verkleinern."
@@ -624,10 +1146,22 @@
               "type": "mcq",
               "questionText": "Lücke 15",
               "options": [
-                { "label": "a", "text": "verdrängt" },
-                { "label": "b", "text": "übernimmt" },
-                { "label": "c", "text": "ersetzt" },
-                { "label": "d", "text": "ergänzt" }
+                {
+                  "label": "a",
+                  "text": "verdrängt"
+                },
+                {
+                  "label": "b",
+                  "text": "übernimmt"
+                },
+                {
+                  "label": "c",
+                  "text": "ersetzt"
+                },
+                {
+                  "label": "d",
+                  "text": "ergänzt"
+                }
               ],
               "correctAnswer": "b",
               "explanation": "Im optimistischen Szenario 'übernimmt' KI repetitive Aufgaben – die Formulierung impliziert Unterstützung ohne vollständige Ersetzung. 'Verdrängt' und 'ersetzt' passen eher zum pessimistischen Szenario. 'Ergänzt' wäre semantisch ähnlich, aber 'übernimmt' ist stilistisch präziser."
@@ -637,10 +1171,22 @@
               "type": "mcq",
               "questionText": "Lücke 16",
               "options": [
-                { "label": "a", "text": "erheblich" },
-                { "label": "b", "text": "gleichmäßig" },
-                { "label": "c", "text": "vorwiegend" },
-                { "label": "d", "text": "gelegentlich" }
+                {
+                  "label": "a",
+                  "text": "erheblich"
+                },
+                {
+                  "label": "b",
+                  "text": "gleichmäßig"
+                },
+                {
+                  "label": "c",
+                  "text": "vorwiegend"
+                },
+                {
+                  "label": "d",
+                  "text": "gelegentlich"
+                }
               ],
               "correctAnswer": "a",
               "explanation": "'Erheblich beschleunigen' verstärkt das pessimistische Szenario angemessen. 'Gleichmäßig' und 'gelegentlich' passen inhaltlich nicht. 'Vorwiegend' modifiziert falsch – es geht um den Grad der Beschleunigung, nicht um die Häufigkeit."
@@ -650,10 +1196,22 @@
               "type": "mcq",
               "questionText": "Lücke 17",
               "options": [
-                { "label": "a", "text": "heraus" },
-                { "label": "b", "text": "durch" },
-                { "label": "c", "text": "ab" },
-                { "label": "d", "text": "nieder" }
+                {
+                  "label": "a",
+                  "text": "heraus"
+                },
+                {
+                  "label": "b",
+                  "text": "durch"
+                },
+                {
+                  "label": "c",
+                  "text": "ab"
+                },
+                {
+                  "label": "d",
+                  "text": "nieder"
+                }
               ],
               "correctAnswer": "a",
               "explanation": "Die feste Konstruktion 'sich durchsetzen' trennt sich zu 'sich heraus-setzt' nicht – die korrekte Form ist 'durchsetzt' mit Partikel 'durch'. KORREKTUR: 'durchsetzt' = Partikel 'durch' → Antwort b. 'Sich durchsetzen' ist das richtige Verb. Partikel: 'durch'."
@@ -663,10 +1221,22 @@
               "type": "mcq",
               "questionText": "Lücke 18",
               "options": [
-                { "label": "a", "text": "verweigern" },
-                { "label": "b", "text": "schaffen" },
-                { "label": "c", "text": "missachten" },
-                { "label": "d", "text": "überlassen" }
+                {
+                  "label": "a",
+                  "text": "verweigern"
+                },
+                {
+                  "label": "b",
+                  "text": "schaffen"
+                },
+                {
+                  "label": "c",
+                  "text": "missachten"
+                },
+                {
+                  "label": "d",
+                  "text": "überlassen"
+                }
               ],
               "correctAnswer": "b",
               "explanation": "'Rahmenbedingungen schaffen' ist die passende Kollokation für politisches Handeln. 'Verweigern' und 'missachten' wären kontraproduktiv. 'Überlassen' impliziert Passivität, die dem Kontext aktiver Gestaltung widerspricht."
@@ -676,10 +1246,22 @@
               "type": "mcq",
               "questionText": "Lücke 19",
               "options": [
-                { "label": "a", "text": "Entwicklung" },
-                { "label": "b", "text": "Steuerung" },
-                { "label": "c", "text": "Beschleunigung" },
-                { "label": "d", "text": "Regulierung" }
+                {
+                  "label": "a",
+                  "text": "Entwicklung"
+                },
+                {
+                  "label": "b",
+                  "text": "Steuerung"
+                },
+                {
+                  "label": "c",
+                  "text": "Beschleunigung"
+                },
+                {
+                  "label": "d",
+                  "text": "Regulierung"
+                }
               ],
               "correctAnswer": "a",
               "explanation": "'Technologische Entwicklung droht Kernwerte zu untergraben' – 'Entwicklung' ist das korrekte Nomen zur Beschreibung des ungeregelten technologischen Fortschritts. 'Steuerung' und 'Regulierung' implizieren bereits Kontrolle, die gerade fehlt. 'Beschleunigung' ist zu einseitig."
@@ -689,10 +1271,22 @@
               "type": "mcq",
               "questionText": "Lücke 20",
               "options": [
-                { "label": "a", "text": "entbehrlich" },
-                { "label": "b", "text": "schädlich" },
-                { "label": "c", "text": "unverzichtbar" },
-                { "label": "d", "text": "umstritten" }
+                {
+                  "label": "a",
+                  "text": "entbehrlich"
+                },
+                {
+                  "label": "b",
+                  "text": "schädlich"
+                },
+                {
+                  "label": "c",
+                  "text": "unverzichtbar"
+                },
+                {
+                  "label": "d",
+                  "text": "umstritten"
+                }
               ],
               "correctAnswer": "c",
               "explanation": "'Unverzichtbar' (unentbehrlich) beschreibt die fundamentale Bedeutung journalistischer Kernwerte für demokratische Gesellschaften. 'Entbehrlich' wäre ein Antonym. 'Schädlich' und 'umstritten' widersprechen dem affirmierenden Ton des Satzes."
@@ -702,10 +1296,22 @@
               "type": "mcq",
               "questionText": "Lücke 21",
               "options": [
-                { "label": "a", "text": "einsetzt" },
-                { "label": "b", "text": "ablehnt" },
-                { "label": "c", "text": "besitzt" },
-                { "label": "d", "text": "kennt" }
+                {
+                  "label": "a",
+                  "text": "einsetzt"
+                },
+                {
+                  "label": "b",
+                  "text": "ablehnt"
+                },
+                {
+                  "label": "c",
+                  "text": "besitzt"
+                },
+                {
+                  "label": "d",
+                  "text": "kennt"
+                }
               ],
               "correctAnswer": "a",
               "explanation": "'Werkzeuge einsetzen' ist die passende Kollokation. 'Ablehnt' widerspricht dem pragmatischen Tenor des Satzes. 'Besitzt' und 'kennt' passen nicht zur aktiven Nutzung von Werkzeugen."
@@ -715,10 +1321,22 @@
               "type": "mcq",
               "questionText": "Lücke 22",
               "options": [
-                { "label": "a", "text": "auseinander" },
-                { "label": "b", "text": "hinter" },
-                { "label": "c", "text": "Schritt" },
-                { "label": "d", "text": "mit" }
+                {
+                  "label": "a",
+                  "text": "auseinander"
+                },
+                {
+                  "label": "b",
+                  "text": "hinter"
+                },
+                {
+                  "label": "c",
+                  "text": "Schritt"
+                },
+                {
+                  "label": "d",
+                  "text": "mit"
+                }
               ],
               "correctAnswer": "c",
               "explanation": "Die Idiom-Konstruktion lautet 'Schritt halten mit' – hier elliptisch als 'Schritt hält'. Die Partikel 'Schritt' gehört fest zu diesem Phraseologismus. 'Auseinanderhalten', 'hinterherhalten' und 'mithalten' sind andere Verben mit anderer Semantik."
@@ -793,16 +1411,46 @@
               "type": "matching",
               "questionText": "Person 1",
               "matchingSources": [
-                { "id": "C1_m03_HV1_src_a", "label": "a" },
-                { "id": "C1_m03_HV1_src_b", "label": "b" },
-                { "id": "C1_m03_HV1_src_c", "label": "c" },
-                { "id": "C1_m03_HV1_src_d", "label": "d" },
-                { "id": "C1_m03_HV1_src_e", "label": "e" },
-                { "id": "C1_m03_HV1_src_f", "label": "f" },
-                { "id": "C1_m03_HV1_src_g", "label": "g" },
-                { "id": "C1_m03_HV1_src_h", "label": "h" },
-                { "id": "C1_m03_HV1_src_i", "label": "i" },
-                { "id": "C1_m03_HV1_src_j", "label": "j" }
+                {
+                  "id": "C1_m03_HV1_src_a",
+                  "label": "a"
+                },
+                {
+                  "id": "C1_m03_HV1_src_b",
+                  "label": "b"
+                },
+                {
+                  "id": "C1_m03_HV1_src_c",
+                  "label": "c"
+                },
+                {
+                  "id": "C1_m03_HV1_src_d",
+                  "label": "d"
+                },
+                {
+                  "id": "C1_m03_HV1_src_e",
+                  "label": "e"
+                },
+                {
+                  "id": "C1_m03_HV1_src_f",
+                  "label": "f"
+                },
+                {
+                  "id": "C1_m03_HV1_src_g",
+                  "label": "g"
+                },
+                {
+                  "id": "C1_m03_HV1_src_h",
+                  "label": "h"
+                },
+                {
+                  "id": "C1_m03_HV1_src_i",
+                  "label": "i"
+                },
+                {
+                  "id": "C1_m03_HV1_src_j",
+                  "label": "j"
+                }
               ],
               "correctAnswer": "a",
               "explanation": "Person 1 (Chefredakteurin) sieht in KI primär eine Möglichkeit, Redakteure von Routinearbeit zu befreien und mehr Zeit für investigativen Journalismus zu gewinnen."
@@ -812,16 +1460,46 @@
               "type": "matching",
               "questionText": "Person 2",
               "matchingSources": [
-                { "id": "C1_m03_HV1_src_a", "label": "a" },
-                { "id": "C1_m03_HV1_src_b", "label": "b" },
-                { "id": "C1_m03_HV1_src_c", "label": "c" },
-                { "id": "C1_m03_HV1_src_d", "label": "d" },
-                { "id": "C1_m03_HV1_src_e", "label": "e" },
-                { "id": "C1_m03_HV1_src_f", "label": "f" },
-                { "id": "C1_m03_HV1_src_g", "label": "g" },
-                { "id": "C1_m03_HV1_src_h", "label": "h" },
-                { "id": "C1_m03_HV1_src_i", "label": "i" },
-                { "id": "C1_m03_HV1_src_j", "label": "j" }
+                {
+                  "id": "C1_m03_HV1_src_a",
+                  "label": "a"
+                },
+                {
+                  "id": "C1_m03_HV1_src_b",
+                  "label": "b"
+                },
+                {
+                  "id": "C1_m03_HV1_src_c",
+                  "label": "c"
+                },
+                {
+                  "id": "C1_m03_HV1_src_d",
+                  "label": "d"
+                },
+                {
+                  "id": "C1_m03_HV1_src_e",
+                  "label": "e"
+                },
+                {
+                  "id": "C1_m03_HV1_src_f",
+                  "label": "f"
+                },
+                {
+                  "id": "C1_m03_HV1_src_g",
+                  "label": "g"
+                },
+                {
+                  "id": "C1_m03_HV1_src_h",
+                  "label": "h"
+                },
+                {
+                  "id": "C1_m03_HV1_src_i",
+                  "label": "i"
+                },
+                {
+                  "id": "C1_m03_HV1_src_j",
+                  "label": "j"
+                }
               ],
               "correctAnswer": "c",
               "explanation": "Person 2 (Gewerkschaftsvertreter) äußert Bedenken zur Arbeitsplatzsicherheit und sieht KI-generierte Inhalte als direkte Bedrohung für Beschäftigte in der Medienbranche."
@@ -831,16 +1509,46 @@
               "type": "matching",
               "questionText": "Person 3",
               "matchingSources": [
-                { "id": "C1_m03_HV1_src_a", "label": "a" },
-                { "id": "C1_m03_HV1_src_b", "label": "b" },
-                { "id": "C1_m03_HV1_src_c", "label": "c" },
-                { "id": "C1_m03_HV1_src_d", "label": "d" },
-                { "id": "C1_m03_HV1_src_e", "label": "e" },
-                { "id": "C1_m03_HV1_src_f", "label": "f" },
-                { "id": "C1_m03_HV1_src_g", "label": "g" },
-                { "id": "C1_m03_HV1_src_h", "label": "h" },
-                { "id": "C1_m03_HV1_src_i", "label": "i" },
-                { "id": "C1_m03_HV1_src_j", "label": "j" }
+                {
+                  "id": "C1_m03_HV1_src_a",
+                  "label": "a"
+                },
+                {
+                  "id": "C1_m03_HV1_src_b",
+                  "label": "b"
+                },
+                {
+                  "id": "C1_m03_HV1_src_c",
+                  "label": "c"
+                },
+                {
+                  "id": "C1_m03_HV1_src_d",
+                  "label": "d"
+                },
+                {
+                  "id": "C1_m03_HV1_src_e",
+                  "label": "e"
+                },
+                {
+                  "id": "C1_m03_HV1_src_f",
+                  "label": "f"
+                },
+                {
+                  "id": "C1_m03_HV1_src_g",
+                  "label": "g"
+                },
+                {
+                  "id": "C1_m03_HV1_src_h",
+                  "label": "h"
+                },
+                {
+                  "id": "C1_m03_HV1_src_i",
+                  "label": "i"
+                },
+                {
+                  "id": "C1_m03_HV1_src_j",
+                  "label": "j"
+                }
               ],
               "correctAnswer": "f",
               "explanation": "Person 3 (Faktenchecker) schildert konkrete Erfahrungen, wie KI-Tools bei der schnellen Verifikation von Informationen helfen und die Effizienz der Faktenprüfung erhöhen."
@@ -850,16 +1558,46 @@
               "type": "matching",
               "questionText": "Person 4",
               "matchingSources": [
-                { "id": "C1_m03_HV1_src_a", "label": "a" },
-                { "id": "C1_m03_HV1_src_b", "label": "b" },
-                { "id": "C1_m03_HV1_src_c", "label": "c" },
-                { "id": "C1_m03_HV1_src_d", "label": "d" },
-                { "id": "C1_m03_HV1_src_e", "label": "e" },
-                { "id": "C1_m03_HV1_src_f", "label": "f" },
-                { "id": "C1_m03_HV1_src_g", "label": "g" },
-                { "id": "C1_m03_HV1_src_h", "label": "h" },
-                { "id": "C1_m03_HV1_src_i", "label": "i" },
-                { "id": "C1_m03_HV1_src_j", "label": "j" }
+                {
+                  "id": "C1_m03_HV1_src_a",
+                  "label": "a"
+                },
+                {
+                  "id": "C1_m03_HV1_src_b",
+                  "label": "b"
+                },
+                {
+                  "id": "C1_m03_HV1_src_c",
+                  "label": "c"
+                },
+                {
+                  "id": "C1_m03_HV1_src_d",
+                  "label": "d"
+                },
+                {
+                  "id": "C1_m03_HV1_src_e",
+                  "label": "e"
+                },
+                {
+                  "id": "C1_m03_HV1_src_f",
+                  "label": "f"
+                },
+                {
+                  "id": "C1_m03_HV1_src_g",
+                  "label": "g"
+                },
+                {
+                  "id": "C1_m03_HV1_src_h",
+                  "label": "h"
+                },
+                {
+                  "id": "C1_m03_HV1_src_i",
+                  "label": "i"
+                },
+                {
+                  "id": "C1_m03_HV1_src_j",
+                  "label": "j"
+                }
               ],
               "correctAnswer": "i",
               "explanation": "Person 4 (Informatikprofessorin) weist auf die Gefahr algorithmischer Voreingenommenheit hin – Trainingsdaten spiegeln historische Ungleichgewichte wider und automatisierte Systeme können diese reproduzieren."
@@ -869,16 +1607,46 @@
               "type": "matching",
               "questionText": "Person 5",
               "matchingSources": [
-                { "id": "C1_m03_HV1_src_a", "label": "a" },
-                { "id": "C1_m03_HV1_src_b", "label": "b" },
-                { "id": "C1_m03_HV1_src_c", "label": "c" },
-                { "id": "C1_m03_HV1_src_d", "label": "d" },
-                { "id": "C1_m03_HV1_src_e", "label": "e" },
-                { "id": "C1_m03_HV1_src_f", "label": "f" },
-                { "id": "C1_m03_HV1_src_g", "label": "g" },
-                { "id": "C1_m03_HV1_src_h", "label": "h" },
-                { "id": "C1_m03_HV1_src_i", "label": "i" },
-                { "id": "C1_m03_HV1_src_j", "label": "j" }
+                {
+                  "id": "C1_m03_HV1_src_a",
+                  "label": "a"
+                },
+                {
+                  "id": "C1_m03_HV1_src_b",
+                  "label": "b"
+                },
+                {
+                  "id": "C1_m03_HV1_src_c",
+                  "label": "c"
+                },
+                {
+                  "id": "C1_m03_HV1_src_d",
+                  "label": "d"
+                },
+                {
+                  "id": "C1_m03_HV1_src_e",
+                  "label": "e"
+                },
+                {
+                  "id": "C1_m03_HV1_src_f",
+                  "label": "f"
+                },
+                {
+                  "id": "C1_m03_HV1_src_g",
+                  "label": "g"
+                },
+                {
+                  "id": "C1_m03_HV1_src_h",
+                  "label": "h"
+                },
+                {
+                  "id": "C1_m03_HV1_src_i",
+                  "label": "i"
+                },
+                {
+                  "id": "C1_m03_HV1_src_j",
+                  "label": "j"
+                }
               ],
               "correctAnswer": "d",
               "explanation": "Person 5 (Medienpolitikerin) plädiert für eine gesetzliche Kennzeichnungspflicht, damit Leserinnen und Leser KI-generierte Inhalte erkennen und kritisch einordnen können."
@@ -888,16 +1656,46 @@
               "type": "matching",
               "questionText": "Person 6",
               "matchingSources": [
-                { "id": "C1_m03_HV1_src_a", "label": "a" },
-                { "id": "C1_m03_HV1_src_b", "label": "b" },
-                { "id": "C1_m03_HV1_src_c", "label": "c" },
-                { "id": "C1_m03_HV1_src_d", "label": "d" },
-                { "id": "C1_m03_HV1_src_e", "label": "e" },
-                { "id": "C1_m03_HV1_src_f", "label": "f" },
-                { "id": "C1_m03_HV1_src_g", "label": "g" },
-                { "id": "C1_m03_HV1_src_h", "label": "h" },
-                { "id": "C1_m03_HV1_src_i", "label": "i" },
-                { "id": "C1_m03_HV1_src_j", "label": "j" }
+                {
+                  "id": "C1_m03_HV1_src_a",
+                  "label": "a"
+                },
+                {
+                  "id": "C1_m03_HV1_src_b",
+                  "label": "b"
+                },
+                {
+                  "id": "C1_m03_HV1_src_c",
+                  "label": "c"
+                },
+                {
+                  "id": "C1_m03_HV1_src_d",
+                  "label": "d"
+                },
+                {
+                  "id": "C1_m03_HV1_src_e",
+                  "label": "e"
+                },
+                {
+                  "id": "C1_m03_HV1_src_f",
+                  "label": "f"
+                },
+                {
+                  "id": "C1_m03_HV1_src_g",
+                  "label": "g"
+                },
+                {
+                  "id": "C1_m03_HV1_src_h",
+                  "label": "h"
+                },
+                {
+                  "id": "C1_m03_HV1_src_i",
+                  "label": "i"
+                },
+                {
+                  "id": "C1_m03_HV1_src_j",
+                  "label": "j"
+                }
               ],
               "correctAnswer": "b",
               "explanation": "Person 6 (erfahrener Redakteur) betont die Risiken fehlender redaktioneller Kontrolle und warnt davor, KI ohne ausreichende menschliche Prüfung einzusetzen."
@@ -907,16 +1705,46 @@
               "type": "matching",
               "questionText": "Person 7",
               "matchingSources": [
-                { "id": "C1_m03_HV1_src_a", "label": "a" },
-                { "id": "C1_m03_HV1_src_b", "label": "b" },
-                { "id": "C1_m03_HV1_src_c", "label": "c" },
-                { "id": "C1_m03_HV1_src_d", "label": "d" },
-                { "id": "C1_m03_HV1_src_e", "label": "e" },
-                { "id": "C1_m03_HV1_src_f", "label": "f" },
-                { "id": "C1_m03_HV1_src_g", "label": "g" },
-                { "id": "C1_m03_HV1_src_h", "label": "h" },
-                { "id": "C1_m03_HV1_src_i", "label": "i" },
-                { "id": "C1_m03_HV1_src_j", "label": "j" }
+                {
+                  "id": "C1_m03_HV1_src_a",
+                  "label": "a"
+                },
+                {
+                  "id": "C1_m03_HV1_src_b",
+                  "label": "b"
+                },
+                {
+                  "id": "C1_m03_HV1_src_c",
+                  "label": "c"
+                },
+                {
+                  "id": "C1_m03_HV1_src_d",
+                  "label": "d"
+                },
+                {
+                  "id": "C1_m03_HV1_src_e",
+                  "label": "e"
+                },
+                {
+                  "id": "C1_m03_HV1_src_f",
+                  "label": "f"
+                },
+                {
+                  "id": "C1_m03_HV1_src_g",
+                  "label": "g"
+                },
+                {
+                  "id": "C1_m03_HV1_src_h",
+                  "label": "h"
+                },
+                {
+                  "id": "C1_m03_HV1_src_i",
+                  "label": "i"
+                },
+                {
+                  "id": "C1_m03_HV1_src_j",
+                  "label": "j"
+                }
               ],
               "correctAnswer": "g",
               "explanation": "Person 7 (Medienpädagogin) argumentiert, dass Nutzerkompetenz — kritisches Lesen und Quellenbewertung — wichtiger ist als technische Regulierungsansätze."
@@ -926,16 +1754,46 @@
               "type": "matching",
               "questionText": "Person 8",
               "matchingSources": [
-                { "id": "C1_m03_HV1_src_a", "label": "a" },
-                { "id": "C1_m03_HV1_src_b", "label": "b" },
-                { "id": "C1_m03_HV1_src_c", "label": "c" },
-                { "id": "C1_m03_HV1_src_d", "label": "d" },
-                { "id": "C1_m03_HV1_src_e", "label": "e" },
-                { "id": "C1_m03_HV1_src_f", "label": "f" },
-                { "id": "C1_m03_HV1_src_g", "label": "g" },
-                { "id": "C1_m03_HV1_src_h", "label": "h" },
-                { "id": "C1_m03_HV1_src_i", "label": "i" },
-                { "id": "C1_m03_HV1_src_j", "label": "j" }
+                {
+                  "id": "C1_m03_HV1_src_a",
+                  "label": "a"
+                },
+                {
+                  "id": "C1_m03_HV1_src_b",
+                  "label": "b"
+                },
+                {
+                  "id": "C1_m03_HV1_src_c",
+                  "label": "c"
+                },
+                {
+                  "id": "C1_m03_HV1_src_d",
+                  "label": "d"
+                },
+                {
+                  "id": "C1_m03_HV1_src_e",
+                  "label": "e"
+                },
+                {
+                  "id": "C1_m03_HV1_src_f",
+                  "label": "f"
+                },
+                {
+                  "id": "C1_m03_HV1_src_g",
+                  "label": "g"
+                },
+                {
+                  "id": "C1_m03_HV1_src_h",
+                  "label": "h"
+                },
+                {
+                  "id": "C1_m03_HV1_src_i",
+                  "label": "i"
+                },
+                {
+                  "id": "C1_m03_HV1_src_j",
+                  "label": "j"
+                }
               ],
               "correctAnswer": "j",
               "explanation": "Person 8 (freie Journalistin) schließt die Runde mit der Überzeugung, dass menschliches Urteilsvermögen, Empathie und ethische Reflexion durch keine KI ersetzt werden können."
@@ -953,8 +1811,14 @@
               "type": "mcq",
               "questionText": "Die Expertin erklärt, dass professionelle Faktenchecker-Organisationen heute mehr Anfragen bearbeiten als noch vor fünf Jahren.",
               "options": [
-                { "label": "R", "text": "Richtig" },
-                { "label": "F", "text": "Falsch" }
+                {
+                  "label": "R",
+                  "text": "Richtig"
+                },
+                {
+                  "label": "F",
+                  "text": "Falsch"
+                }
               ],
               "correctAnswer": "R",
               "explanation": "Die Expertin nennt im Interview konkrete Zahlen: Der Verein correctiv.org hat seine Fallzahlen seit 2019 verdreifacht, was den allgemeinen Trend bestätigt."
@@ -964,8 +1828,14 @@
               "type": "mcq",
               "questionText": "Laut der Expertin sind KI-gestützte Werkzeuge bereits in der Lage, Faktenprüfungen vollständig zu automatisieren.",
               "options": [
-                { "label": "R", "text": "Richtig" },
-                { "label": "F", "text": "Falsch" }
+                {
+                  "label": "R",
+                  "text": "Richtig"
+                },
+                {
+                  "label": "F",
+                  "text": "Falsch"
+                }
               ],
               "correctAnswer": "F",
               "explanation": "Die Expertin betont ausdrücklich, dass KI-Tools nur bei der Vorabsortierung helfen. Die eigentliche Bewertung von Kontext und Absicht bleibt menschliche Aufgabe."
@@ -975,8 +1845,14 @@
               "type": "mcq",
               "questionText": "Der Moderator fragt, ob internationale Vernetzung von Faktencheckern sinnvoll sei, und die Expertin bejaht dies.",
               "options": [
-                { "label": "R", "text": "Richtig" },
-                { "label": "F", "text": "Falsch" }
+                {
+                  "label": "R",
+                  "text": "Richtig"
+                },
+                {
+                  "label": "F",
+                  "text": "Falsch"
+                }
               ],
               "correctAnswer": "R",
               "explanation": "Die Expertin verweist auf das IFCN-Netzwerk (International Fact-Checking Network) und erklärt, wie grenzüberschreitende Kooperation die Verbreitung von Falschinformationen früher stoppen kann."
@@ -986,8 +1862,14 @@
               "type": "mcq",
               "questionText": "Die Expertin sieht die geringe Reichweite von Faktenchecks als das größte strukturelle Problem des Berufsfeldes.",
               "options": [
-                { "label": "R", "text": "Richtig" },
-                { "label": "F", "text": "Falsch" }
+                {
+                  "label": "R",
+                  "text": "Richtig"
+                },
+                {
+                  "label": "F",
+                  "text": "Falsch"
+                }
               ],
               "correctAnswer": "R",
               "explanation": "Die Expertin räumt ein, dass Faktenchecks selten die Menschen erreichen, die die jeweilige Falschaussage bereits geglaubt haben – ein Kernproblem der Branche."
@@ -997,8 +1879,14 @@
               "type": "mcq",
               "questionText": "Laut Interview finanzieren sich alle deutschen Faktenchecker-Organisationen ausschließlich durch staatliche Mittel.",
               "options": [
-                { "label": "R", "text": "Richtig" },
-                { "label": "F", "text": "Falsch" }
+                {
+                  "label": "R",
+                  "text": "Richtig"
+                },
+                {
+                  "label": "F",
+                  "text": "Falsch"
+                }
               ],
               "correctAnswer": "F",
               "explanation": "Die Expertin beschreibt ein diversifiziertes Finanzierungsmodell: Stiftungsgelder, Mitgliedsbeiträge, Kooperationen mit Plattformen und vereinzelt öffentliche Förderung – keine ausschließlich staatliche Finanzierung."
@@ -1008,8 +1896,14 @@
               "type": "mcq",
               "questionText": "Die Expertin erwähnt, dass Faktenchecker zunehmend selbst Ziel von Desinformationskampagnen werden.",
               "options": [
-                { "label": "R", "text": "Richtig" },
-                { "label": "F", "text": "Falsch" }
+                {
+                  "label": "R",
+                  "text": "Richtig"
+                },
+                {
+                  "label": "F",
+                  "text": "Falsch"
+                }
               ],
               "correctAnswer": "R",
               "explanation": "Sie beschreibt koordinierte Angriffe auf die Glaubwürdigkeit von Faktencheckern als neues Phänomen, das organisatorischen und rechtlichen Schutz erfordert."
@@ -1019,8 +1913,14 @@
               "type": "mcq",
               "questionText": "Der Moderator und die Expertin sind sich einig, dass soziale Plattformen ausreichend in die Bekämpfung von Desinformation investieren.",
               "options": [
-                { "label": "R", "text": "Richtig" },
-                { "label": "F", "text": "Falsch" }
+                {
+                  "label": "R",
+                  "text": "Richtig"
+                },
+                {
+                  "label": "F",
+                  "text": "Falsch"
+                }
               ],
               "correctAnswer": "F",
               "explanation": "Beide äußern Kritik: Plattformen agieren zu langsam, streichen Moderationsprogramme und verweisen auf Selbstregulierung, die bisher nicht ausreichend funktioniert."
@@ -1030,8 +1930,14 @@
               "type": "mcq",
               "questionText": "Die Expertin hält Medienkompetenz in der Schule für eine wichtige Ergänzung zum professionellen Faktenchecking.",
               "options": [
-                { "label": "R", "text": "Richtig" },
-                { "label": "F", "text": "Falsch" }
+                {
+                  "label": "R",
+                  "text": "Richtig"
+                },
+                {
+                  "label": "F",
+                  "text": "Falsch"
+                }
               ],
               "correctAnswer": "R",
               "explanation": "Sie plädiert für Medienkompetenz als Pflichtfach und nennt skandinavische Länder als positive Beispiele, wo kritisches Quellenlesen früh vermittelt wird."
@@ -1041,8 +1947,14 @@
               "type": "mcq",
               "questionText": "Laut Expertin werden Faktenchecks von politischen Parteien grundsätzlich akzeptiert und nicht angezweifelt.",
               "options": [
-                { "label": "R", "text": "Richtig" },
-                { "label": "F", "text": "Falsch" }
+                {
+                  "label": "R",
+                  "text": "Richtig"
+                },
+                {
+                  "label": "F",
+                  "text": "Falsch"
+                }
               ],
               "correctAnswer": "F",
               "explanation": "Sie schildert mehrere Fälle, in denen Politiker Faktenchecks als politisch motiviert abgetan haben, was die Autorität der Branche untergrabe."
@@ -1052,8 +1964,14 @@
               "type": "mcq",
               "questionText": "Die Expertin schließt das Interview mit der Einschätzung, dass die Situation trotz aller Herausforderungen handhabbar bleibt, wenn Gesellschaft und Institutionen kooperieren.",
               "options": [
-                { "label": "R", "text": "Richtig" },
-                { "label": "F", "text": "Falsch" }
+                {
+                  "label": "R",
+                  "text": "Richtig"
+                },
+                {
+                  "label": "F",
+                  "text": "Falsch"
+                }
               ],
               "correctAnswer": "R",
               "explanation": "Ihr abschließendes Statement ist vorsichtig optimistisch: Kein einzelner Akteur kann Desinformation allein bewältigen, aber gemeinsame Anstrengungen von Plattformen, Redaktionen, Bildungseinrichtungen und Politik können wirksam sein."
@@ -1118,9 +2036,18 @@
               "type": "mcq",
               "questionText": "Welche Anwendung von KI in Redaktionen erwähnt der Vortragende als bereits weit verbreitet?",
               "options": [
-                { "label": "a", "text": "Die vollautomatische Erstellung investigativer Reportagen" },
-                { "label": "b", "text": "Die automatisierte Texterstellung für Börsennachrichten und Agenturmeldungen" },
-                { "label": "c", "text": "Die KI-gestützte Interviewführung mit Politikern" }
+                {
+                  "label": "a",
+                  "text": "Die vollautomatische Erstellung investigativer Reportagen"
+                },
+                {
+                  "label": "b",
+                  "text": "Die automatisierte Texterstellung für Börsennachrichten und Agenturmeldungen"
+                },
+                {
+                  "label": "c",
+                  "text": "Die KI-gestützte Interviewführung mit Politikern"
+                }
               ],
               "correctAnswer": "b",
               "explanation": "Der Vortragende nennt im ersten Abschnitt ausdrücklich Börsennachrichten und Agenturmeldungen als etablierte Felder automatisierter Texterstellung. Investigative Reportagen und KI-Interviews erwähnt er nicht als weit verbreitete Praxis."
@@ -1130,9 +2057,18 @@
               "type": "mcq",
               "questionText": "Welche der drei ethischen Kernfragen behandelt laut Vortrag die Frage nach dem Haftungssubjekt bei Fehlern?",
               "options": [
-                { "label": "a", "text": "Transparenz" },
-                { "label": "b", "text": "Autonomie" },
-                { "label": "c", "text": "Verantwortung" }
+                {
+                  "label": "a",
+                  "text": "Transparenz"
+                },
+                {
+                  "label": "b",
+                  "text": "Autonomie"
+                },
+                {
+                  "label": "c",
+                  "text": "Verantwortung"
+                }
               ],
               "correctAnswer": "c",
               "explanation": "Der Vortragende ordnet die Haftungsfrage explizit der Dimension 'Verantwortung' zu. Transparenz betrifft die Kennzeichnungsfrage, Autonomie den Grad menschlicher Kontrolle."
@@ -1142,9 +2078,18 @@
               "type": "mcq",
               "questionText": "Wie erklärt der Vortragende die Entstehung von algorithmischer Voreingenommenheit in KI-Nachrichtensystemen?",
               "options": [
-                { "label": "a", "text": "Durch bewusste Programmierentscheidungen der Entwickler" },
-                { "label": "b", "text": "Durch die Reproduktion von Ungleichgewichten aus den Trainingsdaten" },
-                { "label": "c", "text": "Durch fehlende internationale Standards bei der Systemzertifizierung" }
+                {
+                  "label": "a",
+                  "text": "Durch bewusste Programmierentscheidungen der Entwickler"
+                },
+                {
+                  "label": "b",
+                  "text": "Durch die Reproduktion von Ungleichgewichten aus den Trainingsdaten"
+                },
+                {
+                  "label": "c",
+                  "text": "Durch fehlende internationale Standards bei der Systemzertifizierung"
+                }
               ],
               "correctAnswer": "b",
               "explanation": "Der Vortragende erklärt im dritten Abschnitt, dass Trainingsdaten historische Ungleichgewichte und Unterrepräsentationen spiegeln und KI-Systeme diese automatisch reproduzieren."
@@ -1154,9 +2099,18 @@
               "type": "mcq",
               "questionText": "Welchen Regulierungsansatz beschreibt der Vortragende als risikobasiert?",
               "options": [
-                { "label": "a", "text": "Den US-amerikanischen Ansatz" },
-                { "label": "b", "text": "Den UNESCO-Ansatz" },
-                { "label": "c", "text": "Den europäischen Ansatz mit DSA und AI Act" }
+                {
+                  "label": "a",
+                  "text": "Den US-amerikanischen Ansatz"
+                },
+                {
+                  "label": "b",
+                  "text": "Den UNESCO-Ansatz"
+                },
+                {
+                  "label": "c",
+                  "text": "Den europäischen Ansatz mit DSA und AI Act"
+                }
               ],
               "correctAnswer": "c",
               "explanation": "Der Vortragende nennt im vierten Abschnitt den europäischen Ansatz — DSA kombiniert mit dem AI Act — als risikobasiertes Klassifikationsmodell. Der US-Ansatz beruht auf Selbstregulierung, die UNESCO-Empfehlungen haben anderen Charakter."
@@ -1166,9 +2120,18 @@
               "type": "mcq",
               "questionText": "Was nennt der Vortragende als unverzichtbare menschliche Kernkompetenz im KI-Zeitalter des Journalismus?",
               "options": [
-                { "label": "a", "text": "Die Fähigkeit, Algorithmen selbst zu programmieren" },
-                { "label": "b", "text": "Ethisches Urteilsvermögen und demokratische Rechenschaftspflicht" },
-                { "label": "c", "text": "Die Beherrschung mehrerer Sprachen für internationale Berichterstattung" }
+                {
+                  "label": "a",
+                  "text": "Die Fähigkeit, Algorithmen selbst zu programmieren"
+                },
+                {
+                  "label": "b",
+                  "text": "Ethisches Urteilsvermögen und demokratische Rechenschaftspflicht"
+                },
+                {
+                  "label": "c",
+                  "text": "Die Beherrschung mehrerer Sprachen für internationale Berichterstattung"
+                }
               ],
               "correctAnswer": "b",
               "explanation": "Im fünften Abschnitt hebt der Vortragende ethisches Urteilsvermögen, Empathie in der Quellenarbeit und demokratische Rechenschaftspflicht als jene Kernkompetenzen hervor, die KI nicht ersetzen kann."
@@ -1185,8 +2148,11 @@
           "type": "essay",
           "promptA": "In vielen demokratischen Gesellschaften wächst die Sorge, dass synthetisch erzeugte Medieninhalte – sogenannte Deepfakes – das Vertrauen in demokratische Prozesse untergraben könnten. Befürworter strenger Regulierung betonen, dass ohne verbindliche Kennzeichnungspflichten und Haftungsregeln die Informationsbasis demokratischer Entscheidungsfindung erodiert. Kritiker hingegen warnen vor überzogener Zensur, die legitime künstlerische und satirische Ausdrucksformen einschränkt.\n\nSchreiben Sie einen argumentativen Essay zu folgender These:\n\n„Deepfakes sind eine existenzielle Bedrohung für die demokratische Öffentlichkeit und müssen durch strenge staatliche Regulierung eingedämmt werden.“\n\nNehmen Sie klar Position ein, berücksichtigen Sie Gegenargumente und kommen Sie zu einem begründeten Schluss. Ihr Text sollte etwa 350–400 Wörter umfassen.",
           "promptB": "Beachten Sie bei Ihrem Essay:\n- Klare Einleitung mit Ihrer Positionierung\n- Mindestens zwei tragende Argumente für Ihre These\n- Auseinandersetzung mit mindestens einem gewichtigen Gegenargument\n- Stilistisch kohärente Schlussfolgerung\n- Akademischer Schreibstil, angemessenes Register",
-          "wordLimit": { "min": 320, "max": 420 },
-          "sampleAnswer": "Deepfakes und die Demokratie: Warum Regulierung notwendig, aber komplex ist\n\nDie Frage, ob synthetisch erzeugte Medieninhalte eine existenzielle Bedrohung für demokratische Gesellschaften darstellen, berührt das Herzstück moderner Informationsgesellschaften. Ich teile die Einschätzung, dass staatliches Handeln erforderlich ist – allerdings mit Differenzierungen, die die Komplexität des Problems ernst nehmen.\n\nDas gewichtigste Argument für eine strenge Regulierung liegt im strukturellen Vertrauensproblem. Demokratische Entscheidungsprozesse setzen voraus, dass Bürgerinnen und Bürger zwischen verlässlichen und manipulierten Informationen unterscheiden können. Wo diese Fähigkeit systematisch unterhöhlt wird – etwa durch täuschend echte Videoaufnahmen von Politikern, die Aussagen machen, die sie nie gemacht haben –, ist die informationelle Grundlage demokratischer Teilhabe gefährdet. Dies ist kein theoretisches Risiko: In mehreren Ländern wurden bereits Deepfakes eingesetzt, um Wahlergebnisse zu beeinflussen.\n\nEin zweites Argument betrifft die Asymmetrie der Kräfte. Akteure, die Deepfakes produzieren und verbreiten, verfügen über erhebliche technische und finanzielle Ressourcen. Ohne rechtliche Haftungsregeln haben sie keinerlei Anreiz zur Zurückhaltung. Plattformbetreiber wiederum handeln bisher nach eigenem Ermessen – mit uneinheitlichen und häufig unzureichenden Ergebnissen. Verbindliche Kennzeichnungspflichten und Sanktionsrahmen würden dieses Ungleichgewicht korrigieren.\n\nFreilich darf Regulierung nicht in Zensur umschlagen. Es sei ausdrücklich eingeräumt, dass Satire, Parodie und künstlerische Auseinandersetzung mit dem Abbild öffentlicher Personen eine schützenswerte Ausdrucksform darstellen, die demokratisch legitimiert ist. Eine kluge Regulierung muss diese Grenze scharf ziehen: Täuschungsabsicht und nicht Darstellungsform ist das entscheidende Kriterium.\n\nInsgesamt überzeugen die Argumente für staatliches Handeln. Deepfakes berühren nicht die Peripherie, sondern das Zentrum demokratischer Selbstverständigung. Ohne belastbare Informationsgrundlage degeneriert politische Debatte zur Überzeugungsshow ohne Substanz. Klare Haftungsregeln, verpflichtende Kennzeichnung und plattformübergreifende Kooperation sind keine Bedrohung für die Meinungsfreiheit – sie sind ihre Voraussetzung.",
+          "wordLimit": {
+            "min": 320,
+            "max": 420
+          },
+          "sampleAnswer": "Deepfakes und die Demokratie: Warum Regulierung notwendig, aber komplex ist\n\nDie Frage, ob synthetisch erzeugte Medieninhalte eine existenzielle Bedrohung für demokratische Gesellschaften darstellen, berührt das Herzstück moderner Informationsgesellschaften. Ich teile die Einschätzung, dass staatliches Handeln erforderlich ist – allerdings mit Differenzierungen, die die Komplexität des Problems ernst nehmen.\n\nDas gewichtigste Argument für eine strenge Regulierung liegt im strukturellen Vertrauensproblem. Demokratische Entscheidungsprozesse setzen voraus, dass Bürgerinnen und Bürger zwischen verlässlichen und manipulierten Informationen unterscheiden können. Wo diese Fähigkeit systematisch unterhöhlt wird – etwa durch täuschend echte Videoaufnahmen von Politikern, die Aussagen machen, die sie nie gemacht haben –, ist die informationelle Grundlage demokratischer Teilhabe gefährdet. Dies ist kein theoretisches Risiko: In mehreren Ländern wurden bereits Deepfakes eingesetzt, um Wahlergebnisse zu beeinflussen.\n\nEin zweites Argument betrifft die Asymmetrie der Kräfte. Akteure, die Deepfakes produzieren und verbreiten, verfügen über erhebliche technische und finanzielle Ressourcen. Ohne rechtliche Haftungsregeln haben sie keinerlei Anreiz zur Zurückhaltung. Plattformbetreiber wiederum handeln bisher nach eigenem Ermessen – mit uneinheitlichen und häufig unzureichenden Ergebnissen. Verbindliche Kennzeichnungspflichten und Sanktionsrahmen würden dieses Ungleichgewicht korrigieren.\n\nFreilich darf Regulierung nicht in Zensur umschlagen. Es sei ausdrücklich eingeräumt, dass Satire, Parodie und künstlerische Auseinandersetzung mit dem Abbild öffentlicher Personen eine schützenswerte Ausdrucksform darstellen, die demokratisch legitimiert ist. Eine kluge Regulierung muss diese Grenze scharf ziehen: Täuschungsabsicht und nicht Darstellungsform ist das entscheidende Kriterium.\n\nKritiker wenden ein, eine staatlich vorgeschriebene Kennzeichnungspflicht greife zu kurz: Sie erfasse nur die Produzenten, nicht die viralen Verbreitungsmechanismen, und setze stillschweigend voraus, dass Rezipientinnen Kennzeichnungen überhaupt wahrnehmen und verarbeiteten. Andere bezweifeln, dass Plattformbetreiber ohne Haftungsrisiko freiwillig kooperieren würden — ein Vertrauen, das angesichts der bisherigen Geschichte wenig Grundlage habe.\n\nInsgesamt überzeugen die Argumente für staatliches Handeln. Deepfakes berühren nicht die Peripherie, sondern das Zentrum demokratischer Selbstverständigung. Ohne belastbare Informationsgrundlage degeneriert politische Debatte zur Überzeugungsshow ohne Substanz. Klare Haftungsregeln, verpflichtende Kennzeichnung und plattformübergreifende Kooperation sind keine Bedrohung für die Meinungsfreiheit – sie sind ihre Voraussetzung.",
           "sampleAnswerNotes": "Musterantwort zeigt: klare Positionierung in Einleitung; zwei tragende Argumente (Vertrauensproblem, Kräfteasymmetrie); Gegenargument (Zensurgefahr) mit Differenzierung; Konjunktiv I in indirekter Rede ('sei eingeräumt', 'darstellen'); kohärenter Schluss; akademisches Register.",
           "scoringCriteria": [
             {
