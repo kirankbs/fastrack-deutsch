@@ -6,7 +6,7 @@
   <!-- Signposting only: Abschnitt 1, 2, 3, 4, 5 -->
 
   <voice name="de-DE-Wavenet-F">
-    <prosody rate="0.95">
+    <prosody rate="1.0">
       Sie hören jetzt einen Vortrag über KI-Ethik in Redaktionen.
       Der Vortrag ist in fünf Abschnitte gegliedert.
       Wählen Sie bei jeder Frage die richtige Antwort.
@@ -145,7 +145,7 @@
   <break time="2s"/>
 
   <voice name="de-DE-Wavenet-F">
-    <prosody rate="0.95">
+    <prosody rate="1.0">
       Der Vortrag ist jetzt beendet. Sie hören die Aufnahme nicht noch einmal.
       Tragen Sie nun Ihre Antworten in das Antwortblatt ein.
     </prosody>
