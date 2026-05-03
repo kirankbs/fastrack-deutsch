@@ -1662,7 +1662,7 @@
     },
     "speaking": {
       "totalTimeMinutes": 16,
-      "prepTimeMinutes": 0,
+      "prepTimeMinutes": 20,
       "parts": [
         {
           "partNumber": 1,
