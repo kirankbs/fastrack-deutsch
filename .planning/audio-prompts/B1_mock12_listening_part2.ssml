@@ -1,0 +1,176 @@
+<speak>
+  <!-- B1 Mock 12 — Teil 2 (10 True/False, radio interview, playCount=1) -->
+  <!-- Narrator: de-DE-Wavenet-B (male, neutral) rate="slow" — instructions -->
+  <!-- Moderatorin: de-DE-Wavenet-C (female, clear) rate="medium" — morning magazine host -->
+  <!-- Ernährungsberaterin Frau Koch: de-DE-Wavenet-C — NOTE: same voice as moderatorin -->
+  <!-- Frau Koch secondary voice: de-DE-Wavenet-A (female, slightly younger) rate="medium" -->
+  <!-- No repeat — Teil 2 plays ONCE at B1 -->
+  <!-- Topic: Ernährungsberatung — Frühstück, Wasser, Intervallfasten, Zucker (Frau Koch, Berufstätige 30–55) -->
+
+  <break time="3s"/>
+
+  <voice name="de-DE-Wavenet-B">
+    <prosody rate="slow">
+      Hören, Teil 2. Sie hören ein Interview. Entscheiden Sie, ob die folgenden zehn Aussagen
+      richtig oder falsch sind. Sie hören den Text nur einmal.
+    </prosody>
+    <break time="2s"/>
+  </voice>
+
+  <!-- Radio interview begins — Morgenmagazin -->
+  <voice name="de-DE-Wavenet-C">
+    <prosody rate="medium">
+      Guten Morgen, liebe Hörerinnen und Hörer, und willkommen zu unserem Morgenmagazin.
+      Heute sprechen wir über Ernährung im Alltag.
+      Meine Gästin ist Ernährungsberaterin Sabine Koch.
+      Frau Koch, schön, dass Sie da sind!
+    </prosody>
+    <break time="1s"/>
+  </voice>
+
+  <voice name="de-DE-Wavenet-A">
+    <prosody rate="medium">
+      Danke, ich freue mich, dabei zu sein.
+    </prosody>
+    <break time="1s"/>
+  </voice>
+
+  <voice name="de-DE-Wavenet-C">
+    <prosody rate="medium">
+      Frau Koch, wer sind eigentlich Ihre Klienten? Arbeiten Sie vor allem mit Sportlern?
+    </prosody>
+    <break time="1s"/>
+  </voice>
+
+  <voice name="de-DE-Wavenet-A">
+    <prosody rate="medium">
+      Nein, tatsächlich nicht. Meine Klienten sind vor allem Berufstätige zwischen 30 und 55,
+      die im Alltag wenig Zeit fürs Kochen haben. Die brauchen pragmatische Lösungen, keine Diätpläne.
+    </prosody>
+    <break time="1s"/>
+  </voice>
+
+  <voice name="de-DE-Wavenet-C">
+    <prosody rate="medium">
+      Welche Mahlzeit ist für Sie die wichtigste?
+    </prosody>
+    <break time="1s"/>
+  </voice>
+
+  <voice name="de-DE-Wavenet-A">
+    <prosody rate="medium">
+      Das Frühstück ist für mich die wichtigste Mahlzeit des Tages — wer morgens gut isst,
+      hat den halben Tag schon gewonnen. Das Mittagessen ist natürlich auch wichtig, aber das Frühstück setzt den Rhythmus.
+    </prosody>
+    <break time="1s"/>
+  </voice>
+
+  <voice name="de-DE-Wavenet-C">
+    <prosody rate="medium">
+      Wieviel Wasser sollte man täglich trinken?
+    </prosody>
+    <break time="1s"/>
+  </voice>
+
+  <voice name="de-DE-Wavenet-A">
+    <prosody rate="medium">
+      Ich empfehle mindestens eineinhalb bis zwei Liter, abhängig von Körpergewicht und Aktivität.
+      Da gibt es keine Einheitslösung. Mehr als zwei Liter ist für manche sinnvoll, für andere nicht nötig.
+    </prosody>
+    <break time="1s"/>
+  </voice>
+
+  <voice name="de-DE-Wavenet-C">
+    <prosody rate="medium">
+      Wie stehen Sie zu Fertiggerichten?
+    </prosody>
+    <break time="1s"/>
+  </voice>
+
+  <voice name="de-DE-Wavenet-A">
+    <prosody rate="medium">
+      Ich sage meinen Klienten: Ein Fertiggericht ab und zu ist kein Problem.
+      Entscheidend ist das große Ganze — wer sich die Woche über gut ernährt,
+      muss wegen eines Fertiggerichts kein schlechtes Gewissen haben.
+    </prosody>
+    <break time="1s"/>
+  </voice>
+
+  <voice name="de-DE-Wavenet-C">
+    <prosody rate="medium">
+      Was halten Sie von Intervallfasten?
+    </prosody>
+    <break time="1s"/>
+  </voice>
+
+  <voice name="de-DE-Wavenet-A">
+    <prosody rate="medium">
+      Intervallfasten funktioniert für viele sehr gut, aber Menschen mit Unterzuckerung
+      oder bestimmten Vorerkrankungen sollten das nicht ohne ärztliche Begleitung ausprobieren.
+      Es ist also nicht universell geeignet.
+    </prosody>
+    <break time="1s"/>
+  </voice>
+
+  <voice name="de-DE-Wavenet-C">
+    <prosody rate="medium">
+      Und Zucker — sollte man ihn komplett streichen?
+    </prosody>
+    <break time="1s"/>
+  </voice>
+
+  <voice name="de-DE-Wavenet-A">
+    <prosody rate="medium">
+      Zucker komplett zu verbieten ist meiner Erfahrung nach kontraproduktiv.
+      Besser ist ein bewusster Umgang. Wer nie Süßes essen darf, gibt irgendwann auf.
+    </prosody>
+    <break time="1s"/>
+  </voice>
+
+  <voice name="de-DE-Wavenet-C">
+    <prosody rate="medium">
+      Frau Koch, Sie sind doch sicher nicht von Anfang an Ernährungsberaterin geworden, oder?
+    </prosody>
+    <break time="1s"/>
+  </voice>
+
+  <voice name="de-DE-Wavenet-A">
+    <prosody rate="medium">
+      Nein, ich bin nicht aus heiterem Himmel Ernährungsberaterin geworden.
+      Ich hatte selbst in meinen Zwanzigern eine Phase, in der ich sehr schlecht gegessen habe
+      und mich ständig müde gefühlt habe. Das war der Auslöser.
+    </prosody>
+    <break time="1s"/>
+  </voice>
+
+  <voice name="de-DE-Wavenet-C">
+    <prosody rate="medium">
+      Das ist eine interessante Geschichte. Und noch ein letzter Tipp?
+    </prosody>
+    <break time="1s"/>
+  </voice>
+
+  <voice name="de-DE-Wavenet-A">
+    <prosody rate="medium">
+      Essen in Gesellschaft verlangsamt das Tempo, man kaut besser und ist danach zufriedener.
+      Ich empfehle meinen Klienten, wann immer möglich, gemeinsam zu essen.
+      Und noch was: Es gibt eine gute App namens NutriTrack — ich nutze sie selbst gern,
+      habe aber nichts damit zu tun.
+    </prosody>
+    <break time="1s"/>
+  </voice>
+
+  <voice name="de-DE-Wavenet-C">
+    <prosody rate="medium">
+      Wunderbar, vielen Dank, Frau Koch!
+      Liebe Hörerinnen und Hörer, wenn Sie Fragen haben, können Sie uns über unsere Website kontaktieren.
+      Einen guten Morgen noch!
+    </prosody>
+  </voice>
+
+  <break time="3s"/>
+
+  <voice name="de-DE-Wavenet-B">
+    <prosody rate="slow">Das ist das Ende von Teil 2.</prosody>
+  </voice>
+</speak>

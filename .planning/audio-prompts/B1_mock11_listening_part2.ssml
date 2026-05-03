@@ -1,0 +1,159 @@
+<speak>
+  <!-- B1 Mock 11 — Teil 2 (10 True/False, radio interview, playCount=1) -->
+  <!-- Narrator: de-DE-Wavenet-B (male, neutral) rate="slow" — instructions -->
+  <!-- Moderatorin: de-DE-Wavenet-C (female, clear) rate="medium" — radio host Jana -->
+  <!-- Experte Dr. Mertens: de-DE-Wavenet-D (male, warm) rate="medium" — guest speaker -->
+  <!-- No repeat — Teil 2 plays ONCE at B1 -->
+  <!-- Topic: Vor- und Nachteile von Homeoffice (radio interview, Universität Köln) -->
+
+  <break time="3s"/>
+
+  <voice name="de-DE-Wavenet-B">
+    <prosody rate="slow">
+      Hören, Teil 2. Sie hören ein Radiointerview. Entscheiden Sie, ob die folgenden zehn Aussagen
+      richtig oder falsch sind. Sie hören den Text nur einmal.
+    </prosody>
+    <break time="2s"/>
+  </voice>
+
+  <!-- Radio interview begins -->
+  <voice name="de-DE-Wavenet-C">
+    <prosody rate="medium">
+      Guten Morgen und herzlich willkommen zu unserem Morgenmagazin. Heute sprechen wir über das Homeoffice —
+      was es für Arbeitnehmer bedeutet, und wo die Grenzen liegen.
+      Unser Gast heute ist Dr. Klaus Mertens, Arbeitspsychologe an der Universität Köln.
+      Herzlich willkommen, Herr Dr. Mertens.
+    </prosody>
+    <break time="1s"/>
+  </voice>
+
+  <voice name="de-DE-Wavenet-D">
+    <prosody rate="medium">
+      Vielen Dank, guten Morgen.
+    </prosody>
+    <break time="1s"/>
+  </voice>
+
+  <voice name="de-DE-Wavenet-C">
+    <prosody rate="medium">
+      Herr Dr. Mertens, was zeigen Ihre aktuellen Studien zum Thema Homeoffice?
+    </prosody>
+    <break time="1s"/>
+  </voice>
+
+  <voice name="de-DE-Wavenet-D">
+    <prosody rate="medium">
+      Wir sehen, dass die große Mehrheit der Befragten die gewonnene Eigenverantwortung
+      als klaren Pluspunkt nennt. Man plant seinen Tag selbst, das ist für viele eine echte Befreiung.
+    </prosody>
+    <break time="1s"/>
+  </voice>
+
+  <voice name="de-DE-Wavenet-C">
+    <prosody rate="medium">
+      Aber es gibt auch Nachteile?
+    </prosody>
+    <break time="1s"/>
+  </voice>
+
+  <voice name="de-DE-Wavenet-D">
+    <prosody rate="medium">
+      Ja, das häufigste Problem, das unsere Probanden nennen, ist das fehlende klare Ende des Arbeitstages.
+      Man arbeitet einfach weiter, weil kein physischer Ortswechsel als Signal funktioniert.
+      Der ergonomische Bürostuhl kommt tatsächlich erst als zweites Problem.
+    </prosody>
+    <break time="1s"/>
+  </voice>
+
+  <voice name="de-DE-Wavenet-C">
+    <prosody rate="medium">
+      Was empfehlen Sie konkret?
+    </prosody>
+    <break time="1s"/>
+  </voice>
+
+  <voice name="de-DE-Wavenet-D">
+    <prosody rate="medium">
+      Definieren Sie Ihre Arbeitszeiten klar — fangen Sie um dieselbe Zeit an und hören Sie konsequent auf.
+      Das klingt banal, aber es macht einen enormen Unterschied.
+    </prosody>
+    <break time="1s"/>
+  </voice>
+
+  <voice name="de-DE-Wavenet-C">
+    <prosody rate="medium">
+      Wie sehen Unternehmen das Homeoffice langfristig?
+    </prosody>
+    <break time="1s"/>
+  </voice>
+
+  <voice name="de-DE-Wavenet-D">
+    <prosody rate="medium">
+      Über 70 Prozent der Unternehmen wollen hybride Modelle dauerhaft anbieten.
+      Von einem generellen Rückgang oder gar Abschaffen des Homeoffice ist keine Rede.
+    </prosody>
+    <break time="1s"/>
+  </voice>
+
+  <voice name="de-DE-Wavenet-C">
+    <prosody rate="medium">
+      Gibt es Unterschiede zwischen Altersgruppen?
+    </prosody>
+    <break time="1s"/>
+  </voice>
+
+  <voice name="de-DE-Wavenet-D">
+    <prosody rate="medium">
+      Ja, sehr deutlich. Gerade bei Berufseinsteigern und unter Dreißigjährigen
+      fällt das Fehlen des direkten Austauschs mit Kollegen besonders stark ins Gewicht.
+      Das soziale Netzwerk im Büro ist für sie noch im Aufbau.
+    </prosody>
+    <break time="1s"/>
+  </voice>
+
+  <voice name="de-DE-Wavenet-C">
+    <prosody rate="medium">
+      Und was ist mit Meetings — können Video-Calls alles ersetzen?
+    </prosody>
+    <break time="1s"/>
+  </voice>
+
+  <voice name="de-DE-Wavenet-D">
+    <prosody rate="medium">
+      Da bin ich vorsichtig mit Pauschalaussagen.
+      Manche Besprechungen — etwa kreative Brainstorming-Runden — löst man besser persönlich.
+      Video-Calls sind sehr effizient für Statusupdates, aber sie ersetzen nicht alles.
+    </prosody>
+    <break time="1s"/>
+  </voice>
+
+  <voice name="de-DE-Wavenet-C">
+    <prosody rate="medium">
+      Hat die Pandemie das eigentlich ausgelöst?
+    </prosody>
+    <break time="1s"/>
+  </voice>
+
+  <voice name="de-DE-Wavenet-D">
+    <prosody rate="medium">
+      Absolut. Die Pandemie hat das, was vorher ein Nischenmodell war,
+      in vielen Unternehmen quasi über Nacht zum Standard gemacht.
+      Das ist in dieser Geschwindigkeit einzigartig in der Arbeitsgeschichte.
+    </prosody>
+    <break time="1s"/>
+  </voice>
+
+  <voice name="de-DE-Wavenet-C">
+    <prosody rate="medium">
+      Herr Dr. Mertens, vielen Dank für diese interessanten Einblicke.
+      Weitere Informationen zu unserer heutigen Sendung finden Sie auf unserer Website.
+      Das war unser Morgenmagazin — einen guten Start in den Tag!
+    </prosody>
+  </voice>
+
+  <break time="3s"/>
+
+  <voice name="de-DE-Wavenet-B">
+    <prosody rate="slow">Das ist das Ende von Teil 2.</prosody>
+  </voice>
+</speak>

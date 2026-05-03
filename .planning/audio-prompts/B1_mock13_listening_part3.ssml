@@ -1,0 +1,324 @@
+<speak>
+  <!-- B1 Mock 13 — Teil 3 (5 MCQ, short dialogues, playCount=2) -->
+  <!-- Narrator: de-DE-Wavenet-B (male, neutral) rate="slow" — instructions, Gespräch labels -->
+  <!-- Female speaker: de-DE-Wavenet-C (female, clear) rate="medium" — primary female roles -->
+  <!-- Male speaker: de-DE-Wavenet-D (male, warm) rate="medium" — primary male roles -->
+  <!-- Each conversation plays TWICE as per B1 Teil 3 spec -->
+  <!-- Topic: Reisen — Zug vs. Auto, Sommerurlaub, Auslandssemester, Familienstorno, Dienstreisen -->
+  <!-- Full transcript sourced from mock_13.json question explanations -->
+
+  <break time="3s"/>
+
+  <voice name="de-DE-Wavenet-B">
+    <prosody rate="slow">
+      Hören, Teil 3. Sie hören fünf kurze Gespräche. Zu jedem Gespräch gibt es eine Aufgabe.
+      Was ist richtig? Kreuzen Sie an: a, b oder c. Sie hören jedes Gespräch zweimal.
+    </prosody>
+    <break time="2s"/>
+  </voice>
+
+  <!-- Gespräch 1: Herr Bauer — lieber Zug als Auto nach München (Arbeiten + kein Stau/Parkplatz) -->
+  <!-- correct: b -->
+  <voice name="de-DE-Wavenet-B">
+    <prosody rate="slow">Gespräch 1.</prosody>
+    <break time="1s"/>
+  </voice>
+  <voice name="de-DE-Wavenet-C">
+    <prosody rate="medium">
+      Herr Bauer, Sie fahren morgen nach München, oder? Nehmen Sie das Auto?
+    </prosody>
+  </voice>
+  <voice name="de-DE-Wavenet-D">
+    <prosody rate="medium">
+      Nein, ich fahre immer mit dem Zug nach München.
+      Im Zug kann ich meinen Laptop aufmachen und arbeite einfach weiter —
+      und das Thema Stau und Parkplatz in München spare ich mir komplett.
+    </prosody>
+  </voice>
+  <voice name="de-DE-Wavenet-C">
+    <prosody rate="medium">
+      Stimmt, in München einen Parkplatz zu finden ist wirklich mühsam.
+    </prosody>
+  </voice>
+  <voice name="de-DE-Wavenet-D">
+    <prosody rate="medium">
+      Genau. Das Ticket ist zwar nicht immer günstiger, aber die Nerven sind es wert.
+    </prosody>
+  </voice>
+  <break time="2s"/>
+  <voice name="de-DE-Wavenet-B">
+    <prosody rate="slow">Sie hören das Gespräch jetzt noch einmal.</prosody>
+    <break time="1s"/>
+  </voice>
+  <voice name="de-DE-Wavenet-C">
+    <prosody rate="medium">
+      Herr Bauer, Sie fahren morgen nach München, oder? Nehmen Sie das Auto?
+    </prosody>
+  </voice>
+  <voice name="de-DE-Wavenet-D">
+    <prosody rate="medium">
+      Nein, ich fahre immer mit dem Zug nach München.
+      Im Zug kann ich meinen Laptop aufmachen und arbeite einfach weiter —
+      und das Thema Stau und Parkplatz in München spare ich mir komplett.
+    </prosody>
+  </voice>
+  <voice name="de-DE-Wavenet-C">
+    <prosody rate="medium">
+      Stimmt, in München einen Parkplatz zu finden ist wirklich mühsam.
+    </prosody>
+  </voice>
+  <voice name="de-DE-Wavenet-D">
+    <prosody rate="medium">
+      Genau. Das Ticket ist zwar nicht immer günstiger, aber die Nerven sind es wert.
+    </prosody>
+  </voice>
+  <break time="2s"/>
+
+  <!-- Gespräch 2: Pärchen — Radtour Salzburg–Wien, Gasthöfe in Österreich -->
+  <!-- correct: b -->
+  <voice name="de-DE-Wavenet-B">
+    <prosody rate="slow">Gespräch 2.</prosody>
+    <break time="1s"/>
+  </voice>
+  <voice name="de-DE-Wavenet-C">
+    <prosody rate="medium">
+      Was machst du dir dieses Jahr als Sommerurlaub vor?
+    </prosody>
+  </voice>
+  <voice name="de-DE-Wavenet-D">
+    <prosody rate="medium">
+      Ich stelle mir das so vor: Wir fahren mit dem Rad von Salzburg nach Wien —
+      das sind so sieben bis acht Tage —
+      und schlafen abends in kleinen Gasthöfen am Weg.
+      Kein großes Hotel, einfach unterwegs sein.
+    </prosody>
+  </voice>
+  <voice name="de-DE-Wavenet-C">
+    <prosody rate="medium">
+      Das klingt wunderschön! Ich dachte kurz an eine Kreuzfahrt, aber das ist viel schöner.
+    </prosody>
+  </voice>
+  <voice name="de-DE-Wavenet-D">
+    <prosody rate="medium">
+      Genau, aktiv Urlaub machen macht für mich viel mehr Sinn. Machst du mit?
+    </prosody>
+  </voice>
+  <voice name="de-DE-Wavenet-C">
+    <prosody rate="medium">
+      Ja, sehr gerne!
+    </prosody>
+  </voice>
+  <break time="2s"/>
+  <voice name="de-DE-Wavenet-B">
+    <prosody rate="slow">Sie hören das Gespräch jetzt noch einmal.</prosody>
+    <break time="1s"/>
+  </voice>
+  <voice name="de-DE-Wavenet-C">
+    <prosody rate="medium">
+      Was machst du dir dieses Jahr als Sommerurlaub vor?
+    </prosody>
+  </voice>
+  <voice name="de-DE-Wavenet-D">
+    <prosody rate="medium">
+      Ich stelle mir das so vor: Wir fahren mit dem Rad von Salzburg nach Wien —
+      das sind so sieben bis acht Tage —
+      und schlafen abends in kleinen Gasthöfen am Weg.
+      Kein großes Hotel, einfach unterwegs sein.
+    </prosody>
+  </voice>
+  <voice name="de-DE-Wavenet-C">
+    <prosody rate="medium">
+      Das klingt wunderschön! Ich dachte kurz an eine Kreuzfahrt, aber das ist viel schöner.
+    </prosody>
+  </voice>
+  <voice name="de-DE-Wavenet-D">
+    <prosody rate="medium">
+      Genau, aktiv Urlaub machen macht für mich viel mehr Sinn. Machst du mit?
+    </prosody>
+  </voice>
+  <voice name="de-DE-Wavenet-C">
+    <prosody rate="medium">
+      Ja, sehr gerne!
+    </prosody>
+  </voice>
+  <break time="2s"/>
+
+  <!-- Gespräch 3: Studentin in Barcelona — Sprache verbessern, wenig Kontakt zu Deutschen -->
+  <!-- correct: b -->
+  <voice name="de-DE-Wavenet-B">
+    <prosody rate="slow">Gespräch 3.</prosody>
+    <break time="1s"/>
+  </voice>
+  <voice name="de-DE-Wavenet-D">
+    <prosody rate="medium">
+      Du gehst nächsten Monat nach Barcelona für dein Auslandssemester. Worauf freust du dich am meisten?
+    </prosody>
+  </voice>
+  <voice name="de-DE-Wavenet-C">
+    <prosody rate="medium">
+      Das Wichtigste für mich ist, wirklich Katalanisch und Spanisch zu lernen.
+      Deshalb möchte ich in einer WG mit Einheimischen wohnen
+      und den Kontakt zu deutschen Studierenden möglichst vermeiden.
+    </prosody>
+  </voice>
+  <voice name="de-DE-Wavenet-D">
+    <prosody rate="medium">
+      Und Reisen? Barcelona liegt ja super für Ausflüge.
+    </prosody>
+  </voice>
+  <voice name="de-DE-Wavenet-C">
+    <prosody rate="medium">
+      Das plane ich für danach — nach dem Semester möchte ich mit dem Interrail durch Europa.
+      Aber während des Semesters konzentriere ich mich auf die Sprache.
+    </prosody>
+  </voice>
+  <break time="2s"/>
+  <voice name="de-DE-Wavenet-B">
+    <prosody rate="slow">Sie hören das Gespräch jetzt noch einmal.</prosody>
+    <break time="1s"/>
+  </voice>
+  <voice name="de-DE-Wavenet-D">
+    <prosody rate="medium">
+      Du gehst nächsten Monat nach Barcelona für dein Auslandssemester. Worauf freust du dich am meisten?
+    </prosody>
+  </voice>
+  <voice name="de-DE-Wavenet-C">
+    <prosody rate="medium">
+      Das Wichtigste für mich ist, wirklich Katalanisch und Spanisch zu lernen.
+      Deshalb möchte ich in einer WG mit Einheimischen wohnen
+      und den Kontakt zu deutschen Studierenden möglichst vermeiden.
+    </prosody>
+  </voice>
+  <voice name="de-DE-Wavenet-D">
+    <prosody rate="medium">
+      Und Reisen? Barcelona liegt ja super für Ausflüge.
+    </prosody>
+  </voice>
+  <voice name="de-DE-Wavenet-C">
+    <prosody rate="medium">
+      Das plane ich für danach — nach dem Semester möchte ich mit dem Interrail durch Europa.
+      Aber während des Semesters konzentriere ich mich auf die Sprache.
+    </prosody>
+  </voice>
+  <break time="2s"/>
+
+  <!-- Gespräch 4: Familie — Hotel hat wegen Überbuchung Reservierung storniert, daher Flug storniert -->
+  <!-- correct: c -->
+  <voice name="de-DE-Wavenet-B">
+    <prosody rate="slow">Gespräch 4.</prosody>
+    <break time="1s"/>
+  </voice>
+  <voice name="de-DE-Wavenet-C">
+    <prosody rate="medium">
+      Und, ihr wart doch diese Woche in Lanzarote? Wie war's?
+    </prosody>
+  </voice>
+  <voice name="de-DE-Wavenet-D">
+    <prosody rate="medium">
+      Wir waren leider gar nicht dort. Das Hotel hat uns drei Tage vor dem Abflug geschrieben,
+      dass sie überbucht sind und kein Zimmer mehr für uns haben.
+      Da haben wir natürlich auch den Flug storniert.
+    </prosody>
+  </voice>
+  <voice name="de-DE-Wavenet-C">
+    <prosody rate="medium">
+      Das ist ja unglaublich! Hat das Hotel eine Entschädigung angeboten?
+    </prosody>
+  </voice>
+  <voice name="de-DE-Wavenet-D">
+    <prosody rate="medium">
+      Ja, eine Gutschrift für eine zukünftige Buchung — aber das hilft uns für diesen Sommer nicht viel.
+    </prosody>
+  </voice>
+  <break time="2s"/>
+  <voice name="de-DE-Wavenet-B">
+    <prosody rate="slow">Sie hören das Gespräch jetzt noch einmal.</prosody>
+    <break time="1s"/>
+  </voice>
+  <voice name="de-DE-Wavenet-C">
+    <prosody rate="medium">
+      Und, ihr wart doch diese Woche in Lanzarote? Wie war's?
+    </prosody>
+  </voice>
+  <voice name="de-DE-Wavenet-D">
+    <prosody rate="medium">
+      Wir waren leider gar nicht dort. Das Hotel hat uns drei Tage vor dem Abflug geschrieben,
+      dass sie überbucht sind und kein Zimmer mehr für uns haben.
+      Da haben wir natürlich auch den Flug storniert.
+    </prosody>
+  </voice>
+  <voice name="de-DE-Wavenet-C">
+    <prosody rate="medium">
+      Das ist ja unglaublich! Hat das Hotel eine Entschädigung angeboten?
+    </prosody>
+  </voice>
+  <voice name="de-DE-Wavenet-D">
+    <prosody rate="medium">
+      Ja, eine Gutschrift für eine zukünftige Buchung — aber das hilft uns für diesen Sommer nicht viel.
+    </prosody>
+  </voice>
+  <break time="2s"/>
+
+  <!-- Gespräch 5: Zwei Kollegen — einig: Videokonferenzen haben kurze Dienstreisen überflüssig gemacht -->
+  <!-- correct: c -->
+  <voice name="de-DE-Wavenet-B">
+    <prosody rate="slow">Gespräch 5.</prosody>
+    <break time="1s"/>
+  </voice>
+  <voice name="de-DE-Wavenet-C">
+    <prosody rate="medium">
+      Ich denke manchmal an früher — diesen kurzen Hin- und Hinwegtrip nach Frankfurt
+      für ein zweistündiges Meeting würde ich heute nicht mehr machen.
+    </prosody>
+  </voice>
+  <voice name="de-DE-Wavenet-D">
+    <prosody rate="medium">
+      Da haben wir wirklich viel Zeit gespart — die meisten Besprechungen klappen auch per Video.
+      Das war früher gar keine Option.
+    </prosody>
+  </voice>
+  <voice name="de-DE-Wavenet-C">
+    <prosody rate="medium">
+      Genau. Dienstreisen machen heute eigentlich nur noch Sinn,
+      wenn man wirklich vor Ort sein muss.
+    </prosody>
+  </voice>
+  <voice name="de-DE-Wavenet-D">
+    <prosody rate="medium">
+      Das sehe ich genauso.
+    </prosody>
+  </voice>
+  <break time="2s"/>
+  <voice name="de-DE-Wavenet-B">
+    <prosody rate="slow">Sie hören das Gespräch jetzt noch einmal.</prosody>
+    <break time="1s"/>
+  </voice>
+  <voice name="de-DE-Wavenet-C">
+    <prosody rate="medium">
+      Ich denke manchmal an früher — diesen kurzen Hin- und Hinwegtrip nach Frankfurt
+      für ein zweistündiges Meeting würde ich heute nicht mehr machen.
+    </prosody>
+  </voice>
+  <voice name="de-DE-Wavenet-D">
+    <prosody rate="medium">
+      Da haben wir wirklich viel Zeit gespart — die meisten Besprechungen klappen auch per Video.
+      Das war früher gar keine Option.
+    </prosody>
+  </voice>
+  <voice name="de-DE-Wavenet-C">
+    <prosody rate="medium">
+      Genau. Dienstreisen machen heute eigentlich nur noch Sinn,
+      wenn man wirklich vor Ort sein muss.
+    </prosody>
+  </voice>
+  <voice name="de-DE-Wavenet-D">
+    <prosody rate="medium">
+      Das sehe ich genauso.
+    </prosody>
+  </voice>
+  <break time="3s"/>
+
+  <voice name="de-DE-Wavenet-B">
+    <prosody rate="slow">Das ist das Ende von Teil 3.</prosody>
+  </voice>
+</speak>

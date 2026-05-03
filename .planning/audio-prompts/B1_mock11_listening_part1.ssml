@@ -1,0 +1,95 @@
+<speak>
+  <!-- B1 Mock 11 — Teil 1 (5 True/False, short audio clips, playCount=1) -->
+  <!-- Narrator/Announcer: de-DE-Wavenet-B (male, neutral) rate="slow" — instructions, task labels -->
+  <!-- Female speaker: de-DE-Wavenet-C (female, clear) rate="medium" — voicemail, female roles -->
+  <!-- Male speaker: de-DE-Wavenet-D (male, warm) rate="medium" — announcements, male roles -->
+  <!-- No repeat — Teil 1 plays ONCE at B1 -->
+  <!-- Topic: Stellenanzeigen, Arbeitskommunikation (job ads, workplace calls) -->
+
+  <break time="3s"/>
+
+  <voice name="de-DE-Wavenet-B">
+    <prosody rate="slow">
+      Hören, Teil 1. Sie hören fünf kurze Texte. Entscheiden Sie bei jedem Text:
+      Ist die Aussage richtig oder falsch? Sie hören jeden Text nur einmal.
+    </prosody>
+    <break time="2s"/>
+  </voice>
+
+  <!-- Aufgabe 1: Stellenanzeige — mindestens fünf Jahre Erfahrung im Vertrieb -->
+  <voice name="de-DE-Wavenet-B">
+    <prosody rate="slow">Aufgabe 1.</prosody>
+    <break time="1s"/>
+  </voice>
+  <voice name="de-DE-Wavenet-D">
+    <prosody rate="medium">
+      Wir suchen zum nächstmöglichen Zeitpunkt eine engagierte Vertriebspersönlichkeit
+      für unser Team in Frankfurt. Voraussetzung ist eine abgeschlossene kaufmännische Ausbildung
+      sowie mindestens fünf Jahre Erfahrung im Vertrieb. Wir freuen uns auf Ihre Bewerbung.
+    </prosody>
+  </voice>
+  <break time="2s"/>
+
+  <!-- Aufgabe 2: Voicemail Herr Kaya — Bericht bis Montag überprüfen -->
+  <voice name="de-DE-Wavenet-B">
+    <prosody rate="slow">Aufgabe 2.</prosody>
+    <break time="1s"/>
+  </voice>
+  <voice name="de-DE-Wavenet-D">
+    <prosody rate="medium">
+      Hallo Sandra, hier ist Can Kaya. Ich wollte kurz fragen:
+      Könntest du dir den Quartalsbericht bis Montag noch mal anschauen?
+      Ich möchte ihn dienstags abgeben, da wäre es gut, wenn du vorher drübergeschaut hast.
+      Danke schön, bis dann!
+    </prosody>
+  </voice>
+  <break time="2s"/>
+
+  <!-- Aufgabe 3: Sekretärin — Bewerbungsgespräch Mittwoch 10:30 Uhr -->
+  <voice name="de-DE-Wavenet-B">
+    <prosody rate="slow">Aufgabe 3.</prosody>
+    <break time="1s"/>
+  </voice>
+  <voice name="de-DE-Wavenet-C">
+    <prosody rate="medium">
+      Guten Tag, hier ist Petra Lange von der Firma Meißner und Partner.
+      Ich rufe an, um Ihren Termin für das Bewerbungsgespräch zu bestätigen.
+      Wir freuen uns, Sie am Mittwoch um 10 Uhr 30 bei uns begrüßen zu dürfen.
+      Bitte melden Sie sich an der Rezeption.
+    </prosody>
+  </voice>
+  <break time="2s"/>
+
+  <!-- Aufgabe 4: Personalleiter — Dienstwagen und Laptop zur Stelle -->
+  <voice name="de-DE-Wavenet-B">
+    <prosody rate="slow">Aufgabe 4.</prosody>
+    <break time="1s"/>
+  </voice>
+  <voice name="de-DE-Wavenet-D">
+    <prosody rate="medium">
+      Die ausgeschriebene Stelle im Außendienst bietet ein attraktives Gehaltspaket.
+      Zur Stelle gehören außerdem ein Dienstwagen und ein Laptop,
+      die Sie auch privat nutzen dürfen.
+      Urlaubsanspruch beträgt 30 Tage im Jahr.
+    </prosody>
+  </voice>
+  <break time="2s"/>
+
+  <!-- Aufgabe 5: Sprecherin — wurde entlassen, hat nicht selbst gekündigt -->
+  <voice name="de-DE-Wavenet-B">
+    <prosody rate="slow">Aufgabe 5.</prosody>
+    <break time="1s"/>
+  </voice>
+  <voice name="de-DE-Wavenet-C">
+    <prosody rate="medium">
+      Also, ich bin seit drei Monaten auf Jobsuche. Die Firma hat leider Stellen abgebaut —
+      meine Stelle wurde einfach gestrichen. Das war ein Schock, aber jetzt bin ich aktiv
+      dabei, mich neu zu orientieren. Ich bewerbe mich hauptsächlich im Bereich Marketing.
+    </prosody>
+  </voice>
+  <break time="3s"/>
+
+  <voice name="de-DE-Wavenet-B">
+    <prosody rate="slow">Das ist das Ende von Teil 1.</prosody>
+  </voice>
+</speak>

@@ -1,0 +1,312 @@
+<speak>
+  <!-- B1 Mock 15 — Teil 3 (5 MCQ, short dialogues, playCount=2) -->
+  <!-- Narrator: de-DE-Wavenet-B (male, neutral) rate="slow" — instructions, Gespräch labels -->
+  <!-- Female speaker: de-DE-Wavenet-C (female, clear) rate="medium" — Sofia, Mutter, female roles -->
+  <!-- Male speaker: de-DE-Wavenet-D (male, warm) rate="medium" — Jonas, Markus, Timo, male roles -->
+  <!-- Each conversation plays TWICE as per B1 Teil 3 spec -->
+  <!-- Topic: Digitale Medien im Alltag — Smartphone-Pause, Streaming-Problem, Social Media, Bildschirmzeit -->
+  <!-- Full transcript sourced from mock_15.json question explanations -->
+
+  <break time="3s"/>
+
+  <voice name="de-DE-Wavenet-B">
+    <prosody rate="slow">
+      Hören, Teil 3. Sie hören fünf kurze Gespräche. Zu jedem Gespräch gibt es eine Aufgabe.
+      Was ist richtig? Kreuzen Sie an: a, b oder c. Sie hören jedes Gespräch zweimal.
+    </prosody>
+    <break time="2s"/>
+  </voice>
+
+  <!-- Gespräch 1: Jonas — Smartphone-Pause, weil zu viel Zeit am Handy statt mit Menschen -->
+  <!-- correct: b -->
+  <voice name="de-DE-Wavenet-B">
+    <prosody rate="slow">Gespräch 1.</prosody>
+    <break time="1s"/>
+  </voice>
+  <voice name="de-DE-Wavenet-C">
+    <prosody rate="medium">
+      Jonas, ich habe gehört, du hast dein Smartphone eine Woche lang nicht benutzt?
+      War das dein Arzt, der das empfohlen hat?
+    </prosody>
+  </voice>
+  <voice name="de-DE-Wavenet-D">
+    <prosody rate="medium">
+      Nein, kein Arzt. Ich habe eines Abends einfach gerechnet:
+      Vier Stunden am Handy, aber nur zwanzig Minuten wirkliches Gespräch mit meiner Mitbewohnerin.
+      Das hat mir zu denken gegeben.
+    </prosody>
+  </voice>
+  <voice name="de-DE-Wavenet-C">
+    <prosody rate="medium">
+      Und wie war das dann, ohne Handy?
+    </prosody>
+  </voice>
+  <voice name="de-DE-Wavenet-D">
+    <prosody rate="medium">
+      Die ersten zwei Tage war es seltsam. Danach eigentlich ganz angenehm.
+    </prosody>
+  </voice>
+  <break time="2s"/>
+  <voice name="de-DE-Wavenet-B">
+    <prosody rate="slow">Sie hören das Gespräch jetzt noch einmal.</prosody>
+    <break time="1s"/>
+  </voice>
+  <voice name="de-DE-Wavenet-C">
+    <prosody rate="medium">
+      Jonas, ich habe gehört, du hast dein Smartphone eine Woche lang nicht benutzt?
+      War das dein Arzt, der das empfohlen hat?
+    </prosody>
+  </voice>
+  <voice name="de-DE-Wavenet-D">
+    <prosody rate="medium">
+      Nein, kein Arzt. Ich habe eines Abends einfach gerechnet:
+      Vier Stunden am Handy, aber nur zwanzig Minuten wirkliches Gespräch mit meiner Mitbewohnerin.
+      Das hat mir zu denken gegeben.
+    </prosody>
+  </voice>
+  <voice name="de-DE-Wavenet-C">
+    <prosody rate="medium">
+      Und wie war das dann, ohne Handy?
+    </prosody>
+  </voice>
+  <voice name="de-DE-Wavenet-D">
+    <prosody rate="medium">
+      Die ersten zwei Tage war es seltsam. Danach eigentlich ganz angenehm.
+    </prosody>
+  </voice>
+  <break time="2s"/>
+
+  <!-- Gespräch 2: Sofia — zuerst FAQ, dann telefonischen Support kontaktiert -->
+  <!-- correct: c -->
+  <voice name="de-DE-Wavenet-B">
+    <prosody rate="slow">Gespräch 2.</prosody>
+    <break time="1s"/>
+  </voice>
+  <voice name="de-DE-Wavenet-D">
+    <prosody rate="medium">
+      Sofia, hattest du letzte Woche das Problem mit deinem Streaming-Dienst gelöst?
+    </prosody>
+  </voice>
+  <voice name="de-DE-Wavenet-C">
+    <prosody rate="medium">
+      Ja, endlich. Ich habe erstmal eine halbe Stunde in den FAQs gesucht,
+      aber die Lösung war nicht dabei.
+      Dann habe ich angerufen — nach zwanzig Minuten Wartezeit hat mir jemand geholfen.
+    </prosody>
+  </voice>
+  <voice name="de-DE-Wavenet-D">
+    <prosody rate="medium">
+      Und der Vertrag — bist du dabei geblieben?
+    </prosody>
+  </voice>
+  <voice name="de-DE-Wavenet-C">
+    <prosody rate="medium">
+      Ja, erstmal. Wenn es nochmal vorkommt, schreibe ich eine E-Mail an den Kundenservice.
+    </prosody>
+  </voice>
+  <break time="2s"/>
+  <voice name="de-DE-Wavenet-B">
+    <prosody rate="slow">Sie hören das Gespräch jetzt noch einmal.</prosody>
+    <break time="1s"/>
+  </voice>
+  <voice name="de-DE-Wavenet-D">
+    <prosody rate="medium">
+      Sofia, hattest du letzte Woche das Problem mit deinem Streaming-Dienst gelöst?
+    </prosody>
+  </voice>
+  <voice name="de-DE-Wavenet-C">
+    <prosody rate="medium">
+      Ja, endlich. Ich habe erstmal eine halbe Stunde in den FAQs gesucht,
+      aber die Lösung war nicht dabei.
+      Dann habe ich angerufen — nach zwanzig Minuten Wartezeit hat mir jemand geholfen.
+    </prosody>
+  </voice>
+  <voice name="de-DE-Wavenet-D">
+    <prosody rate="medium">
+      Und der Vertrag — bist du dabei geblieben?
+    </prosody>
+  </voice>
+  <voice name="de-DE-Wavenet-C">
+    <prosody rate="medium">
+      Ja, erstmal. Wenn es nochmal vorkommt, schreibe ich eine E-Mail an den Kundenservice.
+    </prosody>
+  </voice>
+  <break time="2s"/>
+
+  <!-- Gespräch 3: Markus — stört sich an ständiger Werbung auf neuer Plattform -->
+  <!-- correct: b -->
+  <voice name="de-DE-Wavenet-B">
+    <prosody rate="slow">Gespräch 3.</prosody>
+    <break time="1s"/>
+  </voice>
+  <voice name="de-DE-Wavenet-C">
+    <prosody rate="medium">
+      Markus, nutzt du eigentlich die neue Plattform? Was hältst du davon?
+    </prosody>
+  </voice>
+  <voice name="de-DE-Wavenet-D">
+    <prosody rate="medium">
+      Mich stört das einfach — jedes dritte Video ist eine Werbung.
+      Ich habe versucht, die Premium-Version zu kaufen, aber die ist mir zu teuer.
+      Ohne Premium ist es kaum erträglich.
+    </prosody>
+  </voice>
+  <voice name="de-DE-Wavenet-C">
+    <prosody rate="medium">
+      Und deine Freunde sind auch kaum dort, oder?
+    </prosody>
+  </voice>
+  <voice name="de-DE-Wavenet-D">
+    <prosody rate="medium">
+      Ja, das auch. Aber die Werbung ist das Schlimmste. Das hält mich wirklich davon ab.
+    </prosody>
+  </voice>
+  <break time="2s"/>
+  <voice name="de-DE-Wavenet-B">
+    <prosody rate="slow">Sie hören das Gespräch jetzt noch einmal.</prosody>
+    <break time="1s"/>
+  </voice>
+  <voice name="de-DE-Wavenet-C">
+    <prosody rate="medium">
+      Markus, nutzt du eigentlich die neue Plattform? Was hältst du davon?
+    </prosody>
+  </voice>
+  <voice name="de-DE-Wavenet-D">
+    <prosody rate="medium">
+      Mich stört das einfach — jedes dritte Video ist eine Werbung.
+      Ich habe versucht, die Premium-Version zu kaufen, aber die ist mir zu teuer.
+      Ohne Premium ist es kaum erträglich.
+    </prosody>
+  </voice>
+  <voice name="de-DE-Wavenet-C">
+    <prosody rate="medium">
+      Und deine Freunde sind auch kaum dort, oder?
+    </prosody>
+  </voice>
+  <voice name="de-DE-Wavenet-D">
+    <prosody rate="medium">
+      Ja, das auch. Aber die Werbung ist das Schlimmste. Das hält mich wirklich davon ab.
+    </prosody>
+  </voice>
+  <break time="2s"/>
+
+  <!-- Gespräch 4: Mutter schlägt gemeinsames Kochen vor, lehnt App-Lösung ab -->
+  <!-- correct: c -->
+  <voice name="de-DE-Wavenet-B">
+    <prosody rate="slow">Gespräch 4.</prosody>
+    <break time="1s"/>
+  </voice>
+  <voice name="de-DE-Wavenet-C">
+    <prosody rate="medium">
+      Ich mache mir Sorgen, wie viel du am Abend auf dem Handy bist.
+      Ich habe mir überlegt: Wir kochen abends wieder zusammen —
+      dann haben wir alle eine natürliche Pause vom Handy.
+    </prosody>
+  </voice>
+  <voice name="de-DE-Wavenet-D">
+    <prosody rate="medium">
+      Könntest du nicht einfach eine App installieren, die die Zeit begrenzt?
+    </prosody>
+  </voice>
+  <voice name="de-DE-Wavenet-C">
+    <prosody rate="medium">
+      Nein, das wirkt mir zu kontrollierend. Ich möchte, dass wir das zusammen entscheiden,
+      nicht durch eine App erzwingen. Kochen klingt doch schöner, oder?
+    </prosody>
+  </voice>
+  <voice name="de-DE-Wavenet-D">
+    <prosody rate="medium">
+      Okay, das klingt eigentlich gar nicht schlecht.
+    </prosody>
+  </voice>
+  <break time="2s"/>
+  <voice name="de-DE-Wavenet-B">
+    <prosody rate="slow">Sie hören das Gespräch jetzt noch einmal.</prosody>
+    <break time="1s"/>
+  </voice>
+  <voice name="de-DE-Wavenet-C">
+    <prosody rate="medium">
+      Ich mache mir Sorgen, wie viel du am Abend auf dem Handy bist.
+      Ich habe mir überlegt: Wir kochen abends wieder zusammen —
+      dann haben wir alle eine natürliche Pause vom Handy.
+    </prosody>
+  </voice>
+  <voice name="de-DE-Wavenet-D">
+    <prosody rate="medium">
+      Könntest du nicht einfach eine App installieren, die die Zeit begrenzt?
+    </prosody>
+  </voice>
+  <voice name="de-DE-Wavenet-C">
+    <prosody rate="medium">
+      Nein, das wirkt mir zu kontrollierend. Ich möchte, dass wir das zusammen entscheiden,
+      nicht durch eine App erzwingen. Kochen klingt doch schöner, oder?
+    </prosody>
+  </voice>
+  <voice name="de-DE-Wavenet-D">
+    <prosody rate="medium">
+      Okay, das klingt eigentlich gar nicht schlecht.
+    </prosody>
+  </voice>
+  <break time="2s"/>
+
+  <!-- Gespräch 5: Timo plant Lese-/Filmclub — demokratisches Abstimmen über Titel ist wichtigstes Kriterium -->
+  <!-- correct: a -->
+  <voice name="de-DE-Wavenet-B">
+    <prosody rate="slow">Gespräch 5.</prosody>
+    <break time="1s"/>
+  </voice>
+  <voice name="de-DE-Wavenet-C">
+    <prosody rate="medium">
+      Timo, du willst einen Buch- und Filmclub gründen, oder? Was ist dir dabei am wichtigsten?
+    </prosody>
+  </voice>
+  <voice name="de-DE-Wavenet-D">
+    <prosody rate="medium">
+      Das Wichtigste für mich ist, dass wir demokratisch abstimmen —
+      jeder schlägt einen Titel vor und dann wird gewählt.
+      Sonst bestimmt immer einer alles, und das hält die Gruppe nicht zusammen.
+    </prosody>
+  </voice>
+  <voice name="de-DE-Wavenet-C">
+    <prosody rate="medium">
+      Und treffen wir uns persönlich oder auch online?
+    </prosody>
+  </voice>
+  <voice name="de-DE-Wavenet-D">
+    <prosody rate="medium">
+      Beides ist denkbar. Ich bin da flexibel. Aber das Abstimmen — das ist mir wirklich wichtig.
+    </prosody>
+  </voice>
+  <break time="2s"/>
+  <voice name="de-DE-Wavenet-B">
+    <prosody rate="slow">Sie hören das Gespräch jetzt noch einmal.</prosody>
+    <break time="1s"/>
+  </voice>
+  <voice name="de-DE-Wavenet-C">
+    <prosody rate="medium">
+      Timo, du willst einen Buch- und Filmclub gründen, oder? Was ist dir dabei am wichtigsten?
+    </prosody>
+  </voice>
+  <voice name="de-DE-Wavenet-D">
+    <prosody rate="medium">
+      Das Wichtigste für mich ist, dass wir demokratisch abstimmen —
+      jeder schlägt einen Titel vor und dann wird gewählt.
+      Sonst bestimmt immer einer alles, und das hält die Gruppe nicht zusammen.
+    </prosody>
+  </voice>
+  <voice name="de-DE-Wavenet-C">
+    <prosody rate="medium">
+      Und treffen wir uns persönlich oder auch online?
+    </prosody>
+  </voice>
+  <voice name="de-DE-Wavenet-D">
+    <prosody rate="medium">
+      Beides ist denkbar. Ich bin da flexibel. Aber das Abstimmen — das ist mir wirklich wichtig.
+    </prosody>
+  </voice>
+  <break time="3s"/>
+
+  <voice name="de-DE-Wavenet-B">
+    <prosody rate="slow">Das ist das Ende von Teil 3.</prosody>
+  </voice>
+</speak>

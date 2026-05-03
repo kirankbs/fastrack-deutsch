@@ -1,0 +1,297 @@
+<speak>
+  <!-- B1 Mock 14 — Teil 2 (10 True/False, radio feature, playCount=2) -->
+  <!-- Narrator: de-DE-Wavenet-B (male, neutral) rate="slow" — instructions, repeat marker -->
+  <!-- Moderatorin: de-DE-Wavenet-C (female, clear) rate="medium" — radio host -->
+  <!-- Expertin Dr. Kathrin Wendland: de-DE-Wavenet-A (female, slightly younger) rate="medium" — guest -->
+  <!-- Zusatzstimme Sprecher: de-DE-Wavenet-F (male, slightly older) rate="medium" — data/statistics -->
+  <!-- PLAYED TWICE — repeat marker included per playCount=2 in mock JSON -->
+  <!-- Topic: Veränderte Familienstrukturen in Deutschland — Alleinerziehende, Patchwork, Elternzeit -->
+
+  <break time="3s"/>
+
+  <voice name="de-DE-Wavenet-B">
+    <prosody rate="slow">
+      Hören, Teil 2. Sie hören ein Radiofeature über veränderte Familienstrukturen in Deutschland.
+      Entscheiden Sie, ob die folgenden zehn Aussagen richtig oder falsch sind.
+      Sie hören den Text zweimal.
+    </prosody>
+    <break time="2s"/>
+  </voice>
+
+  <!-- Radio feature begins -->
+  <voice name="de-DE-Wavenet-C">
+    <prosody rate="medium">
+      Herzlich willkommen zu unserem Mittagsmagazin.
+      Heute schauen wir uns an, wie sich das Zusammenleben von Familien in Deutschland verändert hat —
+      und was das für Eltern, Kinder und Großeltern bedeutet.
+    </prosody>
+    <break time="1s"/>
+  </voice>
+
+  <voice name="de-DE-Wavenet-F">
+    <prosody rate="medium">
+      Die Zahlen sprechen für sich: Die Zahl der Alleinerziehenden ist in Deutschland seit 2010
+      kontinuierlich gestiegen — heute liegt sie bei fast 20 Prozent aller Familien.
+    </prosody>
+    <break time="1s"/>
+  </voice>
+
+  <voice name="de-DE-Wavenet-C">
+    <prosody rate="medium">
+      Zu diesen Themen haben wir heute Dr. Kathrin Wendland im Studio —
+      sie leitet am Deutschen Jugendinstitut eine Forschungsgruppe
+      zu modernen Familienmodellen und Patchwork-Familien.
+      Frau Dr. Wendland, herzlich willkommen!
+    </prosody>
+    <break time="1s"/>
+  </voice>
+
+  <voice name="de-DE-Wavenet-A">
+    <prosody rate="medium">
+      Guten Tag, ich freue mich, hier zu sein.
+    </prosody>
+    <break time="1s"/>
+  </voice>
+
+  <voice name="de-DE-Wavenet-C">
+    <prosody rate="medium">
+      Frau Dr. Wendland, sind Patchwork-Familien schlechter für Kinder als traditionelle Familien?
+    </prosody>
+    <break time="1s"/>
+  </voice>
+
+  <voice name="de-DE-Wavenet-A">
+    <prosody rate="medium">
+      Das können wir so nicht sagen. Entscheidend ist nicht die Familienform,
+      sondern die Qualität der Beziehungen.
+      Kinder in Patchwork-Familien können genauso stabile Bindungen entwickeln
+      wie Kinder in traditionellen Familien.
+    </prosody>
+    <break time="1s"/>
+  </voice>
+
+  <voice name="de-DE-Wavenet-F">
+    <prosody rate="medium">
+      Laut einer aktuellen Erhebung sind es im Durchschnitt elf Stunden pro Woche,
+      die Großeltern direkt für die Kinderbetreuung aufwenden.
+      Das ist mehr als in den meisten europäischen Ländern.
+    </prosody>
+    <break time="1s"/>
+  </voice>
+
+  <voice name="de-DE-Wavenet-C">
+    <prosody rate="medium">
+      Wie gut unterstützen Unternehmen berufstätige Eltern?
+    </prosody>
+    <break time="1s"/>
+  </voice>
+
+  <voice name="de-DE-Wavenet-A">
+    <prosody rate="medium">
+      Obwohl es gesetzliche Regelungen gibt, bieten nach unserer Erhebung
+      nur rund 40 Prozent der Betriebe wirklich flexible Modelle für Eltern an.
+      Das ist deutlich weniger als die Hälfte — hier besteht noch Nachholbedarf.
+    </prosody>
+    <break time="1s"/>
+  </voice>
+
+  <voice name="de-DE-Wavenet-C">
+    <prosody rate="medium">
+      Wie sieht es mit Vätern und Elternzeit aus?
+    </prosody>
+    <break time="1s"/>
+  </voice>
+
+  <voice name="de-DE-Wavenet-A">
+    <prosody rate="medium">
+      Der Anteil der Väter, die Elternzeit nehmen, ist gestiegen —
+      liegt aber mit knapp 25 Prozent noch weit hinter dem der Mütter.
+      Es ist positiv, aber der Weg ist noch lang.
+    </prosody>
+    <break time="1s"/>
+  </voice>
+
+  <voice name="de-DE-Wavenet-C">
+    <prosody rate="medium">
+      Was empfehlen Sie Paaren, bevor das erste Kind kommt?
+    </prosody>
+    <break time="1s"/>
+  </voice>
+
+  <voice name="de-DE-Wavenet-A">
+    <prosody rate="medium">
+      Paare sollten diese Gespräche über Aufgabenteilung führen, bevor das Baby da ist.
+      Danach ist es schwieriger, festgefahrene Muster zu ändern.
+      Das betrifft Haushalt, Kinderbetreuung und Berufstätigkeit gleichermaßen.
+    </prosody>
+    <break time="1s"/>
+  </voice>
+
+  <voice name="de-DE-Wavenet-C">
+    <prosody rate="medium">
+      Und das Mehrgenerationenhaus — spielt das eine Rolle?
+    </prosody>
+    <break time="1s"/>
+  </voice>
+
+  <voice name="de-DE-Wavenet-A">
+    <prosody rate="medium">
+      Ja, dieses Modell gewinnt an Bedeutung. Es entlastet zum einen Pflegeeinrichtungen,
+      schafft aber auch gegenseitige Unterstützung über alle Altersgruppen hinweg.
+    </prosody>
+    <break time="1s"/>
+  </voice>
+
+  <voice name="de-DE-Wavenet-C">
+    <prosody rate="medium">
+      Dr. Wendland, vielen Dank!
+      Wenn Sie mehr zu diesem Thema lesen möchten, finden Sie auf unserer Website
+      weiterführende Studien und Beratungsangebote.
+      Das war unser Mittagsmagazin — einen schönen Tag noch!
+    </prosody>
+  </voice>
+
+  <break time="3s"/>
+
+  <!-- Second playback marker — Teil 2 plays TWICE for this mock -->
+  <voice name="de-DE-Wavenet-B">
+    <prosody rate="slow">
+      Sie hören den Text jetzt noch einmal.
+      <break time="5s"/>
+    </prosody>
+  </voice>
+
+  <!-- Repeat of radio feature -->
+  <voice name="de-DE-Wavenet-C">
+    <prosody rate="medium">
+      Herzlich willkommen zu unserem Mittagsmagazin.
+      Heute schauen wir uns an, wie sich das Zusammenleben von Familien in Deutschland verändert hat —
+      und was das für Eltern, Kinder und Großeltern bedeutet.
+    </prosody>
+    <break time="1s"/>
+  </voice>
+
+  <voice name="de-DE-Wavenet-F">
+    <prosody rate="medium">
+      Die Zahlen sprechen für sich: Die Zahl der Alleinerziehenden ist in Deutschland seit 2010
+      kontinuierlich gestiegen — heute liegt sie bei fast 20 Prozent aller Familien.
+    </prosody>
+    <break time="1s"/>
+  </voice>
+
+  <voice name="de-DE-Wavenet-C">
+    <prosody rate="medium">
+      Zu diesen Themen haben wir heute Dr. Kathrin Wendland im Studio —
+      sie leitet am Deutschen Jugendinstitut eine Forschungsgruppe
+      zu modernen Familienmodellen und Patchwork-Familien.
+      Frau Dr. Wendland, herzlich willkommen!
+    </prosody>
+    <break time="1s"/>
+  </voice>
+
+  <voice name="de-DE-Wavenet-A">
+    <prosody rate="medium">
+      Guten Tag, ich freue mich, hier zu sein.
+    </prosody>
+    <break time="1s"/>
+  </voice>
+
+  <voice name="de-DE-Wavenet-C">
+    <prosody rate="medium">
+      Frau Dr. Wendland, sind Patchwork-Familien schlechter für Kinder als traditionelle Familien?
+    </prosody>
+    <break time="1s"/>
+  </voice>
+
+  <voice name="de-DE-Wavenet-A">
+    <prosody rate="medium">
+      Das können wir so nicht sagen. Entscheidend ist nicht die Familienform,
+      sondern die Qualität der Beziehungen.
+      Kinder in Patchwork-Familien können genauso stabile Bindungen entwickeln
+      wie Kinder in traditionellen Familien.
+    </prosody>
+    <break time="1s"/>
+  </voice>
+
+  <voice name="de-DE-Wavenet-F">
+    <prosody rate="medium">
+      Laut einer aktuellen Erhebung sind es im Durchschnitt elf Stunden pro Woche,
+      die Großeltern direkt für die Kinderbetreuung aufwenden.
+    </prosody>
+    <break time="1s"/>
+  </voice>
+
+  <voice name="de-DE-Wavenet-C">
+    <prosody rate="medium">
+      Wie gut unterstützen Unternehmen berufstätige Eltern?
+    </prosody>
+    <break time="1s"/>
+  </voice>
+
+  <voice name="de-DE-Wavenet-A">
+    <prosody rate="medium">
+      Obwohl es gesetzliche Regelungen gibt, bieten nach unserer Erhebung
+      nur rund 40 Prozent der Betriebe wirklich flexible Modelle für Eltern an.
+    </prosody>
+    <break time="1s"/>
+  </voice>
+
+  <voice name="de-DE-Wavenet-C">
+    <prosody rate="medium">
+      Wie sieht es mit Vätern und Elternzeit aus?
+    </prosody>
+    <break time="1s"/>
+  </voice>
+
+  <voice name="de-DE-Wavenet-A">
+    <prosody rate="medium">
+      Der Anteil der Väter, die Elternzeit nehmen, ist gestiegen —
+      liegt aber mit knapp 25 Prozent noch weit hinter dem der Mütter.
+    </prosody>
+    <break time="1s"/>
+  </voice>
+
+  <voice name="de-DE-Wavenet-C">
+    <prosody rate="medium">
+      Was empfehlen Sie Paaren, bevor das erste Kind kommt?
+    </prosody>
+    <break time="1s"/>
+  </voice>
+
+  <voice name="de-DE-Wavenet-A">
+    <prosody rate="medium">
+      Paare sollten diese Gespräche über Aufgabenteilung führen, bevor das Baby da ist.
+      Danach ist es schwieriger, festgefahrene Muster zu ändern.
+    </prosody>
+    <break time="1s"/>
+  </voice>
+
+  <voice name="de-DE-Wavenet-C">
+    <prosody rate="medium">
+      Und das Mehrgenerationenhaus?
+    </prosody>
+    <break time="1s"/>
+  </voice>
+
+  <voice name="de-DE-Wavenet-A">
+    <prosody rate="medium">
+      Ja, dieses Modell gewinnt an Bedeutung. Es entlastet Pflegeeinrichtungen
+      und schafft gegenseitige Unterstützung über alle Altersgruppen hinweg.
+    </prosody>
+    <break time="1s"/>
+  </voice>
+
+  <voice name="de-DE-Wavenet-C">
+    <prosody rate="medium">
+      Dr. Wendland, vielen Dank!
+      Wenn Sie mehr zu diesem Thema lesen möchten, finden Sie auf unserer Website
+      weiterführende Studien und Beratungsangebote.
+    </prosody>
+  </voice>
+
+  <break time="3s"/>
+
+  <voice name="de-DE-Wavenet-B">
+    <prosody rate="slow">Das ist das Ende von Teil 2.</prosody>
+  </voice>
+</speak>

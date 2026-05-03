@@ -1,0 +1,158 @@
+<speak>
+  <!-- B1 Mock 13 — Teil 2 (10 True/False, radio report, playCount=1) -->
+  <!-- Narrator: de-DE-Wavenet-B (male, neutral) rate="slow" — instructions -->
+  <!-- Moderator: de-DE-Wavenet-D (male, warm) rate="medium" — radio host -->
+  <!-- Reiseexpertin Katharina Steiner: de-DE-Wavenet-C (female, clear) rate="medium" — guest expert -->
+  <!-- Zusätzlicher Sprecher: de-DE-Wavenet-F (male, slightly older) rate="medium" — data/statistics voice -->
+  <!-- No repeat — Teil 2 plays ONCE at B1 -->
+  <!-- Topic: Nachhaltiges Reisen in Europa — Züge vs. Flugzeug, Nachtzüge, Fahrrad am Zielort -->
+
+  <break time="3s"/>
+
+  <voice name="de-DE-Wavenet-B">
+    <prosody rate="slow">
+      Hören, Teil 2. Sie hören einen Radiobericht. Entscheiden Sie, ob die folgenden zehn Aussagen
+      richtig oder falsch sind. Sie hören den Text nur einmal.
+    </prosody>
+    <break time="2s"/>
+  </voice>
+
+  <!-- Radio report begins -->
+  <voice name="de-DE-Wavenet-D">
+    <prosody rate="medium">
+      Herzlich willkommen zu unserem Nachmittagsmagazin.
+      In unserer heutigen Sendung sprechen wir über umweltfreundliche Reisemöglichkeiten innerhalb Europas.
+      Nachhaltiges Reisen — das ist unser Thema.
+      Meine Gästin ist Katharina Steiner, Leiterin der Abteilung für nachhaltigen Tourismus
+      beim Europäischen Reiseverband.
+      Herzlich willkommen, Frau Steiner.
+    </prosody>
+    <break time="1s"/>
+  </voice>
+
+  <voice name="de-DE-Wavenet-C">
+    <prosody rate="medium">
+      Guten Tag, vielen Dank für die Einladung.
+    </prosody>
+    <break time="1s"/>
+  </voice>
+
+  <voice name="de-DE-Wavenet-D">
+    <prosody rate="medium">
+      Frau Steiner, viele Menschen denken: Das Flugzeug ist schneller.
+      Stimmt das wirklich immer?
+    </prosody>
+    <break time="1s"/>
+  </voice>
+
+  <voice name="de-DE-Wavenet-C">
+    <prosody rate="medium">
+      Das ist ein weit verbreitetes Missverständnis. Wenn man An- und Abreise zum Flughafen
+      sowie Wartezeiten einrechnet, ist der Zug auf Strecken unter 700 Kilometern
+      oft genauso schnell oder sogar schneller als das Flugzeug.
+    </prosody>
+    <break time="1s"/>
+  </voice>
+
+  <voice name="de-DE-Wavenet-D">
+    <prosody rate="medium">
+      Empfehlen Sie also, nur noch Zug zu fahren und nie mehr zu fliegen?
+    </prosody>
+    <break time="1s"/>
+  </voice>
+
+  <voice name="de-DE-Wavenet-C">
+    <prosody rate="medium">
+      Nein, das wäre zu einfach. Wir wollen niemanden zwingen.
+      Es geht darum, informierte Entscheidungen zu treffen.
+      Für manche Reisen — besonders lange interkontinentale Strecken —
+      ist das Flugzeug nach wie vor die einzige sinnvolle Option.
+    </prosody>
+    <break time="1s"/>
+  </voice>
+
+  <voice name="de-DE-Wavenet-D">
+    <prosody rate="medium">
+      Wie sieht es mit Nachtzügen aus?
+    </prosody>
+    <break time="1s"/>
+  </voice>
+
+  <voice name="de-DE-Wavenet-C">
+    <prosody rate="medium">
+      Nachtzüge erfreuen sich wachsender Beliebtheit — und das aus gutem Grund.
+      Passagiere schlafen im Zug und kommen ausgeruht am Ziel an — ohne extra Reisezeit zu verlieren.
+      Das ist ein echter Mehrwert.
+    </prosody>
+    <break time="1s"/>
+  </voice>
+
+  <voice name="de-DE-Wavenet-D">
+    <prosody rate="medium">
+      Aber wie sieht es mit dem Preis aus? Nachtzüge gelten als teuer.
+    </prosody>
+    <break time="1s"/>
+  </voice>
+
+  <voice name="de-DE-Wavenet-C">
+    <prosody rate="medium">
+      Das ist ein Kritikpunkt, den viele Reisende nennen.
+      Nachtzugtickets auf beliebten Strecken sind oft teurer als Billigflüge —
+      das ist leider noch eine Herausforderung für die Branche.
+    </prosody>
+    <break time="1s"/>
+  </voice>
+
+  <voice name="de-DE-Wavenet-D">
+    <prosody rate="medium">
+      Und am Zielort — wie kommen Reisende dann weiter?
+    </prosody>
+    <break time="1s"/>
+  </voice>
+
+  <voice name="de-DE-Wavenet-C">
+    <prosody rate="medium">
+      Ich empfehle: Am Zielort einfach ein Leihfahrrad nehmen —
+      das ist ideal für kurze Strecken und man sieht gleichzeitig viel mehr von der Stadt.
+    </prosody>
+    <break time="1s"/>
+  </voice>
+
+  <voice name="de-DE-Wavenet-D">
+    <prosody rate="medium">
+      Wer interessiert sich eigentlich am meisten für nachhaltiges Reisen?
+    </prosody>
+    <break time="1s"/>
+  </voice>
+
+  <voice name="de-DE-Wavenet-C">
+    <prosody rate="medium">
+      Interessanterweise ist nachhaltiges Reisen besonders bei jüngeren Leuten
+      zwischen 25 und 40 Jahren gefragt. Das hat mich selbst überrascht.
+    </prosody>
+    <break time="1s"/>
+  </voice>
+
+  <voice name="de-DE-Wavenet-F">
+    <prosody rate="medium">
+      Und noch eine Zahl zur Ergänzung: Mehrtägige Radreisen erfreuen sich wachsender Beliebtheit —
+      laut ADFC-Statistik wurden in den letzten drei Jahren doppelt so viele Fernradreisen unternommen.
+    </prosody>
+    <break time="1s"/>
+  </voice>
+
+  <voice name="de-DE-Wavenet-D">
+    <prosody rate="medium">
+      Frau Steiner, vielen herzlichen Dank für das Gespräch!
+      Alle Infos und einen Vergleich europäischer Bahnverbindungen finden Sie auf unserer Website
+      unter reisen-nachhaltig.de.
+      Das war unser Nachmittagsmagazin — bis zum nächsten Mal!
+    </prosody>
+  </voice>
+
+  <break time="3s"/>
+
+  <voice name="de-DE-Wavenet-B">
+    <prosody rate="slow">Das ist das Ende von Teil 2.</prosody>
+  </voice>
+</speak>
