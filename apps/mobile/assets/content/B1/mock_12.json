@@ -1,0 +1,891 @@
+{
+  "id": "B1_mock_12",
+  "level": "B1",
+  "title": "B1 Übungstest 12: Gesundheit & Lebensstil",
+  "version": 1,
+  "sections": {
+    "listening": {
+      "totalTimeMinutes": 30,
+      "parts": [
+        {
+          "partNumber": 1,
+          "instructions": "Sie hören fünf kurze Texte. Entscheiden Sie bei jedem Text: Ist die Aussage richtig oder falsch? Sie hören jeden Text nur einmal.",
+          "instructionsTranslation": "You will hear five short texts. For each text, decide: Is the statement correct or incorrect? You will hear each text only once.",
+          "audioFile": "assets/audio/B1/mock12/listening_part1.mp3",
+          "playCount": 1,
+          "questions": [
+            {
+              "id": "B1_m12_L1_q1",
+              "type": "true_false",
+              "questionText": "Der Patient soll den Termin in einer Woche absagen.",
+              "options": ["richtig", "falsch"],
+              "correctAnswer": "falsch",
+              "explanation": "Die Rezeptionistin der Arztpraxis sagt: 'Bitte kommen Sie nächsten Dienstag um 10:30 Uhr zu Ihrem Kontrolltermin. Falls Sie verhindert sind, rufen Sie uns bitte bis Montag an.' Der Patient soll nicht absagen, sondern kommen — er soll nur bei Verhinderung anrufen. Die Aussage ist falsch.",
+              "audioTimestamp": 7
+            },
+            {
+              "id": "B1_m12_L1_q2",
+              "type": "true_false",
+              "questionText": "Das Fitnessstudio bietet am Wochenende keinen Kurs an.",
+              "options": ["richtig", "falsch"],
+              "correctAnswer": "falsch",
+              "explanation": "Die Ansage des Fitnessstudios kündigt an: 'Jeden Samstagmorgen um 9 Uhr findet unser neuer Yoga-Flow-Kurs statt — Anmeldung über unsere App.' Am Samstag gibt es also einen Kurs; die Aussage ist falsch.",
+              "audioTimestamp": 9
+            },
+            {
+              "id": "B1_m12_L1_q3",
+              "type": "true_false",
+              "questionText": "Die Apotheke ist am Nachmittag geschlossen.",
+              "options": ["richtig", "falsch"],
+              "correctAnswer": "richtig",
+              "explanation": "Die Ansage lautet: 'Unsere Apotheke ist montags bis freitags von 8 bis 12 Uhr und von 14:30 bis 18 Uhr geöffnet. Samstags nur von 9 bis 13 Uhr.' Die Mittagspause von 12 bis 14:30 Uhr bedeutet: die Apotheke hat am frühen Nachmittag geschlossen — die Aussage ist richtig.",
+              "audioTimestamp": 11
+            },
+            {
+              "id": "B1_m12_L1_q4",
+              "type": "true_false",
+              "questionText": "Die Sprecherin empfiehlt, täglich mindestens 30 Minuten spazieren zu gehen.",
+              "options": ["richtig", "falsch"],
+              "correctAnswer": "richtig",
+              "explanation": "In der Radiosendung sagt die Ärztin: 'Schon ein täglicher Spaziergang von mindestens dreißig Minuten kann das Herzkreislaufsystem deutlich stärken.' Die Aussage gibt das korrekt wieder.",
+              "audioTimestamp": 14
+            },
+            {
+              "id": "B1_m12_L1_q5",
+              "type": "true_false",
+              "questionText": "Das neue Schwimmbad öffnet bereits nächste Woche.",
+              "options": ["richtig", "falsch"],
+              "correctAnswer": "falsch",
+              "explanation": "Die Durchsage der Stadtinformation lautet: 'Das modernisierte Hallenbad am Stadtpark öffnet nach der Renovierung am ersten März.' Es ist also ein fester Termin in der Zukunft, nicht nächste Woche. Die Aussage ist falsch.",
+              "audioTimestamp": 8
+            }
+          ]
+        },
+        {
+          "partNumber": 2,
+          "instructions": "Sie hören ein Interview. Entscheiden Sie, ob die folgenden zehn Aussagen richtig oder falsch sind. Sie hören den Text nur einmal.",
+          "instructionsTranslation": "You will hear an interview. Decide whether the following ten statements are correct or incorrect. You will hear the text only once.",
+          "audioFile": "assets/audio/B1/mock12/listening_part2.mp3",
+          "playCount": 1,
+          "questions": [
+            {
+              "id": "B1_m12_L2_q1",
+              "type": "true_false",
+              "questionText": "Die Ernährungsberaterin Frau Koch arbeitet hauptsächlich mit Sportlern.",
+              "options": ["richtig", "falsch"],
+              "correctAnswer": "falsch",
+              "explanation": "Die Moderatorin fragt explizit nach ihrer Zielgruppe, und Frau Koch antwortet: 'Meine Klienten sind vor allem Berufstätige zwischen 30 und 55, die im Alltag wenig Zeit fürs Kochen haben.' Sportler sind nicht ihre Hauptzielgruppe — die Aussage ist falsch.",
+              "audioTimestamp": 18
+            },
+            {
+              "id": "B1_m12_L2_q2",
+              "type": "true_false",
+              "questionText": "Frau Koch findet, dass ein gutes Frühstück wichtiger ist als das Mittagessen.",
+              "options": ["richtig", "falsch"],
+              "correctAnswer": "richtig",
+              "explanation": "Frau Koch sagt ausdrücklich: 'Das Frühstück ist für mich die wichtigste Mahlzeit des Tages — wer morgens gut isst, hat den halben Tag schon gewonnen.' Sie stellt das Frühstück über das Mittagessen.",
+              "audioTimestamp": 42
+            },
+            {
+              "id": "B1_m12_L2_q3",
+              "type": "true_false",
+              "questionText": "Laut Frau Koch sollte man täglich mehr als zwei Liter Wasser trinken.",
+              "options": ["richtig", "falsch"],
+              "correctAnswer": "falsch",
+              "explanation": "Frau Koch sagt: 'Ich empfehle mindestens eineinhalb bis zwei Liter, abhängig von Körpergewicht und Aktivität.' Sie sagt nicht mehr als zwei Liter — 'mindestens' und 'bis zu' sind der Schlüssel. Die Aussage übertreibt und ist damit falsch. [Trap: numerical near-miss]",
+              "audioTimestamp": 67
+            },
+            {
+              "id": "B1_m12_L2_q4",
+              "type": "true_false",
+              "questionText": "Fertiggerichte sind laut Frau Koch grundsätzlich schlecht und sollte man nie essen.",
+              "options": ["richtig", "falsch"],
+              "correctAnswer": "falsch",
+              "explanation": "Frau Koch differenziert: 'Ich sage meinen Klienten: Ein Fertiggericht ab und zu ist kein Problem. Entscheidend ist das große Ganze.' Gelegentliche Fertiggerichte sind also akzeptabel — 'grundsätzlich nie' ist eine Übertreibung und falsch. [Trap: generalisation]",
+              "audioTimestamp": 89
+            },
+            {
+              "id": "B1_m12_L2_q5",
+              "type": "true_false",
+              "questionText": "Frau Koch hält Intervallfasten für eine Methode, die nicht für jeden geeignet ist.",
+              "options": ["richtig", "falsch"],
+              "correctAnswer": "richtig",
+              "explanation": "Frau Koch erklärt: 'Intervallfasten funktioniert für viele sehr gut, aber Menschen mit Unterzuckerung oder bestimmten Vorerkrankungen sollten das nicht ohne ärztliche Begleitung ausprobieren.' Es ist also nicht universell geeignet.",
+              "audioTimestamp": 112
+            },
+            {
+              "id": "B1_m12_L2_q6",
+              "type": "true_false",
+              "questionText": "Zucker sollte man laut Frau Koch vollständig aus dem Alltag streichen.",
+              "options": ["richtig", "falsch"],
+              "correctAnswer": "falsch",
+              "explanation": "Frau Koch sagt: 'Zucker komplett zu verbieten ist meiner Erfahrung nach kontraproduktiv. Besser ist ein bewusster Umgang.' Sie empfiehlt Bewusstsein, nicht totalen Verzicht — die Aussage ist falsch. [Trap: voice/mood swap]",
+              "audioTimestamp": 138
+            },
+            {
+              "id": "B1_m12_L2_q7",
+              "type": "true_false",
+              "questionText": "Frau Koch hat selbst eine Zeit lang sehr ungesund gegessen.",
+              "options": ["richtig", "falsch"],
+              "correctAnswer": "richtig",
+              "explanation": "Frau Koch erzählt persönlich: 'Ich bin nicht aus heiterem Himmel Ernährungsberaterin geworden — ich hatte selbst in meinen Zwanzigern eine Phase, in der ich sehr schlecht gegessen habe und mich ständig müde fühlte.' Das bestätigt die Aussage.",
+              "audioTimestamp": 162
+            },
+            {
+              "id": "B1_m12_L2_q8",
+              "type": "true_false",
+              "questionText": "Das Gespräch findet im Rahmen einer Abendveranstaltung statt.",
+              "options": ["richtig", "falsch"],
+              "correctAnswer": "falsch",
+              "explanation": "Die Moderatorin begrüßt: 'Guten Morgen, liebe Hörerinnen und Hörer, und willkommen zu unserem Morgenmagazin.' Es ist eine Morgensendung, keine Abendveranstaltung — die Aussage ist falsch.",
+              "audioTimestamp": 5
+            },
+            {
+              "id": "B1_m12_L2_q9",
+              "type": "true_false",
+              "questionText": "Frau Koch empfiehlt, gemeinsam mit anderen Menschen zu essen.",
+              "options": ["richtig", "falsch"],
+              "correctAnswer": "richtig",
+              "explanation": "Frau Koch betont: 'Essen in Gesellschaft verlangsamt das Tempo, man kaut besser und ist danach zufriedener. Ich empfehle meinen Klienten, wann immer möglich, gemeinsam zu essen.' Die Aussage stimmt.",
+              "audioTimestamp": 185
+            },
+            {
+              "id": "B1_m12_L2_q10",
+              "type": "true_false",
+              "questionText": "Am Ende des Interviews nennt Frau Koch eine App, die sie selbst entwickelt hat.",
+              "options": ["richtig", "falsch"],
+              "correctAnswer": "falsch",
+              "explanation": "Frau Koch empfiehlt zwar eine App zur Kalorienerfassung, sagt aber: 'Es gibt eine gute App namens NutriTrack — ich nutze sie selbst gern, habe aber nichts damit zu tun.' Sie hat sie nicht entwickelt. [Trap: subject-swap]",
+              "audioTimestamp": 205
+            }
+          ]
+        },
+        {
+          "partNumber": 3,
+          "instructions": "Sie hören ein Gespräch zwischen zwei Freunden. Zu dem Gespräch gibt es fünf Aufgaben. Was ist richtig? Kreuzen Sie an: a, b oder c. Sie hören das Gespräch zweimal.",
+          "instructionsTranslation": "You will hear a conversation between two friends. There are five tasks about the conversation. What is correct? Mark: a, b, or c. You will hear the conversation twice.",
+          "audioFile": "assets/audio/B1/mock12/listening_part3.mp3",
+          "playCount": 2,
+          "questions": [
+            {
+              "id": "B1_m12_L3_q1",
+              "type": "mcq",
+              "questionText": "Warum hat Jonas angefangen zu laufen?",
+              "options": [
+                "a) Sein Arzt hat ihm dazu geraten, weil er Rückenprobleme hatte.",
+                "b) Ein Freund hat ihn eingeladen, und er wollte es einfach mal ausprobieren.",
+                "c) Er wollte abnehmen und hat dafür einen Trainingsplan erstellt."
+              ],
+              "correctAnswer": "b",
+              "explanation": "Jonas sagt: 'Ich bin ja eher durch Zufall dazu gekommen — Marco hat mich letztes Jahr zu einem Lauftreff mitgenommen, und es hat mir sofort Spaß gemacht.' Option a klingt plausibel, aber Rückenprobleme erwähnt er nicht — das ist eine false-inference-Falle. Option c (Abnehmen, Trainingsplan) ist nicht im Gespräch. [Trap: false-inference (a)]",
+              "audioTimestamp": 12
+            },
+            {
+              "id": "B1_m12_L3_q2",
+              "type": "mcq",
+              "questionText": "Was sagt Julia über ihre Schlafgewohnheiten?",
+              "options": [
+                "a) Sie schläft seit einem Jahr immer vor 22 Uhr.",
+                "b) Sie versucht, früher ins Bett zu gehen, aber es klappt nicht immer.",
+                "c) Sie braucht weniger Schlaf als früher und fühlt sich trotzdem fit."
+              ],
+              "correctAnswer": "b",
+              "explanation": "Julia erklärt: 'Ich nehme mir immer vor, um 23 Uhr zu schlafen — klappt vielleicht drei Mal die Woche. Die anderen Abende sitz ich noch vor dem Laptop.' Option a ist eine time-frame-shift-Falle: 'seit einem Jahr immer' stimmt nicht — sie scheitert regelmäßig. Option c dreht es um: sie fühlt sich nicht immer fit. [Trap: time-frame shift (a)]",
+              "audioTimestamp": 48
+            },
+            {
+              "id": "B1_m12_L3_q3",
+              "type": "mcq",
+              "questionText": "Was ist Jonas' Meinung zu Nahrungsergänzungsmitteln?",
+              "options": [
+                "a) Er nimmt täglich Proteinshakes und empfiehlt sie jedem.",
+                "b) Er hält nichts davon und glaubt, man bekommt alles aus der normalen Ernährung.",
+                "c) Er nimmt manchmal Vitamin D, findet aber, dass die meisten Präparate unnötig sind."
+              ],
+              "correctAnswer": "c",
+              "explanation": "Jonas sagt: 'Ich nehme im Winter Vitamin D, weil man das bei uns wirklich kaum aus der Sonne bekommt. Aber sonst? Diese ganzen Supplements, die man im Fitnessstudio kaufen kann — meistens Geldverschwendung.' Option a ist eine generalisation-Falle (er nimmt nicht täglich Proteinshakes). Option b übertreibt seine Position. [Trap: generalisation (a)]",
+              "audioTimestamp": 82
+            },
+            {
+              "id": "B1_m12_L3_q4",
+              "type": "mcq",
+              "questionText": "Was haben Jonas und Julia für das nächste Wochenende geplant?",
+              "options": [
+                "a) Sie gehen zusammen in ein Schwimmbad.",
+                "b) Sie nehmen an einem 5-km-Lauf teil.",
+                "c) Sie besuchen einen Kochkurs für gesunde Ernährung."
+              ],
+              "correctAnswer": "b",
+              "explanation": "Am Ende des Gesprächs sagt Jonas: 'Also abgemacht — wir melden uns beide für den Stadtlauf an, 5 Kilometer, Sonntag um 10.' Julia antwortet: 'Deal.' Option a (Schwimmbad) wurde kurz erwähnt als Alternative, aber nicht vereinbart — das ist eine causal-reversal-Falle (erwähnt ≠ beschlossen). Option c wird nicht genannt. [Trap: causal reversal (a)]",
+              "audioTimestamp": 128
+            },
+            {
+              "id": "B1_m12_L3_q5",
+              "type": "mcq",
+              "questionText": "Welches Problem nennt Julia in Bezug auf ihren Alltag?",
+              "options": [
+                "a) Sie hat zu wenig Geld, um sich gesund zu ernähren.",
+                "b) Ihr fehlt die Zeit, um regelmäßig Sport zu treiben.",
+                "c) Sie isst zu viel Zucker, weil sie es nicht lassen kann."
+              ],
+              "correctAnswer": "b",
+              "explanation": "Julia sagt: 'Das Hauptproblem bei mir ist einfach die Zeit — zwischen Arbeit, Pendeln und dem ganzen Haushalt bleibt abends kaum Luft für Sport.' Option a (Geld) erwähnt sie nicht — das ist eine false-inference-Falle (gesundes Essen ≠ teures Essen). Option c beschreibt kein Problem, das sie nennt. [Trap: false-inference (a)]",
+              "audioTimestamp": 63
+            }
+          ]
+        }
+      ]
+    },
+    "reading": {
+      "totalTimeMinutes": 60,
+      "parts": [
+        {
+          "partNumber": 1,
+          "instructions": "Lesen Sie zuerst die fünf Situationen (1–5) und dann die acht Überschriften (a–h). Welche Überschrift passt zu welcher Situation? Für jede Situation gibt es genau eine passende Überschrift. Drei Überschriften bleiben übrig.",
+          "instructionsTranslation": "First read the five situations (1–5) and then the eight headlines (a–h). Which headline matches which situation? For each situation there is exactly one matching headline. Three headlines remain unused.",
+          "texts": [
+            { "id": "B1_m12_R1_head_a", "type": "notice", "content": "a) Yoga für Einsteiger: kostenloser Schnupperkurs im Stadtteilzentrum" },
+            { "id": "B1_m12_R1_head_b", "type": "notice", "content": "b) Wandergruppe sucht Mitglieder — jeden Sonntag durch den Stadtwald" },
+            { "id": "B1_m12_R1_head_c", "type": "notice", "content": "c) Neue Studie: Schlafmangel erhöht das Risiko für Herzerkrankungen" },
+            { "id": "B1_m12_R1_head_d", "type": "notice", "content": "d) Ernährungsberatung jetzt auch online verfügbar — flexible Terminbuchung" },
+            { "id": "B1_m12_R1_head_e", "type": "notice", "content": "e) Krankenkasse erstattet Kosten für präventive Sportkurse" },
+            { "id": "B1_m12_R1_head_f", "type": "notice", "content": "f) Mentale Gesundheit: Burnout-Präventionskurs für Berufstätige" },
+            { "id": "B1_m12_R1_head_g", "type": "notice", "content": "g) Lauftreff startet wieder — Anfänger herzlich willkommen" },
+            { "id": "B1_m12_R1_head_h", "type": "notice", "content": "h) Bio-Supermarkt eröffnet neue Filiale im Stadtzentrum" }
+          ],
+          "questions": [
+            {
+              "id": "B1_m12_R1_q1",
+              "type": "matching",
+              "questionText": "1. Frau Albrecht schläft seit Jahren schlecht und hat gehört, dass das gefährlich für die Herzgesundheit sein kann. Sie möchte mehr über die gesundheitlichen Risiken erfahren.",
+              "matchingSources": [
+                { "id": "B1_m12_R1_head_a", "label": "a" }, { "id": "B1_m12_R1_head_b", "label": "b" },
+                { "id": "B1_m12_R1_head_c", "label": "c" }, { "id": "B1_m12_R1_head_d", "label": "d" },
+                { "id": "B1_m12_R1_head_e", "label": "e" }, { "id": "B1_m12_R1_head_f", "label": "f" },
+                { "id": "B1_m12_R1_head_g", "label": "g" }, { "id": "B1_m12_R1_head_h", "label": "h" }
+              ],
+              "correctAnswer": "c",
+              "explanation": "Überschrift c) handelt direkt von der Verbindung zwischen Schlafmangel und Herzerkrankungen — genau das Thema, das Frau Albrecht interessiert. Alle anderen Überschriften betreffen Kurse, Einkaufsmöglichkeiten oder Präventionsangebote."
+            },
+            {
+              "id": "B1_m12_R1_q2",
+              "type": "matching",
+              "questionText": "2. Herr Tanaka ist berufstätig und arbeitet viel. Er fühlt sich ausgebrannt und möchte lernen, besser mit Stress umzugehen, bevor es zu ernst wird.",
+              "matchingSources": [
+                { "id": "B1_m12_R1_head_a", "label": "a" }, { "id": "B1_m12_R1_head_b", "label": "b" },
+                { "id": "B1_m12_R1_head_c", "label": "c" }, { "id": "B1_m12_R1_head_d", "label": "d" },
+                { "id": "B1_m12_R1_head_e", "label": "e" }, { "id": "B1_m12_R1_head_f", "label": "f" },
+                { "id": "B1_m12_R1_head_g", "label": "g" }, { "id": "B1_m12_R1_head_h", "label": "h" }
+              ],
+              "correctAnswer": "f",
+              "explanation": "Überschrift f) bietet einen Burnout-Präventionskurs speziell für Berufstätige an — das trifft genau Herrn Tanakas Situation. Überschrift a (Yoga) könnte als Distraktor wirken, ist aber ein allgemeiner Schnupperkurs ohne Fokus auf Stress oder Burnout."
+            },
+            {
+              "id": "B1_m12_R1_q3",
+              "type": "matching",
+              "questionText": "3. Lena möchte mehr Bewegung in ihren Alltag bringen und mag Natur. Sie sucht eine Gruppe, mit der sie regelmäßig draußen aktiv sein kann — ohne Leistungsdruck.",
+              "matchingSources": [
+                { "id": "B1_m12_R1_head_a", "label": "a" }, { "id": "B1_m12_R1_head_b", "label": "b" },
+                { "id": "B1_m12_R1_head_c", "label": "c" }, { "id": "B1_m12_R1_head_d", "label": "d" },
+                { "id": "B1_m12_R1_head_e", "label": "e" }, { "id": "B1_m12_R1_head_f", "label": "f" },
+                { "id": "B1_m12_R1_head_g", "label": "g" }, { "id": "B1_m12_R1_head_h", "label": "h" }
+              ],
+              "correctAnswer": "b",
+              "explanation": "Überschrift b) bietet eine Wandergruppe in der Natur (Stadtwald) an, die sich regelmäßig trifft. Der Lauftreff (g) ist auch eine Outdoor-Gruppe, aber Laufen hat ein höheres Tempo als Wandern — weniger passend für 'ohne Leistungsdruck'."
+            },
+            {
+              "id": "B1_m12_R1_q4",
+              "type": "matching",
+              "questionText": "4. Familie Winkler möchte beim Lebensmitteleinkauf mehr auf biologische und regionale Produkte achten und sucht ein entsprechendes Angebot in Stadtzentrumsnähe.",
+              "matchingSources": [
+                { "id": "B1_m12_R1_head_a", "label": "a" }, { "id": "B1_m12_R1_head_b", "label": "b" },
+                { "id": "B1_m12_R1_head_c", "label": "c" }, { "id": "B1_m12_R1_head_d", "label": "d" },
+                { "id": "B1_m12_R1_head_e", "label": "e" }, { "id": "B1_m12_R1_head_f", "label": "f" },
+                { "id": "B1_m12_R1_head_g", "label": "g" }, { "id": "B1_m12_R1_head_h", "label": "h" }
+              ],
+              "correctAnswer": "h",
+              "explanation": "Überschrift h) kündigt eine neue Bio-Supermarkt-Filiale im Stadtzentrum an — genau das, was Familie Winkler sucht. Alle anderen Überschriften betreffen Kursangebote oder Informationsveranstaltungen."
+            },
+            {
+              "id": "B1_m12_R1_q5",
+              "type": "matching",
+              "questionText": "5. Herr Özdemir möchte seine Ernährung umstellen, hat aber einen vollen Terminkalender und kann zu keinen festen Zeiten Termine wahrnehmen. Er fragt sich, ob er trotzdem Unterstützung bekommen kann.",
+              "matchingSources": [
+                { "id": "B1_m12_R1_head_a", "label": "a" }, { "id": "B1_m12_R1_head_b", "label": "b" },
+                { "id": "B1_m12_R1_head_c", "label": "c" }, { "id": "B1_m12_R1_head_d", "label": "d" },
+                { "id": "B1_m12_R1_head_e", "label": "e" }, { "id": "B1_m12_R1_head_f", "label": "f" },
+                { "id": "B1_m12_R1_head_g", "label": "g" }, { "id": "B1_m12_R1_head_h", "label": "h" }
+              ],
+              "correctAnswer": "d",
+              "explanation": "Überschrift d) bietet online Ernährungsberatung mit flexibler Terminbuchung an — ideal für jemanden mit vollem Terminkalender. Distraktor e (Krankenkasse erstattet Sportkurse) klingt nach Kostenhilfe, hat aber keinen Bezug zur zeitlichen Flexibilität oder Ernährungsberatung."
+            }
+          ]
+        },
+        {
+          "partNumber": 2,
+          "instructions": "Lesen Sie den Zeitungsartikel. Was ist richtig? Kreuzen Sie an: a, b oder c.",
+          "instructionsTranslation": "Read the newspaper article. What is correct? Mark: a, b, or c.",
+          "texts": [
+            {
+              "id": "B1_m12_R2_article",
+              "type": "article",
+              "content": "Sport auf Rezept — wenn der Arzt die Laufschuhe verschreibt\n\nEin Gespräch mit Dr. Markus Feiler, Sportmediziner am Klinikum Augsburg\n\nSeit einigen Jahren arbeitet Dr. Markus Feiler nicht nur in der Behandlung von Sportverletzungen, sondern auch in der Prävention. In seinem Büro hängen keine Diplome, sondern Fotos von Patienten, die nach einer Herzoperation ihren ersten 5-km-Lauf beendet haben.\n\nHerr Dr. Feiler, Sie verschreiben Ihren Patienten Sport. Wie funktioniert das genau?\n\nGanz simpel: Ich schreibe in den Befund nicht nur Medikamente, sondern auch eine klare Bewegungsempfehlung — dreimal pro Woche 30 Minuten moderate Ausdauerbelastung, zum Beispiel zügiges Gehen oder Radfahren. Manche Krankenkassen erstatten bereits die Kosten für bestimmte Präventionskurse, wenn ein Arzt sie empfiehlt.\n\nWas waren Ihre Erfahrungen bisher?\n\nDie Ergebnisse sind beeindruckend. Patienten mit Bluthochdruck, die dreimal wöchentlich spazieren gehen, können ihren systolischen Blutdruck um 5 bis 10 mmHg senken — das entspricht der Wirkung eines leichten Blutdruckmittels. Das sage ich meinen Patienten immer, um sie zu motivieren: Bewegung ist ein Medikament, nur ohne Nebenwirkungen.\n\nGibt es auch Grenzen dieser Methode?\n\nNatürlich. Sport ersetzt keine Medikamente bei akuten Erkrankungen. Und es gibt Menschen, für die intensive Bewegung nicht geeignet ist — zum Beispiel Patienten mit bestimmten Herzrhythmusstörungen. Die brauchen erst eine gründliche Untersuchung. Ich schicke keinen Patienten ungeprüft auf die Laufstrecke.\n\nWas antworten Sie Patienten, die sagen: 'Ich bin einfach kein Sporttyp'?\n\nDann sage ich: Sport muss kein Marathon sein. Tanzen, Gartenarbeit, mit dem Hund spazieren — all das zählt. Was zählt, ist regelmäßige Bewegung, die man gerne macht. Wer Sport als Strafe betrachtet, hört bald wieder auf. Ich frage jeden Patienten: Was haben Sie früher gerne gemacht? Da fangen wir an.\n\nIst das der Schlüssel — die Freude an der Bewegung?\n\nFür die Langzeitmotivation, ja. Studien zeigen: Wer Sport mit einem sozialen Element verbindet — einer Gruppe, einem Trainingspartner — bleibt länger dabei. Deshalb empfehle ich Vereine und Lauftreffs stärker als einsames Joggen.",
+              "source": "Gesundheitsmagazin Aktiv, März 2026"
+            }
+          ],
+          "questions": [
+            {
+              "id": "B1_m12_R2_q1",
+              "type": "mcq",
+              "questionText": "Was ist Besonderes an Dr. Feilers Praxis als Sportmediziner?",
+              "relatedTextId": "B1_m12_R2_article",
+              "options": [
+                "a) Er behandelt nur Leistungssportler nach Verletzungen.",
+                "b) Er empfiehlt neben Medikamenten auch konkrete Bewegungsprogramme als Therapie.",
+                "c) Er arbeitet ausschließlich mit Herzpatienten."
+              ],
+              "correctAnswer": "b",
+              "explanation": "Der Artikel beschreibt: Er schreibt in den Befund 'nicht nur Medikamente, sondern auch eine klare Bewegungsempfehlung'. Er arbeitet also kombiniert. Option a stimmt nicht — er arbeitet auch in der Prävention. Option c ist eine false-inference-Falle: Herzpatienten werden als Beispiel genannt, nicht als einzige Gruppe. [Trap: false-inference (c)]",
+              "audioTimestamp": null
+            },
+            {
+              "id": "B1_m12_R2_q2",
+              "type": "mcq",
+              "questionText": "Mit welchem Vergleich motiviert Dr. Feiler seine Patienten zum Spazierengehen?",
+              "relatedTextId": "B1_m12_R2_article",
+              "options": [
+                "a) Er sagt, Spazierengehen macht mehr Spaß als ein Fitnessstudio.",
+                "b) Er erklärt, dass Spazierengehen ähnlich wie ein leichtes Blutdruckmittel wirkt.",
+                "c) Er zeigt Fotos von Patienten, die Marathons gelaufen sind."
+              ],
+              "correctAnswer": "b",
+              "explanation": "Dr. Feiler sagt direkt: 'Bewegung ist ein Medikament, nur ohne Nebenwirkungen' und erklärt, dass dreimal wöchentliches Gehen den Blutdruck ähnlich senkt wie ein leichtes Blutdruckmittel. Option c ist eine subject-swap-Falle: die Fotos zeigen den ersten 5-km-Lauf nach einer Herzoperation, keinen Marathon. [Trap: subject-swap (c)]",
+              "audioTimestamp": null
+            },
+            {
+              "id": "B1_m12_R2_q3",
+              "type": "mcq",
+              "questionText": "Welche Einschränkung nennt Dr. Feiler bei der Methode 'Sport auf Rezept'?",
+              "relatedTextId": "B1_m12_R2_article",
+              "options": [
+                "a) Die Methode ist nur für Patienten unter 50 Jahren geeignet.",
+                "b) Sport kann bei akuten Erkrankungen Medikamente nicht ersetzen und ist nicht für jeden geeignet.",
+                "c) Die Krankenkassen zahlen die Kosten grundsätzlich nicht."
+              ],
+              "correctAnswer": "b",
+              "explanation": "Dr. Feiler nennt zwei Grenzen: Sport ersetzt keine Medikamente bei akuten Erkrankungen, und bei bestimmten Herzrhythmusstörungen ist intensive Bewegung nicht geeignet. Option a (Altersgrenze 50) wird nirgends erwähnt — das ist eine false-inference-Falle. Option c widerspricht dem Text: 'Manche Krankenkassen erstatten bereits die Kosten'. [Trap: false-inference (a), voice/mood swap (c)]",
+              "audioTimestamp": null
+            },
+            {
+              "id": "B1_m12_R2_q4",
+              "type": "mcq",
+              "questionText": "Was empfiehlt Dr. Feiler Patienten, die sich nicht als Sporttyp sehen?",
+              "relatedTextId": "B1_m12_R2_article",
+              "options": [
+                "a) Er schlägt vor, mit kleinen Alltagsaktivitäten anzufangen, die man gerne macht.",
+                "b) Er erklärt, dass man mindestens dreimal pro Woche ins Fitnessstudio gehen sollte.",
+                "c) Er empfiehlt, zuerst einen Ernährungsplan zu erstellen."
+              ],
+              "correctAnswer": "a",
+              "explanation": "Dr. Feiler sagt: 'Tanzen, Gartenarbeit, mit dem Hund spazieren — all das zählt' und 'Was haben Sie früher gerne gemacht? Da fangen wir an.' Er empfiehlt also vertraute, angenehme Aktivitäten. Option b ist eine numerical-near-miss-Falle: er nennt dreimal pro Woche als allgemeine Empfehlung, nicht spezifisch fürs Fitnessstudio. Option c (Ernährungsplan) wird nicht erwähnt. [Trap: numerical near-miss (b)]",
+              "audioTimestamp": null
+            },
+            {
+              "id": "B1_m12_R2_q5",
+              "type": "mcq",
+              "questionText": "Worauf führt Dr. Feiler die Langzeitmotivation beim Sport zurück?",
+              "relatedTextId": "B1_m12_R2_article",
+              "options": [
+                "a) Auf strikte Trainingspläne und regelmäßige ärztliche Kontrollen.",
+                "b) Auf das soziale Element — Sport mit anderen Menschen.",
+                "c) Auf das Ziel, einen Wettkampf zu gewinnen."
+              ],
+              "correctAnswer": "b",
+              "explanation": "Dr. Feiler erklärt: 'Wer Sport mit einem sozialen Element verbindet — einer Gruppe, einem Trainingspartner — bleibt länger dabei.' Das ist die explizit genannte Langzeitmotivation. Option a klingt medizinisch plausibel, wird aber nicht als Grund für Motivation genannt — causal-reversal-Falle. Option c (Wettkampf) wird nicht erwähnt. [Trap: causal reversal (a)]",
+              "audioTimestamp": null
+            }
+          ]
+        },
+        {
+          "partNumber": 3,
+          "instructions": "Sie lesen zehn Situationen (1–10) und zwölf kurze Anzeigen (a–l). Welche Anzeige passt zu welcher Situation? Für jede Situation gibt es genau eine passende Anzeige. Zwei Anzeigen bleiben übrig.",
+          "instructionsTranslation": "You read ten situations (1–10) and twelve short advertisements (a–l). Which advertisement matches which situation? For each situation there is exactly one matching advertisement. Two advertisements remain unused.",
+          "texts": [
+            { "id": "B1_m12_R3_ad_a", "type": "ad", "content": "a) FITNESSSTUDIO POWERZONE — Mitgliedschaft ab 29 €/Monat. Geräte, Kurse, Sauna. Mo–Fr 6–23 Uhr, Sa/So 8–20 Uhr. Keine Anmeldegebühr im Mai. Probetraining kostenlos. Tel. 0821 / 334 67" },
+            { "id": "B1_m12_R3_ad_b", "type": "ad", "content": "b) Yogakurs für Anfänger — 8 Einheiten, dienstags 18:30 Uhr, Kulturzentrum Mitte. 60 €. Körper und Geist in Einklang bringen. Anmeldung: yoga-mitte@web.de. Matte bitte mitbringen." },
+            { "id": "B1_m12_R3_ad_c", "type": "ad", "content": "c) MASSAGE & WOHLBEFINDEN — Klassische Rückenmassage 45 Min. / 55 €. Sportmassage auf Anfrage. Termine auch abends und samstags. Gabriele Huber, Heilpraktikerin, Tel. 0821 / 556 78 12" },
+            { "id": "B1_m12_R3_ad_d", "type": "ad", "content": "d) Physiotherapie Zentrum Augsburg — Krankengymnastik, Manuelle Therapie, Lymphdrainage. Kassenpatienten willkommen. Hausbesuche möglich. Terminvereinbarung: 0821 / 778 90" },
+            { "id": "B1_m12_R3_ad_e", "type": "ad", "content": "e) Ernährungsberatung Dr. med. S. Hoffmann — Individuelle Beratung zu gesunder Ernährung, Gewichtsmanagement, Nahrungsmittelunverträglichkeiten. Kassenleistung auf Anfrage. Online-Termine verfügbar. www.ernaehrung-hoffmann.de" },
+            { "id": "B1_m12_R3_ad_f", "type": "ad", "content": "f) SCHLAFCOACHING — Schlecht schlafen? In 6 Wochen zu besserem Schlaf. Einzelsitzungen oder Kurs (8 Personen). Dr. P. Albrecht, zertifizierter Schlaftherapeut. Erstgespräch kostenlos. Tel. 0821 / 223 44" },
+            { "id": "B1_m12_R3_ad_g", "type": "ad", "content": "g) MindBalance App — Tägliche Meditationen, Atemübungen und Schlaf-Routinen. Kostenlos für 14 Tage testen. Danach 8,99 €/Monat. App Store & Google Play." },
+            { "id": "B1_m12_R3_ad_h", "type": "ad", "content": "h) BioMarkt Grüne Erde — Täglich frische Bio-Lebensmittel, regionale Produkte, Naturkosmetik. Mo–Sa 8–20 Uhr. Lieferdienst ab 30 € Bestellwert kostenlos. Hauptstraße 17." },
+            { "id": "B1_m12_R3_ad_i", "type": "ad", "content": "i) Wandergruppe Naturfreunde — Jeden Sonntag, 9 Uhr, Parkplatz Forsthaus. Mittelschwere Touren, 10–15 km. Alle Niveaus willkommen. Anmeldung nicht nötig. Infos: naturfreunde-augsburg.de" },
+            { "id": "B1_m12_R3_ad_j", "type": "ad", "content": "j) LAUFTREFF STADTMITTE — Mittwochs und freitags, 18 Uhr, Treffpunkt Stadtbrunnen. Alle Tempos, auch Anfänger. Kostenlos, keine Anmeldung. Einfach vorbeikommen." },
+            { "id": "B1_m12_R3_ad_k", "type": "ad", "content": "k) Schwimmkurs für Erwachsene — 10 Einheiten, donnerstags 19 Uhr, Hallenbad West. Anfänger und Wiedereinsteiger. 120 €. Anmeldung bis 15. Mai: hallenbad-west.de" },
+            { "id": "B1_m12_R3_ad_l", "type": "ad", "content": "l) KRANKENKASSE SÜDPLUS — Bonusprogramm für Gesundheitskurse! Bis zu 150 €/Jahr erstattet für zertifizierte Kurse in Ernährung, Sport und Stressbewältigung. Infos: südplus.de/bonus" }
+          ],
+          "questions": [
+            {
+              "id": "B1_m12_R3_q1",
+              "type": "matching",
+              "questionText": "1. Herr Berger hat chronische Rückenschmerzen und wurde von seinem Arzt an eine Praxis überwiesen, die Kassenleistungen anbietet und auch Hausbesuche macht.",
+              "matchingSources": [
+                { "id": "B1_m12_R3_ad_a", "label": "a" }, { "id": "B1_m12_R3_ad_b", "label": "b" },
+                { "id": "B1_m12_R3_ad_c", "label": "c" }, { "id": "B1_m12_R3_ad_d", "label": "d" },
+                { "id": "B1_m12_R3_ad_e", "label": "e" }, { "id": "B1_m12_R3_ad_f", "label": "f" },
+                { "id": "B1_m12_R3_ad_g", "label": "g" }, { "id": "B1_m12_R3_ad_h", "label": "h" },
+                { "id": "B1_m12_R3_ad_i", "label": "i" }, { "id": "B1_m12_R3_ad_j", "label": "j" },
+                { "id": "B1_m12_R3_ad_k", "label": "k" }, { "id": "B1_m12_R3_ad_l", "label": "l" }
+              ],
+              "correctAnswer": "d",
+              "explanation": "Anzeige d) Physiotherapie bietet Krankengymnastik, Kassenpatienten willkommen und Hausbesuche — alle drei Kriterien von Herrn Berger erfüllt. Anzeige c (Massage) könnte verlockend sein, aber sie ist keine kassenärztliche Leistung und bietet keine Hausbesuche."
+            },
+            {
+              "id": "B1_m12_R3_q2",
+              "type": "matching",
+              "questionText": "2. Frau Meier schläft seit Monaten schlecht und möchte professionelle Hilfe — sie möchte sich erst kostenlos informieren, bevor sie sich für etwas entscheidet.",
+              "matchingSources": [
+                { "id": "B1_m12_R3_ad_a", "label": "a" }, { "id": "B1_m12_R3_ad_b", "label": "b" },
+                { "id": "B1_m12_R3_ad_c", "label": "c" }, { "id": "B1_m12_R3_ad_d", "label": "d" },
+                { "id": "B1_m12_R3_ad_e", "label": "e" }, { "id": "B1_m12_R3_ad_f", "label": "f" },
+                { "id": "B1_m12_R3_ad_g", "label": "g" }, { "id": "B1_m12_R3_ad_h", "label": "h" },
+                { "id": "B1_m12_R3_ad_i", "label": "i" }, { "id": "B1_m12_R3_ad_j", "label": "j" },
+                { "id": "B1_m12_R3_ad_k", "label": "k" }, { "id": "B1_m12_R3_ad_l", "label": "l" }
+              ],
+              "correctAnswer": "f",
+              "explanation": "Anzeige f) Schlafcoaching bietet professionelle Hilfe bei Schlafproblemen und ein kostenloses Erstgespräch — genau das, was Frau Meier sucht. Anzeige g (App) ist keine professionelle Einzelberatung."
+            },
+            {
+              "id": "B1_m12_R3_q3",
+              "type": "matching",
+              "questionText": "3. Kai möchte mit dem Laufen anfangen, kennt aber noch niemanden in der Stadt und sucht eine Gruppe, die sich regelmäßig trifft — ohne Kosten und Anmeldung.",
+              "matchingSources": [
+                { "id": "B1_m12_R3_ad_a", "label": "a" }, { "id": "B1_m12_R3_ad_b", "label": "b" },
+                { "id": "B1_m12_R3_ad_c", "label": "c" }, { "id": "B1_m12_R3_ad_d", "label": "d" },
+                { "id": "B1_m12_R3_ad_e", "label": "e" }, { "id": "B1_m12_R3_ad_f", "label": "f" },
+                { "id": "B1_m12_R3_ad_g", "label": "g" }, { "id": "B1_m12_R3_ad_h", "label": "h" },
+                { "id": "B1_m12_R3_ad_i", "label": "i" }, { "id": "B1_m12_R3_ad_j", "label": "j" },
+                { "id": "B1_m12_R3_ad_k", "label": "k" }, { "id": "B1_m12_R3_ad_l", "label": "l" }
+              ],
+              "correctAnswer": "j",
+              "explanation": "Anzeige j) Lauftreff ist kostenlos, keine Anmeldung nötig, für Anfänger geeignet, trifft sich regelmäßig. Anzeige i (Wandergruppe) ist ebenfalls kostenlos und ohne Anmeldung — aber es ist Wandern, nicht Laufen."
+            },
+            {
+              "id": "B1_m12_R3_q4",
+              "type": "matching",
+              "questionText": "4. Frau Schmidt hat eine Nahrungsmittelunverträglichkeit und möchte mit einem Arzt sprechen, der sich auf Ernährung spezialisiert hat — sie kann auch online Termine machen.",
+              "matchingSources": [
+                { "id": "B1_m12_R3_ad_a", "label": "a" }, { "id": "B1_m12_R3_ad_b", "label": "b" },
+                { "id": "B1_m12_R3_ad_c", "label": "c" }, { "id": "B1_m12_R3_ad_d", "label": "d" },
+                { "id": "B1_m12_R3_ad_e", "label": "e" }, { "id": "B1_m12_R3_ad_f", "label": "f" },
+                { "id": "B1_m12_R3_ad_g", "label": "g" }, { "id": "B1_m12_R3_ad_h", "label": "h" },
+                { "id": "B1_m12_R3_ad_i", "label": "i" }, { "id": "B1_m12_R3_ad_j", "label": "j" },
+                { "id": "B1_m12_R3_ad_k", "label": "k" }, { "id": "B1_m12_R3_ad_l", "label": "l" }
+              ],
+              "correctAnswer": "e",
+              "explanation": "Anzeige e) nennt explizit Nahrungsmittelunverträglichkeiten als Beratungsfeld und bietet Online-Termine an. Anzeige d (Physiotherapie) ist medizinisch, hat aber nichts mit Ernährung zu tun."
+            },
+            {
+              "id": "B1_m12_R3_q5",
+              "type": "matching",
+              "questionText": "5. Herr Patel möchte Yoga ausprobieren — er ist Anfänger und sucht einen strukturierten Kurs über mehrere Wochen.",
+              "matchingSources": [
+                { "id": "B1_m12_R3_ad_a", "label": "a" }, { "id": "B1_m12_R3_ad_b", "label": "b" },
+                { "id": "B1_m12_R3_ad_c", "label": "c" }, { "id": "B1_m12_R3_ad_d", "label": "d" },
+                { "id": "B1_m12_R3_ad_e", "label": "e" }, { "id": "B1_m12_R3_ad_f", "label": "f" },
+                { "id": "B1_m12_R3_ad_g", "label": "g" }, { "id": "B1_m12_R3_ad_h", "label": "h" },
+                { "id": "B1_m12_R3_ad_i", "label": "i" }, { "id": "B1_m12_R3_ad_j", "label": "j" },
+                { "id": "B1_m12_R3_ad_k", "label": "k" }, { "id": "B1_m12_R3_ad_l", "label": "l" }
+              ],
+              "correctAnswer": "b",
+              "explanation": "Anzeige b) bietet einen 8-Einheiten-Yogakurs ausdrücklich für Anfänger an — strukturiert über mehrere Wochen. Anzeige a (Fitnessstudio) hat zwar Kurse, aber Yoga für Anfänger wird nicht als eigenes Angebot ausgewiesen."
+            },
+            {
+              "id": "B1_m12_R3_q6",
+              "type": "matching",
+              "questionText": "6. Miriam hat Stress bei der Arbeit und schafft es nicht, zum Sport zu gehen. Sie sucht etwas, das sie täglich für ein paar Minuten entspannen lässt — am liebsten auf dem Handy.",
+              "matchingSources": [
+                { "id": "B1_m12_R3_ad_a", "label": "a" }, { "id": "B1_m12_R3_ad_b", "label": "b" },
+                { "id": "B1_m12_R3_ad_c", "label": "c" }, { "id": "B1_m12_R3_ad_d", "label": "d" },
+                { "id": "B1_m12_R3_ad_e", "label": "e" }, { "id": "B1_m12_R3_ad_f", "label": "f" },
+                { "id": "B1_m12_R3_ad_g", "label": "g" }, { "id": "B1_m12_R3_ad_h", "label": "h" },
+                { "id": "B1_m12_R3_ad_i", "label": "i" }, { "id": "B1_m12_R3_ad_j", "label": "j" },
+                { "id": "B1_m12_R3_ad_k", "label": "k" }, { "id": "B1_m12_R3_ad_l", "label": "l" }
+              ],
+              "correctAnswer": "g",
+              "explanation": "Anzeige g) MindBalance App bietet tägliche Meditationen und Atemübungen auf dem Handy — ideal für kurze tägliche Entspannung. Anzeige b (Yoga) ist ein wöchentlicher Präsenzkurs — nicht täglich und nicht mobil."
+            },
+            {
+              "id": "B1_m12_R3_q7",
+              "type": "matching",
+              "questionText": "7. Familie Gruber kauft gerne bio, hat aber wenig Zeit für Einkäufe und würde die Lebensmittel gerne liefern lassen.",
+              "matchingSources": [
+                { "id": "B1_m12_R3_ad_a", "label": "a" }, { "id": "B1_m12_R3_ad_b", "label": "b" },
+                { "id": "B1_m12_R3_ad_c", "label": "c" }, { "id": "B1_m12_R3_ad_d", "label": "d" },
+                { "id": "B1_m12_R3_ad_e", "label": "e" }, { "id": "B1_m12_R3_ad_f", "label": "f" },
+                { "id": "B1_m12_R3_ad_g", "label": "g" }, { "id": "B1_m12_R3_ad_h", "label": "h" },
+                { "id": "B1_m12_R3_ad_i", "label": "i" }, { "id": "B1_m12_R3_ad_j", "label": "j" },
+                { "id": "B1_m12_R3_ad_k", "label": "k" }, { "id": "B1_m12_R3_ad_l", "label": "l" }
+              ],
+              "correctAnswer": "h",
+              "explanation": "Anzeige h) BioMarkt bietet täglich frische Bio-Lebensmittel und einen kostenlosen Lieferdienst ab 30 € Bestellwert. Das erfüllt beide Anforderungen der Familie Gruber: bio und Lieferung."
+            },
+            {
+              "id": "B1_m12_R3_q8",
+              "type": "matching",
+              "questionText": "8. Nina kann nicht schwimmen und möchte das als Erwachsene nachholen. Sie sucht einen organisierten Kurs in einem Hallenbad.",
+              "matchingSources": [
+                { "id": "B1_m12_R3_ad_a", "label": "a" }, { "id": "B1_m12_R3_ad_b", "label": "b" },
+                { "id": "B1_m12_R3_ad_c", "label": "c" }, { "id": "B1_m12_R3_ad_d", "label": "d" },
+                { "id": "B1_m12_R3_ad_e", "label": "e" }, { "id": "B1_m12_R3_ad_f", "label": "f" },
+                { "id": "B1_m12_R3_ad_g", "label": "g" }, { "id": "B1_m12_R3_ad_h", "label": "h" },
+                { "id": "B1_m12_R3_ad_i", "label": "i" }, { "id": "B1_m12_R3_ad_j", "label": "j" },
+                { "id": "B1_m12_R3_ad_k", "label": "k" }, { "id": "B1_m12_R3_ad_l", "label": "l" }
+              ],
+              "correctAnswer": "k",
+              "explanation": "Anzeige k) bietet einen Schwimmkurs für Erwachsene im Hallenbad an, ausdrücklich für Anfänger und Wiedereinsteiger. Das passt genau zu Nina."
+            },
+            {
+              "id": "B1_m12_R3_q9",
+              "type": "matching",
+              "questionText": "9. Tobias hat eine stressige Arbeitswoche hinter sich und möchte sich am Samstag eine professionelle Massage gönnen — abends wäre ideal.",
+              "matchingSources": [
+                { "id": "B1_m12_R3_ad_a", "label": "a" }, { "id": "B1_m12_R3_ad_b", "label": "b" },
+                { "id": "B1_m12_R3_ad_c", "label": "c" }, { "id": "B1_m12_R3_ad_d", "label": "d" },
+                { "id": "B1_m12_R3_ad_e", "label": "e" }, { "id": "B1_m12_R3_ad_f", "label": "f" },
+                { "id": "B1_m12_R3_ad_g", "label": "g" }, { "id": "B1_m12_R3_ad_h", "label": "h" },
+                { "id": "B1_m12_R3_ad_i", "label": "i" }, { "id": "B1_m12_R3_ad_j", "label": "j" },
+                { "id": "B1_m12_R3_ad_k", "label": "k" }, { "id": "B1_m12_R3_ad_l", "label": "l" }
+              ],
+              "correctAnswer": "c",
+              "explanation": "Anzeige c) bietet Rückenmassage, Termine auch samstags und abends. Tobias braucht genau das: professionelle Massage am Samstag, gerne abends."
+            },
+            {
+              "id": "B1_m12_R3_q10",
+              "type": "matching",
+              "questionText": "10. Frau Lauer macht regelmäßig Sport in einem zertifizierten Kurs und möchte wissen, ob ihre Krankenkasse die Kosten ganz oder teilweise übernimmt.",
+              "matchingSources": [
+                { "id": "B1_m12_R3_ad_a", "label": "a" }, { "id": "B1_m12_R3_ad_b", "label": "b" },
+                { "id": "B1_m12_R3_ad_c", "label": "c" }, { "id": "B1_m12_R3_ad_d", "label": "d" },
+                { "id": "B1_m12_R3_ad_e", "label": "e" }, { "id": "B1_m12_R3_ad_f", "label": "f" },
+                { "id": "B1_m12_R3_ad_g", "label": "g" }, { "id": "B1_m12_R3_ad_h", "label": "h" },
+                { "id": "B1_m12_R3_ad_i", "label": "i" }, { "id": "B1_m12_R3_ad_j", "label": "j" },
+                { "id": "B1_m12_R3_ad_k", "label": "k" }, { "id": "B1_m12_R3_ad_l", "label": "l" }
+              ],
+              "correctAnswer": "l",
+              "explanation": "Anzeige l) Krankenkasse SüdPlus erklärt ihr Bonusprogramm: bis zu 150 €/Jahr für zertifizierte Gesundheitskurse. Das ist genau die Information, die Frau Lauer sucht. Anzeigen a, b und k sind Kursanbieter, keine Krankenkassen."
+            }
+          ]
+        }
+      ]
+    },
+    "sprachbausteine": {
+      "parts": [
+        {
+          "partNumber": 1,
+          "instructions": "Lesen Sie den folgenden Text und entscheiden Sie, welches Wort (a, b oder c) in die Lücke passt. Es gibt jeweils nur eine richtige Lösung.",
+          "text": "Sehr geehrte Damen und Herren,\n\nich schreibe Ihnen __(1)__ Ihrer Anzeige im Stadtanzeiger vom 12. April. Darin bieten Sie __(2)__ Ernährungsprogramm für Berufstätige an, das mich sehr interessiert. Ich leide __(3)__ langer Zeit an Verdauungsproblemen und möchte meine Ernährung grundlegend umstellen. Leider fehlt mir das nötige Fachwissen, __(4)__ ich dies alleine angehen könnte.\n\nIch würde gerne wissen, __(5)__ das Programm auch für Menschen mit einer Laktoseintoleranz geeignet ist. __(6)__ meiner bisherigen Erfahrung bereitet mir Milch immer große Probleme, weshalb ich bei bestimmten Lebensmitteln sehr vorsichtig sein __(7)__.\n\nBitte teilen Sie mir auch mit, __(8)__ viele Beratungsgespräche in dem Programm enthalten sind und ob die Kosten __(9)__ von der Krankenkasse erstattet werden können. Ich wäre Ihnen sehr dankbar, __(10)__ Sie mir baldmöglichst Informationen zusenden würden.\n\nMit freundlichen Grüßen\nKlaus Hartwig",
+          "questions": [
+            {
+              "blankNumber": 1,
+              "type": "mcq",
+              "options": ["a) wegen", "b) aufgrund", "c) bezüglich"],
+              "correctAnswer": "c",
+              "explanation": "'bezüglich + Genitiv' ist die übliche formelle Formulierung in Geschäftsbriefen für 'in Bezug auf'. 'wegen' ist umgangssprachlicher und wird eher für Gründe verwendet. 'aufgrund' würde eine Ursache ausdrücken (wegen des Grundes), passt aber stilistisch weniger zur schriftlichen Anfrage auf eine Anzeige. [Distraktor b: lexical register]"
+            },
+            {
+              "blankNumber": 2,
+              "type": "mcq",
+              "options": ["a) ein", "b) einen", "c) einem"],
+              "correctAnswer": "b",
+              "explanation": "'anbieten' + Akkusativobjekt: 'Sie bieten ein Programm an' → Akkusativ Maskulinum = 'einen'. 'ein' wäre Nominativ oder Neutrum Akkusativ. 'einem' wäre Dativ."
+            },
+            {
+              "blankNumber": 3,
+              "type": "mcq",
+              "options": ["a) seit", "b) vor", "c) ab"],
+              "correctAnswer": "a",
+              "explanation": "'seit langer Zeit' — seit + Dativ drückt aus, dass der Zustand bis jetzt andauert. 'vor langer Zeit' würde bedeuten, dass es in der Vergangenheit war und nicht mehr andauert. 'ab' ist zukunftsorientiert."
+            },
+            {
+              "blankNumber": 4,
+              "type": "mcq",
+              "options": ["a) damit", "b) sodass", "c) obwohl"],
+              "correctAnswer": "b",
+              "explanation": "'sodass' leitet einen Konsekutivsatz ein: 'Mir fehlt das Wissen, sodass ich es nicht alleine angehen könnte.' Die Folge ist, dass er es nicht alleine schafft. 'damit' würde einen Zweck ausdrücken. 'obwohl' wäre konzessiv und inhaltlich falsch."
+            },
+            {
+              "blankNumber": 5,
+              "type": "mcq",
+              "options": ["a) ob", "b) dass", "c) wenn"],
+              "correctAnswer": "a",
+              "explanation": "Indirekte Ja/Nein-Frage: 'Ich würde gerne wissen, ob das Programm geeignet ist.' 'ob' leitet indirekte Fragesätze ein. 'dass' würde einen Aussagesatz einleiten. 'wenn' ist temporal oder konditional."
+            },
+            {
+              "blankNumber": 6,
+              "type": "mcq",
+              "options": ["a) Nach", "b) Laut", "c) Gemäß"],
+              "correctAnswer": "a",
+              "explanation": "'Nach meiner bisherigen Erfahrung' — feste Formel mit 'nach + Dativ' zur Einleitung persönlicher Erfahrungen oder Quellen. 'Laut' wird häufiger für externe Quellen verwendet ('Laut Studie ...'). 'Gemäß' ist rechtssprachlich formal und ungewöhnlich in persönlichen Briefen."
+            },
+            {
+              "blankNumber": 7,
+              "type": "mcq",
+              "options": ["a) muss", "b) darf", "c) soll"],
+              "correctAnswer": "a",
+              "explanation": "'Ich muss bei bestimmten Lebensmitteln vorsichtig sein' — Notwendigkeit aus gesundheitlichen Gründen. 'darf nicht' würde ein Verbot ausdrücken (von außen auferlegt). 'soll' würde einen Auftrag von jemand anderem ausdrücken."
+            },
+            {
+              "blankNumber": 8,
+              "type": "mcq",
+              "options": ["a) wie", "b) wann", "c) warum"],
+              "correctAnswer": "a",
+              "explanation": "'Bitte teilen Sie mir mit, wie viele Beratungsgespräche enthalten sind.' Indirekte Frage nach Anzahl. 'wann' fragt nach Zeit. 'warum' fragt nach Gründen."
+            },
+            {
+              "blankNumber": 9,
+              "type": "mcq",
+              "options": ["a) teilweise", "b) teils", "c) partiell"],
+              "correctAnswer": "a",
+              "explanation": "'teilweise von der Krankenkasse erstattet' — 'teilweise' ist das übliche Adverb in Alltagssprache für 'zu einem Teil'. 'teils' steht in der Paarformel 'teils ... teils ...' und passt syntaktisch nicht hier. 'partiell' ist ein Fachwort aus dem akademischen Register."
+            },
+            {
+              "blankNumber": 10,
+              "type": "mcq",
+              "options": ["a) wenn", "b) falls", "c) ob"],
+              "correctAnswer": "a",
+              "explanation": "'Ich wäre Ihnen dankbar, wenn Sie ... würden' — die höfliche Bitte im Konjunktiv II + 'wenn' ist die Standardformel in formellen Anfragen. 'falls' hat eine stärkere Bedingungskomponente und klingt unnatürlich in dieser Schlussformel. 'ob' leitet eine indirekte Frage ein, keinen Wunschsatz."
+            }
+          ]
+        },
+        {
+          "partNumber": 2,
+          "instructions": "Lesen Sie den folgenden Text. Welches Wort aus der Liste A–P passt in die Lücken? Jedes Wort passt nur einmal. Fünf Wörter bleiben übrig.",
+          "text": "Liebe Hannah,\n\nendlich schreibe ich dir — sorry, dass es so lange gedauert hat! Du __(11)__ wissen, dass ich seit ein paar Wochen wirklich aktiver geworden bin. Ich habe mir __(12)__ Neujahr vorgenommen, mehr für meine Gesundheit zu tun, aber du kennst mich — ich habe erst mal zwei Monate gewartet. Typisch ich.\n\nJetzt ist es __(13)__ doch passiert: Ich laufe dreimal pro Woche und fühle mich viel besser __(14)__ vorher. Am Anfang war es anstrengend, __(15)__ ich jetzt merke, dass ich auch im Alltag mehr Energie habe. Das wäre ich __(16)__ nicht gedacht!\n\nMeine Nachbarin Sara hat mich __(17)__ mitgenommen, und ich bin wirklich froh, __(18)__ ich mitgekommen bin. __(19)__ sie muss ich sagen: Sie ist ein gutes Vorbild. Ich hoffe, du machst bald auch mit — __(20)__ uns würde das total Spaß machen!\n\nLiebe Grüße,\nKatrin",
+          "questions": [
+            {
+              "blankNumber": 11,
+              "type": "word_bank",
+              "options": [
+                "A) wolltest", "B) zu", "C) so", "D) aber", "E) einfach",
+                "F) als", "G) seit", "H) endlich", "I) dass", "J) wäre",
+                "K) mit", "L) über", "M) dass", "N) uns", "O) zuerst", "P) Dank"
+              ],
+              "correctAnswer": "A",
+              "explanation": "'Du wolltest wissen' — Präteritum von 'wollen', 2. Person Singular. Der Kontext ist ein Brief an eine Freundin, die Neuigkeiten erwartet hat. Distraktor J ('wäre') würde Konjunktiv II ergeben, was hier keinen Sinn macht."
+            },
+            {
+              "blankNumber": 12,
+              "type": "word_bank",
+              "options": [
+                "A) wolltest", "B) zu", "C) so", "D) aber", "E) einfach",
+                "F) als", "G) seit", "H) endlich", "I) dass", "J) wäre",
+                "K) mit", "L) über", "M) dass", "N) uns", "O) zuerst", "P) Dank"
+              ],
+              "correctAnswer": "B",
+              "explanation": "'mir zu Neujahr vorgenommen' — feste Wendung 'sich (Dat.) etwas zu (+ Zeitpunkt) vornehmen' ist falsch. Korrekt ist: 'zu Neujahr = an/für Neujahr'. 'zu' leitet den Zeitpunkt ein."
+            },
+            {
+              "blankNumber": 13,
+              "type": "word_bank",
+              "options": [
+                "A) wolltest", "B) zu", "C) so", "D) aber", "E) einfach",
+                "F) als", "G) seit", "H) endlich", "I) dass", "J) wäre",
+                "K) mit", "L) über", "M) dass", "N) uns", "O) zuerst", "P) Dank"
+              ],
+              "correctAnswer": "H",
+              "explanation": "'Jetzt ist es endlich doch passiert' — 'endlich' drückt aus, dass etwas lange erwartet wurde und nun eingetreten ist. Distraktor C ('so') würde keinen sinnvollen Satz ergeben."
+            },
+            {
+              "blankNumber": 14,
+              "type": "word_bank",
+              "options": [
+                "A) wolltest", "B) zu", "C) so", "D) aber", "E) einfach",
+                "F) als", "G) seit", "H) endlich", "I) dass", "J) wäre",
+                "K) mit", "L) über", "M) dass", "N) uns", "O) zuerst", "P) Dank"
+              ],
+              "correctAnswer": "F",
+              "explanation": "Komparativ + 'als': 'viel besser als vorher.' Komparative werden mit 'als' gebildet. Distraktor C ('so') wäre für den Positiv ('so gut wie vorher') — inhaltlich das Gegenteil."
+            },
+            {
+              "blankNumber": 15,
+              "type": "word_bank",
+              "options": [
+                "A) wolltest", "B) zu", "C) so", "D) aber", "E) einfach",
+                "F) als", "G) seit", "H) endlich", "I) dass", "J) wäre",
+                "K) mit", "L) über", "M) dass", "N) uns", "O) zuerst", "P) Dank"
+              ],
+              "correctAnswer": "D",
+              "explanation": "Adversativer Konnektor: 'Am Anfang war es anstrengend, aber jetzt merke ich ...' — 'aber' drückt den Gegensatz aus. Distraktor O ('zuerst') würde einen anderen Satzbau erfordern."
+            },
+            {
+              "blankNumber": 16,
+              "type": "word_bank",
+              "options": [
+                "A) wolltest", "B) zu", "C) so", "D) aber", "E) einfach",
+                "F) als", "G) seit", "H) endlich", "I) dass", "J) wäre",
+                "K) mit", "L) über", "M) dass", "N) uns", "O) zuerst", "P) Dank"
+              ],
+              "correctAnswer": "J",
+              "explanation": "'Das wäre ich nie nicht gedacht!' — Konjunktiv II 'wäre' in der festen Wendung 'Das hätte/wäre ich nie gedacht' (umgangssprachlich). 'wäre' passt syntaktisch mit dem Kontext eines persönlichen Briefes. Distraktor E ('einfach') ergibt keinen grammatischen Satz."
+            },
+            {
+              "blankNumber": 17,
+              "type": "word_bank",
+              "options": [
+                "A) wolltest", "B) zu", "C) so", "D) aber", "E) einfach",
+                "F) als", "G) seit", "H) endlich", "I) dass", "J) wäre",
+                "K) mit", "L) über", "M) dass", "N) uns", "O) zuerst", "P) Dank"
+              ],
+              "correctAnswer": "K",
+              "explanation": "'Sara hat mich mitgenommen' — trennbares Verb 'mitnehmen' (mit + nehmen), Perfekt: 'hat mitgenommen'. Das Partikel 'mit' gehört ins Vorfeld. Distraktor G ('seit') ergibt eine ungrammatische Konstruktion."
+            },
+            {
+              "blankNumber": 18,
+              "type": "word_bank",
+              "options": [
+                "A) wolltest", "B) zu", "C) so", "D) aber", "E) einfach",
+                "F) als", "G) seit", "H) endlich", "I) dass", "J) wäre",
+                "K) mit", "L) über", "M) dass", "N) uns", "O) zuerst", "P) Dank"
+              ],
+              "correctAnswer": "I",
+              "explanation": "'froh, dass ich mitgekommen bin' — Adjektiv 'froh' + 'dass'-Satz. Dieser Satz-Typ kommt bei Adjektiven wie 'froh, glücklich, traurig' vor. Distraktor M ist identisch, aber da I zuerst passt, gilt I für diese Lücke."
+            },
+            {
+              "blankNumber": 19,
+              "type": "word_bank",
+              "options": [
+                "A) wolltest", "B) zu", "C) so", "D) aber", "E) einfach",
+                "F) als", "G) seit", "H) endlich", "I) dass", "J) wäre",
+                "K) mit", "L) über", "M) dass", "N) uns", "O) zuerst", "P) Dank"
+              ],
+              "correctAnswer": "P",
+              "explanation": "'Dank ihr muss ich sagen ...' — 'Dank + Dativ' (Dank ihr = dank ihr) bedeutet 'wegen ihr, durch ihre Hilfe'. Distraktor L ('über') ergibt 'Über sie muss ich sagen' — grammatisch möglich, aber stilistisch nicht die übliche Dankbarkeitsformel."
+            },
+            {
+              "blankNumber": 20,
+              "type": "word_bank",
+              "options": [
+                "A) wolltest", "B) zu", "C) so", "D) aber", "E) einfach",
+                "F) als", "G) seit", "H) endlich", "I) dass", "J) wäre",
+                "K) mit", "L) über", "M) dass", "N) uns", "O) zuerst", "P) Dank"
+              ],
+              "correctAnswer": "N",
+              "explanation": "'mit uns würde das total Spaß machen' — Dativpronomen 'uns' nach der Präposition 'mit'. 'mit' + Dativ: 'mit uns'. Distraktor E ('einfach') ergibt keinen sinnvollen Satz."
+            }
+          ]
+        }
+      ]
+    },
+    "writing": {
+      "totalTimeMinutes": 30,
+      "tasks": [
+        {
+          "taskNumber": 1,
+          "type": "letter",
+          "instructions": "Ihr Freund / Ihre Freundin Tobias hat Ihnen geschrieben und fragt, wie es Ihnen geht. In seinem/ihrem Brief erzählt er/sie, dass er/sie jetzt dreimal pro Woche joggen geht. Schreiben Sie ihm/ihr einen Brief. Gehen Sie auf alle vier Punkte ein. Achten Sie auf eine passende Anrede und einen passenden Gruß. Schreiben Sie ca. 150 Wörter.",
+          "instructionsTranslation": "Your friend Tobias has written to you and asks how you are. In his letter, he tells you he now goes jogging three times a week. Write him a letter. Address all four points below. Pay attention to an appropriate greeting and closing. Write approximately 150 words.",
+          "prompt": "Tobias schreibt Ihnen:\n\n'Du, ich habe mich jetzt wirklich aufgerafft — ich jogge seit einem Monat dreimal pro Woche! Ich fühle mich viel besser. Bist du auch sportlich aktiv? Und wie ernährst du dich so? Schreib mir mal!'\n\nSchreiben Sie Tobias einen Brief. Gehen Sie auf die folgenden vier Punkte ein:\n\n- Wie reagieren Sie auf die Neuigkeit über das Joggen?\n- Welche sportliche Aktivität machen Sie zurzeit, und wie oft?\n- Was haben Sie in letzter Zeit an Ihrer Ernährung geändert?\n- Was planen Sie gemeinsam mit Tobias zu unternehmen?",
+          "promptTranslation": "Tobias writes to you:\n\n'Hey, I finally got myself to do it — I've been jogging three times a week for a month! I feel so much better. Are you physically active too? And what do you eat these days? Write to me!'\n\nWrite Tobias a letter. Address the following four points:\n\n- How do you react to the news about his jogging?\n- What sport do you currently do, and how often?\n- What have you recently changed about your diet?\n- What do you plan to do together with Tobias?",
+          "requiredPoints": [
+            "Reaktion auf die Jogging-Neuigkeit",
+            "Eigene sportliche Aktivität mit Häufigkeit",
+            "Ernährungsänderung in letzter Zeit",
+            "Gemeinsamer Plan mit Tobias"
+          ],
+          "wordCountMin": 130,
+          "wordCountMax": 170,
+          "sampleAnswer": "Lieber Tobias,\n\nvielen Dank für deinen Brief — und herzlichen Glückwunsch zum Joggen! Ich finde es super, dass du so konsequent dranbleibst. Drei Mal pro Woche ist wirklich beeindruckend.\n\nIch selbst mache seit einigen Monaten Yoga — zweimal pro Woche abends nach der Arbeit. Es hilft mir sehr, abzuschalten und den Stress loszuwerden. Manchmal gehe ich auch am Wochenende schwimmen.\n\nBei der Ernährung habe ich auch etwas geändert: Ich versuche, weniger Zucker zu essen und mehr Gemüse zu kochen. Es klappt nicht immer perfekt, aber ich merke den Unterschied.\n\nVielleicht können wir das nächste Mal, wenn du in der Stadt bist, zusammen eine Runde laufen? Ich könnte auch mal mitkommen — so ein kleiner Stadtlauf wäre doch eine tolle Idee!\n\nViele Grüße\nDein Alex",
+          "scoringCriteria": [
+            {
+              "criterion": "I. Inhaltliche Vollständigkeit",
+              "maxPoints": 15,
+              "description": "Alle vier Punkte (Reaktion auf Joggen, eigene Sportaktivität, Ernährungsänderung, gemeinsamer Plan) sind angesprochen. Fehlt ein Punkt ganz, gilt er als nicht bearbeitet."
+            },
+            {
+              "criterion": "II. Kommunikative Gestaltung",
+              "maxPoints": 15,
+              "description": "Freundliche Anrede, persönlicher Ton, kohärente Übergänge, angemessene Briefgrußformel. Verwendung von Konnektoren (und, aber, vielleicht, auch, manchmal)."
+            },
+            {
+              "criterion": "III. Formale Richtigkeit",
+              "maxPoints": 15,
+              "description": "Grammatik und Rechtschreibung auf B1-Niveau. Korrekte Verwendung von Perfekt für Vergangenes, Präsens für Gewohnheiten, Konjunktiv II für Vorschläge (könnte, wäre)."
+            }
+          ]
+        }
+      ]
+    },
+    "speaking": {
+      "totalTimeMinutes": 15,
+      "prepTimeMinutes": 20,
+      "parts": [
+        {
+          "partNumber": 1,
+          "type": "introduce",
+          "instructions": "Stellen Sie sich Ihrem Gesprächspartner/Ihrer Gesprächspartnerin vor. Sprechen Sie über sich: Name, Herkunft, Wohnort, Familie, Beruf oder Ausbildung, Hobbys und Sprachen. Stellen Sie anschließend Ihrem Partner/Ihrer Partnerin mindestens zwei Fragen.",
+          "instructionsTranslation": "Introduce yourself to your conversation partner. Talk about: name, origin, place of residence, family, work or education, hobbies, and languages. Afterwards ask your partner at least two questions.",
+          "prompt": "Bitte stellen Sie sich Ihrem Partner / Ihrer Partnerin vor. Sprechen Sie u.a. über:\n- Ihren Namen und Ihre Herkunft\n- Ihren aktuellen Wohnort\n- Ihre Familie\n- Ihren Beruf oder Ihr Studium\n- Ihre Hobbys und Interessen — besonders was Sie für Ihre Gesundheit tun\n- Die Sprachen, die Sie sprechen\n\nStellen Sie danach mindestens zwei Fragen.",
+          "sampleResponse": "Guten Tag! Ich heiße Maria Kovač und komme aus Kroatien, lebe aber seit vier Jahren in München. Ich arbeite als Krankenpflegerin in einem Krankenhaus — ein anstrengender, aber sehr erfüllender Job. Meine Familie lebt noch in Zagreb — meine Eltern und mein Bruder mit seiner kleinen Tochter. Ich vermisse sie manchmal, aber wir telefonieren regelmäßig.\n\nIn meiner Freizeit mache ich viel für meine Gesundheit: Ich gehe zweimal pro Woche zum Schwimmen und koche gerne gesund zu Hause. Ich interessiere mich sehr für Ernährung und habe im letzten Jahr viel darüber gelesen. Neben Kroatisch spreche ich Deutsch natürlich und Englisch ziemlich gut.\n\nUnd du? Woher kommst du, und wie lange bist du schon hier? Machst du auch Sport?",
+          "evaluationTips": [
+            "Beginnen Sie mit Name und Herkunft, dann Beruf, Hobbys",
+            "Verknüpfen Sie Hobbys mit dem Thema Gesundheit, da das Mock-Thema ist",
+            "Stellen Sie offene Fragen (W-Fragen), die ein Gespräch einleiten",
+            "Verwenden Sie Nebensätze mit 'weil', 'obwohl', 'dass'"
+          ],
+          "keyPhrases": [
+            "Ich heiße ... und komme aus ...",
+            "Seit ... Jahren wohne ich in ...",
+            "Für meine Gesundheit mache ich ...",
+            "Ich interessiere mich besonders für ...",
+            "Und wie ist das bei dir/Ihnen?"
+          ]
+        },
+        {
+          "partNumber": 2,
+          "type": "discussion",
+          "instructions": "Sie erhalten eine Grafik zum Thema Sport und Freizeitaktivitäten. Beschreiben Sie die Grafik, beantworten Sie die Leitfragen und tauschen Sie sich mit Ihrem Partner aus.",
+          "instructionsTranslation": "You receive a chart about sports and leisure activities. Describe the chart, answer the guiding questions, and discuss with your partner.",
+          "prompt": "Thema: Gesundheit & Sport in Deutschland\n\nSehen Sie sich die folgende Grafik an:\n\n[GRAFIK: Sportbeteiligung der deutschen Bevölkerung nach Häufigkeit]\n\nLaut einer aktuellen Umfrage des Deutschen Olympischen Sportbundes (DOSB) treiben:\n- 27 % der Deutschen mindestens dreimal pro Woche Sport\n- 31 % ein- bis zweimal pro Woche\n- 22 % seltener als einmal pro Woche\n- 20 % gar keinen Sport\n\nHäufigste Sportarten: Radfahren (42 %), Wandern (38 %), Schwimmen (29 %), Fitness/Gym (24 %), Joggen (21 %)\n\nLeitfragen:\n1. Fassen Sie die wichtigsten Informationen aus der Grafik zusammen.\n2. Welche Zahlen überraschen Sie, und warum?\n3. Was sind Ihrer Meinung nach die häufigsten Gründe, warum viele Menschen keinen Sport treiben?",
+          "sampleResponse": "Die Grafik zeigt, wie oft die Deutschen Sport treiben. Fast ein Drittel der Bevölkerung bewegt sich ein- bis zweimal pro Woche, und 27 Prozent sogar dreimal oder öfter. Das finde ich eigentlich positiv. Allerdings treiben 20 Prozent überhaupt keinen Sport — das ist jeder Fünfte.\n\nMich überrascht, dass Radfahren und Wandern so beliebt sind — das zeigt, dass viele Menschen lieber draußen und entspannt aktiv sind als im Fitnessstudio. Ich persönlich finde das auch schöner.\n\nWarum machen so viele gar keinen Sport? Ich denke, der häufigste Grund ist einfach Zeitmangel. Viele Berufstätige sind abends einfach zu müde. Außerdem sind manche Sportarten teuer — ein Fitnessstudio kostet Geld. Und wer als Kind nie Sport gemacht hat, fängt als Erwachsener schwerer an. Was denkst du — was ist bei dir der wichtigste Faktor?",
+          "evaluationTips": [
+            "Nennen Sie konkrete Zahlen aus der Grafik",
+            "Gehen Sie in der richtigen Reihenfolge vor: zuerst beschreiben, dann kommentieren",
+            "Drücken Sie Überraschung aus: 'Das hat mich überrascht, weil ...'",
+            "Formulieren Sie Meinungen: 'Ich denke, dass ...', 'Meiner Meinung nach ...'"
+          ],
+          "keyPhrases": [
+            "Die Grafik zeigt, dass ...",
+            "Laut der Umfrage ...",
+            "Was mich überrascht hat, ist ...",
+            "Meiner Meinung nach liegt das daran, dass ...",
+            "Im Vergleich dazu ...",
+            "Was denkst du darüber?"
+          ]
+        },
+        {
+          "partNumber": 3,
+          "type": "planning",
+          "instructions": "Sie sollen mit Ihrem Partner gemeinsam etwas planen. Machen Sie Vorschläge, reagieren Sie auf die Ideen Ihres Partners und einigen Sie sich am Ende auf eine gemeinsame Lösung.",
+          "instructionsTranslation": "You are going to plan something together with your partner. Make suggestions, respond to your partner's ideas, and agree on a joint solution at the end.",
+          "prompt": "Ihre Freundesgruppe möchte gemeinsam eine Fitness-Challenge starten oder einen Kochkurs für gesunde Ernährung organisieren — ihr seid noch unentschieden. Planen Sie zusammen mit Ihrem Partner / Ihrer Partnerin eine dieser Möglichkeiten.\n\nBesprechen Sie folgende Punkte:\n\n- Welche Option bevorzugen Sie — Fitness-Challenge oder Kochkurs? Warum?\n- Wann und wo soll es stattfinden?\n- Wie viele Personen nehmen teil? Wen laden Sie ein?\n- Wie lange soll die Challenge oder der Kurs dauern?\n- Was braucht man dazu (Ausrüstung, Zutaten, Ort)?",
+          "sampleResponse": "Also, ich würde eher die Fitness-Challenge vorschlagen — ich finde, das macht mehr Spaß als einen Kochkurs, weil man sich gegenseitig motivieren kann. Was hältst du davon?\n\nIch würde vorschlagen, wir starten nächsten Samstag im Stadtpark. Die meisten haben da frei, und der Park ist perfekt — kostenlos und genug Platz. Wir könnten zu siebt oder acht Leuten sein — ich lade Julia, Marco und ein paar aus dem Büro ein.\n\nFür die Dauer würde ich vier Wochen vorschlagen — das ist genug, um echte Fortschritte zu sehen, aber nicht zu lang, dass alle aussteigen. Jede Woche eine kleine Aufgabe: in der ersten Woche zweimal 30 Minuten spazieren, in der zweiten laufen und so weiter.\n\nFür die Ausrüstung braucht man eigentlich nichts Besonderes — Sportschuhe und Wasser. Vielleicht erstellen wir eine Gruppe auf dem Handy, um uns zu motivieren? Was denkst du, machst du mit?",
+          "evaluationTips": [
+            "Drücken Sie eine klare Präferenz aus und begründen Sie sie",
+            "Verwenden Sie 'Ich würde vorschlagen, dass ...' und 'Wir könnten ...'",
+            "Reagieren Sie aktiv auf die Vorschläge des Partners",
+            "Fassen Sie am Ende das Ergebnis zusammen: 'Also haben wir uns geeinigt auf ...'"
+          ],
+          "keyPhrases": [
+            "Ich würde eher ... vorschlagen, weil ...",
+            "Was hältst du von ...?",
+            "Wir könnten auch ...",
+            "Das finde ich eine gute Idee, aber ...",
+            "Ich übernehme ... und du ...",
+            "Also, wir machen ..."
+          ]
+        }
+      ]
+    }
+  }
+}
