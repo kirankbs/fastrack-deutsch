@@ -16,8 +16,9 @@
 import { describe, it, expect } from 'vitest';
 import { MOCK_EXAM_CATALOG, getAvailableLevels, getMocksForLevel } from '@fastrack/content';
 
-// B1 M11-M15 are planned — hasContent: false until JSON files are shipped.
-const PLANNED_B1_MOCKS = [11, 12, 13, 14, 15].map(
+// B1 mocks shipped so far: M01-M10 (contiguous) + M14 (sparse, this PR).
+// B1 M11, M12, M13, M15 are planned — hasContent: false until their JSON files are shipped.
+const PLANNED_B1_MOCKS = [11, 12, 13, 15].map(
   (n) => `B1_mock_${String(n).padStart(2, '0')}`,
 );
 
@@ -29,25 +30,31 @@ describe('catalog hasContent integrity', () => {
   });
 
   it('all shipped mocks (hasContent: true) are not the planned B1 placeholders', () => {
-    // Only B1 M11-M15 may have hasContent: false — nothing else.
+    // Only B1 M11, M12, M13, M15 may have hasContent: false — nothing else.
     const missing = MOCK_EXAM_CATALOG.filter((e) => !e.hasContent);
     const unexpectedMissing = missing.filter((e) => !PLANNED_B1_MOCKS.includes(e.id));
     expect(
       unexpectedMissing,
-      'Unexpected hasContent: false entries found outside planned B1 M11-M15',
+      'Unexpected hasContent: false entries found outside planned B1 placeholders',
     ).toHaveLength(0);
   });
 
-  it('exactly 5 B1 planned mocks (M11-M15) have hasContent: false', () => {
+  it('exactly 4 B1 planned mocks (M11, M12, M13, M15) have hasContent: false', () => {
     const planned = MOCK_EXAM_CATALOG.filter((e) => !e.hasContent);
-    expect(planned).toHaveLength(5);
+    expect(planned).toHaveLength(4);
     const plannedIds = planned.map((e) => e.id);
     for (const id of PLANNED_B1_MOCKS) {
       expect(plannedIds).toContain(id);
     }
   });
 
-  it('all 50 shipped mocks (B1 M01-M10 + all other levels) have hasContent: true', () => {
+  it('B1 mock 14 has hasContent: true', () => {
+    const entry = MOCK_EXAM_CATALOG.find((e) => e.id === 'B1_mock_14');
+    expect(entry).toBeDefined();
+    expect(entry?.hasContent).toBe(true);
+  });
+
+  it('all shipped mocks (B1 M01-M10, M14 + all other levels) have hasContent: true', () => {
     const shipped = MOCK_EXAM_CATALOG.filter((e) => !PLANNED_B1_MOCKS.includes(e.id));
     const missing = shipped.filter((e) => !e.hasContent);
     expect(
