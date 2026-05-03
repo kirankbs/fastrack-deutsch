@@ -1,118 +1,72 @@
 <speak>
-  <prosody rate="medium" pitch="medium">
+  <!-- C1 Mock 05 — Teil 3 (10 MCQ-3opt, akademischer Vortrag, playCount=1) -->
+  <!-- [PEDAGOGY-REWRITE] Azure voices replaced with Google Cloud TTS voices -->
+  <!-- CR-11: NO gap cues — continuous lecture, MCQ format (CR-12) -->
+  <!-- Speaker: de-DE-Wavenet-D (male) — academic lecturer, wissenschaftlich register -->
+  <!-- Announcer: de-DE-Wavenet-C (female) -->
+  <!-- C1 spec: natural speed 1.0x, played ONCE — 'zweimal' announcement removed -->
+  <!-- 10-second initial pause for candidates to read questions before audio begins -->
+  <!-- Topic: Demokratische Resilienz im europäischen Vergleich -->
 
-    <!-- PART 3 INTRO -->
-    <s>Sie hören einen akademischen Vortrag zum Thema Demokratische Resilienz im europäischen Vergleich.</s>
-    <s>Sie hören den Vortrag zweimal.</s>
-    <break time="2s"/>
+  <break time="3s"/>
 
-    <!-- Vortrag beginnt -->
-    <voice name="de-DE-ConradNeural">
+  <voice name="de-DE-Wavenet-C">
+    <prosody rate="1.0">
+      Hörverstehen, Teil 3. Sie hören einen akademischen Vortrag zum Thema
+      Demokratische Resilienz im europäischen Vergleich.
+      Lesen Sie zuerst die zehn Fragen in Ihrem Testheft.
+      Was ist richtig? Kreuzen Sie an: a, b oder c.
+      Sie hören den Vortrag einmal.
+    </prosody>
+    <break time="10s"/>
+  </voice>
 
-      <s>Sehr geehrte Damen und Herren,</s>
-      <s>das zentrale Kriterium, um demokratische Resilienz empirisch zu messen, ist die Stabilität unabhängiger Institutionen unter politischem Druck.</s>
-      <s>Wahlbeteiligung und Volksabstimmungsfrequenz sind interessante Indikatoren — aber sie sagen wenig darüber aus, ob eine Demokratie standhält, wenn Gerichte, Medien oder Rechnungshöfe gezielt unter Druck gesetzt werden.</s>
-      <break time="1s"/>
+  <!-- VORTRAG BEGINNT — KEINE INTERNEN PAUSENSIGNALE -->
+  <voice name="de-DE-Wavenet-D">
+    <prosody rate="1.0">
+      Sehr geehrte Damen und Herren,
+      das zentrale Kriterium, um demokratische Resilienz empirisch zu messen, ist die Stabilität unabhängiger Institutionen unter politischem Druck.
+      Wahlbeteiligung und Volksabstimmungsfrequenz sind interessante Indikatoren — aber sie sagen wenig darüber aus, ob eine Demokratie standhält, wenn Gerichte, Medien oder Rechnungshöfe gezielt unter Druck gesetzt werden.
 
-      <s>Analytisch hilfreich ist die Unterscheidung zwischen formaler und substantieller Demokratie.</s>
-      <s>Formale Demokratie umfasst Verfahren: Wahlen, Parlamentarismus, Parteienpluralismus.</s>
-      <s>Substantielle Demokratie geht weiter: Sie setzt voraus, dass Grundrechte, Minderheitenschutz und Gewaltenteilung strukturell verankert sind und gegen Mehrheitsentscheide geschützt werden.</s>
-      <s>Ein Regime kann formal demokratisch sein und substanziell illiberal — dieser Befund ist keine Abstraktion, sondern eine gegenwärtige Realität in Teilen Europas.</s>
-      <break time="1s"/>
+      Analytisch hilfreich ist die Unterscheidung zwischen formaler und substantieller Demokratie.
+      Formale Demokratie umfasst Verfahren: Wahlen, Parlamentarismus, Parteienpluralismus.
+      Substantielle Demokratie geht weiter: Sie setzt voraus, dass Grundrechte, Minderheitenschutz und Gewaltenteilung strukturell verankert sind und gegen Mehrheitsentscheide geschützt werden.
+      Ein Regime kann formal demokratisch sein und substanziell illiberal — dieser Befund ist keine Abstraktion, sondern eine gegenwärtige Realität in Teilen Europas.
 
-      <s>Das beste europäische Fallbeispiel für graduellen institutionellen Abbau ist Ungarn unter Viktor Orbán.</s>
-      <s>Wahlrecht, Verfassungsgericht, Medienlandschaft und Justiz wurden schrittweise umgebaut — ohne formell die demokratische Form zu verlassen.</s>
-      <s>Das Ergebnis ist ein System, das alle Attribute formaler Demokratie aufweist, aber substantiell eine andere Logik verfolgt.</s>
-      <break time="1s"/>
+      Das beste europäische Fallbeispiel für graduellen institutionellen Abbau ist Ungarn unter Viktor Orbán.
+      Wahlrecht, Verfassungsgericht, Medienlandschaft und Justiz wurden schrittweise umgebaut — ohne formell die demokratische Form zu verlassen.
+      Das Ergebnis ist ein System, das alle Attribute formaler Demokratie aufweist, aber substantiell eine andere Logik verfolgt.
 
-      <s>Welche Rolle spielt die Europäische Union?</s>
-      <s>Die EU ist eine Rechtsgemeinschaft, die über Vertragsverletzungsverfahren und Konditionalitätsmechanismen Druck ausüben kann.</s>
-      <s>Allerdings geschieht dies mit erheblichem Zeitverzug und politischem Aufwand.</s>
-      <s>Vollständige Prävention demokratischer Erosion ist ihr strukturell nicht möglich — aber völlige Wirkungslosigkeit wäre ebenfalls eine unzutreffende Einschätzung.</s>
-      <break time="1s"/>
+      Welche Rolle spielt die Europäische Union?
+      Die EU ist eine Rechtsgemeinschaft, die über Vertragsverletzungsverfahren und Konditionalitätsmechanismen Druck ausüben kann.
+      Allerdings geschieht dies mit erheblichem Zeitverzug und politischem Aufwand.
+      Vollständige Prävention demokratischer Erosion ist ihr strukturell nicht möglich — aber völlige Wirkungslosigkeit wäre ebenfalls eine unzutreffende Einschätzung.
 
-      <s>Der vergleichende Blick zeigt: Länder mit starker Tradition unabhängiger Verfassungsgerichtsbarkeit zeigen höhere demokratische Widerstandsfähigkeit.</s>
-      <s>Wirtschaftlicher Wohlstand korreliert mit Stabilität, erklärt aber Resilienz nicht hinreichend — wohlhabende Demokratien haben ebenfalls demokratische Rückschritte erlebt.</s>
-      <s>Wahlsystemtypen erklären Resilienz noch weniger zuverlässig: sowohl Verhältniswahlrecht als auch Mehrheitswahlrecht produzieren resiliente und fragile Demokratien.</s>
-      <break time="1s"/>
+      Der vergleichende Blick zeigt: Länder mit starker Tradition unabhängiger Verfassungsgerichtsbarkeit zeigen höhere demokratische Widerstandsfähigkeit.
+      Wirtschaftlicher Wohlstand korreliert mit Stabilität, erklärt aber Resilienz nicht hinreichend — wohlhabende Demokratien haben ebenfalls demokratische Rückschritte erlebt.
+      Wahlsystemtypen erklären Resilienz noch weniger zuverlässig: sowohl Verhältniswahlrecht als auch Mehrheitswahlrecht produzieren resiliente und fragile Demokratien.
 
-      <s>Der Begriff 'legale Illiberalität' beschreibt Gesetzgebung, die formal verfassungsrechtlichen Anforderungen entspricht, aber materiell Grundrechte, Minderheitenschutz oder institutionelle Unabhängigkeit einschränkt.</s>
-      <s>Dies ist die raffinierte Form demokratischen Rückschritts: Sie nutzt die Legalität als Schutzschild.</s>
-      <break time="1s"/>
+      Der Begriff 'legale Illiberalität' beschreibt Gesetzgebung, die formal verfassungsrechtlichen Anforderungen entspricht, aber materiell Grundrechte, Minderheitenschutz oder institutionelle Unabhängigkeit einschränkt.
+      Dies ist die raffinierte Form demokratischen Rückschritts: Sie nutzt die Legalität als Schutzschild.
 
-      <s>Zur Rolle politischer Bildung: Sie ist eine notwendige, aber nicht hinreichende Bedingung für Resilienz.</s>
-      <s>Institutionelle Strukturen müssen den Rahmen setzen — Bildung allein kann institutionelle Schwäche nicht kompensieren.</s>
-      <break time="1s"/>
+      Zur Rolle politischer Bildung: Sie ist eine notwendige, aber nicht hinreichende Bedingung für Resilienz.
+      Institutionelle Strukturen müssen den Rahmen setzen — Bildung allein kann institutionelle Schwäche nicht kompensieren.
 
-      <s>Was ist nun 'demokratischer Rückschritt'?</s>
-      <s>Es ist der Fachbegriff für schrittweise, von innen heraus betriebene Erosion demokratischer Normen — ohne Militärputsch, ohne offene Diktatur, aber mit systematischer Absicht.</s>
-      <break time="1s"/>
+      Was ist nun 'demokratischer Rückschritt'?
+      Es ist der Fachbegriff für schrittweise, von innen heraus betriebene Erosion demokratischer Normen — ohne Militärputsch, ohne offene Diktatur, aber mit systematischer Absicht.
 
-      <s>Ein strukturelles Defizit vieler europäischer Demokratien ist, dass sie historisch für externe Bedrohungen konzipiert wurden — nicht für den Fall, dass demokratisch gewählte Akteure selbst die Regeln untergraben.</s>
-      <s>Institutionen, die gegen Diktatoren robust sind, können gegenüber gewählten Illiberalen blind sein.</s>
-      <break time="1s"/>
+      Ein strukturelles Defizit vieler europäischer Demokratien ist, dass sie historisch für externe Bedrohungen konzipiert wurden — nicht für den Fall, dass demokratisch gewählte Akteure selbst die Regeln untergraben.
+      Institutionen, die gegen Diktatoren robust sind, können gegenüber gewählten Illiberalen blind sein.
 
-      <s>Meine Empfehlung zur Stärkung der EU als demokratische Schutzinstanz: Konditionalitätsmechanismen stärken und Mittelkürzungen konsequenter mit Rechtsstaatskriterien verknüpfen.</s>
-      <s>Dies ist kein Eingriff in nationale Souveränität — es ist die logische Konsequenz einer Gemeinschaft, die auf gemeinsamen Werten beruht.</s>
-      <break time="1s"/>
+      Meine Empfehlung zur Stärkung der EU als demokratische Schutzinstanz: Konditionalitätsmechanismen stärken und Mittelkürzungen konsequenter mit Rechtsstaatskriterien verknüpfen.
+      Dies ist kein Eingriff in nationale Souveränität — es ist die logische Konsequenz einer Gemeinschaft, die auf gemeinsamen Werten beruht.
 
-      <s>Ich danke für Ihre Aufmerksamkeit.</s>
+      Ich danke für Ihre Aufmerksamkeit.
+    </prosody>
+  </voice>
+  <break time="3s"/>
 
-    </voice>
-    <break time="5s"/>
-
-    <!-- Second playthrough marker -->
-    <s>Sie hören den Vortrag jetzt ein zweites Mal.</s>
-    <break time="2s"/>
-
-    <voice name="de-DE-ConradNeural">
-
-      <s>Sehr geehrte Damen und Herren,</s>
-      <s>das zentrale Kriterium, um demokratische Resilienz empirisch zu messen, ist die Stabilität unabhängiger Institutionen unter politischem Druck.</s>
-      <s>Wahlbeteiligung und Volksabstimmungsfrequenz sind interessante Indikatoren — aber sie sagen wenig darüber aus, ob eine Demokratie standhält, wenn Gerichte, Medien oder Rechnungshöfe gezielt unter Druck gesetzt werden.</s>
-      <break time="1s"/>
-
-      <s>Analytisch hilfreich ist die Unterscheidung zwischen formaler und substantieller Demokratie.</s>
-      <s>Formale Demokratie umfasst Verfahren: Wahlen, Parlamentarismus, Parteienpluralismus.</s>
-      <s>Substantielle Demokratie geht weiter: Sie setzt voraus, dass Grundrechte, Minderheitenschutz und Gewaltenteilung strukturell verankert sind und gegen Mehrheitsentscheide geschützt werden.</s>
-      <s>Ein Regime kann formal demokratisch sein und substanziell illiberal — dieser Befund ist keine Abstraktion, sondern eine gegenwärtige Realität in Teilen Europas.</s>
-      <break time="1s"/>
-
-      <s>Das beste europäische Fallbeispiel für graduellen institutionellen Abbau ist Ungarn unter Viktor Orbán.</s>
-      <s>Wahlrecht, Verfassungsgericht, Medienlandschaft und Justiz wurden schrittweise umgebaut — ohne formell die demokratische Form zu verlassen.</s>
-      <s>Das Ergebnis ist ein System, das alle Attribute formaler Demokratie aufweist, aber substantiell eine andere Logik verfolgt.</s>
-      <break time="1s"/>
-
-      <s>Welche Rolle spielt die Europäische Union?</s>
-      <s>Die EU ist eine Rechtsgemeinschaft, die über Vertragsverletzungsverfahren und Konditionalitätsmechanismen Druck ausüben kann.</s>
-      <s>Allerdings geschieht dies mit erheblichem Zeitverzug und politischem Aufwand.</s>
-      <s>Vollständige Prävention demokratischer Erosion ist ihr strukturell nicht möglich — aber völlige Wirkungslosigkeit wäre ebenfalls eine unzutreffende Einschätzung.</s>
-      <break time="1s"/>
-
-      <s>Der vergleichende Blick zeigt: Länder mit starker Tradition unabhängiger Verfassungsgerichtsbarkeit zeigen höhere demokratische Widerstandsfähigkeit.</s>
-      <s>Wirtschaftlicher Wohlstand korreliert mit Stabilität, erklärt aber Resilienz nicht hinreichend.</s>
-      <s>Wahlsystemtypen erklären Resilienz noch weniger zuverlässig.</s>
-      <break time="1s"/>
-
-      <s>Der Begriff 'legale Illiberalität' beschreibt Gesetzgebung, die formal verfassungsrechtlichen Anforderungen entspricht, aber materiell Grundrechte, Minderheitenschutz oder institutionelle Unabhängigkeit einschränkt.</s>
-      <break time="1s"/>
-
-      <s>Zur Rolle politischer Bildung: Sie ist eine notwendige, aber nicht hinreichende Bedingung für Resilienz.</s>
-      <break time="1s"/>
-
-      <s>Demokratischer Rückschritt: schrittweise, von innen heraus betriebene Erosion demokratischer Normen — ohne Militärputsch, ohne offene Diktatur, aber mit systematischer Absicht.</s>
-      <break time="1s"/>
-
-      <s>Das strukturelle Defizit: Demokratien wurden für externe Bedrohungen konzipiert — nicht für gewählte Illiberale.</s>
-      <break time="1s"/>
-
-      <s>Meine Empfehlung: Konditionalitätsmechanismen der EU stärken und Mittelkürzungen konsequenter mit Rechtsstaatskriterien verknüpfen.</s>
-      <break time="1s"/>
-
-      <s>Ich danke für Ihre Aufmerksamkeit.</s>
-
-    </voice>
-    <break time="3s"/>
-
-  </prosody>
+  <voice name="de-DE-Wavenet-C">
+    <prosody rate="1.0">Das ist das Ende von Teil 3 und das Ende des Hörverstehens.</prosody>
+  </voice>
 </speak>
