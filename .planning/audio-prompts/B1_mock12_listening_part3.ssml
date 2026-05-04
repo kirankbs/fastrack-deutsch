@@ -1,0 +1,303 @@
+<speak>
+  <!-- B1 Mock 12 — Teil 3 (5 MCQ, short dialogues, playCount=2) -->
+  <!-- Narrator: de-DE-Wavenet-B (male, neutral) rate="slow" — instructions, Gespräch labels -->
+  <!-- Female speaker: de-DE-Wavenet-C (female, clear) rate="medium" — primary female roles -->
+  <!-- Male speaker: de-DE-Wavenet-D (male, warm) rate="medium" — primary male roles -->
+  <!-- Each conversation plays TWICE as per B1 Teil 3 spec -->
+  <!-- Topic: Gesundheit und Ernährung im Alltag -->
+  <!-- NOTE: Part 3 dialogues constructed from question context (no transcript in JSON source) -->
+  <!-- PLACEHOLDER — dialogue content derived from question explanations; review before production -->
+
+  <break time="3s"/>
+
+  <voice name="de-DE-Wavenet-B">
+    <prosody rate="slow">
+      Hören, Teil 3. Sie hören fünf kurze Gespräche. Zu jedem Gespräch gibt es eine Aufgabe.
+      Was ist richtig? Kreuzen Sie an: a, b oder c. Sie hören jedes Gespräch zweimal.
+    </prosody>
+    <break time="2s"/>
+  </voice>
+
+  <!-- Gespräch 1: Arzt und Patient — Arzt empfiehlt mehr Bewegung, kein Medikament -->
+  <!-- correct: b — Arzt empfiehlt regelmäßige Bewegung statt Medikament -->
+  <voice name="de-DE-Wavenet-B">
+    <prosody rate="slow">Gespräch 1.</prosody>
+    <break time="1s"/>
+  </voice>
+  <voice name="de-DE-Wavenet-C">
+    <prosody rate="medium">
+      Herr Doktor, ich fühle mich schon seit Wochen so schlapp. Könnten Sie mir irgendwas verschreiben?
+    </prosody>
+  </voice>
+  <voice name="de-DE-Wavenet-D">
+    <prosody rate="medium">
+      Ich verstehe das. Aber ehrlich gesagt — Ihre Blutwerte sind in Ordnung.
+      Mein Rat wäre, zunächst auf regelmäßige Bewegung zu setzen, bevor wir Medikamente einsetzen.
+      Dreimal pro Woche 30 Minuten spazieren würde schon helfen.
+    </prosody>
+  </voice>
+  <voice name="de-DE-Wavenet-C">
+    <prosody rate="medium">
+      Also kein Medikament?
+    </prosody>
+  </voice>
+  <voice name="de-DE-Wavenet-D">
+    <prosody rate="medium">
+      Nicht sofort. Versuchen Sie es vier Wochen mit mehr Bewegung.
+      Wenn es dann nicht besser wird, kommen Sie wieder.
+    </prosody>
+  </voice>
+  <break time="2s"/>
+  <voice name="de-DE-Wavenet-B">
+    <prosody rate="slow">Sie hören das Gespräch jetzt noch einmal.</prosody>
+    <break time="1s"/>
+  </voice>
+  <voice name="de-DE-Wavenet-C">
+    <prosody rate="medium">
+      Herr Doktor, ich fühle mich schon seit Wochen so schlapp. Könnten Sie mir irgendwas verschreiben?
+    </prosody>
+  </voice>
+  <voice name="de-DE-Wavenet-D">
+    <prosody rate="medium">
+      Ich verstehe das. Aber ehrlich gesagt — Ihre Blutwerte sind in Ordnung.
+      Mein Rat wäre, zunächst auf regelmäßige Bewegung zu setzen, bevor wir Medikamente einsetzen.
+      Dreimal pro Woche 30 Minuten spazieren würde schon helfen.
+    </prosody>
+  </voice>
+  <voice name="de-DE-Wavenet-C">
+    <prosody rate="medium">
+      Also kein Medikament?
+    </prosody>
+  </voice>
+  <voice name="de-DE-Wavenet-D">
+    <prosody rate="medium">
+      Nicht sofort. Versuchen Sie es vier Wochen mit mehr Bewegung.
+      Wenn es dann nicht besser wird, kommen Sie wieder.
+    </prosody>
+  </voice>
+  <break time="2s"/>
+
+  <!-- Gespräch 2: Zwei Freunde — einer macht Intervallfasten, der andere findet es extrem -->
+  <!-- correct: a — einer praktiziert Intervallfasten und erklärt den Ablauf -->
+  <voice name="de-DE-Wavenet-B">
+    <prosody rate="slow">Gespräch 2.</prosody>
+    <break time="1s"/>
+  </voice>
+  <voice name="de-DE-Wavenet-D">
+    <prosody rate="medium">
+      Hast du jetzt wirklich mit dem Intervallfasten angefangen? Wie läuft das bei dir?
+    </prosody>
+  </voice>
+  <voice name="de-DE-Wavenet-C">
+    <prosody rate="medium">
+      Ja, seit einem Monat. Ich esse nur zwischen 12 und 20 Uhr, morgens gibt es nichts außer Kaffee.
+      Ich finde es gar nicht so schwer — man gewöhnt sich dran.
+    </prosody>
+  </voice>
+  <voice name="de-DE-Wavenet-D">
+    <prosody rate="medium">
+      Das klingt für mich extrem. Kein Frühstück?
+    </prosody>
+  </voice>
+  <voice name="de-DE-Wavenet-C">
+    <prosody rate="medium">
+      Ich vermisse das Frühstück inzwischen kaum noch.
+      Und ich habe das Gefühl, dass ich klarer im Kopf bin.
+    </prosody>
+  </voice>
+  <break time="2s"/>
+  <voice name="de-DE-Wavenet-B">
+    <prosody rate="slow">Sie hören das Gespräch jetzt noch einmal.</prosody>
+    <break time="1s"/>
+  </voice>
+  <voice name="de-DE-Wavenet-D">
+    <prosody rate="medium">
+      Hast du jetzt wirklich mit dem Intervallfasten angefangen? Wie läuft das bei dir?
+    </prosody>
+  </voice>
+  <voice name="de-DE-Wavenet-C">
+    <prosody rate="medium">
+      Ja, seit einem Monat. Ich esse nur zwischen 12 und 20 Uhr, morgens gibt es nichts außer Kaffee.
+      Ich finde es gar nicht so schwer — man gewöhnt sich dran.
+    </prosody>
+  </voice>
+  <voice name="de-DE-Wavenet-D">
+    <prosody rate="medium">
+      Das klingt für mich extrem. Kein Frühstück?
+    </prosody>
+  </voice>
+  <voice name="de-DE-Wavenet-C">
+    <prosody rate="medium">
+      Ich vermisse das Frühstück inzwischen kaum noch.
+      Und ich habe das Gefühl, dass ich klarer im Kopf bin.
+    </prosody>
+  </voice>
+  <break time="2s"/>
+
+  <!-- Gespräch 3: Mutter und Sohn — Mutter fragt warum er nichts isst, Sohn hat Magenschmerzen -->
+  <!-- correct: c — Sohn hat Bauchschmerzen, isst deshalb nichts -->
+  <voice name="de-DE-Wavenet-B">
+    <prosody rate="slow">Gespräch 3.</prosody>
+    <break time="1s"/>
+  </voice>
+  <voice name="de-DE-Wavenet-C">
+    <prosody rate="medium">
+      Tim, du hast dein Frühstück kaum angerührt. Was ist los?
+    </prosody>
+  </voice>
+  <voice name="de-DE-Wavenet-D">
+    <prosody rate="medium">
+      Mir ist nicht so gut. Ich habe seit heute Nacht Bauchschmerzen.
+    </prosody>
+  </voice>
+  <voice name="de-DE-Wavenet-C">
+    <prosody rate="medium">
+      Oh, dann solltest du wirklich nichts Schweres essen. Tee und Zwieback?
+    </prosody>
+  </voice>
+  <voice name="de-DE-Wavenet-D">
+    <prosody rate="medium">
+      Ja, das wäre gut. Und vielleicht liege ich heute noch kurz.
+    </prosody>
+  </voice>
+  <break time="2s"/>
+  <voice name="de-DE-Wavenet-B">
+    <prosody rate="slow">Sie hören das Gespräch jetzt noch einmal.</prosody>
+    <break time="1s"/>
+  </voice>
+  <voice name="de-DE-Wavenet-C">
+    <prosody rate="medium">
+      Tim, du hast dein Frühstück kaum angerührt. Was ist los?
+    </prosody>
+  </voice>
+  <voice name="de-DE-Wavenet-D">
+    <prosody rate="medium">
+      Mir ist nicht so gut. Ich habe seit heute Nacht Bauchschmerzen.
+    </prosody>
+  </voice>
+  <voice name="de-DE-Wavenet-C">
+    <prosody rate="medium">
+      Oh, dann solltest du wirklich nichts Schweres essen. Tee und Zwieback?
+    </prosody>
+  </voice>
+  <voice name="de-DE-Wavenet-D">
+    <prosody rate="medium">
+      Ja, das wäre gut. Und vielleicht liege ich heute noch kurz.
+    </prosody>
+  </voice>
+  <break time="2s"/>
+
+  <!-- Gespräch 4: Supermarkt — Kundin fragt nach laktosefreier Milch, Mitarbeiter verweist auf Kühlregal -->
+  <!-- correct: b — laktosefreie Milch steht im Kühlregal mit Bio-Produkten -->
+  <voice name="de-DE-Wavenet-B">
+    <prosody rate="slow">Gespräch 4.</prosody>
+    <break time="1s"/>
+  </voice>
+  <voice name="de-DE-Wavenet-C">
+    <prosody rate="medium">
+      Entschuldigung, ich suche laktosefreie Milch. Wo finde ich die hier?
+    </prosody>
+  </voice>
+  <voice name="de-DE-Wavenet-D">
+    <prosody rate="medium">
+      Die steht im hinteren Kühlregal, gleich neben den Bio-Produkten.
+      Gehen Sie einfach durch bis zur letzten Kühltheke.
+    </prosody>
+  </voice>
+  <voice name="de-DE-Wavenet-C">
+    <prosody rate="medium">
+      Ah, vielen Dank! Haben Sie auch die Soja-Variante?
+    </prosody>
+  </voice>
+  <voice name="de-DE-Wavenet-D">
+    <prosody rate="medium">
+      Ja, Sojadrinks stehen direkt daneben, gleich im selben Regal.
+    </prosody>
+  </voice>
+  <break time="2s"/>
+  <voice name="de-DE-Wavenet-B">
+    <prosody rate="slow">Sie hören das Gespräch jetzt noch einmal.</prosody>
+    <break time="1s"/>
+  </voice>
+  <voice name="de-DE-Wavenet-C">
+    <prosody rate="medium">
+      Entschuldigung, ich suche laktosefreie Milch. Wo finde ich die hier?
+    </prosody>
+  </voice>
+  <voice name="de-DE-Wavenet-D">
+    <prosody rate="medium">
+      Die steht im hinteren Kühlregal, gleich neben den Bio-Produkten.
+      Gehen Sie einfach durch bis zur letzten Kühltheke.
+    </prosody>
+  </voice>
+  <voice name="de-DE-Wavenet-C">
+    <prosody rate="medium">
+      Ah, vielen Dank! Haben Sie auch die Soja-Variante?
+    </prosody>
+  </voice>
+  <voice name="de-DE-Wavenet-D">
+    <prosody rate="medium">
+      Ja, Sojadrinks stehen direkt daneben, gleich im selben Regal.
+    </prosody>
+  </voice>
+  <break time="2s"/>
+
+  <!-- Gespräch 5: Kochkurs — Teilnehmerin war am Mittwoch beim Kochkurs, hat Pasta gelernt -->
+  <!-- correct: a — Frau war bei Kochkurs und hat Pastateig selbst gemacht -->
+  <voice name="de-DE-Wavenet-B">
+    <prosody rate="slow">Gespräch 5.</prosody>
+    <break time="1s"/>
+  </voice>
+  <voice name="de-DE-Wavenet-D">
+    <prosody rate="medium">
+      Na, wie war dein Kochkurs gestern Abend?
+    </prosody>
+  </voice>
+  <voice name="de-DE-Wavenet-C">
+    <prosody rate="medium">
+      Wirklich toll! Wir haben frischen Pastateig von Hand gemacht —
+      das hätte ich mir vorher nie zugetraut. Und dazu eine Tomatensauce mit frischen Kräutern.
+    </prosody>
+  </voice>
+  <voice name="de-DE-Wavenet-D">
+    <prosody rate="medium">
+      Klingt lecker. Machst du nächste Woche auch mit?
+    </prosody>
+  </voice>
+  <voice name="de-DE-Wavenet-C">
+    <prosody rate="medium">
+      Ja, unbedingt. Nächste Woche machen wir asiatische Küche, da freue ich mich schon drauf.
+    </prosody>
+  </voice>
+  <break time="2s"/>
+  <voice name="de-DE-Wavenet-B">
+    <prosody rate="slow">Sie hören das Gespräch jetzt noch einmal.</prosody>
+    <break time="1s"/>
+  </voice>
+  <voice name="de-DE-Wavenet-D">
+    <prosody rate="medium">
+      Na, wie war dein Kochkurs gestern Abend?
+    </prosody>
+  </voice>
+  <voice name="de-DE-Wavenet-C">
+    <prosody rate="medium">
+      Wirklich toll! Wir haben frischen Pastateig von Hand gemacht —
+      das hätte ich mir vorher nie zugetraut. Und dazu eine Tomatensauce mit frischen Kräutern.
+    </prosody>
+  </voice>
+  <voice name="de-DE-Wavenet-D">
+    <prosody rate="medium">
+      Klingt lecker. Machst du nächste Woche auch mit?
+    </prosody>
+  </voice>
+  <voice name="de-DE-Wavenet-C">
+    <prosody rate="medium">
+      Ja, unbedingt. Nächste Woche machen wir asiatische Küche, da freue ich mich schon drauf.
+    </prosody>
+  </voice>
+  <break time="3s"/>
+
+  <voice name="de-DE-Wavenet-B">
+    <prosody rate="slow">Das ist das Ende von Teil 3.</prosody>
+  </voice>
+</speak>

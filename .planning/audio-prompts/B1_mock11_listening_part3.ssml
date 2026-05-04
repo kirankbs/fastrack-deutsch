@@ -1,0 +1,351 @@
+<speak>
+  <!-- B1 Mock 11 — Teil 3 (5 MCQ, short dialogues, playCount=2) -->
+  <!-- Narrator: de-DE-Wavenet-B (male, neutral) rate="slow" — instructions, Gespräch labels -->
+  <!-- Female speaker: de-DE-Wavenet-C (female, clear) rate="medium" — primary female roles -->
+  <!-- Male speaker: de-DE-Wavenet-D (male, warm) rate="medium" — primary male roles -->
+  <!-- Each conversation plays TWICE as per B1 Teil 3 spec -->
+  <!-- Topic: Arbeit und Beruf — Jobsuche, Büroalltag, Bewerbung -->
+  <!-- NOTE: Part 3 dialogues constructed from question context (no transcript in JSON source) -->
+  <!-- PLACEHOLDER — dialogue content derived from question explanations; review before production -->
+
+  <break time="3s"/>
+
+  <voice name="de-DE-Wavenet-B">
+    <prosody rate="slow">
+      Hören, Teil 3. Sie hören fünf kurze Gespräche. Zu jedem Gespräch gibt es eine Aufgabe.
+      Was ist richtig? Kreuzen Sie an: a, b oder c. Sie hören jedes Gespräch zweimal.
+    </prosody>
+    <break time="2s"/>
+  </voice>
+
+  <!-- Gespräch 1: Büro — Kollege muss Präsentation allein halten, Partnerin krank -->
+  <!-- correct: b — Kollegin ist krank, Kollege muss allein halten -->
+  <voice name="de-DE-Wavenet-B">
+    <prosody rate="slow">Gespräch 1.</prosody>
+    <break time="1s"/>
+  </voice>
+  <voice name="de-DE-Wavenet-D">
+    <prosody rate="medium">
+      Petra, ich mache mir Sorgen wegen der Präsentation morgen.
+      Hast du schon von Maria gehört? Sie hat mir eben geschrieben, dass sie krank ist.
+    </prosody>
+  </voice>
+  <voice name="de-DE-Wavenet-C">
+    <prosody rate="medium">
+      Oh nein, das ist ungünstig. Dann musst du morgen wohl allein vor dem Kunden präsentieren.
+    </prosody>
+  </voice>
+  <voice name="de-DE-Wavenet-D">
+    <prosody rate="medium">
+      Ich weiß, das wäre eigentlich Marias Teil. Aber ich habe alle Unterlagen,
+      ich kann die Kernpunkte auch alleine erklären.
+    </prosody>
+  </voice>
+  <voice name="de-DE-Wavenet-C">
+    <prosody rate="medium">
+      Genau, du schaffst das. Soll ich dir noch beim Durchlesen helfen?
+    </prosody>
+  </voice>
+  <voice name="de-DE-Wavenet-D">
+    <prosody rate="medium">
+      Das wäre nett, ja. Danke!
+    </prosody>
+  </voice>
+  <break time="2s"/>
+  <voice name="de-DE-Wavenet-B">
+    <prosody rate="slow">Sie hören das Gespräch jetzt noch einmal.</prosody>
+    <break time="1s"/>
+  </voice>
+  <voice name="de-DE-Wavenet-D">
+    <prosody rate="medium">
+      Petra, ich mache mir Sorgen wegen der Präsentation morgen.
+      Hast du schon von Maria gehört? Sie hat mir eben geschrieben, dass sie krank ist.
+    </prosody>
+  </voice>
+  <voice name="de-DE-Wavenet-C">
+    <prosody rate="medium">
+      Oh nein, das ist ungünstig. Dann musst du morgen wohl allein vor dem Kunden präsentieren.
+    </prosody>
+  </voice>
+  <voice name="de-DE-Wavenet-D">
+    <prosody rate="medium">
+      Ich weiß, das wäre eigentlich Marias Teil. Aber ich habe alle Unterlagen,
+      ich kann die Kernpunkte auch alleine erklären.
+    </prosody>
+  </voice>
+  <voice name="de-DE-Wavenet-C">
+    <prosody rate="medium">
+      Genau, du schaffst das. Soll ich dir noch beim Durchlesen helfen?
+    </prosody>
+  </voice>
+  <voice name="de-DE-Wavenet-D">
+    <prosody rate="medium">
+      Das wäre nett, ja. Danke!
+    </prosody>
+  </voice>
+  <break time="2s"/>
+
+  <!-- Gespräch 2: Telefoninterview — Kandidatin fragt nach Gehalt -->
+  <!-- correct: c — Kandidatin fragt am Ende nach dem Gehalt -->
+  <voice name="de-DE-Wavenet-B">
+    <prosody rate="slow">Gespräch 2.</prosody>
+    <break time="1s"/>
+  </voice>
+  <voice name="de-DE-Wavenet-D">
+    <prosody rate="medium">
+      Frau Hoffmann, vielen Dank für Ihre Bewerbung. Wir hatten jetzt die Möglichkeit,
+      Ihre Unterlagen durchzusehen und möchten Sie gerne näher kennenlernen.
+      Haben Sie noch Fragen zu uns oder zur Stelle?
+    </prosody>
+  </voice>
+  <voice name="de-DE-Wavenet-C">
+    <prosody rate="medium">
+      Ja, eine Frage habe ich noch: Könnten Sie mir etwas zum Gehaltsrahmen sagen?
+      Ich möchte gerne wissen, ob unsere Vorstellungen zusammenpassen.
+    </prosody>
+  </voice>
+  <voice name="de-DE-Wavenet-D">
+    <prosody rate="medium">
+      Natürlich. Wir bieten ein Jahresgehalt zwischen 42.000 und 48.000 Euro,
+      je nach Erfahrung und Qualifikation.
+    </prosody>
+  </voice>
+  <voice name="de-DE-Wavenet-C">
+    <prosody rate="medium">
+      Das klingt sehr gut, vielen Dank. Ich freue mich auf das persönliche Gespräch.
+    </prosody>
+  </voice>
+  <break time="2s"/>
+  <voice name="de-DE-Wavenet-B">
+    <prosody rate="slow">Sie hören das Gespräch jetzt noch einmal.</prosody>
+    <break time="1s"/>
+  </voice>
+  <voice name="de-DE-Wavenet-D">
+    <prosody rate="medium">
+      Frau Hoffmann, vielen Dank für Ihre Bewerbung. Wir hatten jetzt die Möglichkeit,
+      Ihre Unterlagen durchzusehen und möchten Sie gerne näher kennenlernen.
+      Haben Sie noch Fragen zu uns oder zur Stelle?
+    </prosody>
+  </voice>
+  <voice name="de-DE-Wavenet-C">
+    <prosody rate="medium">
+      Ja, eine Frage habe ich noch: Könnten Sie mir etwas zum Gehaltsrahmen sagen?
+      Ich möchte gerne wissen, ob unsere Vorstellungen zusammenpassen.
+    </prosody>
+  </voice>
+  <voice name="de-DE-Wavenet-D">
+    <prosody rate="medium">
+      Natürlich. Wir bieten ein Jahresgehalt zwischen 42.000 und 48.000 Euro,
+      je nach Erfahrung und Qualifikation.
+    </prosody>
+  </voice>
+  <voice name="de-DE-Wavenet-C">
+    <prosody rate="medium">
+      Das klingt sehr gut, vielen Dank. Ich freue mich auf das persönliche Gespräch.
+    </prosody>
+  </voice>
+  <break time="2s"/>
+
+  <!-- Gespräch 3: Homeoffice — Kollegen einigen sich auf Dienstag als Bürotag -->
+  <!-- correct: b — beide kommen dienstags ins Büro -->
+  <voice name="de-DE-Wavenet-B">
+    <prosody rate="slow">Gespräch 3.</prosody>
+    <break time="1s"/>
+  </voice>
+  <voice name="de-DE-Wavenet-C">
+    <prosody rate="medium">
+      Sag mal, Stefan, wann bist du eigentlich nächste Woche im Büro?
+      Ich würde gerne persönlich mit dir das neue Projekt besprechen.
+    </prosody>
+  </voice>
+  <voice name="de-DE-Wavenet-D">
+    <prosody rate="medium">
+      Ich plane Dienstag und Donnerstag vor Ort zu sein. Dienstag wäre für mich am besten.
+    </prosody>
+  </voice>
+  <voice name="de-DE-Wavenet-C">
+    <prosody rate="medium">
+      Perfekt, Dienstag passt mir auch gut. Dann machen wir das am Dienstagvormittag?
+    </prosody>
+  </voice>
+  <voice name="de-DE-Wavenet-D">
+    <prosody rate="medium">
+      Ja, ab 10 Uhr bin ich frei. Reservier doch kurz den kleinen Besprechungsraum.
+    </prosody>
+  </voice>
+  <voice name="de-DE-Wavenet-C">
+    <prosody rate="medium">
+      Mache ich. Bis Dienstag dann!
+    </prosody>
+  </voice>
+  <break time="2s"/>
+  <voice name="de-DE-Wavenet-B">
+    <prosody rate="slow">Sie hören das Gespräch jetzt noch einmal.</prosody>
+    <break time="1s"/>
+  </voice>
+  <voice name="de-DE-Wavenet-C">
+    <prosody rate="medium">
+      Sag mal, Stefan, wann bist du eigentlich nächste Woche im Büro?
+      Ich würde gerne persönlich mit dir das neue Projekt besprechen.
+    </prosody>
+  </voice>
+  <voice name="de-DE-Wavenet-D">
+    <prosody rate="medium">
+      Ich plane Dienstag und Donnerstag vor Ort zu sein. Dienstag wäre für mich am besten.
+    </prosody>
+  </voice>
+  <voice name="de-DE-Wavenet-C">
+    <prosody rate="medium">
+      Perfekt, Dienstag passt mir auch gut. Dann machen wir das am Dienstagvormittag?
+    </prosody>
+  </voice>
+  <voice name="de-DE-Wavenet-D">
+    <prosody rate="medium">
+      Ja, ab 10 Uhr bin ich frei. Reservier doch kurz den kleinen Besprechungsraum.
+    </prosody>
+  </voice>
+  <voice name="de-DE-Wavenet-C">
+    <prosody rate="medium">
+      Mache ich. Bis Dienstag dann!
+    </prosody>
+  </voice>
+  <break time="2s"/>
+
+  <!-- Gespräch 4: Mitarbeitergespräch — Chef lobt Arbeit, schlägt Weiterbildung vor -->
+  <!-- correct: a — Chef schlägt Weiterbildungskurs vor -->
+  <voice name="de-DE-Wavenet-B">
+    <prosody rate="slow">Gespräch 4.</prosody>
+    <break time="1s"/>
+  </voice>
+  <voice name="de-DE-Wavenet-D">
+    <prosody rate="medium">
+      Frau Nguyen, ich freue mich, dass wir heute Zeit für dieses Gespräch haben.
+      Ihre Arbeit in den letzten Monaten war wirklich sehr gut, das möchte ich ausdrücklich betonen.
+    </prosody>
+  </voice>
+  <voice name="de-DE-Wavenet-C">
+    <prosody rate="medium">
+      Vielen Dank, das höre ich gerne. Ich lerne noch viel, aber ich engagiere mich gern.
+    </prosody>
+  </voice>
+  <voice name="de-DE-Wavenet-D">
+    <prosody rate="medium">
+      Genau das ist der Punkt. Ich würde Ihnen gerne einen Weiterbildungskurs im Bereich Projektmanagement
+      anbieten. Das würde Ihnen und dem Team langfristig helfen.
+    </prosody>
+  </voice>
+  <voice name="de-DE-Wavenet-C">
+    <prosody rate="medium">
+      Das würde ich sehr gern annehmen. Wann würde der Kurs stattfinden?
+    </prosody>
+  </voice>
+  <voice name="de-DE-Wavenet-D">
+    <prosody rate="medium">
+      Ich schicke Ihnen diese Woche noch die Details per E-Mail.
+    </prosody>
+  </voice>
+  <break time="2s"/>
+  <voice name="de-DE-Wavenet-B">
+    <prosody rate="slow">Sie hören das Gespräch jetzt noch einmal.</prosody>
+    <break time="1s"/>
+  </voice>
+  <voice name="de-DE-Wavenet-D">
+    <prosody rate="medium">
+      Frau Nguyen, ich freue mich, dass wir heute Zeit für dieses Gespräch haben.
+      Ihre Arbeit in den letzten Monaten war wirklich sehr gut, das möchte ich ausdrücklich betonen.
+    </prosody>
+  </voice>
+  <voice name="de-DE-Wavenet-C">
+    <prosody rate="medium">
+      Vielen Dank, das höre ich gerne. Ich lerne noch viel, aber ich engagiere mich gern.
+    </prosody>
+  </voice>
+  <voice name="de-DE-Wavenet-D">
+    <prosody rate="medium">
+      Genau das ist der Punkt. Ich würde Ihnen gerne einen Weiterbildungskurs im Bereich Projektmanagement
+      anbieten. Das würde Ihnen und dem Team langfristig helfen.
+    </prosody>
+  </voice>
+  <voice name="de-DE-Wavenet-C">
+    <prosody rate="medium">
+      Das würde ich sehr gern annehmen. Wann würde der Kurs stattfinden?
+    </prosody>
+  </voice>
+  <voice name="de-DE-Wavenet-D">
+    <prosody rate="medium">
+      Ich schicke Ihnen diese Woche noch die Details per E-Mail.
+    </prosody>
+  </voice>
+  <break time="2s"/>
+
+  <!-- Gespräch 5: Kollegin — ihre frühere Stelle wurde gestrichen, sie sucht nun aktiv -->
+  <!-- correct: c — Stelle wurde gestrichen, sucht aktiv im Marketing -->
+  <voice name="de-DE-Wavenet-B">
+    <prosody rate="slow">Gespräch 5.</prosody>
+    <break time="1s"/>
+  </voice>
+  <voice name="de-DE-Wavenet-D">
+    <prosody rate="medium">
+      Ich habe gehört, du bist gerade auf Jobsuche. Wie läuft das so?
+    </prosody>
+  </voice>
+  <voice name="de-DE-Wavenet-C">
+    <prosody rate="medium">
+      Ja, seit drei Monaten schon. Die Firma hat leider Stellen abgebaut —
+      meine Stelle wurde einfach gestrichen. Das war natürlich ein Schock.
+    </prosody>
+  </voice>
+  <voice name="de-DE-Wavenet-D">
+    <prosody rate="medium">
+      Das tut mir leid. Hast du schon Vorstellungsgespräche?
+    </prosody>
+  </voice>
+  <voice name="de-DE-Wavenet-C">
+    <prosody rate="medium">
+      Ja, zwei schon. Ich bewerbe mich hauptsächlich im Bereich Marketing.
+      Nächste Woche habe ich noch einen Termin, da bin ich optimistisch.
+    </prosody>
+  </voice>
+  <voice name="de-DE-Wavenet-D">
+    <prosody rate="medium">
+      Das klingt gut. Ich drücke dir die Daumen!
+    </prosody>
+  </voice>
+  <break time="2s"/>
+  <voice name="de-DE-Wavenet-B">
+    <prosody rate="slow">Sie hören das Gespräch jetzt noch einmal.</prosody>
+    <break time="1s"/>
+  </voice>
+  <voice name="de-DE-Wavenet-D">
+    <prosody rate="medium">
+      Ich habe gehört, du bist gerade auf Jobsuche. Wie läuft das so?
+    </prosody>
+  </voice>
+  <voice name="de-DE-Wavenet-C">
+    <prosody rate="medium">
+      Ja, seit drei Monaten schon. Die Firma hat leider Stellen abgebaut —
+      meine Stelle wurde einfach gestrichen. Das war natürlich ein Schock.
+    </prosody>
+  </voice>
+  <voice name="de-DE-Wavenet-D">
+    <prosody rate="medium">
+      Das tut mir leid. Hast du schon Vorstellungsgespräche?
+    </prosody>
+  </voice>
+  <voice name="de-DE-Wavenet-C">
+    <prosody rate="medium">
+      Ja, zwei schon. Ich bewerbe mich hauptsächlich im Bereich Marketing.
+      Nächste Woche habe ich noch einen Termin, da bin ich optimistisch.
+    </prosody>
+  </voice>
+  <voice name="de-DE-Wavenet-D">
+    <prosody rate="medium">
+      Das klingt gut. Ich drücke dir die Daumen!
+    </prosody>
+  </voice>
+  <break time="3s"/>
+
+  <voice name="de-DE-Wavenet-B">
+    <prosody rate="slow">Das ist das Ende von Teil 3.</prosody>
+  </voice>
+</speak>

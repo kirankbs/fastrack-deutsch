@@ -1,0 +1,293 @@
+<speak>
+  <!-- B1 Mock 14 — Teil 3 (5 MCQ, conversation Lena + Großvater Heinrich, playCount=2) -->
+  <!-- Narrator: de-DE-Wavenet-B (male, neutral) rate="slow" — instructions, section labels -->
+  <!-- Lena (Teenagerin): de-DE-Wavenet-C (female, clear) rate="medium" — granddaughter -->
+  <!-- Heinrich (Großvater): de-DE-Wavenet-F (male, slightly older) rate="medium" — grandfather -->
+  <!-- Each conversation plays TWICE as per B1 Teil 3 spec -->
+  <!-- Topic: Familiengeschichte — Schulprojekt, Hamburg, Schneiderei, Unterlagen, gemeinsames Kochen -->
+  <!-- Full transcript sourced from mock_14.json question explanations -->
+
+  <break time="3s"/>
+
+  <voice name="de-DE-Wavenet-B">
+    <prosody rate="slow">
+      Hören, Teil 3. Sie hören ein Gespräch zwischen der Teenagerin Lena und ihrem Großvater Heinrich.
+      Zu jedem Gesprächsabschnitt gibt es eine Aufgabe.
+      Was ist richtig? Kreuzen Sie an: a, b oder c. Sie hören das Gespräch zweimal.
+    </prosody>
+    <break time="2s"/>
+  </voice>
+
+  <!-- Abschnitt 1: Lena kommt für Schulprojekt über Familiengeschichte -->
+  <!-- correct: c -->
+  <voice name="de-DE-Wavenet-B">
+    <prosody rate="slow">Abschnitt 1.</prosody>
+    <break time="1s"/>
+  </voice>
+  <voice name="de-DE-Wavenet-C">
+    <prosody rate="medium">
+      Hallo Opa! Danke, dass ich kurzfristig vorbeikommen konnte.
+    </prosody>
+  </voice>
+  <voice name="de-DE-Wavenet-F">
+    <prosody rate="medium">
+      Lena! Immer! Ich habe sowieso gleich meinen Arzttermin, aber der ist erst um drei.
+      Was hat dich her geführt?
+    </prosody>
+  </voice>
+  <voice name="de-DE-Wavenet-C">
+    <prosody rate="medium">
+      Opa, ich mache gerade ein Projekt für die Schule —
+      wir sollen unsere Familiengeschichte recherchieren.
+      Du kennst doch die meisten Geschichten. Kannst du mir helfen?
+    </prosody>
+  </voice>
+  <voice name="de-DE-Wavenet-F">
+    <prosody rate="medium">
+      Natürlich! Das mache ich doch gerne. Setz dich, ich mache uns schnell einen Tee.
+    </prosody>
+  </voice>
+  <break time="2s"/>
+
+  <!-- Abschnitt 2: Heinrichs Vater in Hamburg — Fabrik dann eigene Schneiderei -->
+  <!-- correct: c -->
+  <voice name="de-DE-Wavenet-B">
+    <prosody rate="slow">Abschnitt 2.</prosody>
+    <break time="1s"/>
+  </voice>
+  <voice name="de-DE-Wavenet-C">
+    <prosody rate="medium">
+      Opa, was hat Urgroßvater eigentlich gemacht, als er nach Hamburg gezogen ist?
+    </prosody>
+  </voice>
+  <voice name="de-DE-Wavenet-F">
+    <prosody rate="medium">
+      Zuerst hat er in der Textilfabrik am Hafen angefangen —
+      das war harte Arbeit, aber er hat gespart.
+      Und nach vier Jahren hat er mit dem gesparten Geld eine eigene Schneiderei aufgemacht.
+      Nicht groß, aber seine eigene.
+    </prosody>
+  </voice>
+  <voice name="de-DE-Wavenet-C">
+    <prosody rate="medium">
+      Das klingt nach einem richtigen Unternehmergeist!
+    </prosody>
+  </voice>
+  <voice name="de-DE-Wavenet-F">
+    <prosody rate="medium">
+      Ja, das war er. Eigensinnig, aber fleißig.
+    </prosody>
+  </voice>
+  <break time="2s"/>
+
+  <!-- Abschnitt 3: Was Lena am Projekt am meisten ärgert — wenige Dokumente, wenig Zeit -->
+  <!-- correct: c -->
+  <voice name="de-DE-Wavenet-B">
+    <prosody rate="slow">Abschnitt 3.</prosody>
+    <break time="1s"/>
+  </voice>
+  <voice name="de-DE-Wavenet-C">
+    <prosody rate="medium">
+      Das Schlimmste ist, dass wir kaum Fotos oder Dokumente haben —
+      und die Abgabe ist schon in zwei Wochen.
+      Ich weiß nicht, wie ich das alles zusammenbekommen soll.
+    </prosody>
+  </voice>
+  <voice name="de-DE-Wavenet-F">
+    <prosody rate="medium">
+      Ich verstehe das. So ein Projekt braucht Material.
+    </prosody>
+  </voice>
+  <voice name="de-DE-Wavenet-C">
+    <prosody rate="medium">
+      Genau. Meine Lehrerin sagt, wir brauchen Belege, keine Geschichten aus dem Kopf.
+    </prosody>
+  </voice>
+  <break time="2s"/>
+
+  <!-- Abschnitt 4: Heinrich schlägt Kiste mit alten Briefen und Fotos vom Dachboden vor -->
+  <!-- correct: a -->
+  <voice name="de-DE-Wavenet-B">
+    <prosody rate="slow">Abschnitt 4.</prosody>
+    <break time="1s"/>
+  </voice>
+  <voice name="de-DE-Wavenet-F">
+    <prosody rate="medium">
+      Warte mal, ich glaube, auf meinem Dachboden steht noch eine Schachtel
+      mit alten Briefen und einigen Fotos meiner Eltern.
+      Die kannst du gerne haben — oder zumindest mal durchschauen.
+    </prosody>
+  </voice>
+  <voice name="de-DE-Wavenet-C">
+    <prosody rate="medium">
+      Wirklich?! Das wäre unglaublich hilfreich!
+    </prosody>
+  </voice>
+  <voice name="de-DE-Wavenet-F">
+    <prosody rate="medium">
+      Ich hole sie gleich nach dem Tee runter.
+    </prosody>
+  </voice>
+  <break time="2s"/>
+
+  <!-- Abschnitt 5: Einigung — gemeinsam kochen und weiter über Familiengeschichte reden -->
+  <!-- correct: b -->
+  <voice name="de-DE-Wavenet-B">
+    <prosody rate="slow">Abschnitt 5.</prosody>
+    <break time="1s"/>
+  </voice>
+  <voice name="de-DE-Wavenet-F">
+    <prosody rate="medium">
+      Bleib doch zum Mittagessen — ich mache mein altes Gulasch,
+      und du kannst mir erzählen, was du noch brauchst.
+      Dann können wir in Ruhe weitermachen.
+    </prosody>
+  </voice>
+  <voice name="de-DE-Wavenet-C">
+    <prosody rate="medium">
+      Das klingt perfekt, Opa. Ich bleibe sehr gerne.
+      Und dann gehe ich mit der Schachtel nach Hause — da freue ich mich schon drauf.
+    </prosody>
+  </voice>
+  <voice name="de-DE-Wavenet-F">
+    <prosody rate="medium">
+      Gut so. Dann fangen wir mal an.
+    </prosody>
+  </voice>
+  <break time="2s"/>
+
+  <!-- Repeat marker -->
+  <voice name="de-DE-Wavenet-B">
+    <prosody rate="slow">Sie hören das Gespräch jetzt noch einmal.</prosody>
+    <break time="1s"/>
+  </voice>
+
+  <!-- Full repeat of all 5 Abschnitte -->
+  <voice name="de-DE-Wavenet-B">
+    <prosody rate="slow">Abschnitt 1.</prosody>
+    <break time="1s"/>
+  </voice>
+  <voice name="de-DE-Wavenet-C">
+    <prosody rate="medium">
+      Hallo Opa! Danke, dass ich kurzfristig vorbeikommen konnte.
+    </prosody>
+  </voice>
+  <voice name="de-DE-Wavenet-F">
+    <prosody rate="medium">
+      Lena! Immer! Ich habe sowieso gleich meinen Arzttermin, aber der ist erst um drei.
+      Was hat dich her geführt?
+    </prosody>
+  </voice>
+  <voice name="de-DE-Wavenet-C">
+    <prosody rate="medium">
+      Opa, ich mache gerade ein Projekt für die Schule —
+      wir sollen unsere Familiengeschichte recherchieren.
+      Du kennst doch die meisten Geschichten. Kannst du mir helfen?
+    </prosody>
+  </voice>
+  <voice name="de-DE-Wavenet-F">
+    <prosody rate="medium">
+      Natürlich! Das mache ich doch gerne. Setz dich, ich mache uns schnell einen Tee.
+    </prosody>
+  </voice>
+  <break time="2s"/>
+
+  <voice name="de-DE-Wavenet-B">
+    <prosody rate="slow">Abschnitt 2.</prosody>
+    <break time="1s"/>
+  </voice>
+  <voice name="de-DE-Wavenet-C">
+    <prosody rate="medium">
+      Opa, was hat Urgroßvater eigentlich gemacht, als er nach Hamburg gezogen ist?
+    </prosody>
+  </voice>
+  <voice name="de-DE-Wavenet-F">
+    <prosody rate="medium">
+      Zuerst hat er in der Textilfabrik am Hafen angefangen —
+      das war harte Arbeit, aber er hat gespart.
+      Und nach vier Jahren hat er mit dem gesparten Geld eine eigene Schneiderei aufgemacht.
+    </prosody>
+  </voice>
+  <voice name="de-DE-Wavenet-C">
+    <prosody rate="medium">
+      Das klingt nach einem richtigen Unternehmergeist!
+    </prosody>
+  </voice>
+  <voice name="de-DE-Wavenet-F">
+    <prosody rate="medium">
+      Ja, das war er. Eigensinnig, aber fleißig.
+    </prosody>
+  </voice>
+  <break time="2s"/>
+
+  <voice name="de-DE-Wavenet-B">
+    <prosody rate="slow">Abschnitt 3.</prosody>
+    <break time="1s"/>
+  </voice>
+  <voice name="de-DE-Wavenet-C">
+    <prosody rate="medium">
+      Das Schlimmste ist, dass wir kaum Fotos oder Dokumente haben —
+      und die Abgabe ist schon in zwei Wochen.
+    </prosody>
+  </voice>
+  <voice name="de-DE-Wavenet-F">
+    <prosody rate="medium">
+      Ich verstehe das. So ein Projekt braucht Material.
+    </prosody>
+  </voice>
+  <voice name="de-DE-Wavenet-C">
+    <prosody rate="medium">
+      Genau. Meine Lehrerin sagt, wir brauchen Belege, keine Geschichten aus dem Kopf.
+    </prosody>
+  </voice>
+  <break time="2s"/>
+
+  <voice name="de-DE-Wavenet-B">
+    <prosody rate="slow">Abschnitt 4.</prosody>
+    <break time="1s"/>
+  </voice>
+  <voice name="de-DE-Wavenet-F">
+    <prosody rate="medium">
+      Warte mal, ich glaube, auf meinem Dachboden steht noch eine Schachtel
+      mit alten Briefen und einigen Fotos meiner Eltern.
+      Die kannst du gerne haben.
+    </prosody>
+  </voice>
+  <voice name="de-DE-Wavenet-C">
+    <prosody rate="medium">
+      Wirklich?! Das wäre unglaublich hilfreich!
+    </prosody>
+  </voice>
+  <voice name="de-DE-Wavenet-F">
+    <prosody rate="medium">
+      Ich hole sie gleich nach dem Tee runter.
+    </prosody>
+  </voice>
+  <break time="2s"/>
+
+  <voice name="de-DE-Wavenet-B">
+    <prosody rate="slow">Abschnitt 5.</prosody>
+    <break time="1s"/>
+  </voice>
+  <voice name="de-DE-Wavenet-F">
+    <prosody rate="medium">
+      Bleib doch zum Mittagessen — ich mache mein altes Gulasch,
+      und du kannst mir erzählen, was du noch brauchst.
+    </prosody>
+  </voice>
+  <voice name="de-DE-Wavenet-C">
+    <prosody rate="medium">
+      Das klingt perfekt, Opa. Ich bleibe sehr gerne.
+    </prosody>
+  </voice>
+  <voice name="de-DE-Wavenet-F">
+    <prosody rate="medium">
+      Gut so. Dann fangen wir mal an.
+    </prosody>
+  </voice>
+  <break time="3s"/>
+
+  <voice name="de-DE-Wavenet-B">
+    <prosody rate="slow">Das ist das Ende von Teil 3.</prosody>
+  </voice>
+</speak>

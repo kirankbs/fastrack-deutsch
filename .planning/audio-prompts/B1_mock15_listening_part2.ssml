@@ -1,0 +1,161 @@
+<speak>
+  <!-- B1 Mock 15 — Teil 2 (10 True/False, radio report, playCount=1) -->
+  <!-- Narrator: de-DE-Wavenet-B (male, neutral) rate="slow" — instructions -->
+  <!-- Moderatorin: de-DE-Wavenet-C (female, clear) rate="medium" — radio host -->
+  <!-- Experte Dr. Felix Kern: de-DE-Wavenet-D (male, warm) rate="medium" — Institut für Medienpädagogik -->
+  <!-- Zusatzstimme: de-DE-Wavenet-F (male, slightly older) rate="medium" — statistics voice -->
+  <!-- No repeat — Teil 2 plays ONCE at B1 -->
+  <!-- Topic: Medienkonsum der Deutschen — Doom-Scrolling, Social Media, Digital Detox, Schlaf -->
+
+  <break time="3s"/>
+
+  <voice name="de-DE-Wavenet-B">
+    <prosody rate="slow">
+      Hören, Teil 2. Sie hören einen Radiobericht. Entscheiden Sie, ob die folgenden zehn Aussagen
+      richtig oder falsch sind. Sie hören den Text nur einmal.
+    </prosody>
+    <break time="2s"/>
+  </voice>
+
+  <!-- Radio report begins -->
+  <voice name="de-DE-Wavenet-C">
+    <prosody rate="medium">
+      Guten Morgen und willkommen zu unserem Morgenmagazin.
+      Heute beschäftigen wir uns damit, wie sich unser Medienkonsum in den letzten Jahren
+      grundlegend verändert hat.
+      Mein Gast ist Dr. Felix Kern vom Institut für Medienpädagogik und digitale Bildung.
+      Guten Morgen, Herr Dr. Kern!
+    </prosody>
+    <break time="1s"/>
+  </voice>
+
+  <voice name="de-DE-Wavenet-D">
+    <prosody rate="medium">
+      Guten Morgen!
+    </prosody>
+    <break time="1s"/>
+  </voice>
+
+  <voice name="de-DE-Wavenet-C">
+    <prosody rate="medium">
+      Wie viel fernsehen Jugendliche eigentlich noch?
+    </prosody>
+    <break time="1s"/>
+  </voice>
+
+  <voice name="de-DE-Wavenet-F">
+    <prosody rate="medium">
+      Laut einer aktuellen Studie liegt die tägliche Fernsehzeit bei Jugendlichen zwischen 14 und 29 Jahren
+      bei durchschnittlich nur noch 45 Minuten.
+      Die gesamte Bildschirmzeit liegt aber bei etwa vier Stunden — der Rest verteilt sich auf Smartphones,
+      Tablets und Streaming.
+    </prosody>
+    <break time="1s"/>
+  </voice>
+
+  <voice name="de-DE-Wavenet-C">
+    <prosody rate="medium">
+      Herr Dr. Kern, was sagen Sie zu Social Media — ist das nur schädlich?
+    </prosody>
+    <break time="1s"/>
+  </voice>
+
+  <voice name="de-DE-Wavenet-D">
+    <prosody rate="medium">
+      Nein, Social Media hat durchaus positive Seiten — es fördert kreatives Ausdrücken
+      und globale Vernetzung. Das Problem liegt im unreflektierten Dauerkonsum.
+      Man scrollt, ohne wirklich etwas wahrzunehmen.
+    </prosody>
+    <break time="1s"/>
+  </voice>
+
+  <voice name="de-DE-Wavenet-C">
+    <prosody rate="medium">
+      Doom-Scrolling — das hört man immer wieder. Was versteht man darunter?
+    </prosody>
+    <break time="1s"/>
+  </voice>
+
+  <voice name="de-DE-Wavenet-D">
+    <prosody rate="medium">
+      Doom-Scrolling meint das endlose Durchscrollen von überwiegend negativen Schlagzeilen
+      und Meldungen, ohne bewusst zu lesen.
+      Man weiß danach, dass man etwas gesehen hat, aber nicht wirklich, was.
+    </prosody>
+    <break time="1s"/>
+  </voice>
+
+  <voice name="de-DE-Wavenet-C">
+    <prosody rate="medium">
+      Haben Unternehmen reagiert und Social Media während der Arbeitszeit verboten?
+    </prosody>
+    <break time="1s"/>
+  </voice>
+
+  <voice name="de-DE-Wavenet-F">
+    <prosody rate="medium">
+      Nur jedes fünfte Unternehmen hat bislang klare Regeln zum Social-Media-Konsum
+      in der Arbeitszeit aufgestellt. Die Mehrheit hat noch keine formellen Regelungen.
+    </prosody>
+    <break time="1s"/>
+  </voice>
+
+  <voice name="de-DE-Wavenet-C">
+    <prosody rate="medium">
+      Wer nutzt eigentlich Digital-Detox-Programme?
+    </prosody>
+    <break time="1s"/>
+  </voice>
+
+  <voice name="de-DE-Wavenet-F">
+    <prosody rate="medium">
+      Interessanterweise sind die Hauptnutzer solcher Detox-Angebote junge Erwachsene
+      zwischen 25 und 35 Jahren — also die Generation, die am meisten mit digitalen Medien aufgewachsen ist.
+    </prosody>
+    <break time="1s"/>
+  </voice>
+
+  <voice name="de-DE-Wavenet-C">
+    <prosody rate="medium">
+      Herr Dr. Kern, was ist Ihr erster praktischer Tipp?
+    </prosody>
+    <break time="1s"/>
+  </voice>
+
+  <voice name="de-DE-Wavenet-D">
+    <prosody rate="medium">
+      Mein erster Tipp: Legen Sie das Smartphone mindestens eine Stunde vor dem Einschlafen weg.
+      Das verbessert nachweislich die Schlafqualität — und das merken die meisten Menschen sehr schnell.
+    </prosody>
+    <break time="1s"/>
+  </voice>
+
+  <voice name="de-DE-Wavenet-C">
+    <prosody rate="medium">
+      Und sind gedruckte Zeitungen tatsächlich schon verschwunden?
+    </prosody>
+    <break time="1s"/>
+  </voice>
+
+  <voice name="de-DE-Wavenet-C">
+    <prosody rate="medium">
+      Gedruckte Zeitungen verlieren zwar Leser, aber sie sind noch nicht verschwunden —
+      besonders ältere Generationen lesen sie weiterhin regelmäßig.
+    </prosody>
+    <break time="1s"/>
+  </voice>
+
+  <voice name="de-DE-Wavenet-C">
+    <prosody rate="medium">
+      Dr. Kern, vielen Dank!
+      Unsere Hörer können sich unter der kostenlosen Hotline-Nummer 0800-223344 weiter informieren.
+      Das war unser Morgenmagazin. Einen guten Tag!
+    </prosody>
+  </voice>
+
+  <break time="3s"/>
+
+  <voice name="de-DE-Wavenet-B">
+    <prosody rate="slow">Das ist das Ende von Teil 2.</prosody>
+  </voice>
+</speak>

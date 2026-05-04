@@ -1,0 +1,97 @@
+<speak>
+  <!-- B1 Mock 12 — Teil 1 (5 True/False, short audio clips, playCount=1) -->
+  <!-- Narrator/Announcer: de-DE-Wavenet-B (male, neutral) rate="slow" — instructions, task labels -->
+  <!-- Female speaker: de-DE-Wavenet-C (female, clear) rate="medium" — doctor, female roles -->
+  <!-- Male speaker: de-DE-Wavenet-D (male, warm) rate="medium" — announcements, studio voice -->
+  <!-- No repeat — Teil 1 plays ONCE at B1 -->
+  <!-- Topic: Gesundheit und Alltag — Arztpraxis, Fitnessstudio, Apotheke, Radiosendung, Hallenbad -->
+
+  <break time="3s"/>
+
+  <voice name="de-DE-Wavenet-B">
+    <prosody rate="slow">
+      Hören, Teil 1. Sie hören fünf kurze Texte. Entscheiden Sie bei jedem Text:
+      Ist die Aussage richtig oder falsch? Sie hören jeden Text nur einmal.
+    </prosody>
+    <break time="2s"/>
+  </voice>
+
+  <!-- Aufgabe 1: Arztpraxis — Termin Dienstag 10:30 Uhr, bei Verhinderung bis Montag anrufen -->
+  <voice name="de-DE-Wavenet-B">
+    <prosody rate="slow">Aufgabe 1.</prosody>
+    <break time="1s"/>
+  </voice>
+  <voice name="de-DE-Wavenet-C">
+    <prosody rate="medium">
+      Guten Tag, hier ist die Praxis Dr. Winkler. Diese Nachricht geht an Herrn Brandt.
+      Bitte kommen Sie nächsten Dienstag um 10 Uhr 30 zu Ihrem Kontrolltermin.
+      Falls Sie verhindert sind, rufen Sie uns bitte bis Montag an.
+      Vielen Dank!
+    </prosody>
+  </voice>
+  <break time="2s"/>
+
+  <!-- Aufgabe 2: Fitnessstudio — neuer Yoga-Flow-Kurs jeden Samstagmorgen 9 Uhr -->
+  <voice name="de-DE-Wavenet-B">
+    <prosody rate="slow">Aufgabe 2.</prosody>
+    <break time="1s"/>
+  </voice>
+  <voice name="de-DE-Wavenet-D">
+    <prosody rate="medium">
+      Hallo liebe Mitglieder, hier ist eine kurze Info von eurem FitPark-Team.
+      Ab dieser Woche bieten wir ein neues Kursangebot an.
+      Jeden Samstagmorgen um 9 Uhr findet unser neuer Yoga-Flow-Kurs statt.
+      Anmeldung einfach über unsere App. Wir freuen uns auf euch!
+    </prosody>
+  </voice>
+  <break time="2s"/>
+
+  <!-- Aufgabe 3: Apotheke — Mittagspause 12–14:30 Uhr, Nachmittag ab 14:30 wieder offen -->
+  <voice name="de-DE-Wavenet-B">
+    <prosody rate="slow">Aufgabe 3.</prosody>
+    <break time="1s"/>
+  </voice>
+  <voice name="de-DE-Wavenet-C">
+    <prosody rate="medium">
+      Willkommen bei der Stadt-Apotheke am Markt. Unsere Öffnungszeiten:
+      Montags bis freitags von 8 bis 12 Uhr und von 14 Uhr 30 bis 18 Uhr.
+      Samstags nur von 9 bis 13 Uhr.
+      In dringenden Fällen wenden Sie sich bitte an die Notfallnummer auf unserem Aushang.
+    </prosody>
+  </voice>
+  <break time="2s"/>
+
+  <!-- Aufgabe 4: Radiosendung — Ärztin empfiehlt täglich 30 Minuten spazieren -->
+  <voice name="de-DE-Wavenet-B">
+    <prosody rate="slow">Aufgabe 4.</prosody>
+    <break time="1s"/>
+  </voice>
+  <voice name="de-DE-Wavenet-C">
+    <prosody rate="medium">
+      Viele Menschen denken, Sport muss intensiv sein, um zu wirken.
+      Aber das stimmt nicht. Schon ein täglicher Spaziergang von mindestens dreißig Minuten
+      kann das Herzkreislaufsystem deutlich stärken.
+      Das ist eine der günstigsten und wirksamsten Präventionsmaßnahmen, die es gibt.
+    </prosody>
+  </voice>
+  <break time="2s"/>
+
+  <!-- Aufgabe 5: Stadtinformation — Hallenbad öffnet erst am ersten März, nicht nächste Woche -->
+  <voice name="de-DE-Wavenet-B">
+    <prosody rate="slow">Aufgabe 5.</prosody>
+    <break time="1s"/>
+  </voice>
+  <voice name="de-DE-Wavenet-D">
+    <prosody rate="medium">
+      Eine Bekanntmachung der Stadtwerke Neustadt:
+      Das modernisierte Hallenbad am Stadtpark öffnet nach der Renovierung am ersten März.
+      Wir freuen uns, Ihnen dann ein komplett erneuertes Bad mit erweitertem Kursangebot zu präsentieren.
+      Weitere Infos finden Sie auf der Website der Stadtwerke.
+    </prosody>
+  </voice>
+  <break time="3s"/>
+
+  <voice name="de-DE-Wavenet-B">
+    <prosody rate="slow">Das ist das Ende von Teil 1.</prosody>
+  </voice>
+</speak>
