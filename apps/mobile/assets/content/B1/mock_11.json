@@ -1,0 +1,846 @@
+{
+  "id": "B1_mock_11",
+  "level": "B1",
+  "title": "B1 Übungstest 11: Arbeit & Karriere",
+  "version": 1,
+  "sections": {
+    "listening": {
+      "totalTimeMinutes": 30,
+      "parts": [
+        {
+          "partNumber": 1,
+          "instructions": "Sie hören fünf kurze Texte. Entscheiden Sie bei jedem Text: Ist die Aussage richtig oder falsch? Sie hören jeden Text nur einmal.",
+          "instructionsTranslation": "You will hear five short texts. For each text, decide: Is the statement correct or incorrect? You will hear each text only once.",
+          "audioFile": "assets/audio/B1/mock11/listening_part1.mp3",
+          "playCount": 1,
+          "questions": [
+            {
+              "id": "B1_m11_L1_q1",
+              "type": "true_false",
+              "questionText": "Die Stellenanzeige sucht eine Person mit mindestens drei Jahren Berufserfahrung.",
+              "options": ["richtig", "falsch"],
+              "correctAnswer": "falsch",
+              "explanation": "Die Anzeige nennt als Voraussetzung 'mindestens fünf Jahre Erfahrung im Vertrieb'. Drei Jahre reichen nicht. Die Zahl 3 taucht im Text nicht auf — der Irrtum entsteht durch Verwechslung der konkreten Jahreszahl. [Trap: numerical near-miss]",
+              "audioTimestamp": 8
+            },
+            {
+              "id": "B1_m11_L1_q2",
+              "type": "true_false",
+              "questionText": "Herr Kaya bittet seine Kollegin, seinen Bericht bis Montag zu überprüfen.",
+              "options": ["richtig", "falsch"],
+              "correctAnswer": "richtig",
+              "explanation": "Herr Kayas Nachricht lautet: 'Könntest du dir den Bericht bis Montag noch mal anschauen? Ich möchte ihn dienstags abgeben.' Er bittet sie ausdrücklich bis Montag.",
+              "audioTimestamp": 11
+            },
+            {
+              "id": "B1_m11_L1_q3",
+              "type": "true_false",
+              "questionText": "Das Bewerbungsgespräch findet am Nachmittag statt.",
+              "options": ["richtig", "falsch"],
+              "correctAnswer": "falsch",
+              "explanation": "Die Sekretärin bestätigt: 'Wir freuen uns, Sie am Mittwoch um 10:30 Uhr bei uns begrüßen zu dürfen.' 10:30 Uhr ist Vormittag. [Trap: time-of-day swap]",
+              "audioTimestamp": 9
+            },
+            {
+              "id": "B1_m11_L1_q4",
+              "type": "true_false",
+              "questionText": "Die Firma bietet für die neue Stelle einen Firmenwagen an.",
+              "options": ["richtig", "falsch"],
+              "correctAnswer": "richtig",
+              "explanation": "Der Personalleiter erklärt: 'Zur Stelle gehören außerdem ein Dienstwagen und ein Laptop, die Sie auch privat nutzen dürfen.' Ein Firmenwagen ist ausdrücklich genannt.",
+              "audioTimestamp": 13
+            },
+            {
+              "id": "B1_m11_L1_q5",
+              "type": "true_false",
+              "questionText": "Die Sprecherin hat ihren letzten Job selbst gekündigt.",
+              "options": ["richtig", "falsch"],
+              "correctAnswer": "falsch",
+              "explanation": "Die Sprecherin erzählt: 'Die Firma hat leider Stellen abgebaut — meine Stelle wurde einfach gestrichen.' Sie wurde entlassen, hat nicht selbst gekündigt. [Trap: voice/agency swap]",
+              "audioTimestamp": 10
+            }
+          ]
+        },
+        {
+          "partNumber": 2,
+          "instructions": "Sie hören ein Radiointerview. Entscheiden Sie, ob die folgenden zehn Aussagen richtig oder falsch sind. Sie hören den Text nur einmal.",
+          "instructionsTranslation": "You will hear a radio interview. Decide whether the following ten statements are correct or incorrect. You will hear the text only once.",
+          "audioFile": "assets/audio/B1/mock11/listening_part2.mp3",
+          "playCount": 1,
+          "questions": [
+            {
+              "id": "B1_m11_L2_q1",
+              "type": "true_false",
+              "questionText": "Das Interview handelt von den Vor- und Nachteilen von Homeoffice.",
+              "options": ["richtig", "falsch"],
+              "correctAnswer": "richtig",
+              "explanation": "Die Moderatorin leitet ein: 'Heute sprechen wir über das Homeoffice — was es für Arbeitnehmer bedeutet, und wo die Grenzen liegen.' Das ist das zentrale Thema.",
+              "audioTimestamp": 4
+            },
+            {
+              "id": "B1_m11_L2_q2",
+              "type": "true_false",
+              "questionText": "Der Gast Dr. Mertens forscht an der Universität Hamburg.",
+              "options": ["richtig", "falsch"],
+              "correctAnswer": "falsch",
+              "explanation": "Die Moderatorin stellt vor: 'Unser Gast heute ist Dr. Klaus Mertens, Arbeitspsychologe an der Universität Köln.' Hamburg ist falsch — institution-swap-Irrtum. [Trap: institution swap]",
+              "audioTimestamp": 18
+            },
+            {
+              "id": "B1_m11_L2_q3",
+              "type": "true_false",
+              "questionText": "Laut Dr. Mertens empfinden die meisten Homeoffice-Beschäftigten mehr Eigenverantwortung als positiv.",
+              "options": ["richtig", "falsch"],
+              "correctAnswer": "richtig",
+              "explanation": "Dr. Mertens sagt: 'Die große Mehrheit der Befragten nennt die gewonnene Eigenverantwortung als klaren Pluspunkt.' Die Aussage ist korrekt.",
+              "audioTimestamp": 42
+            },
+            {
+              "id": "B1_m11_L2_q4",
+              "type": "true_false",
+              "questionText": "Das Hauptproblem im Homeoffice ist laut Studie ein fehlender ergonomischer Bürostuhl.",
+              "options": ["richtig", "falsch"],
+              "correctAnswer": "falsch",
+              "explanation": "Dr. Mertens nennt als häufigstes Problem 'das fehlende klare Ende des Arbeitstages'. Der Bürostuhl wird als zweitrangiges Problem erwähnt. [Trap: detail-to-main swap]",
+              "audioTimestamp": 65
+            },
+            {
+              "id": "B1_m11_L2_q5",
+              "type": "true_false",
+              "questionText": "Dr. Mertens empfiehlt, feste Arbeitszeiten auch im Homeoffice einzuhalten.",
+              "options": ["richtig", "falsch"],
+              "correctAnswer": "richtig",
+              "explanation": "Der Experte rät: 'Definieren Sie Ihre Arbeitszeiten klar — fangen Sie um dieselbe Zeit an und hören Sie konsequent auf.' Feste Zeiten werden explizit empfohlen.",
+              "audioTimestamp": 88
+            },
+            {
+              "id": "B1_m11_L2_q6",
+              "type": "true_false",
+              "questionText": "Alle befragten Unternehmen planen, das Homeoffice-Angebot in Zukunft abzuschaffen.",
+              "options": ["richtig", "falsch"],
+              "correctAnswer": "falsch",
+              "explanation": "Dr. Mertens berichtet: 'Über 70 Prozent der Unternehmen wollen hybride Modelle dauerhaft anbieten.' Von Abschaffen ist keine Rede. [Trap: causal reversal]",
+              "audioTimestamp": 110
+            },
+            {
+              "id": "B1_m11_L2_q7",
+              "type": "true_false",
+              "questionText": "Jüngere Angestellte unter 30 Jahren vermissen im Homeoffice besonders den Kontakt zu Kollegen.",
+              "options": ["richtig", "falsch"],
+              "correctAnswer": "richtig",
+              "explanation": "Im Interview: 'Gerade bei Berufseinsteigern und unter Dreißigjährigen fällt das Fehlen des direkten Austauschs mit Kollegen besonders stark ins Gewicht.' Die Aussage stimmt.",
+              "audioTimestamp": 130
+            },
+            {
+              "id": "B1_m11_L2_q8",
+              "type": "true_false",
+              "questionText": "Dr. Mertens sagt, dass Meetings im Homeoffice immer durch Video-Calls ersetzt werden sollten.",
+              "options": ["richtig", "falsch"],
+              "correctAnswer": "falsch",
+              "explanation": "Der Experte betont Differenzierung: 'Manche Besprechungen — etwa kreative Brainstorming-Runden — löst man besser persönlich.' Er empfiehlt keine vollständige Ersetzung. Das Wort 'immer' ist eine Generalisation. [Trap: generalisation]",
+              "audioTimestamp": 152
+            },
+            {
+              "id": "B1_m11_L2_q9",
+              "type": "true_false",
+              "questionText": "Laut der Sendung hat die Pandemie die Verbreitung von Homeoffice beschleunigt.",
+              "options": ["richtig", "falsch"],
+              "correctAnswer": "richtig",
+              "explanation": "Die Moderatorin fasst zusammen: 'Die Pandemie hat das, was vorher ein Nischenmodell war, in vielen Unternehmen quasi über Nacht zum Standard gemacht.' Die Aussage ist korrekt.",
+              "audioTimestamp": 170
+            },
+            {
+              "id": "B1_m11_L2_q10",
+              "type": "true_false",
+              "questionText": "Am Schluss der Sendung wird eine kostenlose App für besseres Zeitmanagement empfohlen.",
+              "options": ["richtig", "falsch"],
+              "correctAnswer": "falsch",
+              "explanation": "Die Moderatorin schließt: 'Weitere Informationen finden Sie auf unserer Website.' Eine App wird nicht genannt. [Trap: false addition]",
+              "audioTimestamp": 188
+            }
+          ]
+        },
+        {
+          "partNumber": 3,
+          "instructions": "Sie hören fünf kurze Gespräche. Zu jedem Gespräch gibt es eine Aufgabe. Was ist richtig? Kreuzen Sie an: a, b oder c. Sie hören jedes Gespräch zweimal.",
+          "instructionsTranslation": "You will hear five short conversations. For each conversation there is one task. What is correct? Mark: a, b, or c. You will hear each conversation twice.",
+          "audioFile": "assets/audio/B1/mock11/listening_part3.mp3",
+          "playCount": 2,
+          "questions": [
+            {
+              "id": "B1_m11_L3_q1",
+              "type": "mcq",
+              "questionText": "Warum möchte Nina ihre aktuelle Stelle wechseln?",
+              "options": [
+                "a) Sie verdient zu wenig und findet das Gehalt ungerecht.",
+                "b) Sie hat keine Möglichkeit, sich beruflich weiterzuentwickeln.",
+                "c) Ihr Verhältnis zum Chef ist seit Monaten sehr angespannt."
+              ],
+              "correctAnswer": "b",
+              "explanation": "Nina sagt: 'Das Gehalt ist okay, aber ich stehe seit zwei Jahren auf derselben Stelle — kein Aufstieg, keine neuen Aufgaben.' Fehlende Entwicklung ist ihr Hauptgrund. Gehalt (a) schließt sie selbst aus. Den Chef (c) erwähnt sie als Nebenproblem. [Trap: detail-to-main swap (c)]",
+              "audioTimestamp": 14
+            },
+            {
+              "id": "B1_m11_L3_q2",
+              "type": "mcq",
+              "questionText": "Was hat Lucas nach seinem Studium zunächst gemacht?",
+              "options": [
+                "a) Er hat direkt eine feste Stelle in einem Unternehmen begonnen.",
+                "b) Er hat ein unbezahltes Praktikum bei einer Agentur absolviert.",
+                "c) Er hat sich zunächst selbstständig gemacht."
+              ],
+              "correctAnswer": "b",
+              "explanation": "Lucas erzählt: 'Nach dem Abschluss habe ich sechs Monate bei einer Werbeagentur reingeschnuppert — leider ohne Bezahlung.' Option a ist eine false-inference-Falle: Agentur klingt nach fester Stelle, war aber nur Praktikum. Option c nennt er für später. [Trap: false-inference (a), time-frame shift (c)]",
+              "audioTimestamp": 52
+            },
+            {
+              "id": "B1_m11_L3_q3",
+              "type": "mcq",
+              "questionText": "Welchen Rat gibt die Karriereberaterin Frau Böhm für ein erfolgreiches Bewerbungsgespräch?",
+              "options": [
+                "a) Man soll sich so präsentieren, wie man wirklich ist.",
+                "b) Man soll sich vorher genau über die Firma und die Stelle informieren.",
+                "c) Man soll immer ein Anschreiben schicken, auch wenn die Firma keines verlangt."
+              ],
+              "correctAnswer": "b",
+              "explanation": "Frau Böhm sagt: 'Der größte Fehler ist, unvorbereitet ins Gespräch zu gehen. Recherchieren Sie die Firma, lesen Sie die Stellenbeschreibung genau.' Option a klingt vernünftig, wird aber nicht als ihr Hauptrat genannt. Option c erwähnt sie nicht. [Trap: plausible but unsaid (a)]",
+              "audioTimestamp": 88
+            },
+            {
+              "id": "B1_m11_L3_q4",
+              "type": "mcq",
+              "questionText": "Warum hat sich Herr Sommer für einen Quereinstieg in die IT entschieden?",
+              "options": [
+                "a) Er hatte nach seiner Entlassung keine andere Wahl.",
+                "b) Er wollte schon immer mit Computern arbeiten und hat in seiner Freizeit programmieren gelernt.",
+                "c) Ein Freund hat ihm eine Stelle bei seiner Firma angeboten."
+              ],
+              "correctAnswer": "b",
+              "explanation": "Herr Sommer sagt: 'Das Interesse an Technik hatte ich schon immer. Ich habe abends Kurse gemacht und den Sprung gewagt.' Die Entscheidung war intrinsisch motiviert. Option a ist ein causal-reversal-Irrtum. [Trap: causal reversal (a)]",
+              "audioTimestamp": 124
+            },
+            {
+              "id": "B1_m11_L3_q5",
+              "type": "mcq",
+              "questionText": "Was planen Lena und Jonas nach ihrem Auslandspraktikum?",
+              "options": [
+                "a) Sie wollen dauerhaft im Ausland bleiben und dort eine feste Stelle suchen.",
+                "b) Sie wollen zurückkommen und die Erfahrungen in ihrer Bewerbung nutzen.",
+                "c) Sie sind noch unsicher und haben noch keinen konkreten Plan."
+              ],
+              "correctAnswer": "b",
+              "explanation": "Lena sagt: 'Wir freuen uns darauf, wieder nach Hause zu kommen — diese Erfahrung auf den Lebenslauf zu schreiben ist Gold wert.' Option a ist eine time-frame-shift-Falle. Option c widerspricht ihrem konkreten Plan. [Trap: time-frame shift (a)]",
+              "audioTimestamp": 158
+            }
+          ]
+        }
+      ]
+    },
+    "reading": {
+      "totalTimeMinutes": 60,
+      "parts": [
+        {
+          "partNumber": 1,
+          "instructions": "Lesen Sie zuerst die fünf Situationen (1–5) und dann die acht Überschriften (a–h). Welche Überschrift passt zu welcher Situation? Für jede Situation gibt es genau eine passende Überschrift. Drei Überschriften bleiben übrig.",
+          "instructionsTranslation": "First read the five situations (1–5) and then the eight headlines (a–h). Which headline matches which situation? For each situation there is exactly one matching headline. Three headlines remain unused.",
+          "texts": [
+            { "id": "B1_m11_R1_head_a", "type": "notice", "content": "a) Tipps für das erste Bewerbungsgespräch: So überzeugen Sie den Personaler" },
+            { "id": "B1_m11_R1_head_b", "type": "notice", "content": "b) Burnout erkennen: Warnsignale und erste Schritte zur Erholung" },
+            { "id": "B1_m11_R1_head_c", "type": "notice", "content": "c) Vom Lehrer zum Softwareentwickler: Ein Quereinstieg in die IT" },
+            { "id": "B1_m11_R1_head_d", "type": "notice", "content": "d) Homeoffice oder Büro? Studie zeigt, was Arbeitnehmer wirklich bevorzugen" },
+            { "id": "B1_m11_R1_head_e", "type": "notice", "content": "e) Praktikum im Ausland: Bewerbung, Visum und was sonst noch zu beachten ist" },
+            { "id": "B1_m11_R1_head_f", "type": "notice", "content": "f) Zu viel Stress im Job: Wenn die Arbeit krank macht" },
+            { "id": "B1_m11_R1_head_g", "type": "notice", "content": "g) Drei Wochen Praktikum bei einem Start-up: ein Erfahrungsbericht" },
+            { "id": "B1_m11_R1_head_h", "type": "notice", "content": "h) Gehaltsverhandlung: Was Sie fordern dürfen und wie Sie es richtig machen" }
+          ],
+          "questions": [
+            {
+              "id": "B1_m11_R1_q1",
+              "type": "matching",
+              "questionText": "1. Mia hat ihren Bachelorabschluss gerade gemacht. Sie möchte praktische Erfahrung in einem modernen Unternehmen sammeln und sucht einen persönlichen Bericht, der ihr zeigt, wie so eine Zeit wirklich abläuft.",
+              "matchingSources": [
+                { "id": "B1_m11_R1_head_a", "label": "a" }, { "id": "B1_m11_R1_head_b", "label": "b" },
+                { "id": "B1_m11_R1_head_c", "label": "c" }, { "id": "B1_m11_R1_head_d", "label": "d" },
+                { "id": "B1_m11_R1_head_e", "label": "e" }, { "id": "B1_m11_R1_head_f", "label": "f" },
+                { "id": "B1_m11_R1_head_g", "label": "g" }, { "id": "B1_m11_R1_head_h", "label": "h" }
+              ],
+              "correctAnswer": "g",
+              "explanation": "Überschrift g) ist ein Erfahrungsbericht über ein Praktikum bei einem Start-up — genau das persönliche Einblick-Format, das Mia sucht. Überschrift e) handelt von Auslandspraktika und Formalitäten, nicht vom Alltagserleben."
+            },
+            {
+              "id": "B1_m11_R1_q2",
+              "type": "matching",
+              "questionText": "2. Stefan ist seit zehn Jahren Grundschullehrer und fühlt sich nicht mehr herausgefordert. Er überlegt, ob er in ein völlig anderes Berufsfeld wechseln kann, ohne nochmal zu studieren.",
+              "matchingSources": [
+                { "id": "B1_m11_R1_head_a", "label": "a" }, { "id": "B1_m11_R1_head_b", "label": "b" },
+                { "id": "B1_m11_R1_head_c", "label": "c" }, { "id": "B1_m11_R1_head_d", "label": "d" },
+                { "id": "B1_m11_R1_head_e", "label": "e" }, { "id": "B1_m11_R1_head_f", "label": "f" },
+                { "id": "B1_m11_R1_head_g", "label": "g" }, { "id": "B1_m11_R1_head_h", "label": "h" }
+              ],
+              "correctAnswer": "c",
+              "explanation": "Überschrift c) handelt genau von einem Lehrer, der in die IT wechselt — ein Quereinstieg ohne erneutes Vollstudium. Berufsbereich und Ausgangspunkt sind identisch mit Stefans Situation."
+            },
+            {
+              "id": "B1_m11_R1_q3",
+              "type": "matching",
+              "questionText": "3. Herr Winkler bemerkt seit Wochen, dass er abends nicht mehr abschalten kann, morgens kaum aufstehen mag und sich ständig erschöpft fühlt. Er fragt sich, ob er etwas unternehmen soll.",
+              "matchingSources": [
+                { "id": "B1_m11_R1_head_a", "label": "a" }, { "id": "B1_m11_R1_head_b", "label": "b" },
+                { "id": "B1_m11_R1_head_c", "label": "c" }, { "id": "B1_m11_R1_head_d", "label": "d" },
+                { "id": "B1_m11_R1_head_e", "label": "e" }, { "id": "B1_m11_R1_head_f", "label": "f" },
+                { "id": "B1_m11_R1_head_g", "label": "g" }, { "id": "B1_m11_R1_head_h", "label": "h" }
+              ],
+              "correctAnswer": "b",
+              "explanation": "Überschrift b) adressiert Burnout-Warnsignale und erste Schritte — genau Herrn Winklers Situation. Überschrift f) behandelt allgemeinen Arbeitsstress ohne den spezifischen Burnout-Fokus mit Handlungsempfehlung. [Trap: thematic near-miss (f)]"
+            },
+            {
+              "id": "B1_m11_R1_q4",
+              "type": "matching",
+              "questionText": "4. Lara hat morgen ihr erstes Vorstellungsgespräch und ist sehr nervös. Sie sucht konkrete Tipps, wie sie sich gut vorbereiten und einen guten Eindruck hinterlassen kann.",
+              "matchingSources": [
+                { "id": "B1_m11_R1_head_a", "label": "a" }, { "id": "B1_m11_R1_head_b", "label": "b" },
+                { "id": "B1_m11_R1_head_c", "label": "c" }, { "id": "B1_m11_R1_head_d", "label": "d" },
+                { "id": "B1_m11_R1_head_e", "label": "e" }, { "id": "B1_m11_R1_head_f", "label": "f" },
+                { "id": "B1_m11_R1_head_g", "label": "g" }, { "id": "B1_m11_R1_head_h", "label": "h" }
+              ],
+              "correctAnswer": "a",
+              "explanation": "Überschrift a) gibt Tipps für das erste Bewerbungsgespräch — direkter Treffer für Laras Situation. Überschrift h) (Gehaltsverhandlung) ist verwandt, aber auf den Gehaltsaspekt fokussiert. [Trap: thematic overlap (h)]"
+            },
+            {
+              "id": "B1_m11_R1_q5",
+              "type": "matching",
+              "questionText": "5. Familie Kraus diskutiert, ob Vater Klaus weiterhin vier Tage die Woche von zu Hause aus arbeiten soll. Sie möchten wissen, was aktuelle Forschung dazu sagt.",
+              "matchingSources": [
+                { "id": "B1_m11_R1_head_a", "label": "a" }, { "id": "B1_m11_R1_head_b", "label": "b" },
+                { "id": "B1_m11_R1_head_c", "label": "c" }, { "id": "B1_m11_R1_head_d", "label": "d" },
+                { "id": "B1_m11_R1_head_e", "label": "e" }, { "id": "B1_m11_R1_head_f", "label": "f" },
+                { "id": "B1_m11_R1_head_g", "label": "g" }, { "id": "B1_m11_R1_head_h", "label": "h" }
+              ],
+              "correctAnswer": "d",
+              "explanation": "Überschrift d) ist eine Studie über Homeoffice vs. Büro-Präferenz von Arbeitnehmern — direkt relevant für die Entscheidung der Familie Kraus. Keine andere Überschrift befasst sich mit diesem Thema."
+            }
+          ]
+        },
+        {
+          "partNumber": 2,
+          "instructions": "Lesen Sie den Zeitungsartikel. Was ist richtig? Kreuzen Sie an: a, b oder c.",
+          "instructionsTranslation": "Read the newspaper article. What is correct? Mark: a, b, or c.",
+          "texts": [
+            {
+              "id": "B1_m11_R2_article",
+              "type": "article",
+              "content": "Vom Zahnarzt zur Programmiererin: Wenn der Berufsalltag nicht mehr passt\n\nMarika Fürst, 38, sitzt in ihrem Homeoffice in Leipzig und tippt Code. Noch vor drei Jahren hatte sie eine gut laufende Zahnarztpraxis in der Nähe von Dresden. Heute schreibt sie Software für ein Münchner Tech-Unternehmen — und würde diesen Schritt jederzeit wieder gehen.\n\n'Ich war nie unglücklich als Zahnärztin', sagt sie. 'Aber irgendwann habe ich gemerkt, dass ich jeden Morgen einfach nicht aufstehen wollte. Das war das Signal.' Der Entschluss zum Wechsel reifte langsam. Zuerst absolvierte sie abends und am Wochenende einen Coding-Bootcamp über vier Monate. Dann bewarb sie sich — trotz null Berufserfahrung in der IT — auf eine Juniorstelle bei einem Start-up in Leipzig. 'Die haben mich tatsächlich genommen', lacht sie. 'Ich glaube, das Entscheidende war, dass ich in der Bewerbung sehr offen erklärt habe, warum ich wechsle und was ich mitbringe: Genauigkeit, Ausdauer, Fähigkeit unter Druck zu arbeiten.'\n\nKarriereberaterin Dr. Petra Winkler aus Hamburg kennt solche Geschichten gut. 'Quereinsteiger haben es nicht leicht, aber sie bringen oft Stärken mit, die Brancheninsider nicht haben: eine andere Perspektive, Soft Skills aus einem ganz anderen Kontext, und meistens eine ungewöhnlich hohe Motivation.' Sie betont aber auch: 'Man muss realistisch sein. Ein Quereinstieg bedeutet in der Regel einen Gehaltsrückgang am Anfang — manchmal bis zu dreißig Prozent. Wer das nicht verkraften kann, sollte sehr sorgfältig planen.'\n\nMarika Fürst hat diesen Rückgang bewusst einkalkuliert. 'Ich verdiene jetzt weniger als in der Praxis. Aber ich stehe morgens gern auf. Das ist unbezahlbar.' Ihren alten Kolleginnen und Kollegen rät sie: 'Fang klein an. Kurs belegen, ausprobieren, schauen ob es wirklich passt — und erst dann den großen Sprung wagen.' Für einen Quereinstieg, der funktioniert, brauche man nach ihrer Erfahrung vor allem eines: Geduld.",
+              "source": "Karrieremagazin Perspektive, März 2026"
+            }
+          ],
+          "questions": [
+            {
+              "id": "B1_m11_R2_q1",
+              "type": "mcq",
+              "questionText": "Was war der Hauptauslöser für Marika Fürsts Entscheidung, die Stelle zu wechseln?",
+              "relatedTextId": "B1_m11_R2_article",
+              "options": [
+                "a) Sie war als Zahnärztin unglücklich und konnte den Stress nicht mehr ertragen.",
+                "b) Sie bemerkte, dass sie morgens nicht mehr aufstehen wollte — ein inneres Signal.",
+                "c) Sie hatte sich bereits als Programmiererin beworben und eine Zusage erhalten."
+              ],
+              "correctAnswer": "b",
+              "explanation": "Marika sagt: 'Ich war nie unglücklich als Zahnärztin. Aber irgendwann habe ich gemerkt, dass ich jeden Morgen nicht aufstehen wollte.' Option a dreht ihre Aussage um (causal reversal). Option c verwechselt die Reihenfolge (time-frame shift). [Trap: causal reversal (a), time-frame shift (c)]",
+              "audioTimestamp": null
+            },
+            {
+              "id": "B1_m11_R2_q2",
+              "type": "mcq",
+              "questionText": "Was hat Marika Fürst unternommen, bevor sie sich auf eine IT-Stelle beworben hat?",
+              "relatedTextId": "B1_m11_R2_article",
+              "options": [
+                "a) Sie hat ein Informatikstudium an der Universität begonnen.",
+                "b) Sie hat abends und am Wochenende einen viermonatigen Coding-Bootcamp absolviert.",
+                "c) Sie hat zunächst ein bezahltes Praktikum in einem Tech-Unternehmen gemacht."
+              ],
+              "correctAnswer": "b",
+              "explanation": "Der Text sagt: 'absolvierte sie abends und am Wochenende einen Coding-Bootcamp über vier Monate.' Option a ist eine false-inference-Falle: Bootcamp ist kein Universitätsstudium. Option c wird nirgends erwähnt. [Trap: false-inference (a)]",
+              "audioTimestamp": null
+            },
+            {
+              "id": "B1_m11_R2_q3",
+              "type": "mcq",
+              "questionText": "Was nennt Marika Fürst als entscheidenden Faktor für ihre erfolgreiche Bewerbung?",
+              "relatedTextId": "B1_m11_R2_article",
+              "options": [
+                "a) Dass sie bereits erste eigene Programmierprojekte vorweisen konnte.",
+                "b) Dass sie offen erklärte, warum sie wechselt und welche Stärken sie mitbringt.",
+                "c) Dass das Start-up gezielt Quereinsteiger gesucht hat."
+              ],
+              "correctAnswer": "b",
+              "explanation": "Marika sagt: 'Das Entscheidende war, dass ich offen erklärt habe, warum ich wechsle und was ich mitbringe.' Option a wird nicht erwähnt (false addition). Option c ist plausibel, aber nicht gesagt. [Trap: false addition (a), plausible but unsaid (c)]",
+              "audioTimestamp": null
+            },
+            {
+              "id": "B1_m11_R2_q4",
+              "type": "mcq",
+              "questionText": "Was warnt Karriereberaterin Dr. Winkler beim Thema Quereinstieg?",
+              "relatedTextId": "B1_m11_R2_article",
+              "options": [
+                "a) Quereinsteiger werden von den meisten Unternehmen grundsätzlich nicht eingestellt.",
+                "b) Der Quereinstieg ist mit einem anfänglichen Gehaltsrückgang von bis zu dreißig Prozent verbunden.",
+                "c) Soft Skills aus anderen Berufen werden in der IT-Branche kaum geschätzt."
+              ],
+              "correctAnswer": "b",
+              "explanation": "Dr. Winkler sagt: 'Ein Quereinstieg bedeutet in der Regel einen Gehaltsrückgang am Anfang — manchmal bis zu dreißig Prozent.' Option a widerspricht dem Text (causal reversal). Option c ist das Gegenteil ihrer Aussage über Soft Skills (voice/mood swap). [Trap: causal reversal (a), voice/mood swap (c)]",
+              "audioTimestamp": null
+            },
+            {
+              "id": "B1_m11_R2_q5",
+              "type": "mcq",
+              "questionText": "Welchen Rat gibt Marika Fürst anderen, die über einen Berufswechsel nachdenken?",
+              "relatedTextId": "B1_m11_R2_article",
+              "options": [
+                "a) Man soll sofort kündigen und den Wechsel mutig angehen.",
+                "b) Man soll zuerst ausprobieren, ob der neue Bereich passt, bevor man den großen Schritt macht.",
+                "c) Man soll unbedingt vorher ein offizielles Studium abschließen."
+              ],
+              "correctAnswer": "b",
+              "explanation": "Marika rät: 'Fang klein an. Kurs belegen, ausprobieren, schauen ob es passt — und erst dann den großen Sprung wagen.' Option a kehrt ihre Vorsicht um (voice/mood swap). Option c widerspricht ihrem eigenen Weg. [Trap: voice/mood swap (a)]",
+              "audioTimestamp": null
+            }
+          ]
+        },
+        {
+          "partNumber": 3,
+          "instructions": "Sie lesen zehn Situationen (1–10) und zwölf kurze Anzeigen (a–l). Welche Anzeige passt zu welcher Situation? Für jede Situation gibt es genau eine passende Anzeige. Zwei Anzeigen bleiben übrig. Wenn keine Anzeige passt, schreiben Sie 'x'.",
+          "instructionsTranslation": "You read ten situations (1–10) and twelve short advertisements (a–l). Which advertisement matches which situation? For each situation there is exactly one matching advertisement. Two advertisements remain unused. If no advertisement fits, write 'x'.",
+          "texts": [
+            { "id": "B1_m11_R3_ad_a", "type": "ad", "content": "a) JOBPORTAL KARRIERENOW — Tausende aktuelle Stellenanzeigen aus ganz Deutschland. Kostenlose Registrierung, Lebenslauf-Upload, Job-Alert per E-Mail. Für Berufseinsteiger und Erfahrene. www.karrierenow.de" },
+            { "id": "B1_m11_R3_ad_b", "type": "ad", "content": "b) BEWERBUNGSTRAINING KOMPAKT — Zwei-Tage-Workshop: Anschreiben, Lebenslauf, Vorstellungsgespräch. Kleine Gruppen (max. 8 Personen), zertifizierter Trainer. Nächster Termin: 14./15. Juni, Hamburg. Preis: 180 €. Anmeldung: bewerbung-kompakt.de" },
+            { "id": "B1_m11_R3_ad_c", "type": "ad", "content": "c) CV-SERVICE PROFI — Wir optimieren Ihren Lebenslauf professionell. Individuelles Lektorat, Gestaltung, Schlüsselwörter für Bewerbermanagementsysteme. Expresslieferung in 24h möglich. Ab 49 €. www.cvprofi.de" },
+            { "id": "B1_m11_R3_ad_d", "type": "ad", "content": "d) KARRIERECOACH MÜNCHEN — Persönliche Beratung für Berufs- und Quereinstieg. Stärkenanalyse, Zielentwicklung, Gehaltsverhandlung. Erstgespräch 30 Minuten kostenlos. Tel. 089 / 44 55 66 77" },
+            { "id": "B1_m11_R3_ad_e", "type": "ad", "content": "e) PRAKTIKUM EUROPA — Bezahlte Praktika in 12 europäischen Ländern für Hochschulabsolventen. Bereiche: Marketing, Finanzen, IT, NGO. Sprachkenntnisse Englisch mind. B2. Bewerbungsschluss: 31. Juli. www.praktikum-europa.eu" },
+            { "id": "B1_m11_R3_ad_f", "type": "ad", "content": "f) WERKSTUDENTENSTELLE GESUCHT — Berliner Softwareunternehmen sucht Werkstudenten (m/w/d) für Bereich QA & Testing. 15–20 Std./Woche, 14 €/Std. Immatrikulationsnachweis erforderlich. Bewerbung an: jobs@techinberlin.de" },
+            { "id": "B1_m11_R3_ad_g", "type": "ad", "content": "g) FREELANCE-PLATTFORM EXPERTBOARD — Registrieren Sie sich als freiberuflicher Experte und erhalten Sie Projektanfragen direkt von Unternehmen. Branchen: IT, Recht, Design, Beratung. Keine Provision auf ersten 5 Projekte. www.expertboard.de" },
+            { "id": "B1_m11_R3_ad_h", "type": "ad", "content": "h) ONLINE-KURS: BEWERBUNG AUF ENGLISCH — 6 Wochen, flexibel, 100 % digital. Anschreiben auf Englisch, LinkedIn-Profil optimieren, internationale Bewerbungsgespräche üben. Zertifikat inklusive. 89 €. bewerbung-english.de" },
+            { "id": "B1_m11_R3_ad_i", "type": "ad", "content": "i) UMSCHULUNG BUCHHALTUNG — IHK-anerkannte Umschulung zur Buchhalter/in in 12 Monaten. Präsenz + Online-Anteile. Finanzierungsmöglichkeiten über Bildungsgutschein. Infoveranstaltung jeden ersten Montag. Tel. 0511 / 33 44 55" },
+            { "id": "B1_m11_R3_ad_j", "type": "ad", "content": "j) STELLENBÖRSE HANDWERK — Spezialisiert auf Stellen im Handwerk und technischen Berufen. Direkte Kontaktaufnahme mit Betrieben. Azubi-Angebote, Gesellenstellen, Meisterpositionen. Kostenlos für Bewerber. handwerk-jobs.de" },
+            { "id": "B1_m11_R3_ad_k", "type": "ad", "content": "k) SPRACHKURS + PRAKTIKUM IRLAND — 4 Wochen Englisch lernen und gleichzeitig im Unternehmen hospitieren. Unterkunft und Versicherung inklusive. Alter: 20–35 Jahre. Nächster Start: September. Ab 1.490 €. irland-sprachpraktikum.de" },
+            { "id": "B1_m11_R3_ad_l", "type": "ad", "content": "l) MENTORING-PROGRAMM FRAUEN IN FÜHRUNG — Gesucht: ambitionierte Frauen in der Mitte ihrer Karriere, die den Schritt in Richtung Führungsposition machen wollen. 6 Monate, monatliche Treffen. Bewerbung bis 15. Mai. frauen-fuehren.de" }
+          ],
+          "questions": [
+            {
+              "id": "B1_m11_R3_q1",
+              "type": "matching",
+              "questionText": "1. Jonas studiert Informatik im 5. Semester und möchte neben dem Studium praktische Erfahrung sammeln und etwas dazuverdienen.",
+              "matchingSources": [
+                { "id": "B1_m11_R3_ad_a", "label": "a" }, { "id": "B1_m11_R3_ad_b", "label": "b" },
+                { "id": "B1_m11_R3_ad_c", "label": "c" }, { "id": "B1_m11_R3_ad_d", "label": "d" },
+                { "id": "B1_m11_R3_ad_e", "label": "e" }, { "id": "B1_m11_R3_ad_f", "label": "f" },
+                { "id": "B1_m11_R3_ad_g", "label": "g" }, { "id": "B1_m11_R3_ad_h", "label": "h" },
+                { "id": "B1_m11_R3_ad_i", "label": "i" }, { "id": "B1_m11_R3_ad_j", "label": "j" },
+                { "id": "B1_m11_R3_ad_k", "label": "k" }, { "id": "B1_m11_R3_ad_l", "label": "l" }
+              ],
+              "correctAnswer": "f",
+              "explanation": "Anzeige f) sucht Werkstudenten mit Immatrikulationsnachweis, 15–20 Std./Woche und Bezahlung. Anzeige e) bietet Praktika für Absolventen — Jonas ist noch immatrikuliert. [Trap: thematic near-miss (e)]"
+            },
+            {
+              "id": "B1_m11_R3_q2",
+              "type": "matching",
+              "questionText": "2. Frau Sander hat Erfahrung als Designerin und möchte projektweise für verschiedene Auftraggeber arbeiten statt in einem festen Unternehmen angestellt zu sein.",
+              "matchingSources": [
+                { "id": "B1_m11_R3_ad_a", "label": "a" }, { "id": "B1_m11_R3_ad_b", "label": "b" },
+                { "id": "B1_m11_R3_ad_c", "label": "c" }, { "id": "B1_m11_R3_ad_d", "label": "d" },
+                { "id": "B1_m11_R3_ad_e", "label": "e" }, { "id": "B1_m11_R3_ad_f", "label": "f" },
+                { "id": "B1_m11_R3_ad_g", "label": "g" }, { "id": "B1_m11_R3_ad_h", "label": "h" },
+                { "id": "B1_m11_R3_ad_i", "label": "i" }, { "id": "B1_m11_R3_ad_j", "label": "j" },
+                { "id": "B1_m11_R3_ad_k", "label": "k" }, { "id": "B1_m11_R3_ad_l", "label": "l" }
+              ],
+              "correctAnswer": "g",
+              "explanation": "Anzeige g) EXPERTBOARD ist eine Freelance-Plattform für freiberufliche Experten, Design ist explizit genannt. Anzeige a) listet feste Stellen. [Trap: thematic overlap (a)]"
+            },
+            {
+              "id": "B1_m11_R3_q3",
+              "type": "matching",
+              "questionText": "3. Herr Petrov hat seinen Job verloren und möchte sich beruflich neu orientieren. Er überlegt einen Quereinstieg und braucht jemanden, der ihn persönlich bei dieser Entscheidung begleitet.",
+              "matchingSources": [
+                { "id": "B1_m11_R3_ad_a", "label": "a" }, { "id": "B1_m11_R3_ad_b", "label": "b" },
+                { "id": "B1_m11_R3_ad_c", "label": "c" }, { "id": "B1_m11_R3_ad_d", "label": "d" },
+                { "id": "B1_m11_R3_ad_e", "label": "e" }, { "id": "B1_m11_R3_ad_f", "label": "f" },
+                { "id": "B1_m11_R3_ad_g", "label": "g" }, { "id": "B1_m11_R3_ad_h", "label": "h" },
+                { "id": "B1_m11_R3_ad_i", "label": "i" }, { "id": "B1_m11_R3_ad_j", "label": "j" },
+                { "id": "B1_m11_R3_ad_k", "label": "k" }, { "id": "B1_m11_R3_ad_l", "label": "l" }
+              ],
+              "correctAnswer": "d",
+              "explanation": "Anzeige d) KARRIERECOACH bietet persönliche Beratung für Quereinstieg, Stärkenanalyse und Zielentwicklung. Anzeige i) (Umschulung) wäre nur sinnvoll wenn er in der Buchhaltung bleiben will. [Trap: thematic mismatch (i)]"
+            },
+            {
+              "id": "B1_m11_R3_q4",
+              "type": "matching",
+              "questionText": "4. Theresa hat einen Bachelorabschluss in BWL und möchte vor ihrem Masterstudium praktische Erfahrung im europäischen Ausland sammeln. Ihr Englisch ist sehr gut.",
+              "matchingSources": [
+                { "id": "B1_m11_R3_ad_a", "label": "a" }, { "id": "B1_m11_R3_ad_b", "label": "b" },
+                { "id": "B1_m11_R3_ad_c", "label": "c" }, { "id": "B1_m11_R3_ad_d", "label": "d" },
+                { "id": "B1_m11_R3_ad_e", "label": "e" }, { "id": "B1_m11_R3_ad_f", "label": "f" },
+                { "id": "B1_m11_R3_ad_g", "label": "g" }, { "id": "B1_m11_R3_ad_h", "label": "h" },
+                { "id": "B1_m11_R3_ad_i", "label": "i" }, { "id": "B1_m11_R3_ad_j", "label": "j" },
+                { "id": "B1_m11_R3_ad_k", "label": "k" }, { "id": "B1_m11_R3_ad_l", "label": "l" }
+              ],
+              "correctAnswer": "e",
+              "explanation": "Anzeige e) bietet bezahlte Praktika in Europa für Absolventen, im Bereich Finanzen/Marketing (BWL passt), erfordert gutes Englisch. Anzeige k) fokussiert auf Sprachlernen — Theresa will primär Berufserfahrung. [Trap: thematic near-miss (k)]"
+            },
+            {
+              "id": "B1_m11_R3_q5",
+              "type": "matching",
+              "questionText": "5. Klaus möchte sich auf eine Stelle bei einem internationalen Unternehmen bewerben. Seine Unterlagen sind auf Deutsch, aber die Stelle verlangt englischsprachige Bewerbungsunterlagen.",
+              "matchingSources": [
+                { "id": "B1_m11_R3_ad_a", "label": "a" }, { "id": "B1_m11_R3_ad_b", "label": "b" },
+                { "id": "B1_m11_R3_ad_c", "label": "c" }, { "id": "B1_m11_R3_ad_d", "label": "d" },
+                { "id": "B1_m11_R3_ad_e", "label": "e" }, { "id": "B1_m11_R3_ad_f", "label": "f" },
+                { "id": "B1_m11_R3_ad_g", "label": "g" }, { "id": "B1_m11_R3_ad_h", "label": "h" },
+                { "id": "B1_m11_R3_ad_i", "label": "i" }, { "id": "B1_m11_R3_ad_j", "label": "j" },
+                { "id": "B1_m11_R3_ad_k", "label": "k" }, { "id": "B1_m11_R3_ad_l", "label": "l" }
+              ],
+              "correctAnswer": "h",
+              "explanation": "Anzeige h) behandelt englischsprachige Bewerbungsunterlagen und internationale Gespräche. Anzeige c) optimiert Lebensläufe, aber auf Deutsch. [Trap: thematic overlap (c)]"
+            },
+            {
+              "id": "B1_m11_R3_q6",
+              "type": "matching",
+              "questionText": "6. Herr Gruber ist Elektriker und sucht eine neue Stelle. Er möchte direkt mit Handwerksbetrieben in seiner Region in Kontakt treten.",
+              "matchingSources": [
+                { "id": "B1_m11_R3_ad_a", "label": "a" }, { "id": "B1_m11_R3_ad_b", "label": "b" },
+                { "id": "B1_m11_R3_ad_c", "label": "c" }, { "id": "B1_m11_R3_ad_d", "label": "d" },
+                { "id": "B1_m11_R3_ad_e", "label": "e" }, { "id": "B1_m11_R3_ad_f", "label": "f" },
+                { "id": "B1_m11_R3_ad_g", "label": "g" }, { "id": "B1_m11_R3_ad_h", "label": "h" },
+                { "id": "B1_m11_R3_ad_i", "label": "i" }, { "id": "B1_m11_R3_ad_j", "label": "j" },
+                { "id": "B1_m11_R3_ad_k", "label": "k" }, { "id": "B1_m11_R3_ad_l", "label": "l" }
+              ],
+              "correctAnswer": "j",
+              "explanation": "Anzeige j) STELLENBÖRSE HANDWERK ist auf technische Berufe spezialisiert und ermöglicht direkten Kontakt zu Betrieben. Anzeige a) ist ein allgemeines Jobportal ohne Handwerks-Spezialisierung. [Trap: generalisation (a)]"
+            },
+            {
+              "id": "B1_m11_R3_q7",
+              "type": "matching",
+              "questionText": "7. Frau Müller ist seit sieben Jahren Teamleiterin. Sie möchte in eine höhere Führungsposition aufsteigen und sucht Unterstützung von erfahrenen Managerinnen.",
+              "matchingSources": [
+                { "id": "B1_m11_R3_ad_a", "label": "a" }, { "id": "B1_m11_R3_ad_b", "label": "b" },
+                { "id": "B1_m11_R3_ad_c", "label": "c" }, { "id": "B1_m11_R3_ad_d", "label": "d" },
+                { "id": "B1_m11_R3_ad_e", "label": "e" }, { "id": "B1_m11_R3_ad_f", "label": "f" },
+                { "id": "B1_m11_R3_ad_g", "label": "g" }, { "id": "B1_m11_R3_ad_h", "label": "h" },
+                { "id": "B1_m11_R3_ad_i", "label": "i" }, { "id": "B1_m11_R3_ad_j", "label": "j" },
+                { "id": "B1_m11_R3_ad_k", "label": "k" }, { "id": "B1_m11_R3_ad_l", "label": "l" }
+              ],
+              "correctAnswer": "l",
+              "explanation": "Anzeige l) MENTORING-PROGRAMM FRAUEN IN FÜHRUNG richtet sich an ambitionierte Frauen in der Karrieremitte mit Mentoring durch erfahrene Führungskräfte. Anzeige d) (Karrierecoach) bietet Einzelberatung ohne Führungs- oder Netzwerkfokus. [Trap: surface similarity (d)]"
+            },
+            {
+              "id": "B1_m11_R3_q8",
+              "type": "matching",
+              "questionText": "8. Herr Schmidt ist vor Kurzem entlassen worden und braucht dringend einen neuen Job. Er möchte so schnell wie möglich aktuelle Stellen finden.",
+              "matchingSources": [
+                { "id": "B1_m11_R3_ad_a", "label": "a" }, { "id": "B1_m11_R3_ad_b", "label": "b" },
+                { "id": "B1_m11_R3_ad_c", "label": "c" }, { "id": "B1_m11_R3_ad_d", "label": "d" },
+                { "id": "B1_m11_R3_ad_e", "label": "e" }, { "id": "B1_m11_R3_ad_f", "label": "f" },
+                { "id": "B1_m11_R3_ad_g", "label": "g" }, { "id": "B1_m11_R3_ad_h", "label": "h" },
+                { "id": "B1_m11_R3_ad_i", "label": "i" }, { "id": "B1_m11_R3_ad_j", "label": "j" },
+                { "id": "B1_m11_R3_ad_k", "label": "k" }, { "id": "B1_m11_R3_ad_l", "label": "l" }
+              ],
+              "correctAnswer": "a",
+              "explanation": "Anzeige a) JOBPORTAL KARRIERENOW bietet tausende aktuelle Stellenanzeigen kostenlos — ideal für schnelle Jobsuche."
+            },
+            {
+              "id": "B1_m11_R3_q9",
+              "type": "matching",
+              "questionText": "9. Yuki hat ihren Lebenslauf viele Male verschickt ohne Rückmeldung. Eine Freundin meint, das Layout und die Schlüsselwörter könnten das Problem sein.",
+              "matchingSources": [
+                { "id": "B1_m11_R3_ad_a", "label": "a" }, { "id": "B1_m11_R3_ad_b", "label": "b" },
+                { "id": "B1_m11_R3_ad_c", "label": "c" }, { "id": "B1_m11_R3_ad_d", "label": "d" },
+                { "id": "B1_m11_R3_ad_e", "label": "e" }, { "id": "B1_m11_R3_ad_f", "label": "f" },
+                { "id": "B1_m11_R3_ad_g", "label": "g" }, { "id": "B1_m11_R3_ad_h", "label": "h" },
+                { "id": "B1_m11_R3_ad_i", "label": "i" }, { "id": "B1_m11_R3_ad_j", "label": "j" },
+                { "id": "B1_m11_R3_ad_k", "label": "k" }, { "id": "B1_m11_R3_ad_l", "label": "l" }
+              ],
+              "correctAnswer": "c",
+              "explanation": "Anzeige c) CV-SERVICE PROFI optimiert Lebenslauf-Gestaltung und Schlüsselwörter für Bewerbersysteme — direkt auf Yukis Problem zugeschnitten. Anzeige b) (Bewerbungstraining) behandelt das gesamte Bewerbungspaket. [Trap: thematic near-miss (b)]"
+            },
+            {
+              "id": "B1_m11_R3_q10",
+              "type": "matching",
+              "questionText": "10. Frau Park interessiert sich für eine Umschulung, möchte aber wissen, ob es eine staatlich anerkannte Möglichkeit gibt, die man über das Arbeitsamt finanzieren kann.",
+              "matchingSources": [
+                { "id": "B1_m11_R3_ad_a", "label": "a" }, { "id": "B1_m11_R3_ad_b", "label": "b" },
+                { "id": "B1_m11_R3_ad_c", "label": "c" }, { "id": "B1_m11_R3_ad_d", "label": "d" },
+                { "id": "B1_m11_R3_ad_e", "label": "e" }, { "id": "B1_m11_R3_ad_f", "label": "f" },
+                { "id": "B1_m11_R3_ad_g", "label": "g" }, { "id": "B1_m11_R3_ad_h", "label": "h" },
+                { "id": "B1_m11_R3_ad_i", "label": "i" }, { "id": "B1_m11_R3_ad_j", "label": "j" },
+                { "id": "B1_m11_R3_ad_k", "label": "k" }, { "id": "B1_m11_R3_ad_l", "label": "l" }
+              ],
+              "correctAnswer": "i",
+              "explanation": "Anzeige i) UMSCHULUNG BUCHHALTUNG ist IHK-anerkannt und erwähnt Finanzierungsmöglichkeiten über Bildungsgutschein — das Förderinstrument des Arbeitsamts."
+            }
+          ]
+        }
+      ]
+    },
+    "sprachbausteine": {
+      "parts": [
+        {
+          "partNumber": 1,
+          "instructions": "Lesen Sie den folgenden Brief und kreuzen Sie für jede Lücke die richtige Lösung (A, B oder C) an.",
+          "text": "Liebe Paula,\n\nendlich melde ich mich mal wieder! Du weißt ja, was bei mir gerade los ist. Ich habe nämlich beschlossen, mich (31) eine neue Stelle zu bewerben. Mein aktueller Job macht mir keinen Spaß mehr — ich sitze seit drei Jahren auf derselben Position und sehe keine Chance, (32) weiterzukommen.\n\nLetzte Woche habe ich endlich das Anschreiben fertig geschrieben. Ehrlich gesagt war das gar nicht so einfach, denn ich wusste nicht genau, (33) ich anfangen soll. Ich habe dann im Internet geschaut und auch eine Vorlage gefunden, die mir sehr (34) hat.\n\nDas Vorstellungsgespräch ist für nächsten Dienstag (35) . Ich bin schon ein bisschen nervös. Aber meine Mutter sagt immer: 'Sei einfach du (36) !' — das finde ich eigentlich guten Rat.\n\nHast du Lust, mich (37) Wochenende zu besuchen? Wir könnten zusammen mein Outfit für das Gespräch aussuchen und (38) ein bisschen entspannen. Ich würde mich sehr (39) !\n\nLiebe Grüße,\nSabrina",
+          "questions": [
+            {
+              "blankNumber": 31,
+              "type": "mcq",
+              "options": ["a) für", "b) auf", "c) um"],
+              "correctAnswer": "b",
+              "explanation": "'Sich bewerben auf + Akkusativ' ist die feste Fügung. Man bewirbt sich 'auf eine Stelle', nicht 'für eine Stelle' (Anglizismus-Irrtum) und nicht primär 'um eine Stelle'. [Trap: Anglizismus (a)]"
+            },
+            {
+              "blankNumber": 32,
+              "type": "mcq",
+              "options": ["a) zu", "b) beim", "c) zum"],
+              "correctAnswer": "a",
+              "explanation": "'Keine Chance zu + Infinitiv' ist die korrekte Konstruktion. 'Beim Weiterkommen' wäre eine Nominalphrase, die hier nicht passt. [Trap: nominalization trap (b, c)]"
+            },
+            {
+              "blankNumber": 33,
+              "type": "mcq",
+              "options": ["a) wo", "b) wie", "c) ob"],
+              "correctAnswer": "b",
+              "explanation": "Der indirekte Fragesatz beschreibt Unsicherheit über die Art und Weise ('wie' anfangen). 'Wo' wäre ortsgebunden, 'ob' leitet eine Ja/Nein-Frage ein. [Trap: interrogative-swap (a, c)]"
+            },
+            {
+              "blankNumber": 34,
+              "type": "mcq",
+              "options": ["a) gefallen", "b) geholfen", "c) gepasst"],
+              "correctAnswer": "b",
+              "explanation": "Eine Vorlage 'hilft' jemandem (= macht das Schreiben leichter). 'Gefallen' wäre für ästhetisches Gefallen. 'Geholfen' trifft den Sinn (aktiv nützlich sein) besser. [Trap: near-synonym swap (a)]"
+            },
+            {
+              "blankNumber": 35,
+              "type": "mcq",
+              "options": ["a) angemeldet", "b) geplant", "c) vereinbart"],
+              "correctAnswer": "c",
+              "explanation": "Ein Termin wird 'vereinbart' (zwischen zwei Parteien festgelegt). 'Angemeldet' ist einseitig. 'Geplant' ist möglich, aber 'vereinbart' ist für einen fest gebuchten Termin präziser. [Trap: semantic precision (b)]"
+            },
+            {
+              "blankNumber": 36,
+              "type": "mcq",
+              "options": ["a) selbst", "b) allein", "c) selber"],
+              "correctAnswer": "a",
+              "explanation": "'Sei du selbst' ist die standarddeutsche idiomatische Wendung. 'Selbst' ist der registergerechte Standard im Schriftlichen. 'Allein' wäre bedeutungsmäßig falsch. [Trap: register near-miss (c)]"
+            },
+            {
+              "blankNumber": 37,
+              "type": "mcq",
+              "options": ["a) am", "b) ans", "c) beim"],
+              "correctAnswer": "a",
+              "explanation": "'Am Wochenende' ist die korrekte Präpositionalphrase für Zeit. 'Ans Wochenende' wäre eine Bewegungsphrase, semantisch falsch. 'Beim Wochenende' existiert nicht. [Trap: case/preposition confusion (b)]"
+            },
+            {
+              "blankNumber": 38,
+              "type": "mcq",
+              "options": ["a) uns", "b) sich", "c) dich"],
+              "correctAnswer": "a",
+              "explanation": "Das Subjekt ist 'wir' (Sabrina und Paula), daher Reflexivpronomen 'uns' (1. Person Plural). 'Sich' wäre 3. Person. 'Dich' adressiert nur Paula. [Trap: pronoun-person swap (b, c)]"
+            },
+            {
+              "blankNumber": 39,
+              "type": "mcq",
+              "options": ["a) freuen", "b) frohlocken", "c) erfreuen"],
+              "correctAnswer": "a",
+              "explanation": "'Sich freuen' ist die idiomatische Wendung für Vorfreude. 'Frohlocken' ist ein seltenes, gehobenes Verb — register mismatch. 'Sich erfreuen an' würde 'an' erfordern. [Trap: register mismatch (b), collocation error (c)]"
+            }
+          ]
+        },
+        {
+          "partNumber": 2,
+          "instructions": "Lesen Sie den folgenden Brief und schreiben Sie den richtigen Buchstaben (A–O) in die Tabelle. Sie können jedes Wort nur einmal verwenden. Nicht alle Wörter passen.",
+          "text": "Sehr geehrte Damen und Herren,\n\nmein Name ist Daniel Hartmann, (0) ich mich hiermit auf die von Ihnen ausgeschriebene Stelle als Projektassistent bewerbe.\n\nIch habe im vergangenen Jahr meinen Bachelor (31) Betriebswirtschaft an der Universität Mannheim erfolgreich (32) . Während des Studiums habe ich (33) der Firma DataSoft GmbH ein sechsmonatiges Praktikum absolviert, (34) ich vor allem Erfahrungen im Bereich Projektmanagement sammeln konnte.\n\nIch bin eine kommunikative und verantwortungsbewusste Person und arbeite gerne (35) einem Team. Gleichzeitig bin ich (36) , auch selbstständig komplexe Aufgaben zu lösen, (37) Ihnen dabei von Nutzen zu sein.\n\nIch würde mich sehr freuen, Sie (38) einem persönlichen Gespräch kennenlernen (39) . Meine Bewerbungsunterlagen sende ich Ihnen (40) .\n\nMit freundlichen Grüßen\nDaniel Hartmann\n\nWortbank: A) und  B) in  C) bei  D) wobei  E) abgeschlossen  F) zu  G) in der Anlage  H) lage  I) um  J) in der Lage  K) aus  L) im  M) kennen  N) zu dürfen  O) über",
+          "questions": [
+            {
+              "blankNumber": 31,
+              "type": "word_bank",
+              "options": ["A) und", "B) in", "C) bei", "D) wobei", "E) abgeschlossen", "F) zu", "G) in der Anlage", "H) lage", "I) um", "J) in der Lage", "K) aus", "L) im", "M) kennen", "N) zu dürfen", "O) über"],
+              "correctAnswer": "B",
+              "explanation": "'Bachelor in Betriebswirtschaft' — 'in' gibt das Fachgebiet an. 'Über' leitet ein Thema ein. 'Aus' ist inhaltlich falsch. [Trap: preposition swap (O, K)]"
+            },
+            {
+              "blankNumber": 32,
+              "type": "word_bank",
+              "options": ["A) und", "B) in", "C) bei", "D) wobei", "E) abgeschlossen", "F) zu", "G) in der Anlage", "H) lage", "I) um", "J) in der Lage", "K) aus", "L) im", "M) kennen", "N) zu dürfen", "O) über"],
+              "correctAnswer": "E",
+              "explanation": "'Abgeschlossen' ist das korrekte Partizip II zu 'abschließen'. 'Studium erfolgreich abgeschlossen' ist Standardformulierung im Bewerbungsschreiben."
+            },
+            {
+              "blankNumber": 33,
+              "type": "word_bank",
+              "options": ["A) und", "B) in", "C) bei", "D) wobei", "E) abgeschlossen", "F) zu", "G) in der Anlage", "H) lage", "I) um", "J) in der Lage", "K) aus", "L) im", "M) kennen", "N) zu dürfen", "O) über"],
+              "correctAnswer": "C",
+              "explanation": "'Bei einer Firma ein Praktikum absolvieren' ist die feste Fügung für Arbeitgeber/Unternehmen. [Trap: preposition near-miss (B)]"
+            },
+            {
+              "blankNumber": 34,
+              "type": "word_bank",
+              "options": ["A) und", "B) in", "C) bei", "D) wobei", "E) abgeschlossen", "F) zu", "G) in der Anlage", "H) lage", "I) um", "J) in der Lage", "K) aus", "L) im", "M) kennen", "N) zu dürfen", "O) über"],
+              "correctAnswer": "D",
+              "explanation": "'Wobei' leitet einen relativen Nebensatz ein, der einen Nebenaspekt beschreibt. 'Und' wäre koordinierend, würde den Fokus auf das Hauptprädikat lenken. [Trap: conjunction swap (A)]"
+            },
+            {
+              "blankNumber": 35,
+              "type": "word_bank",
+              "options": ["A) und", "B) in", "C) bei", "D) wobei", "E) abgeschlossen", "F) zu", "G) in der Anlage", "H) lage", "I) um", "J) in der Lage", "K) aus", "L) im", "M) kennen", "N) zu dürfen", "O) über"],
+              "correctAnswer": "L",
+              "explanation": "'Im Team arbeiten' ist die feste Kollokation. 'Im' ist die verschmolzene Form 'in dem'. [Trap: collocation near-miss]"
+            },
+            {
+              "blankNumber": 36,
+              "type": "word_bank",
+              "options": ["A) und", "B) in", "C) bei", "D) wobei", "E) abgeschlossen", "F) zu", "G) in der Anlage", "H) lage", "I) um", "J) in der Lage", "K) aus", "L) im", "M) kennen", "N) zu dürfen", "O) über"],
+              "correctAnswer": "J",
+              "explanation": "'In der Lage sein + zu + Infinitiv' bedeutet 'fähig sein'. Option H ('lage' allein) ist unvollständig. [Trap: incomplete phrase (H)]"
+            },
+            {
+              "blankNumber": 37,
+              "type": "word_bank",
+              "options": ["A) und", "B) in", "C) bei", "D) wobei", "E) abgeschlossen", "F) zu", "G) in der Anlage", "H) lage", "I) um", "J) in der Lage", "K) aus", "L) im", "M) kennen", "N) zu dürfen", "O) über"],
+              "correctAnswer": "I",
+              "explanation": "'Um ... zu + Infinitiv' leitet einen Finalsatz ein. 'Und' koordiniert, drückt aber keinen Zweck aus. [Trap: conjunction function swap (A, F)]"
+            },
+            {
+              "blankNumber": 38,
+              "type": "word_bank",
+              "options": ["A) und", "B) in", "C) bei", "D) wobei", "E) abgeschlossen", "F) zu", "G) in der Anlage", "H) lage", "I) um", "J) in der Lage", "K) aus", "L) im", "M) kennen", "N) zu dürfen", "O) über"],
+              "correctAnswer": "B",
+              "explanation": "'In einem persönlichen Gespräch kennenlernen' — 'in' gibt den Rahmen an. 'In einem Gespräch' ist die gebräuchlichere Bewerbungsformel. [Trap: preposition near-miss (C)]"
+            },
+            {
+              "blankNumber": 39,
+              "type": "word_bank",
+              "options": ["A) und", "B) in", "C) bei", "D) wobei", "E) abgeschlossen", "F) zu", "G) in der Anlage", "H) lage", "I) um", "J) in der Lage", "K) aus", "L) im", "M) kennen", "N) zu dürfen", "O) über"],
+              "correctAnswer": "N",
+              "explanation": "'Kennenlernen zu dürfen' — die höfliche Infinitivkonstruktion drückt bescheidene Bitte aus. 'Kennen' allein (M) wäre unvollständig. [Trap: incomplete modal (M, F)]"
+            },
+            {
+              "blankNumber": 40,
+              "type": "word_bank",
+              "options": ["A) und", "B) in", "C) bei", "D) wobei", "E) abgeschlossen", "F) zu", "G) in der Anlage", "H) lage", "I) um", "J) in der Lage", "K) aus", "L) im", "M) kennen", "N) zu dürfen", "O) über"],
+              "correctAnswer": "G",
+              "explanation": "'In der Anlage' ist die Standardformulierung in deutschen Geschäftsbriefen für 'als Anhang'. 'Über' (O) impliziert eine Übermittlungsart, kein Beilagenhinweis. [Trap: register near-miss (O)]"
+            }
+          ]
+        }
+      ]
+    },
+    "writing": {
+      "totalTimeMinutes": 30,
+      "tasks": [
+        {
+          "taskNumber": 1,
+          "type": "letter",
+          "instructions": "Sie möchten sich auf die folgende Stellenanzeige bewerben. Schreiben Sie ein Bewerbungsschreiben. Gehen Sie in Ihrem Brief auf alle vier Punkte ein. Denken Sie an eine passende Einleitung und einen passenden Schluss. Schreiben Sie 130–170 Wörter.",
+          "instructionsTranslation": "You want to apply for the following job advertisement. Write a cover letter. Address all four points in your letter. Remember to include a suitable introduction and conclusion. Write 130–170 words.",
+          "prompt": "Stellenanzeige\n\nWir suchen ab sofort eine/n\nProjektassistent/in (m/w/d)\n\nIhr Profil:\n— abgeschlossene Ausbildung oder Studium\n— gute MS-Office-Kenntnisse\n— Teamfähigkeit und selbstständiges Arbeiten\n— Deutschkenntnisse mind. B2\n\nWir bieten:\n— flexible Arbeitszeiten\n— Homeoffice-Möglichkeit\n— Weiterbildungsangebote\n\nBitte bewerben Sie sich schriftlich bei:\nFirma Logistik & Partner GmbH\nHauptstraße 55, 20095 Hamburg\n\nSchreiben Sie zu folgenden vier Punkten:\n— Warum Sie sich für diese Stelle interessieren\n— Welche Ausbildung oder Erfahrung Sie mitbringen\n— Warum Sie gut ins Team passen\n— Wann Sie frühestens anfangen könnten",
+          "promptTranslation": "Job advertisement\n\nWe are looking for a\nProject Assistant (m/f/d)\n\nYour profile:\n— completed training or degree\n— good MS Office skills\n— team skills and independent working\n— German at least B2\n\nWe offer:\n— flexible working hours\n— home office option\n— training opportunities\n\nPlease apply in writing to:\nFirma Logistik & Partner GmbH\nHauptstraße 55, 20095 Hamburg\n\nWrite about the following four points:\n— Why you are interested in this position\n— What training or experience you have\n— Why you would fit well into the team\n— When you could start at the earliest",
+          "requiredPoints": [
+            "Interesse an der Stelle mit Begründung",
+            "Ausbildung oder relevante Berufserfahrung",
+            "Charaktereigenschaften oder Stärken für die Teamarbeit",
+            "Möglicher Starttermin"
+          ],
+          "wordCountMin": 130,
+          "wordCountMax": 170,
+          "sampleAnswer": "Sehr geehrte Damen und Herren,\n\nmit großem Interesse habe ich Ihre Stellenanzeige für die Position als Projektassistent/in gelesen. Ich bewerbe mich hiermit, da mich die Möglichkeit, in einem dynamischen Logistikunternehmen mitzuwirken, sehr anspricht.\n\nIch habe meinen Bachelor in Betriebswirtschaft an der Universität Frankfurt abgeschlossen und während meines Studiums ein sechsmonatiges Praktikum im Bereich Projektkoordination absolviert. Mit MS Office arbeite ich täglich und bin mit allen gängigen Programmen vertraut.\n\nIch bin kommunikativ, übernehme gern Verantwortung und schätze sowohl Teamarbeit als auch selbstständiges Arbeiten. Ich bin überzeugt, dass ich mich schnell in Ihr Team einarbeiten kann.\n\nFrühestens könnte ich am 1. Juli bei Ihnen beginnen.\n\nIch freue mich auf ein persönliches Gespräch.\n\nMit freundlichen Grüßen\nDaniel Hartmann",
+          "scoringCriteria": [
+            {
+              "criterion": "I. Inhaltliche Vollständigkeit",
+              "maxPoints": 15,
+              "description": "Alle vier Leitpunkte (Interesse, Qualifikation, Teameignung, Starttermin) sind klar behandelt."
+            },
+            {
+              "criterion": "II. Kommunikative Gestaltung",
+              "maxPoints": 15,
+              "description": "Formeller Ton, angemessene Anrede und Grußformel, logische Struktur, passende Übergänge."
+            },
+            {
+              "criterion": "III. Formale Richtigkeit",
+              "maxPoints": 15,
+              "description": "Grammatik, Rechtschreibung und Wortwahl auf B1-Niveau. Korrekte Zeitformen, Nebensatzstellung."
+            }
+          ]
+        }
+      ]
+    },
+    "speaking": {
+      "totalTimeMinutes": 15,
+      "prepTimeMinutes": 0,
+      "parts": [
+        {
+          "partNumber": 1,
+          "type": "introduce",
+          "instructions": "Stellen Sie sich Ihrem Gesprächspartner / Ihrer Gesprächspartnerin vor. Sprechen Sie über sich: Name, Herkunft, aktuelle Tätigkeit, berufliche Erfahrungen und Pläne. Stellen Sie anschließend Ihrer Partnerin / Ihrem Partner mindestens zwei Fragen.",
+          "instructionsTranslation": "Introduce yourself to your conversation partner. Talk about: name, origin, current activity, professional experience and plans. Afterwards ask your partner at least two questions.",
+          "prompt": "Bitte stellen Sie sich Ihrem Partner / Ihrer Partnerin vor. Sprechen Sie u.a. über:\n- Ihren Namen und Ihre Herkunft\n- Was Sie im Moment machen (Studium, Ausbildung, Arbeit)\n- Ihre bisherigen Berufserfahrungen\n- Ihre beruflichen Pläne und Wünsche\n- Warum Deutsch wichtig für Ihren Beruf ist\n\nStellen Sie danach mindestens zwei Fragen, um mehr über Ihren Partner zu erfahren.",
+          "sampleResponse": "Guten Tag, ich heiße Aylin Yıldız und komme ursprünglich aus der Türkei, lebe aber seit sechs Jahren in Deutschland. Ich habe letztes Jahr meinen Bachelor in Wirtschaftsinformatik abgeschlossen und suche gerade meine erste Stelle als Projektmanagerin. Während des Studiums habe ich zwei Praktika gemacht — einmal bei einem kleinen Start-up und einmal bei einer mittelständischen Logistikfirma. Mein Ziel ist es, in einem internationalen Unternehmen zu arbeiten, wo ich meine Sprachkenntnisse nutzen kann. Deutsch ist für mich besonders wichtig, weil fast alle Meetings und Dokumente bei deutschen Firmen auf Deutsch sind. Und wie ist das bei dir? Hast du auch schon Praktika gemacht, und in welcher Branche arbeitest du?",
+          "evaluationTips": [
+            "Strukturieren Sie Ihre Vorstellung — beginnen Sie mit Name und Herkunft",
+            "Verwenden Sie Nebensätze mit 'weil', 'dass', 'wo' — das zeigt B1-Niveau",
+            "Sprechen Sie über konkrete Erfahrungen, nicht nur abstrakte Pläne",
+            "Stellen Sie offene Fragen, die ein Gespräch einladen",
+            "Nennen Sie konkrete Details (Branche, Dauer, Aufgaben)"
+          ],
+          "keyPhrases": [
+            "Ich heiße ... und komme aus ...",
+            "Im Moment suche ich .../arbeite ich als .../studiere ich ...",
+            "Ich habe Erfahrung in ...",
+            "Mein Ziel ist es, ...",
+            "Und wie ist das bei dir?"
+          ]
+        },
+        {
+          "partNumber": 2,
+          "type": "discussion",
+          "instructions": "Sehen Sie sich die Statistik an. Berichten Sie Ihrer Gesprächspartnerin / Ihrem Gesprächspartner über die wichtigsten Informationen. Sagen Sie auch Ihre eigene Meinung und stellen Sie Fragen.",
+          "instructionsTranslation": "Look at the statistics. Tell your conversation partner about the most important information. Also give your own opinion and ask questions.",
+          "prompt": "Thema: Homeoffice in Deutschland\n\nStatistik: Wie oft arbeiten Beschäftigte von zu Hause?\n\n- täglich: 18 %\n- mehrmals pro Woche: 24 %\n- einmal pro Woche: 15 %\n- seltener als einmal pro Woche: 12 %\n- nie: 31 %\n\nQuelle: Institut für Arbeitsmarkt- und Berufsforschung, 2025\n\nBesprechen Sie:\n- Was zeigt die Statistik?\n- Was überrascht Sie?\n- Was sind die Vor- und Nachteile von Homeoffice?\n- Wie ist das in Ihrem Alltag oder in Ihrem Wunschberuf?",
+          "sampleResponse": "Die Statistik zeigt, dass in Deutschland 2025 nur etwa 18 Prozent aller Beschäftigten täglich im Homeoffice arbeiten, und fast ein Drittel — nämlich 31 Prozent — arbeitet gar nicht von zu Hause. Das finde ich eigentlich überraschend, weil ich dachte, Homeoffice ist nach der Pandemie viel verbreiteter.\n\nEinerseits hat Homeoffice klare Vorteile: Man spart Zeit und Geld für den Weg zur Arbeit, kann konzentrierter arbeiten und hat mehr Flexibilität. Andererseits vermissen viele den direkten Kontakt zu Kollegen — gerade für Berufseinsteiger ist das oft ein Problem.\n\nFür meinen Wunschberuf als Projektmanagerin wäre ein hybrides Modell ideal: ein bis zwei Tage Homeoffice pro Woche und den Rest im Büro. Was denkst du — arbeitest du lieber von zu Hause oder im Büro, und warum?",
+          "evaluationTips": [
+            "Beginnen Sie mit einer klaren Zusammenfassung der Statistik",
+            "Nennen Sie konkrete Zahlen aus dem Diagramm",
+            "Strukturieren Sie Vor- und Nachteile klar: 'Einerseits ... andererseits ...'",
+            "Stellen Sie dem Partner mindestens eine Rückfrage",
+            "Beziehen Sie die Statistik auf Ihre persönliche Situation"
+          ],
+          "keyPhrases": [
+            "Die Statistik zeigt, dass ...",
+            "Das überrascht mich, weil ...",
+            "Einerseits ..., andererseits ...",
+            "Für meinen Beruf wäre ... ideal",
+            "Was denkst du dazu?"
+          ]
+        },
+        {
+          "partNumber": 3,
+          "type": "planning",
+          "instructions": "Sie sollen mit Ihrem Partner / Ihrer Partnerin gemeinsam ein Team-Event planen. Machen Sie Vorschläge, reagieren Sie auf die Ideen Ihres Partners und einigen Sie sich auf eine gemeinsame Lösung.",
+          "instructionsTranslation": "You are going to plan a team event together with your partner. Make suggestions, respond to your partner's ideas, and agree on a joint solution.",
+          "prompt": "Ihre Abteilung (12 Personen) hat das Jahresziel erreicht. Der Chef schlägt vor, gemeinsam etwas zu unternehmen. Sie haben Budget (maximal 50 € pro Person) und einen freien Samstag im Juli.\n\nBesprechen Sie folgende Punkte und kommen Sie zu einer gemeinsamen Entscheidung:\n\n- Art der Aktivität (Ausflug, Sport, Kochen, Stadtführung, ...)\n- Ort und Anreise\n- Zeitplan für den Tag\n- Verpflegung\n- Wer übernimmt welche Aufgabe (Reservierung, Einladungen, Einkauf)?\n- Budget: maximal 50 € pro Person",
+          "sampleResponse": "Ich würde vorschlagen, einen Kochkurs für das ganze Team zu machen — das fördert die Zusammenarbeit und macht Spaß. Viele Kochschulen in der Stadt bieten Gruppen-Events für bis zu 15 Personen an, und der Preis liegt oft zwischen 40 und 55 Euro — wir müssen schauen, ob wir einen Anbieter für unter 50 Euro finden.\n\nWas hältst du davon, den Kurs abends zu machen — zum Beispiel ab 17 Uhr — damit wir danach auch zusammen essen können?\n\nZur Anreise würde ich vorschlagen, dass alle mit den öffentlichen Verkehrsmitteln kommen, da das am einfachsten ist und nichts kostet.\n\nIch könnte die Reservierung übernehmen und die Einladung per E-Mail verschicken. Kannst du dich um die Getränke kümmern? Vielleicht können wir Wein und Wasser aus dem Budget mitfinanzieren.\n\nAlso: Kochkurs, Samstag abends, du Getränke, ich Reservierung und Einladungen — einverstanden?",
+          "evaluationTips": [
+            "Machen Sie konkrete Vorschläge mit Begründung",
+            "Verwenden Sie Konjunktiv II: 'Ich würde vorschlagen ...', 'Wir könnten ...'",
+            "Reagieren Sie aktiv auf die Vorschläge des Partners",
+            "Verteilen Sie Aufgaben klar",
+            "Fassen Sie das Ergebnis am Ende zusammen"
+          ],
+          "keyPhrases": [
+            "Ich würde vorschlagen, dass ...",
+            "Was hältst du von ...?",
+            "Das klingt gut, weil ...",
+            "Wir könnten auch ...",
+            "Ich übernehme ... und du ...",
+            "Also haben wir uns geeinigt auf ..."
+          ]
+        }
+      ]
+    }
+  }
+}
