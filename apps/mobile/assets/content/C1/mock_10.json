@@ -349,8 +349,7 @@
                 "b",
                 "c",
                 "d",
-                "e",
-                "x"
+                "e"
               ],
               "correctAnswer": "b",
               "explanation": "Absatz b) erklärt den Rebound-Effekt: Effizienzgewinne werden durch erhöhten Verbrauch kompensiert. Das ist das zentrale Argument dafür, dass technischer Fortschritt allein klimapolitisch unzureichend ist."
@@ -364,8 +363,7 @@
                 "b",
                 "c",
                 "d",
-                "e",
-                "x"
+                "e"
               ],
               "correctAnswer": "c",
               "explanation": "Absatz c) beschreibt die EU-Energiepolitik nach dem Ukraine-Krieg: Gleichzeitig wurden erneuerbare Energien ausgebaut und neue Gasverträge geschlossen — ein Widerspruch zwischen Dekarbonisierung und Versorgungssicherheit."
@@ -379,8 +377,7 @@
                 "b",
                 "c",
                 "d",
-                "e",
-                "x"
+                "e"
               ],
               "correctAnswer": "e",
               "explanation": "Absatz e) behandelt explizit, dass einkommensschwache Haushalte einen höheren Anteil ihres Einkommens für Strom zahlen und diskutiert alternative Finanzierungsmodelle zur Abmilderung dieser Ungleichheit."
@@ -394,8 +391,7 @@
                 "b",
                 "c",
                 "d",
-                "e",
-                "x"
+                "e"
               ],
               "correctAnswer": "d",
               "explanation": "Absatz d) unterscheidet Suffizienz von Effizienz und Konsistenz und erklärt, dass Suffizienz direkt in individuelle Präferenzen eingreift — weshalb sie als paternalistisch gilt und politisch am unbeliebtesten ist."
@@ -409,8 +405,7 @@
                 "b",
                 "c",
                 "d",
-                "e",
-                "x"
+                "e"
               ],
               "correctAnswer": "a",
               "explanation": "Absatz a) beschreibt den COP28-Schadensfonds und nennt ihn 'symbolisch', weil die zugesagten Mittel gemessen an den tatsächlichen Klimaschäden minimal sind."
@@ -424,8 +419,7 @@
                 "b",
                 "c",
                 "d",
-                "e",
-                "x"
+                "e"
               ],
               "correctAnswer": "a",
               "explanation": "Absatz a) argumentiert, dass echte Klimagerechtigkeit nicht nur Anpassungshilfen, sondern die Veränderung von Handels- und Finanzstrukturen erfordert — eine strukturelle Wirtschaftsdimension, die in keinem anderen Absatz thematisiert wird."
@@ -588,7 +582,7 @@
       ]
     },
     "listening": {
-      "totalTimeMinutes": 20,
+      "totalTimeMinutes": 40,
       "parts": [
         {
           "partNumber": 1,
