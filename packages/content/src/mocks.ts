@@ -41,6 +41,7 @@ import B1_mock_09 from '../../../apps/mobile/assets/content/B1/mock_09.json';
 import B1_mock_10 from '../../../apps/mobile/assets/content/B1/mock_10.json';
 import B1_mock_11 from '../../../apps/mobile/assets/content/B1/mock_11.json';
 import B1_mock_12 from '../../../apps/mobile/assets/content/B1/mock_12.json';
+import B1_mock_13 from '../../../apps/mobile/assets/content/B1/mock_13.json';
 import B1_mock_14 from '../../../apps/mobile/assets/content/B1/mock_14.json';
 
 import B2_mock_01 from '../../../apps/mobile/assets/content/B2/mock_01.json';
@@ -139,6 +140,7 @@ const MOCK_DATA: Record<Level, MockExam[]> = {
 // Add entries here when a new B1 mock JSON is committed to the repo.
 const B1_EXTRA: Map<number, MockExam> = new Map([
   [12, assertMockExam(B1_mock_12, 'B1_mock_12')],
+  [13, assertMockExam(B1_mock_13, 'B1_mock_13')],
   [14, assertMockExam(B1_mock_14, 'B1_mock_14')],
 ]);
 
@@ -149,9 +151,10 @@ const VALID_LEVELS: Level[] = ['A1', 'A2', 'B1', 'B2', 'C1'];
  * if the level is invalid or the mock number is not available.
  *
  * For B1, mocks 1–11 are in MOCK_DATA and mocks shipped out-of-order
- * (currently: 12, 14) are in B1_EXTRA. Returns null for unshipped placeholders.
+ * (currently: 12, 13, 14) are in B1_EXTRA. Returns null for unshipped placeholders.
  *
  * Data is statically imported at build time — no fs reads at request time.
+ * B1 uses a sparse map as mocks above 10 arrive in non-sequential batches.
  */
 export function getMockExam(level: Level, mockNumber: number): MockExam | null {
   if (!VALID_LEVELS.includes(level)) return null;

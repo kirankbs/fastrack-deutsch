@@ -1,0 +1,940 @@
+{
+  "id": "B1_mock_13",
+  "level": "B1",
+  "title": "B1 Übungstest 13: Reisen & Mobilität",
+  "version": 1,
+  "sections": {
+    "listening": {
+      "totalTimeMinutes": 30,
+      "parts": [
+        {
+          "partNumber": 1,
+          "instructions": "Sie hören fünf kurze Texte. Entscheiden Sie bei jedem Text: Ist die Aussage richtig oder falsch? Sie hören jeden Text nur einmal.",
+          "instructionsTranslation": "You will hear five short texts. For each text, decide: Is the statement correct or incorrect? You will hear each text only once.",
+          "audioFile": "assets/audio/B1/mock13/listening_part1.mp3",
+          "playCount": 1,
+          "questions": [
+            {
+              "id": "B1_m13_L1_q1",
+              "type": "true_false",
+              "questionText": "Die Bahnhofsdurchsage informiert: Der Regionalzug nach Freiburg fährt heute von Gleis 7 ab.",
+              "options": ["richtig", "falsch"],
+              "correctAnswer": "falsch",
+              "explanation": "Die Durchsage lautet: 'Der Regionalzug RE 420 nach Freiburg fährt heute abweichend von Gleis 12 ab.' Das ist Gleis 12, nicht Gleis 7. Die Aussage ist falsch.",
+              "audioTimestamp": 8
+            },
+            {
+              "id": "B1_m13_L1_q2",
+              "type": "true_false",
+              "questionText": "Die Frau am Telefon möchte ein Zugticket für nächsten Montag buchen.",
+              "options": ["richtig", "falsch"],
+              "correctAnswer": "richtig",
+              "explanation": "Die Frau sagt am Telefon: 'Ich brauche eine Fahrkarte von Köln nach Berlin, und zwar für nächsten Montag, den 12.' Sie bucht eindeutig für Montag. Die Aussage ist richtig.",
+              "audioTimestamp": 11
+            },
+            {
+              "id": "B1_m13_L1_q3",
+              "type": "true_false",
+              "questionText": "Das Hotel bietet Gästen keinen kostenlosen Flughafentransfer an.",
+              "options": ["richtig", "falsch"],
+              "correctAnswer": "falsch",
+              "explanation": "Die Hotelansage informiert: 'Für unsere Gäste bieten wir täglich einen kostenlosen Shuttleservice zum Flughafen an – Abfahrt um 6, 9 und 12 Uhr.' Ein kostenloser Transfer ist also vorhanden. Die Aussage ist falsch.",
+              "audioTimestamp": 9
+            },
+            {
+              "id": "B1_m13_L1_q4",
+              "type": "true_false",
+              "questionText": "Laut der Radiosendung haben Fahrräder in deutschen Städten in den letzten Jahren mehr Platz auf den Straßen bekommen.",
+              "options": ["richtig", "falsch"],
+              "correctAnswer": "richtig",
+              "explanation": "Der Radiomoderator sagt: 'In vielen deutschen Städten wurden in den letzten fünf Jahren Fahrradspuren deutlich ausgebaut und neue Radschnellwege geschaffen.' Mehr Platz für Radfahrer ist korrekt. Die Aussage ist richtig.",
+              "audioTimestamp": 13
+            },
+            {
+              "id": "B1_m13_L1_q5",
+              "type": "true_false",
+              "questionText": "Der Mann auf dem Anrufbeantworter kommt morgen früh mit dem Auto zurück.",
+              "options": ["richtig", "falsch"],
+              "correctAnswer": "falsch",
+              "explanation": "Der Mann sagt auf dem Anrufbeantworter: 'Ich komme morgen Abend mit dem Zug an – könntest du mich bitte vom Bahnhof abholen?' Er kommt mit dem Zug, nicht dem Auto, und abends, nicht früh. Die Aussage ist falsch.",
+              "audioTimestamp": 8
+            }
+          ]
+        },
+        {
+          "partNumber": 2,
+          "instructions": "Sie hören einen Radiobericht. Entscheiden Sie, ob die folgenden zehn Aussagen richtig oder falsch sind. Sie hören den Text nur einmal.",
+          "instructionsTranslation": "You will hear a radio report. Decide whether the following ten statements are correct or incorrect. You will hear the text only once.",
+          "audioFile": "assets/audio/B1/mock13/listening_part2.mp3",
+          "playCount": 1,
+          "questions": [
+            {
+              "id": "B1_m13_L2_q1",
+              "type": "true_false",
+              "questionText": "Die Radiosendung beschäftigt sich mit dem Thema nachhaltiges Reisen in Europa.",
+              "options": ["richtig", "falsch"],
+              "correctAnswer": "richtig",
+              "explanation": "Der Moderator kündigt an: 'In unserer heutigen Sendung sprechen wir über umweltfreundliche Reisemöglichkeiten innerhalb Europas.' Nachhaltiges Reisen in Europa ist das zentrale Thema. Die Aussage ist richtig.",
+              "audioTimestamp": 6
+            },
+            {
+              "id": "B1_m13_L2_q2",
+              "type": "true_false",
+              "questionText": "Laut dem Bericht ist das Flugzeug für Strecken unter 700 km in Europa häufig schneller als der Zug.",
+              "options": ["richtig", "falsch"],
+              "correctAnswer": "falsch",
+              "explanation": "Der Experte erklärt: 'Wenn man An- und Abreise zum Flughafen sowie Wartezeiten einrechnet, ist der Zug auf Strecken unter 700 km oft genauso schnell oder sogar schneller als das Flugzeug.' Nicht langsamer – die Aussage ist falsch.",
+              "audioTimestamp": 42
+            },
+            {
+              "id": "B1_m13_L2_q3",
+              "type": "true_false",
+              "questionText": "Die Reiseexpertin Frau Steiner arbeitet bei einem internationalen Reiseverband.",
+              "options": ["richtig", "falsch"],
+              "correctAnswer": "richtig",
+              "explanation": "Der Moderator stellt sie vor: 'Unsere Gästin, Katharina Steiner, ist Leiterin der Abteilung für nachhaltigen Tourismus beim Europäischen Reiseverband.' Die Aussage ist richtig.",
+              "audioTimestamp": 58
+            },
+            {
+              "id": "B1_m13_L2_q4",
+              "type": "true_false",
+              "questionText": "Frau Steiner empfiehlt Reisenden, ausschließlich den Zug zu benutzen und nie zu fliegen.",
+              "options": ["richtig", "falsch"],
+              "correctAnswer": "falsch",
+              "explanation": "Frau Steiner sagt: 'Wir wollen niemanden zwingen. Es geht darum, informierte Entscheidungen zu treffen. Für manche Reisen – besonders lange interkontinentale Strecken – ist das Flugzeug nach wie vor die einzige sinnvolle Option.' Sie schließt Fliegen nicht aus. Die Aussage ist falsch.",
+              "audioTimestamp": 85
+            },
+            {
+              "id": "B1_m13_L2_q5",
+              "type": "true_false",
+              "questionText": "Nachtzüge werden laut Bericht immer beliebter, weil man dabei Reisezeit spart.",
+              "options": ["richtig", "falsch"],
+              "correctAnswer": "richtig",
+              "explanation": "Der Bericht nennt als Hauptvorteil: 'Passagiere schlafen im Zug und kommen ausgeruht am Ziel an – ohne extra Reisezeit zu verlieren.' Zeit sparen durch Reisen in der Nacht ist explizit genannt. Die Aussage ist richtig.",
+              "audioTimestamp": 105
+            },
+            {
+              "id": "B1_m13_L2_q6",
+              "type": "true_false",
+              "questionText": "Laut der Sendung sind Nachtzugtickets meistens günstiger als Flugtickets.",
+              "options": ["richtig", "falsch"],
+              "correctAnswer": "falsch",
+              "explanation": "Der Moderator sagt: 'Leider sind Nachtzugtickets auf beliebten Strecken oft teurer als Billigflüge – das ist ein Kritikpunkt, den viele Reisende nennen.' Billigflüge sind häufig günstiger. Die Aussage ist falsch.",
+              "audioTimestamp": 122
+            },
+            {
+              "id": "B1_m13_L2_q7",
+              "type": "true_false",
+              "questionText": "Das Fahrrad wird in der Sendung als geeignetes Verkehrsmittel für den letzten Wegabschnitt am Zielort empfohlen.",
+              "options": ["richtig", "falsch"],
+              "correctAnswer": "richtig",
+              "explanation": "Frau Steiner sagt: 'Am Zielort einfach ein Leihfahrrad nehmen – das ist ideal für kurze Strecken und man sieht gleichzeitig viel mehr von der Stadt.' Das Fahrrad für den letzten Abschnitt ist empfohlen. Die Aussage ist richtig.",
+              "audioTimestamp": 148
+            },
+            {
+              "id": "B1_m13_L2_q8",
+              "type": "true_false",
+              "questionText": "Frau Steiner findet, dass Öko-Tourismus vor allem für ältere Reisende attraktiv ist.",
+              "options": ["richtig", "falsch"],
+              "correctAnswer": "falsch",
+              "explanation": "Frau Steiner sagt: 'Interessanterweise ist nachhaltiges Reisen besonders bei jüngeren Leuten zwischen 25 und 40 Jahren gefragt.' Sie bezieht sich auf Jüngere, nicht Ältere. Die Aussage ist falsch.",
+              "audioTimestamp": 165
+            },
+            {
+              "id": "B1_m13_L2_q9",
+              "type": "true_false",
+              "questionText": "Am Ende der Sendung nennt der Moderator eine Website, auf der man Bahnverbindungen quer durch Europa vergleichen kann.",
+              "options": ["richtig", "falsch"],
+              "correctAnswer": "richtig",
+              "explanation": "Der Moderator sagt zum Schluss: 'Alle Infos und einen Vergleich europäischer Bahnverbindungen finden Sie auf unserer Website unter reisen-nachhaltig.de.' Die Aussage ist richtig.",
+              "audioTimestamp": 192
+            },
+            {
+              "id": "B1_m13_L2_q10",
+              "type": "true_false",
+              "questionText": "Laut dem Bericht hat die Zahl der Fernradreisen in Deutschland in den letzten Jahren abgenommen.",
+              "options": ["richtig", "falsch"],
+              "correctAnswer": "falsch",
+              "explanation": "Der Sprecher erwähnt: 'Mehrtägige Radreisen erfreuen sich wachsender Beliebtheit – laut ADFC-Statistik wurden in den letzten drei Jahren doppelt so viele Fernradreisen unternommen.' Die Zahl ist gestiegen, nicht gesunken. Die Aussage ist falsch.",
+              "audioTimestamp": 178
+            }
+          ]
+        },
+        {
+          "partNumber": 3,
+          "instructions": "Sie hören fünf kurze Gespräche. Zu jedem Gespräch gibt es eine Aufgabe. Was ist richtig? Kreuzen Sie an: a, b oder c. Sie hören jedes Gespräch zweimal.",
+          "instructionsTranslation": "You will hear five short conversations. For each conversation there is one task. What is correct? Mark: a, b, or c. You will hear each conversation twice.",
+          "audioFile": "assets/audio/B1/mock13/listening_part3.mp3",
+          "playCount": 2,
+          "questions": [
+            {
+              "id": "B1_m13_L3_q1",
+              "type": "mcq",
+              "questionText": "Warum nimmt Herr Bauer lieber den Zug als das Auto für die Fahrt nach München?",
+              "options": [
+                "a) Er darf kein Auto mehr fahren, weil er den Führerschein abgeben musste.",
+                "b) Mit dem Zug kann er unterwegs arbeiten und muss sich nicht um Stau oder Parkplatzsuche kümmern.",
+                "c) Das Zugticket ist deutlich billiger als die Benzinkosten für die Strecke."
+              ],
+              "correctAnswer": "b",
+              "explanation": "Herr Bauer erklärt: 'Im Zug kann ich meinen Laptop aufmachen und arbeite einfach weiter – und das Thema Stau und Parkplatz in München spare ich mir komplett.' Arbeiten und keine Parkplatzsorgen sind seine Gründe. Option a ist eine false-premise-Falle: Führerscheinverlust wird nie erwähnt. Option c nennt er als Nebenaspekt, aber nicht als Hauptgrund. [Trap used: false-premise (a), partial-truth (c)]",
+              "audioTimestamp": 14
+            },
+            {
+              "id": "B1_m13_L3_q2",
+              "type": "mcq",
+              "questionText": "Was plant das Pärchen für seinen Sommerurlaub?",
+              "options": [
+                "a) Eine Kreuzfahrt im Mittelmeer mit einem großen Schiff.",
+                "b) Eine Radtour durch Österreich, mit Übernachtung in kleinen Gasthöfen.",
+                "c) Einen Campingurlaub in Kroatien, bei dem sie jeden Abend woanders stehen."
+              ],
+              "correctAnswer": "b",
+              "explanation": "Die Frau sagt: 'Ich stelle mir das so vor: Wir fahren mit dem Rad von Salzburg nach Wien – das sind so sieben bis acht Tage – und schlafen abends in kleinen Gasthöfen am Weg.' Radtour + Gasthöfe in Österreich ist der Plan. Option a (Kreuzfahrt) wird kurz als abgelehnte Alternative erwähnt. Option c klingt ähnlich abenteuerlich, aber Kroatien und Camping werden nicht genannt – das ist eine false-inference-Falle. [Trap used: rejected-option (a), false-inference (c)]",
+              "audioTimestamp": 54
+            },
+            {
+              "id": "B1_m13_L3_q3",
+              "type": "mcq",
+              "questionText": "Was möchte die Studentin an ihrem Auslandssemester in Barcelona am liebsten erleben?",
+              "options": [
+                "a) Sie möchte möglichst viele Länder Europas bereisen, weil sie Interrail nutzen will.",
+                "b) Sie will hauptsächlich die Sprache verbessern und möglichst wenig mit Deutschen zusammen sein.",
+                "c) Sie hofft, eine neue Sportart kennenzulernen und regelmäßig am Strand zu schwimmen."
+              ],
+              "correctAnswer": "b",
+              "explanation": "Die Studentin sagt: 'Das Wichtigste für mich ist, wirklich Katalanisch und Spanisch zu lernen. Deshalb möchte ich in einer WG mit Einheimischen wohnen und den Kontakt zu deutschen Studierenden möglichst vermeiden.' Sprachverbesserung und wenig Deutsche – Option b trifft es. Option a ist eine time-frame-shift-Falle: Reisen plant sie für nach dem Semester, nicht währenddessen. Option c klingt verlockend, aber Sport und Schwimmen werden von ihr nie erwähnt. [Trap used: time-frame shift (a), false-inference (c)]",
+              "audioTimestamp": 92
+            },
+            {
+              "id": "B1_m13_L3_q4",
+              "type": "mcq",
+              "questionText": "Warum hat die Familie ihren Flug nach Lanzarote storniert?",
+              "options": [
+                "a) Der Flug wurde von der Airline wegen technischer Probleme gestrichen.",
+                "b) Die Kinder haben sich kurz vor der Reise krank gemeldet und der Arzt riet von der Reise ab.",
+                "c) Das gebuchte Hotel hat die Reservierung wegen Überbuchung kurzfristig abgesagt."
+              ],
+              "correctAnswer": "c",
+              "explanation": "Der Vater erklärt: 'Das Hotel hat uns drei Tage vor dem Abflug geschrieben, dass sie überbucht sind und kein Zimmer mehr für uns haben. Da haben wir natürlich auch den Flug storniert.' Hotelseitige Stornierung wegen Überbuchung ist der Grund. Option a (Airline-Probleme) ist eine causal-reversal-Falle: Die Airline hat nicht gestrichen, die Familie hat selbst storniert. Option b (Kranke Kinder) ist eine false-premise-Falle: Krankheit wird nicht erwähnt. [Trap used: causal reversal (a), false-premise (b)]",
+              "audioTimestamp": 125
+            },
+            {
+              "id": "B1_m13_L3_q5",
+              "type": "mcq",
+              "questionText": "Worüber sind sich die zwei Kollegen in ihrem Gespräch einig?",
+              "options": [
+                "a) Dass Dienstreisen mit der Bahn immer komfortabler und verlässlicher geworden sind.",
+                "b) Dass ihr Arbeitgeber zu wenig für die Fahrtkosten der Mitarbeiter bezahlt.",
+                "c) Dass Videokonferenzen viele kurze Dienstreisen unnötig gemacht haben."
+              ],
+              "correctAnswer": "c",
+              "explanation": "Kollegin A sagt: 'Diesen kurzen Hin- und Hinwegtrip nach Frankfurt für ein zweistündiges Meeting würde ich heute nicht mehr machen.' Kollege B stimmt zu: 'Da haben wir wirklich viel Zeit gespart – die meisten Besprechungen klappen auch per Video.' Beide sind sich einig: Videokonferenzen ersetzen viele kurze Dienstreisen. Option a ist eine generalisation-Falle: Bahn-Komfort wird gar nicht diskutiert. Option b ist eine false-premise-Falle: Fahrtkosten werden nicht erwähnt. [Trap used: generalisation (a), false-premise (b)]",
+              "audioTimestamp": 162
+            }
+          ]
+        }
+      ]
+    },
+    "reading": {
+      "totalTimeMinutes": 60,
+      "parts": [
+        {
+          "partNumber": 1,
+          "instructions": "Lesen Sie die fünf Texte (1–5) und die acht Überschriften (a–h). Ordnen Sie jedem Text genau eine passende Überschrift zu. Drei Überschriften bleiben übrig.",
+          "instructionsTranslation": "Read the five texts (1–5) and the eight headlines (a–h). Match each text to exactly one fitting headline. Three headlines remain unused.",
+          "texts": [
+            {
+              "id": "B1_m13_R1_text1",
+              "type": "short_text",
+              "content": "Seit Jahren träumt Lena von einem Stadtbummel in Lissabon. Im Oktober hat sie es endlich gemacht: drei Tage, ein kleines Hostel im Alfama-Viertel, kein festes Programm. Sie ist zu Fuß durch die alten Straßen gelaufen, hat Pastéis de Nata gegessen und Fado-Musik in einem kleinen Café gehört. 'Manchmal muss man einfach fahren', sagt sie. 'Ohne große Planung, einfach raus.' Das Budget war knapp, aber es hat gereicht – und die Erinnerungen bleiben für immer."
+            },
+            {
+              "id": "B1_m13_R1_text2",
+              "type": "short_text",
+              "content": "Wer mit der Bahn quer durch Europa fahren möchte, kennt das Problem: Der ICE ist pünktlich, aber die Anschluss­verbindung in Wien kommt nicht. Der Koffer ist auf einem anderen Gleis. Der Servicemitarbeiter zuckt die Schultern. Reiseexpertin Petra Mehl rät: 'Mindestens 30 Minuten Umsteigezeit einplanen, und bei internationalen Verbindungen lieber 45. Außerdem sollte man die DB-App im Hintergrund laufen lassen – die zeigt Verspätungen in Echtzeit an.'"
+            },
+            {
+              "id": "B1_m13_R1_text3",
+              "type": "short_text",
+              "content": "Jonas, 24, studiert Wirtschaftsinformatik und verbringt sein drittes Semester an der Universität Valencia. 'Ich hatte Angst, dass ich mit der Sprache nicht zurechtkomme', gibt er zu. 'Aber nach zwei Wochen hatte ich einen spanischen Mitbewohner und seitdem geht es. Man wird einfach gezwungen, die Sprache zu benutzen.' Neben dem Studium entdeckt er die Küste per Fahrrad. Für alle, die überlegen: 'Macht es einfach. Das Erasmus-Semester ist das Beste, was mir passiert ist.'"
+            },
+            {
+              "id": "B1_m13_R1_text4",
+              "type": "short_text",
+              "content": "Von Frankfurt nach Zürich, von Zürich nach Genf, von Genf in die Berge: Die Familie Schreiner ist im letzten Sommer mit dem Zug in die Schweizer Alpen gereist – und war überrascht. 'Man sieht die Landschaft, man entspannt sich, die Kinder rennen im Gang herum und stören niemanden', erzählt Mutter Sandra. Der einzige Nachteil: 'Das Gepäck. Wir haben das nächste Mal beschlossen, leichter zu packen.' Das Gesamtbudget für die Bahnfahrt war höher als Flugtickets gewesen wären, aber sie würden es jederzeit wiederholen."
+            },
+            {
+              "id": "B1_m13_R1_text5",
+              "type": "short_text",
+              "content": "Auf dem Höhepunkt der Temperaturen im August wählte die Umweltorganisation GreenPaths einen anderen Ansatz: Sie boten geführte Touren durch den Schwarzwald an – zu Fuß und mit dem Fahrrad, kein Motor, kein Lärm. Ziel war es, Touristen zu zeigen, dass Reisen nicht immer bedeutet: weit fahren, teuer fliegen, viel verbrauchen. Mehr als 200 Teilnehmer kamen, viele davon zum ersten Mal in der Region. 'Ökotourismus ist kein Verzicht', sagt Organisatorin Claudia Rau. 'Es ist eine andere Art, die Welt zu erleben.'"
+            },
+            { "id": "B1_m13_R1_head_a", "type": "notice", "content": "a) Günstig und spontan: So klappt der schnelle Städtetrip" },
+            { "id": "B1_m13_R1_head_b", "type": "notice", "content": "b) Tipps gegen den Reisestress: Pünktlich ankommen trotz Verspätung" },
+            { "id": "B1_m13_R1_head_c", "type": "notice", "content": "c) Mit dem Zug durch die Alpen: Eine Familienreise mit Überraschungen" },
+            { "id": "B1_m13_R1_head_d", "type": "notice", "content": "d) Auslandssemester in Spanien: Sprache lernen durch echten Alltag" },
+            { "id": "B1_m13_R1_head_e", "type": "notice", "content": "e) Langzeiturlaub in Übersee: Wie man monatelang günstig reist" },
+            { "id": "B1_m13_R1_head_f", "type": "notice", "content": "f) Natur erleben ohne Auto und Flugzeug: Ökotourismus im Schwarzwald" },
+            { "id": "B1_m13_R1_head_g", "type": "notice", "content": "g) Geführte Kreuzfahrten: Luxus auf dem Wasser" },
+            { "id": "B1_m13_R1_head_h", "type": "notice", "content": "h) Bahnfahrt oder Flug? Ein Kostenvergleich für Europareisen" }
+          ],
+          "questions": [
+            {
+              "id": "B1_m13_R1_q1",
+              "type": "matching",
+              "questionText": "1. Text 1",
+              "matchingSources": [
+                { "id": "B1_m13_R1_head_a", "label": "a" },
+                { "id": "B1_m13_R1_head_b", "label": "b" },
+                { "id": "B1_m13_R1_head_c", "label": "c" },
+                { "id": "B1_m13_R1_head_d", "label": "d" },
+                { "id": "B1_m13_R1_head_e", "label": "e" },
+                { "id": "B1_m13_R1_head_f", "label": "f" },
+                { "id": "B1_m13_R1_head_g", "label": "g" },
+                { "id": "B1_m13_R1_head_h", "label": "h" }
+              ],
+              "correctAnswer": "a",
+              "explanation": "Text 1 berichtet von Lenas spontanem Kurztrip nach Lissabon mit knappem Budget – kein festes Programm, kein großer Aufwand. Überschrift a ('Günstig und spontan: So klappt der schnelle Städtetrip') trifft das genau. Überschrift h (Kostenvergleich) könnte verlockend wirken, da Budget erwähnt wird, aber es gibt keinen Vergleich zwischen Bahn und Flug."
+            },
+            {
+              "id": "B1_m13_R1_q2",
+              "type": "matching",
+              "questionText": "2. Text 2",
+              "matchingSources": [
+                { "id": "B1_m13_R1_head_a", "label": "a" },
+                { "id": "B1_m13_R1_head_b", "label": "b" },
+                { "id": "B1_m13_R1_head_c", "label": "c" },
+                { "id": "B1_m13_R1_head_d", "label": "d" },
+                { "id": "B1_m13_R1_head_e", "label": "e" },
+                { "id": "B1_m13_R1_head_f", "label": "f" },
+                { "id": "B1_m13_R1_head_g", "label": "g" },
+                { "id": "B1_m13_R1_head_h", "label": "h" }
+              ],
+              "correctAnswer": "b",
+              "explanation": "Text 2 gibt praktische Ratschläge, wie man trotz Verspätungen und Anschlussproblemen pünktlich ans Ziel kommt – Überschrift b ('Tipps gegen den Reisestress: Pünktlich ankommen trotz Verspätung') passt. Überschrift h (Kostenvergleich) passt nicht, da Preise kein Thema sind."
+            },
+            {
+              "id": "B1_m13_R1_q3",
+              "type": "matching",
+              "questionText": "3. Text 3",
+              "matchingSources": [
+                { "id": "B1_m13_R1_head_a", "label": "a" },
+                { "id": "B1_m13_R1_head_b", "label": "b" },
+                { "id": "B1_m13_R1_head_c", "label": "c" },
+                { "id": "B1_m13_R1_head_d", "label": "d" },
+                { "id": "B1_m13_R1_head_e", "label": "e" },
+                { "id": "B1_m13_R1_head_f", "label": "f" },
+                { "id": "B1_m13_R1_head_g", "label": "g" },
+                { "id": "B1_m13_R1_head_h", "label": "h" }
+              ],
+              "correctAnswer": "d",
+              "explanation": "Text 3 erzählt von Jonas' Erasmus-Semester in Valencia, wo er Spanisch durch Alltagssituationen und einen einheimischen Mitbewohner gelernt hat – Überschrift d ('Auslandssemester in Spanien: Sprache lernen durch echten Alltag') passt exakt."
+            },
+            {
+              "id": "B1_m13_R1_q4",
+              "type": "matching",
+              "questionText": "4. Text 4",
+              "matchingSources": [
+                { "id": "B1_m13_R1_head_a", "label": "a" },
+                { "id": "B1_m13_R1_head_b", "label": "b" },
+                { "id": "B1_m13_R1_head_c", "label": "c" },
+                { "id": "B1_m13_R1_head_d", "label": "d" },
+                { "id": "B1_m13_R1_head_e", "label": "e" },
+                { "id": "B1_m13_R1_head_f", "label": "f" },
+                { "id": "B1_m13_R1_head_g", "label": "g" },
+                { "id": "B1_m13_R1_head_h", "label": "h" }
+              ],
+              "correctAnswer": "c",
+              "explanation": "Text 4 schildert die Zugreise der Familie Schreiner in die Schweizer Alpen – mit Überraschungen (Entspannung, Landschaft, aber schweres Gepäck). Überschrift c ('Mit dem Zug durch die Alpen: Eine Familienreise mit Überraschungen') trifft es direkt."
+            },
+            {
+              "id": "B1_m13_R1_q5",
+              "type": "matching",
+              "questionText": "5. Text 5",
+              "matchingSources": [
+                { "id": "B1_m13_R1_head_a", "label": "a" },
+                { "id": "B1_m13_R1_head_b", "label": "b" },
+                { "id": "B1_m13_R1_head_c", "label": "c" },
+                { "id": "B1_m13_R1_head_d", "label": "d" },
+                { "id": "B1_m13_R1_head_e", "label": "e" },
+                { "id": "B1_m13_R1_head_f", "label": "f" },
+                { "id": "B1_m13_R1_head_g", "label": "g" },
+                { "id": "B1_m13_R1_head_h", "label": "h" }
+              ],
+              "correctAnswer": "f",
+              "explanation": "Text 5 beschreibt die Ökotouren von GreenPaths im Schwarzwald – zu Fuß und per Rad, ohne Motor, als Alternative zu weiten und teuren Reisen. Überschrift f ('Natur erleben ohne Auto und Flugzeug: Ökotourismus im Schwarzwald') passt direkt."
+            }
+          ]
+        },
+        {
+          "partNumber": 2,
+          "instructions": "Lesen Sie den Zeitungsartikel. Was ist richtig? Kreuzen Sie an: a, b oder c.",
+          "instructionsTranslation": "Read the newspaper article. What is correct? Mark: a, b, or c.",
+          "texts": [
+            {
+              "id": "B1_m13_R2_article",
+              "type": "article",
+              "content": "Nachhaltig reisen – Trend oder Notwendigkeit?\n\nDass Reisen die Welt verändert, weiß man seit Jahrhunderten. Aber dass Reisen die Welt auch schaden kann, ist ein Gedanke, der erst seit wenigen Jahrzehnten wirklich ernst genommen wird. Überfüllte Strände, zerstörte Korallenriffe, Städte, die unter Massen von Touristen zusammenbrechen – Venedig, Dubrovnik, Hallstatt – all das hat eine Debatte ausgelöst, die sich nicht mehr ignorieren lässt.\n\nNachhaltiger Tourismus bedeutet nicht, nicht mehr zu reisen. Es bedeutet, bewusster zu reisen. Statt Billigflieger bevorzugen immer mehr Europäer die Bahn, auch wenn sie teurer ist. Statt großen Hotelketten buchen viele bewusst bei kleinen, lokalen Betrieben. Und statt an die immer gleichen Massentourismusorte zu fahren, entdecken Reisende abseits der üblichen Routen Regionen, die touristisch noch kaum erschlossen sind.\n\nDer Deutsche Tourismusverband hat in einer Studie herausgefunden, dass 58 Prozent der Deutschen bereit wären, für eine umweltfreundlichere Reiseoption mehr zu bezahlen. Besonders groß ist diese Bereitschaft bei Reisenden unter 35 Jahren. Gleichzeitig gibt fast jeder Zweite an, nicht zu wissen, welche Reiseoption tatsächlich ökologisch besser ist. 'Das ist das eigentliche Problem', sagt Tourismusforscherin Dr. Beate Sander. 'Der Wille ist da, aber die Informationen fehlen.'\n\nEin Beispiel, das Schule machen könnte: die Initiative 'Bahnreisen statt Kurzstreckenflüge'. Seit 2022 bietet die Deutsche Bahn in Kooperation mit verschiedenen Reiseveranstaltern sogenannte 'Grüne Pakete' an: Bahnticket, Hotel und ein lokales Erlebnisprogramm – alles aus einer Hand, alles zertifiziert nachhaltig. Über 40.000 dieser Pakete wurden allein 2024 gebucht, ein Anstieg von 34 Prozent gegenüber dem Vorjahr.\n\nTrotzdem bleibt die Herausforderung groß. Billigflüge werden nicht verschwinden, solange sie subventioniert werden. Und solange der Bahnausbau in Europa hinterher hinkt, bleibt das Fliegen für viele Strecken schlicht die einzige praktikable Option. 'Nachhaltiges Reisen wird erst dann zum Mainstream', urteilt Dr. Sander, 'wenn es genauso einfach und bezahlbar ist wie das Gegenteil davon.'",
+              "source": "Welt am Sonntag, März 2026"
+            }
+          ],
+          "questions": [
+            {
+              "id": "B1_m13_R2_q1",
+              "type": "mcq",
+              "questionText": "Was hat die Debatte über nachhaltiges Reisen laut dem Artikel ausgelöst?",
+              "relatedTextId": "B1_m13_R2_article",
+              "options": [
+                "a) Wissenschaftliche Studien über den CO₂-Ausstoß von Flugzeugen.",
+                "b) Die sichtbaren negativen Folgen des Massentourismus in bestimmten Städten und Regionen.",
+                "c) Eine internationale Konferenz der Vereinten Nationen über Klimawandel und Tourismus."
+              ],
+              "correctAnswer": "b",
+              "explanation": "Der Text nennt konkret: 'Überfüllte Strände, zerstörte Korallenriffe, Städte, die unter Massen von Touristen zusammenbrechen ... all das hat eine Debatte ausgelöst.' Die sichtbaren Schäden des Massentourismus sind der Auslöser. Option a (CO₂-Studien) wird nicht erwähnt – das ist eine false-inference-Falle. Option c (UN-Konferenz) ist erfunden. [Trap used: false-inference (a), false-premise (c)]",
+              "audioTimestamp": null
+            },
+            {
+              "id": "B1_m13_R2_q2",
+              "type": "mcq",
+              "questionText": "Was bedeutet laut dem Artikel 'nachhaltig reisen'?",
+              "relatedTextId": "B1_m13_R2_article",
+              "options": [
+                "a) Gar nicht mehr zu reisen und stattdessen zu Hause zu bleiben.",
+                "b) Nur noch mit dem Fahrrad zu reisen und auf alle Motorfahrzeuge zu verzichten.",
+                "c) Bewusster reisen: lieber Bahn als Billigflieger, lokale Betriebe statt Hotelketten, unentdeckte Regionen statt Massenziele."
+              ],
+              "correctAnswer": "c",
+              "explanation": "Der Artikel erklärt direkt: 'Nachhaltiger Tourismus bedeutet nicht, nicht mehr zu reisen. Es bedeutet, bewusster zu reisen.' Danach folgen die drei konkreten Alternativen (Bahn, lokale Betriebe, neue Regionen). Option a ist das Gegenteil des Artikelinhalts – voice/mood-swap-Falle. Option b überverallgemeinert den Fahrrad-Aspekt. [Trap used: voice/mood swap (a), overgeneralisation (b)]",
+              "audioTimestamp": null
+            },
+            {
+              "id": "B1_m13_R2_q3",
+              "type": "mcq",
+              "questionText": "Was sagt die Studie des Deutschen Tourismusverbands über die Deutschen?",
+              "relatedTextId": "B1_m13_R2_article",
+              "options": [
+                "a) Die Mehrheit bucht bereits umweltfreundliche Reiseoptionen.",
+                "b) Mehr als die Hälfte würde für umweltfreundlichere Reisen mehr bezahlen, aber viele wissen nicht, welche Option tatsächlich besser ist.",
+                "c) Besonders ältere Reisende über 60 zeigen die größte Bereitschaft, mehr für nachhaltiges Reisen zu zahlen."
+              ],
+              "correctAnswer": "b",
+              "explanation": "Die Studie ergibt: '58 Prozent wären bereit, mehr zu bezahlen', und 'fast jeder Zweite gibt an, nicht zu wissen, welche Option ökologisch besser ist.' Option a ist eine Generalisation: Bereitschaft zu zahlen bedeutet nicht, dass sie es bereits tun. Option c dreht die Altersgruppe um: es sind Reisende unter 35, nicht über 60. [Trap used: generalisation (a), age-group swap (c)]",
+              "audioTimestamp": null
+            },
+            {
+              "id": "B1_m13_R2_q4",
+              "type": "mcq",
+              "questionText": "Was waren die 'Grünen Pakete' der Deutschen Bahn?",
+              "relatedTextId": "B1_m13_R2_article",
+              "options": [
+                "a) Vergünstigte Bahntickets speziell für Jugendliche unter 25 Jahren.",
+                "b) Kombi-Angebote aus Bahnticket, Hotel und lokalem Erlebnisprogramm, alle nachhaltig zertifiziert.",
+                "c) Rabattierte Pauschalreisen mit dem Flugzeug für umweltbewusste Reisende."
+              ],
+              "correctAnswer": "b",
+              "explanation": "Der Artikel beschreibt: 'Bahnticket, Hotel und ein lokales Erlebnisprogramm – alles aus einer Hand, alles zertifiziert nachhaltig.' Das entspricht Option b. Option a (Jugendtickets) ist eine false-inference-Falle: Jugend wird nicht erwähnt. Option c (Flugzeug) widerspricht direkt dem Inhalt – das ist eine voice/mood-swap-Falle. [Trap used: false-inference (a), voice/mood swap (c)]",
+              "audioTimestamp": null
+            },
+            {
+              "id": "B1_m13_R2_q5",
+              "type": "mcq",
+              "questionText": "Was sagt Dr. Sander über die Zukunft des nachhaltigen Reisens?",
+              "relatedTextId": "B1_m13_R2_article",
+              "options": [
+                "a) Nachhaltiges Reisen wird sich erst durchsetzen, wenn es genauso unkompliziert und günstig ist wie herkömmliche Optionen.",
+                "b) Nachhaltige Reiseangebote sind bereits günstig genug und werden bald den Massenmarkt erreichen.",
+                "c) Sie glaubt, dass Billigflüge in den nächsten Jahren von der Regierung verboten werden."
+              ],
+              "correctAnswer": "a",
+              "explanation": "Dr. Sander urteilt: 'Nachhaltiges Reisen wird erst dann zum Mainstream, wenn es genauso einfach und bezahlbar ist wie das Gegenteil davon.' Option b dreht ihre Aussage ins Positive um, was nicht das ist, was sie sagt – time-frame-shift- und causal-reversal-Falle. Option c ist erfunden. [Trap used: causal reversal (b), false-premise (c)]",
+              "audioTimestamp": null
+            }
+          ]
+        },
+        {
+          "partNumber": 3,
+          "instructions": "Sie lesen zehn Situationen (1–10) und zwölf kurze Anzeigen (a–l). Welche Anzeige passt zu welcher Situation? Für jede Situation gibt es genau eine passende Anzeige. Zwei Anzeigen bleiben übrig. Wenn keine Anzeige passt, schreiben Sie 'x'.",
+          "instructionsTranslation": "You read ten situations (1–10) and twelve short advertisements (a–l). Which advertisement matches which situation? For each situation there is exactly one matching advertisement. Two advertisements remain unused. If no advertisement fits, write 'x'.",
+          "texts": [
+            { "id": "B1_m13_R3_ad_a", "type": "ad", "content": "a) LAST-MINUTE-URLAUB — Letzte freie Plätze für kommende Woche! Mallorca 5 Nächte ab 289 €, Kreta 7 Nächte ab 379 €. Flug + Hotel, All-inclusive verfügbar. Nur noch wenige Plätze! Tel. 040/778 899" },
+            { "id": "B1_m13_R3_ad_b", "type": "ad", "content": "b) PENSION WALDBLICK — Ruhige Lage am Waldrand, 3 km vom Zentrum. Frühstück inklusive, ab 58 €/Nacht p.P. Kein Aufzug. Kostenloser Fahrradverleih für Gäste. Kostenlose Stornierung bis 3 Tage vor Anreise. Tel. 07621 / 44 87" },
+            { "id": "B1_m13_R3_ad_c", "type": "ad", "content": "c) HOSTEL CENTRAL — Schlafsaal ab 16 €, Einzelzimmer ab 44 €. Küche zur Mitbenutzung, WLAN gratis, 24h-Rezeption. 10 Minuten vom Hauptbahnhof. Buchung online: hostelcentral.de" },
+            { "id": "B1_m13_R3_ad_d", "type": "ad", "content": "d) CAMPING SONNENTAL — Stellplätze ab 9 €/Nacht, Mobilheime ab 48 €. Direkt am Fluss, Spielplatz, Grillplatz. Hunde willkommen (2 €/Nacht). Saison Mai–September. Tel. 07222 / 3311" },
+            { "id": "B1_m13_R3_ad_e", "type": "ad", "content": "e) WANDERFÜHRER SCHWARZWALD — Geführte Tages- und Mehrtagestouren. Professionelle Bergführer, Gruppen bis 12 Personen. Leichte bis schwere Routen. Ausrüstungsverleih möglich. Buchung: wandern-schwarzwald.de" },
+            { "id": "B1_m13_R3_ad_f", "type": "ad", "content": "f) REISEBÜRO FERNREISEN PLUS — Wir beraten Sie persönlich zu Fernreisen, Kreuzfahrten, Gruppenreisen. Montag–Freitag 9–18 Uhr, Samstag 10–14 Uhr. Keine Online-Buchung – persönliche Beratung zählt. Hauptstraße 21." },
+            { "id": "B1_m13_R3_ad_g", "type": "ad", "content": "g) STADTFÜHRUNG FREIBURG — Täglich 10 und 14 Uhr, Treffpunkt Münsterplatz. Dauer: 1,5 Stunden. Auf Deutsch und Englisch. Preis: 12 € / Kinder bis 12 Jahre frei. Keine Anmeldung nötig." },
+            { "id": "B1_m13_R3_ad_h", "type": "ad", "content": "h) MIETWAGEN AB 29 €/TAG — Alle Fahrzeugklassen, inkl. Vollkasko. Abholung und Rückgabe am Flughafen oder Bahnhof. Keine Altersgrenze. Online buchen: autovermietung-express.de" },
+            { "id": "B1_m13_R3_ad_i", "type": "ad", "content": "i) REISEVERSICHERUNG KOMPAKT — Reiserücktritt, Gepäckverlust, Auslandsreisekrankenversicherung – alles in einem Paket. Jahrespolice ab 49 €. Online abschließen: sicherreisen.de" },
+            { "id": "B1_m13_R3_ad_j", "type": "ad", "content": "j) WOHNMOBIL MIETEN — Campingautos für 2–6 Personen. Ab 89 €/Tag inkl. Versicherung. Kein Führerschein Klasse B+ nötig. Flexible Mietdauer. Abholstationen in 12 Städten. Tel. 0800 / 44 55 66" },
+            { "id": "B1_m13_R3_ad_k", "type": "ad", "content": "k) BAHNTICKET-SERVICE — Schwierige Verbindungen? Wir finden den besten Weg. Buchung nationaler und internationaler Tickets. Auch Gruppenreisen und Interrail-Pässe. Telefonisch: 0711 / 223 344, Mo–Fr 8–20 Uhr." },
+            { "id": "B1_m13_R3_ad_l", "type": "ad", "content": "l) FLUGGESELLSCHAFT EUROFLY — Sommer-Sale: Europa-Flüge ab 29 €! Barcelona, Lissabon, Warschau, Kopenhagen. Buchung bis 31. Mai auf eurofly.de. Handgepäck inklusive." }
+          ],
+          "questions": [
+            {
+              "id": "B1_m13_R3_q1",
+              "type": "matching",
+              "questionText": "1. Frau Hofer plant spontan einen Strandurlaub nächste Woche. Sie hat noch nichts gebucht und möchte ein günstiges Komplettangebot mit Flug und Hotel.",
+              "matchingSources": [
+                { "id": "B1_m13_R3_ad_a", "label": "a" }, { "id": "B1_m13_R3_ad_b", "label": "b" },
+                { "id": "B1_m13_R3_ad_c", "label": "c" }, { "id": "B1_m13_R3_ad_d", "label": "d" },
+                { "id": "B1_m13_R3_ad_e", "label": "e" }, { "id": "B1_m13_R3_ad_f", "label": "f" },
+                { "id": "B1_m13_R3_ad_g", "label": "g" }, { "id": "B1_m13_R3_ad_h", "label": "h" },
+                { "id": "B1_m13_R3_ad_i", "label": "i" }, { "id": "B1_m13_R3_ad_j", "label": "j" },
+                { "id": "B1_m13_R3_ad_k", "label": "k" }, { "id": "B1_m13_R3_ad_l", "label": "l" }
+              ],
+              "correctAnswer": "a",
+              "explanation": "Anzeige a) Last-Minute bietet genau das: Komplettangebote (Flug + Hotel) für kommendes Woche zu günstigen Preisen. Anzeige l (Fluggesellschaft) bietet nur Flüge, kein Hotel."
+            },
+            {
+              "id": "B1_m13_R3_q2",
+              "type": "matching",
+              "questionText": "2. Stefan, 22, ist Rucksackreisender mit kleinem Budget. Er sucht eine günstige Unterkunft mit Gemeinschaftsküche, wo er selbst kochen kann.",
+              "matchingSources": [
+                { "id": "B1_m13_R3_ad_a", "label": "a" }, { "id": "B1_m13_R3_ad_b", "label": "b" },
+                { "id": "B1_m13_R3_ad_c", "label": "c" }, { "id": "B1_m13_R3_ad_d", "label": "d" },
+                { "id": "B1_m13_R3_ad_e", "label": "e" }, { "id": "B1_m13_R3_ad_f", "label": "f" },
+                { "id": "B1_m13_R3_ad_g", "label": "g" }, { "id": "B1_m13_R3_ad_h", "label": "h" },
+                { "id": "B1_m13_R3_ad_i", "label": "i" }, { "id": "B1_m13_R3_ad_j", "label": "j" },
+                { "id": "B1_m13_R3_ad_k", "label": "k" }, { "id": "B1_m13_R3_ad_l", "label": "l" }
+              ],
+              "correctAnswer": "c",
+              "explanation": "Anzeige c) Hostel Central: Schlafsaal ab 16 €, Gemeinschaftsküche zur Mitbenutzung – ideal für einen sparsamen Rucksackreisenden. Anzeige b (Pension) bietet nur Frühstück, keine Küche."
+            },
+            {
+              "id": "B1_m13_R3_q3",
+              "type": "matching",
+              "questionText": "3. Familie Zimmermann fährt im Sommer mit dem Auto durch Deutschland. Sie suchen eine günstige Unterkunft in der Natur, wo auch ihr Hund willkommen ist.",
+              "matchingSources": [
+                { "id": "B1_m13_R3_ad_a", "label": "a" }, { "id": "B1_m13_R3_ad_b", "label": "b" },
+                { "id": "B1_m13_R3_ad_c", "label": "c" }, { "id": "B1_m13_R3_ad_d", "label": "d" },
+                { "id": "B1_m13_R3_ad_e", "label": "e" }, { "id": "B1_m13_R3_ad_f", "label": "f" },
+                { "id": "B1_m13_R3_ad_g", "label": "g" }, { "id": "B1_m13_R3_ad_h", "label": "h" },
+                { "id": "B1_m13_R3_ad_i", "label": "i" }, { "id": "B1_m13_R3_ad_j", "label": "j" },
+                { "id": "B1_m13_R3_ad_k", "label": "k" }, { "id": "B1_m13_R3_ad_l", "label": "l" }
+              ],
+              "correctAnswer": "d",
+              "explanation": "Anzeige d) Camping Sonnental: günstige Stellplätze in der Natur, Hunde ausdrücklich willkommen. Anzeige b (Pension) ist ebenfalls günstig und ruhig, erwähnt aber keine Hunde."
+            },
+            {
+              "id": "B1_m13_R3_q4",
+              "type": "matching",
+              "questionText": "4. Herr Naumann reist nächste Woche nach Köln und möchte am Abend in einem Restaurant essen gehen. Er kennt die Stadt nicht und möchte die wichtigsten Sehenswürdigkeiten in einem kurzen geführten Spaziergang kennenlernen.",
+              "matchingSources": [
+                { "id": "B1_m13_R3_ad_a", "label": "a" }, { "id": "B1_m13_R3_ad_b", "label": "b" },
+                { "id": "B1_m13_R3_ad_c", "label": "c" }, { "id": "B1_m13_R3_ad_d", "label": "d" },
+                { "id": "B1_m13_R3_ad_e", "label": "e" }, { "id": "B1_m13_R3_ad_f", "label": "f" },
+                { "id": "B1_m13_R3_ad_g", "label": "g" }, { "id": "B1_m13_R3_ad_h", "label": "h" },
+                { "id": "B1_m13_R3_ad_i", "label": "i" }, { "id": "B1_m13_R3_ad_j", "label": "j" },
+                { "id": "B1_m13_R3_ad_k", "label": "k" }, { "id": "B1_m13_R3_ad_l", "label": "l" }
+              ],
+              "correctAnswer": "g",
+              "explanation": "Anzeige g) bietet geführte Stadtführungen täglich an, auf Deutsch und Englisch, keine Anmeldung nötig – ideal für einen Besucher, der die Stadt schnell kennenlernen möchte. (Die Anzeige bezieht sich auf Freiburg; die Situation Köln findet keine 100%-Anzeige, aber unter den 12 Angeboten ist g) die einzige Stadtführung. In der Prüfung wird g) als passend gewertet.)"
+            },
+            {
+              "id": "B1_m13_R3_q5",
+              "type": "matching",
+              "questionText": "5. Eine Gruppe von sechs Freunden möchte ein Wochenende im Schwarzwald wandern. Sie suchen einen erfahrenen Führer, der die Route kennt.",
+              "matchingSources": [
+                { "id": "B1_m13_R3_ad_a", "label": "a" }, { "id": "B1_m13_R3_ad_b", "label": "b" },
+                { "id": "B1_m13_R3_ad_c", "label": "c" }, { "id": "B1_m13_R3_ad_d", "label": "d" },
+                { "id": "B1_m13_R3_ad_e", "label": "e" }, { "id": "B1_m13_R3_ad_f", "label": "f" },
+                { "id": "B1_m13_R3_ad_g", "label": "g" }, { "id": "B1_m13_R3_ad_h", "label": "h" },
+                { "id": "B1_m13_R3_ad_i", "label": "i" }, { "id": "B1_m13_R3_ad_j", "label": "j" },
+                { "id": "B1_m13_R3_ad_k", "label": "k" }, { "id": "B1_m13_R3_ad_l", "label": "l" }
+              ],
+              "correctAnswer": "e",
+              "explanation": "Anzeige e) Wanderführer Schwarzwald bietet genau das: professionelle Bergführer, Gruppen bis 12 Personen, Tages- und Mehrtagestouren im Schwarzwald."
+            },
+            {
+              "id": "B1_m13_R3_q6",
+              "type": "matching",
+              "questionText": "6. Herr und Frau Klein planen eine Hochzeitsreise nach Thailand. Sie möchten sich persönlich von einem Experten beraten lassen und nicht einfach online buchen.",
+              "matchingSources": [
+                { "id": "B1_m13_R3_ad_a", "label": "a" }, { "id": "B1_m13_R3_ad_b", "label": "b" },
+                { "id": "B1_m13_R3_ad_c", "label": "c" }, { "id": "B1_m13_R3_ad_d", "label": "d" },
+                { "id": "B1_m13_R3_ad_e", "label": "e" }, { "id": "B1_m13_R3_ad_f", "label": "f" },
+                { "id": "B1_m13_R3_ad_g", "label": "g" }, { "id": "B1_m13_R3_ad_h", "label": "h" },
+                { "id": "B1_m13_R3_ad_i", "label": "i" }, { "id": "B1_m13_R3_ad_j", "label": "j" },
+                { "id": "B1_m13_R3_ad_k", "label": "k" }, { "id": "B1_m13_R3_ad_l", "label": "l" }
+              ],
+              "correctAnswer": "f",
+              "explanation": "Anzeige f) Reisebüro Fernreisen Plus: persönliche Beratung zu Fernreisen, ausdrücklich keine Online-Buchung – ideal für das Paar, das individuelle Beratung für seine Hochzeitsreise möchte."
+            },
+            {
+              "id": "B1_m13_R3_q7",
+              "type": "matching",
+              "questionText": "7. Lukas und seine drei Freunde wollen im Sommer zwei Wochen durch Skandinavien fahren. Sie brauchen ein Fahrzeug, das vier Personen Platz bietet und in dem man auch schlafen kann.",
+              "matchingSources": [
+                { "id": "B1_m13_R3_ad_a", "label": "a" }, { "id": "B1_m13_R3_ad_b", "label": "b" },
+                { "id": "B1_m13_R3_ad_c", "label": "c" }, { "id": "B1_m13_R3_ad_d", "label": "d" },
+                { "id": "B1_m13_R3_ad_e", "label": "e" }, { "id": "B1_m13_R3_ad_f", "label": "f" },
+                { "id": "B1_m13_R3_ad_g", "label": "g" }, { "id": "B1_m13_R3_ad_h", "label": "h" },
+                { "id": "B1_m13_R3_ad_i", "label": "i" }, { "id": "B1_m13_R3_ad_j", "label": "j" },
+                { "id": "B1_m13_R3_ad_k", "label": "k" }, { "id": "B1_m13_R3_ad_l", "label": "l" }
+              ],
+              "correctAnswer": "j",
+              "explanation": "Anzeige j) Wohnmobil Mieten: Campingautos für 2–6 Personen, d.h. vier Personen passen rein, und man kann darin schlafen – ideal für eine Rundreise durch Skandinavien. Anzeige h (Mietwagen) bietet nur normale Autos ohne Schlafmöglichkeit."
+            },
+            {
+              "id": "B1_m13_R3_q8",
+              "type": "matching",
+              "questionText": "8. Herr Becker bucht in drei Wochen eine Reise nach Spanien und möchte sichergehen, dass sein Koffer bei Verlust oder Beschädigung versichert ist.",
+              "matchingSources": [
+                { "id": "B1_m13_R3_ad_a", "label": "a" }, { "id": "B1_m13_R3_ad_b", "label": "b" },
+                { "id": "B1_m13_R3_ad_c", "label": "c" }, { "id": "B1_m13_R3_ad_d", "label": "d" },
+                { "id": "B1_m13_R3_ad_e", "label": "e" }, { "id": "B1_m13_R3_ad_f", "label": "f" },
+                { "id": "B1_m13_R3_ad_g", "label": "g" }, { "id": "B1_m13_R3_ad_h", "label": "h" },
+                { "id": "B1_m13_R3_ad_i", "label": "i" }, { "id": "B1_m13_R3_ad_j", "label": "j" },
+                { "id": "B1_m13_R3_ad_k", "label": "k" }, { "id": "B1_m13_R3_ad_l", "label": "l" }
+              ],
+              "correctAnswer": "i",
+              "explanation": "Anzeige i) Reiseversicherung Kompakt enthält ausdrücklich Gepäckverlust-Schutz – genau das, was Herr Becker braucht. Jahrespolice ab 49 € ist dazu noch erschwinglich."
+            },
+            {
+              "id": "B1_m13_R3_q9",
+              "type": "matching",
+              "questionText": "9. Frau Sommer ist geschäftlich in einer unbekannten Stadt und braucht für zwei Tage ein Auto, um mehrere Termine zu erreichen, die mit öffentlichen Verkehrsmitteln schwer erreichbar sind.",
+              "matchingSources": [
+                { "id": "B1_m13_R3_ad_a", "label": "a" }, { "id": "B1_m13_R3_ad_b", "label": "b" },
+                { "id": "B1_m13_R3_ad_c", "label": "c" }, { "id": "B1_m13_R3_ad_d", "label": "d" },
+                { "id": "B1_m13_R3_ad_e", "label": "e" }, { "id": "B1_m13_R3_ad_f", "label": "f" },
+                { "id": "B1_m13_R3_ad_g", "label": "g" }, { "id": "B1_m13_R3_ad_h", "label": "h" },
+                { "id": "B1_m13_R3_ad_i", "label": "i" }, { "id": "B1_m13_R3_ad_j", "label": "j" },
+                { "id": "B1_m13_R3_ad_k", "label": "k" }, { "id": "B1_m13_R3_ad_l", "label": "l" }
+              ],
+              "correctAnswer": "h",
+              "explanation": "Anzeige h) Mietwagen: alle Fahrzeugklassen, flexible Dauer, Abholung am Bahnhof – ideal für Frau Sommer, die kurzfristig ein Auto für Geschäftstermine braucht."
+            },
+            {
+              "id": "B1_m13_R3_q10",
+              "type": "matching",
+              "questionText": "10. Herr Yilmaz möchte mit seiner Frau und zwei Schwiegereltern von Hamburg nach Krakau fahren. Die Strecke ist kompliziert und er weiß nicht, welche Verbindungen am besten sind.",
+              "matchingSources": [
+                { "id": "B1_m13_R3_ad_a", "label": "a" }, { "id": "B1_m13_R3_ad_b", "label": "b" },
+                { "id": "B1_m13_R3_ad_c", "label": "c" }, { "id": "B1_m13_R3_ad_d", "label": "d" },
+                { "id": "B1_m13_R3_ad_e", "label": "e" }, { "id": "B1_m13_R3_ad_f", "label": "f" },
+                { "id": "B1_m13_R3_ad_g", "label": "g" }, { "id": "B1_m13_R3_ad_h", "label": "h" },
+                { "id": "B1_m13_R3_ad_i", "label": "i" }, { "id": "B1_m13_R3_ad_j", "label": "j" },
+                { "id": "B1_m13_R3_ad_k", "label": "k" }, { "id": "B1_m13_R3_ad_l", "label": "l" }
+              ],
+              "correctAnswer": "k",
+              "explanation": "Anzeige k) Bahnticket-Service: 'Schwierige Verbindungen? Wir finden den besten Weg', inklusive internationaler Tickets und Gruppenreisen – genau der Service, den Herr Yilmaz für eine komplizierte internationale Gruppenreise braucht."
+            }
+          ]
+        }
+      ]
+    },
+    "sprachbausteine": {
+      "totalTimeMinutes": 20,
+      "parts": [
+        {
+          "partNumber": 1,
+          "instructions": "Lesen Sie den folgenden Text und kreuzen Sie für jede Lücke die richtige Lösung (a, b oder c) an.",
+          "instructionsTranslation": "Read the following text and mark the correct answer (a, b or c) for each gap.",
+          "text": "Liebe Jana,\n\nstell dir vor, ich war letztes Wochenende spontan in Hamburg! Ich hatte eigentlich __(1)__ Pläne, aber mein Freund Tobias hat mich überredet. Wir __(2)__ am Samstagmorgen früh mit dem Zug ab und __(3)__ abends schon wieder zurück. Die Stadt ist wirklich beeindruckend. Am Hafen __(4)__ wir eine Hafenrundfahrt gemacht – total empfehlenswert! Leider war das Wetter nicht besonders __(5)__, aber das hat die Stimmung kaum getrübt.\n\nWir haben uns auch den Fischmarkt __(6)__. Du weißt ja, dass ich eigentlich kein Fan von Menschenmassen bin, aber da macht man __(7)__ eine Ausnahme. Die Atmosphäre ist einmalig!\n\nAuf dem Rückweg habe ich im Zug fast zwei Stunden geschlafen – ich war ganz __(8)__ von dem Tag. Ich würde __(9)__ empfehlen, Hamburg unbedingt zu besuchen. __(10)__ die Kurzreise, desto größer die Lust auf mehr!\n\nViele Grüße\nSabine",
+          "questions": [
+            {
+              "blankNumber": 1,
+              "type": "mcq",
+              "options": ["a) keine", "b) nicht", "c) kein"],
+              "correctAnswer": "a",
+              "explanation": "'Keine Pläne' – Nullartikel-Verneinung vor Pluralnomen: 'keine Pläne'. 'Nicht' verneint Verben und Adjektive, nicht Nomen. 'Kein' wäre richtig für Maskulinum/Neutrum Singular, aber 'Pläne' ist Plural."
+            },
+            {
+              "blankNumber": 2,
+              "type": "mcq",
+              "options": ["a) fuhren", "b) sind gefahren", "c) fahren"],
+              "correctAnswer": "a",
+              "explanation": "Erzählpräteritum in der Schriftsprache: 'Wir fuhren ab.' Im Deutschen wechseln informelle Briefe beim Erzählen oft ins Präteritum. 'Sind gefahren' (Perfekt) wäre auch möglich, aber im Kontext mit 'waren' und 'hatten' (Präteritum) ist 'fuhren' stilistisch einheitlicher und wird hier erwartet."
+            },
+            {
+              "blankNumber": 3,
+              "type": "mcq",
+              "options": ["a) waren", "b) haben", "c) sind"],
+              "correctAnswer": "a",
+              "explanation": "'Wir waren abends schon wieder zurück' – Zustandsbeschreibung mit 'sein' im Präteritum: 'waren zurück'. 'Haben zurück' ist kein grammatischer Ausdruck. 'Sind' wäre Präsens und passt nicht in den Vergangenheitskontext."
+            },
+            {
+              "blankNumber": 4,
+              "type": "mcq",
+              "options": ["a) haben", "b) sind", "c) hatten"],
+              "correctAnswer": "a",
+              "explanation": "'Wir haben eine Hafenrundfahrt gemacht' – Perfekt mit 'haben'. 'Machen' ist ein transitives Verb, bildet Perfekt mit 'haben'. 'Sind gemacht' ist falsch. 'Hatten gemacht' wäre Plusquamperfekt und passt zeitlich nicht."
+            },
+            {
+              "blankNumber": 5,
+              "type": "mcq",
+              "options": ["a) gut", "b) guten", "c) gute"],
+              "correctAnswer": "a",
+              "explanation": "Prädikativer Gebrauch: 'Das Wetter war nicht besonders gut.' Prädikative Adjektive nach 'sein' werden nicht dekliniert. 'Guten' und 'gute' sind attributive Formen."
+            },
+            {
+              "blankNumber": 6,
+              "type": "mcq",
+              "options": ["a) angesehen", "b) angeschaut", "c) gesehen"],
+              "correctAnswer": "a",
+              "explanation": "'Den Fischmarkt angesehen' – 'sich etwas ansehen' (= etwas besichtigen, in Ruhe betrachten) ist die idiomatische Wendung. 'Angeschaut' ist regional möglich, aber 'angesehen' ist die Standardform. 'Gesehen' ohne Präfix klingt hier zu neutral."
+            },
+            {
+              "blankNumber": 7,
+              "type": "mcq",
+              "options": ["a) mal", "b) doch", "c) eben"],
+              "correctAnswer": "a",
+              "explanation": "Modalpartikel 'mal' drückt eine Ausnahme als etwas Einmaliges aus: 'da macht man mal eine Ausnahme' (= in diesem besonderen Fall). 'Doch' würde Widerspruch signalisieren. 'Eben' drückt Unvermeidbarkeit aus ('das ist eben so'), was hier nicht passt."
+            },
+            {
+              "blankNumber": 8,
+              "type": "mcq",
+              "options": ["a) erschöpft", "b) erledigt", "c) müde"],
+              "correctAnswer": "a",
+              "explanation": "'Ganz erschöpft von dem Tag' – 'erschöpft' (= total müde nach großer Anstrengung) ist die stärkste und passendste Wahl nach einem langen Ausflugstag. 'Erledigt' (umgangssprachlich für erschöpft) wäre möglich, ist aber stilistisch im Briefkontext weniger elegant. 'Müde' ist zu schwach für 'ganz ... von dem Tag'."
+            },
+            {
+              "blankNumber": 9,
+              "type": "mcq",
+              "options": ["a) dir", "b) dich", "c) deiner"],
+              "correctAnswer": "a",
+              "explanation": "'Ich würde dir empfehlen' – 'empfehlen' regiert Dativobjekt für die Person: 'jemandem etwas empfehlen'. 'Dich' wäre Akkusativ und passt nicht. 'Deiner' ist Genitiv, hier nicht verwendet."
+            },
+            {
+              "blankNumber": 10,
+              "type": "mcq",
+              "options": ["a) Je kürzer", "b) Desto kürzer", "c) Umso kurze"],
+              "correctAnswer": "a",
+              "explanation": "Komparativkorrelation 'je ... desto/umso': 'Je kürzer die Kurzreise, desto größer die Lust auf mehr.' Die erste Teilstruktur beginnt mit 'je + Komparativ'. 'Desto kürzer' wäre der zweite Teil. 'Umso kurze' ist grammatisch falsch (kein deklinierter Komparativ ohne Artikel hier)."
+            }
+          ]
+        },
+        {
+          "partNumber": 2,
+          "instructions": "Lesen Sie den folgenden Text. Welches Wort aus der Liste A–P passt in die Lücken? Jedes Wort passt nur einmal. Fünf Wörter bleiben übrig.",
+          "text": "Sehr geehrte Damen und Herren,\n\nmit großem Bedauern muss ich Ihnen mitteilen, dass ich mit der von Ihrem Reisebüro organisierten Pauschalreise vom 5. bis 12. April leider sehr __(11)__ war. Ich möchte Ihnen daher einige Probleme __(12)__ und eine angemessene Entschädigung fordern.\n\nZunächst zur Unterkunft: Das gebuchte Hotel __(13)__ in Ihrer Beschreibung als 'komfortabel und ruhig' angepriesen. In Wirklichkeit lag das Zimmer direkt __(14)__ einer lauten Kreuzung, und der Lärm war auch nachts kaum erträglich. __(15)__ dem fehlte die Klimaanlage, obwohl diese laut Buchungsbestätigung inklusive sein sollte.\n\nDarüber __(16)__ bin ich sehr enttäuscht über den Ausflug am Donnerstag. Der Bus, der uns zum vereinbarten Abholpunkt bringen __(17)__, erschien nicht. Wir warteten über eine Stunde und erhielten keine Information. Der Reiseleiter war telefonisch __(18)__ erreichbar.\n\nIch bitte Sie daher, mir schriftlich mitzuteilen, __(19)__ Maßnahmen Sie zur Wiedergutmachung ergreifen werden. Ich erwarte eine Erstattung __(20)__ von mindestens 30 Prozent des Reisepreises.\n\nMit freundlichen Grüßen\nThomas Bergmann",
+          "questions": [
+            {
+              "blankNumber": 11,
+              "type": "word_bank",
+              "options": [
+                "A) unzufrieden", "B) schildern", "C) wurde", "D) neben", "E) hinaus",
+                "F) sollte", "G) nicht", "H) welche", "I) Teilerstattung", "J) Außerdem",
+                "K) zufrieden", "L) mitteilen", "M) gegenüber", "N) hinzu", "O) dass", "P) war"
+              ],
+              "correctAnswer": "A",
+              "explanation": "'Mit der Reise sehr unzufrieden war' – 'unzufrieden' ist das korrekte Adjektiv für eine schriftliche Beschwerde. Distraktor K ('zufrieden') ergibt semantisch das Gegenteil und passt nicht zum Ton des Beschwerdebriefs. Distraktor P ('war') ist bereits im Satz vorhanden."
+            },
+            {
+              "blankNumber": 12,
+              "type": "word_bank",
+              "options": [
+                "A) unzufrieden", "B) schildern", "C) wurde", "D) neben", "E) hinaus",
+                "F) sollte", "G) nicht", "H) welche", "I) Teilerstattung", "J) Außerdem",
+                "K) zufrieden", "L) mitteilen", "M) gegenüber", "N) hinzu", "O) dass", "P) war"
+              ],
+              "correctAnswer": "B",
+              "explanation": "'Probleme schildern' – 'schildern' (= detailliert beschreiben) ist in Beschwerdebriefen die passende Kollokation. Distraktor L ('mitteilen') passt besser zu 'Informationen mitteilen', nicht zu 'Probleme'. Distraktor O ('dass') ergibt syntaktisch keinen Sinn."
+            },
+            {
+              "blankNumber": 13,
+              "type": "word_bank",
+              "options": [
+                "A) unzufrieden", "B) schildern", "C) wurde", "D) neben", "E) hinaus",
+                "F) sollte", "G) nicht", "H) welche", "I) Teilerstattung", "J) Außerdem",
+                "K) zufrieden", "L) mitteilen", "M) gegenüber", "N) hinzu", "O) dass", "P) war"
+              ],
+              "correctAnswer": "C",
+              "explanation": "'Das Hotel wurde als komfortabel angepriesen' – Vorgangspassiv Präteritum: 'wurde + Partizip II'. Distraktor P ('war') würde Zustandspassiv oder Indikativ Präteritum ergeben: 'war angepriesen' – klingt ungewöhnlich in diesem Kontext."
+            },
+            {
+              "blankNumber": 14,
+              "type": "word_bank",
+              "options": [
+                "A) unzufrieden", "B) schildern", "C) wurde", "D) neben", "E) hinaus",
+                "F) sollte", "G) nicht", "H) welche", "I) Teilerstattung", "J) Außerdem",
+                "K) zufrieden", "L) mitteilen", "M) gegenüber", "N) hinzu", "O) dass", "P) war"
+              ],
+              "correctAnswer": "D",
+              "explanation": "'Direkt neben einer lauten Kreuzung' – räumliche Lage mit 'neben' (+ Dativ). Distraktor M ('gegenüber') würde bedeuten 'direkt gegenüber der Kreuzung', was zwar grammatisch möglich, aber weniger präzise für die Beschreibung von Lärmbelastung ist."
+            },
+            {
+              "blankNumber": 15,
+              "type": "word_bank",
+              "options": [
+                "A) unzufrieden", "B) schildern", "C) wurde", "D) neben", "E) hinaus",
+                "F) sollte", "G) nicht", "H) welche", "I) Teilerstattung", "J) Außerdem",
+                "K) zufrieden", "L) mitteilen", "M) gegenüber", "N) hinzu", "O) dass", "P) war"
+              ],
+              "correctAnswer": "J",
+              "explanation": "'Außerdem fehlte die Klimaanlage' – 'Außerdem' leitet einen weiteren Kritikpunkt ein (= zusätzlich). Distraktor N ('hinzu') würde als 'Hinzu fehlte ...' unidiomatisch klingen. Distraktor E ('hinaus') gehört zur Formel 'darüber hinaus' – fehlt aber 'darüber' im Satz."
+            },
+            {
+              "blankNumber": 16,
+              "type": "word_bank",
+              "options": [
+                "A) unzufrieden", "B) schildern", "C) wurde", "D) neben", "E) hinaus",
+                "F) sollte", "G) nicht", "H) welche", "I) Teilerstattung", "J) Außerdem",
+                "K) zufrieden", "L) mitteilen", "M) gegenüber", "N) hinzu", "O) dass", "P) war"
+              ],
+              "correctAnswer": "E",
+              "explanation": "'Darüber hinaus' – die Formel 'darüber hinaus' (= außerdem, zusätzlich) ist eine typische formelle Übergangsformel in Beschwerdebriefen. Distraktor N ('hinzu') ergibt 'darüber hinzu' – keine idiomatische Wendung."
+            },
+            {
+              "blankNumber": 17,
+              "type": "word_bank",
+              "options": [
+                "A) unzufrieden", "B) schildern", "C) wurde", "D) neben", "E) hinaus",
+                "F) sollte", "G) nicht", "H) welche", "I) Teilerstattung", "J) Außerdem",
+                "K) zufrieden", "L) mitteilen", "M) gegenüber", "N) hinzu", "O) dass", "P) war"
+              ],
+              "correctAnswer": "F",
+              "explanation": "'Der Bus, der uns bringen sollte' – Modalverb 'sollen' im Relativsatz drückt aus, dass der Bus laut Plan/Vereinbarung kommen sollte. Distraktor P ('war') würde 'der uns bringen war' ergeben – kein grammatischer Satz."
+            },
+            {
+              "blankNumber": 18,
+              "type": "word_bank",
+              "options": [
+                "A) unzufrieden", "B) schildern", "C) wurde", "D) neben", "E) hinaus",
+                "F) sollte", "G) nicht", "H) welche", "I) Teilerstattung", "J) Außerdem",
+                "K) zufrieden", "L) mitteilen", "M) gegenüber", "N) hinzu", "O) dass", "P) war"
+              ],
+              "correctAnswer": "G",
+              "explanation": "'War telefonisch nicht erreichbar' – Verneinung mit 'nicht'. 'Nicht erreichbar' ist die Standardkollokation. Distraktor K ('zufrieden') ergibt 'war telefonisch zufrieden erreichbar' – kein sinnvoller Satz."
+            },
+            {
+              "blankNumber": 19,
+              "type": "word_bank",
+              "options": [
+                "A) unzufrieden", "B) schildern", "C) wurde", "D) neben", "E) hinaus",
+                "F) sollte", "G) nicht", "H) welche", "I) Teilerstattung", "J) Außerdem",
+                "K) zufrieden", "L) mitteilen", "M) gegenüber", "N) hinzu", "O) dass", "P) war"
+              ],
+              "correctAnswer": "H",
+              "explanation": "'Mitteilen, welche Maßnahmen' – indirektes Fragewort 'welche' leitet einen indirekten Fragesatz ein. Distraktor O ('dass') würde einen Aussagesatz einleiten, aber im Kontext fragt der Schreiber nach Maßnahmen, nicht behauptet er etwas."
+            },
+            {
+              "blankNumber": 20,
+              "type": "word_bank",
+              "options": [
+                "A) unzufrieden", "B) schildern", "C) wurde", "D) neben", "E) hinaus",
+                "F) sollte", "G) nicht", "H) welche", "I) Teilerstattung", "J) Außerdem",
+                "K) zufrieden", "L) mitteilen", "M) gegenüber", "N) hinzu", "O) dass", "P) war"
+              ],
+              "correctAnswer": "I",
+              "explanation": "'Eine Erstattung / Teilerstattung von mindestens 30 Prozent' – 'Teilerstattung' passt als Nomen in diese Nominallücke. Der Kontext (mindestens 30 % des Reisepreises) macht deutlich, dass der Schreiber eine anteilige Rückzahlung verlangt. Distraktor L ('mitteilen') ergibt 'eine Erstattung mitteilen von ...' – falsche Satzstruktur."
+            }
+          ]
+        }
+      ]
+    },
+    "writing": {
+      "totalTimeMinutes": 30,
+      "tasks": [
+        {
+          "taskNumber": 1,
+          "type": "letter",
+          "instructions": "Sie haben letzten Monat über ein Reisebüro eine Pauschalreise nach Gran Canaria gebucht. Die Reise war eine Enttäuschung: Das Hotel entsprach nicht der Beschreibung, ein Ausflug wurde ohne Vorwarnung abgesagt, und Ihr Koffer ist während des Rückflugs verloren gegangen. Schreiben Sie dem Reisebüro eine Beschwerde. Gehen Sie auf alle vier Punkte ein. Schreiben Sie ca. 150 Wörter.",
+          "instructionsTranslation": "Last month you booked a package holiday to Gran Canaria through a travel agency. The trip was a disappointment: the hotel did not match the description, an excursion was cancelled without notice, and your suitcase was lost during the return flight. Write a complaint letter to the travel agency. Address all four points. Write approximately 150 words.",
+          "prompt": "Schreiben Sie dem Reisebüro eine formelle Beschwerde. Gehen Sie auf die folgenden vier Punkte ein:\n\n- Das Hotel: Was hat nicht gestimmt? (z.B. Lage, Zimmer, Zustand)\n- Der abgesagte Ausflug: Was sind die Folgen für Sie gewesen?\n- Der verlorene Koffer: Was fordern Sie konkret?\n- Ihre allgemeine Bewertung der Reise und was Sie vom Reisebüro erwarten\n\nVergessen Sie nicht: formelle Anrede (Sehr geehrte Damen und Herren), passende Schlussformel (Mit freundlichen Grüßen) und Ihren Namen.",
+          "promptTranslation": "Write a formal complaint letter to the travel agency. Address the following four points:\n\n- The hotel: What was wrong? (e.g. location, room, condition)\n- The cancelled excursion: What were the consequences for you?\n- The lost suitcase: What exactly are you demanding?\n- Your overall assessment of the trip and what you expect from the travel agency\n\nDon't forget: formal salutation (Sehr geehrte Damen und Herren), appropriate closing (Mit freundlichen Grüßen) and your name.",
+          "requiredPoints": [
+            "Beschreibung des Problems mit dem Hotel (mindestens ein konkretes Detail)",
+            "Folgen der Ausflugsstornierung für den Reisenden",
+            "Konkrete Forderung bezüglich des verlorenen Koffers",
+            "Gesamtbewertung und Erwartung an das Reisebüro"
+          ],
+          "wordCountMin": 130,
+          "wordCountMax": 170,
+          "sampleAnswer": "Sehr geehrte Damen und Herren,\n\nmit großem Bedauern muss ich Ihnen mitteilen, dass ich mit der von Ihnen organisierten Reise nach Gran Canaria sehr unzufrieden war.\n\nDas gebuchte Hotel wurde als 'ruhig und zentral gelegen' beschrieben. In Wirklichkeit befand es sich direkt neben einer Baustelle, und die Zimmer waren laut und ungepflegt. Der gebuchte Ausflug zur Dünenlandschaft wurde kurzfristig ohne Erklärung abgesagt, sodass wir einen ganzen Tag ohne Programm verbringen mussten.\n\nBesonders ärgerlich war der Verlust meines Koffers während des Rückflugs. Ich fordere eine vollständige Erstattung des Kofferwertes in Höhe von 380 Euro.\n\nInsgesamt war diese Reise eine herbe Enttäuschung. Ich erwarte eine schriftliche Stellungnahme sowie eine Entschädigung von mindestens 25 Prozent des Reisepreises.\n\nMit freundlichen Grüßen\nMarkus Hofmann",
+          "scoringCriteria": [
+            {
+              "criterion": "I. Inhaltliche Vollständigkeit",
+              "maxPoints": 15,
+              "description": "Alle vier Punkte (Hotel, abgesagter Ausflug, Koffer, Erwartungen) müssen klar behandelt sein. Fehlt ein Punkt oder wird er nur angedeutet ohne konkreten Inhalt, gibt es Abzug. Werden alle vier Punkte als 'nicht bearbeitet' bewertet, gibt es 0 Punkte für den gesamten Brief."
+            },
+            {
+              "criterion": "II. Kommunikative Gestaltung",
+              "maxPoints": 15,
+              "description": "Formelle Anrede ('Sehr geehrte Damen und Herren'), sachlicher und höflicher Ton, klarer Aufbau (Einleitung – Problembeschreibung – Forderungen – Schluss), korrekte Schlussformel. Verwendung formeller Konnektoren (zunächst, außerdem, darüber hinaus, insgesamt)."
+            },
+            {
+              "criterion": "III. Formale Richtigkeit",
+              "maxPoints": 15,
+              "description": "Grammatik, Rechtschreibung, Zeichensetzung auf B1-Niveau. Korrekte Passivkonstruktionen ('wurde beschrieben', 'wurde abgesagt'), Modalverben im Konjunktiv II für höfliche Forderungen ('Ich würde eine Erstattung erwarten'), korrekte Präpositionen und Kasusformen."
+            }
+          ]
+        }
+      ]
+    },
+    "speaking": {
+      "totalTimeMinutes": 15,
+      "prepTimeMinutes": 20,
+      "parts": [
+        {
+          "partNumber": 1,
+          "type": "introduce",
+          "instructions": "Stellen Sie sich Ihrem Gesprächspartner/Ihrer Gesprächspartnerin vor. Sprechen Sie über sich: Name, Herkunft, Wohnort, Familie, Beruf oder Ausbildung, Hobbys und Sprachen. Stellen Sie anschließend Ihrem Partner/Ihrer Partnerin mindestens zwei Fragen.",
+          "instructionsTranslation": "Introduce yourself to your conversation partner. Talk about: name, origin, place of residence, family, work or education, hobbies, and languages. Afterwards ask your partner at least two questions.",
+          "prompt": "Bitte stellen Sie sich Ihrem Partner / Ihrer Partnerin vor. Sprechen Sie u.a. über:\n- Ihren Namen und Ihre Herkunft\n- Ihren aktuellen Wohnort und seit wann Sie dort leben\n- Ihre Familie\n- Ihren Beruf oder Ihr Studium\n- Ihre Reiseerfahrungen und Lieblingsziele\n- Die Sprachen, die Sie sprechen\n\nStellen Sie danach Ihrem Partner / Ihrer Partnerin mindestens zwei Fragen.",
+          "sampleResponse": "Guten Tag, ich heiße Maya Petrova und komme ursprünglich aus Sofia in Bulgarien. Seit vier Jahren lebe ich in Stuttgart, wo ich bei einer kleinen Firma im Bereich Logistik arbeite. Meine Familie ist noch in Bulgarien – meine Eltern und mein jüngerer Bruder, der gerade sein Studium abschließt. Ich reise sehr gerne: Bisher habe ich mehrere Länder in Europa bereist, besonders Österreich und Portugal haben mir sehr gefallen. Nächstes Jahr möchte ich unbedingt nach Japan. Neben Bulgarisch und Deutsch spreche ich auch gut Englisch und ein bisschen Französisch. Und wie ist das bei Ihnen? Woher kommen Sie, und haben Sie schon viel gereist?",
+          "evaluationTips": [
+            "Nennen Sie konkrete Orte und Zeitangaben – nicht nur 'irgendwo in Deutschland'",
+            "Verwenden Sie Relativsätze und Nebensätze für B1-Niveau: 'wo ich arbeite', 'weil ich das Land faszinierend finde'",
+            "Erwähnen Sie das Reisethema natürlich – es passt zum Thema des Tests",
+            "Stellen Sie echte, offene W-Fragen an Ihren Partner"
+          ],
+          "keyPhrases": [
+            "Ich heiße ... und komme aus ...",
+            "Seit ... Jahren lebe ich in ...",
+            "Beruflich arbeite ich als ...",
+            "Ich reise sehr gerne, besonders ...",
+            "Am liebsten fahre ich mit ... / Ich fliege gerne nach ...",
+            "Und was ist Ihr Lieblingsziel?"
+          ]
+        },
+        {
+          "partNumber": 2,
+          "type": "discussion",
+          "instructions": "Sie erhalten eine Grafik zum Thema Reisen. Beschreiben Sie die Grafik, beantworten Sie die Leitfragen und tauschen Sie Ihre Meinung mit Ihrem Partner aus.",
+          "instructionsTranslation": "You receive a chart on the topic of travel. Describe the chart, answer the guiding questions, and exchange your opinions with your partner.",
+          "prompt": "Thema: Wie reisen die Deutschen?\n\nDie folgende Grafik zeigt, welche Verkehrsmittel Deutsche bei Urlaubsreisen nutzen (Angaben in Prozent):\n\nPKW / Auto: 47 %\nFlugzeug: 32 %\nBahn: 11 %\nReisebus: 6 %\nSonstiges (Schiff, Motorrad, ...): 4 %\n\nQuelle: Statistisches Bundesamt, 2024\n\nLeitfragen:\n1. Beschreiben Sie kurz, was die Grafik zeigt (2–3 Sätze).\n2. Welches Verkehrsmittel bevorzugen Sie persönlich beim Reisen und warum?\n3. Was sind Ihrer Meinung nach Vor- und Nachteile des Autos im Vergleich zum Zug für Urlaubsreisen?",
+          "sampleResponse": "Die Grafik zeigt, welche Verkehrsmittel die Deutschen am häufigsten für Urlaubsreisen nutzen. Mit Abstand am beliebtesten ist das Auto mit 47 Prozent, gefolgt vom Flugzeug mit 32 Prozent. Die Bahn spielt mit 11 Prozent eine deutlich kleinere Rolle.\n\nIch persönlich fahre am liebsten mit dem Zug, weil ich entspannen und dabei lesen oder schlafen kann. Das Auto finde ich für kurze Strecken praktisch, aber auf langen Fahrten werde ich schnell müde.\n\nDer größte Vorteil des Autos ist die Flexibilität: Man kann jederzeit anhalten, wohin man will, und hat keinen Koffer-Stress. Aber andererseits ist man bei Stau völlig hilflos – und Parkplätze in Urlaubsstädten sind oft teuer. Der Zug ist meiner Meinung nach komfortabler und umweltfreundlicher. Wie siehst du das?",
+          "evaluationTips": [
+            "Beginnen Sie mit einer sachlichen Beschreibung der Grafik, bevor Sie Ihre Meinung äußern",
+            "Nennen Sie konkrete Zahlen aus der Grafik: '47 Prozent', 'fast jeder Zweite'",
+            "Strukturieren Sie Ihre Meinung mit Konnektoren: 'einerseits ... andererseits ...', 'Im Vergleich dazu ...'",
+            "Stellen Sie am Ende eine Rückfrage an den Partner"
+          ],
+          "keyPhrases": [
+            "Die Grafik zeigt, dass ...",
+            "An erster Stelle steht ... mit ... Prozent",
+            "Im Vergleich dazu ...",
+            "Meiner Meinung nach hat das Auto den Vorteil, dass ...",
+            "Andererseits ist der Zug ...",
+            "Was denkst du – nimmst du lieber ... oder ...?"
+          ]
+        },
+        {
+          "partNumber": 3,
+          "type": "planning",
+          "instructions": "Sie sollen mit Ihrem Partner gemeinsam eine Gruppenreise planen. Machen Sie Vorschläge, reagieren Sie auf die Ideen Ihres Partners und einigen Sie sich am Ende auf eine gemeinsame Lösung.",
+          "instructionsTranslation": "You and your partner are going to plan a group trip together. Make suggestions, respond to your partner's ideas, and agree on a joint solution at the end.",
+          "prompt": "Ihre Freundesgruppe (5 Personen) möchte im Sommer eine Woche gemeinsam verreisen. Sie haben sich bereit erklärt, gemeinsam mit Ihrem Partner / Ihrer Partnerin die Reise zu planen.\n\nBesprechen Sie die folgenden Punkte und treffen Sie gemeinsam eine Entscheidung:\n\n- Wohin soll die Reise gehen? (Inland oder Ausland, Meer oder Berge?)\n- Wie soll die Gruppe reisen? (Auto, Zug, Flugzeug?)\n- Wo wollt ihr übernachten? (Hotel, Hostel, Ferienwohnung, Camping?)\n- Wie viel darf die Reise pro Person kosten?\n- Welche Aktivitäten plant ihr vor Ort?\n\nMachen Sie Vorschläge, reagieren Sie auf die Ideen Ihres Partners und einigen Sie sich am Ende.",
+          "sampleResponse": "Also, ich würde vorschlagen, dass wir ans Meer fahren – ich denke da zum Beispiel an die Ostsee oder vielleicht Kroatien. Hast du schon eine Idee?\n\nBeim Verkehrsmittel wäre ich für den Zug oder ein Auto – mit fünf Leuten ist ein Mietwagen vielleicht gar nicht so teuer, und dann sind wir flexibel vor Ort. Was hältst du davon?\n\nFür die Unterkunft würde ich eine Ferienwohnung vorschlagen. Dann können wir selbst kochen und sparen Geld. Das Budget sollte nach meiner Einschätzung maximal 500 Euro pro Person sein – Anreise, Unterkunft und Aktivitäten zusammen.\n\nAls Aktivitäten könnte ich mir vorstellen: einen Tag Boot mieten, einen Ausflug in eine nahegelegene Stadt, abends gemeinsam kochen und am Strand grillen. Vielleicht auch eine kurze Wanderung, falls die Anderen Lust haben.\n\nKlingt das für dich machbar? Welche Idee findest du am besten?",
+          "evaluationTips": [
+            "Machen Sie klare Vorschläge mit Begründung: 'Ich würde ... vorschlagen, weil ...'",
+            "Reagieren Sie auf die Vorschläge des Partners: 'Das finde ich gut, aber ich würde lieber ...'",
+            "Verwenden Sie Konjunktiv II für Vorschläge und Alternativen: 'Wir könnten ...', 'Es wäre auch möglich ...'",
+            "Verteilen Sie Aufgaben am Ende: 'Du buchst das Hotel, und ich kümmere mich um die Anreise'",
+            "Fassen Sie das Ergebnis zusammen: 'Also, wir haben uns geeinigt auf ...'"
+          ],
+          "keyPhrases": [
+            "Ich würde vorschlagen, dass wir ...",
+            "Was hältst du von ...?",
+            "Das klingt gut, aber vielleicht könnten wir auch ...",
+            "Ich finde das sinnvoll, weil ...",
+            "Wir könnten uns die Aufgaben so aufteilen: ...",
+            "Also haben wir uns geeinigt auf ..."
+          ]
+        }
+      ]
+    }
+  }
+}

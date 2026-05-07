@@ -12,7 +12,7 @@ import type { Level } from '@fastrack/types';
 
 describe('getMockExam — static data, no fs at request time', () => {
   it('returns a non-null MockExam for every catalog entry with hasContent: true', () => {
-    // B1 M11-M15 are planned placeholders (hasContent: false) — no JSON file yet.
+    // B1 M11, M12, M15 are planned placeholders (hasContent: false) — no JSON file yet.
     for (const entry of MOCK_EXAM_CATALOG.filter((e) => e.hasContent)) {
       const result = getMockExam(entry.level, entry.mockNumber);
       expect(result, `${entry.id} should be non-null`).not.toBeNull();
@@ -47,6 +47,20 @@ describe('getMockExam — static data, no fs at request time', () => {
   it('B1 mock 1 has sprachbausteine section', () => {
     const mock = getMockExam('B1', 1)!;
     expect(mock.sections.sprachbausteine).toBeDefined();
+  });
+
+  it('B1 mock 13 (Reisen & Mobilität) is reachable and has sprachbausteine', () => {
+    const mock = getMockExam('B1', 13);
+    expect(mock, 'B1 mock 13 should not be null').not.toBeNull();
+    expect(mock?.sections.sprachbausteine).toBeDefined();
+    expect(mock?.id).toBe('B1_mock_13');
+  });
+
+  it('B1 mock 14 (Familie & Generationen) is reachable and has sprachbausteine', () => {
+    const mock = getMockExam('B1', 14);
+    expect(mock, 'B1 mock 14 should not be null').not.toBeNull();
+    expect(mock?.sections.sprachbausteine).toBeDefined();
+    expect(mock?.id).toBe('B1_mock_14');
   });
 
   it('B2 mock 1 has sprachbausteine section', () => {
