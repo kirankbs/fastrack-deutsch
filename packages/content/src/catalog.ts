@@ -24,7 +24,7 @@ function generateEntries(level: Level, count: number): MockExamEntry[] {
       'Alltag', 'Familie', 'Wohnen', 'Essen', 'Termine',
       'Arbeit', 'Freizeit', 'Gesundheit', 'Reisen', 'Einkaufen',
     ],
-    // B1 convergent end-state: 15 mocks (01–10 shipped; 11–15 planned WS-A wave 6–8)
+    // B1 final state: all 15 mocks shipped (01–15)
     B1: [
       'Alltag', 'Berufseinstieg', 'Bildung', 'Medien', 'Wohnen & Lernen',
       'Kultur & Veranstaltungen', 'Dienste & formelle Kommunikation', 'Konsum & Tausch', 'Tiere & Stadt', 'Feste & Feiern',
@@ -49,10 +49,9 @@ function generateEntries(level: Level, count: number): MockExamEntry[] {
     ],
   };
 
-  // For most levels all mocks are shipped. B1 has 15 entries but ships in waves.
-  // Sparse set of B1 mock numbers (1-based) that have JSON files committed.
-  // Add numbers here only when the JSON file is committed to the repo.
-  const B1_SHIPPED: Set<number> = new Set([1,2,3,4,5,6,7,8,9,10,11,12,13,14]);
+  // All 15 B1 mocks are now shipped. Set is kept for structural consistency
+  // with earlier waves; hasContent is true for every B1 entry.
+  const B1_SHIPPED: Set<number> = new Set([1,2,3,4,5,6,7,8,9,10,11,12,13,14,15]);
 
   return Array.from({ length: count }, (_, i) => {
     const mockNumber = i + 1;

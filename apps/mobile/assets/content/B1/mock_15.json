@@ -1,0 +1,942 @@
+{
+  "id": "B1_mock_15",
+  "level": "B1",
+  "title": "B1 Übungstest 15: Medien & digitales Leben",
+  "version": 1,
+  "sections": {
+    "listening": {
+      "totalTimeMinutes": 30,
+      "parts": [
+        {
+          "partNumber": 1,
+          "instructions": "Sie hören fünf kurze Texte. Entscheiden Sie bei jedem Text: Ist die Aussage richtig oder falsch? Sie hören jeden Text nur einmal.",
+          "instructionsTranslation": "You will hear five short texts. For each text, decide: Is the statement correct or incorrect? You will hear each text only once.",
+          "audioFile": "assets/audio/B1/mock15/listening_part1.mp3",
+          "playCount": 1,
+          "questions": [
+            {
+              "id": "B1_m15_L1_q1",
+              "type": "true_false",
+              "questionText": "Der Kunde ruft den Online-Support an, weil er sein Passwort vergessen hat.",
+              "options": ["richtig", "falsch"],
+              "correctAnswer": "falsch",
+              "explanation": "Im Anruf erklärt der Kunde: 'Ich kann mich gar nicht einloggen – die App stürzt immer ab, bevor ich das Passwort eingeben kann.' Das Problem ist ein App-Absturz, nicht ein vergessenes Passwort. Die Aussage ist falsch.",
+              "audioTimestamp": 8
+            },
+            {
+              "id": "B1_m15_L1_q2",
+              "type": "true_false",
+              "questionText": "Der Streaming-Dienst hat das Abonnement der Kundin automatisch verlängert.",
+              "options": ["richtig", "falsch"],
+              "correctAnswer": "richtig",
+              "explanation": "Die Ansage des Kundenservices lautet: 'Ihr Jahresabo wurde am ersten des Monats automatisch um ein weiteres Jahr verlängert. Die Abbuchung erfolgte wie vereinbart.' Die automatische Verlängerung ist damit bestätigt.",
+              "audioTimestamp": 11
+            },
+            {
+              "id": "B1_m15_L1_q3",
+              "type": "true_false",
+              "questionText": "In der App-Store-Meldung wird empfohlen, das Smartphone sofort neu zu starten.",
+              "options": ["richtig", "falsch"],
+              "correctAnswer": "falsch",
+              "explanation": "Die Systemmeldung sagt: 'Bitte installieren Sie das Update und starten Sie die App anschließend neu.' Es geht um einen App-Neustart nach einem Update, nicht um einen Neustart des gesamten Smartphones.",
+              "audioTimestamp": 9
+            },
+            {
+              "id": "B1_m15_L1_q4",
+              "type": "true_false",
+              "questionText": "Lena bittet ihre Freundin, ihr das Foto erst nach dem Treffen zu schicken.",
+              "options": ["richtig", "falsch"],
+              "correctAnswer": "falsch",
+              "explanation": "Lena sagt in der Sprachnachricht: 'Schick mir das Foto bitte schon jetzt — ich brauche es für den Post heute Abend.' Sie möchte es sofort, nicht nach dem Treffen. Die Aussage ist falsch.",
+              "audioTimestamp": 7
+            },
+            {
+              "id": "B1_m15_L1_q5",
+              "type": "true_false",
+              "questionText": "Beim Podcast-Workshop findet die Anmeldung ausschließlich online statt.",
+              "options": ["richtig", "falsch"],
+              "correctAnswer": "richtig",
+              "explanation": "Die Durchsage lautet: 'Anmeldungen sind nur über unser Online-Formular auf der Website möglich — telefonische Anmeldungen nehmen wir leider nicht entgegen.' Nur online anmelden ist korrekt.",
+              "audioTimestamp": 10
+            }
+          ]
+        },
+        {
+          "partNumber": 2,
+          "instructions": "Sie hören einen Radiobericht. Entscheiden Sie, ob die folgenden zehn Aussagen richtig oder falsch sind. Sie hören den Text nur einmal.",
+          "instructionsTranslation": "You will hear a radio report. Decide whether the following ten statements are correct or incorrect. You will hear the text only once.",
+          "audioFile": "assets/audio/B1/mock15/listening_part2.mp3",
+          "playCount": 1,
+          "questions": [
+            {
+              "id": "B1_m15_L2_q1",
+              "type": "true_false",
+              "questionText": "Das Thema der Radiosendung ist die Veränderung im Medienkonsum der Deutschen.",
+              "options": ["richtig", "falsch"],
+              "correctAnswer": "richtig",
+              "explanation": "Die Moderatorin eröffnet: 'Heute beschäftigen wir uns damit, wie sich unser Medienkonsum in den letzten Jahren grundlegend verändert hat.' Das Thema ist also genau das.",
+              "audioTimestamp": 5
+            },
+            {
+              "id": "B1_m15_L2_q2",
+              "type": "true_false",
+              "questionText": "Laut der Studie schauen Jugendliche zwischen 14 und 29 Jahren täglich mehr als vier Stunden fern.",
+              "options": ["richtig", "falsch"],
+              "correctAnswer": "falsch",
+              "explanation": "Die Sprecherin sagt: 'Bei Jugendlichen zwischen 14 und 29 Jahren liegt die tägliche Fernsehzeit bei durchschnittlich nur noch 45 Minuten.' Vier Stunden ist die Gesamtbildschirmzeit, nicht die Fernsehzeit allein. Die Aussage ist falsch.",
+              "audioTimestamp": 38
+            },
+            {
+              "id": "B1_m15_L2_q3",
+              "type": "true_false",
+              "questionText": "Der Experte Dr. Kern arbeitet an einem Institut für Medienpädagogik.",
+              "options": ["richtig", "falsch"],
+              "correctAnswer": "richtig",
+              "explanation": "Die Moderatorin stellt ihn vor: 'Zu Gast ist heute Dr. Felix Kern vom Institut für Medienpädagogik und digitale Bildung.' Die Aussage ist korrekt.",
+              "audioTimestamp": 58
+            },
+            {
+              "id": "B1_m15_L2_q4",
+              "type": "true_false",
+              "questionText": "Dr. Kern glaubt, dass Social Media ausschließlich negative Auswirkungen auf junge Menschen hat.",
+              "options": ["richtig", "falsch"],
+              "correctAnswer": "falsch",
+              "explanation": "Dr. Kern erklärt: 'Social Media hat durchaus positive Seiten — es fördert kreatives Ausdrücken und globale Vernetzung. Das Problem liegt im unreflektierten Dauerkonsum.' Er sieht beide Seiten, nicht nur negative. Die Aussage ist falsch.",
+              "audioTimestamp": 82
+            },
+            {
+              "id": "B1_m15_L2_q5",
+              "type": "true_false",
+              "questionText": "Der Begriff 'Doom-Scrolling' bezeichnet das ständige, gedankenlose Scrollen durch negative Nachrichten.",
+              "options": ["richtig", "falsch"],
+              "correctAnswer": "richtig",
+              "explanation": "Die Erklärung im Bericht: 'Doom-Scrolling meint das endlose Durchscrollen von überwiegend negativen Schlagzeilen und Meldungen, ohne bewusst zu lesen.' Die Beschreibung in der Aussage ist zutreffend.",
+              "audioTimestamp": 105
+            },
+            {
+              "id": "B1_m15_L2_q6",
+              "type": "true_false",
+              "questionText": "Laut dem Bericht haben die meisten Unternehmen Social-Media-Verbote während der Arbeitszeit eingeführt.",
+              "options": ["richtig", "falsch"],
+              "correctAnswer": "falsch",
+              "explanation": "Der Sprecher sagt: 'Nur jedes fünfte Unternehmen hat bislang klare Regeln zum Social-Media-Konsum in der Arbeitszeit aufgestellt.' Die Mehrheit hat keine solchen Regeln. Die Aussage ist falsch.",
+              "audioTimestamp": 128
+            },
+            {
+              "id": "B1_m15_L2_q7",
+              "type": "true_false",
+              "questionText": "Digital-Detox-Programme werden laut Bericht vor allem von Menschen über 50 Jahren genutzt.",
+              "options": ["richtig", "falsch"],
+              "correctAnswer": "falsch",
+              "explanation": "Im Bericht heißt es: 'Interessanterweise sind die Hauptnutzer solcher Detox-Angebote junge Erwachsene zwischen 25 und 35 Jahren.' Die Hauptgruppe ist jünger, nicht über 50. Die Aussage ist falsch.",
+              "audioTimestamp": 148
+            },
+            {
+              "id": "B1_m15_L2_q8",
+              "type": "true_false",
+              "questionText": "Dr. Kern empfiehlt, das Smartphone mindestens eine Stunde vor dem Schlafen wegzulegen.",
+              "options": ["richtig", "falsch"],
+              "correctAnswer": "richtig",
+              "explanation": "Dr. Kern sagt: 'Mein erster Tipp: Legen Sie das Smartphone mindestens eine Stunde vor dem Einschlafen weg — das verbessert nachweislich die Schlafqualität.' Die Empfehlung ist korrekt wiedergegeben.",
+              "audioTimestamp": 163
+            },
+            {
+              "id": "B1_m15_L2_q9",
+              "type": "true_false",
+              "questionText": "Im Bericht wird erwähnt, dass Online-Nachrichten gedruckte Zeitungen bereits vollständig ersetzt haben.",
+              "options": ["richtig", "falsch"],
+              "correctAnswer": "falsch",
+              "explanation": "Die Moderatorin sagt ausdrücklich: 'Gedruckte Zeitungen verlieren zwar Leser, aber sie sind noch nicht verschwunden — besonders ältere Generationen lesen sie weiterhin regelmäßig.' Eine vollständige Ablösung wird nicht behauptet. Die Aussage ist falsch.",
+              "audioTimestamp": 185
+            },
+            {
+              "id": "B1_m15_L2_q10",
+              "type": "true_false",
+              "questionText": "Am Ende der Sendung gibt Dr. Kern die Adresse einer Website mit weiteren Informationen an.",
+              "options": ["richtig", "falsch"],
+              "correctAnswer": "falsch",
+              "explanation": "Die Moderatorin schließt: 'Dr. Kern, vielen Dank. Unsere Hörer können sich unter der kostenlosen Hotline-Nummer 0800-223344 weiter informieren.' Eine Website-Adresse wird nicht genannt, sondern eine Telefonnummer. Die Aussage ist falsch.",
+              "audioTimestamp": 200
+            }
+          ]
+        },
+        {
+          "partNumber": 3,
+          "instructions": "Sie hören fünf kurze Gespräche. Zu jedem Gespräch gibt es eine Aufgabe. Was ist richtig? Kreuzen Sie an: a, b oder c. Sie hören jedes Gespräch zweimal.",
+          "instructionsTranslation": "You will hear five short conversations. For each conversation there is one task. What is correct? Mark: a, b, or c. You will hear each conversation twice.",
+          "audioFile": "assets/audio/B1/mock15/listening_part3.mp3",
+          "playCount": 2,
+          "questions": [
+            {
+              "id": "B1_m15_L3_q1",
+              "type": "mcq",
+              "questionText": "Wieso hat Jonas beschlossen, eine Woche lang sein Smartphone nicht zu benutzen?",
+              "options": [
+                "a) Sein Arzt hat ihm empfohlen, eine Smartphone-Pause einzulegen.",
+                "b) Er hat gemerkt, dass er mehr Zeit mit dem Handy als mit echten Menschen verbringt.",
+                "c) Sein Handy war kaputt und er hatte keine Zeit, es reparieren zu lassen."
+              ],
+              "correctAnswer": "b",
+              "explanation": "Jonas erklärt seiner Freundin: 'Ich habe eines Abends gerechnet: Vier Stunden am Handy, aber nur zwanzig Minuten wirkliches Gespräch mit meiner Mitbewohnerin. Das hat mir zu denken gegeben.' Er hat selbst erkannt, wie das Verhältnis war — kein Arzt (a) und kein kaputtes Handy (c). Option a ist eine false-inference-Falle: Gesundheit klingt plausibel, aber ein Arzt wird nie erwähnt. [Trap: false-inference (a)]",
+              "audioTimestamp": 14
+            },
+            {
+              "id": "B1_m15_L3_q2",
+              "type": "mcq",
+              "questionText": "Was hat Sofia letzte Woche wegen des Streamingdienst-Problems gemacht?",
+              "options": [
+                "a) Sie hat den Vertrag sofort gekündigt und einen anderen Dienst gebucht.",
+                "b) Sie hat eine E-Mail an den Kundenservice geschrieben und auf Antwort gewartet.",
+                "c) Sie hat zuerst die FAQ gelesen und dann den telefonischen Support kontaktiert."
+              ],
+              "correctAnswer": "c",
+              "explanation": "Sofia berichtet: 'Ich habe erstmal eine halbe Stunde in den FAQs gesucht, aber die Lösung war nicht dabei. Dann habe ich angerufen — nach zwanzig Minuten Wartezeit hat mir jemand geholfen.' Sie hat zuerst FAQ, dann Telefon genutzt. Option b ist eine time-frame-Falle: E-Mail kommt im Gespräch als Plan für die Zukunft vor, nicht als Vergangenes. Option a wird nicht erwähnt. [Trap: time-frame shift (b)]",
+              "audioTimestamp": 52
+            },
+            {
+              "id": "B1_m15_L3_q3",
+              "type": "mcq",
+              "questionText": "Was stört Markus am meisten an der neuen Social-Media-Plattform?",
+              "options": [
+                "a) Das Interface ist unübersichtlich und er findet sich nicht zurecht.",
+                "b) Die Plattform zeigt ständig Werbung, die er nicht abschalten kann.",
+                "c) Seine Freunde nutzen die Plattform kaum, weshalb er dort niemanden erreicht."
+              ],
+              "correctAnswer": "b",
+              "explanation": "Markus sagt: 'Jedes dritte Video ist eine Werbung. Ich habe versucht, die Premium-Version zu kaufen, aber die ist mir zu teuer.' Die nicht abschaltbare Werbung stört ihn am meisten. Option a klingt plausibel, wird aber nie erwähnt — das ist eine generalisation-Falle (Neu = unübersichtlich). Option c nennt er kurz, aber als Nebenpunkt. [Trap: generalisation (a)]",
+              "audioTimestamp": 88
+            },
+            {
+              "id": "B1_m15_L3_q4",
+              "type": "mcq",
+              "questionText": "Was schlägt die Mutter vor, damit ihre Tochter weniger Zeit am Bildschirm verbringt?",
+              "options": [
+                "a) Sie will das WLAN-Passwort ändern, sobald ihre Tochter schläft.",
+                "b) Sie hat eine App installiert, die nach zwei Stunden Bildschirmzeit eine Pause erzwingt.",
+                "c) Sie möchte, dass die Familie abends gemeinsam kocht statt jeder auf dem eigenen Gerät."
+              ],
+              "correctAnswer": "c",
+              "explanation": "Die Mutter sagt: 'Ich habe mir gedacht, wir kochen abends wieder zusammen — dann haben wir alle eine natürliche Pause vom Handy.' Gemeinsames Kochen ist der Vorschlag. Option b klingt technisch plausibel, ist aber eine causal-reversal-Falle: die Mutter lehnt eine App-Lösung ausdrücklich ab, weil sie zu kontrollierend wirkt. Option a wird nirgends erwähnt. [Trap: causal reversal (b)]",
+              "audioTimestamp": 122
+            },
+            {
+              "id": "B1_m15_L3_q5",
+              "type": "mcq",
+              "questionText": "Was ist für Timo beim Planen des Lese-/Filmclubs am wichtigsten?",
+              "options": [
+                "a) Er möchte, dass alle Teilnehmer im Voraus abstimmen, welches Buch oder welchen Film sie wählen.",
+                "b) Er besteht darauf, dass sich alle Mitglieder persönlich treffen und nicht online diskutieren.",
+                "c) Er will einen festen Ort finden, damit die Gruppe nicht jedes Mal neu entscheiden muss."
+              ],
+              "correctAnswer": "a",
+              "explanation": "Timo erklärt: 'Das Wichtigste ist für mich, dass wir demokratisch abstimmen — jeder schlägt einen Titel vor und dann wird gewählt. Sonst bestimmt immer einer alles.' Abstimmen über den Titel ist seine Priorität. Option b ist eine false-inference-Falle: Timo ist offen für Hybridformate. Option c nennt er als pragmatischen Wunsch, aber nicht als wichtigstes Kriterium. [Trap: false-inference (b)]",
+              "audioTimestamp": 158
+            }
+          ]
+        }
+      ]
+    },
+    "reading": {
+      "totalTimeMinutes": 60,
+      "parts": [
+        {
+          "partNumber": 1,
+          "instructions": "Lesen Sie zuerst die fünf Situationen (1–5) und dann die acht Überschriften (a–h). Welche Überschrift passt zu welcher Situation? Für jede Situation gibt es genau eine passende Überschrift. Drei Überschriften bleiben übrig.",
+          "instructionsTranslation": "First read the five situations (1–5) and then the eight headlines (a–h). Which headline matches which situation? For each situation there is exactly one matching headline. Three headlines remain unused.",
+          "texts": [
+            {
+              "id": "B1_m15_R1_text1",
+              "type": "notice",
+              "content": "Neues Projekt: Jugendliche untersuchen, welche Nachrichten in sozialen Netzwerken wahr oder falsch sind. Ergebnisse werden in der Schule präsentiert.\n\nEin Medienkurs an der Gesamtschule Nordstadt hat Schüler und Schülerinnen der 9. Klasse damit beauftragt, in einer dreiwöchigen Projektwoche TikTok-Videos und Instagram-Posts zu analysieren. Dabei sollten sie prüfen, welche Behauptungen faktisch korrekt sind und welche in die Irre führen. Die Ergebnisse überraschten: Mehr als die Hälfte der untersuchten Posts enthielt mindestens eine unüberprüfte Aussage. Die Schülerinnen und Schüler präsentierten ihre Erkenntnisse abschließend vor der gesamten Schule."
+            },
+            {
+              "id": "B1_m15_R1_text2",
+              "type": "notice",
+              "content": "Immer mehr junge Erwachsene wollen bewusst weniger Zeit mit dem Handy verbringen. Sie legen ihr Gerät für Tage oder Wochen beiseite.\n\nLara, 24, hat es selbst ausprobiert: 'Ich habe mein Smartphone eine Woche lang in eine Schublade gelegt. Anfangs war es fast unerträglich — ständig wollte ich nachschauen, ob jemand geschrieben hatte. Aber nach drei Tagen spürte ich eine echte Erleichterung: Ich schlief besser, war konzentrierter und hatte das Gefühl, wieder Herrin meiner Zeit zu sein.' Wie Lara denken inzwischen viele: Der freiwillige Verzicht auf digitale Geräte wird als Selbstfürsorge verstanden."
+            },
+            {
+              "id": "B1_m15_R1_text3",
+              "type": "notice",
+              "content": "Wie suchen Menschen heute nach einem Partner oder einer Partnerin? Die Antwort lautet bei immer mehr Menschen: online.\n\nFrüher war es ungewöhnlich, über eine App den zukünftigen Lebenspartner zu finden. Heute hingegen ist es für viele die erste Wahl. In einer aktuellen Umfrage gaben 38 Prozent der Menschen zwischen 20 und 35 Jahren an, ihre aktuelle Partnerschaft über eine Dating-App begonnen zu haben. Gleichzeitig berichten viele von gemischten Erfahrungen: Der erste Eindruck täuscht oft, und der Aufwand, sich durch hunderte von Profilen zu scrollen, kostet Zeit und Energie."
+            },
+            {
+              "id": "B1_m15_R1_text4",
+              "type": "notice",
+              "content": "Lernen ohne Schulgebäude: Wie Online-Kurse Bildung für alle zugänglicher machen.\n\nFrüher war ein Hochschulstudium an einen festen Ort gebunden. Heute ermöglichen E-Learning-Plattformen es Millionen von Menschen weltweit, Fächer wie Programmieren, Sprachen oder Grafikdesign bequem von zu Hause aus zu lernen. Besonders beliebt sind kurze Videolektionen, die man beliebig oft wiederholen kann. Kritiker bemängeln jedoch fehlende Sozialkontakte und mangelnde Verbindlichkeit: Viele Teilnehmer brechen Online-Kurse frühzeitig ab."
+            },
+            {
+              "id": "B1_m15_R1_text5",
+              "type": "notice",
+              "content": "Eine Studie der Universität Köln belegt: Wer täglich mehr als drei Stunden TikTok nutzt, zeigt messbare Veränderungen in der Aufmerksamkeitsspanne.\n\nDie Forscher haben 400 Studierende über ein Semester beobachtet. Diejenigen, die TikTok intensiv nutzten, hatten im Schnitt eine um 18 Prozent kürzere Konzentrationsfähigkeit als die Vergleichsgruppe. Sie wechselten außerdem deutlich häufiger zwischen verschiedenen Aufgaben, ohne eine abzuschließen. Die Studienleitung betont jedoch, dass Kausalität nicht eindeutig belegt werden kann: Möglicherweise suchen Menschen mit kürzerer Aufmerksamkeitsspanne bevorzugt kurze Inhalte."
+            }
+          ],
+          "questions": [
+            {
+              "id": "B1_m15_R1_q1",
+              "type": "matching",
+              "questionText": "1. Herr Bachmann ist Informatiklehrer und möchte seiner Klasse zeigen, wie man prüft, ob eine Information im Internet wahr oder falsch ist. Er sucht ein Beispielprojekt aus einer Schule.",
+              "matchingSources": [
+                { "id": "B1_m15_R1_head_a", "label": "a" },
+                { "id": "B1_m15_R1_head_b", "label": "b" },
+                { "id": "B1_m15_R1_head_c", "label": "c" },
+                { "id": "B1_m15_R1_head_d", "label": "d" },
+                { "id": "B1_m15_R1_head_e", "label": "e" },
+                { "id": "B1_m15_R1_head_f", "label": "f" },
+                { "id": "B1_m15_R1_head_g", "label": "g" },
+                { "id": "B1_m15_R1_head_h", "label": "h" }
+              ],
+              "correctAnswer": "b",
+              "explanation": "Text 1 beschreibt ein Schulprojekt, bei dem Schüler Social-Media-Posts auf Wahrheitsgehalt prüfen — genau das Beispiel, das Herr Bachmann für seinen Unterricht sucht. Überschrift b) 'Schüler prüfen Wahrheitsgehalt von Social-Media-Posts' passt perfekt."
+            },
+            {
+              "id": "B1_m15_R1_q2",
+              "type": "matching",
+              "questionText": "2. Nina hat das Gefühl, ihr Handy kontrolliert ihr Leben. Sie möchte einen Erfahrungsbericht lesen, der zeigt, wie es sich anfühlt, komplett auf das Smartphone zu verzichten.",
+              "matchingSources": [
+                { "id": "B1_m15_R1_head_a", "label": "a" },
+                { "id": "B1_m15_R1_head_b", "label": "b" },
+                { "id": "B1_m15_R1_head_c", "label": "c" },
+                { "id": "B1_m15_R1_head_d", "label": "d" },
+                { "id": "B1_m15_R1_head_e", "label": "e" },
+                { "id": "B1_m15_R1_head_f", "label": "f" },
+                { "id": "B1_m15_R1_head_g", "label": "g" },
+                { "id": "B1_m15_R1_head_h", "label": "h" }
+              ],
+              "correctAnswer": "f",
+              "explanation": "Text 2 enthält genau einen solchen Erfahrungsbericht: Lara hat ihr Smartphone eine Woche lang weggelegt und schildert, wie sich das angefühlt hat. Überschrift f) 'Eine Woche ohne Smartphone — ein Selbstversuch' trifft den Kern."
+            },
+            {
+              "id": "B1_m15_R1_q3",
+              "type": "matching",
+              "questionText": "3. Frau Demir hält einen Vortrag über moderne Partnersuche. Sie möchte aktuelle Zahlen darüber präsentieren, wie viele Menschen heute über Apps eine Beziehung beginnen.",
+              "matchingSources": [
+                { "id": "B1_m15_R1_head_a", "label": "a" },
+                { "id": "B1_m15_R1_head_b", "label": "b" },
+                { "id": "B1_m15_R1_head_c", "label": "c" },
+                { "id": "B1_m15_R1_head_d", "label": "d" },
+                { "id": "B1_m15_R1_head_e", "label": "e" },
+                { "id": "B1_m15_R1_head_f", "label": "f" },
+                { "id": "B1_m15_R1_head_g", "label": "g" },
+                { "id": "B1_m15_R1_head_h", "label": "h" }
+              ],
+              "correctAnswer": "d",
+              "explanation": "Text 3 enthält eine Umfragestatistik: 38 Prozent der 20–35-Jährigen haben ihre Partnerschaft über eine Dating-App begonnen. Das sind genau die Zahlen, die Frau Demir sucht. Überschrift d) 'Online-Dating auf dem Vormarsch — Zahlen und Erfahrungen' passt."
+            },
+            {
+              "id": "B1_m15_R1_q4",
+              "type": "matching",
+              "questionText": "4. Tobias arbeitet in einer Bildungsberatung und möchte wissen, welche Vorteile aber auch welche Schwächen digitales Lernen von zu Hause gegenüber dem Präsenzunterricht hat.",
+              "matchingSources": [
+                { "id": "B1_m15_R1_head_a", "label": "a" },
+                { "id": "B1_m15_R1_head_b", "label": "b" },
+                { "id": "B1_m15_R1_head_c", "label": "c" },
+                { "id": "B1_m15_R1_head_d", "label": "d" },
+                { "id": "B1_m15_R1_head_e", "label": "e" },
+                { "id": "B1_m15_R1_head_f", "label": "f" },
+                { "id": "B1_m15_R1_head_g", "label": "g" },
+                { "id": "B1_m15_R1_head_h", "label": "h" }
+              ],
+              "correctAnswer": "g",
+              "explanation": "Text 4 behandelt E-Learning: Vorteile wie Flexibilität und Wiederholbarkeit sowie Nachteile wie fehlende Sozialkontakte und hohe Abbruchquoten — genau die Balance, die Tobias sucht. Überschrift g) 'E-Learning: Chancen und Grenzen des digitalen Lernens' passt."
+            },
+            {
+              "id": "B1_m15_R1_q5",
+              "type": "matching",
+              "questionText": "5. Dr. Simons bereitet einen Artikel über psychologische Auswirkungen von Kurzvideoformaten vor. Sie sucht eine Studie, die Zusammenhänge zwischen TikTok-Konsum und Konzentration untersucht.",
+              "matchingSources": [
+                { "id": "B1_m15_R1_head_a", "label": "a" },
+                { "id": "B1_m15_R1_head_b", "label": "b" },
+                { "id": "B1_m15_R1_head_c", "label": "c" },
+                { "id": "B1_m15_R1_head_d", "label": "d" },
+                { "id": "B1_m15_R1_head_e", "label": "e" },
+                { "id": "B1_m15_R1_head_f", "label": "f" },
+                { "id": "B1_m15_R1_head_g", "label": "g" },
+                { "id": "B1_m15_R1_head_h", "label": "h" }
+              ],
+              "correctAnswer": "a",
+              "explanation": "Text 5 beschreibt eine Universitätsstudie, die TikTok-Konsum und Aufmerksamkeitsspanne untersucht — genau das Material für Dr. Simons' Artikel. Überschrift a) 'Studie: TikTok-Konsum beeinflusst die Konzentrationsfähigkeit' passt direkt."
+            }
+          ],
+          "headlines": [
+            { "id": "B1_m15_R1_head_a", "label": "a", "content": "a) Studie: TikTok-Konsum beeinflusst die Konzentrationsfähigkeit" },
+            { "id": "B1_m15_R1_head_b", "label": "b", "content": "b) Schüler prüfen Wahrheitsgehalt von Social-Media-Posts" },
+            { "id": "B1_m15_R1_head_c", "label": "c", "content": "c) Smartphone-Nutzung im Straßenverkehr: neue Bußgelder geplant" },
+            { "id": "B1_m15_R1_head_d", "label": "d", "content": "d) Online-Dating auf dem Vormarsch — Zahlen und Erfahrungen" },
+            { "id": "B1_m15_R1_head_e", "label": "e", "content": "e) Datenschutz-Tipps: So schützen Sie Ihre persönlichen Daten im Netz" },
+            { "id": "B1_m15_R1_head_f", "label": "f", "content": "f) Eine Woche ohne Smartphone — ein Selbstversuch" },
+            { "id": "B1_m15_R1_head_g", "label": "g", "content": "g) E-Learning: Chancen und Grenzen des digitalen Lernens" },
+            { "id": "B1_m15_R1_head_h", "label": "h", "content": "h) Wie Unternehmen Social Media für die Personalsuche nutzen" }
+          ]
+        },
+        {
+          "partNumber": 2,
+          "instructions": "Lesen Sie den Zeitungsartikel. Was ist richtig? Kreuzen Sie an: a, b oder c.",
+          "instructionsTranslation": "Read the newspaper article. What is correct? Mark: a, b, or c.",
+          "texts": [
+            {
+              "id": "B1_m15_R2_article",
+              "type": "article",
+              "content": "Wie wir Medien konsumieren — eine stille Revolution\n\nNoch vor zehn Jahren war das Abendprogramm im Fernsehen ein gesellschaftliches Ritual. Familien setzten sich gemeinsam vor den Bildschirm, um die Tagesschau zu sehen oder einen Film zu verfolgen. Heute hat jedes Familienmitglied sein eigenes Gerät, seinen eigenen Algorithmus, seine eigene Welt aus Inhalten.\n\nLaut dem aktuellen Mediennutzungsbericht der Landesmedienanstalten hat sich die durchschnittliche tägliche Nutzungszeit digitaler Medien bei Erwachsenen in Deutschland in den vergangenen acht Jahren von 3,1 auf 5,4 Stunden erhöht. Davon entfallen etwa zwei Stunden auf Streaming-Dienste, rund 80 Minuten auf Social-Media-Plattformen und der Rest auf Nachrichtenangebote, Podcasts und sonstige Online-Inhalte. Das klassische lineare Fernsehen macht bei der Gruppe unter 35 Jahren nurmehr 12 Prozent der gesamten Medienzeit aus.\n\n'Wir beobachten eine Fragmentierung des Publikums', erklärt Medienwissenschaftlerin Prof. Dr. Kathrin Vogt von der Universität Münster. 'Früher gab es wenige Kanäle und fast alle sahen dasselbe. Heute gibt es Tausende von Nischen, und jede Person lebt in ihrer eigenen Medienblase.' Besonders deutlich zeige sich das bei der Nachrichtenkonsumation: Während ältere Generationen weiterhin Tageszeitungen und öffentlich-rechtliche Sendeformate bevorzugen, holen sich unter 30-Jährige ihre Informationen primär über Instagram-Reels, YouTube-Shorts oder TikTok-Beiträge.\n\nDiese Entwicklung hat Folgen, die Experten mit gemischten Gefühlen betrachten. Auf der einen Seite ermöglicht die Individualisierung des Medienkonsums eine beispiellose Vielfalt: Menschen, die sich für Nischenthemen interessieren — von urbaner Permakultur bis zu sorbischer Volksmusik — finden heute Inhalte, die es früher schlicht nicht gab. Auf der anderen Seite wächst die Sorge vor Echokammern: Wer nur noch Inhalte sieht, die der eigene Algorithmus empfiehlt, begegnet seltener Meinungen und Perspektiven, die vom eigenen Weltbild abweichen.\n\nEin weiterer Aspekt betrifft die Qualität der Aufmerksamkeit. 'Wir sind zunehmend eine Gesellschaft des zweiten Bildschirms', sagt Prof. Vogt. 'Viele Leute schauen eine Serie auf dem Fernseher und scrollen gleichzeitig durch ihr Handy. Das hat Auswirkungen auf das Erinnern, auf das emotionale Erleben von Inhalten.' Einige Streaming-Dienste reagieren bereits darauf: Sie bieten sogenannte 'Watch Parties' an, bei denen Nutzer synchron einen Film sehen und gleichzeitig per Chat kommentieren können — ein Versuch, das kollektive Fernseherlebnis ins Digitale zu retten.\n\nOb das gelingt, bleibt offen. Was jedoch klar ist: Der Wandel im Medienkonsum ist keine vorübergehende Mode, sondern ein struktureller Einschnitt, der Gesellschaft, Journalismus und das Verständnis von Öffentlichkeit dauerhaft verändern wird.",
+              "source": "Medienwoche Digital, März 2026"
+            }
+          ],
+          "questions": [
+            {
+              "id": "B1_m15_R2_q1",
+              "type": "mcq",
+              "questionText": "Was hat sich laut dem Mediennutzungsbericht in den letzten acht Jahren verändert?",
+              "relatedTextId": "B1_m15_R2_article",
+              "options": [
+                "a) Die tägliche Mediennutzungszeit ist von 5,4 auf 3,1 Stunden gesunken.",
+                "b) Die durchschnittliche digitale Mediennutzung pro Tag ist von 3,1 auf 5,4 Stunden gestiegen.",
+                "c) Streaming macht bereits mehr als die Hälfte der gesamten Medienzeit aus."
+              ],
+              "correctAnswer": "b",
+              "explanation": "Der Text sagt: 'hat sich die durchschnittliche tägliche Nutzungszeit digitaler Medien ... von 3,1 auf 5,4 Stunden erhöht.' Option b gibt das korrekt wieder. Option a kehrt die Richtung um — ein numerical near-miss mit denselben Zahlen in vertauschter Reihenfolge. Option c ist eine Generalisation: Streaming-Anteil sind etwa zwei Stunden, weit weniger als die Hälfte der 5,4 Stunden. [Trap: numerical near-miss (a), generalisation (c)]",
+              "audioTimestamp": null
+            },
+            {
+              "id": "B1_m15_R2_q2",
+              "type": "mcq",
+              "questionText": "Was erklärt Prof. Dr. Vogt mit dem Begriff 'Fragmentierung des Publikums'?",
+              "relatedTextId": "B1_m15_R2_article",
+              "options": [
+                "a) Die Zuschauerzahlen linearer TV-Sender sind in den letzten Jahren stark gesunken.",
+                "b) Es gibt heute so viele Nischenangebote, dass jeder Mensch in einer eigenen Medienwelt lebt.",
+                "c) Jüngere Menschen informieren sich nicht mehr über das aktuelle Weltgeschehen."
+              ],
+              "correctAnswer": "b",
+              "explanation": "Prof. Vogt erklärt: 'Heute gibt es Tausende von Nischen, und jede Person lebt in ihrer eigenen Medienblase.' Option b gibt ihren Gedanken direkt wieder. Option a nennt einen verwandten Fakt, schreibt ihn aber Prof. Vogt zu, obwohl der Bericht ihn als allgemeinen Trend darstellt — das ist eine subject-swap-Falle. Option c ist eine Überverallgemeinerung. [Trap: subject-swap (a)]",
+              "audioTimestamp": null
+            },
+            {
+              "id": "B1_m15_R2_q3",
+              "type": "mcq",
+              "questionText": "Was ist laut Artikel ein Vorteil der Individualisierung des Medienkonsums?",
+              "relatedTextId": "B1_m15_R2_article",
+              "options": [
+                "a) Menschen finden heute Inhalte zu Themen, für die es früher keine Angebote gab.",
+                "b) Algorithmen helfen dabei, Fehlinformationen automatisch zu filtern.",
+                "c) Jüngere Generationen sind durch Nischenangebote besser über Politik informiert."
+              ],
+              "correctAnswer": "a",
+              "explanation": "Der Text nennt explizit: 'Menschen, die sich für Nischenthemen interessieren ... finden heute Inhalte, die es früher schlicht nicht gab.' Option a gibt das korrekt wieder. Option b klingt logisch, wird aber nirgends im Text erwähnt — eine false-inference-Falle. Option c widerspricht implizit dem Text (Echokammer-Problem). [Trap: false-inference (b)]",
+              "audioTimestamp": null
+            },
+            {
+              "id": "B1_m15_R2_q4",
+              "type": "mcq",
+              "questionText": "Was meint Prof. Vogt mit dem Begriff 'Gesellschaft des zweiten Bildschirms'?",
+              "relatedTextId": "B1_m15_R2_article",
+              "options": [
+                "a) Immer mehr Menschen besitzen mehr als ein Smartphone.",
+                "b) Viele Leute nutzen beim Fernsehen gleichzeitig ein Handy, was die Aufmerksamkeit mindert.",
+                "c) Streaming-Dienste sind für Zuschauer inzwischen attraktiver als der klassische Fernseher."
+              ],
+              "correctAnswer": "b",
+              "explanation": "Prof. Vogt sagt direkt: 'Viele Leute schauen eine Serie auf dem Fernseher und scrollen gleichzeitig durch ihr Handy. Das hat Auswirkungen auf das Erinnern.' Option b trifft den Sinn genau. Option a ist eine lexical false-friend-Falle: 'zweiter Bildschirm' klingt nach einem zweiten Gerät, meint aber parallele Nutzung. Option c ist eine false-inference. [Trap: lexical false-friend (a)]",
+              "audioTimestamp": null
+            },
+            {
+              "id": "B1_m15_R2_q5",
+              "type": "mcq",
+              "questionText": "Was versuchen einige Streaming-Dienste mit 'Watch Parties' zu erreichen?",
+              "relatedTextId": "B1_m15_R2_article",
+              "options": [
+                "a) Sie wollen Nutzer dazu bringen, weniger gleichzeitig zu chatten und sich mehr auf den Film zu konzentrieren.",
+                "b) Sie möchten das gemeinsame Fernseherlebnis, das es früher gab, in digitaler Form neu schaffen.",
+                "c) Sie haben Watch Parties eingeführt, weil ihre Abonnentenzahlen gesunken sind."
+              ],
+              "correctAnswer": "b",
+              "explanation": "Der Text sagt: 'ein Versuch, das kollektive Fernseherlebnis ins Digitale zu retten.' Option b fasst das korrekt zusammen. Option a dreht den Gedanken um — Chat ist Teil des Watch-Party-Konzepts, nicht etwas, das man reduzieren will (voice/mood swap). Option c ist eine causal-reversal-Falle: Abonnentenzahlen werden nie als Grund genannt. [Trap: voice/mood swap (a), causal reversal (c)]",
+              "audioTimestamp": null
+            }
+          ]
+        },
+        {
+          "partNumber": 3,
+          "instructions": "Sie lesen zehn Situationen (1–10) und zwölf kurze Anzeigen (a–l). Welche Anzeige passt zu welcher Situation? Für jede Situation gibt es genau eine passende Anzeige. Zwei Anzeigen bleiben übrig. Wenn keine Anzeige passt, schreiben Sie 'x'.",
+          "instructionsTranslation": "You read ten situations (1–10) and twelve short advertisements (a–l). Which advertisement matches which situation? For each situation there is exactly one matching advertisement. Two advertisements remain unused. If no advertisement fits, write 'x'.",
+          "texts": [
+            { "id": "B1_m15_R3_ad_a", "type": "ad", "content": "a) SMARTPHONE-REPARATUR EXPRESS — Bildschirm, Akku, Ladeanschluss: Reparatur meist am selben Tag. Kostenloser Kostenvoranschlag. Alle Marken. Stadtmitte, Kaiserstraße 18. Tel. 0421 / 887 44 33." },
+            { "id": "B1_m15_R3_ad_b", "type": "ad", "content": "b) ONLINE-KURS: Programmieren für Einsteiger — Python und HTML in 8 Wochen. Live-Sessions dienstags 18 Uhr + aufgezeichnete Lektionen. Zertifikat nach Abschluss. Anmeldung: digitalkurs.de" },
+            { "id": "B1_m15_R3_ad_c", "type": "ad", "content": "c) StreamPlus — Ihr neues Streaming-Abo: Filme, Serien, Dokumentationen. Erste 30 Tage kostenlos. Danach 9,99 €/Monat, monatlich kündbar. Bis zu 4 Geräte gleichzeitig. Jetzt starten: streamplus.de" },
+            { "id": "B1_m15_R3_ad_d", "type": "ad", "content": "d) PODCAST-WORKSHOP — Ihr eigener Podcast in einem Tag! Aufnehmen, schneiden, veröffentlichen. Samstag 10–17 Uhr, max. 8 Teilnehmer. Eigenes Laptop mitbringen. Anmeldung und Infos: podcaststudio.de" },
+            { "id": "B1_m15_R3_ad_e", "type": "ad", "content": "e) Stadtbibliothek digital — Kostenlos E-Books, Hörbücher und Zeitungen ausleihen. Bibliotheksausweis reicht. App für iOS und Android. Kein Warten, kein Rückgabedatum. Info: stadtbibliothek-app.de" },
+            { "id": "B1_m15_R3_ad_f", "type": "ad", "content": "f) DATENSCHUTZ-BERATUNG ONLINE — Individuelle Beratung für Privatpersonen und Selbstständige. Wie schütze ich meine Daten? Was passiert mit meinen Profildaten in sozialen Netzwerken? Termin buchen: datenschutz-hilfe.de" },
+            { "id": "B1_m15_R3_ad_g", "type": "ad", "content": "g) SOCIAL-MEDIA-COACHING für Selbstständige — Mehr Reichweite auf Instagram, LinkedIn und TikTok. Strategie, Content-Planung, Analyse. Erstgespräch kostenlos. Kontakt: coach@mediastrateg.de" },
+            { "id": "B1_m15_R3_ad_h", "type": "ad", "content": "h) FOTO-SERVICE digital — Alte Fotos und Dias scannen und digitalisieren lassen. Auch Restaurierung beschädigter Bilder. Abgabe im Geschäft oder per Post. Preisliste: fotodigital.de" },
+            { "id": "B1_m15_R3_ad_i", "type": "ad", "content": "i) CLOUD-SPEICHER SicherMax — 100 GB für 1,99 €/Monat. Automatisches Backup für Fotos, Videos und Dokumente. Zugriff von allen Geräten. Keine Werbung, verschlüsselt gespeichert. sichermax.de" },
+            { "id": "B1_m15_R3_ad_j", "type": "ad", "content": "j) INTERNETANBIETER Direktnetz — Glasfaser bis 1.000 Mbit/s. Jetzt in Ihrer Region verfügbar! Erste 3 Monate zum halben Preis. Keine Mindestvertragslaufzeit. Beratung: 0800 / 445 22 11 (kostenlos)" },
+            { "id": "B1_m15_R3_ad_k", "type": "ad", "content": "k) SMART-HOME INSTALLATION — Steuern Sie Licht, Heizung und Sicherheitskamera per App. Professionelle Einrichtung und Einweisung inklusive. Kostenloser Hausbesuch zur Beratung. Tel. 030 / 992 77 55" },
+            { "id": "B1_m15_R3_ad_l", "type": "ad", "content": "l) SENIOREN-INTERNET-HILFE — Ehrenamtliche Helfer erklären Tablet, Smartphone und Internet. Kurs jeden Mittwoch 14–16 Uhr im Bürgerhaus Südpark, Raum 3. Anmeldung beim Seniorenbeirat: 0511 / 334 88 12" }
+          ],
+          "questions": [
+            {
+              "id": "B1_m15_R3_q1",
+              "type": "matching",
+              "questionText": "1. Das Display seines Smartphones ist nach einem Sturz gesprungen. Er braucht die Reparatur möglichst schnell, da er das Gerät beruflich täglich braucht.",
+              "matchingSources": [
+                { "id": "B1_m15_R3_ad_a", "label": "a" }, { "id": "B1_m15_R3_ad_b", "label": "b" },
+                { "id": "B1_m15_R3_ad_c", "label": "c" }, { "id": "B1_m15_R3_ad_d", "label": "d" },
+                { "id": "B1_m15_R3_ad_e", "label": "e" }, { "id": "B1_m15_R3_ad_f", "label": "f" },
+                { "id": "B1_m15_R3_ad_g", "label": "g" }, { "id": "B1_m15_R3_ad_h", "label": "h" },
+                { "id": "B1_m15_R3_ad_i", "label": "i" }, { "id": "B1_m15_R3_ad_j", "label": "j" },
+                { "id": "B1_m15_R3_ad_k", "label": "k" }, { "id": "B1_m15_R3_ad_l", "label": "l" }
+              ],
+              "correctAnswer": "a",
+              "explanation": "Anzeige a) bietet Smartphone-Reparatur meist am selben Tag für alle Marken — ideal für jemanden, der das Gerät dringend wieder braucht. Anzeige k (Smart Home) betrifft keine Reparatur."
+            },
+            {
+              "id": "B1_m15_R3_q2",
+              "type": "matching",
+              "questionText": "2. Sie möchte gerne einen eigenen Podcast über Reisen starten, hat aber keine technischen Kenntnisse. Sie sucht einen Kurs, bei dem sie in kurzer Zeit alles Notwendige lernt.",
+              "matchingSources": [
+                { "id": "B1_m15_R3_ad_a", "label": "a" }, { "id": "B1_m15_R3_ad_b", "label": "b" },
+                { "id": "B1_m15_R3_ad_c", "label": "c" }, { "id": "B1_m15_R3_ad_d", "label": "d" },
+                { "id": "B1_m15_R3_ad_e", "label": "e" }, { "id": "B1_m15_R3_ad_f", "label": "f" },
+                { "id": "B1_m15_R3_ad_g", "label": "g" }, { "id": "B1_m15_R3_ad_h", "label": "h" },
+                { "id": "B1_m15_R3_ad_i", "label": "i" }, { "id": "B1_m15_R3_ad_j", "label": "j" },
+                { "id": "B1_m15_R3_ad_k", "label": "k" }, { "id": "B1_m15_R3_ad_l", "label": "l" }
+              ],
+              "correctAnswer": "d",
+              "explanation": "Anzeige d) ist genau ein Tagesworkshop: Aufnehmen, schneiden, veröffentlichen — alles an einem Tag. Perfekt für jemanden ohne Vorkenntnisse. Anzeige b (Programmierkurs) dauert 8 Wochen und deckt Podcasting nicht ab."
+            },
+            {
+              "id": "B1_m15_R3_q3",
+              "type": "matching",
+              "questionText": "3. Herr Fink arbeitet freiberuflich als Fotograf und hat Bedenken, dass seine Kundendaten in sozialen Netzwerken nicht sicher sind. Er möchte sich professionell beraten lassen.",
+              "matchingSources": [
+                { "id": "B1_m15_R3_ad_a", "label": "a" }, { "id": "B1_m15_R3_ad_b", "label": "b" },
+                { "id": "B1_m15_R3_ad_c", "label": "c" }, { "id": "B1_m15_R3_ad_d", "label": "d" },
+                { "id": "B1_m15_R3_ad_e", "label": "e" }, { "id": "B1_m15_R3_ad_f", "label": "f" },
+                { "id": "B1_m15_R3_ad_g", "label": "g" }, { "id": "B1_m15_R3_ad_h", "label": "h" },
+                { "id": "B1_m15_R3_ad_i", "label": "i" }, { "id": "B1_m15_R3_ad_j", "label": "j" },
+                { "id": "B1_m15_R3_ad_k", "label": "k" }, { "id": "B1_m15_R3_ad_l", "label": "l" }
+              ],
+              "correctAnswer": "f",
+              "explanation": "Anzeige f) bietet Datenschutzberatung explizit auch für Selbstständige und geht auf Profildaten in sozialen Netzwerken ein — genau Herrn Finks Anliegen. Anzeige g (Social-Media-Coaching) hilft bei Reichweite, nicht bei Datenschutz."
+            },
+            {
+              "id": "B1_m15_R3_q4",
+              "type": "matching",
+              "questionText": "4. Frau Meier ist selbstständige Innenarchitektin und möchte auf Instagram und LinkedIn sichtbarer werden, um mehr Kunden zu gewinnen.",
+              "matchingSources": [
+                { "id": "B1_m15_R3_ad_a", "label": "a" }, { "id": "B1_m15_R3_ad_b", "label": "b" },
+                { "id": "B1_m15_R3_ad_c", "label": "c" }, { "id": "B1_m15_R3_ad_d", "label": "d" },
+                { "id": "B1_m15_R3_ad_e", "label": "e" }, { "id": "B1_m15_R3_ad_f", "label": "f" },
+                { "id": "B1_m15_R3_ad_g", "label": "g" }, { "id": "B1_m15_R3_ad_h", "label": "h" },
+                { "id": "B1_m15_R3_ad_i", "label": "i" }, { "id": "B1_m15_R3_ad_j", "label": "j" },
+                { "id": "B1_m15_R3_ad_k", "label": "k" }, { "id": "B1_m15_R3_ad_l", "label": "l" }
+              ],
+              "correctAnswer": "g",
+              "explanation": "Anzeige g) bietet Social-Media-Coaching für Selbstständige mit Fokus auf Instagram und LinkedIn — passt exakt zu Frau Meiers Ziel. Anzeige f (Datenschutz) betrifft nicht die Reichweite."
+            },
+            {
+              "id": "B1_m15_R3_q5",
+              "type": "matching",
+              "questionText": "5. Jonas fotografiert seine Familie seit 20 Jahren auf Papierfotos und alten Dias. Er möchte diese Erinnerungen digitalisieren, damit sie nicht verloren gehen.",
+              "matchingSources": [
+                { "id": "B1_m15_R3_ad_a", "label": "a" }, { "id": "B1_m15_R3_ad_b", "label": "b" },
+                { "id": "B1_m15_R3_ad_c", "label": "c" }, { "id": "B1_m15_R3_ad_d", "label": "d" },
+                { "id": "B1_m15_R3_ad_e", "label": "e" }, { "id": "B1_m15_R3_ad_f", "label": "f" },
+                { "id": "B1_m15_R3_ad_g", "label": "g" }, { "id": "B1_m15_R3_ad_h", "label": "h" },
+                { "id": "B1_m15_R3_ad_i", "label": "i" }, { "id": "B1_m15_R3_ad_j", "label": "j" },
+                { "id": "B1_m15_R3_ad_k", "label": "k" }, { "id": "B1_m15_R3_ad_l", "label": "l" }
+              ],
+              "correctAnswer": "h",
+              "explanation": "Anzeige h) bietet genau das: Fotos und Dias scannen und digitalisieren. Anzeige i (Cloud-Speicher) hilft beim Speichern digitaler Dateien, nicht beim Digitalisieren analoger Fotos."
+            },
+            {
+              "id": "B1_m15_R3_q6",
+              "type": "matching",
+              "questionText": "6. Die Familie Gruber hat sehr viele Urlaubsvideos und Fotos auf dem Smartphone, aber der Speicher ist immer voll. Sie möchte eine günstige Lösung, auf die alle Familienmitglieder zugreifen können.",
+              "matchingSources": [
+                { "id": "B1_m15_R3_ad_a", "label": "a" }, { "id": "B1_m15_R3_ad_b", "label": "b" },
+                { "id": "B1_m15_R3_ad_c", "label": "c" }, { "id": "B1_m15_R3_ad_d", "label": "d" },
+                { "id": "B1_m15_R3_ad_e", "label": "e" }, { "id": "B1_m15_R3_ad_f", "label": "f" },
+                { "id": "B1_m15_R3_ad_g", "label": "g" }, { "id": "B1_m15_R3_ad_h", "label": "h" },
+                { "id": "B1_m15_R3_ad_i", "label": "i" }, { "id": "B1_m15_R3_ad_j", "label": "j" },
+                { "id": "B1_m15_R3_ad_k", "label": "k" }, { "id": "B1_m15_R3_ad_l", "label": "l" }
+              ],
+              "correctAnswer": "i",
+              "explanation": "Anzeige i) bietet 100 GB Cloud-Speicher für 1,99 €/Monat mit automatischem Backup und Zugriff von allen Geräten — günstig und familientauglich. Anzeige h (Foto-Service) digitalisiert analoge Fotos, löst aber kein Smartphone-Speicherproblem."
+            },
+            {
+              "id": "B1_m15_R3_q7",
+              "type": "matching",
+              "questionText": "7. Herr Kaminski ist vor einem Monat in eine neue Wohnung gezogen. Das Internet ist sehr langsam und er arbeitet oft im Homeoffice. Er möchte zu einem schnelleren Anbieter wechseln.",
+              "matchingSources": [
+                { "id": "B1_m15_R3_ad_a", "label": "a" }, { "id": "B1_m15_R3_ad_b", "label": "b" },
+                { "id": "B1_m15_R3_ad_c", "label": "c" }, { "id": "B1_m15_R3_ad_d", "label": "d" },
+                { "id": "B1_m15_R3_ad_e", "label": "e" }, { "id": "B1_m15_R3_ad_f", "label": "f" },
+                { "id": "B1_m15_R3_ad_g", "label": "g" }, { "id": "B1_m15_R3_ad_h", "label": "h" },
+                { "id": "B1_m15_R3_ad_i", "label": "i" }, { "id": "B1_m15_R3_ad_j", "label": "j" },
+                { "id": "B1_m15_R3_ad_k", "label": "k" }, { "id": "B1_m15_R3_ad_l", "label": "l" }
+              ],
+              "correctAnswer": "j",
+              "explanation": "Anzeige j) bietet Glasfaser bis 1.000 Mbit/s, keine Mindestvertragslaufzeit und kostenlose Beratung — ideal für einen Umzug und den Wechsel zu schnellerem Internet."
+            },
+            {
+              "id": "B1_m15_R3_q8",
+              "type": "matching",
+              "questionText": "8. Frau Schreiber (72) hat von ihrer Tochter ein Tablet geschenkt bekommen, weiß aber nicht, wie sie damit Video-Anrufe machen oder E-Mails schreiben kann. Sie sucht Hilfe in ihrer Nähe.",
+              "matchingSources": [
+                { "id": "B1_m15_R3_ad_a", "label": "a" }, { "id": "B1_m15_R3_ad_b", "label": "b" },
+                { "id": "B1_m15_R3_ad_c", "label": "c" }, { "id": "B1_m15_R3_ad_d", "label": "d" },
+                { "id": "B1_m15_R3_ad_e", "label": "e" }, { "id": "B1_m15_R3_ad_f", "label": "f" },
+                { "id": "B1_m15_R3_ad_g", "label": "g" }, { "id": "B1_m15_R3_ad_h", "label": "h" },
+                { "id": "B1_m15_R3_ad_i", "label": "i" }, { "id": "B1_m15_R3_ad_j", "label": "j" },
+                { "id": "B1_m15_R3_ad_k", "label": "k" }, { "id": "B1_m15_R3_ad_l", "label": "l" }
+              ],
+              "correctAnswer": "l",
+              "explanation": "Anzeige l) richtet sich explizit an Senioren, bietet ehrenamtliche Hilfe bei Tablet und Smartphone und findet im Bürgerhaus statt — lokal und zugänglich. Anzeige b (Programmierkurs) ist für Einsteiger, aber nicht für Senioren mit Basisfragen."
+            },
+            {
+              "id": "B1_m15_R3_q9",
+              "type": "matching",
+              "questionText": "9. Herr Stein möchte gerne Serien und Filme legal online sehen, ohne lange gebunden zu sein. Er testet gerne erst kostenlos, bevor er zahlt.",
+              "matchingSources": [
+                { "id": "B1_m15_R3_ad_a", "label": "a" }, { "id": "B1_m15_R3_ad_b", "label": "b" },
+                { "id": "B1_m15_R3_ad_c", "label": "c" }, { "id": "B1_m15_R3_ad_d", "label": "d" },
+                { "id": "B1_m15_R3_ad_e", "label": "e" }, { "id": "B1_m15_R3_ad_f", "label": "f" },
+                { "id": "B1_m15_R3_ad_g", "label": "g" }, { "id": "B1_m15_R3_ad_h", "label": "h" },
+                { "id": "B1_m15_R3_ad_i", "label": "i" }, { "id": "B1_m15_R3_ad_j", "label": "j" },
+                { "id": "B1_m15_R3_ad_k", "label": "k" }, { "id": "B1_m15_R3_ad_l", "label": "l" }
+              ],
+              "correctAnswer": "c",
+              "explanation": "Anzeige c) StreamPlus bietet 30 Tage kostenlos, danach monatlich kündbar — ideal für jemanden, der erst testen möchte. Anzeige e (Bibliothek-App) bietet E-Books und Hörbücher, aber keine Serien oder Filme."
+            },
+            {
+              "id": "B1_m15_R3_q10",
+              "type": "matching",
+              "questionText": "10. Frau Holt liest sehr gerne, hat aber keine Zeit, regelmäßig in die Bibliothek zu gehen. Sie möchte kostenlos Bücher und Zeitungen digital lesen.",
+              "matchingSources": [
+                { "id": "B1_m15_R3_ad_a", "label": "a" }, { "id": "B1_m15_R3_ad_b", "label": "b" },
+                { "id": "B1_m15_R3_ad_c", "label": "c" }, { "id": "B1_m15_R3_ad_d", "label": "d" },
+                { "id": "B1_m15_R3_ad_e", "label": "e" }, { "id": "B1_m15_R3_ad_f", "label": "f" },
+                { "id": "B1_m15_R3_ad_g", "label": "g" }, { "id": "B1_m15_R3_ad_h", "label": "h" },
+                { "id": "B1_m15_R3_ad_i", "label": "i" }, { "id": "B1_m15_R3_ad_j", "label": "j" },
+                { "id": "B1_m15_R3_ad_k", "label": "k" }, { "id": "B1_m15_R3_ad_l", "label": "l" }
+              ],
+              "correctAnswer": "e",
+              "explanation": "Anzeige e) Stadtbibliothek digital: kostenlos E-Books, Hörbücher und Zeitungen ausleihen, nur Bibliotheksausweis nötig, App für Smartphones — kein Gang zur Bibliothek nötig. Anzeige c (StreamPlus) bietet keine Bücher oder Zeitungen."
+            }
+          ]
+        }
+      ]
+    },
+    "sprachbausteine": {
+      "parts": [
+        {
+          "partNumber": 1,
+          "instructions": "Lesen Sie den folgenden Text und entscheiden Sie, welches Wort (a, b oder c) in die Lücke passt. Es gibt jeweils nur eine richtige Lösung.",
+          "text": "Lieber Tom,\n\nstell dir vor, was ich letzte Woche gemacht habe: eine komplette Smartphone-Detox-Woche! Sieben Tage __(1)__ Handy. Ich weiß, das klingt verrückt, aber ich wollte einfach mal wissen, __(2)__ das überhaupt geht.\n\nAngefangen hat alles, __(3)__ mir aufgefallen ist, dass ich beim Abendessen ständig aufs Display geschaut habe, obwohl nichts Wichtiges passiert ist. Ich habe __(4)__ dann ein Buch über digitalen Minimalismus gekauft und beschlossen, es einfach auszuprobieren.\n\nDie ersten zwei Tage waren echt schwierig. Ich war unruhig und habe mich die ganze Zeit gefragt, ob ich etwas __(5)__. Aber ab dem dritten Tag hat __(6)__ etwas verändert. Ich habe wieder mehr __(7)__ gehabt — für Spaziergänge, für Gespräche, für Kochen. Am Abend habe ich Bücher __(8)__ wie früher.\n\nNatürlich gibt es auch praktische Schwierigkeiten: Ohne Karte konnte ich __(9)__ im fremden Stadtteil schnell orientieren. Ich musste Leute fragen — so altmodisch! Aber ehrlich gesagt war das auch irgendwie schön.\n\nWenn du auch mal eine Pause brauchst, __(10)__ ich dir das wirklich empfehlen. Man merkt erst dann, wie sehr man eigentlich abhängig ist.\n\nLiebe Grüße,\nKim",
+          "questions": [
+            {
+              "blankNumber": 1,
+              "type": "mcq",
+              "options": ["a) ohne", "b) kein", "c) nicht"],
+              "correctAnswer": "a",
+              "explanation": "'ohne' + Akkusativ ohne Artikel: 'ohne Handy' = without a phone. 'kein' bräuchte ein Verb: 'ich habe kein Handy genutzt'. 'nicht' verneint ein Verb, nicht ein Nomen alleinstehend in dieser Konstruktion."
+            },
+            {
+              "blankNumber": 2,
+              "type": "mcq",
+              "options": ["a) was", "b) ob", "c) wie"],
+              "correctAnswer": "b",
+              "explanation": "Indirekte Ja/Nein-Frage: 'wissen, ob das geht.' 'ob' leitet indirekte Fragen ein, bei denen die Antwort ja oder nein ist. 'was' leitet Ergänzungsfragen ein. 'wie' fragt nach der Art und Weise."
+            },
+            {
+              "blankNumber": 3,
+              "type": "mcq",
+              "options": ["a) weil", "b) als", "c) wenn"],
+              "correctAnswer": "b",
+              "explanation": "Einmaliges Ereignis in der Vergangenheit: 'als mir aufgefallen ist ...' — 'als' steht für einmalige Vergangenheit. 'wenn' steht für Gegenwart/Zukunft oder wiederholte Vergangenheit. 'weil' nennt einen Grund, nicht ein auslösendes Ereignis."
+            },
+            {
+              "blankNumber": 4,
+              "type": "mcq",
+              "options": ["a) mir", "b) mich", "c) sich"],
+              "correctAnswer": "a",
+              "explanation": "'sich etwas kaufen' — bei reflexiven Dativkonstruktionen mit 'kaufen' steht das Reflexivpronomen im Dativ: 1. Person Singular = 'mir'. 'Ich habe mir dann ein Buch gekauft.' 'mich' (Akkusativ) wäre für Reflexivverben, bei denen das Reflexivpronomen im Akkusativ steht. 'sich' wäre 3. Person."
+            },
+            {
+              "blankNumber": 5,
+              "type": "mcq",
+              "options": ["a) verpassen", "b) verpasst", "c) verpasse"],
+              "correctAnswer": "b",
+              "explanation": "Indirekte Frage im Perfekt-Kontext: 'ob ich etwas verpasst [habe]' — Partizip II nach dem Hilfsverb 'habe'. 'verpassen' wäre Infinitiv, 'verpasse' Präsens."
+            },
+            {
+              "blankNumber": 6,
+              "type": "mcq",
+              "options": ["a) mir", "b) mich", "c) sich"],
+              "correctAnswer": "c",
+              "explanation": "Reflexivverb 'sich verändern', 3. Person Singular Subjekt 'etwas': 'hat sich etwas verändert'. 'mir' und 'mich' wären 1. Person. 'sich' ist das korrekte Reflexivpronomen für 3. Person."
+            },
+            {
+              "blankNumber": 7,
+              "type": "mcq",
+              "options": ["a) Zeit", "b) Lust", "c) Mut"],
+              "correctAnswer": "a",
+              "explanation": "'mehr Zeit gehabt für Spaziergänge' — Kollokation: Zeit haben für etwas. 'Lust haben' passt inhaltlich, aber 'Lust für' ist unüblich (man sagt 'Lust auf'). 'Mut haben für' ergibt keinen logischen Sinn im Kontext einer Detox-Woche."
+            },
+            {
+              "blankNumber": 8,
+              "type": "mcq",
+              "options": ["a) gelesen", "b) lesen", "c) las"],
+              "correctAnswer": "a",
+              "explanation": "Perfekt: 'habe ... gelesen' — Partizip II von 'lesen'. 'lesen' wäre Infinitiv, 'las' ist Präteritum (kein Hilfsverb davor möglich: *'habe las' ist falsch)."
+            },
+            {
+              "blankNumber": 9,
+              "type": "mcq",
+              "options": ["a) mich", "b) mir", "c) ich"],
+              "correctAnswer": "a",
+              "explanation": "'sich orientieren' — Akkusativ-Reflexivpronomen: 'ich konnte mich orientieren'. 'mir' wäre Dativ (falsch für 'sich orientieren'). 'ich' ist Nominativ, kein Reflexivpronomen."
+            },
+            {
+              "blankNumber": 10,
+              "type": "mcq",
+              "options": ["a) kann", "b) würde", "c) möchte"],
+              "correctAnswer": "b",
+              "explanation": "Höfliche Empfehlung mit Konjunktiv II: 'würde ich dir das empfehlen.' 'kann' (Indikativ) klingt zu direkt und passt stilistisch nicht. 'möchte empfehlen' ist auch möglich, aber 'würde ... empfehlen' ist die typische B1-Konstruktion für Ratschläge im Konjunktiv II."
+            }
+          ]
+        },
+        {
+          "partNumber": 2,
+          "instructions": "Lesen Sie den folgenden Text. Welches Wort aus der Liste A–P passt in die Lücken? Jedes Wort passt nur einmal. Fünf Wörter bleiben übrig.",
+          "text": "Sehr geehrte Damen und Herren,\n\nmit diesem Schreiben wende ich mich __(11)__ Sie, um eine Unklarheit bezüglich meines Abonnements zu klären. Ich bin seit __(12)__ Juli dieses Jahres Kunde Ihres Streaming-Dienstes und habe das Monatsabo für 9,99 Euro gebucht.\n\nIn meiner letzten Kontoabrechnung musste ich __(13)__ feststellen, dass im vergangenen Monat zweimal ein Betrag von 9,99 Euro abgebucht wurde. Ich habe __(14)__ geprüft, ob dies ein technischer Fehler sein könnte, aber in meinem Kundenkonto ist nur ein aktives Abonnement sichtbar.\n\n__(15)__ diesem Grund bitte ich Sie, die doppelte Abbuchung zu überprüfen und mir — sofern tatsächlich ein Fehler vorliegt — den zu viel abgebuchten Betrag zu erstatten. __(16)__ wäre es hilfreich zu wissen, ob Sie mein Konto auf weitere ungewöhnliche Transaktionen prüfen können.\n\nIch __(17)__ mich sehr über eine schnelle Rückmeldung, da ich meinen nächsten Kontoauszug bereits Mitte des Monats erhalte. Bitte teilen Sie mir auch mit, __(18)__ welchem Zeitraum ich mit einer Antwort rechnen kann.\n\nFür Ihre Unterstützung bedanke ich __(19)__ im Voraus und hoffe auf eine unkomplizierte __(20)__.\n\nMit freundlichen Grüßen\nAnna Berger",
+          "questions": [
+            {
+              "blankNumber": 11,
+              "type": "word_bank",
+              "options": [
+                "A) an", "B) seit", "C) leider", "D) Außerdem", "E) in",
+                "F) freue", "G) mich", "H) Regelung", "I) Aus", "J) bereits",
+                "K) bis", "L) innerhalb", "M) selbst", "N) um", "O) ob", "P) ab"
+              ],
+              "correctAnswer": "A",
+              "explanation": "Feste Formel: 'sich wenden an + Akkusativ': 'wende ich mich an Sie.' Die Präposition 'an' ist bei diesem Reflexivverb fest. Distraktor N ('um') steht bei 'bitten um etwas', nicht bei 'sich wenden'. Distraktor E ('in') ergibt 'wende ich mich in Sie' — grammatisch falsch."
+            },
+            {
+              "blankNumber": 12,
+              "type": "word_bank",
+              "options": [
+                "A) an", "B) seit", "C) leider", "D) Außerdem", "E) in",
+                "F) freue", "G) mich", "H) Regelung", "I) Aus", "J) bereits",
+                "K) bis", "L) innerhalb", "M) selbst", "N) um", "O) ob", "P) ab"
+              ],
+              "correctAnswer": "P",
+              "explanation": "'ab Juli dieses Jahres' = seit Vertragsbeginn im Juli — in Geschäftsbriefen bei Datum des Vertragsbeginns ist 'ab + Monat' die übliche Formulierung. 'seit' (B) wäre ebenfalls grammatisch möglich, passt aber idiomatisch weniger gut zum fixen Startdatum eines Vertrags."
+            },
+            {
+              "blankNumber": 13,
+              "type": "word_bank",
+              "options": [
+                "A) an", "B) seit", "C) leider", "D) Außerdem", "E) in",
+                "F) freue", "G) mich", "H) Regelung", "I) Aus", "J) bereits",
+                "K) bis", "L) innerhalb", "M) selbst", "N) um", "O) ob", "P) ab"
+              ],
+              "correctAnswer": "C",
+              "explanation": "Adverb 'leider' drückt Bedauern aus: 'musste ich leider feststellen, dass ...' — typische Formulierung in Beschwerde- und Reklamationsschreiben. 'bereits' (J) wäre auch möglich ('bereits feststellen'), aber 'leider' passt besser zum Ton der Beschwerde."
+            },
+            {
+              "blankNumber": 14,
+              "type": "word_bank",
+              "options": [
+                "A) an", "B) seit", "C) leider", "D) Außerdem", "E) in",
+                "F) freue", "G) mich", "H) Regelung", "I) Aus", "J) bereits",
+                "K) bis", "L) innerhalb", "M) selbst", "N) um", "O) ob", "P) ab"
+              ],
+              "correctAnswer": "M",
+              "explanation": "'ich habe selbst geprüft' — Partikel 'selbst' betont, dass die Person eigenständig gehandelt hat, ohne fremde Hilfe. Distraktor J ('bereits') wäre: 'habe bereits geprüft' — zeitlich, aber der Kontext betont Eigeninitiative, nicht den Zeitpunkt."
+            },
+            {
+              "blankNumber": 15,
+              "type": "word_bank",
+              "options": [
+                "A) an", "B) seit", "C) leider", "D) Außerdem", "E) in",
+                "F) freue", "G) mich", "H) Regelung", "I) Aus", "J) bereits",
+                "K) bis", "L) innerhalb", "M) selbst", "N) um", "O) ob", "P) ab"
+              ],
+              "correctAnswer": "I",
+              "explanation": "'Aus diesem Grund ...' = formelle Übergangsformel in Geschäftsbriefen (= deshalb, daher). 'Aus' + Dativ in dieser Konstruktion ist fest. Distraktor 'In' (E) ergibt 'In diesem Grund' — grammatisch falsch."
+            },
+            {
+              "blankNumber": 16,
+              "type": "word_bank",
+              "options": [
+                "A) an", "B) seit", "C) leider", "D) Außerdem", "E) in",
+                "F) freue", "G) mich", "H) Regelung", "I) Aus", "J) bereits",
+                "K) bis", "L) innerhalb", "M) selbst", "N) um", "O) ob", "P) ab"
+              ],
+              "correctAnswer": "D",
+              "explanation": "'Außerdem wäre es hilfreich ...' — formelle Übergangsformel, die einen zusätzlichen Punkt einleitet. 'Außerdem' (= in addition) ist typisch für Geschäftsbriefe. Distraktor A ('an') ergibt 'An wäre es hilfreich' — falsch."
+            },
+            {
+              "blankNumber": 17,
+              "type": "word_bank",
+              "options": [
+                "A) an", "B) seit", "C) leider", "D) Außerdem", "E) in",
+                "F) freue", "G) mich", "H) Regelung", "I) Aus", "J) bereits",
+                "K) bis", "L) innerhalb", "M) selbst", "N) um", "O) ob", "P) ab"
+              ],
+              "correctAnswer": "F",
+              "explanation": "'Ich freue mich sehr über eine schnelle Rückmeldung' — das Verb 'freuen' konjugiert in 1. Person Singular Präsens: 'freue'. Das Reflexivpronomen 'mich' folgt in blank 19. Kein anderes Wort aus der Liste passt als Verbform an dieser Stelle."
+            },
+            {
+              "blankNumber": 18,
+              "type": "word_bank",
+              "options": [
+                "A) an", "B) seit", "C) leider", "D) Außerdem", "E) in",
+                "F) freue", "G) mich", "H) Regelung", "I) Aus", "J) bereits",
+                "K) bis", "L) innerhalb", "M) selbst", "N) um", "O) ob", "P) ab"
+              ],
+              "correctAnswer": "L",
+              "explanation": "'innerhalb welchen Zeitraums ich mit einer Antwort rechnen kann' — 'innerhalb' + Genitiv drückt aus, in welchem Zeitfenster etwas zu erwarten ist. Typisch für Geschäftsbriefe: 'innerhalb von X Tagen' oder 'innerhalb welchen Zeitraums'. Distraktor K ('bis') würde 'bis wann' implizieren, ist aber nicht passend für eine offene Zeitraumfrage."
+            },
+            {
+              "blankNumber": 19,
+              "type": "word_bank",
+              "options": [
+                "A) an", "B) seit", "C) leider", "D) Außerdem", "E) in",
+                "F) freue", "G) mich", "H) Regelung", "I) Aus", "J) bereits",
+                "K) bis", "L) innerhalb", "M) selbst", "N) um", "O) ob", "P) ab"
+              ],
+              "correctAnswer": "G",
+              "explanation": "'bedanke ich mich im Voraus' — Reflexivpronomen 'mich' zu 'sich bedanken' (1. Person Singular). G) 'mich' ist korrekt. Distraktor A ('an') ergibt 'bedanke ich an' — falsch."
+            },
+            {
+              "blankNumber": 20,
+              "type": "word_bank",
+              "options": [
+                "A) an", "B) seit", "C) leider", "D) Außerdem", "E) in",
+                "F) freue", "G) mich", "H) Regelung", "I) Aus", "J) bereits",
+                "K) bis", "L) innerhalb", "M) selbst", "N) um", "O) ob", "P) ab"
+              ],
+              "correctAnswer": "H",
+              "explanation": "'hoffe auf eine unkomplizierte Regelung' — das Nomen 'Regelung' (= settlement, resolution) ist die typische Schlussformel in Reklamationsschreiben: 'ich hoffe auf eine schnelle/unkomplizierte Regelung.' Distraktor G ('mich') wurde bereits verwendet."
+            }
+          ]
+        }
+      ]
+    },
+    "writing": {
+      "totalTimeMinutes": 30,
+      "tasks": [
+        {
+          "taskNumber": 1,
+          "type": "letter",
+          "instructions": "Ihr Freund / Ihre Freundin Max/Mia hat Ihnen geschrieben und fragt, wie es Ihnen geht. Er/Sie hat gehört, dass Sie ein besonderes Erlebnis mit dem Internet oder sozialen Medien hatten. Schreiben Sie Ihrem Freund / Ihrer Freundin einen Brief. Gehen Sie auf alle vier Punkte ein. Achten Sie auf eine passende Anrede und einen passenden Gruß. Schreiben Sie ca. 150 Wörter.",
+          "instructionsTranslation": "Your friend Max/Mia has written to you and asks how you are doing. They heard you had an unusual experience with the internet or social media. Write a letter to your friend. Address all four points below. Use an appropriate greeting and closing. Write approximately 150 words.",
+          "prompt": "Max/Mia schreibt Ihnen:\n\n'Ich habe gehört, dass dir kürzlich etwas mit dem Internet oder deinem Smartphone passiert ist — erzähl mal! Ich bin neugierig, was das war.'\n\nSchreiben Sie Ihrem Freund / Ihrer Freundin einen Brief. Gehen Sie auf die folgenden vier Punkte ein:\n\n- Was ist genau passiert? (z.B. Handy verloren, Social-Media-Drama, Online-Kurs angefangen)\n- Wie haben Sie sich dabei gefühlt?\n- Was haben Sie daraus gelernt oder wie haben Sie das Problem gelöst?\n- Was planen Sie jetzt bezüglich Ihrer eigenen Mediennutzung?\n\nVergessen Sie nicht Anrede, Einleitung und Grußformel. Schreiben Sie ca. 150 Wörter.",
+          "promptTranslation": "Max/Mia writes to you:\n\n'I heard that something happened to you recently with the internet or your phone — tell me! I'm curious what it was.'\n\nWrite a letter to your friend. Address the following four points:\n\n- What exactly happened? (e.g. lost your phone, social-media drama, started an online course)\n- How did you feel about it?\n- What did you learn from it, or how did you solve the problem?\n- What are you planning now regarding your own media use?\n\nDon't forget greeting, introduction, and closing. Write approximately 150 words.",
+          "requiredPoints": [
+            "Konkretes Erlebnis mit Internet oder Smartphone beschreiben",
+            "Eigene Gefühle dabei schildern",
+            "Lösung oder Erkenntnis aus dem Erlebnis",
+            "Pläne oder Vorsätze zur eigenen Mediennutzung"
+          ],
+          "wordCountMin": 130,
+          "wordCountMax": 170,
+          "sampleAnswer": "Liebe Mia,\n\ndanke für deine Nachricht – es ist schön, von dir zu hören! Du fragst nach meinem Erlebnis. Also: Letzte Woche habe ich mein Smartphone verloren. Ich habe es im Bus liegen gelassen und erst zuhause gemerkt. Zuerst war ich total gestresst – all meine Kontakte, Fotos, Termine waren weg. Ohne Handy bin ich morgens nicht mal aufgewacht, weil mein Wecker auf dem Gerät war!\n\nZum Glück hat jemand das Handy beim Busunternehmen abgegeben. Ich habe gelernt: wichtige Daten regelmäßig sichern und eine Backup-Weckoption haben. Es war ehrlich gesagt auch irgendwie erholsam, einen Tag lang nicht erreichbar zu sein.\n\nJetzt plane ich, wichtige Fotos automatisch in der Cloud zu speichern und abends das Handy eine Stunde früher wegzulegen. Man gewöhnt sich doch zu sehr daran!\n\nLiebe Grüße,\nJulia",
+          "scoringCriteria": [
+            {
+              "criterion": "I. Inhaltliche Vollständigkeit",
+              "maxPoints": 15,
+              "description": "Alle vier Leitpunkte (Erlebnis, Gefühle, Erkenntnis/Lösung, Pläne zur Mediennutzung) klar behandelt. Wird einer als nicht bearbeitet (D) bewertet, erhält der Text 0 Punkte."
+            },
+            {
+              "criterion": "II. Kommunikative Gestaltung",
+              "maxPoints": 15,
+              "description": "Persönlicher Ton, angemessene Anrede ('Liebe/r ...'), logische Übergänge, passende Grußformel. Typische Brieffloskeln und Konnektoren (also, dann, zum Glück, ehrlich gesagt, jetzt)."
+            },
+            {
+              "criterion": "III. Formale Richtigkeit",
+              "maxPoints": 15,
+              "description": "Grammatik, Rechtschreibung, Wortwahl auf B1-Niveau. Korrekte Zeitformen (Perfekt für Vergangenes, Präsens für Pläne), Kasus nach Präpositionen, korrekte Nebensatzstellung."
+            }
+          ]
+        }
+      ]
+    },
+    "speaking": {
+      "totalTimeMinutes": 15,
+      "prepTimeMinutes": 20,
+      "parts": [
+        {
+          "partNumber": 1,
+          "type": "introduce",
+          "instructions": "Stellen Sie sich Ihrem Gesprächspartner/Ihrer Gesprächspartnerin vor. Sprechen Sie über sich: Name, Herkunft, Wohnort, Familie, Beruf oder Ausbildung, Hobbys und Sprachen. Stellen Sie anschließend Ihrem Partner/Ihrer Partnerin mindestens zwei Fragen.",
+          "instructionsTranslation": "Introduce yourself to your conversation partner. Talk about: name, origin, place of residence, family, work or education, hobbies, and languages. Afterwards ask your partner at least two questions.",
+          "prompt": "Bitte stellen Sie sich Ihrem Partner / Ihrer Partnerin vor. Sprechen Sie u.a. über:\n- Ihren Namen und Ihre Herkunft\n- Ihren aktuellen Wohnort und seit wann Sie dort leben\n- Ihre Familie\n- Ihren Beruf oder Ihr Studium\n- Ihre Hobbys und Interessen — vor allem, wie Sie Medien nutzen\n- Die Sprachen, die Sie sprechen\n\nStellen Sie danach Ihrem Partner / Ihrer Partnerin mindestens zwei Fragen.",
+          "sampleResponse": "Guten Tag, ich heiße Sara Novak und komme aus Bratislava. Vor zwei Jahren bin ich nach Hamburg gezogen, wo ich jetzt Medieninformatik im dritten Semester studiere. Meine Familie lebt noch in der Slowakei — ich skype fast jede Woche mit meinen Eltern. In meiner Freizeit schaue ich gern Dokumentationen auf einem Streaming-Dienst und höre Podcasts über Technologie. Ich bin auch auf Instagram, aber ich versuche, bewusster damit umzugehen — höchstens dreißig Minuten pro Tag. Deutsch spreche ich seit drei Jahren, Englisch fließend, und ein bisschen Spanisch. Und du: Nutzt du lieber Streaming-Dienste oder schaust du noch lineares Fernsehen? Und hast du schon mal einen digitalen Detox versucht?",
+          "evaluationTips": [
+            "Strukturieren Sie die Vorstellung: Name → Herkunft → Wohnort → Beruf/Studium → Hobbys → Sprachen",
+            "Bauen Sie Medienbezug ein, das passt zum Thema dieser Prüfung",
+            "Stellen Sie echte Fragen, die ein Gespräch einladen",
+            "Verwenden Sie Nebensätze (weil, wo, der/die/das) für B1-Niveau",
+            "Nennen Sie konkrete Details: Studiengang, Plattform, Minutenzahl"
+          ],
+          "keyPhrases": [
+            "Ich heiße ... und komme aus ...",
+            "Seit ... Jahren studiere/arbeite ich ...",
+            "In meiner Freizeit ...",
+            "Ich versuche, bewusster mit ... umzugehen",
+            "Neben Deutsch spreche ich ...",
+            "Hast du schon mal ... ausprobiert?"
+          ]
+        },
+        {
+          "partNumber": 2,
+          "type": "discussion",
+          "instructions": "Sie erhalten eine Grafik zum Thema Medien. Beschreiben Sie die Grafik für Ihren Partner, beantworten Sie die drei Leitfragen und tauschen Sie Ihre Meinung mit dem Partner aus.",
+          "instructionsTranslation": "You receive a chart on the topic of media. Describe the chart for your partner, answer the three guiding questions, and exchange your opinions with your partner.",
+          "prompt": "Thema: Medienkonsum nach Altersgruppen\n\nSie sehen eine Grafik: 'Durchschnittliche tägliche Bildschirmzeit nach Altersgruppe (Deutschland 2025)'\n\n- 14–24 Jahre: 6,2 Stunden\n- 25–34 Jahre: 5,8 Stunden\n- 35–49 Jahre: 4,1 Stunden\n- 50–64 Jahre: 2,9 Stunden\n- 65+ Jahre: 1,7 Stunden\n\nLeitfragen:\n1. Beschreiben Sie die Grafik kurz: Was fällt Ihnen auf? (2–3 Sätze)\n2. Wie viele Stunden Bildschirmzeit haben Sie persönlich pro Tag — und wie fühlen Sie sich dabei?\n3. Was sind Ihrer Meinung nach Gründe dafür, dass jüngere Menschen mehr Bildschirmzeit haben als ältere?\n\nSprechen Sie mit Ihrem Partner/Ihrer Partnerin über das Thema.",
+          "sampleResponse": "Die Grafik zeigt, wie viel Zeit verschiedene Altersgruppen in Deutschland täglich vor Bildschirmen verbringen. Auffällig ist, dass jüngere Menschen deutlich mehr Zeit am Bildschirm verbringen: 14- bis 24-Jährige über sechs Stunden, während Menschen über 65 nur eineinhalb Stunden täglich vor dem Bildschirm sitzen. Mit dem Alter nimmt die Bildschirmzeit also deutlich ab.\n\nIch persönlich bin ehrlich gesagt oft über vier Stunden am Handy oder Laptop — das ist mir manchmal selbst zu viel. Ich merke, dass ich danach müder und unkonzentrierter bin.\n\nFür die hohe Bildschirmzeit Jüngerer sehe ich mehrere Gründe: Erstens nutzen sie Smartphones für fast alles — Nachrichten, Unterhaltung, soziale Kontakte. Zweitens sind sie mit diesen Geräten aufgewachsen und kennen es gar nicht anders. Ältere hingegen haben viele Gewohnheiten ohne digitale Medien entwickelt. Was denkst du — ist sechs Stunden zu viel, oder ist das heute normal?",
+          "evaluationTips": [
+            "Beginnen Sie mit einer sachlichen Grafik-Beschreibung, bevor Sie Meinungen äußern",
+            "Nutzen Sie Vergleichsformulierungen: 'während', 'hingegen', 'im Vergleich zu'",
+            "Geben Sie Gründe mit 'weil', 'da', 'denn'",
+            "Sprechen Sie über persönliche Erfahrungen — konkret, nicht abstrakt",
+            "Stellen Sie am Ende eine Frage an den Partner"
+          ],
+          "keyPhrases": [
+            "Die Grafik zeigt, dass ...",
+            "Auffällig ist, dass ...",
+            "Im Vergleich dazu ...",
+            "Meiner Meinung nach liegt das daran, dass ...",
+            "Einerseits ..., andererseits ...",
+            "Was denkst du darüber?"
+          ]
+        },
+        {
+          "partNumber": 3,
+          "type": "planning",
+          "instructions": "Sie sollen mit Ihrem Partner gemeinsam etwas planen. Machen Sie Vorschläge, reagieren Sie auf die Ideen Ihres Partners und einigen Sie sich am Ende auf eine gemeinsame Lösung.",
+          "instructionsTranslation": "You are going to plan something together with your partner. Make suggestions, respond to your partner's ideas, and agree on a joint solution at the end.",
+          "prompt": "Sie und Ihr Partner / Ihre Partnerin möchten einen Lese-/Filmclub mit ein paar Freunden gründen. Ihr erstes Treffen soll in zwei Wochen sein.\n\nBesprechen Sie folgende Punkte und kommen Sie zu einer gemeinsamen Entscheidung:\n\n- Welches Buch oder welchen Film wählen Sie für das erste Treffen aus?\n- Wann und wo trifft sich die Gruppe — persönlich oder online?\n- Wie viele Personen werden eingeladen?\n- Wie soll die Diskussion gestaltet sein — freie Diskussion oder moderiert mit Leitfragen?\n- Wer übernimmt welche Aufgabe bis zum ersten Treffen?\n\nMachen Sie Vorschläge, gehen Sie auf die Ideen Ihres Partners ein und einigen Sie sich am Ende.",
+          "sampleResponse": "Also, ich würde vorschlagen, mit einem Roman anzufangen — etwas, das nicht zu lang ist, damit jeder bis in zwei Wochen fertig wird. Wie wäre es mit einem deutschen Gegenwartsroman, vielleicht von Juli Zeh? Ich habe gehört, ihre Bücher diskutiert man gut.\n\nZum Format: Ich finde persönliche Treffen schöner — man redet lebhafter. Wir könnten uns abwechselnd bei jemandem treffen, also beim ersten Mal bei mir. Wie viele Leute würdest du einladen? Ich denke, sechs bis acht sind ideal — nicht zu viel, damit alle zu Wort kommen.\n\nBei der Diskussion würde ich nicht zu viel moderieren — lieber eine offene Runde, aber vielleicht zwei oder drei Leitfragen vorbereiten, falls es still wird. Was hältst du davon?\n\nFür die Aufgaben bis dahin: Ich schreibe heute noch allen Bescheid und kläre den Termin. Kannst du das Buch raussuchen und einen Kauflink schicken? Dann können alle es rechtzeitig bestellen.\n\nAlso, einigen wir uns: erster Freitag in zwei Wochen, bei mir, ca. sechs Leute, offene Diskussion mit Leitfragen. Klingt das gut?",
+          "evaluationTips": [
+            "Sprechen Sie alle fünf Planungspunkte an — nicht nur einen oder zwei",
+            "Machen Sie konkrete Vorschläge mit Konjunktiv II: 'Ich würde vorschlagen ...'",
+            "Begründen Sie kurz: 'damit', 'weil', 'denn'",
+            "Reagieren Sie aktiv auf die Ideen des Partners: 'Das finde ich gut, weil ...', 'Ich hätte eine andere Idee ...'",
+            "Fassen Sie am Ende das Ergebnis zusammen: 'Also haben wir uns geeinigt auf ...'"
+          ],
+          "keyPhrases": [
+            "Ich würde vorschlagen, dass ...",
+            "Wie wäre es mit ...?",
+            "Wir könnten uns abwechselnd ...",
+            "Damit nicht zu viele / zu wenige ...",
+            "Ich übernehme ... und du ...",
+            "Also, einigen wir uns: ..."
+          ]
+        }
+      ]
+    }
+  }
+}

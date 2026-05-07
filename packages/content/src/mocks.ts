@@ -43,6 +43,7 @@ import B1_mock_11 from '../../../apps/mobile/assets/content/B1/mock_11.json';
 import B1_mock_12 from '../../../apps/mobile/assets/content/B1/mock_12.json';
 import B1_mock_13 from '../../../apps/mobile/assets/content/B1/mock_13.json';
 import B1_mock_14 from '../../../apps/mobile/assets/content/B1/mock_14.json';
+import B1_mock_15 from '../../../apps/mobile/assets/content/B1/mock_15.json';
 
 import B2_mock_01 from '../../../apps/mobile/assets/content/B2/mock_01.json';
 import B2_mock_02 from '../../../apps/mobile/assets/content/B2/mock_02.json';
@@ -142,6 +143,7 @@ const B1_EXTRA: Map<number, MockExam> = new Map([
   [12, assertMockExam(B1_mock_12, 'B1_mock_12')],
   [13, assertMockExam(B1_mock_13, 'B1_mock_13')],
   [14, assertMockExam(B1_mock_14, 'B1_mock_14')],
+  [15, assertMockExam(B1_mock_15, 'B1_mock_15')],
 ]);
 
 const VALID_LEVELS: Level[] = ['A1', 'A2', 'B1', 'B2', 'C1'];
@@ -151,7 +153,7 @@ const VALID_LEVELS: Level[] = ['A1', 'A2', 'B1', 'B2', 'C1'];
  * if the level is invalid or the mock number is not available.
  *
  * For B1, mocks 1–11 are in MOCK_DATA and mocks shipped out-of-order
- * (currently: 12, 13, 14) are in B1_EXTRA. Returns null for unshipped placeholders.
+ * (currently: 12, 13, 14, 15) are in B1_EXTRA. Returns null for unshipped placeholders.
  *
  * Data is statically imported at build time — no fs reads at request time.
  * B1 uses a sparse map as mocks above 10 arrive in non-sequential batches.
