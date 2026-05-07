@@ -1,88 +1,95 @@
 <speak>
-  <prosody rate="medium" pitch="medium">
+  <!-- C1 Mock 06 — Teil 3 (10 MCQ-3opt, akademischer Vortrag, playCount=2) -->
+  <!-- [PEDAGOGY-REWRITE] Azure voices replaced with Google Cloud TTS voices -->
+  <!-- CR-11: NO gap cues — continuous lecture, MCQ format (CR-12) -->
+  <!-- Speaker: de-DE-Wavenet-D (male) — academic lecturer, wissenschaftlich register -->
+  <!-- Announcer: de-DE-Wavenet-C (female) -->
+  <!-- C1 spec: natural speed 1.0x, played TWICE (playCount=2 per CR-8) -->
+  <!-- 10-second initial pause for candidates to read questions before audio begins -->
+  <!-- Topic: Verhältnismäßigkeit und Datenschutz im europäischen Rechtsvergleich -->
 
-    <!-- PART 3 INTRO -->
-    <s>Sie hören einen akademischen Vortrag zum Thema Verhältnismäßigkeit und Datenschutz im europäischen Rechtsvergleich.</s>
-    <s>Sie hören den Vortrag zweimal.</s>
+  <break time="3s"/>
+
+  <voice name="de-DE-Wavenet-C">
+    <prosody rate="1.0">
+      Hörverstehen, Teil 3. Sie hören einen akademischen Vortrag zum Thema
+      Verhältnismäßigkeit und Datenschutz im europäischen Rechtsvergleich.
+      Lesen Sie zuerst die zehn Fragen in Ihrem Testheft.
+      Was ist richtig? Kreuzen Sie an: a, b oder c.
+      Sie hören den Vortrag zweimal.
+    </prosody>
+    <break time="10s"/>
+  </voice>
+
+  <!-- VORTRAG BEGINNT — KEINE INTERNEN PAUSENSIGNALE -->
+  <voice name="de-DE-Wavenet-D">
+    <prosody rate="1.0">
+      Sehr geehrte Damen und Herren,
+      der Verhältnismäßigkeitsgrundsatz ist eine der bedeutendsten Errungenschaften des deutschen Verfassungsrechts.
+      Er verlangt, dass staatliche Eingriffe in Grundrechte drei Anforderungen genügen: Sie müssen geeignet sein, das Ziel zu erreichen, das mildeste wirksame Mittel darstellen und in einem angemessenen Verhältnis zum verfolgten Zweck stehen.
+
+      Dieses dreistufige Prüfschema hat die Rechtsprechung des Bundesverfassungsgerichts seit den 1950er Jahren geprägt.
+      Im internationalen Rechtsvergleich fällt auf, dass Common-Law-Systeme zwar Verhältnismäßigkeitserwägungen kennen, aber kein vergleichbar ausdifferenziertes Schema mit expliziten Prüfstufen.
+      Das macht den deutschen Grundsatz zu einem Exportgut des Verfassungsrechts und zu einem Gegenstand intensiver Rechtsvergleichung.
+
+      Besondere Bedeutung entfaltet der Grundsatz im Datenschutzrecht.
+      Das Volkszählungsurteil von 1983 begründete das Grundrecht auf informationelle Selbstbestimmung aus dem allgemeinen Persönlichkeitsrecht.
+      Dieses Recht schützt den Einzelnen davor, dass der Staat ohne hinreichenden Anlass Daten erhebt, speichert und verknüpft — eine Anforderung, die heute angesichts digitaler Massenüberwachungsmöglichkeiten aktueller ist denn je.
+
+      Die Datenschutz-Grundverordnung hat seit 2018 das europäische Datenschutzrecht weitgehend vereinheitlicht.
+      Sie gilt unmittelbar in allen Mitgliedstaaten und enthält Grundsätze wie Datenminimierung und Zweckbindung.
+      Dennoch bestehen strukturelle Durchsetzungsprobleme: Datenschutzbehörden sind ungleich mit Ressourcen ausgestattet.
+      Irland, europäischer Sitz zahlreicher Technologiekonzerne, steht hohem Fallaufkommen bei vergleichsweise geringen Personalkapazitäten gegenüber.
+      Dies wird von Kritikern als strukturelle Aushöhlung der DSGVO-Durchsetzung bewertet.
+
+      Im Bereich algorithmischer Staatsentscheidungen stellt sich eine neue verfassungsrechtliche Frage.
+      Darf der Staat Entscheidungen, die Grundrechte berühren, vollständig an automatisierte Systeme delegieren?
+      Das Bundesverfassungsgericht hat diese Frage noch nicht abschließend beantwortet.
+      Aus dem Gebot effektiven Rechtsschutzes nach Art. 19 Abs. 4 GG und dem Recht auf rechtliches Gehör nach Art. 103 Abs. 1 GG lassen sich jedoch Grenzen ableiten, die vollautomatisierte Entscheidungen ohne menschliche Überprüfbarkeit ausschließen dürften.
+
+      Schließlich zur Justizreform: Überlange Verfahren, Digitalisierungsrückstand und Richter*innenmangel sind bekannte Defizite.
+      Vorschläge zur Einführung verpflichtender Mediationsvorverfahren sind umstritten.
+      Befürworter sehen Entlastungseffekte; Kritiker warnen vor einer faktischen Verkürzung der Rechtsweggarantie aus Art. 19 Abs. 4 GG.
+      Auch der Vorschlag objektivierter Leistungskriterien für Richterernennungen stößt auf Widerstand: Juristische Qualität lässt sich in mehrdimensionalen Kriterien nicht auf quantifizierbare Kennzahlen reduzieren.
+
+      Meine Empfehlungen: Vollständige Digitalisierung der Aktenführung und Schaffung weiterer Planstellen — insbesondere an den strukturell überlasteten Verwaltungs- und Sozialgerichten.
+      Diese Maßnahmen stärken die Effizienz, ohne die Unabhängigkeit zu gefährden.
+
+      Ich danke für Ihre Aufmerksamkeit.
+    </prosody>
+  </voice>
+  <break time="5s"/>
+
+  <voice name="de-DE-Wavenet-C">
+    <prosody rate="1.0">Sie hören den Vortrag jetzt ein zweites Mal.</prosody>
     <break time="2s"/>
+  </voice>
 
-    <!-- Vortrag beginnt -->
-    <voice name="de-DE-ConradNeural">
+  <!-- Second playthrough -->
+  <voice name="de-DE-Wavenet-D">
+    <prosody rate="1.0">
+      Sehr geehrte Damen und Herren,
+      der Verhältnismäßigkeitsgrundsatz verlangt drei Anforderungen: Geeignetheit, Erforderlichkeit, Angemessenheit.
+      Im internationalen Vergleich haben Common-Law-Systeme kein vergleichbar ausdifferenziertes dreistufiges Prüfschema.
 
-      <s>Sehr geehrte Damen und Herren,</s>
-      <s>der Verhältnismäßigkeitsgrundsatz ist eine der bedeutendsten Errungenschaften des deutschen Verfassungsrechts.</s>
-      <s>Er verlangt, dass staatliche Eingriffe in Grundrechte drei Anforderungen genügen: Sie müssen geeignet sein, das Ziel zu erreichen, das mildeste wirksame Mittel darstellen und in einem angemessenen Verhältnis zum verfolgten Zweck stehen.</s>
-      <break time="1s"/>
+      Im Datenschutzrecht begründete das Volkszählungsurteil von 1983 das Grundrecht auf informationelle Selbstbestimmung aus dem allgemeinen Persönlichkeitsrecht.
+      Die DSGVO hat das europäische Datenschutzrecht vereinheitlicht — gilt unmittelbar, enthält Datenminimierung und Zweckbindung.
+      Strukturelles Problem: ungleiche Ressourcenausstattung der Datenschutzbehörden.
 
-      <s>Dieses dreistufige Prüfschema hat die Rechtsprechung des Bundesverfassungsgerichts seit den 1950er Jahren geprägt.</s>
-      <s>Im internationalen Rechtsvergleich fällt auf, dass Common-Law-Systeme zwar Verhältnismäßigkeitserwägungen kennen, aber kein vergleichbar ausdifferenziertes Schema mit expliziten Prüfstufen.</s>
-      <s>Das macht den deutschen Grundsatz zu einem Exportgut des Verfassungsrechts und zu einem Gegenstand intensiver Rechtsvergleichung.</s>
-      <break time="1s"/>
+      Algorithmische Staatsentscheidungen: Das BVerfG hat die Frage nicht abschließend entschieden.
+      Art. 19 Abs. 4 GG und Art. 103 Abs. 1 GG setzen Grenzen für vollautomatisierte Entscheidungen ohne menschliche Überprüfbarkeit.
 
-      <s>Besondere Bedeutung entfaltet der Grundsatz im Datenschutzrecht.</s>
-      <s>Das Volkszählungsurteil von 1983 begründete das Grundrecht auf informationelle Selbstbestimmung aus dem allgemeinen Persönlichkeitsrecht.</s>
-      <s>Dieses Recht schützt den Einzelnen davor, dass der Staat ohne hinreichenden Anlass Daten erhebt, speichert und verknüpft — eine Anforderung, die heute angesichts digitaler Massenüberwachungsmöglichkeiten aktueller ist denn je.</s>
-      <break time="1s"/>
+      Justizreform: Mediationspflicht umstritten — Rechtsweggarantie darf nicht faktisch verkürzt werden.
+      Leistungskennzahlen für Richterernennungen problematisch — mehrdimensionale juristische Qualität nicht quantifizierbar.
 
-      <s>Die Datenschutz-Grundverordnung hat seit 2018 das europäische Datenschutzrecht weitgehend vereinheitlicht.</s>
-      <s>Sie gilt unmittelbar in allen Mitgliedstaaten und enthält Grundsätze wie Datenminimierung und Zweckbindung.</s>
-      <s>Dennoch bestehen strukturelle Durchsetzungsprobleme: Datenschutzbehörden sind ungleich mit Ressourcen ausgestattet.</s>
-      <s>Irland, europäischer Sitz zahlreicher Technologiekonzerne, steht hohem Fallaufkommen bei vergleichsweise geringen Personalkapazitäten gegenüber.</s>
-      <s>Dies wird von Kritikern als strukturelle Aushöhlung der DSGVO-Durchsetzung bewertet.</s>
-      <break time="1s"/>
+      Empfehlung: Digitalisierung der eAkte und mehr Planstellen an Verwaltungs- und Sozialgerichten.
 
-      <s>Im Bereich algorithmischer Staatsentscheidungen stellt sich eine neue verfassungsrechtliche Frage.</s>
-      <s>Darf der Staat Entscheidungen, die Grundrechte berühren, vollständig an automatisierte Systeme delegieren?</s>
-      <s>Das Bundesverfassungsgericht hat diese Frage noch nicht abschließend beantwortet.</s>
-      <s>Aus dem Gebot effektiven Rechtsschutzes nach Art. 19 Abs. 4 GG und dem Recht auf rechtliches Gehör nach Art. 103 Abs. 1 GG lassen sich jedoch Grenzen ableiten, die vollautomatisierte Entscheidungen ohne menschliche Überprüfbarkeit ausschließen dürften.</s>
-      <break time="1s"/>
+      Ich danke für Ihre Aufmerksamkeit.
+    </prosody>
+  </voice>
+  <break time="3s"/>
 
-      <s>Schließlich zur Justizreform: Überlange Verfahren, Digitalisierungsrückstand und Richter*innenmangel sind bekannte Defizite.</s>
-      <s>Vorschläge zur Einführung verpflichtender Mediationsvorverfahren sind umstritten.</s>
-      <s>Befürworter sehen Entlastungseffekte; Kritiker warnen vor einer faktischen Verkürzung der Rechtsweggarantie aus Art. 19 Abs. 4 GG.</s>
-      <s>Auch der Vorschlag objektivierter Leistungskriterien für Richterernennungen stößt auf Widerstand: Juristische Qualität lässt sich in mehrdimensionalen Kriterien nicht auf quantifizierbare Kennzahlen reduzieren.</s>
-      <break time="1s"/>
-
-      <s>Meine Empfehlungen: Vollständige Digitalisierung der Aktenführung und Schaffung weiterer Planstellen — insbesondere an den strukturell überlasteten Verwaltungs- und Sozialgerichten.</s>
-      <s>Diese Maßnahmen stärken die Effizienz, ohne die Unabhängigkeit zu gefährden.</s>
-      <break time="1s"/>
-
-      <s>Ich danke für Ihre Aufmerksamkeit.</s>
-
-    </voice>
-    <break time="5s"/>
-
-    <!-- Second playthrough marker -->
-    <s>Sie hören den Vortrag jetzt ein zweites Mal.</s>
-    <break time="2s"/>
-
-    <voice name="de-DE-ConradNeural">
-
-      <s>Sehr geehrte Damen und Herren,</s>
-      <s>der Verhältnismäßigkeitsgrundsatz verlangt drei Anforderungen: Geeignetheit, Erforderlichkeit, Angemessenheit.</s>
-      <s>Im internationalen Vergleich haben Common-Law-Systeme kein vergleichbar ausdifferenziertes dreistufiges Prüfschema.</s>
-      <break time="1s"/>
-
-      <s>Im Datenschutzrecht begründete das Volkszählungsurteil von 1983 das Grundrecht auf informationelle Selbstbestimmung aus dem allgemeinen Persönlichkeitsrecht.</s>
-      <s>Die DSGVO hat das europäische Datenschutzrecht vereinheitlicht — gilt unmittelbar, enthält Datenminimierung und Zweckbindung.</s>
-      <s>Strukturelles Problem: ungleiche Ressourcenausstattung der Datenschutzbehörden.</s>
-      <break time="1s"/>
-
-      <s>Algorithmische Staatsentscheidungen: Das BVerfG hat die Frage nicht abschließend entschieden.</s>
-      <s>Art. 19 Abs. 4 GG und Art. 103 Abs. 1 GG setzen Grenzen für vollautomatisierte Entscheidungen ohne menschliche Überprüfbarkeit.</s>
-      <break time="1s"/>
-
-      <s>Justizreform: Mediationspflicht umstritten — Rechtsweggarantie darf nicht faktisch verkürzt werden.</s>
-      <s>Leistungskennzahlen für Richterernennungen problematisch — mehrdimensionale juristische Qualität nicht quantifizierbar.</s>
-      <break time="1s"/>
-
-      <s>Empfehlung: Digitalisierung der eAkte und mehr Planstellen an Verwaltungs- und Sozialgerichten.</s>
-      <break time="1s"/>
-
-      <s>Ich danke für Ihre Aufmerksamkeit.</s>
-
-    </voice>
-    <break time="3s"/>
-
-  </prosody>
+  <voice name="de-DE-Wavenet-C">
+    <prosody rate="1.0">Das ist das Ende von Teil 3 und das Ende des Hörverstehens.</prosody>
+  </voice>
 </speak>

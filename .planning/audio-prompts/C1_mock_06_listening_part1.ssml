@@ -1,89 +1,141 @@
 <speak>
-  <prosody rate="medium" pitch="medium">
+  <!-- C1 Mock 06 — Teil 1 (8 Kurzaussagen / Speaker-to-Summary matching, playCount=1) -->
+  <!-- [PEDAGOGY-REWRITE] Azure voices replaced with Google Cloud TTS voices -->
+  <!-- Theme: Recht und Verfassung -->
+  <!-- Announcer: de-DE-Wavenet-C (female, neutral) -->
+  <!-- 8 speakers — 8 UNIQUE voices (4 female / 4 male) per CR-9 spec -->
+  <!-- Female: Wavenet-F (Sp1 Baumann), Wavenet-A (Sp3 Ritter), Wavenet-E (Sp5 Schulz), Neural2-F (Sp7 Werner) -->
+  <!-- Male:   Wavenet-B (Sp2 Metzger), Wavenet-D (Sp4 Haas), Neural2-B (Sp6 Albrecht), Neural2-D (Sp8 Lindner) -->
+  <!-- C1 spec: natural speed 1.0x, played ONCE, no pedagogical slowing -->
+  <!-- 10-second initial pause for candidates to read summary statements a-j -->
+  <!-- 5-second pauses between speakers -->
 
-    <!-- PART 1 INTRO -->
-    <s>Sie hören acht kurze Stellungnahmen verschiedener Personen zum Thema Recht und Verfassung.</s>
-    <s>Hören Sie die Aussagen. Welche Zusammenfassung passt zu welchem Sprecher? Zwei Zusammenfassungen passen nicht.</s>
-    <break time="2s"/>
+  <break time="3s"/>
 
-    <!-- Sprecher 1: Frau Prof. Baumann, Verfassungsrechtlerin -->
-    <voice name="de-DE-KatjaNeural">
-      <s>Sprecher 1. Frau Prof. Baumann, Verfassungsrechtlerin.</s>
-      <break time="1s"/>
-      <s>Verfassungsgerichte sind das letzte wirksame Gegengewicht, wenn demokratische Mehrheiten beginnen, Grundrechte schrittweise auszuhöhlen.</s>
-      <s>Diese Funktion ist keine Option — sie ist das Fundament des Rechtsstaats.</s>
-      <s>Wer das Gericht schwächt, schwächt die Demokratie selbst.</s>
-    </voice>
-    <break time="4s"/>
+  <voice name="de-DE-Wavenet-C">
+    <prosody rate="1.0">
+      Hörverstehen, Teil 1. Sie hören acht kurze Stellungnahmen verschiedener Personen
+      zum Thema Recht und Verfassung.
+      Lesen Sie zuerst die zehn Zusammenfassungen in Ihrem Testheft.
+      Welche Zusammenfassung passt zu welchem Sprecher?
+      Zwei Zusammenfassungen passen nicht.
+      Sie hören die Texte nur einmal.
+    </prosody>
+    <break time="10s"/>
+  </voice>
 
-    <!-- Sprecher 2: Herr Dr. Metzger, Datenschutzrechtler -->
-    <voice name="de-DE-ConradNeural">
-      <s>Sprecher 2. Herr Dr. Metzger, Datenschutzrechtler.</s>
-      <break time="1s"/>
-      <s>Die DSGVO setzt hohe Standards — aber ihre Durchsetzung hängt von nationalen Behörden ab, die sehr unterschiedlich ausgestattet sind.</s>
-      <s>Wenn Irland mit Dutzenden von Technologieriesen und wenigen Dutzend Prüfer*innen konfrontiert ist, ist das kein Zufall — das ist ein strukturelles Versagen.</s>
-      <s>Ohne mehr Ressourcen bleibt die DSGVO ein Papiertiger.</s>
-    </voice>
-    <break time="4s"/>
+  <!-- Sprecher 1: Frau Prof. Baumann, Verfassungsrechtlerin — Voice: de-DE-Wavenet-F (female, unique) -->
+  <voice name="de-DE-Wavenet-C">
+    <prosody rate="1.0">Sprecher 1: Frau Professorin Baumann, Verfassungsrechtlerin.</prosody>
+    <break time="1s"/>
+  </voice>
+  <voice name="de-DE-Wavenet-F">
+    <prosody rate="1.0">
+      Verfassungsgerichte sind das letzte wirksame Gegengewicht, wenn demokratische Mehrheiten beginnen, Grundrechte schrittweise auszuhöhlen.
+      Diese Funktion ist keine Option — sie ist das Fundament des Rechtsstaats.
+      Wer das Gericht schwächt, schwächt die Demokratie selbst.
+    </prosody>
+  </voice>
+  <break time="5s"/>
 
-    <!-- Sprecher 3: Frau Dr. Ritter, Richterbund-Vertreterin -->
-    <voice name="de-DE-KatjaNeural">
-      <s>Sprecher 3. Frau Dr. Ritter, Richterbund-Vertreterin.</s>
-      <break time="1s"/>
-      <s>Richterinnen und Richter müssen unabhängig entscheiden können — das ist keine Frage des Komforts, das ist eine Frage der Verfassungsarchitektur.</s>
-      <s>Wer Ernennung und Beförderung an Fallzahlen koppelt, schafft systemische Anreize gegen gründliche Rechtsprechung.</s>
-      <s>Das darf nicht im Namen der Effizienz passieren.</s>
-    </voice>
-    <break time="4s"/>
+  <!-- Sprecher 2: Herr Dr. Metzger, Datenschutzrechtler — Voice: de-DE-Wavenet-B (male, unique) -->
+  <voice name="de-DE-Wavenet-C">
+    <prosody rate="1.0">Sprecher 2: Herr Dr. Metzger, Datenschutzrechtler.</prosody>
+    <break time="1s"/>
+  </voice>
+  <voice name="de-DE-Wavenet-B">
+    <prosody rate="1.0">
+      Die DSGVO setzt hohe Standards — aber ihre Durchsetzung hängt von nationalen Behörden ab, die sehr unterschiedlich ausgestattet sind.
+      Wenn Irland mit Dutzenden von Technologieriesen und wenigen Dutzend Prüfer*innen konfrontiert ist, ist das kein Zufall — das ist ein strukturelles Versagen.
+      Ohne mehr Ressourcen bleibt die DSGVO ein Papiertiger.
+    </prosody>
+  </voice>
+  <break time="5s"/>
 
-    <!-- Sprecher 4: Herr Prof. Haas, Föderalismusforscher -->
-    <voice name="de-DE-ConradNeural">
-      <s>Sprecher 4. Herr Prof. Haas, Föderalismusforscher.</s>
-      <break time="1s"/>
-      <s>Unterschiedliche Landesregelungen im Prozessrecht und bei der Gerichtsorganisation führen dazu, dass das gleiche Rechtsproblem in Bayern und in Bremen unterschiedlich behandelt werden kann.</s>
-      <s>Das ist keine Stärke des Föderalismus — das ist Rechtsunsicherheit.</s>
-      <s>Ein einheitlicheres Justizsystem würde Bürgerinnen und Bürgern mehr Verlässlichkeit geben.</s>
-    </voice>
-    <break time="4s"/>
+  <!-- Sprecher 3: Frau Dr. Ritter, Richterbund-Vertreterin — Voice: de-DE-Wavenet-A (female, unique) -->
+  <voice name="de-DE-Wavenet-C">
+    <prosody rate="1.0">Sprecher 3: Frau Dr. Ritter, Richterbund-Vertreterin.</prosody>
+    <break time="1s"/>
+  </voice>
+  <voice name="de-DE-Wavenet-A">
+    <prosody rate="1.0">
+      Richterinnen und Richter müssen unabhängig entscheiden können — das ist keine Frage des Komforts, das ist eine Frage der Verfassungsarchitektur.
+      Wer Ernennung und Beförderung an Fallzahlen koppelt, schafft systemische Anreize gegen gründliche Rechtsprechung.
+      Das darf nicht im Namen der Effizienz passieren.
+    </prosody>
+  </voice>
+  <break time="5s"/>
 
-    <!-- Sprecher 5: Frau Schulz, Rechtsanwältin -->
-    <voice name="de-DE-KatjaNeural">
-      <s>Sprecher 5. Frau Schulz, Rechtsanwältin.</s>
-      <break time="1s"/>
-      <s>Als Anwältin erlebe ich, was verpflichtende Mediationsvorverfahren in der Praxis bedeuten: Meine Mandantinnen und Mandanten werden vor einer Klage zu einem Verfahren gedrängt, dem sie eigentlich nicht zustimmen wollten.</s>
-      <s>Das verlängert den Weg zum Gericht und unterhöhlt die Rechtsweggarantie faktisch.</s>
-      <s>Gericht soll zugänglich bleiben — nicht als letztes Mittel nach erzwungener Einigung.</s>
-    </voice>
-    <break time="4s"/>
+  <!-- Sprecher 4: Herr Prof. Haas, Föderalismusforscher — Voice: de-DE-Wavenet-D (male, unique) -->
+  <voice name="de-DE-Wavenet-C">
+    <prosody rate="1.0">Sprecher 4: Herr Professor Haas, Föderalismusforscher.</prosody>
+    <break time="1s"/>
+  </voice>
+  <voice name="de-DE-Wavenet-D">
+    <prosody rate="1.0">
+      Unterschiedliche Landesregelungen im Prozessrecht und bei der Gerichtsorganisation führen dazu, dass das gleiche Rechtsproblem in Bayern und in Bremen unterschiedlich behandelt werden kann.
+      Das ist keine Stärke des Föderalismus — das ist Rechtsunsicherheit.
+      Ein einheitlicheres Justizsystem würde Bürgerinnen und Bürgern mehr Verlässlichkeit geben.
+    </prosody>
+  </voice>
+  <break time="5s"/>
 
-    <!-- Sprecher 6: Herr Albrecht, Bürgerrechtsaktivist -->
-    <voice name="de-DE-ConradNeural">
-      <s>Sprecher 6. Herr Albrecht, Bürgerrechtsaktivist.</s>
-      <break time="1s"/>
-      <s>Wenn der Staat Algorithmen einsetzt, um zu entscheiden, ob jemand Sozialleistungen bekommt oder unter besonderer Beobachtung steht, ist das grundrechtlich hoch problematisch.</s>
-      <s>Solange diese Systeme nicht transparent sind und nicht angefochten werden können, ist das keine Modernisierung — das ist eine Demokratisierungsumgehung.</s>
-    </voice>
-    <break time="4s"/>
+  <!-- Sprecher 5: Frau Schulz, Rechtsanwältin — Voice: de-DE-Wavenet-E (female, unique) -->
+  <voice name="de-DE-Wavenet-C">
+    <prosody rate="1.0">Sprecher 5: Frau Schulz, Rechtsanwältin.</prosody>
+    <break time="1s"/>
+  </voice>
+  <voice name="de-DE-Wavenet-E">
+    <prosody rate="1.0">
+      Als Anwältin erlebe ich, was verpflichtende Mediationsvorverfahren in der Praxis bedeuten: Meine Mandantinnen und Mandanten werden vor einer Klage zu einem Verfahren gedrängt, dem sie eigentlich nicht zustimmen wollten.
+      Das verlängert den Weg zum Gericht und unterhöhlt die Rechtsweggarantie faktisch.
+      Gericht soll zugänglich bleiben — nicht als letztes Mittel nach erzwungener Einigung.
+    </prosody>
+  </voice>
+  <break time="5s"/>
 
-    <!-- Sprecher 7: Frau Dr. Werner, Strafrechtsexpertin -->
-    <voice name="de-DE-KatjaNeural">
-      <s>Sprecher 7. Frau Dr. Werner, Strafrechtsexpertin.</s>
-      <break time="1s"/>
-      <s>Das Bundesverfassungsgericht sollte nicht nur nachträglich prüfen, sondern bei Justizreformen früh einbezogen werden.</s>
-      <s>Wenn Reformvorhaben schon im Entwurfsstadium verfassungsrechtlich begleitet werden, ließen sich spätere Kassationen vermeiden.</s>
-      <s>Das wäre effizienter — und verfassungsrechtlich sauberer.</s>
-    </voice>
-    <break time="4s"/>
+  <!-- Sprecher 6: Herr Albrecht, Bürgerrechtsaktivist — Voice: de-DE-Neural2-B (male, unique — distinct from Wavenet-B) -->
+  <voice name="de-DE-Wavenet-C">
+    <prosody rate="1.0">Sprecher 6: Herr Albrecht, Bürgerrechtsaktivist.</prosody>
+    <break time="1s"/>
+  </voice>
+  <voice name="de-DE-Neural2-B">
+    <prosody rate="1.0">
+      Wenn der Staat Algorithmen einsetzt, um zu entscheiden, ob jemand Sozialleistungen bekommt oder unter besonderer Beobachtung steht, ist das grundrechtlich hoch problematisch.
+      Solange diese Systeme nicht transparent sind und nicht angefochten werden können, ist das keine Modernisierung — das ist eine Demokratisierungsumgehung.
+    </prosody>
+  </voice>
+  <break time="5s"/>
 
-    <!-- Sprecher 8: Herr Prof. Lindner, Verhältnismäßigkeitsforscher -->
-    <voice name="de-DE-ConradNeural">
-      <s>Sprecher 8. Herr Prof. Lindner, Verhältnismäßigkeitsforscher.</s>
-      <break time="1s"/>
-      <s>Der Verhältnismäßigkeitsgrundsatz ist das richtige Prinzip — aber seine praktische Anwendung ist manchmal zu stark formalisiert.</s>
-      <s>Wenn Behörden seitenweise begründen müssen, warum eine Maßnahme geeignet, erforderlich und angemessen ist, geht Handlungsgeschwindigkeit verloren.</s>
-      <s>Die Schutzfunktion ist unbestreitbar. Aber wir sollten die Prüfpraxis pragmatischer gestalten, ohne den Kern aufzugeben.</s>
-    </voice>
-    <break time="3s"/>
+  <!-- Sprecher 7: Frau Dr. Werner, Strafrechtsexpertin — Voice: de-DE-Neural2-F (female, unique — distinct from Wavenet-F) -->
+  <voice name="de-DE-Wavenet-C">
+    <prosody rate="1.0">Sprecher 7: Frau Dr. Werner, Strafrechtsexpertin.</prosody>
+    <break time="1s"/>
+  </voice>
+  <voice name="de-DE-Neural2-F">
+    <prosody rate="1.0">
+      Das Bundesverfassungsgericht sollte nicht nur nachträglich prüfen, sondern bei Justizreformen früh einbezogen werden.
+      Wenn Reformvorhaben schon im Entwurfsstadium verfassungsrechtlich begleitet werden, ließen sich spätere Kassationen vermeiden.
+      Das wäre effizienter — und verfassungsrechtlich sauberer.
+    </prosody>
+  </voice>
+  <break time="5s"/>
 
-  </prosody>
+  <!-- Sprecher 8: Herr Prof. Lindner, Verhältnismäßigkeitsforscher — Voice: de-DE-Neural2-D (male, unique — distinct from Wavenet-D) -->
+  <voice name="de-DE-Wavenet-C">
+    <prosody rate="1.0">Sprecher 8: Herr Professor Lindner, Verhältnismäßigkeitsforscher.</prosody>
+    <break time="1s"/>
+  </voice>
+  <voice name="de-DE-Neural2-D">
+    <prosody rate="1.0">
+      Der Verhältnismäßigkeitsgrundsatz ist das richtige Prinzip — aber seine praktische Anwendung ist manchmal zu stark formalisiert.
+      Wenn Behörden seitenweise begründen müssen, warum eine Maßnahme geeignet, erforderlich und angemessen ist, geht Handlungsgeschwindigkeit verloren.
+      Die Schutzfunktion ist unbestreitbar. Aber wir sollten die Prüfpraxis pragmatischer gestalten, ohne den Kern aufzugeben.
+    </prosody>
+  </voice>
+  <break time="3s"/>
+
+  <voice name="de-DE-Wavenet-C">
+    <prosody rate="1.0">Das ist das Ende von Teil 1.</prosody>
+  </voice>
 </speak>
