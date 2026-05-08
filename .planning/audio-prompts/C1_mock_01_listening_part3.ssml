@@ -1,8 +1,8 @@
 <speak>
-  <!-- C1 Mock 01 — Teil 3 (10 gap-fill, academic Vortrag, playCount=1) -->
+  <!-- C1 Mock 01 — Teil 3 (10 gap-fill, academic Vortrag, playCount=2) -->
   <!-- Speaker: de-DE-Wavenet-D (male) — academic lecturer, wissenschaftlich-populär register -->
   <!-- Announcer: de-DE-Wavenet-C (female) -->
-  <!-- C1 spec: natural speed 1.0x, NO internal pauses between gaps (continuous lecture), played ONCE -->
+  <!-- C1 spec: natural speed 1.0x, NO internal pauses between gaps (continuous lecture), played TWICE (CR-8) -->
   <!-- Candidates fill slide gaps in real time — gap answers embedded naturally in speech flow -->
   <!-- Signposting markers: Im Folgenden, Zunächst, Kommen wir zu, Abschließend -->
   <!-- 10-second initial pause for candidates to survey slides before audio begins -->
@@ -20,7 +20,7 @@
       Hörverstehen, Teil 3. Sie hören einen akademischen Vortrag zum Thema Forschungsmethoden
       und Reproduzierbarkeit. In Ihrem Testheft finden Sie fünf Folien mit je zwei Lücken.
       Füllen Sie die Lücken während des Vortrags aus.
-      Sie hören den Vortrag nur einmal.
+      Sie hören den Vortrag zweimal.
     </prosody>
     <break time="10s"/>
   </voice>
