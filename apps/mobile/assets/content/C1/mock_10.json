@@ -428,154 +428,437 @@
         },
         {
           "partNumber": 3,
-          "instructions": "Lesen Sie die vier Texte und beantworten Sie zu jedem Text die Fragen. Kreuzen Sie bei jeder Frage die richtige Antwort (a, b oder c) an.",
-          "instructionsTranslation": "Read the four texts and answer the questions for each text. For each question, select the correct answer (a, b or c).",
+          "instructions": "Lesen Sie den folgenden Artikel. Entscheiden Sie bei jeder Aussage, ob sie richtig (R), falsch (F) oder nicht im Text (N) ist.",
+          "instructionsTranslation": "Read the following article. For each statement decide whether it is correct (R), incorrect (F) or not in the text (N).",
           "texts": [
             {
-              "id": "C1_m10_R3_text1",
+              "id": "C1_m10_R3_article",
               "type": "article",
-              "title": "Kommentar: Das Dilemma der Klimakommunikation",
-              "content": "Die Wissenschaft ist eindeutig: 1,5 Grad Celsius globale Erwärmung ist eine Grenze, deren Überschreiten kaskadierende Risiken auslöst. Doch zwischen wissenschaftlicher Eindeutigkeit und politischer Handlung liegt ein kommunikativer Abgrund, den weder Apokalypsenarrativ noch nüchterner Sachbericht überbrücken konnte. Klimapessimismus lähmt, Klimaoptimismus verharmlost — beide Extreme erzeugen politische Passivität, nur aus verschiedenen Richtungen. Was fehlt, ist eine Sprache, die Dringlichkeit und Handlungsfähigkeit verbindet: nicht 'es ist zu spät', nicht 'der Markt löst es', sondern 'hier ist, was konkret möglich ist und wer dafür verantwortlich ist'. Ohne diese Präzision bleibt Klimakommunikation politisch folgenlos."
-            },
-            {
-              "id": "C1_m10_R3_text2",
-              "type": "article",
-              "title": "Pressemitteilung: Umweltbundesamt veröffentlicht CO2-Preispfad",
-              "content": "Das Umweltbundesamt hat heute seinen aktualisierten Empfehlungsbericht zum nationalen CO2-Preispfad veröffentlicht. Demnach empfiehlt die Behörde einen schrittweisen Anstieg des nationalen CO2-Preises von derzeit 45 Euro pro Tonne auf 175 Euro bis 2030. Der Preisanstieg solle durch ein Klimageld sozial abgefedert werden, das als Pro-Kopf-Zahlung an alle Haushalte ausgezahlt wird. Das Umweltbundesamt betont, dass ein alleiniger Preisanstieg ohne flankierende Infrastrukturinvestitionen — insbesondere im Bereich öffentlicher Nahverkehr und Gebäudesanierung — sozial- und verteilungspolitisch problematisch sei. Eine Sprecherin erklärte: Ohne Investitionen in Alternativen wälzen wir lediglich Kosten auf jene, die keine Wahl haben."
-            },
-            {
-              "id": "C1_m10_R3_text3",
-              "type": "article",
-              "title": "Leserbrief: Suffizienz ist kein Luxus der Besserverdienenden",
-              "content": "In der Debatte um Suffizienz wird oft übersehen, dass das Konzept nicht für alle Gesellschaftsschichten gleich zugänglich ist. Wer im Eigenheim wohnt, kann seinen Energieverbrauch selbst steuern. Wer zur Miete in einer schlecht isolierten Wohnung wohnt, kann nicht. Suffizienz-Appelle, die soziale Ungleichheit ignorieren, schreiben diese strukturell fort: Wer ohnehin wenig hat, soll zusätzlich verzichten. Echte Suffizienzpolitik müsste beginnen bei denjenigen, die tatsächlich überproportional verbrauchen — nicht beim Durchschnittshaushalt, der ohnehin schon sparsam wirtschaftet. Die Klimadebatte braucht mehr Differenzierung — wer wie viel verbraucht und wer wie viel verändern könnte."
-            },
-            {
-              "id": "C1_m10_R3_text4",
-              "type": "article",
-              "title": "Kurzinterview: Grüne Wasserstoffstrategie — Versprechen und Wirklichkeit",
-              "content": "Frage: Ist grüner Wasserstoff das Energiemedium der Zukunft?\n\nExpertin: Wasserstoff ist kein Energiequelle — er ist ein Energieträger. Diese Unterscheidung ist fundamental: Er muss zuerst produziert werden, und das kostet Energie. Grüner Wasserstoff aus erneuerbaren Quellen ist energetisch ineffizient — für ein Kilowatt nutzbarer Energie braucht man drei bis vier Kilowatt Primärenergie. Das macht ihn geeignet für Sektoren, in denen direkte Elektrifizierung nicht möglich ist: Stahl, Chemie, vielleicht Langstreckenfliegen. Für Heizung und PKW-Antrieb ist er die falsche Technologie. Wer heute Milliarden in Wasserstoff-PKW-Infrastruktur investiert, setzt auf das falsche Pferd — und verzögert die nötigen Investitionen in Wärmepumpen und Batterien."
+              "content": "Stadtökologie als Klimaanpassung: Mehr als grüne Dekoration\n\nStädte sind keine Inseln. Obwohl sie weniger als zwei Prozent der globalen Landfläche bedecken, verbrauchen sie mehr als siebzig Prozent der weltweit erzeugten Energie und emittieren über siebzig Prozent der anthropogenen CO₂-Emissionen. Gleichzeitig sind sie die Orte, an denen Klimawandelfolgen am unmittelbarsten erfahren werden: Hitzewellen in stark versiegelten Innenstädten, Überflutungen durch fehlende Versickerungsflächen, schlechte Luftqualität durch Wärmeinseleffekte. Dass Stadtplanung zu einer zentralen Arena der Klimapolitik geworden ist, überrascht vor diesem Hintergrund nicht.\n\nWas jedoch überrascht — und in der breiten Klimadebatte noch immer zu wenig Beachtung findet —, ist die Rolle der urbanen Biodiversität als Klimaanpassungsinstrument. Bäume, Grünflächen, Feuchtgebiete und begrünte Dächer gelten im Alltagsdiskurs oft als Verschönerungsmaßnahmen. Tatsächlich sind sie ökologische Infrastruktur: Sie kühlen, sie versickern, sie binden Schadstoffe, und sie schaffen Lebensräume für Tierarten, die in der fragmentierten Landschaft des Umlandes kaum noch Rückzugsorte finden. Der Berliner Stadtring beispielsweise beherbergt mehr Vogelarten als manche ländliche Monokulturregion — ein Befund, der das Bild der Stadt als ökologische Wüste grundlegend revidiert.\n\nStadtökologie ist jedoch kein Selbstläufer. Urbane Grünflächen brauchen Pflege, Wasser und Schutz vor Verdichtungsdruck. In wachsenden Städten konkurriert der Bedarf nach Wohnraum systematisch mit dem Bedarf nach Grünflächen. Investoren und kommunale Haushalte stehen unter dem Druck, verfügbare Flächen ertragreich zu nutzen. Die Folge: Stadtbäume werden gefällt, Brachflächen — oft die artenreichsten urbanen Biotope — asphaltiert, und Bäche, die jahrhundertelang unterirdisch begraben lagen, bleiben es weiterhin. Renaturierungsvorhaben scheitern nicht an technischem Unverstand, sondern an politischer Priorisierung und fiskalischen Engpässen.\n\nEin zentrales Instrument, das in europäischen Städten zunehmend Anwendung findet, ist das Konzept der grünen Infrastruktur. Darunter versteht man strategisch geplante Netzwerke aus natürlichen und naturnahen Elementen, die bewusst so angeordnet sind, dass sie multiple Ökosystemleistungen gleichzeitig erbringen: Kühlungseffekte durch Verdunstung, Hochwasserschutz durch Retentionsflächen, Stickstoffbindung durch Pflanzenaufnahme und Bestäubung durch Insektenhabitate. Städte wie Singapur, Wien und Zürich haben den Ausbau grüner Infrastruktur explizit in ihre Klimaanpassungsstrategien integriert. Singapurs Konzept der 'Biophilic City' etwa verbindet Hochhausbegrünung, Dachfarmwirtschaft und vernetzte Parkkorridore zu einem kohärenten Stadtentwicklungsmodell.\n\nDennoch gibt es Grenzen dessen, was Stadtbegrünung leisten kann. Der Kühleffekt eines einzelnen Stadtbaums reicht im Schnitt zehn bis zwanzig Meter; um eine Wärmeinsel von mehreren Quadratkilometern zu entschärfen, braucht es dichte Grünkorridore, keine Einzelbäume. Das sogenannte 3-30-300-Prinzip — drei Bäume sichtbar von jedem Wohngebäude, dreißig Prozent Baumkronendeckung pro Stadtteil, maximal dreihundert Meter bis zum nächsten Park — gilt in der Stadtökologieforschung als evidenzbasierter Mindeststandard. Die meisten deutschen Großstädte erfüllen diese Kriterien derzeit in weiten Teilen nicht.\n\nStadtökologie ist auch eine Frage sozialer Gerechtigkeit. Wohlhabende Wohnviertel verfügen historisch über mehr Grünflächen, ältere Baumbestände und bessere Luftqualität als einkommensschwache Quartiere. Wer an einer stark befahrenen Ausfallstraße in einem schlecht isolierten Altbau wohnt, trägt die Last des Wärmeinseleffekts doppelt: durch höhere Temperaturen außen und schlechtere Kühlung innen. Klimaanpassung in der Stadt ist deshalb nicht nur eine ökologische, sondern zugleich eine distributive Aufgabe. Grünflächenprogramme, die vorrangig auf touristisch attraktive Innenstadtbereiche abzielen, lösen diesen strukturellen Konflikt nicht — sie verschieben ihn.\n\nBiodiversität in der Stadt hat zudem eine psychologische und soziale Dimension, die in der klimapolitischen Debatte oft unterbewertet wird. Menschen, die in naturnaher Umgebung aufwachsen oder leben, zeigen in Studien geringere Stressbelastung, höhere kognitive Leistungsfähigkeit und stärkere prosoziale Verhaltensweisen. Schrumpft die biologische Vielfalt aus dem Alltag — keine Schmetterlinge mehr im Garten, keine Vogelstimmen am Morgen, keine Frösche im Stadtteich —, dann erodiert auch das affektive Verhältnis zur Natur. Eine Gesellschaft, der Natur fremd geworden ist, wird kaum politisch für ihren Schutz eintreten. In diesem Sinne ist urbane Biodiversität nicht nur Anpassungsmaßnahme, sondern auch die Grundlage für gesellschaftliche Klimabereitschaft.\n\nWas wäre also zu tun? Erstens braucht es rechtlich abgesicherte Grünflächenquoten in der Bauleitplanung, die nicht durch Ausgleichszahlungen substituierbar sind. Zweitens müssen kommunale Baumschutzsatzungen gestärkt und mit echten Sanktionen versehen werden — Bußgelder, die unter den Kosten des Fällens und Ersetzbepflanzens liegen, sind kein wirksames Instrument. Drittens sollte Renaturierung — die Wiederbelebung versiegelter oder degradierter Flächen — als eigenständige Haushaltskategorie in Klimaschutzprogrammen verankert werden, statt als nachrangige Maßnahme behandelt zu werden. Städte, die in Stadtökologie investieren, senken langfristig die Kosten für technische Klimaanpassungsmaßnahmen wie Kühlanlagen, Regenwasserrückhaltesysteme und Gesundheitsversorgung bei Hitzekrankheiten.\n\nDie Klimaanpassung der Städte wird die nächste Dekade urbaner Politik prägen. Sie ist nicht allein eine technische Aufgabe, die mit Dämmung und Photovoltaik gelöst werden kann. Sie erfordert eine Neuperspektivierung dessen, was eine Stadt ist: nicht primär eine Infrastruktur für Produktion und Konsum, sondern ein Lebensraum, der ökologische Qualität als Voraussetzung seiner Funktionsfähigkeit begreift. Stadtökologie ist kein Luxus — sie ist die kostengünstigste Klimaversicherung, die Kommunen haben.\n\nEine besondere Herausforderung liegt in der Fragmentierung städtischer Biotope. Grünflächen, die nicht miteinander verbunden sind, können ihre Funktion als Artenkorridor nicht erfüllen. Ein isolierter Park ist für viele Tierarten eine ökologische Insel, die sie nicht selbstständig besiedeln oder verlassen können. Stadtplanung muss deshalb nicht nur einzelne Grünflächen schaffen, sondern Korridore denken: Straßenbegleitgrün, Bahntrassen, Flussufer und Dachgärten können, wenn sie konsequent gestaltet werden, ein vernetztes Grünsystem bilden, das Arten zwischen Grünkernen wandern lässt. Einige Kommunen, darunter Hamburg und Freiburg, haben solche Grünnetz-Konzepte bereits in ihre Flächennutzungspläne aufgenommen — ihre flächendeckende Umsetzung steht jedoch noch aus.\n\nSchließlich ist der internationale Wissenstransfer in der Stadtökologie ausbaufähig. Tropische Megastädte wie Nairobi oder Jakarta, die mit extremen Hitzewellen und massivem Bevölkerungswachstum konfrontiert sind, entwickeln Anpassungskonzepte unter anderen Rahmenbedingungen als europäische Mittelstädte. Gleichwohl können Erkenntnisse aus dem globalen Süden — etwa über die Kombination von Subsistenzlandwirtschaft und Kühlungsinfrastruktur in städtischen Räumen — auch für europäische Städte relevant sein. Die Klimakrise kennt keine administrativen Grenzen. Eine Stadtplanung, die ausschließlich auf nordeuropäische Erfahrungen zurückgreift, schöpft das verfügbare Wissen nicht aus. Institutionelle Lernprozesse zwischen Städten des globalen Nordens und Südens bleiben bislang zu selten und zu unsystematisch.",
+              "source": "Stadtökologie und Klimaanpassung, Hrsg. Bundesinstitut für Bau-, Stadt- und Raumforschung, Sonderheft 3/2026"
             }
           ],
           "questions": [
             {
               "id": "C1_m10_R3_q1",
               "type": "mcq",
-              "questionText": "Was kritisiert der Autor des Kommentars (Text 1) an der bisherigen Klimakommunikation?",
+              "questionText": "Laut Text bedecken Städte weniger als zwei Prozent der globalen Landfläche, sind aber für den Großteil der weltweiten CO₂-Emissionen und des Energieverbrauchs verantwortlich.",
               "options": [
-                "a) Sie ist zu wissenschaftlich und für ein breites Publikum unverständlich.",
-                "b) Sie erzeugt durch gegensätzliche Extreme — Pessimismus und Optimismus — beide politische Passivität.",
-                "c) Sie unterschätzt die Dringlichkeit des Problems und verhindert ausreichende Gegenmaßnahmen."
+                "richtig",
+                "falsch",
+                "nicht_im_text"
               ],
-              "correctAnswer": "b",
-              "explanation": "Der Kommentar argumentiert explizit, dass sowohl Klimapessimismus als auch Klimaoptimismus politische Passivität erzeugen — nur aus verschiedenen Richtungen."
+              "correctAnswer": "richtig",
+              "explanation": "Der Text nennt explizit: 'weniger als zwei Prozent der globalen Landfläche', 'mehr als siebzig Prozent der weltweit erzeugten Energie' und 'über siebzig Prozent der anthropogenen CO₂-Emissionen'. Die Aussage ist korrekt."
             },
             {
               "id": "C1_m10_R3_q2",
               "type": "mcq",
-              "questionText": "Welche zusätzliche Bedingung nennt der Kommentar (Text 1) für wirksame Klimakommunikation?",
+              "questionText": "Der Text beschreibt urbane Grünflächen und Stadtbäume als primär ästhetische Maßnahmen, die für die Klimaanpassung eine untergeordnete Rolle spielen.",
               "options": [
-                "a) Sie muss emotionaler werden und persönliche Betroffenheit ansprechen.",
-                "b) Sie muss konkrete Handlungsmöglichkeiten und klare Verantwortlichkeiten benennen.",
-                "c) Sie muss sich stärker an wissenschaftlichen Konsens halten und Meinungen ausblenden."
+                "richtig",
+                "falsch",
+                "nicht_im_text"
               ],
-              "correctAnswer": "b",
-              "explanation": "Der Kommentar fordert eine Sprache, die benennt 'was konkret möglich ist und wer dafür verantwortlich ist' — also konkrete Handlungsmöglichkeiten und klare Verantwortlichkeiten."
+              "correctAnswer": "falsch",
+              "explanation": "Der Text argumentiert ausdrücklich das Gegenteil: Grünflächen 'gelten im Alltagsdiskurs oft als Verschönerungsmaßnahmen', sind aber 'ökologische Infrastruktur', die kühlt, versickert und Schadstoffe bindet. Die Aussage ist falsch."
             },
             {
               "id": "C1_m10_R3_q3",
               "type": "mcq",
-              "questionText": "Was empfiehlt das Umweltbundesamt (Text 2) als soziale Begleitmaßnahme zum CO2-Preisanstieg?",
+              "questionText": "Laut Text beherbergt der Berliner Stadtring mehr Vogelarten als manche ländliche Monokulturregion.",
               "options": [
-                "a) Eine Senkung der Mehrwertsteuer auf Grundnahrungsmittel und Energie.",
-                "b) Ein Klimageld als einkommensunabhängige Pro-Kopf-Zahlung an alle Haushalte.",
-                "c) Eine einkommensabhängige Subvention für den Erwerb von Elektrofahrzeugen."
+                "richtig",
+                "falsch",
+                "nicht_im_text"
               ],
-              "correctAnswer": "b",
-              "explanation": "Das Umweltbundesamt empfiehlt explizit ein 'Klimageld', das als 'Pro-Kopf-Zahlung an alle Haushalte' ausgezahlt wird."
+              "correctAnswer": "richtig",
+              "explanation": "Der Text erwähnt diesen Befund wörtlich: 'Der Berliner Stadtring beispielsweise beherbergt mehr Vogelarten als manche ländliche Monokulturregion'. Die Aussage ist korrekt."
             },
             {
               "id": "C1_m10_R3_q4",
               "type": "mcq",
-              "questionText": "Was betont das Umweltbundesamt (Text 2) als notwendige Ergänzung zu einem höheren CO2-Preis?",
+              "questionText": "Das 3-30-300-Prinzip schreibt vor, dass jeder Stadtbaum mindestens dreihundert Liter Wasser pro Jahr aufnehmen muss.",
               "options": [
-                "a) Internationale Klimaverhandlungen, um Wettbewerbsverzerrungen zu vermeiden.",
-                "b) Flankierende Infrastrukturinvestitionen, insbesondere in Nahverkehr und Gebäudesanierung.",
-                "c) Eine stärkere Regulierung der Energiekonzerne und Preisdeckelungen."
+                "richtig",
+                "falsch",
+                "nicht_im_text"
               ],
-              "correctAnswer": "b",
-              "explanation": "Das Umweltbundesamt betont, dass ein CO2-Preisanstieg 'ohne flankierende Infrastrukturinvestitionen — insbesondere im Bereich öffentlicher Nahverkehr und Gebäudesanierung' problematisch sei."
+              "correctAnswer": "nicht_im_text",
+              "explanation": "Das 3-30-300-Prinzip wird im Text als Standard für Baumkronendeckung, Baumssichtbarkeit und Parkdistanz beschrieben — kein Bezug zu Wasseraufnahme. Diese Information ist nicht im Text."
             },
             {
               "id": "C1_m10_R3_q5",
               "type": "mcq",
-              "questionText": "Welche Hauptkritik formuliert der Leserbrief (Text 3) an Suffizienz-Appellen?",
+              "questionText": "Laut Text scheitern Renaturierungsvorhaben in Städten häufig nicht an fehlendem technischem Wissen, sondern an politischer Priorisierung und begrenzten Finanzmitteln.",
               "options": [
-                "a) Suffizienz-Appelle ignorieren, dass technologische Lösungen effizienter wären.",
-                "b) Sie richten sich faktisch an Gruppen, die ohnehin wenig verbrauchen, und übersehen strukturelle Verbrauchsungleichheit.",
-                "c) Sie sind zu abstrakt formuliert und erreichen dadurch keine breite Öffentlichkeit."
+                "richtig",
+                "falsch",
+                "nicht_im_text"
               ],
-              "correctAnswer": "b",
-              "explanation": "Der Leserbrief kritisiert, dass Suffizienz-Appelle soziale Ungleichheit ignorieren und de facto jene zur Reduktion auffordern, die ohnehin schon sparsam wirtschaften, statt überproportionale Verbraucher zu adressieren."
+              "correctAnswer": "richtig",
+              "explanation": "Der Text erklärt wörtlich: 'Renaturierungsvorhaben scheitern nicht an technischem Unverstand, sondern an politischer Priorisierung und fiskalischen Engpässen'. Die Aussage ist korrekt."
             },
             {
               "id": "C1_m10_R3_q6",
               "type": "mcq",
-              "questionText": "Welche grundlegende Unterscheidung trifft die Expertin im Interview (Text 4) zum Thema Wasserstoff?",
+              "questionText": "Singapur, Wien und Zürich werden im Text als Beispiele für Städte genannt, die grüne Infrastruktur explizit in ihre Klimaanpassungsstrategien integriert haben.",
               "options": [
-                "a) Zwischen grünem und blauem Wasserstoff hinsichtlich ihrer Klimabilanz.",
-                "b) Zwischen Wasserstoff als Energiequelle und Wasserstoff als Energieträger.",
-                "c) Zwischen Wasserstoff für industrielle Nutzung und für private Haushalte."
+                "richtig",
+                "falsch",
+                "nicht_im_text"
               ],
-              "correctAnswer": "b",
-              "explanation": "Die Expertin erklärt explizit: 'Wasserstoff ist keine Energiequelle — er ist ein Energieträger.' Diese Unterscheidung nennt sie 'fundamental'."
+              "correctAnswer": "richtig",
+              "explanation": "Der Text nennt diese drei Städte ausdrücklich: 'Städte wie Singapur, Wien und Zürich haben den Ausbau grüner Infrastruktur explizit in ihre Klimaanpassungsstrategien integriert'. Die Aussage ist korrekt."
             },
             {
               "id": "C1_m10_R3_q7",
               "type": "mcq",
-              "questionText": "Für welche Sektoren hält die Expertin (Text 4) grünen Wasserstoff für geeignet?",
+              "questionText": "Dem Text zufolge erleben einkommensschwache Stadtbewohner die Folgen des Wärmeinseleffekts in besonderem Maß, weil sie häufiger in Gebäuden ohne Klimaanlage wohnen.",
               "options": [
-                "a) Heizung und PKW-Antrieb, weil die Technologie dort besonders effizient ist.",
-                "b) Stahl, Chemie und möglicherweise Langstreckenfliegen, wo direkte Elektrifizierung nicht möglich ist.",
-                "c) Öffentlicher Nahverkehr und Gebäudesanierung als Ergänzung zu Wärmepumpen."
+                "richtig",
+                "falsch",
+                "nicht_im_text"
               ],
-              "correctAnswer": "b",
-              "explanation": "Die Expertin nennt Stahl, Chemie und 'vielleicht Langstreckenfliegen' als geeignete Sektoren — jene, 'in denen direkte Elektrifizierung nicht möglich ist'."
+              "correctAnswer": "nicht_im_text",
+              "explanation": "Der Text beschreibt die doppelte Belastung einkommensschwacher Bewohner durch höhere Außentemperaturen und schlechtere Kühlung innen — verweist aber nicht spezifisch auf das Fehlen von Klimaanlagen. Die Aussage geht über den Textinhalt hinaus."
             },
             {
               "id": "C1_m10_R3_q8",
               "type": "mcq",
-              "questionText": "Was warnt die Expertin (Text 4) hinsichtlich von Investitionen in Wasserstoff-PKW-Infrastruktur?",
+              "questionText": "Laut Text haben Grünflächenprogramme, die auf touristisch attraktive Innenstadtbereiche abzielen, das Problem sozialer Ungleichheit bei der Grünflächenverteilung gelöst.",
               "options": [
-                "a) Diese Investitionen seien zu teuer und würden die Staatsverschuldung erhöhen.",
-                "b) Sie setzen auf eine falsche Technologie und verzögern nötige Investitionen in Wärmepumpen und Batterien.",
-                "c) Die Technologie sei noch zu unreif für den Masseneinsatz und brauche mehr Forschungsförderung."
+                "richtig",
+                "falsch",
+                "nicht_im_text"
               ],
-              "correctAnswer": "b",
-              "explanation": "Die Expertin warnt: Wer in Wasserstoff-PKW-Infrastruktur investiert, 'setzt auf das falsche Pferd — und verzögert die nötigen Investitionen in Wärmepumpen und Batterien'."
+              "correctAnswer": "falsch",
+              "explanation": "Der Text sagt das Gegenteil: Solche Programme 'lösen diesen strukturellen Konflikt nicht — sie verschieben ihn'. Die Aussage ist falsch."
             },
             {
               "id": "C1_m10_R3_q9",
               "type": "mcq",
-              "questionText": "Welches übergeordnete Argument verbindet den Kommentar (Text 1) und den Leserbrief (Text 3)?",
+              "questionText": "Der Text argumentiert, dass das Schwinden urbaner Biodiversität aus dem Alltag langfristig die gesellschaftliche Bereitschaft für Klimaschutzpolitik untergraben könnte.",
               "options": [
-                "a) Beide fordern eine stärkere Regulierung der Energiewirtschaft.",
-                "b) Beide kritisieren, dass Klimadiskurse Differenzierung vermissen lassen — nach Verantwortlichkeiten bzw. nach sozialer Lage.",
-                "c) Beide plädieren für eine technologieoffene Klimapolitik ohne normative Vorannahmen."
+                "richtig",
+                "falsch",
+                "nicht_im_text"
               ],
-              "correctAnswer": "b",
-              "explanation": "Der Kommentar kritisiert fehlende Differenzierung nach Verantwortlichkeiten ('wer ist dafür verantwortlich'); der Leserbrief kritisiert fehlende Differenzierung nach sozialer Lage ('wer wie viel verbraucht'). Beide Texte mahnen also mehr Differenziertheit im Klimadiskurs an."
+              "correctAnswer": "richtig",
+              "explanation": "Der Text formuliert: 'Eine Gesellschaft, der Natur fremd geworden ist, wird kaum politisch für ihren Schutz eintreten' — urbane Biodiversität sei 'auch die Grundlage für gesellschaftliche Klimabereitschaft'. Die Aussage ist korrekt."
             },
             {
               "id": "C1_m10_R3_q10",
               "type": "mcq",
-              "questionText": "Welche gemeinsame Schlussfolgerung lässt sich aus den Texten 2 und 3 zum Thema CO2-Bepreisung und Suffizienz ziehen?",
+              "questionText": "Laut Text empfiehlt die europäische Kommission das 3-30-300-Prinzip als verbindlichen Standard für alle EU-Mitgliedstaaten.",
               "options": [
-                "a) Beide Texte lehnen marktbasierte Klimainstrumente als sozial ungerecht ab.",
-                "b) Beide Texte zeigen, dass Klimamaßnahmen soziale Ungleichheit aktiv berücksichtigen müssen, um legitim zu sein.",
-                "c) Beide Texte argumentieren, dass individuelle Verhaltensänderungen wichtiger sind als strukturelle Maßnahmen."
+                "richtig",
+                "falsch",
+                "nicht_im_text"
               ],
-              "correctAnswer": "b",
-              "explanation": "Text 2 fordert Infrastrukturinvestitionen als Begleitmaßnahme zu CO2-Preisen; Text 3 fordert, dass Suffizienz-Appelle soziale Ungleichheit adressieren. Beide Texte thematisieren damit die soziale Dimension von Klimamaßnahmen als Legitimitätsbedingung."
+              "correctAnswer": "nicht_im_text",
+              "explanation": "Das 3-30-300-Prinzip wird als 'evidenzbasierter Mindeststandard' der Stadtökologieforschung beschrieben — eine EU-weite Empfehlung der Europäischen Kommission wird im Text nicht erwähnt. Die Aussage ist nicht im Text."
+            },
+            {
+              "id": "C1_m10_R3_q11",
+              "type": "mcq",
+              "questionText": "Der Text fordert unter anderem, dass kommunale Baumschutzsatzungen mit wirksameren Sanktionen versehen werden, weil bestehende Bußgelder zu niedrig sind.",
+              "options": [
+                "richtig",
+                "falsch",
+                "nicht_im_text"
+              ],
+              "correctAnswer": "richtig",
+              "explanation": "Der Text schreibt explizit: 'Baumschutzsatzungen gestärkt und mit echten Sanktionen versehen werden — Bußgelder, die unter den Kosten des Fällens und Ersetzbepflanzens liegen, sind kein wirksames Instrument'. Die Aussage ist korrekt."
+            },
+            {
+              "id": "C1_m10_R3_q12",
+              "type": "mcq",
+              "questionText": "Laut Text kann die Klimaanpassung der Städte allein durch technische Maßnahmen wie Wärmedämmung und Photovoltaik bewältigt werden.",
+              "options": [
+                "richtig",
+                "falsch",
+                "nicht_im_text"
+              ],
+              "correctAnswer": "falsch",
+              "explanation": "Der Text stellt klar: 'Sie ist nicht allein eine technische Aufgabe, die mit Dämmung und Photovoltaik gelöst werden kann.' Die Aussage ist falsch."
+            }
+          ]
+        }
+      ]
+    },
+    "sprachbausteine": {
+      "totalTimeMinutes": 25,
+      "parts": [
+        {
+          "partNumber": 1,
+          "instructions": "Lesen Sie den folgenden Text. Wählen Sie bei jeder Lücke (1–22) die richtige Antwort (a, b, c oder d). Es gibt jeweils nur eine richtige Antwort.",
+          "instructionsTranslation": "Read the following text. For each gap (1–22) choose the correct answer (a, b, c or d). There is only one correct answer each time.",
+          "text": "Der Verlust biologischer Vielfalt gilt (1) ____ als eine der gravierendsten Krisen unserer Zeit — gleichrangig mit dem Klimawandel, wenngleich in der öffentlichen Wahrnehmung (2) ____ weniger präsent. Dabei sind beide Krisen (3) ____: Intakte Ökosysteme binden CO₂, regulieren das Klima und schützen vor Extremwetterereignissen. Wer also Klimaschutz betreibt, ohne Biodiversität mitzudenken, (4) ____ an den strukturellen Ursachen vorbei.\n\nDas Kunming-Montréal-Abkommen von 2022 hat (5) ____ Ziele gesetzt: Bis 2030 sollen 30 Prozent der Land- und Meeresflächen weltweit unter Schutz (6) ____. Das klingt ambitioniert — (7) ____ gibt es erhebliche Umsetzungslücken. Viele bestehende Schutzgebiete sind auf dem Papier ausgewiesen, werden aber faktisch nicht (8) ____. Experten sprechen von 'Papierparks', die Schutzstatistiken aufbessern, ohne reale ökologische Wirkung zu (9) ____.\n\nBesonders (10) ____ ist die Finanzierungsfrage. Entwicklungsländer beherbergen den Großteil der globalen Biodiversität, verfügen (11) ____ über deutlich geringere finanzielle Mittel zu deren Schutz. Das Abkommen sieht eine Aufstockung internationaler Biodiversitätsfinanzierung (12) ____ 200 Milliarden US-Dollar jährlich bis 2030 vor. Ob diese Mittel (13) ____ werden, ist offen — historisch blieben ähnliche Finanzierungszusagen häufig hinter den Erwartungen (14) ____.\n\nDie Integration von Biodiversitätszielen in Wirtschaftsprozesse (15) ____ eine der größten Herausforderungen dar. Naturkapitalbilanzierung — die Erfassung von Ökosystemleistungen in volkswirtschaftlichen Rechnungssystemen — wird (16) ____ als zentrales Instrument diskutiert. Wenn ein intakter Regenwald ökonomisch genauso (17) ____ wie eine degradierte Anbaufläche, entfällt der wirtschaftliche Anreiz zu seiner Entwaldung. Bisher fehlen (18) ____ einheitliche Methoden und politischer Wille, um eine solche Bewertung verbindlich durchzusetzen.\n\nIndigene Völker und lokale Gemeinschaften spielen in der Biodiversitätsgovernance eine Rolle, die lange (19) ____ wurde. Studien zeigen, dass Schutzgebiete unter ihrer Verwaltung (20) ____ besser abschneiden als staatlich verwaltete Reservate — gemessen an Artenvielfalt, Waldbedeckung und Ökosystemintegrität. Das Kunming-Montréal-Abkommen erkennt diese Rechte (21) ____ an — die praktische Umsetzung bleibt (22) ____ von Land zu Land sehr unterschiedlich.",
+          "questions": [
+            {
+              "blankNumber": 1,
+              "type": "mcq",
+              "options": [
+                "mittlerweile",
+                "seither",
+                "nunmehr",
+                "derweil"
+              ],
+              "correctAnswer": "mittlerweile",
+              "explanation": "'gilt mittlerweile als' — 'mittlerweile' drückt eine zeitliche Entwicklung aus (= inzwischen, nach einer Entwicklung). 'Seither' erfordert einen Bezugspunkt; 'nunmehr' ist stilistisch archaisch; 'derweil' ist temporal-adversativ und passt nicht."
+            },
+            {
+              "blankNumber": 2,
+              "type": "mcq",
+              "options": [
+                "noch",
+                "zwar",
+                "schon",
+                "aber"
+              ],
+              "correctAnswer": "noch",
+              "explanation": "'wenngleich … noch weniger präsent' — 'noch' verstärkt den Komparativ ('weniger') und drückt das Andauern eines Zustands aus. 'Zwar' würde eine konzessive Doppelstruktur ('zwar … aber') einleiten; 'schon' und 'aber' passen syntaktisch nicht."
+            },
+            {
+              "blankNumber": 3,
+              "type": "mcq",
+              "options": [
+                "voneinander abhängig",
+                "miteinander verknüpft",
+                "gegeneinander abzuwägen",
+                "untrennbar verbunden"
+              ],
+              "correctAnswer": "miteinander verknüpft",
+              "explanation": "'beide Krisen sind miteinander verknüpft' — 'verknüpft' beschreibt strukturelle Vernetzung im akademisch-politischen Register. 'Voneinander abhängig' wäre korrekt, ist aber asymmetrisch konnotiert; 'untrennbar verbunden' ist stilistisch zu stark; 'gegeneinander abzuwägen' widerspricht dem Argumentationsfluss."
+            },
+            {
+              "blankNumber": 4,
+              "type": "mcq",
+              "options": [
+                "geht",
+                "handelt",
+                "arbeitet",
+                "zielt"
+              ],
+              "correctAnswer": "geht",
+              "explanation": "'geht an den strukturellen Ursachen vorbei' — 'an etwas vorbeigehen' ist die feste Kollokation für 'ein Problem verfehlen, nicht adressieren'. 'Handelt vorbei' und 'arbeitet vorbei' sind unidiomatisch; 'zielt vorbei' hat eine andere Bedeutung."
+            },
+            {
+              "blankNumber": 5,
+              "type": "mcq",
+              "options": [
+                "ehrgeizige",
+                "weitreichende",
+                "anspruchsvolle",
+                "globale"
+              ],
+              "correctAnswer": "ehrgeizige",
+              "explanation": "'ehrgeizige Ziele gesetzt' — 'ehrgeizig' ist im umweltpolitischen Diskurs die Standardkollokation für ambitionierte, schwer erreichbare Politikziele. 'Weitreichende' betont Reichweite, nicht Schwierigkeit; 'anspruchsvolle' ist möglich, aber weniger etabliert; 'globale' beschreibt den Geltungsbereich, nicht den Charakter."
+            },
+            {
+              "blankNumber": 6,
+              "type": "mcq",
+              "options": [
+                "gestellt",
+                "gesetzt",
+                "gebracht",
+                "gestellt werden"
+              ],
+              "correctAnswer": "gestellt",
+              "explanation": "'sollen … unter Schutz gestellt' — 'unter Schutz stellen' ist die feste Kollokation für formalen Naturschutz. 'Gesetzt' und 'gebracht' bilden keine idiomatische Verbindung mit 'unter Schutz'; 'gestellt werden' ist eine syntaktische Doppelung, die den Satzbau bricht."
+            },
+            {
+              "blankNumber": 7,
+              "type": "mcq",
+              "options": [
+                "gleichwohl",
+                "allerdings",
+                "jedoch",
+                "dennoch"
+              ],
+              "correctAnswer": "allerdings",
+              "explanation": "'Das klingt ambitioniert — allerdings gibt es erhebliche Umsetzungslücken' — 'allerdings' drückt einen konzessiven Einwand nach einer positiven Aussage aus und steht idiomatisch in satzinitialer Stellung. 'Gleichwohl' ist formal äquivalent, aber stilistisch gesetzter; 'jedoch' und 'dennoch' sind beide möglich, aber 'allerdings' trifft den journalistisch-akademischen Ton am besten."
+            },
+            {
+              "blankNumber": 8,
+              "type": "mcq",
+              "options": [
+                "durchgesetzt",
+                "bewacht",
+                "umgesetzt",
+                "kontrolliert"
+              ],
+              "correctAnswer": "bewacht",
+              "explanation": "'faktisch nicht bewacht' — im Kontext von Schutzgebieten bedeutet 'bewacht' die tatsächliche Ranger-Präsenz und Durchsetzung. 'Kontrolliert' wäre möglich, ist aber breiter; 'durchgesetzt' bezieht sich auf Regeln, nicht auf Gebiete; 'umgesetzt' würde eine Maßnahme, nicht ein Gebiet beschreiben."
+            },
+            {
+              "blankNumber": 9,
+              "type": "mcq",
+              "options": [
+                "entfalten",
+                "erzeugen",
+                "erzielen",
+                "bewirken"
+              ],
+              "correctAnswer": "erzielen",
+              "explanation": "'ohne reale ökologische Wirkung zu erzielen' — 'Wirkung erzielen' ist die feste Kollokation in politischem und wissenschaftlichem Diskurs. 'Entfalten' erfordert ein Subjekt ('die Maßnahme entfaltet Wirkung'); 'erzeugen' hat eine physikalische Konnotation; 'bewirken' ist semantisch äquivalent, aber 'erzielen' passt besser zur Infinitivkonstruktion."
+            },
+            {
+              "blankNumber": 10,
+              "type": "mcq",
+              "options": [
+                "heikel",
+                "drängend",
+                "komplex",
+                "ungeklärt"
+              ],
+              "correctAnswer": "drängend",
+              "explanation": "'Besonders drängend ist die Finanzierungsfrage' — 'drängend' bezeichnet eine Frage, die dringend gelöst werden muss ('brennend'). 'Heikel' betont diplomatische Empfindlichkeit; 'komplex' die Vielschichtigkeit; 'ungeklärt' den Zustand — alle drei treffen nicht die Dringlichkeit, die der Kontext verlangt."
+            },
+            {
+              "blankNumber": 11,
+              "type": "mcq",
+              "options": [
+                "aber",
+                "jedoch",
+                "hingegen",
+                "gleichzeitig"
+              ],
+              "correctAnswer": "jedoch",
+              "explanation": "'verfügen jedoch über deutlich geringere Mittel' — 'jedoch' drückt den adversativen Kontrast nach der Einführung ('beherbergen den Großteil') aus. 'Jedoch' steht hier idiomatisch satzintern nach dem Verb. 'Aber' wäre zu umgangssprachlich in dieser satzinternen Position; 'hingegen' wäre korrekt aber würde eine stärkere topikale Trennung erzeugen; 'gleichzeitig' ist nicht adversativ."
+            },
+            {
+              "blankNumber": 12,
+              "type": "mcq",
+              "options": [
+                "auf",
+                "von",
+                "in Höhe von",
+                "bis zu"
+              ],
+              "correctAnswer": "auf",
+              "explanation": "'Aufstockung … auf 200 Milliarden' — 'aufstocken auf' ist die idiomatische Konstruktion für das Erhöhen eines Betrags auf ein Ziel. 'Von' würde die Herkunft beschreiben; 'in Höhe von' gibt den absoluten Betrag an; 'bis zu' beschreibt eine Obergrenze — keines passt zur Valenz von 'Aufstockung auf'."
+            },
+            {
+              "blankNumber": 13,
+              "type": "mcq",
+              "options": [
+                "fließen",
+                "transferiert",
+                "mobilisiert",
+                "bereitgestellt"
+              ],
+              "correctAnswer": "mobilisiert",
+              "explanation": "'ob diese Mittel mobilisiert werden' — 'mobilisieren' ist im Kontext internationaler Klimafinanzierung der etablierte Terminus für das Aktivieren und Bereitstellen von Finanzressourcen. 'Fließen' ist metaphorisch korrekt, aber passivisch ungelenk; 'transferiert' betont den Transfer, nicht die Aktivierung; 'bereitgestellt' ist synonymisch, aber 'mobilisiert' trifft den Fachdiskurs präziser."
+            },
+            {
+              "blankNumber": 14,
+              "type": "mcq",
+              "options": [
+                "zurück",
+                "aus",
+                "hinter",
+                "ab"
+              ],
+              "correctAnswer": "zurück",
+              "explanation": "'hinter den Erwartungen zurückgeblieben' — 'hinter Erwartungen zurückbleiben' ist die feste Kollokation für das Verfehlen von Zielen. 'Hinter … aus' und 'hinter … ab' bilden keine Kollokation; das bloße 'hinter' ist grammatisch unvollständig."
+            },
+            {
+              "blankNumber": 15,
+              "type": "mcq",
+              "options": [
+                "bleibt",
+                "stellt",
+                "erweist sich",
+                "gilt"
+              ],
+              "correctAnswer": "stellt",
+              "explanation": "'stellt eine der größten Herausforderungen dar' — 'eine Herausforderung darstellen' ist die feste FVG-Kollokation. 'Bleibt' würde 'eine Herausforderung bleiben' bilden (möglich, aber schwächer); 'erweist sich als' erfordert einen Prädikativ; 'gilt als' hätte eine andere Nuance (= wird so bezeichnet)."
+            },
+            {
+              "blankNumber": 16,
+              "type": "mcq",
+              "options": [
+                "zunehmend",
+                "wiederholt",
+                "vermehrt",
+                "verstärkt"
+              ],
+              "correctAnswer": "zunehmend",
+              "explanation": "'wird zunehmend als … Instrument diskutiert' — 'zunehmend' beschreibt den Anstieg der Intensität einer Debatte. 'Wiederholt' bedeutet 'mehrfach', betont Wiederholung nicht Tendenz; 'vermehrt' ist stilistisch umgangssprachlicher; 'verstärkt' betont Intensitätserhöhung, passt aber weniger zur Diskursentwicklung."
+            },
+            {
+              "blankNumber": 17,
+              "type": "mcq",
+              "options": [
+                "bewertet wird",
+                "erscheint",
+                "zählt",
+                "veranschlagt wird"
+              ],
+              "correctAnswer": "bewertet wird",
+              "explanation": "'ökonomisch genauso bewertet wird' — 'ökonomisch bewerten' ist im Kontext der Naturkapitalbilanzierung der präzise Terminus. 'Erscheint' wäre modal zu schwach; 'zählt' ist umgangssprachlich; 'veranschlagt wird' betont Schätzung, nicht Bewertungssystem."
+            },
+            {
+              "blankNumber": 18,
+              "type": "mcq",
+              "options": [
+                "bislang",
+                "allerdings",
+                "jedoch",
+                "dabei"
+              ],
+              "correctAnswer": "bislang",
+              "explanation": "'Bisher fehlen bislang einheitliche Methoden' — Korrektur: Lücke 18 ersetzt 'bislang' als das Adverb vor 'einheitliche'. 'Bislang' ist das gehobene Synonym zu 'bisher' und passt zum akademischen Register. 'Allerdings' und 'jedoch' sind adversative Konnektoren, keine Temporaladverbien; 'dabei' wäre modal."
+            },
+            {
+              "blankNumber": 19,
+              "type": "mcq",
+              "options": [
+                "unterschätzt",
+                "ignoriert",
+                "vernachlässigt",
+                "verkannt"
+              ],
+              "correctAnswer": "verkannt",
+              "explanation": "'eine Rolle, die lange verkannt wurde' — 'verkennen' bedeutet 'nicht in ihrer wahren Bedeutung erkennen'; es ist das präziseste Verb für das strukturelle Übersehen eines Wertes. 'Ignoriert' impliziert Absicht; 'vernachlässigt' unterlassene Pflege; 'unterschätzt' eine falsche Quantifizierung — alle drei treffen die epistemische Dimension weniger genau."
+            },
+            {
+              "blankNumber": 20,
+              "type": "mcq",
+              "options": [
+                "signifikant",
+                "messbar",
+                "deutlich",
+                "merklich"
+              ],
+              "correctAnswer": "deutlich",
+              "explanation": "'Schutzgebiete unter ihrer Verwaltung deutlich besser abschneiden' — 'deutlich' ist der neutrale akademische Komparativverstärker. 'Signifikant' wäre statistisch korrekt, setzt aber einen formaleren Kontext voraus; 'messbar' und 'merklich' sind etwas umgangssprachlicher."
+            },
+            {
+              "blankNumber": 21,
+              "type": "mcq",
+              "options": [
+                "formell",
+                "ausdrücklich",
+                "prinzipiell",
+                "grundsätzlich"
+              ],
+              "correctAnswer": "ausdrücklich",
+              "explanation": "'erkennt diese Rechte ausdrücklich an' — 'ausdrücklich anerkennen' bedeutet explizit, ohne Mehrdeutigkeit — die stärkste Form der Anerkennung in juristisch-politischen Texten. 'Formell' betont Form, nicht Inhalt; 'prinzipiell' wäre schwächer ('im Prinzip'); 'grundsätzlich' ähnlich vage."
+            },
+            {
+              "blankNumber": 22,
+              "type": "mcq",
+              "options": [
+                "jedoch",
+                "aber",
+                "indes",
+                "gleichwohl"
+              ],
+              "correctAnswer": "jedoch",
+              "explanation": "'bleibt jedoch von Land zu Land sehr unterschiedlich' — 'jedoch' drückt den adversativen Kontrast zur formellen Anerkennung aus und steht idiomatisch satzintern nach 'bleibt'. 'Aber' wäre zu umgangssprachlich; 'indes' ist veraltet; 'gleichwohl' wäre stärker konzessiv als der Kontext verlangt."
             }
           ]
         }
