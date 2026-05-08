@@ -1479,10 +1479,10 @@
         },
         {
           "partNumber": 3,
-          "instructions": "Sie hören einen akademischen Vortrag zum Thema Forschungsmethoden und Reproduzierbarkeit. Im Testheft finden Sie fünf Folien mit je zwei Lücken. Füllen Sie die Lücken während des Vortrags aus. Sie hören den Vortrag nur einmal.",
-          "instructionsTranslation": "You will hear an academic lecture on the topic of research methods and reproducibility. In the test booklet you will find five slides each with two gaps. Fill in the gaps during the lecture. You will hear the lecture only once.",
+          "instructions": "Sie hören einen akademischen Vortrag zum Thema Forschungsmethoden und Reproduzierbarkeit. Im Testheft finden Sie fünf Folien mit je zwei Lücken. Füllen Sie die Lücken während des Vortrags aus. Sie hören den Vortrag zweimal.",
+          "instructionsTranslation": "You will hear an academic lecture on the topic of research methods and reproducibility. In the test booklet you will find five slides each with two gaps. Fill in the gaps during the lecture. You will hear the lecture twice.",
           "audioFile": "assets/audio/C1/mock01/listening_part3.mp3",
-          "playCount": 1,
+          "playCount": 2,
           "slides": [
             {
               "slideNumber": 1,
