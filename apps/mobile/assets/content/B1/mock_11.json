@@ -2,7 +2,7 @@
   "id": "B1_mock_11",
   "level": "B1",
   "title": "B1 Übungstest 11: Arbeit & Karriere",
-  "version": 1,
+  "version": 2,
   "sections": {
     "listening": {
       "totalTimeMinutes": 30,
@@ -170,66 +170,66 @@
             {
               "id": "B1_m11_L3_q1",
               "type": "mcq",
-              "questionText": "Warum möchte Nina ihre aktuelle Stelle wechseln?",
+              "questionText": "Was ist das Problem mit der Präsentation am nächsten Tag?",
               "options": [
-                "a) Sie verdient zu wenig und findet das Gehalt ungerecht.",
-                "b) Sie hat keine Möglichkeit, sich beruflich weiterzuentwickeln.",
-                "c) Ihr Verhältnis zum Chef ist seit Monaten sehr angespannt."
+                "a) Der Kollege hat die Präsentationsunterlagen zu Hause vergessen.",
+                "b) Die Präsentationspartnerin ist krank und er muss allein vor dem Kunden präsentieren.",
+                "c) Der Kunde hat den Termin kurzfristig abgesagt."
               ],
               "correctAnswer": "b",
-              "explanation": "Nina sagt: 'Das Gehalt ist okay, aber ich stehe seit zwei Jahren auf derselben Stelle — kein Aufstieg, keine neuen Aufgaben.' Fehlende Entwicklung ist ihr Hauptgrund. Gehalt (a) schließt sie selbst aus. Den Chef (c) erwähnt sie als Nebenproblem. [Trap: detail-to-main swap (c)]",
+              "explanation": "Der Kollege erklärt, dass Maria krank ist und ihm geschrieben hat. Petra bestätigt: 'Dann musst du morgen wohl allein vor dem Kunden präsentieren.' Option a ist eine false-inference-Falle — Unterlagen werden erwähnt, aber sie sind kein Problem. Option c (Termin abgesagt) widerspricht dem Gespräch direkt.",
               "audioTimestamp": 14
             },
             {
               "id": "B1_m11_L3_q2",
               "type": "mcq",
-              "questionText": "Was hat Lucas nach seinem Studium zunächst gemacht?",
+              "questionText": "Was fragt Frau Hoffmann am Ende des Telefongesprächs mit dem Personalverantwortlichen?",
               "options": [
-                "a) Er hat direkt eine feste Stelle in einem Unternehmen begonnen.",
-                "b) Er hat ein unbezahltes Praktikum bei einer Agentur absolviert.",
-                "c) Er hat sich zunächst selbstständig gemacht."
+                "a) Sie fragt, wann das persönliche Gespräch stattfinden soll.",
+                "b) Sie fragt nach den genauen Arbeitszeiten und dem Urlaubsanspruch.",
+                "c) Sie fragt nach dem Gehaltsrahmen für die Stelle."
               ],
-              "correctAnswer": "b",
-              "explanation": "Lucas erzählt: 'Nach dem Abschluss habe ich sechs Monate bei einer Werbeagentur reingeschnuppert — leider ohne Bezahlung.' Option a ist eine false-inference-Falle: Agentur klingt nach fester Stelle, war aber nur Praktikum. Option c nennt er für später. [Trap: false-inference (a), time-frame shift (c)]",
+              "correctAnswer": "c",
+              "explanation": "Frau Hoffmann sagt: 'Könnten Sie mir etwas zum Gehaltsrahmen sagen? Ich möchte wissen, ob unsere Vorstellungen zusammenpassen.' Option a ist eine false-inference-Falle — ein persönliches Gespräch wird danach zwar angedeutet, aber Frau Hoffmann fragt explizit nach dem Gehalt. Option b (Arbeitszeiten, Urlaub) wird im Gespräch nie erwähnt.",
               "audioTimestamp": 52
             },
             {
               "id": "B1_m11_L3_q3",
               "type": "mcq",
-              "questionText": "Welchen Rat gibt die Karriereberaterin Frau Böhm für ein erfolgreiches Bewerbungsgespräch?",
+              "questionText": "Wann treffen sich die beiden Kollegen persönlich im Büro?",
               "options": [
-                "a) Man soll sich so präsentieren, wie man wirklich ist.",
-                "b) Man soll sich vorher genau über die Firma und die Stelle informieren.",
-                "c) Man soll immer ein Anschreiben schicken, auch wenn die Firma keines verlangt."
+                "a) Am Montag, weil dann am wenigsten los ist.",
+                "b) Am Dienstag, weil das für beide passt.",
+                "c) Am Donnerstag, weil Stefan dann sowieso im Büro ist."
               ],
               "correctAnswer": "b",
-              "explanation": "Frau Böhm sagt: 'Der größte Fehler ist, unvorbereitet ins Gespräch zu gehen. Recherchieren Sie die Firma, lesen Sie die Stellenbeschreibung genau.' Option a klingt vernünftig, wird aber nicht als ihr Hauptrat genannt. Option c erwähnt sie nicht. [Trap: plausible but unsaid (a)]",
+              "explanation": "Stefan plant Dienstag und Donnerstag vor Ort. Beide einigen sich auf Dienstag. Option c ist eine preposition micro-trap — Stefan nennt Donnerstag auch, aber die gemeinsame Entscheidung fällt auf Dienstag. Option a (Montag) taucht im Gespräch nicht auf — false-inference.",
               "audioTimestamp": 88
             },
             {
               "id": "B1_m11_L3_q4",
               "type": "mcq",
-              "questionText": "Warum hat sich Herr Sommer für einen Quereinstieg in die IT entschieden?",
+              "questionText": "Was bietet der Chef Frau Nguyen im Mitarbeitergespräch an?",
               "options": [
-                "a) Er hatte nach seiner Entlassung keine andere Wahl.",
-                "b) Er wollte schon immer mit Computern arbeiten und hat in seiner Freizeit programmieren gelernt.",
-                "c) Ein Freund hat ihm eine Stelle bei seiner Firma angeboten."
+                "a) Einen Weiterbildungskurs im Projektmanagement.",
+                "b) Eine höhere Position mit mehr Verantwortung und Gehaltserhöhung.",
+                "c) Ein neues Projekt, das sie ab sofort eigenständig leiten soll."
               ],
-              "correctAnswer": "b",
-              "explanation": "Herr Sommer sagt: 'Das Interesse an Technik hatte ich schon immer. Ich habe abends Kurse gemacht und den Sprung gewagt.' Die Entscheidung war intrinsisch motiviert. Option a ist ein causal-reversal-Irrtum. [Trap: causal reversal (a)]",
+              "correctAnswer": "a",
+              "explanation": "Der Chef sagt klar: 'Ich würde Ihnen gerne einen Weiterbildungskurs im Bereich Projektmanagement anbieten.' Option b ist eine generalisation-Falle — er lobt ihre Arbeit, erwähnt aber weder Beförderung noch Gehalt. Option c (Projekt leiten) wird nicht vorgeschlagen.",
               "audioTimestamp": 124
             },
             {
               "id": "B1_m11_L3_q5",
               "type": "mcq",
-              "questionText": "Was planen Lena und Jonas nach ihrem Auslandspraktikum?",
+              "questionText": "Warum ist die Frau gerade auf Jobsuche?",
               "options": [
-                "a) Sie wollen dauerhaft im Ausland bleiben und dort eine feste Stelle suchen.",
-                "b) Sie wollen zurückkommen und die Erfahrungen in ihrer Bewerbung nutzen.",
-                "c) Sie sind noch unsicher und haben noch keinen konkreten Plan."
+                "a) Sie hat selbst gekündigt, weil sie das Arbeitsklima nicht mehr ertragen konnte.",
+                "b) Ihr Jahresvertrag ist nach zwei Jahren regulär ausgelaufen.",
+                "c) Ihre Stelle wurde von der Firma gestrichen."
               ],
-              "correctAnswer": "b",
-              "explanation": "Lena sagt: 'Wir freuen uns darauf, wieder nach Hause zu kommen — diese Erfahrung auf den Lebenslauf zu schreiben ist Gold wert.' Option a ist eine time-frame-shift-Falle. Option c widerspricht ihrem konkreten Plan. [Trap: time-frame shift (a)]",
+              "correctAnswer": "c",
+              "explanation": "Die Frau erklärt: 'Die Firma hat leider Stellen abgebaut — meine Stelle wurde einfach gestrichen.' Option a ist ein voice/mood-swap — aktiv (selbst kündigen) vs. passiv (Stelle wurde gestrichen). Option b (Vertrag ausgelaufen) ist eine causal-reversal-Falle.",
               "audioTimestamp": 158
             }
           ]

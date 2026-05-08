@@ -2,7 +2,7 @@
   "id": "B1_mock_12",
   "level": "B1",
   "title": "B1 Übungstest 12: Gesundheit & Lebensstil",
-  "version": 1,
+  "version": 2,
   "sections": {
     "listening": {
       "totalTimeMinutes": 30,
@@ -162,75 +162,75 @@
         },
         {
           "partNumber": 3,
-          "instructions": "Sie hören ein Gespräch zwischen zwei Freunden. Zu dem Gespräch gibt es fünf Aufgaben. Was ist richtig? Kreuzen Sie an: a, b oder c. Sie hören das Gespräch zweimal.",
-          "instructionsTranslation": "You will hear a conversation between two friends. There are five tasks about the conversation. What is correct? Mark: a, b, or c. You will hear the conversation twice.",
+          "instructions": "Sie hören fünf kurze Gespräche. Zu jedem Gespräch gibt es eine Aufgabe. Was ist richtig? Kreuzen Sie an: a, b oder c. Sie hören jedes Gespräch zweimal.",
+          "instructionsTranslation": "You will hear five short conversations. For each conversation there is one task. What is correct? Mark: a, b, or c. You will hear each conversation twice.",
           "audioFile": "assets/audio/B1/mock12/listening_part3.mp3",
           "playCount": 2,
           "questions": [
             {
               "id": "B1_m12_L3_q1",
               "type": "mcq",
-              "questionText": "Warum hat Jonas angefangen zu laufen?",
+              "questionText": "Was sagt der Arzt über die Blutwerte der Patientin?",
               "options": [
-                "a) Sein Arzt hat ihm dazu geraten, weil er Rückenprobleme hatte.",
-                "b) Ein Freund hat ihn eingeladen, und er wollte es einfach mal ausprobieren.",
-                "c) Er wollte abnehmen und hat dafür einen Trainingsplan erstellt."
+                "a) Die Blutwerte sind leicht erhöht und sie braucht sofort Medikamente.",
+                "b) Die Blutwerte sind in Ordnung — er rät ihr zunächst zu mehr Bewegung.",
+                "c) Die Blutwerte fehlen noch, sie soll in einer Woche wiederkommen."
               ],
               "correctAnswer": "b",
-              "explanation": "Jonas sagt: 'Ich bin ja eher durch Zufall dazu gekommen — Marco hat mich letztes Jahr zu einem Lauftreff mitgenommen, und es hat mir sofort Spaß gemacht.' Option a klingt plausibel, aber Rückenprobleme erwähnt er nicht — das ist eine false-inference-Falle. Option c (Abnehmen, Trainingsplan) ist nicht im Gespräch. [Trap: false-inference (a)]",
+              "explanation": "Der Arzt sagt klar: 'Ihre Blutwerte sind in Ordnung' und schlägt regelmäßige Bewegung vor, bevor Medikamente zum Einsatz kommen. Option a ist eine causal-reversal-Falle — Medikamente werden abgelehnt, nicht empfohlen. Option c (Blutwerte fehlen noch) ist ein lexical false-friend-Fehler.",
               "audioTimestamp": 12
             },
             {
               "id": "B1_m12_L3_q2",
               "type": "mcq",
-              "questionText": "Was sagt Julia über ihre Schlafgewohnheiten?",
+              "questionText": "Wie beschreibt die Frau ihr Essensverhalten beim Intervallfasten?",
               "options": [
-                "a) Sie schläft seit einem Jahr immer vor 22 Uhr.",
-                "b) Sie versucht, früher ins Bett zu gehen, aber es klappt nicht immer.",
-                "c) Sie braucht weniger Schlaf als früher und fühlt sich trotzdem fit."
+                "a) Sie isst nur zwischen 12 und 20 Uhr und trinkt morgens ausschließlich Kaffee.",
+                "b) Sie isst einmal täglich gegen 13 Uhr und lässt den Rest des Tages weg.",
+                "c) Sie lässt jeden zweiten Tag das Abendessen weg."
               ],
-              "correctAnswer": "b",
-              "explanation": "Julia erklärt: 'Ich nehme mir immer vor, um 23 Uhr zu schlafen — klappt vielleicht drei Mal die Woche. Die anderen Abende sitz ich noch vor dem Laptop.' Option a ist eine time-frame-shift-Falle: 'seit einem Jahr immer' stimmt nicht — sie scheitert regelmäßig. Option c dreht es um: sie fühlt sich nicht immer fit. [Trap: time-frame shift (a)]",
-              "audioTimestamp": 48
+              "correctAnswer": "a",
+              "explanation": "Die Frau erklärt: 'Ich esse nur zwischen 12 und 20 Uhr, morgens gibt es nichts außer Kaffee.' Das beschreibt das 16:8-Modell präzise. Option b ist eine numerical near-miss-Falle — 13 Uhr statt 12 Uhr, und eine Mahlzeit statt eines Essensfensters. Option c (jeden zweiten Tag) entspricht einem anderen Fastenmodell.",
+              "audioTimestamp": 50
             },
             {
               "id": "B1_m12_L3_q3",
               "type": "mcq",
-              "questionText": "Was ist Jonas' Meinung zu Nahrungsergänzungsmitteln?",
+              "questionText": "Warum hat Tim kaum gefrühstückt?",
               "options": [
-                "a) Er nimmt täglich Proteinshakes und empfiehlt sie jedem.",
-                "b) Er hält nichts davon und glaubt, man bekommt alles aus der normalen Ernährung.",
-                "c) Er nimmt manchmal Vitamin D, findet aber, dass die meisten Präparate unnötig sind."
+                "a) Er hat gestern Abend zu viel gegessen und hat deshalb noch keinen Hunger.",
+                "b) Er ist zu spät aufgestanden und hatte keine Zeit mehr.",
+                "c) Er hat seit der Nacht Bauchschmerzen und möchte nichts essen."
               ],
               "correctAnswer": "c",
-              "explanation": "Jonas sagt: 'Ich nehme im Winter Vitamin D, weil man das bei uns wirklich kaum aus der Sonne bekommt. Aber sonst? Diese ganzen Supplements, die man im Fitnessstudio kaufen kann — meistens Geldverschwendung.' Option a ist eine generalisation-Falle (er nimmt nicht täglich Proteinshakes). Option b übertreibt seine Position. [Trap: generalisation (a)]",
-              "audioTimestamp": 82
+              "explanation": "Tim sagt: 'Mir ist nicht so gut. Ich habe seit heute Nacht Bauchschmerzen.' Option a ist eine causal-reversal-Falle — zu viel essen als Ursache für keinen Hunger wirkt plausibel, wird aber nie erwähnt. Option b (zu spät aufgestanden) ist eine generalisation/false-inference.",
+              "audioTimestamp": 88
             },
             {
               "id": "B1_m12_L3_q4",
               "type": "mcq",
-              "questionText": "Was haben Jonas und Julia für das nächste Wochenende geplant?",
+              "questionText": "Wo findet die Kundin die laktosefreie Milch im Supermarkt?",
               "options": [
-                "a) Sie gehen zusammen in ein Schwimmbad.",
-                "b) Sie nehmen an einem 5-km-Lauf teil.",
-                "c) Sie besuchen einen Kochkurs für gesunde Ernährung."
+                "a) Vorne beim Eingang, neben den normalen Milchprodukten.",
+                "b) Im hinteren Kühlregal, neben den Bio-Produkten.",
+                "c) An der Servicetheke — sie muss dort nachfragen."
               ],
               "correctAnswer": "b",
-              "explanation": "Am Ende des Gesprächs sagt Jonas: 'Also abgemacht — wir melden uns beide für den Stadtlauf an, 5 Kilometer, Sonntag um 10.' Julia antwortet: 'Deal.' Option a (Schwimmbad) wurde kurz erwähnt als Alternative, aber nicht vereinbart — das ist eine causal-reversal-Falle (erwähnt ≠ beschlossen). Option c wird nicht genannt. [Trap: causal reversal (a)]",
-              "audioTimestamp": 128
+              "explanation": "Der Mitarbeiter sagt: 'Die steht im hinteren Kühlregal, gleich neben den Bio-Produkten.' Option a ist eine preposition micro-trap — vorne/hinten-Verwechslung. Option c (Servicetheke) ist false-inference: Der Mitarbeiter gibt die Antwort direkt, ohne sie zu einer Theke zu schicken.",
+              "audioTimestamp": 124
             },
             {
               "id": "B1_m12_L3_q5",
               "type": "mcq",
-              "questionText": "Welches Problem nennt Julia in Bezug auf ihren Alltag?",
+              "questionText": "Was hat die Frau beim Kochkurs am Abend zuvor gelernt?",
               "options": [
-                "a) Sie hat zu wenig Geld, um sich gesund zu ernähren.",
-                "b) Ihr fehlt die Zeit, um regelmäßig Sport zu treiben.",
-                "c) Sie isst zu viel Zucker, weil sie es nicht lassen kann."
+                "a) Sie hat frischen Pastateig von Hand gemacht und eine Tomatensauce gekocht.",
+                "b) Sie hat asiatische Küche kennengelernt und Sushi gerollt.",
+                "c) Sie hat gelernt, wie man frisches Brot backt."
               ],
-              "correctAnswer": "b",
-              "explanation": "Julia sagt: 'Das Hauptproblem bei mir ist einfach die Zeit — zwischen Arbeit, Pendeln und dem ganzen Haushalt bleibt abends kaum Luft für Sport.' Option a (Geld) erwähnt sie nicht — das ist eine false-inference-Falle (gesundes Essen ≠ teures Essen). Option c beschreibt kein Problem, das sie nennt. [Trap: false-inference (a)]",
-              "audioTimestamp": 63
+              "correctAnswer": "a",
+              "explanation": "Die Frau berichtet: 'Wir haben frischen Pastateig von Hand gemacht — das hätte ich mir nie zugetraut. Und dazu eine Tomatensauce mit frischen Kräutern.' Option b ist eine time-frame-shift-Falle — asiatische Küche ist für nächste Woche geplant, nicht gestern. Option c (Brot backen) wird nie erwähnt.",
+              "audioTimestamp": 158
             }
           ]
         }
